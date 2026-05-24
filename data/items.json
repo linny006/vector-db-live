@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TeX",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:41:36Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "TeX",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:41:34Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control.",
+    "id": "kth3/Cortex-agents_infra",
+    "language": "Rust",
+    "name": "kth3/Cortex-agents_infra",
+    "stars": 2,
+    "updated_at": "2026-05-24T15:40:41Z",
+    "url": "https://github.com/kth3/Cortex-agents_infra"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:37:54Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1334,
+    "updated_at": "2026-05-24T15:33:40Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-24T15:30:18Z",
+    "updated_at": "2026-05-24T15:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/weksbwrx62862/omnimem"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:24:05Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
     "description": "Persistent, self-healing wiki for AI agents \u2014 dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti",
     "id": "giovannifrontera/ai-longterm-wiki-memory",
     "language": "Python",
@@ -43,42 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:24:39Z",
     "url": "https://github.com/giovannifrontera/ai-longterm-wiki-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TeX",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:12:11Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "TeX",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:12:09Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1333,
-    "updated_at": "2026-05-24T15:10:38Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Decentralized vector database on Bittensor \u2014 content-addressed semantic memory for AI",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "bigint/rag.computer",
     "stars": 90,
-    "updated_at": "2026-05-24T15:20:31Z",
+    "updated_at": "2026-05-24T15:36:25Z",
     "url": "https://github.com/bigint/rag.computer"
   },
   {
@@ -103,7 +112,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16232,
+    "stars": 16233,
     "updated_at": "2026-05-24T15:01:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -115,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-05-24T14:59:47Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control.",
-    "id": "kth3/Cortex-agents_infra",
-    "language": "Rust",
-    "name": "kth3/Cortex-agents_infra",
-    "stars": 2,
-    "updated_at": "2026-05-24T14:57:52Z",
-    "url": "https://github.com/kth3/Cortex-agents_infra"
   },
   {
     "description": "Learn AI by Rajul Babel - free interactive guide. Covers Model Internals, Neural Networks, Transformers, Attention, RAG,",

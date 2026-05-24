@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 15:30 UTC
+> ⏰ Last updated: 2026-05-24 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | 1874 | Python | 2026-05-24 | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials |
-| 3 | [weksbwrx62862/omnimem](https://github.com/weksbwrx62862/omnimem) | 0 | Python | 2026-05-24 | Five-layer cognitive memory engine for AI Agents - perception to internalization with hybrid retrieval, forgetting curve |
+| 1 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | TeX | 2026-05-24 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
+| 2 | [nishan-paul-2022/cmatrix-agentic-red-team](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team) | 1 | TeX | 2026-05-24 | 🔴 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode |
+| 3 | [kth3/Cortex-agents_infra](https://github.com/kth3/Cortex-agents_infra) | 2 | Rust | 2026-05-24 | The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control. |
 | 4 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 1 | Rust | 2026-05-24 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
-| 5 | [giovannifrontera/ai-longterm-wiki-memory](https://github.com/giovannifrontera/ai-longterm-wiki-memory) | 0 | Python | 2026-05-24 | Persistent, self-healing wiki for AI agents — dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti |
+| 5 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1334 | Python | 2026-05-24 | Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear |
 | 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | TeX | 2026-05-24 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
-| 8 | [nishan-paul-2022/cmatrix-agentic-red-team](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team) | 1 | TeX | 2026-05-24 | 🔴 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode |
-| 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1333 | Python | 2026-05-24 | Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear |
-| 10 | [Dipraise1/Engram](https://github.com/Dipraise1/Engram) | 12 | Python | 2026-05-24 | Decentralized vector database on Bittensor — content-addressed semantic memory for AI |
-| 11 | [bigint/rag.computer](https://github.com/bigint/rag.computer) | 90 | Python | 2026-05-24 | Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API |
-| 12 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16232 | Go | 2026-05-24 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 13 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 7 | TypeScript | 2026-05-24 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and Ollama. Turns your entire workspace int |
-| 14 | [kth3/Cortex-agents_infra](https://github.com/kth3/Cortex-agents_infra) | 2 | Rust | 2026-05-24 | The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control. |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | 1874 | Python | 2026-05-24 | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials |
+| 9 | [weksbwrx62862/omnimem](https://github.com/weksbwrx62862/omnimem) | 0 | Python | 2026-05-24 | Five-layer cognitive memory engine for AI Agents - perception to internalization with hybrid retrieval, forgetting curve |
+| 10 | [giovannifrontera/ai-longterm-wiki-memory](https://github.com/giovannifrontera/ai-longterm-wiki-memory) | 0 | Python | 2026-05-24 | Persistent, self-healing wiki for AI agents — dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti |
+| 11 | [Dipraise1/Engram](https://github.com/Dipraise1/Engram) | 12 | Python | 2026-05-24 | Decentralized vector database on Bittensor — content-addressed semantic memory for AI |
+| 12 | [bigint/rag.computer](https://github.com/bigint/rag.computer) | 90 | Python | 2026-05-24 | Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API |
+| 13 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16233 | Go | 2026-05-24 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 14 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 7 | TypeScript | 2026-05-24 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and Ollama. Turns your entire workspace int |
 | 15 | [rajulbabel/learn-ai](https://github.com/rajulbabel/learn-ai) | 0 | JavaScript | 2026-05-24 | Learn AI by Rajul Babel - free interactive guide. Covers Model Internals, Neural Networks, Transformers, Attention, RAG, |
 | 16 | [ChrisGVE/workspace-qdrant-mcp](https://github.com/ChrisGVE/workspace-qdrant-mcp) | 1 | Rust | 2026-05-24 | Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant- |
 | 17 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-05-24 | AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with |
