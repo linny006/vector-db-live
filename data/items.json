@@ -1,21 +1,30 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
     "stars": 1874,
-    "updated_at": "2026-05-24T15:14:57Z",
+    "updated_at": "2026-05-24T15:26:32Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Five-layer cognitive memory engine for AI Agents - perception to internalization with hybrid retrieval, forgetting curve",
+    "id": "weksbwrx62862/omnimem",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "weksbwrx62862/omnimem",
     "stars": 0,
-    "updated_at": "2026-05-24T15:14:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-05-24T15:25:46Z",
+    "url": "https://github.com/weksbwrx62862/omnimem"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -23,8 +32,26 @@
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
     "stars": 1,
-    "updated_at": "2026-05-24T15:13:07Z",
+    "updated_at": "2026-05-24T15:24:05Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Persistent, self-healing wiki for AI agents \u2014 dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti",
+    "id": "giovannifrontera/ai-longterm-wiki-memory",
+    "language": "Python",
+    "name": "giovannifrontera/ai-longterm-wiki-memory",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:24:39Z",
+    "url": "https://github.com/giovannifrontera/ai-longterm-wiki-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -45,13 +72,13 @@
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:11:06Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1333,
+    "updated_at": "2026-05-24T15:10:38Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Decentralized vector database on Bittensor \u2014 content-addressed semantic memory for AI",
@@ -61,6 +88,24 @@
     "stars": 12,
     "updated_at": "2026-05-24T15:06:39Z",
     "url": "https://github.com/Dipraise1/Engram"
+  },
+  {
+    "description": "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API",
+    "id": "bigint/rag.computer",
+    "language": "Python",
+    "name": "bigint/rag.computer",
+    "stars": 90,
+    "updated_at": "2026-05-24T15:20:31Z",
+    "url": "https://github.com/bigint/rag.computer"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16232,
+    "updated_at": "2026-05-24T15:01:56Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and Ollama. Turns your entire workspace int",
@@ -90,15 +135,6 @@
     "url": "https://github.com/rajulbabel/learn-ai"
   },
   {
-    "description": "Persistent, self-healing wiki for AI agents \u2014 dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti",
-    "id": "giovannifrontera/ai-longterm-wiki-memory",
-    "language": "Python",
-    "name": "giovannifrontera/ai-longterm-wiki-memory",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:57:26Z",
-    "url": "https://github.com/giovannifrontera/ai-longterm-wiki-memory"
-  },
-  {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
     "id": "ChrisGVE/workspace-qdrant-mcp",
     "language": "Rust",
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-05-24T14:51:33Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1332,
-    "updated_at": "2026-05-24T15:10:38Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Production RAG system in Python: Haystack pipelines, FastAPI SSE streaming, Qdrant hybrid retrieval, OpenAI embeddings, ",
@@ -378,15 +405,6 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API",
-    "id": "bigint/rag.computer",
-    "language": "Python",
-    "name": "bigint/rag.computer",
-    "stars": 89,
-    "updated_at": "2026-05-24T15:02:29Z",
-    "url": "https://github.com/bigint/rag.computer"
-  },
-  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:17:17Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:16:40Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:16:02Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
