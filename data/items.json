@@ -1,5 +1,32 @@
 [
   {
+    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 qu",
+    "id": "ather-techie/rag-interview-questions",
+    "language": "\u2014",
+    "name": "ather-techie/rag-interview-questions",
+    "stars": 14,
+    "updated_at": "2026-05-24T15:53:27Z",
+    "url": "https://github.com/ather-techie/rag-interview-questions"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TeX",
@@ -43,24 +70,6 @@
     "stars": 1334,
     "updated_at": "2026-05-24T15:33:40Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:28:25Z",
     "url": "https://github.com/abhijayrajvansh/ai-chatbot"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:17:17Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
