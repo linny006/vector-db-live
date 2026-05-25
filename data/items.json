@@ -1,12 +1,48 @@
 [
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-05-25T16:58:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 671,
+    "updated_at": "2026-05-25T17:14:23Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey.",
+    "id": "PatrickLaabs/ai-knowledgebase",
+    "language": "Go",
+    "name": "PatrickLaabs/ai-knowledgebase",
+    "stars": 2,
+    "updated_at": "2026-05-25T17:12:21Z",
+    "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-05-25T17:12:13Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6144,
+    "updated_at": "2026-05-25T17:10:51Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
+    "id": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "language": "Java",
+    "name": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:06:14Z",
+    "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
   },
   {
     "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
@@ -14,8 +50,35 @@
     "language": "Go",
     "name": "nram-ai/nram",
     "stars": 2,
-    "updated_at": "2026-05-25T16:57:58Z",
+    "updated_at": "2026-05-25T17:05:24Z",
     "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-25T16:58:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the ",
@@ -32,17 +95,8 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 0,
-    "updated_at": "2026-05-25T16:59:24Z",
+    "updated_at": "2026-05-25T17:08:39Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
-    "id": "Backend-Lab-SR/hyperclarity-rag-platform",
-    "language": "Java",
-    "name": "Backend-Lab-SR/hyperclarity-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:49:38Z",
-    "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
   },
   {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1336,
-    "updated_at": "2026-05-25T16:58:50Z",
+    "updated_at": "2026-05-25T17:05:17Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T16:48:49Z",
     "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-05-25T16:42:38Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-05-25T16:42:36Z",
-    "url": "https://github.com/iksnerd/code-nexus"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -178,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:21:15Z",
     "url": "https://github.com/Ryomensukuna2003/ragstack"
-  },
-  {
-    "description": "AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey.",
-    "id": "PatrickLaabs/ai-knowledgebase",
-    "language": "Go",
-    "name": "PatrickLaabs/ai-knowledgebase",
-    "stars": 2,
-    "updated_at": "2026-05-25T16:20:10Z",
-    "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6144,
-    "updated_at": "2026-05-25T16:58:53Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:31:02Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:31:02Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
   }
 ]
