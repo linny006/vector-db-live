@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Experimental LLM-native memory-kernel prototype for persistent agent memory in quantized KV-cache latent space.",
+    "id": "Eldriss-Studio/tardigrade-db",
+    "language": "Python",
+    "name": "Eldriss-Studio/tardigrade-db",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:45:03Z",
+    "url": "https://github.com/Eldriss-Studio/tardigrade-db"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 116,
+    "updated_at": "2026-05-25T21:40:04Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-05-25T21:39:37Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 4,
+    "updated_at": "2026-05-25T21:35:53Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44451,
-    "updated_at": "2026-05-25T21:32:36Z",
+    "updated_at": "2026-05-25T21:36:32Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-25T21:30:23Z",
+    "updated_at": "2026-05-25T21:34:00Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -63,15 +99,6 @@
     "url": "https://github.com/cdgutierrez6/rag-ai-assistant"
   },
   {
-    "description": "Experimental LLM-native memory-kernel prototype for persistent agent memory in quantized KV-cache latent space.",
-    "id": "Eldriss-Studio/tardigrade-db",
-    "language": "Python",
-    "name": "Eldriss-Studio/tardigrade-db",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:15:59Z",
-    "url": "https://github.com/Eldriss-Studio/tardigrade-db"
-  },
-  {
     "description": "A python library for efficient KNN search within metric spaces using multiple distance functions.",
     "id": "pablocael/pynear",
     "language": "C++",
@@ -99,15 +126,6 @@
     "url": "https://github.com/rao-studios/Totem"
   },
   {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 9,
-    "updated_at": "2026-05-25T21:11:06Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31585,
-    "updated_at": "2026-05-25T21:25:14Z",
+    "updated_at": "2026-05-25T21:38:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:05:24Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:04:58Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:03:59Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
