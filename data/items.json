@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-25T12:30:24Z",
+    "updated_at": "2026-05-25T12:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
+    "id": "amikumar91/ai-systems-engineering",
+    "language": "JavaScript",
+    "name": "amikumar91/ai-systems-engineering",
+    "stars": 2,
+    "updated_at": "2026-05-25T12:44:28Z",
+    "url": "https://github.com/amikumar91/ai-systems-engineering"
+  },
+  {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-05-25T12:44:21Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:43:35Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey.",
+    "id": "PatrickLaabs/ai-knowledgebase",
+    "language": "JavaScript",
+    "name": "PatrickLaabs/ai-knowledgebase",
+    "stars": 2,
+    "updated_at": "2026-05-25T12:37:23Z",
+    "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
   },
   {
     "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
@@ -14,8 +50,17 @@
     "language": "TypeScript",
     "name": "chrisleekr/langchain-playground",
     "stars": 5,
-    "updated_at": "2026-05-25T12:30:24Z",
+    "updated_at": "2026-05-25T12:36:43Z",
     "url": "https://github.com/chrisleekr/langchain-playground"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:16:35Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -176,7 +212,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6143,
-    "updated_at": "2026-05-25T12:29:43Z",
+    "updated_at": "2026-05-25T12:44:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16237,
-    "updated_at": "2026-05-25T11:59:06Z",
+    "updated_at": "2026-05-25T12:44:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 895,
-    "updated_at": "2026-05-25T12:29:35Z",
+    "updated_at": "2026-05-25T12:38:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T11:53:40Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
-    "id": "Sandeep-singh-99/langchain-and-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "Sandeep-singh-99/langchain-and-langgraph",
-    "stars": 2,
-    "updated_at": "2026-05-25T11:53:34Z",
-    "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:53:19Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "AI + Data, online. https://vespa.ai",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6925,
-    "updated_at": "2026-05-25T11:53:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-25T11:51:39Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
