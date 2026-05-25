@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 1,
-    "updated_at": "2026-05-25T08:14:58Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
+    "description": "AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey.",
+    "id": "PatrickLaabs/ai-knowledgebase",
+    "language": "HTML",
+    "name": "PatrickLaabs/ai-knowledgebase",
+    "stars": 2,
+    "updated_at": "2026-05-25T08:25:06Z",
+    "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
   },
   {
     "description": "AI-powered tenant rights advisor for Pennsylvania renters. RAG pipeline over real housing statutes \u2014 gives plain-languag",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "erinjykim/tenantiq",
     "stars": 0,
-    "updated_at": "2026-05-25T08:12:11Z",
+    "updated_at": "2026-05-25T08:25:05Z",
     "url": "https://github.com/erinjykim/tenantiq"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 1,
+    "updated_at": "2026-05-25T08:23:18Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16235,
+    "updated_at": "2026-05-25T08:23:46Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:21:42Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra",
+    "id": "Neboy72/hermes-nexus-memory",
+    "language": "Python",
+    "name": "Neboy72/hermes-nexus-memory",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:28:45Z",
+    "url": "https://github.com/Neboy72/hermes-nexus-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
     "id": "dgbac5672/LogN_DB-Core",
     "language": "C++",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T08:00:23Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-25T07:54:20Z",
+    "updated_at": "2026-05-25T08:29:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   },
   {
-    "description": "AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey.",
-    "id": "PatrickLaabs/ai-knowledgebase",
-    "language": "HTML",
-    "name": "PatrickLaabs/ai-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-05-25T07:38:51Z",
-    "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
-  },
-  {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
     "id": "pencaudal526/system-design-bible",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:35:37Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-25T07:35:24Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:35:18Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 7,
-    "updated_at": "2026-05-25T07:35:13Z",
-    "url": "https://github.com/lancedb/docs"
   }
 ]
