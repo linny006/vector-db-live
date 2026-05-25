@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 16:30 UTC
+> ⏰ Last updated: 2026-05-25 16:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-05-25 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 3 | [weaviate/docs](https://github.com/weaviate/docs) | 19 | Python | 2026-05-25 | The documentation repo for Weaviate Database, Cloud, Agents and much more! |
-| 4 | [FireFistisDead/pdf-qa-bot](https://github.com/FireFistisDead/pdf-qa-bot) | 11 | JavaScript | 2026-05-25 | A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont |
-| 5 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-05-25 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC |
-| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-05-25 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 7 | [Fieldnote-Echo/ordvec](https://github.com/Fieldnote-Echo/ordvec) | 0 | Rust | 2026-05-25 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
-| 8 | [Neboy72/hermes-nexus-memory](https://github.com/Neboy72/hermes-nexus-memory) | 0 | Python | 2026-05-25 | AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra |
-| 9 | [Ryomensukuna2003/ragstack](https://github.com/Ryomensukuna2003/ragstack) | 0 | JavaScript | 2026-05-25 | Upload document or something and you can talk about that thing with AI.  |
-| 10 | [PatrickLaabs/ai-knowledgebase](https://github.com/PatrickLaabs/ai-knowledgebase) | 2 | Go | 2026-05-25 | AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey. |
-| 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6144 | C | 2026-05-25 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 12 | [Ashutosh3021/TazaKhabar](https://github.com/Ashutosh3021/TazaKhabar) | 1 | Python | 2026-05-25 | Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat |
-| 13 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-05-25 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 4 | [weaviate/docs](https://github.com/weaviate/docs) | 19 | Python | 2026-05-25 | The documentation repo for Weaviate Database, Cloud, Agents and much more! |
+| 5 | [FireFistisDead/pdf-qa-bot](https://github.com/FireFistisDead/pdf-qa-bot) | 11 | JavaScript | 2026-05-25 | A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont |
+| 6 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-05-25 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC |
+| 7 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-05-25 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 8 | [Fieldnote-Echo/ordvec](https://github.com/Fieldnote-Echo/ordvec) | 0 | Rust | 2026-05-25 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
+| 9 | [Neboy72/hermes-nexus-memory](https://github.com/Neboy72/hermes-nexus-memory) | 0 | Python | 2026-05-25 | AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra |
+| 10 | [Ryomensukuna2003/ragstack](https://github.com/Ryomensukuna2003/ragstack) | 0 | JavaScript | 2026-05-25 | Upload document or something and you can talk about that thing with AI.  |
+| 11 | [PatrickLaabs/ai-knowledgebase](https://github.com/PatrickLaabs/ai-knowledgebase) | 2 | Go | 2026-05-25 | AI Note taking tool. Using LLM and Embedding Models, PSQL with vector and valkey. |
+| 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6144 | C | 2026-05-25 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 13 | [Ashutosh3021/TazaKhabar](https://github.com/Ashutosh3021/TazaKhabar) | 1 | Python | 2026-05-25 | Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat |
 | 14 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6926 | Java | 2026-05-25 | AI + Data, online. https://vespa.ai |
 | 15 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 116 | C# | 2026-05-25 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
 | 16 | [vibieprince/CourseMate-AI](https://github.com/vibieprince/CourseMate-AI) | 0 | HTML | 2026-05-25 |  |
