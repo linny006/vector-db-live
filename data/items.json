@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TeX",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:11:36Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "TeX",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 1,
+    "updated_at": "2026-05-25T09:11:32Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16236,
+    "updated_at": "2026-05-25T09:11:21Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:07:29Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6143,
+    "updated_at": "2026-05-25T09:13:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,13 +72,13 @@
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6143,
-    "updated_at": "2026-05-25T08:58:05Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31581,
+    "updated_at": "2026-05-25T09:00:02Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI + Data, online. https://vespa.ai",
@@ -32,7 +86,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6925,
-    "updated_at": "2026-05-25T08:59:31Z",
+    "updated_at": "2026-05-25T09:04:13Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-05-25T08:53:02Z",
     "url": "https://github.com/PatrickLaabs/ai-knowledgebase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16235,
-    "updated_at": "2026-05-25T08:47:13Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -126,15 +162,6 @@
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31580,
-    "updated_at": "2026-05-25T09:00:02Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
     "id": "FireFistisDead/pdf-qa-bot",
     "language": "JavaScript",
@@ -151,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-05-25T08:06:30Z",
     "url": "https://github.com/shannonxu-2018/PistaDB"
-  },
-  {
-    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
-    "id": "fik93673/QueryMind-SQL",
-    "language": "TypeScript",
-    "name": "fik93673/QueryMind-SQL",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:05:14Z",
-    "url": "https://github.com/fik93673/QueryMind-SQL"
   },
   {
     "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T07:43:04Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 1,
-    "updated_at": "2026-05-25T07:42:14Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:41:48Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
