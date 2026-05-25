@@ -1,11 +1,83 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-25T16:58:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 2,
+    "updated_at": "2026-05-25T16:57:58Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the ",
+    "id": "SkywalkerDarren/chatWeb",
+    "language": "Python",
+    "name": "SkywalkerDarren/chatWeb",
+    "stars": 912,
+    "updated_at": "2026-05-25T16:56:25Z",
+    "url": "https://github.com/SkywalkerDarren/chatWeb"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:59:24Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
+    "id": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "language": "Java",
+    "name": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:49:38Z",
+    "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
+  },
+  {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1336,
+    "updated_at": "2026-05-25T16:58:50Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
+    "id": "leekkk2/transcendence-memory-server",
+    "language": "Python",
+    "name": "leekkk2/transcendence-memory-server",
+    "stars": 1,
+    "updated_at": "2026-05-25T16:48:49Z",
+    "url": "https://github.com/leekkk2/transcendence-memory-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-25T16:45:18Z",
+    "updated_at": "2026-05-25T17:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -50,17 +122,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31584,
-    "updated_at": "2026-05-25T16:38:34Z",
+    "updated_at": "2026-05-25T16:53:20Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-05-25T16:34:33Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "The platform is designed to be a robust, scalable service with a pluggable architecture, allowing it to use different ba",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:33:35Z",
     "url": "https://github.com/IgnazioDS/NexusRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:31:55Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:24:01Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:39:47Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
     "description": "AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra",
@@ -149,7 +194,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6144,
-    "updated_at": "2026-05-25T16:39:51Z",
+    "updated_at": "2026-05-25T16:58:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:31:02Z",
     "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:30:36Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:29:18Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:29:16Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:27:28Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:27:02Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
