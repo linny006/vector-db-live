@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:30:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +16,33 @@
     "stars": 0,
     "updated_at": "2026-05-26T14:30:35Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57747,
+    "updated_at": "2026-05-26T14:30:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1934,
+    "updated_at": "2026-05-26T14:29:08Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 350,
+    "updated_at": "2026-05-26T14:28:29Z",
+    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "Production-ready RAG + AI Agent platform \u2014 FastAPI \u00b7 LangGraph \u00b7 OpenRouter \u00b7 ChromaDB \u00b7 Redis \u00b7 Celery \u00b7 OCR",
@@ -27,13 +63,40 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
     "stars": 0,
-    "updated_at": "2026-05-26T14:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-05-26T14:13:03Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
+    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "language": "TypeScript",
+    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:11:23Z",
+    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
+  },
+  {
+    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
+    "id": "Monkish-jewishryebread665/NodeMind",
+    "language": "HTML",
+    "name": "Monkish-jewishryebread665/NodeMind",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:10:02Z",
+    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:09:25Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -43,6 +106,24 @@
     "stars": 0,
     "updated_at": "2026-05-26T14:08:46Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
+    "id": "dgbac5672/LogN_DB-Core",
+    "language": "C++",
+    "name": "dgbac5672/LogN_DB-Core",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:08:20Z",
+    "url": "https://github.com/dgbac5672/LogN_DB-Core"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 0,
+    "updated_at": "2026-05-26T14:08:10Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   },
   {
     "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
@@ -275,7 +356,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 750,
-    "updated_at": "2026-05-26T13:49:52Z",
+    "updated_at": "2026-05-26T14:40:15Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -293,7 +374,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4391,
-    "updated_at": "2026-05-26T14:18:49Z",
+    "updated_at": "2026-05-26T14:34:53Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -338,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31579,
-    "updated_at": "2026-05-26T14:24:54Z",
+    "updated_at": "2026-05-26T14:37:03Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-26T13:44:23Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:44:16Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:44:04Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:43:39Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:43:01Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:42:40Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Shazam-inspired music recognition system \u2014 FAISS vector search + spectral fingerprinting, with CLAP/MuQ embeddings, Fast",
-    "id": "thmsgo18/Shazam",
-    "language": "Python",
-    "name": "thmsgo18/Shazam",
-    "stars": 6,
-    "updated_at": "2026-05-26T13:42:34Z",
-    "url": "https://github.com/thmsgo18/Shazam"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:42:18Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:41:55Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 0,
-    "updated_at": "2026-05-26T13:41:44Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
