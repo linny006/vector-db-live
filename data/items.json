@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI infrastructure scanner: 120 fingerprints + 50 deep enumerators for LLM runtimes, vector databases, ML model servers, ",
+    "id": "Nicholas-Kloster/aimap",
+    "language": "Go",
+    "name": "Nicholas-Kloster/aimap",
+    "stars": 3,
+    "updated_at": "2026-05-26T03:41:36Z",
+    "url": "https://github.com/Nicholas-Kloster/aimap"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-26T03:29:23Z",
+    "updated_at": "2026-05-26T03:30:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -18,21 +36,12 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
     "id": "Open-Source-Legal/cite",
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1337,
-    "updated_at": "2026-05-26T03:13:41Z",
+    "updated_at": "2026-05-26T03:32:41Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -292,7 +301,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44455,
+    "stars": 44454,
     "updated_at": "2026-05-26T02:50:33Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:41:30Z",
     "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:41:03Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
