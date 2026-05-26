@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 03:29 UTC
+> ⏰ Last updated: 2026-05-26 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9698 | C++ | 2026-05-26 | A lightweight, lightning-fast, in-process vector database |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9698 | C++ | 2026-05-26 | A lightweight, lightning-fast, in-process vector database |
 | 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 4 | [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) | 1337 | Python | 2026-05-26 | Ground truth layer for humans and AI agents working together. Version control for knowledge.  |
 | 5 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 0 | TypeScript | 2026-05-26 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
