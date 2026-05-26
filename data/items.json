@@ -1,5 +1,86 @@
 [
   {
+    "description": "Production-grade Modern Data Stack (MDS) pipeline built with Prefect, dbt, and Postgres. Features least-privilege DB har",
+    "id": "Brightpmk/olist-ecommerce-platform",
+    "language": "Jupyter Notebook",
+    "name": "Brightpmk/olist-ecommerce-platform",
+    "stars": 1,
+    "updated_at": "2026-05-26T17:25:54Z",
+    "url": "https://github.com/Brightpmk/olist-ecommerce-platform"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1934,
+    "updated_at": "2026-05-26T17:24:10Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra",
+    "id": "Neboy72/hermes-nexus-memory",
+    "language": "Python",
+    "name": "Neboy72/hermes-nexus-memory",
+    "stars": 1,
+    "updated_at": "2026-05-26T17:18:42Z",
+    "url": "https://github.com/Neboy72/hermes-nexus-memory"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:18:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:18:33Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:15:50Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
+    "id": "Tibab222/cvMaker",
+    "language": "TypeScript",
+    "name": "Tibab222/cvMaker",
+    "stars": 1,
+    "updated_at": "2026-05-26T17:15:57Z",
+    "url": "https://github.com/Tibab222/cvMaker"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:15:43Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T17:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-05-26T17:14:22Z",
+    "updated_at": "2026-05-26T17:24:20Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 181,
     "updated_at": "2026-05-26T17:13:37Z",
     "url": "https://github.com/XortexAI/XMem"
-  },
-  {
-    "description": "High-performance distributed vector database with high-dimensional vector support",
-    "id": "JonathanBerhe/gvdb",
-    "language": "C++",
-    "name": "JonathanBerhe/gvdb",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:14:35Z",
-    "url": "https://github.com/JonathanBerhe/gvdb"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -243,15 +315,6 @@
     "url": "https://github.com/Ac3v3d0/semafold"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -351,15 +414,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:13:16Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
     "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
     "id": "whiteoakredguard557/llmfs",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T16:47:39Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 3,
-    "updated_at": "2026-05-26T16:47:03Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Production-ready RAG + AI Agent platform. Hybrid retrieval (dense + BM25 + RRF), multi-step ReAct agents with LangGraph,",
-    "id": "SeydinaBANE/rag-agent",
-    "language": "Python",
-    "name": "SeydinaBANE/rag-agent",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:46:27Z",
-    "url": "https://github.com/SeydinaBANE/rag-agent"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:45:43Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-26T16:45:37Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:45:24Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:45:19Z",
-    "url": "https://github.com/mad011408/IndexCache"
   }
 ]
