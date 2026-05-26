@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra",
+    "id": "Neboy72/hermes-nexus-memory",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Neboy72/hermes-nexus-memory",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:27:44Z",
+    "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +14,26 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-05-26T18:13:02Z",
+    "updated_at": "2026-05-26T18:23:49Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1426,
+    "updated_at": "2026-05-26T18:23:42Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Asistente IA con RAG (Retrieval Augmented Generation) usando Claude API, LangChain y pgvector \u2014 arquitectura lista para ",
+    "id": "cdgutierrez6/rag-ai-assistant",
+    "language": "Python",
+    "name": "cdgutierrez6/rag-ai-assistant",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:22:56Z",
+    "url": "https://github.com/cdgutierrez6/rag-ai-assistant"
   },
   {
     "description": "Orchestrate intelligent multi-agent swarms that actually work. Deploy autonomous workflows and conversational AI systems",
@@ -23,8 +41,44 @@
     "language": "TypeScript",
     "name": "derricke/neuralswarm",
     "stars": 0,
-    "updated_at": "2026-05-26T18:04:25Z",
+    "updated_at": "2026-05-26T18:17:57Z",
     "url": "https://github.com/derricke/neuralswarm"
+  },
+  {
+    "description": "Vector-based behavioral analysis of DShield honeypot logs.",
+    "id": "tonysperez/dshield_prism",
+    "language": "Python",
+    "name": "tonysperez/dshield_prism",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:17:23Z",
+    "url": "https://github.com/tonysperez/dshield_prism"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-26T18:16:20Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A local-first knowledge engine and RAG infrastructure powered by Rust, featuring MCP support, hybrid search (BM25 + Vect",
@@ -36,24 +90,6 @@
     "url": "https://github.com/gleean/glean"
   },
   {
-    "description": "Asistente IA con RAG (Retrieval Augmented Generation) usando Claude API, LangChain y pgvector \u2014 arquitectura lista para ",
-    "id": "cdgutierrez6/rag-ai-assistant",
-    "language": "Python",
-    "name": "cdgutierrez6/rag-ai-assistant",
-    "stars": 1,
-    "updated_at": "2026-05-26T18:02:17Z",
-    "url": "https://github.com/cdgutierrez6/rag-ai-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -61,15 +97,6 @@
     "stars": 31581,
     "updated_at": "2026-05-26T18:08:56Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-05-26T18:14:22Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Production-grade Modern Data Stack (MDS) pipeline built with Prefect, dbt, and Postgres. Features least-privilege DB har",
@@ -153,15 +180,6 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "AI agent memory with hybrid BM25+vector retrieval, belief drift detection, and RAG anti-poisoning. Production-grade Qdra",
-    "id": "Neboy72/hermes-nexus-memory",
-    "language": "Python",
-    "name": "Neboy72/hermes-nexus-memory",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:18:42Z",
-    "url": "https://github.com/Neboy72/hermes-nexus-memory"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -202,7 +220,7 @@
     "id": "Fieldnote-Echo/ordvec",
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-05-26T17:15:43Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:59:08Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:58:19Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:56:54Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
