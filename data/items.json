@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-26T17:30:23Z",
+    "updated_at": "2026-05-26T17:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 270,
+    "updated_at": "2026-05-26T17:44:03Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-26T17:41:33Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 350,
+    "updated_at": "2026-05-26T17:36:33Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Production-grade Modern Data Stack (MDS) pipeline built with Prefect, dbt, and Postgres. Features least-privilege DB har",
+    "id": "Brightpmk/olist-ecommerce-platform",
+    "language": "Jupyter Notebook",
+    "name": "Brightpmk/olist-ecommerce-platform",
+    "stars": 1,
+    "updated_at": "2026-05-26T17:35:15Z",
+    "url": "https://github.com/Brightpmk/olist-ecommerce-platform"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,7 +50,7 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-05-26T17:27:21Z",
+    "updated_at": "2026-05-26T17:32:39Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-26T17:26:24Z",
+    "updated_at": "2026-05-26T17:30:29Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-grade Modern Data Stack (MDS) pipeline built with Prefect, dbt, and Postgres. Features least-privilege DB har",
-    "id": "Brightpmk/olist-ecommerce-platform",
-    "language": "Jupyter Notebook",
-    "name": "Brightpmk/olist-ecommerce-platform",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:25:54Z",
-    "url": "https://github.com/Brightpmk/olist-ecommerce-platform"
   },
   {
     "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Rippledirham767/LongParser"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-05-26T17:29:44Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
     "id": "viviannenitrogenous100/mentedb",
     "language": "\u2014",
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31580,
-    "updated_at": "2026-05-26T17:06:31Z",
+    "updated_at": "2026-05-26T17:30:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:49:39Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-26T16:49:30Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-26T16:47:39Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
