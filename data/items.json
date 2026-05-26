@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-26T10:15:24Z",
+    "updated_at": "2026-05-26T10:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-05-26T10:23:34Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
     "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
@@ -14,16 +23,25 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1934,
-    "updated_at": "2026-05-26T10:11:01Z",
+    "updated_at": "2026-05-26T10:23:02Z",
     "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
-    "stars": 6145,
-    "updated_at": "2026-05-26T10:10:01Z",
+    "stars": 6146,
+    "updated_at": "2026-05-26T10:28:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T10:02:17Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-26T10:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -117,6 +126,15 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9299,
+    "updated_at": "2026-05-26T09:55:54Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -140,7 +158,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4391,
-    "updated_at": "2026-05-26T10:00:20Z",
+    "updated_at": "2026-05-26T10:15:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31576,
-    "updated_at": "2026-05-26T09:51:03Z",
+    "updated_at": "2026-05-26T10:29:16Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 898,
-    "updated_at": "2026-05-26T10:15:22Z",
+    "updated_at": "2026-05-26T10:27:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -418,7 +436,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 50,
+    "stars": 51,
     "updated_at": "2026-05-26T09:38:31Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -430,23 +448,5 @@
     "stars": 6926,
     "updated_at": "2026-05-26T10:15:15Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 0,
-    "updated_at": "2026-05-26T09:37:13Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T09:37:03Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
