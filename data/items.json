@@ -1,12 +1,39 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-05-27T11:14:03Z",
+    "updated_at": "2026-05-27T11:27:47Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI + Data, online. https://vespa.ai",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6926,
+    "updated_at": "2026-05-27T11:25:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "VectorDB Context tool for claude code",
+    "id": "e-reitbauer/granum",
+    "language": "Python",
+    "name": "e-reitbauer/granum",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:18:42Z",
+    "url": "https://github.com/e-reitbauer/granum"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-27T11:00:30Z",
+    "updated_at": "2026-05-27T11:15:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "RAG-based PDF Question Answering System using OpenAI embeddings and vector databases.",
+    "id": "abhishek-full-stack/rag-pdf-assistant",
+    "language": "\u2014",
+    "name": "abhishek-full-stack/rag-pdf-assistant",
     "stars": 0,
-    "updated_at": "2026-05-27T11:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-05-27T11:10:26Z",
+    "url": "https://github.com/abhishek-full-stack/rag-pdf-assistant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -68,17 +95,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31594,
-    "updated_at": "2026-05-27T11:15:11Z",
+    "updated_at": "2026-05-27T11:30:07Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI + Data, online. https://vespa.ai",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6926,
-    "updated_at": "2026-05-27T11:02:43Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:44:44Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcb0 Enable autonomous cryptocurrency payments on Solana with LangChain ZendFi, ensuring security and fee management for AI",
-    "id": "CODINGIDK11/langchain-agent-pay",
-    "language": "Python",
-    "name": "CODINGIDK11/langchain-agent-pay",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:43:55Z",
-    "url": "https://github.com/CODINGIDK11/langchain-agent-pay"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and analyze biotech research, companies, and funding with our advanced machine learning platform for enhanced",
-    "id": "iamthegoatgojo1505/biotech-intel",
-    "language": "Python",
-    "name": "iamthegoatgojo1505/biotech-intel",
-    "stars": 2,
-    "updated_at": "2026-05-27T09:43:38Z",
-    "url": "https://github.com/iamthegoatgojo1505/biotech-intel"
   }
 ]
