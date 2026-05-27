@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T15:45:27Z",
+    "updated_at": "2026-05-27T16:00:34Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Pipeline RAG industrialis\u00e9 \u2014 hybrid search, reranking, multi-tenancy, RAGAS eval, A/B testing, LangFuse, AWS CDK",
+    "id": "SeydinaBANE/rag-pipeline-demo",
+    "language": "Python",
+    "name": "SeydinaBANE/rag-pipeline-demo",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:57:57Z",
+    "url": "https://github.com/SeydinaBANE/rag-pipeline-demo"
   },
   {
     "description": "Xmem is a India's First open source multi-modal, multi-agentic long\u2011term memory layer for AI agents. ",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "XortexAI/XMem",
     "stars": 184,
-    "updated_at": "2026-05-27T15:36:02Z",
+    "updated_at": "2026-05-27T15:51:26Z",
     "url": "https://github.com/XortexAI/XMem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 4376,
+    "updated_at": "2026-05-27T15:37:40Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -25,15 +52,6 @@
     "stars": 2741,
     "updated_at": "2026-05-27T15:32:44Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:30:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T15:26:22Z",
     "url": "https://github.com/NuelLogics/ai-sales-knowledge-assistant"
-  },
-  {
-    "description": "Pipeline RAG industrialis\u00e9 \u2014 hybrid search, reranking, multi-tenancy, RAGAS eval, A/B testing, LangFuse, AWS CDK",
-    "id": "SeydinaBANE/rag-pipeline-demo",
-    "language": "Python",
-    "name": "SeydinaBANE/rag-pipeline-demo",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:41:46Z",
-    "url": "https://github.com/SeydinaBANE/rag-pipeline-demo"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 57770,
-    "updated_at": "2026-05-27T15:08:16Z",
+    "updated_at": "2026-05-27T15:49:06Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-27T15:38:58Z",
+    "updated_at": "2026-05-27T15:53:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16244,
-    "updated_at": "2026-05-27T15:34:40Z",
+    "updated_at": "2026-05-27T15:54:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31599,
-    "updated_at": "2026-05-27T15:29:34Z",
+    "updated_at": "2026-05-27T15:53:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -401,7 +410,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-05-27T15:31:53Z",
+    "updated_at": "2026-05-27T16:00:17Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -418,7 +427,7 @@
     "id": "e-reitbauer/granum",
     "language": "Python",
     "name": "e-reitbauer/granum",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-27T11:18:42Z",
     "url": "https://github.com/e-reitbauer/granum"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T11:07:58Z",
     "url": "https://github.com/Cyning12/ai-ink-brain"
-  },
-  {
-    "description": "Single-process database for AI apps: vector, graph, lexical, and hybrid search with durable jobs in one binary.",
-    "id": "zinfradb/zinfradb",
-    "language": "C++",
-    "name": "zinfradb/zinfradb",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:45:51Z",
-    "url": "https://github.com/zinfradb/zinfradb"
   }
 ]
