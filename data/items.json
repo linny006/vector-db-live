@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:29:59Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
+    "id": "blackeagle686/mafqood-ai",
+    "language": "Python",
+    "name": "blackeagle686/mafqood-ai",
+    "stars": 1,
+    "updated_at": "2026-05-27T22:28:58Z",
+    "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI agents to coordinate work.",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 13,
+    "updated_at": "2026-05-27T22:28:52Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM",
+    "id": "Ayushhhh188/AI-Augmented_Library_Management_System",
+    "language": "HTML",
+    "name": "Ayushhhh188/AI-Augmented_Library_Management_System",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:22:10Z",
+    "url": "https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 900,
+    "updated_at": "2026-05-27T22:15:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
     "id": "Backend-Lab-SR/hyperclarity-rag-platform",
     "language": "Java",
@@ -9,15 +72,6 @@
     "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:10:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
@@ -25,15 +79,6 @@
     "stars": 6149,
     "updated_at": "2026-05-27T22:07:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
-    "id": "blackeagle686/mafqood-ai",
-    "language": "Python",
-    "name": "blackeagle686/mafqood-ai",
-    "stars": 1,
-    "updated_at": "2026-05-27T22:07:09Z",
-    "url": "https://github.com/blackeagle686/mafqood-ai"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -63,15 +108,6 @@
     "url": "https://github.com/Nicholas-Kloster/aimap"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -94,18 +130,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 60687,
+    "stars": 60688,
     "updated_at": "2026-05-27T21:53:23Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM",
-    "id": "Ayushhhh188/AI-Augmented_Library_Management_System",
-    "language": "HTML",
-    "name": "Ayushhhh188/AI-Augmented_Library_Management_System",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:52:47Z",
-    "url": "https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System"
   },
   {
     "description": "Memory control plane for AI Agents in 6 lines of code",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:07:11Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:05:58Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 1,
-    "updated_at": "2026-05-27T21:05:15Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:04:54Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
