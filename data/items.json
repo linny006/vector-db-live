@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T14:00:34Z",
+    "updated_at": "2026-05-27T14:15:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI + Data, online. https://vespa.ai",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6926,
+    "updated_at": "2026-05-27T14:10:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-27T14:12:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9301,
+    "updated_at": "2026-05-27T14:00:43Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:00:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6148,
+    "updated_at": "2026-05-27T13:57:53Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Production ready AI sales knowledge assistant powered by WhatsApp, OpenAI, RAG, vector search, and n8n workflow automati",
@@ -50,7 +95,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1936,
-    "updated_at": "2026-05-27T13:52:46Z",
+    "updated_at": "2026-05-27T14:15:21Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16244,
-    "updated_at": "2026-05-27T13:54:34Z",
+    "updated_at": "2026-05-27T14:15:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -77,17 +122,8 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 57768,
-    "updated_at": "2026-05-27T13:49:05Z",
+    "updated_at": "2026-05-27T14:03:32Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:45:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -121,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17532,
+    "stars": 17533,
     "updated_at": "2026-05-27T13:31:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -130,7 +166,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 109,
+    "stars": 110,
     "updated_at": "2026-05-27T13:21:56Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-05-27T12:28:28Z",
+    "updated_at": "2026-05-27T14:10:04Z",
     "url": "https://github.com/23skdu/longbow"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "AI + Data, online. https://vespa.ai",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6926,
-    "updated_at": "2026-05-27T12:18:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -302,17 +329,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-27T13:13:11Z",
+    "updated_at": "2026-05-27T14:07:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9301,
-    "updated_at": "2026-05-27T13:12:10Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:01:17Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:01:12Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83d\uddc2 Generate fast, language-aware code indexes with automatic test mapping and incremental updates for efficient agent wor",
-    "id": "Pango470/ARK-index",
-    "language": "TypeScript",
-    "name": "Pango470/ARK-index",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:00:58Z",
-    "url": "https://github.com/Pango470/ARK-index"
   }
 ]
