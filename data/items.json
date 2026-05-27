@@ -5,8 +5,179 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T01:30:20Z",
+    "updated_at": "2026-05-27T01:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:45:09Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Extract and vectorize your Cursor chat history, enabling efficient search through a Dockerized FastAPI API with LanceD",
+    "id": "pedrohenrique316/Cursor-history-MCP",
+    "language": "Python",
+    "name": "pedrohenrique316/Cursor-history-MCP",
+    "stars": 2,
+    "updated_at": "2026-05-27T01:44:45Z",
+    "url": "https://github.com/pedrohenrique316/Cursor-history-MCP"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:44:44Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:44:36Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:44:19Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:43:10Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-05-27T01:42:10Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "\ud83d\udc19 Meta-AI Orchestrator unifies multiple LLMs with dynamic routing, RAG search, and DAG pipelines for enterprise AI workl",
+    "id": "ttcs60cntt3/meta-ai-orchestrator",
+    "language": "Rust",
+    "name": "ttcs60cntt3/meta-ai-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-05-27T01:41:04Z",
+    "url": "https://github.com/ttcs60cntt3/meta-ai-orchestrator"
+  },
+  {
+    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
+    "id": "os-tack/ostk-recall",
+    "language": "Rust",
+    "name": "os-tack/ostk-recall",
+    "stars": 2,
+    "updated_at": "2026-05-27T01:38:21Z",
+    "url": "https://github.com/os-tack/ostk-recall"
+  },
+  {
+    "description": "MemFuse offers a robust memory layer for large language models, enhancing their performance and efficiency. Join our com",
+    "id": "sakhama/memfuse",
+    "language": "Python",
+    "name": "sakhama/memfuse",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:37:18Z",
+    "url": "https://github.com/sakhama/memfuse"
+  },
+  {
+    "description": "MemFuse Python SDK offers a simple way to integrate memory capabilities into your LLM projects. \ud83d\ude80 Join the community on ",
+    "id": "RankMegaCraft51/memfuse-python",
+    "language": "Python",
+    "name": "RankMegaCraft51/memfuse-python",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:37:12Z",
+    "url": "https://github.com/RankMegaCraft51/memfuse-python"
+  },
+  {
+    "description": "This repository contains a RAG-based chatbot that helps you ask questions about your PDF documents. Use FastAPI and Stre",
+    "id": "jcpanggoygit/rag-chatbot-documents",
+    "language": "Python",
+    "name": "jcpanggoygit/rag-chatbot-documents",
+    "stars": 1,
+    "updated_at": "2026-05-27T01:37:08Z",
+    "url": "https://github.com/jcpanggoygit/rag-chatbot-documents"
+  },
+  {
+    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
+    "id": "barateza/mcp-plesk-dev-docs",
+    "language": "Python",
+    "name": "barateza/mcp-plesk-dev-docs",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:34:53Z",
+    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
+  },
+  {
+    "description": "The frontend of shotit, with full documentation.",
+    "id": "shotit/shotit-frontend",
+    "language": "MDX",
+    "name": "shotit/shotit-frontend",
+    "stars": 2,
+    "updated_at": "2026-05-27T01:43:40Z",
+    "url": "https://github.com/shotit/shotit-frontend"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 8,
+    "updated_at": "2026-05-27T01:33:44Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 86,
+    "updated_at": "2026-05-27T01:32:30Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-05-27T01:31:34Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "A system that combines Retrieval-Augmented Generation (RAG), the Claude Sonet 3.5 LLM, and the Pathway framework to anal",
+    "id": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
+    "language": "Python",
+    "name": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
+    "stars": 4,
+    "updated_at": "2026-05-27T01:30:27Z",
+    "url": "https://github.com/Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Learn TypeScript chatting effortlessly with AI",
@@ -63,15 +234,6 @@
     "url": "https://github.com/dcondrey/holographic-memory-system"
   },
   {
-    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
-    "id": "barateza/mcp-plesk-dev-docs",
-    "language": "Python",
-    "name": "barateza/mcp-plesk-dev-docs",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:25:43Z",
-    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -81,15 +243,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T01:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -97,6 +250,15 @@
     "stars": 2,
     "updated_at": "2026-05-27T01:14:14Z",
     "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7645,
+    "updated_at": "2026-05-27T00:56:14Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -122,7 +284,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 118,
-    "updated_at": "2026-05-27T01:13:36Z",
+    "updated_at": "2026-05-27T01:34:37Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:04:34Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:04:21Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:03:10Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:03:07Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:02:54Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI agents to coordinate work.",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 13,
-    "updated_at": "2026-05-27T00:03:34Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:01:33Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:01:08Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 1,
-    "updated_at": "2026-05-27T00:00:22Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:59:13Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:58:33Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:58:30Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:57:03Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:55:55Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 1,
-    "updated_at": "2026-05-26T23:55:11Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:54:56Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:53:05Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:52:57Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:52:45Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
