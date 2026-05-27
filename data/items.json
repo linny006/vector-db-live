@@ -1,21 +1,48 @@
 [
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16243,
-    "updated_at": "2026-05-27T11:58:22Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
+    "id": "vasu-devs/JustHireMe",
+    "language": "Python",
+    "name": "vasu-devs/JustHireMe",
+    "stars": 1908,
+    "updated_at": "2026-05-27T12:10:08Z",
+    "url": "https://github.com/vasu-devs/JustHireMe"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:02:06Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 105,
-    "updated_at": "2026-05-27T11:46:14Z",
+    "stars": 106,
+    "updated_at": "2026-05-27T12:01:44Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:00:46Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16243,
+    "updated_at": "2026-05-27T12:15:30Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -27,15 +54,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:36:08Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI + Data, online. https://vespa.ai",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -45,21 +63,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-05-27T12:00:01Z",
+    "updated_at": "2026-05-27T12:11:37Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -131,17 +140,8 @@
     "language": "Python",
     "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
     "stars": 0,
-    "updated_at": "2026-05-27T10:28:21Z",
+    "updated_at": "2026-05-27T12:10:51Z",
     "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
-  },
-  {
-    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
-    "id": "vasu-devs/JustHireMe",
-    "language": "Python",
-    "name": "vasu-devs/JustHireMe",
-    "stars": 1907,
-    "updated_at": "2026-05-27T10:25:14Z",
-    "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
     "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T11:57:35Z",
+    "updated_at": "2026-05-27T12:04:46Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
