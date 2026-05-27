@@ -1,12 +1,75 @@
 [
   {
+    "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
+    "id": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "language": "Java",
+    "name": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:13:09Z",
+    "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T22:00:22Z",
+    "updated_at": "2026-05-27T22:10:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6149,
+    "updated_at": "2026-05-27T22:07:48Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
+    "id": "blackeagle686/mafqood-ai",
+    "language": "Python",
+    "name": "blackeagle686/mafqood-ai",
+    "stars": 1,
+    "updated_at": "2026-05-27T22:07:09Z",
+    "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44484,
+    "updated_at": "2026-05-27T22:06:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
+    "id": "zhijunio/spring-ai-chat-rag-samples",
+    "language": "Java",
+    "name": "zhijunio/spring-ai-chat-rag-samples",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:05:47Z",
+    "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
+  },
+  {
+    "description": "AI infrastructure scanner: 120 fingerprints + 50 deep enumerators for LLM runtimes, vector databases, ML model servers, ",
+    "id": "Nicholas-Kloster/aimap",
+    "language": "Go",
+    "name": "Nicholas-Kloster/aimap",
+    "stars": 3,
+    "updated_at": "2026-05-27T22:00:38Z",
+    "url": "https://github.com/Nicholas-Kloster/aimap"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -31,7 +94,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 60686,
+    "stars": 60687,
     "updated_at": "2026-05-27T21:53:23Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:52:47Z",
     "url": "https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory control plane for AI Agents in 6 lines of code",
@@ -106,15 +160,6 @@
     "stars": 1562,
     "updated_at": "2026-05-27T21:35:24Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "AI infrastructure scanner: 120 fingerprints + 50 deep enumerators for LLM runtimes, vector databases, ML model servers, ",
-    "id": "Nicholas-Kloster/aimap",
-    "language": "Go",
-    "name": "Nicholas-Kloster/aimap",
-    "stars": 3,
-    "updated_at": "2026-05-27T21:33:21Z",
-    "url": "https://github.com/Nicholas-Kloster/aimap"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:04:54Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Embedded realtime database with vector search (HNSW), BM25, RRF hybrid retrieval, Boolean DSL, real-time SUB/UNSUB push,",
-    "id": "mikedconcepcion/CuttleDB",
-    "language": "Python",
-    "name": "mikedconcepcion/CuttleDB",
-    "stars": 1,
-    "updated_at": "2026-05-27T21:41:30Z",
-    "url": "https://github.com/mikedconcepcion/CuttleDB"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:03:24Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:02:54Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:02:39Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 401,
-    "updated_at": "2026-05-27T21:02:32Z",
-    "url": "https://github.com/redis/redis-vl-python"
   }
 ]
