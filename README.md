@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 00:45 UTC
+> ⏰ Last updated: 2026-05-27 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,8 +43,8 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10408 | HTML | 2026-05-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10408 | HTML | 2026-05-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 4 | [leekkk2/transcendence-memory-server](https://github.com/leekkk2/transcendence-memory-server) | 1 | Python | 2026-05-27 | Self-hosted multimodal RAG cloud memory service — a shared brain for your AI agents. Multi-agent cross-query, LanceDB +  |
 | 5 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 118 | MDX | 2026-05-27 | The documentation for SurrealDB, powered by Astro |
 | 6 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 0 | TypeScript | 2026-05-27 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
