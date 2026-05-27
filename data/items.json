@@ -1,21 +1,39 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16243,
+    "updated_at": "2026-05-27T11:58:22Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 105,
+    "updated_at": "2026-05-27T11:46:14Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31596,
+    "updated_at": "2026-05-27T11:57:09Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T11:30:25Z",
+    "updated_at": "2026-05-27T11:36:08Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:27:47Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "AI + Data, online. https://vespa.ai",
@@ -23,8 +41,26 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6926,
-    "updated_at": "2026-05-27T11:25:24Z",
+    "updated_at": "2026-05-27T11:34:56Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:00:01Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "VectorDB Context tool for claude code",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T11:18:42Z",
     "url": "https://github.com/e-reitbauer/granum"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based PDF Question Answering System using OpenAI embeddings and vector databases.",
@@ -63,6 +90,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9301,
+    "updated_at": "2026-05-27T10:57:45Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
     "id": "Cyning12/ai-ink-brain",
     "language": "TypeScript",
@@ -72,13 +108,13 @@
     "url": "https://github.com/Cyning12/ai-ink-brain"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 105,
-    "updated_at": "2026-05-27T10:49:43Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
+    "description": "Single-process database for AI apps: vector, graph, lexical, and hybrid search with durable jobs in one binary.",
+    "id": "zinfradb/zinfradb",
+    "language": "C++",
+    "name": "zinfradb/zinfradb",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:45:51Z",
+    "url": "https://github.com/zinfradb/zinfradb"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -90,20 +126,20 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31594,
-    "updated_at": "2026-05-27T11:30:07Z",
-    "url": "https://github.com/qdrant/qdrant"
+    "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
+    "id": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "language": "Python",
+    "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:28:21Z",
+    "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
   },
   {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
-    "stars": 1905,
+    "stars": 1907,
     "updated_at": "2026-05-27T10:25:14Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
@@ -126,21 +162,12 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16242,
-    "updated_at": "2026-05-27T11:11:35Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T10:18:54Z",
+    "updated_at": "2026-05-27T11:57:35Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:56:42Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "Single-process database for AI apps: vector, graph, lexical, and hybrid search with durable jobs in one binary.",
-    "id": "zinfradb/zinfradb",
-    "language": "C++",
-    "name": "zinfradb/zinfradb",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:45:51Z",
-    "url": "https://github.com/zinfradb/zinfradb"
   },
   {
     "description": "\ud83d\udcf7 Transform any camera into ROS2 image topics for seamless integration with robotic systems and effective VLA model depl",
@@ -430,23 +448,5 @@
     "stars": 899,
     "updated_at": "2026-05-27T09:46:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
-    "id": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "language": "\u2014",
-    "name": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:44:51Z",
-    "url": "https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:44:44Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
