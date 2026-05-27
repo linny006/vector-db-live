@@ -1,11 +1,74 @@
 [
   {
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 100,
+    "updated_at": "2026-05-27T07:14:33Z",
+    "url": "https://github.com/weaviate/typescript-client"
+  },
+  {
+    "description": "AI-assisted job application tracker that helps turn job descriptions into organized application records, fit summaries, ",
+    "id": "jhc027/JobTrack",
+    "language": "Python",
+    "name": "jhc027/JobTrack",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:14:31Z",
+    "url": "https://github.com/jhc027/JobTrack"
+  },
+  {
+    "description": "Zero-dependency, ultra-fast, local-first data engines built for absolute data sovereignty and performance.",
+    "id": "vasudeval/vasudeval-labs",
+    "language": "\u2014",
+    "name": "vasudeval/vasudeval-labs",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:13:21Z",
+    "url": "https://github.com/vasudeval/vasudeval-labs"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 38,
+    "updated_at": "2026-05-27T07:12:49Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 94,
+    "updated_at": "2026-05-27T07:11:53Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:10:32Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T07:00:22Z",
+    "updated_at": "2026-05-27T07:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +77,17 @@
     "language": "Java",
     "name": "ExMachinaSAGL/cosmo42-open",
     "stars": 2,
-    "updated_at": "2026-05-27T06:59:52Z",
+    "updated_at": "2026-05-27T07:14:17Z",
     "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16239,
+    "updated_at": "2026-05-27T07:12:13Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -25,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T06:56:02Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:55:48Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16238,
-    "updated_at": "2026-05-27T06:59:04Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -97,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:45:48Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 94,
-    "updated_at": "2026-05-27T06:45:47Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
@@ -306,15 +342,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "AI-assisted job application tracker that helps turn job descriptions into organized application records, fit summaries, ",
-    "id": "jhc027/JobTrack",
-    "language": "Python",
-    "name": "jhc027/JobTrack",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:30:56Z",
-    "url": "https://github.com/jhc027/JobTrack"
-  },
-  {
     "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
     "id": "Bogeymanlicitness496/mcp-memento",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:21:58Z",
     "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:21:26Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:20:40Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:20:32Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
