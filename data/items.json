@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:15:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A graph-first, embedded multi-model database engine",
     "id": "insanalamin/sekejap",
     "language": "Rust",
     "name": "insanalamin/sekejap",
     "stars": 5,
-    "updated_at": "2026-05-27T12:59:02Z",
+    "updated_at": "2026-05-27T13:14:03Z",
     "url": "https://github.com/insanalamin/sekejap"
+  },
+  {
+    "description": "Context-aware AI assistant with persistent semantic memory, multi-session chat management, and real-time web retrieval b",
+    "id": "pratiksingh1296/context-aware-ai-assistant",
+    "language": "Python",
+    "name": "pratiksingh1296/context-aware-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:12:54Z",
+    "url": "https://github.com/pratiksingh1296/context-aware-ai-assistant"
+  },
+  {
+    "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 3,
+    "updated_at": "2026-05-27T13:09:03Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:00:43Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 107,
+    "updated_at": "2026-05-27T12:52:46Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -22,7 +67,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31597,
+    "stars": 31598,
     "updated_at": "2026-05-27T12:43:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -32,26 +77,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17529,
-    "updated_at": "2026-05-27T12:52:21Z",
+    "updated_at": "2026-05-27T13:05:47Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T12:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -135,21 +162,12 @@
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 106,
-    "updated_at": "2026-05-27T12:52:46Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16243,
-    "updated_at": "2026-05-27T12:49:04Z",
+    "updated_at": "2026-05-27T13:01:47Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-27T10:59:21Z",
+    "updated_at": "2026-05-27T13:13:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9301,
-    "updated_at": "2026-05-27T12:37:43Z",
+    "updated_at": "2026-05-27T13:12:10Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T09:54:10Z",
     "url": "https://github.com/OnlyinOhio234/MemoryRaven"
-  },
-  {
-    "description": "\ud83d\uded2 Transform e-commerce with AI. Build interactive dashboards and smart search tools for real-time insights and data-driv",
-    "id": "0xmrninja197/ai-online-store",
-    "language": "TypeScript",
-    "name": "0xmrninja197/ai-online-store",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:54:09Z",
-    "url": "https://github.com/0xmrninja197/ai-online-store"
-  },
-  {
-    "description": "Slack Q&A bot template \u2014 ingests Slack threads + markdown docs into Pinecone, then an n8n workflow retrieves, re-ranks o",
-    "id": "da-troll/rag-sherpa-template",
-    "language": "Python",
-    "name": "da-troll/rag-sherpa-template",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:53:26Z",
-    "url": "https://github.com/da-troll/rag-sherpa-template"
   }
 ]
