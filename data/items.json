@@ -1,12 +1,30 @@
 [
   {
-    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
-    "id": "FireFistisDead/pdf-qa-bot",
-    "language": "JavaScript",
-    "name": "FireFistisDead/pdf-qa-bot",
-    "stars": 13,
-    "updated_at": "2026-05-27T10:15:02Z",
-    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
+    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
+    "id": "vasu-devs/JustHireMe",
+    "language": "Python",
+    "name": "vasu-devs/JustHireMe",
+    "stars": 1905,
+    "updated_at": "2026-05-27T10:25:14Z",
+    "url": "https://github.com/vasu-devs/JustHireMe"
+  },
+  {
+    "description": "AI + Data, online. https://vespa.ai",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6926,
+    "updated_at": "2026-05-27T10:21:44Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
+    "id": "developer-shubham101/ai_engineer",
+    "language": "Python",
+    "name": "developer-shubham101/ai_engineer",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:21:18Z",
+    "url": "https://github.com/developer-shubham101/ai_engineer"
   },
   {
     "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 72,
-    "updated_at": "2026-05-27T10:14:22Z",
+    "updated_at": "2026-05-27T10:18:54Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Official repository of the kANNolo library.",
+    "id": "TusKANNy/kannolo",
+    "language": "Rust",
+    "name": "TusKANNy/kannolo",
+    "stars": 55,
+    "updated_at": "2026-05-27T10:18:47Z",
+    "url": "https://github.com/TusKANNy/kannolo"
+  },
+  {
+    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
+    "id": "FireFistisDead/pdf-qa-bot",
+    "language": "JavaScript",
+    "name": "FireFistisDead/pdf-qa-bot",
+    "stars": 13,
+    "updated_at": "2026-05-27T10:18:35Z",
+    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI\u304c\u7ba1\u7406\u30fb\u691c\u7d22\u3067\u304d\u308b\u77e5\u8b58\u30d9\u30fc\u30b9\u69cb\u7bc9\u30fb\u904b\u7528\u30b7\u30b9\u30c6\u30e0\uff08RAG\u5bfe\u5fdc\uff09",
@@ -36,15 +90,6 @@
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
-    "description": "AI + Data, online. https://vespa.ai",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6926,
-    "updated_at": "2026-05-27T10:15:20Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "End-to-end Generative AI & RAG implementations using LangChain 1.x, FAISS, OpenAI & Ollama \u2014 covering data ingestion, em",
     "id": "nikhil-shukl/LLM_Projects",
     "language": "Jupyter Notebook",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:05:16Z",
     "url": "https://github.com/nikhil-shukl/LLM_Projects"
-  },
-  {
-    "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
-    "id": "developer-shubham101/ai_engineer",
-    "language": "Python",
-    "name": "developer-shubham101/ai_engineer",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:03:37Z",
-    "url": "https://github.com/developer-shubham101/ai_engineer"
   },
   {
     "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
@@ -106,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T10:00:58Z",
     "url": "https://github.com/Pango470/ARK-index"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:00:29Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T09:41:33Z",
     "url": "https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP"
-  },
-  {
-    "description": "\ud83d\udd27 Enable seamless Android app hooking with Vector, a Zygisk module offering a consistent API for module developers and u",
-    "id": "udinpedia/Vector",
-    "language": "C++",
-    "name": "udinpedia/Vector",
-    "stars": 5,
-    "updated_at": "2026-05-27T09:40:46Z",
-    "url": "https://github.com/udinpedia/Vector"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 90,
-    "updated_at": "2026-05-27T09:49:12Z",
-    "url": "https://github.com/oracle/ai-optimizer"
   }
 ]
