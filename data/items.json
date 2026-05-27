@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-27T10:45:23Z",
+    "updated_at": "2026-05-27T11:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1842,
+    "updated_at": "2026-05-27T10:59:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:56:18Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
+    "id": "Cyning12/ai-ink-brain",
+    "language": "TypeScript",
+    "name": "Cyning12/ai-ink-brain",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:52:51Z",
+    "url": "https://github.com/Cyning12/ai-ink-brain"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 104,
+    "updated_at": "2026-05-27T10:49:43Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -18,22 +63,22 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31594,
+    "updated_at": "2026-05-27T10:41:01Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "AI + Data, online. https://vespa.ai",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6926,
-    "updated_at": "2026-05-27T10:40:10Z",
+    "updated_at": "2026-05-27T10:56:03Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16242,
-    "updated_at": "2026-05-27T10:19:13Z",
+    "updated_at": "2026-05-27T10:50:02Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:14:12Z",
     "url": "https://github.com/KazuyaMurayama/ai-knowledge-base"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 104,
-    "updated_at": "2026-05-27T10:11:18Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
     "description": "End-to-end Generative AI & RAG implementations using LangChain 1.x, FAISS, OpenAI & Ollama \u2014 covering data ingestion, em",
@@ -221,7 +257,7 @@
     "language": "C++",
     "name": "zinfradb/zinfradb",
     "stars": 0,
-    "updated_at": "2026-05-27T09:56:05Z",
+    "updated_at": "2026-05-27T10:45:51Z",
     "url": "https://github.com/zinfradb/zinfradb"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:44:50Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-27T09:43:38Z",
     "url": "https://github.com/iamthegoatgojo1505/biotech-intel"
-  },
-  {
-    "description": "\ud83e\udde0 Elevate AI with ABMemory, a robust memory layer that offers adaptive storage, context-aware retrieval, and complete li",
-    "id": "adamsandler123/ABMemory",
-    "language": "Python",
-    "name": "adamsandler123/ABMemory",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:43:34Z",
-    "url": "https://github.com/adamsandler123/ABMemory"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 4,
-    "updated_at": "2026-05-27T09:43:22Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:43:19Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   }
 ]
