@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 11:00 UTC
+> ⏰ Last updated: 2026-05-27 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1842 | Go | 2026-05-27 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-05-27 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 4 | [Cyning12/ai-ink-brain](https://github.com/Cyning12/ai-ink-brain) | 0 | TypeScript | 2026-05-27 | A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. 🎨+🤖 |
-| 5 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 104 | Rust | 2026-05-27 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-05-27 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1842 | Go | 2026-05-27 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 5 | [Cyning12/ai-ink-brain](https://github.com/Cyning12/ai-ink-brain) | 0 | TypeScript | 2026-05-27 | A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. 🎨+🤖 |
+| 6 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 105 | Rust | 2026-05-27 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
 | 7 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1889 | Python | 2026-05-27 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
 | 8 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 31594 | Rust | 2026-05-27 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6926 | Java | 2026-05-27 | AI + Data, online. https://vespa.ai |
 | 10 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | 1905 | Python | 2026-05-27 | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials |
 | 11 | [developer-shubham101/ai_engineer](https://github.com/developer-shubham101/ai_engineer) | 0 | Python | 2026-05-27 | A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea |
-| 12 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44473 | Go | 2026-05-27 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 12 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44474 | Go | 2026-05-27 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 13 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16242 | Go | 2026-05-27 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 14 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 72 | Python | 2026-05-27 | Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file  |
 | 15 | [TusKANNy/kannolo](https://github.com/TusKANNy/kannolo) | 55 | Rust | 2026-05-27 | Official repository of the kANNolo library. |
