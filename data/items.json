@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:15:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Pipeline RAG industrialis\u00e9 \u2014 hybrid search, reranking, multi-tenancy, RAGAS eval, A/B testing, LangFuse, AWS CDK",
+    "id": "SeydinaBANE/rag-pipeline-demo",
+    "language": "Python",
+    "name": "SeydinaBANE/rag-pipeline-demo",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:13:37Z",
+    "url": "https://github.com/SeydinaBANE/rag-pipeline-demo"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1936,
+    "updated_at": "2026-05-27T15:14:32Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "RAG-powered LLM chatbot using RAG, external API calls, and FastAPI.",
+    "id": "njaffe/mtg_judgebot",
+    "language": "Python",
+    "name": "njaffe/mtg_judgebot",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:01:35Z",
+    "url": "https://github.com/njaffe/mtg_judgebot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:00:42Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -23,7 +68,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-05-27T14:58:38Z",
+    "updated_at": "2026-05-27T15:10:30Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 9,
     "updated_at": "2026-05-27T14:48:22Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:45:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:00:37Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-27T14:36:03Z",
+    "updated_at": "2026-05-27T15:10:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -103,7 +130,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 110,
+    "stars": 111,
     "updated_at": "2026-05-27T14:21:00Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16244,
-    "updated_at": "2026-05-27T14:59:52Z",
+    "updated_at": "2026-05-27T15:07:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6926,
-    "updated_at": "2026-05-27T14:43:57Z",
+    "updated_at": "2026-05-27T15:01:43Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -158,7 +185,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6148,
-    "updated_at": "2026-05-27T14:47:49Z",
+    "updated_at": "2026-05-27T15:14:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1936,
-    "updated_at": "2026-05-27T14:15:21Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 57768,
-    "updated_at": "2026-05-27T14:28:25Z",
+    "updated_at": "2026-05-27T15:08:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6053,
-    "updated_at": "2026-05-27T14:15:45Z",
+    "updated_at": "2026-05-27T15:11:32Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -346,7 +364,7 @@
     "id": "Neboy72/hermes-nexus-memory",
     "language": "Python",
     "name": "Neboy72/hermes-nexus-memory",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-05-27T12:19:02Z",
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:21:18Z",
     "url": "https://github.com/developer-shubham101/ai_engineer"
-  },
-  {
-    "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 72,
-    "updated_at": "2026-05-27T12:04:46Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "TusKANNy/kannolo",
-    "language": "Rust",
-    "name": "TusKANNy/kannolo",
-    "stars": 55,
-    "updated_at": "2026-05-27T10:18:47Z",
-    "url": "https://github.com/TusKANNy/kannolo"
   }
 ]
