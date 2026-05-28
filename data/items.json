@@ -1,12 +1,57 @@
 [
   {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1339,
+    "updated_at": "2026-05-28T04:12:44Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1427,
+    "updated_at": "2026-05-28T04:12:14Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
     "description": "RAG pipeline that indexes git repos and documents into Weaviate, then exposes semantic search to LLM clients via MCP ove",
     "id": "vasyafomiuk/ragolith",
     "language": "TypeScript",
     "name": "vasyafomiuk/ragolith",
     "stars": 0,
-    "updated_at": "2026-05-28T04:00:15Z",
+    "updated_at": "2026-05-28T04:09:21Z",
     "url": "https://github.com/vasyafomiuk/ragolith"
+  },
+  {
+    "description": "Telegram-\u0431\u043e\u0442 \u0441 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u0438 \u0434\u043e\u043b\u0433\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u044c\u044e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 LLM. RAG \u0447\u0435\u0440\u0435\u0437 ChromaDB, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 PDF/TXT/DOCX, proxy API.",
+    "id": "KirillTomenko/memory-bot",
+    "language": "Python",
+    "name": "KirillTomenko/memory-bot",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:05:12Z",
+    "url": "https://github.com/KirillTomenko/memory-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -45,24 +90,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:30:50Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Telegram-\u0431\u043e\u0442 \u0441 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u0438 \u0434\u043e\u043b\u0433\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u044c\u044e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 LLM. RAG \u0447\u0435\u0440\u0435\u0437 ChromaDB, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 PDF/TXT/DOCX, proxy API.",
-    "id": "KirillTomenko/memory-bot",
-    "language": "Python",
-    "name": "KirillTomenko/memory-bot",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:37:00Z",
-    "url": "https://github.com/KirillTomenko/memory-bot"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -387,15 +405,6 @@
     "url": "https://github.com/Bielrezende/WMB-100K"
   },
   {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1339,
-    "updated_at": "2026-05-28T03:41:29Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
     "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
     "id": "okeidontlike/Awareness-Local",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:05:57Z",
     "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:05:43Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
