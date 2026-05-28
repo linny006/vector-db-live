@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
+    "id": "blackeagle686/mafqood-ai",
+    "language": "CSS",
+    "name": "blackeagle686/mafqood-ai",
+    "stars": 1,
+    "updated_at": "2026-05-28T17:14:44Z",
+    "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 12,
+    "updated_at": "2026-05-28T17:13:37Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "Persistent, self-healing wiki for AI agents \u2014 dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti",
+    "id": "giovannifrontera/ai-longterm-wiki-memory-OpenClaw",
+    "language": "Python",
+    "name": "giovannifrontera/ai-longterm-wiki-memory-OpenClaw",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:10:58Z",
+    "url": "https://github.com/giovannifrontera/ai-longterm-wiki-memory-OpenClaw"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 8,
+    "updated_at": "2026-05-28T17:09:16Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
     "description": "RAG pipeline that indexes git repos and documents into Weaviate, then exposes semantic search to LLM clients via MCP ove",
     "id": "vasyafomiuk/ragolith",
     "language": "TypeScript",
     "name": "vasyafomiuk/ragolith",
     "stars": 0,
-    "updated_at": "2026-05-28T16:59:33Z",
+    "updated_at": "2026-05-28T17:04:20Z",
     "url": "https://github.com/vasyafomiuk/ragolith"
+  },
+  {
+    "description": "RAG-based PDF Q&A system \u2014 upload any PDF, ask questions, get grounded answers with citations. Built with LangChain (LCE",
+    "id": "narasimharao2743/rag-pdf-qa",
+    "language": "HTML",
+    "name": "narasimharao2743/rag-pdf-qa",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:01:37Z",
+    "url": "https://github.com/narasimharao2743/rag-pdf-qa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Multi-Modal RAG Knowledge Engine An intelligent knowledge graph system that ingests video, audio, and PDF documents to",
@@ -18,30 +81,12 @@
     "url": "https://github.com/Diluksha-Upeka/Neurospace"
   },
   {
-    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
-    "id": "blackeagle686/mafqood-ai",
-    "language": "CSS",
-    "name": "blackeagle686/mafqood-ai",
-    "stars": 1,
-    "updated_at": "2026-05-28T16:58:13Z",
-    "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
-    "description": "Persistent, self-healing wiki for AI agents \u2014 dual-representation (markdown + LanceDB vectors), multi-source PDF ingesti",
-    "id": "giovannifrontera/ai-longterm-wiki-memory-OpenClaw",
-    "language": "Python",
-    "name": "giovannifrontera/ai-longterm-wiki-memory-OpenClaw",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:57:59Z",
-    "url": "https://github.com/giovannifrontera/ai-longterm-wiki-memory-OpenClaw"
-  },
-  {
     "description": "AI + Data, online. https://vespa.ai",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6929,
-    "updated_at": "2026-05-28T16:56:34Z",
+    "updated_at": "2026-05-28T17:07:56Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -63,21 +108,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 12,
-    "updated_at": "2026-05-28T16:54:23Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6149,
-    "updated_at": "2026-05-28T16:49:19Z",
+    "updated_at": "2026-05-28T17:12:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 257,
     "updated_at": "2026-05-28T16:46:07Z",
     "url": "https://github.com/lightonai/fast-plaid"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T17:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31631,
-    "updated_at": "2026-05-28T16:35:37Z",
+    "updated_at": "2026-05-28T17:02:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -151,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:33:17Z",
     "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16252,
+    "updated_at": "2026-05-28T16:28:28Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:12:04Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16251,
-    "updated_at": "2026-05-28T16:28:28Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T16:01:34Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:00:17Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:59:36Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
