@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-28 10:30 UTC
+> ⏰ Last updated: 2026-05-28 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,11 +43,11 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [blackeagle686/mafqood-ai](https://github.com/blackeagle686/mafqood-ai) | 1 | Python | 2026-05-28 |       Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac |
-| 2 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 8 | TypeScript | 2026-05-28 | OpenCode plugin that gives coding agents persistent memory using local vector database |
-| 3 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-05-28 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 4 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16251 | Go | 2026-05-28 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16251 | Go | 2026-05-28 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 3 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 8 | TypeScript | 2026-05-28 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-05-28 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
 | 7 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 31618 | Rust | 2026-05-28 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 8 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 0 | HTML | 2026-05-28 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 9 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 57791 | Rust | 2026-05-28 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
