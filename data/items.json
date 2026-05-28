@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-28T10:00:27Z",
+    "updated_at": "2026-05-28T10:15:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
+    "id": "blackeagle686/mafqood-ai",
+    "language": "Python",
+    "name": "blackeagle686/mafqood-ai",
+    "stars": 1,
+    "updated_at": "2026-05-28T10:14:16Z",
+    "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31618,
+    "updated_at": "2026-05-28T10:08:33Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:04:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57791,
+    "updated_at": "2026-05-28T09:59:04Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI + Data, online. https://vespa.ai",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:46:53Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -202,7 +238,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17556,
+    "stars": 17559,
     "updated_at": "2026-05-28T09:38:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16251,
-    "updated_at": "2026-05-28T09:53:17Z",
+    "updated_at": "2026-05-28T10:14:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1842,
-    "updated_at": "2026-05-28T09:42:29Z",
+    "updated_at": "2026-05-28T10:01:40Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:25:10Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "\u4f7f\u7528 QQ/\u5fae\u4fe1 \u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002 --\u7eed\u6e29",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 50,
-    "updated_at": "2026-05-28T09:24:43Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:23:41Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:21:39Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-28T09:21:34Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
