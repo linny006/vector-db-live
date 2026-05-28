@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T20:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 4,
+    "updated_at": "2026-05-28T20:45:09Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83d\udcca Analyze data efficiently with Claude Data Analysis Assistant, using AI-driven commands for insights, visualizations, a",
+    "id": "mansuur22/claude-data-analysis",
+    "language": "Python",
+    "name": "mansuur22/claude-data-analysis",
+    "stars": 1,
+    "updated_at": "2026-05-28T20:45:03Z",
+    "url": "https://github.com/mansuur22/claude-data-analysis"
+  },
+  {
+    "description": "",
+    "id": "shreyash550/kramdb",
+    "language": "C++",
+    "name": "shreyash550/kramdb",
+    "stars": 0,
+    "updated_at": "2026-05-28T20:44:54Z",
+    "url": "https://github.com/shreyash550/kramdb"
+  },
+  {
+    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
+    "id": "blackeagle686/mafqood-ai",
+    "language": "CSS",
+    "name": "blackeagle686/mafqood-ai",
+    "stars": 1,
+    "updated_at": "2026-05-28T20:41:15Z",
+    "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 0,
+    "updated_at": "2026-05-28T20:40:07Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 3,
+    "updated_at": "2026-05-28T20:39:43Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 0,
+    "updated_at": "2026-05-28T20:39:20Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 5,
+    "updated_at": "2026-05-28T20:39:02Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83d\udd0d Optimize and manage prompts, agents, and templates with ContextForge, an AI-powered platform for seamless collaboratio",
+    "id": "vishu570/contextforge",
+    "language": "TypeScript",
+    "name": "vishu570/contextforge",
+    "stars": 2,
+    "updated_at": "2026-05-28T20:38:51Z",
+    "url": "https://github.com/vishu570/contextforge"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 49735,
+    "updated_at": "2026-05-28T20:38:38Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T20:38:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "Ghostiepg/Scraping_AI_with_RAG_Tune",
     "language": "JavaScript",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T20:37:36Z",
     "url": "https://github.com/Bheka77/GhanaGPT"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 49735,
-    "updated_at": "2026-05-28T20:37:23Z",
-    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "\ud83d\udcc4 Upload PDFs and chat with AI for instant insights, all through a sleek, user-friendly interface that works on any devi",
@@ -81,15 +180,6 @@
     "url": "https://github.com/damn124/ai-calling-agent"
   },
   {
-    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
-    "id": "blackeagle686/mafqood-ai",
-    "language": "CSS",
-    "name": "blackeagle686/mafqood-ai",
-    "stars": 1,
-    "updated_at": "2026-05-28T20:32:01Z",
-    "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
     "description": "\ud83e\udd16 Build a production-ready generative AI chatbot with RAG, LangChain, and Azure for accurate, context-aware conversation",
     "id": "Lp7X/azure-genai-chatbot-rag-langchain",
     "language": "Python",
@@ -126,24 +216,6 @@
     "url": "https://github.com/vanedb/vanedb-cpp"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T20:30:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
     "id": "Mehdi138534/ai-news-scraper",
     "language": "HTML",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "hsc00/trust-vote-ai",
     "stars": 0,
-    "updated_at": "2026-05-28T20:32:19Z",
+    "updated_at": "2026-05-28T20:38:32Z",
     "url": "https://github.com/hsc00/trust-vote-ai"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/Minns-ai/MinnsDB"
   },
   {
-    "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 3,
-    "updated_at": "2026-05-28T20:14:32Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
     "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
     "id": "maksystem2025/GenAI-Course-Repo",
     "language": "Jupyter Notebook",
@@ -385,68 +448,5 @@
     "stars": 7,
     "updated_at": "2026-05-28T20:08:07Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 0,
-    "updated_at": "2026-05-28T20:02:23Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 752,
-    "updated_at": "2026-05-28T20:00:29Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Governance and observability layer for enterprise RAG systems. Chunk quality scoring, source freshness audits, retrieval",
-    "id": "mizcausevic-dev/rag-sentinel",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/rag-sentinel",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:59:43Z",
-    "url": "https://github.com/mizcausevic-dev/rag-sentinel"
-  },
-  {
-    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
-    "id": "fik93673/QueryMind-SQL",
-    "language": "TypeScript",
-    "name": "fik93673/QueryMind-SQL",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:59:39Z",
-    "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Backend for movies recomendations for groups ",
-    "id": "Biccamor/Moovly",
-    "language": "Python",
-    "name": "Biccamor/Moovly",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:59:11Z",
-    "url": "https://github.com/Biccamor/Moovly"
-  },
-  {
-    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
-    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:58:05Z",
-    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-05-28T19:56:45Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
   }
 ]
