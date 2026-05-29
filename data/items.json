@@ -1,11 +1,236 @@
 [
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1911,
+    "updated_at": "2026-05-29T14:00:11Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:59:48Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:59:42Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
+    "id": "staffardinsoluble415/ai-context-master",
+    "language": "JavaScript",
+    "name": "staffardinsoluble415/ai-context-master",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:59:33Z",
+    "url": "https://github.com/staffardinsoluble415/ai-context-master"
+  },
+  {
+    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
+    "id": "eastythenob8-svg/graph-memory",
+    "language": "TypeScript",
+    "name": "eastythenob8-svg/graph-memory",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:59:03Z",
+    "url": "https://github.com/eastythenob8-svg/graph-memory"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:58:50Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:58:27Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Benchmark multiple chunking, embedding, and retrieval combinations for RAG pipelines to find the most effective setup wi",
+    "id": "Dyinu/rag-forge",
+    "language": "Python",
+    "name": "Dyinu/rag-forge",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:58:13Z",
+    "url": "https://github.com/Dyinu/rag-forge"
+  },
+  {
+    "description": "RAG pipeline that indexes git repos and documents into Weaviate, then exposes semantic search to LLM clients via MCP ove",
+    "id": "vasyafomiuk/ragolith",
+    "language": "TypeScript",
+    "name": "vasyafomiuk/ragolith",
+    "stars": 1,
+    "updated_at": "2026-05-29T13:57:32Z",
+    "url": "https://github.com/vasyafomiuk/ragolith"
+  },
+  {
+    "description": "Angulimala AI Moderator: Promoting Positive Digital Spaces | UNESCO Youth Hackathon 2025 Project by Xathoner",
+    "id": "SahilKaturde/Angulimala-AI-moderator-",
+    "language": "Python",
+    "name": "SahilKaturde/Angulimala-AI-moderator-",
+    "stars": 2,
+    "updated_at": "2026-05-29T13:57:07Z",
+    "url": "https://github.com/SahilKaturde/Angulimala-AI-moderator-"
+  },
+  {
+    "description": "Submit URLs in bulk to Google Indexing API and IndexNow with auto key rotation, quota tracking, retry logic, and a real-",
+    "id": "Kelvin-genya/indexer",
+    "language": "TypeScript",
+    "name": "Kelvin-genya/indexer",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:55:10Z",
+    "url": "https://github.com/Kelvin-genya/indexer"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 903,
+    "updated_at": "2026-05-29T13:54:55Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:53:49Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:53:44Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 1,
+    "updated_at": "2026-05-29T13:52:54Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Build AI chatbots that analyze PDFs, answer questions, and visualize LangGraph workflows using Azure OpenAI and Gradio.",
+    "id": "Gfake-tech/python-langgraph-chatbot",
+    "language": "Python",
+    "name": "Gfake-tech/python-langgraph-chatbot",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:51:54Z",
+    "url": "https://github.com/Gfake-tech/python-langgraph-chatbot"
+  },
+  {
+    "description": "AI + Data, online. https://vespa.ai",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6931,
+    "updated_at": "2026-05-29T13:51:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
+    "id": "Snow17s/spank",
+    "language": "Go",
+    "name": "Snow17s/spank",
+    "stars": 1,
+    "updated_at": "2026-05-29T13:50:38Z",
+    "url": "https://github.com/Snow17s/spank"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 2,
+    "updated_at": "2026-05-29T13:49:34Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Build an offline Q&A API using RAG to query PDFs and texts, with automated MLflow tracking of performance and quality me",
+    "id": "alunoshacker-beep/ragscope",
+    "language": "Python",
+    "name": "alunoshacker-beep/ragscope",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:49:34Z",
+    "url": "https://github.com/alunoshacker-beep/ragscope"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1842,
+    "updated_at": "2026-05-29T13:47:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:46:30Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16257,
+    "updated_at": "2026-05-29T13:55:35Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 1,
+    "updated_at": "2026-05-29T13:46:08Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T13:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-29T13:45:26Z",
+    "updated_at": "2026-05-29T14:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +241,6 @@
     "stars": 62,
     "updated_at": "2026-05-29T13:45:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "RAG pipeline that indexes git repos and documents into Weaviate, then exposes semantic search to LLM clients via MCP ove",
-    "id": "vasyafomiuk/ragolith",
-    "language": "TypeScript",
-    "name": "vasyafomiuk/ragolith",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:44:53Z",
-    "url": "https://github.com/vasyafomiuk/ragolith"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -59,7 +275,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 215,
-    "updated_at": "2026-05-29T13:42:48Z",
+    "updated_at": "2026-05-29T13:45:53Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -232,221 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T13:33:53Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:33:28Z",
-    "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "\ud83e\udd16 Automate SAP S/4HANA deployment on IBM Cloud PowerVS using Generative AI with RAG and LLM orchestration in OpenShift.",
-    "id": "GhOsTxChEaT/s4hana-ai-agent-openshift",
-    "language": "SCSS",
-    "name": "GhOsTxChEaT/s4hana-ai-agent-openshift",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:32:58Z",
-    "url": "https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 138,
-    "updated_at": "2026-05-29T13:31:59Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:31:29Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI memory with Memo, allowing your coding assistant to remember past conversations and share team knowledge ef",
-    "id": "Aurorasylvani/memo-brain",
-    "language": "Rust",
-    "name": "Aurorasylvani/memo-brain",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:30:30Z",
-    "url": "https://github.com/Aurorasylvani/memo-brain"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:29:41Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Weaviate DB is a zero-config workbench extension for Weaviate \u2014 the AI-native vector database. It lives inside VS Code (",
-    "id": "harishkaparwan/weaviate-ui",
-    "language": "TypeScript",
-    "name": "harishkaparwan/weaviate-ui",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:29:04Z",
-    "url": "https://github.com/harishkaparwan/weaviate-ui"
-  },
-  {
-    "description": "\ud83d\udd0d Build a production-grade RAG system for heavy machinery support using AWS Bedrock and PostgreSQL to enhance informatio",
-    "id": "Bhavya0001123/aws-bedrock-rag-knowledge-base",
-    "language": "HCL",
-    "name": "Bhavya0001123/aws-bedrock-rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:28:55Z",
-    "url": "https://github.com/Bhavya0001123/aws-bedrock-rag-knowledge-base"
-  },
-  {
-    "description": "\ud83d\udd0d Match German resumes with job descriptions using a local RAG system for semantic search and ATS-style scoring, enhanci",
-    "id": "irullbarca/german-job-matcher-rag",
-    "language": "Python",
-    "name": "irullbarca/german-job-matcher-rag",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:28:32Z",
-    "url": "https://github.com/irullbarca/german-job-matcher-rag"
-  },
-  {
-    "description": "\ud83e\udde0 Explore Agentic AI and GeN AI solutions on AWS, GCP, and Azure to harness cloud power for advanced artificial intellig",
-    "id": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "language": "\u2014",
-    "name": "johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:25:46Z",
-    "url": "https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:25:32Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcb0 Enable autonomous cryptocurrency payments on Solana with LangChain ZendFi, ensuring security and fee management for AI",
-    "id": "CODINGIDK11/langchain-agent-pay",
-    "language": "Python",
-    "name": "CODINGIDK11/langchain-agent-pay",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:24:44Z",
-    "url": "https://github.com/CODINGIDK11/langchain-agent-pay"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and analyze biotech research, companies, and funding with our advanced machine learning platform for enhanced",
-    "id": "iamthegoatgojo1505/biotech-intel",
-    "language": "Python",
-    "name": "iamthegoatgojo1505/biotech-intel",
-    "stars": 2,
-    "updated_at": "2026-05-29T13:24:30Z",
-    "url": "https://github.com/iamthegoatgojo1505/biotech-intel"
-  },
-  {
-    "description": "\ud83e\udde0 Elevate AI with ABMemory, a robust memory layer that offers adaptive storage, context-aware retrieval, and complete li",
-    "id": "adamsandler123/ABMemory",
-    "language": "Python",
-    "name": "adamsandler123/ABMemory",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:24:20Z",
-    "url": "https://github.com/adamsandler123/ABMemory"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:24:09Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 4,
-    "updated_at": "2026-05-29T13:24:08Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83d\udcc4 Create a dynamic Retrieval-Augmented Generation API to add and query a knowledge base with AI-driven answers using Fas",
-    "id": "Mohit904524242324242/nextwork-rag-api",
-    "language": "Python",
-    "name": "Mohit904524242324242/nextwork-rag-api",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:23:47Z",
-    "url": "https://github.com/Mohit904524242324242/nextwork-rag-api"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI and Gen AI agents using Model Context Protocol (MCP) with hands-on projects and practical tools like LangChai",
-    "id": "Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP",
-    "language": "\u2014",
-    "name": "Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:22:36Z",
-    "url": "https://github.com/Jfgj-gom/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP"
-  },
-  {
-    "description": "\ud83d\udd27 Enable seamless Android app hooking with Vector, a Zygisk module offering a consistent API for module developers and u",
-    "id": "udinpedia/Vector",
-    "language": "C++",
-    "name": "udinpedia/Vector",
-    "stars": 5,
-    "updated_at": "2026-05-29T13:21:43Z",
-    "url": "https://github.com/udinpedia/Vector"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:20:47Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:19:51Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:19:43Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:19:35Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
   }
 ]
