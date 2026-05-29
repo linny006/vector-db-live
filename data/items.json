@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-29T11:00:23Z",
+    "updated_at": "2026-05-29T11:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 8,
+    "updated_at": "2026-05-29T11:14:29Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 903,
+    "updated_at": "2026-05-29T11:14:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Sentinel-SRE: An AI-native Root Cause Analysis (RCA) platform that unifies deterministic SRE logic with feedback-aware R",
+    "id": "sujalmeena7/sentinel-sre",
+    "language": "TypeScript",
+    "name": "sujalmeena7/sentinel-sre",
+    "stars": 1,
+    "updated_at": "2026-05-29T11:13:27Z",
+    "url": "https://github.com/sujalmeena7/sentinel-sre"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 137,
+    "updated_at": "2026-05-29T11:09:08Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 40,
+    "updated_at": "2026-05-29T11:05:28Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -16,33 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:59:52Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:59:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 8,
-    "updated_at": "2026-05-29T10:56:14Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 137,
-    "updated_at": "2026-05-29T10:54:21Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -230,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16258,
-    "updated_at": "2026-05-29T11:00:15Z",
+    "updated_at": "2026-05-29T11:10:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6931,
-    "updated_at": "2026-05-29T10:39:14Z",
+    "updated_at": "2026-05-29T11:11:57Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 903,
-    "updated_at": "2026-05-29T10:30:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
     "id": "User75621/memory-mcp",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T10:29:04Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:27:12Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-29T10:27:07Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
