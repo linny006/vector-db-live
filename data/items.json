@@ -1,11 +1,110 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "ajianaz/uteke",
+    "language": "Python",
+    "name": "ajianaz/uteke",
+    "stars": 1,
+    "updated_at": "2026-05-29T17:30:14Z",
+    "url": "https://github.com/ajianaz/uteke"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 141,
+    "updated_at": "2026-05-29T17:29:18Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "An Agentic RAG system for engineering standards and technical documentation.",
+    "id": "lexust1/doc-agent",
+    "language": "Jupyter Notebook",
+    "name": "lexust1/doc-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:29:38Z",
+    "url": "https://github.com/lexust1/doc-agent"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-05-29T17:21:10Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 3,
+    "updated_at": "2026-05-29T17:20:53Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:20:46Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 270,
+    "updated_at": "2026-05-29T17:20:27Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7657,
+    "updated_at": "2026-05-29T17:19:38Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 215,
+    "updated_at": "2026-05-29T17:19:38Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:16:38Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-29T17:15:24Z",
+    "updated_at": "2026-05-29T17:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:13:44Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 215,
-    "updated_at": "2026-05-29T17:13:31Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:11:57Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
-    "id": "splinterhq/libsplinter",
-    "language": "C",
-    "name": "splinterhq/libsplinter",
-    "stars": 3,
-    "updated_at": "2026-05-29T17:11:40Z",
-    "url": "https://github.com/splinterhq/libsplinter"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:06:49Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
-    "id": "Thisen-Ekanayake/Athena",
-    "language": "Python",
-    "name": "Thisen-Ekanayake/Athena",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:06:45Z",
-    "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
@@ -297,24 +369,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 9,
-    "updated_at": "2026-05-29T17:00:22Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T16:53:22Z",
     "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:53:07Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 141,
-    "updated_at": "2026-05-29T16:52:14Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:51:33Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 12,
-    "updated_at": "2026-05-29T16:51:24Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:49:45Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-29T16:49:40Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
