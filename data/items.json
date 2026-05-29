@@ -1,5 +1,23 @@
 [
   {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 3,
+    "updated_at": "2026-05-29T23:44:30Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T23:42:03Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -7,6 +25,15 @@
     "stars": 13,
     "updated_at": "2026-05-29T23:40:42Z",
     "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7658,
+    "updated_at": "2026-05-29T23:36:35Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "An autonomous GitHub Action that uses semantic AI and vector databases to flag duplicate issues.",
@@ -45,21 +72,12 @@
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-29T23:30:20Z",
+    "updated_at": "2026-05-29T23:45:30Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:07:48Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:07:42Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:07:25Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
