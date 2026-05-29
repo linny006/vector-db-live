@@ -1,5 +1,113 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-05-29T04:40:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7652,
+    "updated_at": "2026-05-29T04:36:31Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:36:07Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
+    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "language": "TypeScript",
+    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:34:42Z",
+    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
+  },
+  {
+    "description": "The highest-scoring AI memory system ever benchmarked that isn't reliant on LLM reranking. And it's free & burns less to",
+    "id": "EngramMemory/engram-memory",
+    "language": "Python",
+    "name": "EngramMemory/engram-memory",
+    "stars": 29,
+    "updated_at": "2026-05-29T04:34:09Z",
+    "url": "https://github.com/EngramMemory/engram-memory"
+  },
+  {
+    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
+    "id": "Monkish-jewishryebread665/NodeMind",
+    "language": "HTML",
+    "name": "Monkish-jewishryebread665/NodeMind",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:33:20Z",
+    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:32:49Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:32:14Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
+    "id": "dgbac5672/LogN_DB-Core",
+    "language": "C++",
+    "name": "dgbac5672/LogN_DB-Core",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:31:59Z",
+    "url": "https://github.com/dgbac5672/LogN_DB-Core"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:31:49Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
+    "id": "wendyneat563/atlas.llm",
+    "language": "Go",
+    "name": "wendyneat563/atlas.llm",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:31:37Z",
+    "url": "https://github.com/wendyneat563/atlas.llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "ajianaz/uteke",
+    "language": "Python",
+    "name": "ajianaz/uteke",
+    "stars": 0,
+    "updated_at": "2026-05-29T04:30:10Z",
+    "url": "https://github.com/ajianaz/uteke"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -34,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T04:28:10Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "The highest-scoring AI memory system ever benchmarked that isn't reliant on LLM reranking. And it's free & burns less to",
-    "id": "EngramMemory/engram-memory",
-    "language": "Python",
-    "name": "EngramMemory/engram-memory",
-    "stars": 29,
-    "updated_at": "2026-05-29T04:28:01Z",
-    "url": "https://github.com/EngramMemory/engram-memory"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -115,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:25:43Z",
     "url": "https://github.com/tonysperez/dshield_prism"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Persistent memory & smart context management for AI agents. Rust, 2MB binary, zero config.",
-    "id": "ajianaz/uteke",
-    "language": "Python",
-    "name": "ajianaz/uteke",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:30:10Z",
-    "url": "https://github.com/ajianaz/uteke"
   },
   {
     "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
@@ -257,7 +356,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-05-29T04:27:42Z",
+    "updated_at": "2026-05-29T04:43:13Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -277,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:17:04Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-29T04:11:51Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:11:36Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:11:09Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:10:17Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:10:12Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/OpenMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/OpenMemory",
-    "stars": 4167,
-    "updated_at": "2026-05-29T04:10:04Z",
-    "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:10:03Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:09:37Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:09:26Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:09:06Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Benchmark multiple chunking, embedding, and retrieval combinations for RAG pipelines to find the most effective setup wi",
-    "id": "Dyinu/rag-forge",
-    "language": "Python",
-    "name": "Dyinu/rag-forge",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:08:49Z",
-    "url": "https://github.com/Dyinu/rag-forge"
   }
 ]
