@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
+    "id": "Bogeymanlicitness496/mcp-memento",
+    "language": "Python",
+    "name": "Bogeymanlicitness496/mcp-memento",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:44:44Z",
+    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 134,
+    "updated_at": "2026-05-29T07:43:54Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:43:40Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1842,
+    "updated_at": "2026-05-29T07:42:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 1,
+    "updated_at": "2026-05-29T07:42:47Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:42:27Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:41:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -207,24 +279,6 @@
     "url": "https://github.com/Kelvin-genya/indexer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
     "id": "younismahmoud1234/gitsage",
     "language": "Java",
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 62,
-    "updated_at": "2026-05-29T07:37:28Z",
+    "updated_at": "2026-05-29T07:42:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T07:15:51Z",
     "url": "https://github.com/kami-beep/kb-contracts"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:14:00Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\u26a1 Optimize vector searches with a hyper-efficient cache that uses machine learning for faster, smarter data access and r",
-    "id": "Ronakagrwal000/vector-cache-optimizer",
-    "language": "Python",
-    "name": "Ronakagrwal000/vector-cache-optimizer",
-    "stars": 1,
-    "updated_at": "2026-05-29T07:13:42Z",
-    "url": "https://github.com/Ronakagrwal000/vector-cache-optimizer"
-  },
-  {
-    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
-    "id": "leekkk2/transcendence-memory-server",
-    "language": "Python",
-    "name": "leekkk2/transcendence-memory-server",
-    "stars": 1,
-    "updated_at": "2026-05-29T07:36:54Z",
-    "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
-    "description": "\ud83d\udcf7 Transform any camera into ROS2 image topics for seamless integration with robotic systems and effective VLA model depl",
-    "id": "santi1602/AnyCam2Ros",
-    "language": "Python",
-    "name": "santi1602/AnyCam2Ros",
-    "stars": 1,
-    "updated_at": "2026-05-29T07:12:50Z",
-    "url": "https://github.com/santi1602/AnyCam2Ros"
-  },
-  {
-    "description": "",
-    "id": "V4ld3AI/egyptian-rag-translator",
-    "language": "Jupyter Notebook",
-    "name": "V4ld3AI/egyptian-rag-translator",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:12:36Z",
-    "url": "https://github.com/V4ld3AI/egyptian-rag-translator"
-  },
-  {
-    "description": "\ud83e\udde0 Build a simple, local memory system that learns and adapts without complexity or authentication, designed for Claude C",
-    "id": "Oculusnoob/vesper-memory",
-    "language": "TypeScript",
-    "name": "Oculusnoob/vesper-memory",
-    "stars": 0,
-    "updated_at": "2026-05-29T07:12:04Z",
-    "url": "https://github.com/Oculusnoob/vesper-memory"
   }
 ]
