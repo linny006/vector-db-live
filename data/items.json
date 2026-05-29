@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:14:17Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 2,
+    "updated_at": "2026-05-29T22:14:02Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:13:10Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:12:14Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:11:51Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 0,
+    "updated_at": "2026-05-29T22:11:47Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
     "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
     "id": "rein98/PsyChat",
     "language": "Python",
@@ -144,15 +207,6 @@
     "url": "https://github.com/Roberto-star-afk/Moin-Projects"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T22:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udd16 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or dat",
     "id": "Carricacha/local-rag-system",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-05-29T22:00:26Z",
     "url": "https://github.com/Carricacha/local-rag-system"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T22:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83c\udf99\ufe0f Transform your documents into a voice assistant that answers your questions with accurate, context-aware information ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T21:42:32Z",
     "url": "https://github.com/mansuur22/claude-data-analysis"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31660,
-    "updated_at": "2026-05-29T21:42:22Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "",
-    "id": "shreyash550/kramdb",
-    "language": "C++",
-    "name": "shreyash550/kramdb",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:42:20Z",
-    "url": "https://github.com/shreyash550/kramdb"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 7,
-    "updated_at": "2026-05-29T21:41:04Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "RAG pipeline that indexes git repos and documents into Weaviate, then exposes semantic search to LLM clients via MCP ove",
-    "id": "vasyafomiuk/ragolith",
-    "language": "TypeScript",
-    "name": "vasyafomiuk/ragolith",
-    "stars": 1,
-    "updated_at": "2026-05-29T21:39:26Z",
-    "url": "https://github.com/vasyafomiuk/ragolith"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 0,
-    "updated_at": "2026-05-29T21:37:16Z",
-    "url": "https://github.com/SKeditz42/Vec"
   }
 ]
