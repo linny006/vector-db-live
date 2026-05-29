@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 3,
+    "updated_at": "2026-05-29T18:13:59Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Production-grade RAG application for intelligent PDF querying using FastAPI, Streamlit, Qdrant, and semantic AI search.",
+    "id": "AdityaGupta62005/RAG-Production-App",
+    "language": "Python",
+    "name": "AdityaGupta62005/RAG-Production-App",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:13:06Z",
+    "url": "https://github.com/AdityaGupta62005/RAG-Production-App"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 143,
+    "updated_at": "2026-05-29T18:05:29Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
+    "id": "FireFistisDead/pdf-qa-bot",
+    "language": "JavaScript",
+    "name": "FireFistisDead/pdf-qa-bot",
+    "stars": 13,
+    "updated_at": "2026-05-29T18:03:35Z",
+    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "C++ header-only implementation of VaneDB \u2014 embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate ",
     "id": "vanedb/vanedb-cpp",
     "language": "C++",
@@ -36,6 +90,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31657,
+    "updated_at": "2026-05-29T17:49:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
     "id": "lancedb/docs",
     "language": "Python",
@@ -63,24 +126,6 @@
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
@@ -94,7 +139,7 @@
     "id": "Fieldnote-Echo/ordvec",
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-05-29T17:36:58Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
@@ -135,15 +180,6 @@
     "url": "https://github.com/ajianaz/uteke"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 142,
-    "updated_at": "2026-05-29T17:29:18Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
     "description": "An Agentic RAG system for engineering standards and technical documentation.",
     "id": "lexust1/doc-agent",
     "language": "Jupyter Notebook",
@@ -162,15 +198,6 @@
     "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
-    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
-    "id": "splinterhq/libsplinter",
-    "language": "C",
-    "name": "splinterhq/libsplinter",
-    "stars": 3,
-    "updated_at": "2026-05-29T17:20:53Z",
-    "url": "https://github.com/splinterhq/libsplinter"
-  },
-  {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -185,17 +212,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7657,
-    "updated_at": "2026-05-29T17:40:07Z",
+    "updated_at": "2026-05-29T18:15:11Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31656,
-    "updated_at": "2026-05-29T17:49:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:02:27Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:02:00Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:01:11Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
