@@ -1,12 +1,12 @@
 [
   {
-    "description": "Orquestrador de agentes RAG corretivo (CRAG) para resolu\u00e7\u00e3o de problemas de TI com rastreamento LangGraph, FastAPI, Chro",
-    "id": "soneylegal/vortex",
-    "language": "Python",
-    "name": "soneylegal/vortex",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:51:06Z",
-    "url": "https://github.com/soneylegal/vortex"
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 3,
+    "updated_at": "2026-05-30T11:59:15Z",
+    "url": "https://github.com/bas-in/basin"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-30T11:45:23Z",
+    "updated_at": "2026-05-30T11:52:09Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Orquestrador de agentes RAG corretivo (CRAG) para resolu\u00e7\u00e3o de problemas de TI com rastreamento LangGraph, FastAPI, Chro",
+    "id": "soneylegal/vortex",
+    "language": "Python",
+    "name": "soneylegal/vortex",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:51:06Z",
+    "url": "https://github.com/soneylegal/vortex"
   },
   {
     "description": "",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:31:52Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 3,
-    "updated_at": "2026-05-30T11:30:51Z",
-    "url": "https://github.com/bas-in/basin"
   },
   {
     "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
