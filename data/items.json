@@ -1,5 +1,32 @@
 [
   {
+    "description": "Orquestrador de agentes RAG corretivo (CRAG) para resolu\u00e7\u00e3o de problemas de TI com rastreamento LangGraph, FastAPI, Chro",
+    "id": "soneylegal/vortex",
+    "language": "Python",
+    "name": "soneylegal/vortex",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:51:06Z",
+    "url": "https://github.com/soneylegal/vortex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T11:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "",
+    "id": "Nyx-abu/nori",
+    "language": "TypeScript",
+    "name": "Nyx-abu/nori",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:45:21Z",
+    "url": "https://github.com/Nyx-abu/nori"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:42:48Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "",
-    "id": "Nyx-abu/nori",
-    "language": "TypeScript",
-    "name": "Nyx-abu/nori",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:41:23Z",
-    "url": "https://github.com/Nyx-abu/nori"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -214,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:30:25Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:14:59Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:14:52Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
