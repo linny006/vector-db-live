@@ -1,12 +1,12 @@
 [
   {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 3,
-    "updated_at": "2026-05-29T23:44:30Z",
-    "url": "https://github.com/bas-in/basin"
+    "description": "Agentic RAG for FINANCIAL FORENSICS",
+    "id": "arshbedi0/FFRAG-AgenticRAG",
+    "language": "Python",
+    "name": "arshbedi0/FFRAG-AgenticRAG",
+    "stars": 0,
+    "updated_at": "2026-05-29T23:54:48Z",
+    "url": "https://github.com/arshbedi0/FFRAG-AgenticRAG"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-29T23:42:03Z",
+    "updated_at": "2026-05-29T23:45:33Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-29T23:45:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 3,
+    "updated_at": "2026-05-29T23:44:30Z",
+    "url": "https://github.com/bas-in/basin"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -32,7 +50,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7658,
-    "updated_at": "2026-05-29T23:36:35Z",
+    "updated_at": "2026-05-29T23:48:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:30:42Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:45:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:08:02Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:07:48Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
