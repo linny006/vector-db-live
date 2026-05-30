@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Orquestrador de agentes RAG corretivo (CRAG) para resolu\u00e7\u00e3o de problemas de TI com rastreamento LangGraph, FastAPI, Chro",
+    "id": "soneylegal/vortex",
+    "language": "Python",
+    "name": "soneylegal/vortex",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:08:01Z",
+    "url": "https://github.com/soneylegal/vortex"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:00:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "bas-in/basin",
     "language": "Rust",
@@ -9,22 +45,13 @@
     "url": "https://github.com/bas-in/basin"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "This is `ask-my-notes` \u2014 a working RAG system I built end-to-end to learn the modern GenAI stack.  You point it at a fol",
+    "id": "thilakrj/tier-1-ask-my-notes",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "thilakrj/tier-1-ask-my-notes",
     "stars": 0,
-    "updated_at": "2026-05-30T11:52:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Orquestrador de agentes RAG corretivo (CRAG) para resolu\u00e7\u00e3o de problemas de TI com rastreamento LangGraph, FastAPI, Chro",
-    "id": "soneylegal/vortex",
-    "language": "Python",
-    "name": "soneylegal/vortex",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:51:06Z",
-    "url": "https://github.com/soneylegal/vortex"
+    "updated_at": "2026-05-30T11:54:50Z",
+    "url": "https://github.com/thilakrj/tier-1-ask-my-notes"
   },
   {
     "description": "",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T11:45:21Z",
     "url": "https://github.com/Nyx-abu/nori"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 214,
-    "updated_at": "2026-05-30T11:28:49Z",
+    "updated_at": "2026-05-30T12:12:56Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-30T11:16:30Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:15:45Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:14:59Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
