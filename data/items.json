@@ -1,11 +1,65 @@
 [
   {
+    "description": "Agentic RAG for FINANCIAL FORENSICS",
+    "id": "arshbedi0/FFRAG-AgenticRAG",
+    "language": "Python",
+    "name": "arshbedi0/FFRAG-AgenticRAG",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:43:26Z",
+    "url": "https://github.com/arshbedi0/FFRAG-AgenticRAG"
+  },
+  {
+    "description": "Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus \u2014 a living star map w",
+    "id": "CONSTELLATION-ENGINE/constellation-engine",
+    "language": "JavaScript",
+    "name": "CONSTELLATION-ENGINE/constellation-engine",
+    "stars": 55,
+    "updated_at": "2026-05-30T05:40:51Z",
+    "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:39:36Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Multi-agent RAG system built with Agno and Gemini. Features a 3-agent team \u2014 Knowledge Retriever, Web Search fallback, a",
+    "id": "anishmanissery/agno-multi-agent-rag",
+    "language": "Python",
+    "name": "anishmanissery/agno-multi-agent-rag",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:39:23Z",
+    "url": "https://github.com/anishmanissery/agno-multi-agent-rag"
+  },
+  {
+    "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 215,
+    "updated_at": "2026-05-30T05:38:14Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "A simplified, educational multimodal data engine (Graph + Column + Vector) in pure Rust \u2014 ideal for database systems cou",
+    "id": "zhanbolee/DaoQL-Edu",
+    "language": "Rust",
+    "name": "zhanbolee/DaoQL-Edu",
+    "stars": 3,
+    "updated_at": "2026-05-30T05:38:08Z",
+    "url": "https://github.com/zhanbolee/DaoQL-Edu"
+  },
+  {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
     "id": "Open-Source-Legal/cite",
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1341,
-    "updated_at": "2026-05-30T05:33:25Z",
+    "updated_at": "2026-05-30T05:44:41Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-30T05:30:23Z",
+    "updated_at": "2026-05-30T05:34:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   },
   {
-    "description": "A simplified, educational multimodal data engine (Graph + Column + Vector) in pure Rust \u2014 ideal for database systems cou",
-    "id": "zhanbolee/DaoQL-Edu",
-    "language": "Rust",
-    "name": "zhanbolee/DaoQL-Edu",
-    "stars": 3,
-    "updated_at": "2026-05-30T05:13:33Z",
-    "url": "https://github.com/zhanbolee/DaoQL-Edu"
-  },
-  {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
     "id": "lannyfervent952/fastapi-agent-blueprint",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-30T05:04:46Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:04:41Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:04:32Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:04:30Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:04:28Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:03:04Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
