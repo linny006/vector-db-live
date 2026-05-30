@@ -1,21 +1,39 @@
 [
   {
-    "description": "Model Context Protocol server for RosalindDB - operate a vector database from any MCP client (Claude Desktop, Cursor, Cl",
-    "id": "desquaredp/rosalinddb-mcp",
-    "language": "TypeScript",
-    "name": "desquaredp/rosalinddb-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:50:26Z",
-    "url": "https://github.com/desquaredp/rosalinddb-mcp"
-  },
-  {
     "description": "Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline ",
     "id": "tonysperez/dshield_prism",
     "language": "Python",
     "name": "tonysperez/dshield_prism",
     "stars": 0,
-    "updated_at": "2026-05-30T05:49:52Z",
+    "updated_at": "2026-05-30T06:14:53Z",
     "url": "https://github.com/tonysperez/dshield_prism"
+  },
+  {
+    "description": "Object-storage-first vector database. Cost-optimized for cold/bursty workloads. FAISS IVFFlat under the hood.",
+    "id": "rosalinddb/rosalinddb",
+    "language": "Python",
+    "name": "rosalinddb/rosalinddb",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:14:25Z",
+    "url": "https://github.com/rosalinddb/rosalinddb"
+  },
+  {
+    "description": "Model Context Protocol server for RosalindDB - operate a vector database from any MCP client (Claude Desktop, Cursor, Cl",
+    "id": "rosalinddb/rosalinddb-mcp",
+    "language": "TypeScript",
+    "name": "rosalinddb/rosalinddb-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:14:22Z",
+    "url": "https://github.com/rosalinddb/rosalinddb-mcp"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1842,
+    "updated_at": "2026-05-30T06:03:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-30T05:45:21Z",
+    "updated_at": "2026-05-30T06:00:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 215,
-    "updated_at": "2026-05-30T05:48:36Z",
+    "updated_at": "2026-05-30T06:08:48Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 13,
-    "updated_at": "2026-05-30T05:49:22Z",
+    "updated_at": "2026-05-30T06:01:20Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:08:08Z",
     "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:07:55Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:06:26Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
