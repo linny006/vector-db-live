@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 00:15 UTC
+> ⏰ Last updated: 2026-05-30 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [bas-in/basin](https://github.com/bas-in/basin) | 3 | Rust | 2026-05-30 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
-| 3 | [ajianaz/uteke](https://github.com/ajianaz/uteke) | 1 | Python | 2026-05-30 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [arshbedi0/FFRAG-AgenticRAG](https://github.com/arshbedi0/FFRAG-AgenticRAG) | 0 | Python | 2026-05-29 | Agentic RAG for FINANCIAL FORENSICS |
-| 6 | [MariaDB/server](https://github.com/MariaDB/server) | 7659 | C++ | 2026-05-29 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 7 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-05-29 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 1 | [bas-in/basin](https://github.com/bas-in/basin) | 3 | Rust | 2026-05-30 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-05-30 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [ajianaz/uteke](https://github.com/ajianaz/uteke) | 1 | Python | 2026-05-30 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 6 | [arshbedi0/FFRAG-AgenticRAG](https://github.com/arshbedi0/FFRAG-AgenticRAG) | 0 | Python | 2026-05-29 | Agentic RAG for FINANCIAL FORENSICS |
+| 7 | [MariaDB/server](https://github.com/MariaDB/server) | 7659 | C++ | 2026-05-29 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 8 | [Shashank-8p/issue-detector](https://github.com/Shashank-8p/issue-detector) | 0 | HTML | 2026-05-29 | An autonomous GitHub Action that uses semantic AI and vector databases to flag duplicate issues. |
 | 9 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 0 | TypeScript | 2026-05-29 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
 | 10 | [Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant](https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant) | 0 | TypeScript | 2026-05-29 | Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re |
@@ -80,18 +80,18 @@ expired items removed — so you can rely on what you see being current.
 | 36 | [Bielrezende/WMB-100K](https://github.com/Bielrezende/WMB-100K) | 0 | — | 2026-05-29 | Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios |
 | 37 | [okeidontlike/Awareness-Local](https://github.com/okeidontlike/Awareness-Local) | 1 | JavaScript | 2026-05-29 | Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline. |
 | 38 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-05-29 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 39 | [ahmahmahm/pdf-rag-assistant](https://github.com/ahmahmahm/pdf-rag-assistant) | 0 | — | 2026-05-29 | Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes |
-| 40 | [whiteoakredguard557/llmfs](https://github.com/whiteoakredguard557/llmfs) | 0 | Python | 2026-05-29 | Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token  |
-| 41 | [User75621/memory-mcp](https://github.com/User75621/memory-mcp) | 0 | Python | 2026-05-29 | Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks |
-| 42 | [elkalowkey885/gemini-embedding-2-mcp-server](https://github.com/elkalowkey885/gemini-embedding-2-mcp-server) | 0 | Python | 2026-05-29 | Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi |
-| 43 | [dejan3dejan/langgraph-travel-agent](https://github.com/dejan3dejan/langgraph-travel-agent) | 1 | Python | 2026-05-29 | Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud |
-| 44 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-05-29 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 45 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-29 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
-| 46 | [Uncomfortable-filagree112/OpenViking](https://github.com/Uncomfortable-filagree112/OpenViking) | 0 | — | 2026-05-29 | Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks. |
-| 47 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 2 | Python | 2026-05-29 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
-| 48 | [Ekaterinaacid284/memory-lancedb-pro-skill](https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill) | 0 | — | 2026-05-29 | Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory  |
-| 49 | [mad011408/IndexCache](https://github.com/mad011408/IndexCache) | 0 | — | 2026-05-29 | Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi |
-| 50 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-05-29 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
+| 39 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 31661 | Rust | 2026-05-29 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 40 | [ahmahmahm/pdf-rag-assistant](https://github.com/ahmahmahm/pdf-rag-assistant) | 0 | — | 2026-05-29 | Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes |
+| 41 | [whiteoakredguard557/llmfs](https://github.com/whiteoakredguard557/llmfs) | 0 | Python | 2026-05-29 | Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token  |
+| 42 | [User75621/memory-mcp](https://github.com/User75621/memory-mcp) | 0 | Python | 2026-05-29 | Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks |
+| 43 | [elkalowkey885/gemini-embedding-2-mcp-server](https://github.com/elkalowkey885/gemini-embedding-2-mcp-server) | 0 | Python | 2026-05-29 | Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi |
+| 44 | [dejan3dejan/langgraph-travel-agent](https://github.com/dejan3dejan/langgraph-travel-agent) | 1 | Python | 2026-05-29 | Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud |
+| 45 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-05-29 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 46 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 1 | — | 2026-05-29 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
+| 47 | [Uncomfortable-filagree112/OpenViking](https://github.com/Uncomfortable-filagree112/OpenViking) | 0 | — | 2026-05-29 | Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks. |
+| 48 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 2 | Python | 2026-05-29 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
+| 49 | [Ekaterinaacid284/memory-lancedb-pro-skill](https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill) | 0 | — | 2026-05-29 | Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory  |
+| 50 | [mad011408/IndexCache](https://github.com/mad011408/IndexCache) | 0 | — | 2026-05-29 | Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi |
 <!-- TRACKER_TABLE_END -->
 
 ---

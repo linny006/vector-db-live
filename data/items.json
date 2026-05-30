@@ -1,5 +1,32 @@
 [
   {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 3,
+    "updated_at": "2026-05-30T00:25:47Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-05-30T00:15:29Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,31 +36,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 3,
-    "updated_at": "2026-05-30T00:11:48Z",
-    "url": "https://github.com/bas-in/basin"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "ajianaz/uteke",
     "language": "Python",
     "name": "ajianaz/uteke",
     "stars": 1,
-    "updated_at": "2026-05-30T00:11:31Z",
+    "updated_at": "2026-05-30T00:26:26Z",
     "url": "https://github.com/ajianaz/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T00:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic RAG for FINANCIAL FORENSICS",
@@ -52,15 +61,6 @@
     "stars": 7659,
     "updated_at": "2026-05-29T23:48:30Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-05-29T23:40:42Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "An autonomous GitHub Action that uses semantic AI and vector databases to flag duplicate issues.",
@@ -342,6 +342,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31661,
+    "updated_at": "2026-05-29T23:14:35Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
     "id": "ahmahmahm/pdf-rag-assistant",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:09:10Z",
     "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:08:45Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
