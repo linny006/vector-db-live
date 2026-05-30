@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-05-30T10:16:53Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 2,
+    "updated_at": "2026-05-30T10:16:47Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-30T10:15:32Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T10:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T10:00:35Z",
     "url": "https://github.com/Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-style Agentic RAG platform featuring hybrid retrieval (Vector Search + BM25), CrossEncoder reranking, LangGra",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T09:43:21Z",
     "url": "https://github.com/shreyash550/kramdb"
-  },
-  {
-    "description": "In-process vector and result caching with LRU/LFU/ARC eviction - part of the iQDB family.",
-    "id": "jamesgober/iqdb-cache",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-cache",
-    "stars": 0,
-    "updated_at": "2026-05-30T09:39:15Z",
-    "url": "https://github.com/jamesgober/iqdb-cache"
-  },
-  {
-    "description": "Disk persistence, WAL, and crash recovery for iQDB indexes - part of the iQDB family.",
-    "id": "jamesgober/iqdb-persist",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-persist",
-    "stars": 0,
-    "updated_at": "2026-05-30T09:39:13Z",
-    "url": "https://github.com/jamesgober/iqdb-persist"
-  },
-  {
-    "description": "The Index trait unifying flat, HNSW, and IVF vector indexes - part of the iQDB family.",
-    "id": "jamesgober/iqdb-index",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-index",
-    "stars": 0,
-    "updated_at": "2026-05-30T09:38:59Z",
-    "url": "https://github.com/jamesgober/iqdb-index"
   }
 ]
