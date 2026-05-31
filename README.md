@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-31 20:41 UTC
+> ⏰ Last updated: 2026-05-31 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-05-31 | AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-31 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-05-31 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-05-31 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-05-31 | AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with |
 | 4 | [marvinified/voctar](https://github.com/marvinified/voctar) | 6 | TypeScript | 2026-05-31 | Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval. |
 | 5 | [S0gitare/knowledge-indexer](https://github.com/S0gitare/knowledge-indexer) | 1 | Python | 2026-05-31 | Pipeline RAG em Python para ingestão de documentos (PDF, DOCX, XLSX, PPTX, HTML) com chunking e indexação vetorial no Ch |
 | 6 | [joeywhelan/late-chunking](https://github.com/joeywhelan/late-chunking) | 0 | HTML | 2026-05-31 | This demo measures late chunking against standard embedding on two corpora — one where it hurts and one where it helps — |

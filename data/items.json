@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
-    "id": "sahnsookyung/JobScout",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-05-31T20:36:17Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-05-31T20:30:23Z",
+    "updated_at": "2026-05-31T20:41:53Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
+    "id": "sahnsookyung/JobScout",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-05-31T20:36:17Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.",
