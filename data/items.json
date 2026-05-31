@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83e\udde0 Build a simple, local memory system that learns and adapts without complexity or authentication, designed for Claude C",
+    "id": "Oculusnoob/vesper-memory",
+    "language": "TypeScript",
+    "name": "Oculusnoob/vesper-memory",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:41:21Z",
+    "url": "https://github.com/Oculusnoob/vesper-memory"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI agents to coordinate work.",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 13,
+    "updated_at": "2026-05-31T22:41:10Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "\u265f\ufe0f Build an intelligent chess assistant that enhances gameplay with analysis and education, paving the way for future au",
+    "id": "Gen9oooooo/rag-assisted-chess-agent",
+    "language": "JavaScript",
+    "name": "Gen9oooooo/rag-assisted-chess-agent",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:40:50Z",
+    "url": "https://github.com/Gen9oooooo/rag-assisted-chess-agent"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-05-31T22:40:47Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "\ud83d\uded2 Transform e-commerce with AI. Build interactive dashboards and smart search tools for real-time insights and data-driv",
+    "id": "0xmrninja197/ai-online-store",
+    "language": "TypeScript",
+    "name": "0xmrninja197/ai-online-store",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:40:27Z",
+    "url": "https://github.com/0xmrninja197/ai-online-store"
+  },
+  {
+    "description": "\ud83e\udeb6 Capture and explore digital consciousness with MemoryRaven, a powerful tool for memory architecture inspired by myth a",
+    "id": "OnlyinOhio234/MemoryRaven",
+    "language": "Python",
+    "name": "OnlyinOhio234/MemoryRaven",
+    "stars": 2,
+    "updated_at": "2026-05-31T22:40:23Z",
+    "url": "https://github.com/OnlyinOhio234/MemoryRaven"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:39:38Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "\ud83e\udd16 Automate SAP S/4HANA deployment on IBM Cloud PowerVS using Generative AI with RAG and LLM orchestration in OpenShift.",
+    "id": "GhOsTxChEaT/s4hana-ai-agent-openshift",
+    "language": "SCSS",
+    "name": "GhOsTxChEaT/s4hana-ai-agent-openshift",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:38:31Z",
+    "url": "https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:36:46Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI memory with Memo, allowing your coding assistant to remember past conversations and share team knowledge ef",
+    "id": "Aurorasylvani/memo-brain",
+    "language": "Rust",
+    "name": "Aurorasylvani/memo-brain",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:35:40Z",
+    "url": "https://github.com/Aurorasylvani/memo-brain"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-05-31T22:34:24Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83d\udd0d Build a production-grade RAG system for heavy machinery support using AWS Bedrock and PostgreSQL to enhance informatio",
+    "id": "Bhavya0001123/aws-bedrock-rag-knowledge-base",
+    "language": "HCL",
+    "name": "Bhavya0001123/aws-bedrock-rag-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:33:18Z",
+    "url": "https://github.com/Bhavya0001123/aws-bedrock-rag-knowledge-base"
+  },
+  {
+    "description": "\ud83d\udd0d Match German resumes with job descriptions using a local RAG system for semantic search and ATS-style scoring, enhanci",
+    "id": "irullbarca/german-job-matcher-rag",
+    "language": "Python",
+    "name": "irullbarca/german-job-matcher-rag",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:32:41Z",
+    "url": "https://github.com/irullbarca/german-job-matcher-rag"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 272,
+    "updated_at": "2026-05-31T22:31:50Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -230,7 +365,7 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 675,
-    "updated_at": "2026-05-31T22:16:12Z",
+    "updated_at": "2026-05-31T22:41:25Z",
     "url": "https://github.com/neonwatty/meme-search"
   },
   {
@@ -250,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-05-31T22:15:44Z",
     "url": "https://github.com/ArnoldoSQ/smart-coding-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Enhance code search accuracy with Smart Coding MCP, an AI-driven server that uses intelligent embeddings for quick, re",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T22:07:34Z",
     "url": "https://github.com/Namanpaliyal/KardiaFlow"
-  },
-  {
-    "description": "\ud83d\udcdd Preserve human memories and wisdom with Mnemosyne, a digital archive that safeguards our legacies in the age of AI.",
-    "id": "KayseanWasHereOnce/mnemosyneManohar",
-    "language": "JavaScript",
-    "name": "KayseanWasHereOnce/mnemosyneManohar",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:06:21Z",
-    "url": "https://github.com/KayseanWasHereOnce/mnemosyneManohar"
-  },
-  {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-05-31T22:06:38Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:04:13Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-05-31T22:03:54Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-05-31T22:03:52Z",
-    "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:02:42Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:01:49Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 1,
-    "updated_at": "2026-05-31T22:01:23Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:01:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-05-31T22:00:56Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd0d Build a modular RAG system for multi-turn conversations, document ingestion, and vector search using FastAPI and OpenA",
-    "id": "khnifee/RAG-Based-Knowledge-Assistant",
-    "language": "Python",
-    "name": "khnifee/RAG-Based-Knowledge-Assistant",
-    "stars": 1,
-    "updated_at": "2026-05-31T21:59:52Z",
-    "url": "https://github.com/khnifee/RAG-Based-Knowledge-Assistant"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and i",
-    "id": "saurabhmain/a-mem-mcp-server",
-    "language": "Python",
-    "name": "saurabhmain/a-mem-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-05-31T21:59:51Z",
-    "url": "https://github.com/saurabhmain/a-mem-mcp-server"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-05-31T21:58:33Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-05-31T21:57:42Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
   }
 ]
