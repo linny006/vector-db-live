@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T13:45:18Z",
+    "updated_at": "2026-05-31T14:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Distributed vector search node and client for Seer. Production Seer is not accepting Totem requests just yet. For indepe",
+    "id": "rao-studios/Totem",
+    "language": "Swift",
+    "name": "rao-studios/Totem",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:58:57Z",
+    "url": "https://github.com/rao-studios/Totem"
+  },
+  {
+    "description": "RAG based document question answering system with a basic agentic AI workflow using LangGraph.",
+    "id": "YashPratapRai/RAG",
+    "language": "Jupyter Notebook",
+    "name": "YashPratapRai/RAG",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:57:21Z",
+    "url": "https://github.com/YashPratapRai/RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T13:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Declarative and Incremental Backend for Multimodal AI Applications",
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-05-31T13:31:50Z",
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:22:00Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-31T12:20:26Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:18:41Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
