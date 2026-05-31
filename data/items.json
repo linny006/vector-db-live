@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-05-31T00:43:33Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, vectors, hybrid search, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-go",
     "language": "Go",
     "name": "Dakera-AI/dakera-go",
     "stars": 1,
-    "updated_at": "2026-05-31T00:29:48Z",
+    "updated_at": "2026-05-31T00:33:48Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "Dakera-AI/dakera-rs",
     "stars": 4,
-    "updated_at": "2026-05-31T00:29:45Z",
+    "updated_at": "2026-05-31T00:33:47Z",
     "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "Dakera-AI/dakera-js",
     "stars": 1,
-    "updated_at": "2026-05-31T00:29:43Z",
+    "updated_at": "2026-05-31T00:33:46Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "Dakera-AI/dakera-py",
     "stars": 1,
-    "updated_at": "2026-05-31T00:29:40Z",
+    "updated_at": "2026-05-31T00:33:45Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:17:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
     "id": "fik93673/QueryMind-SQL",
     "language": "TypeScript",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:15:28Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T23:50:38Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:50:30Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
