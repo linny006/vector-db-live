@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-05-31T19:45:20Z",
+    "updated_at": "2026-05-31T20:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 63,
+    "updated_at": "2026-05-31T20:00:18Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) based AI assistant for answering questions using video transcript chunks, featuri",
+    "id": "wahibkhannn/RAG_Based_AI_Course_Assistant",
+    "language": "Python",
+    "name": "wahibkhannn/RAG_Based_AI_Course_Assistant",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:00:01Z",
+    "url": "https://github.com/wahibkhannn/RAG_Based_AI_Course_Assistant"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6934,
+    "updated_at": "2026-05-31T19:57:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-05-31T19:57:24Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Pipeline RAG em Python para ingest\u00e3o de documentos (PDF, DOCX, XLSX, PPTX, HTML) com chunking e indexa\u00e7\u00e3o vetorial no Ch",
+    "id": "S0gitare/knowledge-indexer",
+    "language": "Python",
+    "name": "S0gitare/knowledge-indexer",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:56:32Z",
+    "url": "https://github.com/S0gitare/knowledge-indexer"
+  },
+  {
+    "description": "",
+    "id": "Ritikesh11/secure-rag-assistant",
+    "language": "Python",
+    "name": "Ritikesh11/secure-rag-assistant",
+    "stars": 3,
+    "updated_at": "2026-05-31T19:52:48Z",
+    "url": "https://github.com/Ritikesh11/secure-rag-assistant"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:50:04Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Production-grade agentic AI orchestration platform \u2014 RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama,",
+    "id": "AliSajadian/agentica",
+    "language": "Python",
+    "name": "AliSajadian/agentica",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:46:40Z",
+    "url": "https://github.com/AliSajadian/agentica"
+  },
+  {
+    "description": "\ud83c\udfe0 An AI real estate app featuring secure auth, conversation management, & personalized property recommendations. Powered",
+    "id": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "language": "TypeScript",
+    "name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "stars": 32,
+    "updated_at": "2026-05-31T19:45:25Z",
+    "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
@@ -22,7 +112,7 @@
     "id": "nram-ai/nram",
     "language": "Go",
     "name": "nram-ai/nram",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-05-31T19:44:46Z",
     "url": "https://github.com/nram-ai/nram"
   },
@@ -43,15 +133,6 @@
     "stars": 906,
     "updated_at": "2026-05-31T19:43:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:40:59Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -274,7 +355,7 @@
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
     "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:23:20Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:17:02Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:15:31Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:13:44Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-05-31T19:13:37Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:13:29Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:13:26Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:13:03Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:12:03Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:11:56Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:11:50Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
   }
 ]
