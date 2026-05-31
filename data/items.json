@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.",
+    "id": "marvinified/voctar",
+    "language": "TypeScript",
+    "name": "marvinified/voctar",
+    "stars": 6,
+    "updated_at": "2026-05-31T20:26:13Z",
+    "url": "https://github.com/marvinified/voctar"
   },
   {
     "description": "Pipeline RAG em Python para ingest\u00e3o de documentos (PDF, DOCX, XLSX, PPTX, HTML) com chunking e indexa\u00e7\u00e3o vetorial no Ch",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "S0gitare/knowledge-indexer",
     "stars": 1,
-    "updated_at": "2026-05-31T20:15:09Z",
+    "updated_at": "2026-05-31T20:27:58Z",
     "url": "https://github.com/S0gitare/knowledge-indexer"
+  },
+  {
+    "description": "This demo measures late chunking against standard embedding on two corpora \u2014 one where it hurts and one where it helps \u2014",
+    "id": "joeywhelan/late-chunking",
+    "language": "HTML",
+    "name": "joeywhelan/late-chunking",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:21:20Z",
+    "url": "https://github.com/joeywhelan/late-chunking"
+  },
+  {
+    "description": "",
+    "id": "Ritikesh11/secure-rag-assistant",
+    "language": "Python",
+    "name": "Ritikesh11/secure-rag-assistant",
+    "stars": 3,
+    "updated_at": "2026-05-31T20:20:47Z",
+    "url": "https://github.com/Ritikesh11/secure-rag-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,15 +90,6 @@
     "url": "https://github.com/GoodbyePlanet/semcode"
   },
   {
-    "description": "This demo measures late chunking against standard embedding on two corpora \u2014 one where it hurts and one where it helps \u2014",
-    "id": "joeywhelan/late-chunking",
-    "language": "HTML",
-    "name": "joeywhelan/late-chunking",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:09:03Z",
-    "url": "https://github.com/joeywhelan/late-chunking"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -88,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-05-31T20:13:43Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -133,15 +151,6 @@
     "stars": 13,
     "updated_at": "2026-05-31T19:57:24Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "",
-    "id": "Ritikesh11/secure-rag-assistant",
-    "language": "Python",
-    "name": "Ritikesh11/secure-rag-assistant",
-    "stars": 3,
-    "updated_at": "2026-05-31T19:52:48Z",
-    "url": "https://github.com/Ritikesh11/secure-rag-assistant"
   },
   {
     "description": "Production-grade agentic AI orchestration platform \u2014 RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama,",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T19:22:26Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:21:20Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
