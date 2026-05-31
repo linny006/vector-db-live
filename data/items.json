@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udcda Learn to build and understand Vector Databases step-by-step in Arabic, gaining practical insights beyond existing solu",
+    "id": "TekilaSS/Educational-Vector-Database",
+    "language": "Python",
+    "name": "TekilaSS/Educational-Vector-Database",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:18:38Z",
+    "url": "https://github.com/TekilaSS/Educational-Vector-Database"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance LLMs with Memlayer for intelligent, contextual memory and fast retrieval\u2014streamline agents with just 3 lines o",
+    "id": "breninfps/memlayer",
+    "language": "Python",
+    "name": "breninfps/memlayer",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:18:31Z",
+    "url": "https://github.com/breninfps/memlayer"
+  },
+  {
+    "description": "\ud83d\udd0d Implement hybrid search using Vespa and FastAPI, blending BM25 and dense semantic retrieval for efficient, accurate in",
+    "id": "Sidhey/search",
+    "language": "Python",
+    "name": "Sidhey/search",
+    "stars": 1,
+    "updated_at": "2026-05-31T08:18:12Z",
+    "url": "https://github.com/Sidhey/search"
+  },
+  {
+    "description": "",
+    "id": "kastiglia/raptor",
+    "language": "Rust",
+    "name": "kastiglia/raptor",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:17:39Z",
+    "url": "https://github.com/kastiglia/raptor"
+  },
+  {
+    "description": "\ud83d\udd27 Build and manage projects efficiently with Moin-Projects, simplifying collaboration and enhancing productivity for dev",
+    "id": "Roberto-star-afk/Moin-Projects",
+    "language": "HTML",
+    "name": "Roberto-star-afk/Moin-Projects",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:17:16Z",
+    "url": "https://github.com/Roberto-star-afk/Moin-Projects"
+  },
+  {
+    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
+    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "language": "Python",
+    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "stars": 1,
+    "updated_at": "2026-05-31T08:16:45Z",
+    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T08:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or dat",
     "id": "Carricacha/local-rag-system",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 62,
-    "updated_at": "2026-05-31T08:11:59Z",
+    "updated_at": "2026-05-31T08:16:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -196,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T08:00:34Z",
     "url": "https://github.com/Milesdexter/docschat-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T08:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T08:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udde0 Enhance AI conversations with Cognio, a persistent memory server that retains context and enables meaningful semantic ",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T07:44:04Z",
     "url": "https://github.com/gekonge/No-one"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
-    "id": "damn124/ai-calling-agent",
-    "language": "Python",
-    "name": "damn124/ai-calling-agent",
-    "stars": 1,
-    "updated_at": "2026-05-31T07:44:01Z",
-    "url": "https://github.com/damn124/ai-calling-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build a production-ready generative AI chatbot with RAG, LangChain, and Azure for accurate, context-aware conversation",
-    "id": "Lp7X/azure-genai-chatbot-rag-langchain",
-    "language": "Python",
-    "name": "Lp7X/azure-genai-chatbot-rag-langchain",
-    "stars": 1,
-    "updated_at": "2026-05-31T07:42:56Z",
-    "url": "https://github.com/Lp7X/azure-genai-chatbot-rag-langchain"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI coordination with the Qdrant Neo4j Crawl4AI MCP server, combining vector search, knowledge graphs, and web ",
-    "id": "Hyperkorn/qdrant-neo4j-crawl4ai-mcp",
-    "language": "Python",
-    "name": "Hyperkorn/qdrant-neo4j-crawl4ai-mcp",
-    "stars": 2,
-    "updated_at": "2026-05-31T07:42:39Z",
-    "url": "https://github.com/Hyperkorn/qdrant-neo4j-crawl4ai-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-05-31T07:42:10Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-05-31T07:41:19Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83d\udce7 Build, manage, and optimize email campaigns with AI. Enhance engagement and streamline your workflows effortlessly.",
-    "id": "gagdfzawgyta/AI-EMAIL-SAAS",
-    "language": "TypeScript",
-    "name": "gagdfzawgyta/AI-EMAIL-SAAS",
-    "stars": 1,
-    "updated_at": "2026-05-31T07:41:09Z",
-    "url": "https://github.com/gagdfzawgyta/AI-EMAIL-SAAS"
   }
 ]
