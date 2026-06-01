@@ -1,11 +1,38 @@
 [
   {
+    "description": "A minimal image search engine showcasing Firn over Lance on AWS S3. Upload an image, CLIP turns it into a 512-dim vector",
+    "id": "gordonmurray/metabare.com",
+    "language": "Python",
+    "name": "gordonmurray/metabare.com",
+    "stars": 7,
+    "updated_at": "2026-06-01T10:17:04Z",
+    "url": "https://github.com/gordonmurray/metabare.com"
+  },
+  {
+    "description": "",
+    "id": "planetis-m/rag-tool",
+    "language": "\u2014",
+    "name": "planetis-m/rag-tool",
+    "stars": 1,
+    "updated_at": "2026-06-01T10:16:14Z",
+    "url": "https://github.com/planetis-m/rag-tool"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T10:15:23Z",
+    "updated_at": "2026-06-01T10:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,17 +50,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4406,
-    "updated_at": "2026-06-01T10:06:04Z",
+    "updated_at": "2026-06-01T10:22:18Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A minimal image search engine showcasing Firn over Lance on AWS S3. Upload an image, CLIP turns it into a 512-dim vector",
-    "id": "gordonmurray/metabare.com",
-    "language": "Python",
-    "name": "gordonmurray/metabare.com",
-    "stars": 7,
-    "updated_at": "2026-06-01T10:05:57Z",
-    "url": "https://github.com/gordonmurray/metabare.com"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T10:00:47Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
@@ -68,8 +77,17 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6152,
-    "updated_at": "2026-06-01T10:05:09Z",
+    "updated_at": "2026-06-01T10:21:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31720,
+    "updated_at": "2026-06-01T09:54:46Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
@@ -94,7 +112,7 @@
     "id": "hemasaivattikuti25/Mithra-AI-life-os",
     "language": "JavaScript",
     "name": "hemasaivattikuti25/Mithra-AI-life-os",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-06-01T09:48:55Z",
     "url": "https://github.com/hemasaivattikuti25/Mithra-AI-life-os"
   },
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T09:43:12Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31719,
-    "updated_at": "2026-06-01T09:54:46Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -238,7 +247,7 @@
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 213,
+    "stars": 214,
     "updated_at": "2026-06-01T09:28:17Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T09:17:11Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:16:00Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
