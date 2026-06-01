@@ -5,8 +5,161 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T12:15:26Z",
+    "updated_at": "2026-06-01T12:30:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcda Index and search academic research papers with AI-powered Q&A and metadata extraction for comprehensive literature rev",
+    "id": "bobspw/thesis-rag",
+    "language": "Python",
+    "name": "bobspw/thesis-rag",
+    "stars": 1,
+    "updated_at": "2026-06-01T12:29:15Z",
+    "url": "https://github.com/bobspw/thesis-rag"
+  },
+  {
+    "description": "\ud83c\udf3e Accelerate similarity search with GrainVDB, a native vector engine for macOS and Apple Silicon, leveraging Metal for h",
+    "id": "Rhodrix7771/grain-vdb",
+    "language": "Python",
+    "name": "Rhodrix7771/grain-vdb",
+    "stars": 1,
+    "updated_at": "2026-06-01T12:28:24Z",
+    "url": "https://github.com/Rhodrix7771/grain-vdb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6152,
+    "updated_at": "2026-06-01T12:29:33Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-06-01T12:27:31Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Capture and manage your team's knowledge effortlessly with Eywa, ensuring no valuable memory is ever lost.",
+    "id": "nans28/eywa",
+    "language": "Rust",
+    "name": "nans28/eywa",
+    "stars": 2,
+    "updated_at": "2026-06-01T12:27:09Z",
+    "url": "https://github.com/nans28/eywa"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance code search with intelligent semantic indexing, empowering AI assistants to find relevant code quickly and acc",
+    "id": "ArnoldoSQ/smart-coding-mcp",
+    "language": "JavaScript",
+    "name": "ArnoldoSQ/smart-coding-mcp",
+    "stars": 2,
+    "updated_at": "2026-06-01T12:26:50Z",
+    "url": "https://github.com/ArnoldoSQ/smart-coding-mcp"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code search accuracy with Smart Coding MCP, an AI-driven server that uses intelligent embeddings for quick, re",
+    "id": "Moxnyyy/smart-coding-mcp",
+    "language": "HTML",
+    "name": "Moxnyyy/smart-coding-mcp",
+    "stars": 2,
+    "updated_at": "2026-06-01T12:26:01Z",
+    "url": "https://github.com/Moxnyyy/smart-coding-mcp"
+  },
+  {
+    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
+    "id": "mowael07/Awesome-RAG-Production",
+    "language": "Python",
+    "name": "mowael07/Awesome-RAG-Production",
+    "stars": 3,
+    "updated_at": "2026-06-01T12:22:33Z",
+    "url": "https://github.com/mowael07/Awesome-RAG-Production"
+  },
+  {
+    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025)",
+    "id": "treygrainger/ai-powered-search",
+    "language": "Jupyter Notebook",
+    "name": "treygrainger/ai-powered-search",
+    "stars": 386,
+    "updated_at": "2026-06-01T12:22:23Z",
+    "url": "https://github.com/treygrainger/ai-powered-search"
+  },
+  {
+    "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 1,
+    "updated_at": "2026-06-01T12:22:12Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-01T12:21:19Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-01T12:20:28Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 118,
+    "updated_at": "2026-06-01T12:19:47Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "\ud83d\ude80 Build an enterprise-ready RAG system to enhance technical documentation querying with LangGraph and multi-step reasoni",
+    "id": "deepashreesiva/langgraph-rag-assistant",
+    "language": "Python",
+    "name": "deepashreesiva/langgraph-rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-01T12:19:31Z",
+    "url": "https://github.com/deepashreesiva/langgraph-rag-assistant"
+  },
+  {
+    "description": "\ud83d\ude80 Build and deploy a lightweight RAG demo using FastAPI, Chroma, and Ollama LLM for efficient AI-assisted information re",
+    "id": "Namanpaliyal/KardiaFlow",
+    "language": "HTML",
+    "name": "Namanpaliyal/KardiaFlow",
+    "stars": 0,
+    "updated_at": "2026-06-01T12:18:03Z",
+    "url": "https://github.com/Namanpaliyal/KardiaFlow"
+  },
+  {
+    "description": "\ud83d\udcdd Preserve human memories and wisdom with Mnemosyne, a digital archive that safeguards our legacies in the age of AI.",
+    "id": "KayseanWasHereOnce/mnemosyneManohar",
+    "language": "JavaScript",
+    "name": "KayseanWasHereOnce/mnemosyneManohar",
+    "stars": 0,
+    "updated_at": "2026-06-01T12:16:41Z",
+    "url": "https://github.com/KayseanWasHereOnce/mnemosyneManohar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T12:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -14,7 +167,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 57896,
-    "updated_at": "2026-06-01T12:15:10Z",
+    "updated_at": "2026-06-01T12:25:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -135,6 +288,15 @@
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
   },
   {
+    "description": "Memory control plane for AI Agents in 6 lines of code",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17616,
+    "updated_at": "2026-06-01T12:28:44Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -205,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T12:00:56Z",
     "url": "https://github.com/Sidhey/search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T12:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -295,158 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T11:51:25Z",
     "url": "https://github.com/xLyleericson/OmniLearnAI"
-  },
-  {
-    "description": "\ud83e\udd86 Explore DuckDB's powerful features for efficient data analysis and easy integration with various data sources and tool",
-    "id": "Linco2749/duckdb-s22",
-    "language": "\u2014",
-    "name": "Linco2749/duckdb-s22",
-    "stars": 0,
-    "updated_at": "2026-06-01T11:50:46Z",
-    "url": "https://github.com/Linco2749/duckdb-s22"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe",
-    "id": "boxcalfdevelopmentallearning748/OpenScout",
-    "language": "Python",
-    "name": "boxcalfdevelopmentallearning748/OpenScout",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:50:44Z",
-    "url": "https://github.com/boxcalfdevelopmentallearning748/OpenScout"
-  },
-  {
-    "description": "Xmem is a India's First open source multi-modal, multi-agentic long\u2011term memory layer for AI agents. ",
-    "id": "XortexAI/XMem",
-    "language": "Python",
-    "name": "XortexAI/XMem",
-    "stars": 205,
-    "updated_at": "2026-06-01T11:50:23Z",
-    "url": "https://github.com/XortexAI/XMem"
-  },
-  {
-    "description": "\ud83d\ude80 Connect your IDE or AI assistant to the Codex CLI with this open-source MCP server for efficient automation and robust",
-    "id": "directive-reticule640/codex-mcp-server",
-    "language": "TypeScript",
-    "name": "directive-reticule640/codex-mcp-server",
-    "stars": 3,
-    "updated_at": "2026-06-01T11:50:03Z",
-    "url": "https://github.com/directive-reticule640/codex-mcp-server"
-  },
-  {
-    "description": "\u26a1 Compress LLM embeddings efficiently with Vectro, achieving ultra-high performance and guaranteed quality for your mach",
-    "id": "helderm989/vectro",
-    "language": "Mojo",
-    "name": "helderm989/vectro",
-    "stars": 2,
-    "updated_at": "2026-06-01T11:47:24Z",
-    "url": "https://github.com/helderm989/vectro"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:46:41Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6937,
-    "updated_at": "2026-06-01T12:08:03Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 11845,
-    "updated_at": "2026-06-01T11:46:31Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 2,
-    "updated_at": "2026-06-01T11:46:28Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "A pluggable, self-correcting agentic RAG framework \u2014 cited, grounded answers with a critic-driven retry loop. Swap your ",
-    "id": "jaesungl33/ragloop",
-    "language": "Python",
-    "name": "jaesungl33/ragloop",
-    "stars": 0,
-    "updated_at": "2026-06-01T11:46:24Z",
-    "url": "https://github.com/jaesungl33/ragloop"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Run local Large Language Models offline with ease using Ollama for streamlined access and interaction.",
-    "id": "SuperDev699/CheatSheet-LLM",
-    "language": "Python",
-    "name": "SuperDev699/CheatSheet-LLM",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:46:07Z",
-    "url": "https://github.com/SuperDev699/CheatSheet-LLM"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Simplify your tasks with MineContext, an open-source AI tool that provides context-aware support for clarity and effi",
-    "id": "Lithium2012/MineContext",
-    "language": "Python",
-    "name": "Lithium2012/MineContext",
-    "stars": 2,
-    "updated_at": "2026-06-01T11:42:51Z",
-    "url": "https://github.com/Lithium2012/MineContext"
-  },
-  {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1344,
-    "updated_at": "2026-06-01T12:01:54Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "AI-powered incident root cause analyzer using multi-agent LangGraph workflows, RAG, Spring Boot, and Spring AI",
-    "id": "Saikrishnatejaambati/hackathonMphasis",
-    "language": "Java",
-    "name": "Saikrishnatejaambati/hackathonMphasis",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:39:31Z",
-    "url": "https://github.com/Saikrishnatejaambati/hackathonMphasis"
-  },
-  {
-    "description": "\ud83d\udcda Enhance technical documentation queries with DocsChat RAG, a robust Retrieval-Augmented Generation system featuring hy",
-    "id": "Milesdexter/docschat-rag",
-    "language": "\u2014",
-    "name": "Milesdexter/docschat-rag",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:39:00Z",
-    "url": "https://github.com/Milesdexter/docschat-rag"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI conversations with Cognio, a persistent memory server that retains context and enables meaningful semantic ",
-    "id": "Thianvelaz/Cognio",
-    "language": "Python",
-    "name": "Thianvelaz/Cognio",
-    "stars": 3,
-    "updated_at": "2026-06-01T11:37:44Z",
-    "url": "https://github.com/Thianvelaz/Cognio"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-06-01T11:37:32Z",
-    "url": "https://github.com/britorbs/consciousdb"
   }
 ]
