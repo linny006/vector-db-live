@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T03:15:19Z",
+    "updated_at": "2026-06-01T03:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:26:33Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "The highest-scoring AI memory system ever benchmarked that isn't reliant on LLM reranking. And it's free & burns less to",
+    "id": "EngramMemory/engram-memory",
+    "language": "Python",
+    "name": "EngramMemory/engram-memory",
+    "stars": 31,
+    "updated_at": "2026-06-01T03:18:15Z",
+    "url": "https://github.com/EngramMemory/engram-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -27,15 +54,6 @@
     "url": "https://github.com/dmitryglhf/edda"
   },
   {
-    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
-    "id": "matolks/AI-engineering",
-    "language": "HTML",
-    "name": "matolks/AI-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:08:17Z",
-    "url": "https://github.com/matolks/AI-engineering"
-  },
-  {
     "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
     "id": "xDarkicex/openclaw-memory-libravdb",
     "language": "TypeScript",
@@ -52,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-06-01T03:11:05Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic code search engine \u2014 FastAPI, tree-sitter, Qdrant, OpenAI embeddings, Cloud Run",
@@ -103,7 +112,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44561,
+    "stars": 44563,
     "updated_at": "2026-06-01T02:52:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-01T02:05:41Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:05:17Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
