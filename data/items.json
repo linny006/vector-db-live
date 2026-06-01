@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:45:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-01T14:40:06Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 756,
+    "updated_at": "2026-06-01T14:37:50Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57900,
+    "updated_at": "2026-06-01T14:36:06Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Memory control plane for AI Agents in 6 lines of code",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17618,
+    "updated_at": "2026-06-01T14:44:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG \u2014 vector database, pinecone, retrieval augmented generation, vector db comparison.",
     "id": "HemomancerRegard/rag-vector-db",
     "language": "\u2014",
@@ -9,22 +63,22 @@
     "url": "https://github.com/HemomancerRegard/rag-vector-db"
   },
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6937,
+    "updated_at": "2026-06-01T14:28:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "Local-first voice RAG assistant for talking to documents with FastAPI, LangGraph, Qdrant, Ollama embeddings, Groq STT/ch",
     "id": "RossDmello2/voice-rag-agent",
     "language": "Python",
     "name": "RossDmello2/voice-rag-agent",
     "stars": 2,
-    "updated_at": "2026-06-01T14:26:12Z",
+    "updated_at": "2026-06-01T14:31:12Z",
     "url": "https://github.com/RossDmello2/voice-rag-agent"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 756,
-    "updated_at": "2026-06-01T14:25:40Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Production-grade YouTube RAG Engine: Talk to any YouTube channel using FastAPI, Streamlit, and ChromaDB. Features Hybrid",
@@ -36,31 +90,40 @@
     "url": "https://github.com/Sourajit-M/youtube-semantic-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "neuml/txtai",
+    "stars": 12622,
+    "updated_at": "2026-06-01T14:22:24Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31724,
+    "stars": 31726,
     "updated_at": "2026-06-01T14:16:35Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!",
+    "id": "weaviate/recipes",
+    "language": "Jupyter Notebook",
+    "name": "weaviate/recipes",
+    "stars": 942,
+    "updated_at": "2026-06-01T14:13:24Z",
+    "url": "https://github.com/weaviate/recipes"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "Shell",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 2,
+    "updated_at": "2026-06-01T14:07:16Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -94,7 +157,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12169,
+    "stars": 12171,
     "updated_at": "2026-06-01T13:56:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -311,7 +374,7 @@
     "language": "Rust",
     "name": "Minns-ai/MinnsDB",
     "stars": 17,
-    "updated_at": "2026-06-01T13:37:19Z",
+    "updated_at": "2026-06-01T14:39:07Z",
     "url": "https://github.com/Minns-ai/MinnsDB"
   },
   {
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "heybeaux/engram",
     "stars": 3,
-    "updated_at": "2026-06-01T14:17:23Z",
+    "updated_at": "2026-06-01T14:31:49Z",
     "url": "https://github.com/heybeaux/engram"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:30:03Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 57898,
-    "updated_at": "2026-06-01T13:29:22Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9308,
-    "updated_at": "2026-06-01T13:29:17Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:28:21Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "",
-    "id": "planetis-m/rag-tool",
-    "language": "\u2014",
-    "name": "planetis-m/rag-tool",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:28:09Z",
-    "url": "https://github.com/planetis-m/rag-tool"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-01T13:27:30Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:27:10Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
