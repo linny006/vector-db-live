@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T15:15:30Z",
+    "updated_at": "2026-06-01T15:30:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-01T15:27:36Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 8,
+    "updated_at": "2026-06-01T15:16:11Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,15 +32,33 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-01T15:00:34Z",
+    "updated_at": "2026-06-01T15:15:34Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12172,
+    "updated_at": "2026-06-01T15:09:36Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 757,
+    "updated_at": "2026-06-01T15:09:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31727,
+    "stars": 31728,
     "updated_at": "2026-06-01T14:59:12Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -45,6 +81,15 @@
     "url": "https://github.com/RossDmello2/voice-rag-assistant"
   },
   {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 44,
+    "updated_at": "2026-06-01T14:52:10Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
     "description": "A high-performance, 100% local Retrieval-Augmented Generation (RAG) system built on the Model Context Protocol (MCP). De",
     "id": "davinson-pezo/mcp-scientific-rag",
     "language": "Python",
@@ -61,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-06-01T14:49:52Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Xmem is a India's First open source multi-modal, multi-agentic long\u2011term memory layer for AI agents. ",
+    "id": "XortexAI/XMem",
+    "language": "Python",
+    "name": "XortexAI/XMem",
+    "stars": 211,
+    "updated_at": "2026-06-01T14:48:47Z",
+    "url": "https://github.com/XortexAI/XMem"
   },
   {
     "description": "Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline ",
@@ -81,21 +135,12 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-06-01T15:14:04Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-01T15:01:34Z",
+    "updated_at": "2026-06-01T15:27:55Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 17,
     "updated_at": "2026-06-01T14:39:07Z",
     "url": "https://github.com/Minns-ai/MinnsDB"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 756,
-    "updated_at": "2026-06-01T15:09:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17618,
-    "updated_at": "2026-06-01T14:44:38Z",
+    "updated_at": "2026-06-01T15:26:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -193,7 +229,7 @@
     "id": "kalisio/knowledge",
     "language": "Python",
     "name": "kalisio/knowledge",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T14:03:44Z",
     "url": "https://github.com/kalisio/knowledge"
   },
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:59:22Z",
     "url": "https://github.com/digit987/enterprise-agentic-rag-platform"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12171,
-    "updated_at": "2026-06-01T15:09:36Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:37:38Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:37:29Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:36:18Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:35:40Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
