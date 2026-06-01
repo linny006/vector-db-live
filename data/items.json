@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T10:00:27Z",
+    "updated_at": "2026-06-01T10:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57896,
+    "updated_at": "2026-06-01T10:09:05Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4406,
+    "updated_at": "2026-06-01T10:06:04Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A minimal image search engine showcasing Firn over Lance on AWS S3. Upload an image, CLIP turns it into a 512-dim vector",
+    "id": "gordonmurray/metabare.com",
+    "language": "Python",
+    "name": "gordonmurray/metabare.com",
+    "stars": 7,
+    "updated_at": "2026-06-01T10:05:57Z",
+    "url": "https://github.com/gordonmurray/metabare.com"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "Shell",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 2,
+    "updated_at": "2026-06-01T10:00:47Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "jgoy-labs/server-nexe",
     "stars": 9,
-    "updated_at": "2026-06-01T10:00:04Z",
+    "updated_at": "2026-06-01T10:04:40Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
@@ -23,7 +68,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6152,
-    "updated_at": "2026-06-01T09:55:38Z",
+    "updated_at": "2026-06-01T10:05:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-01T09:48:55Z",
     "url": "https://github.com/hemasaivattikuti25/Mithra-AI-life-os"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -171,15 +207,6 @@
     "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4406,
-    "updated_at": "2026-06-01T09:47:53Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
     "id": "wendyneat563/atlas.llm",
     "language": "Go",
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1843,
-    "updated_at": "2026-06-01T09:26:23Z",
+    "updated_at": "2026-06-01T10:04:53Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T09:16:00Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10466,
-    "updated_at": "2026-06-01T10:00:03Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:15:07Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:13:47Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
