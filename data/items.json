@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:35:17Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-01T22:35:06Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1566,
+    "updated_at": "2026-06-01T22:34:27Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:33:53Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:32:54Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-01T22:32:29Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-01T22:32:00Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd0d Build a modular RAG system for multi-turn conversations, document ingestion, and vector search using FastAPI and OpenA",
+    "id": "khnifee/RAG-Based-Knowledge-Assistant",
+    "language": "Python",
+    "name": "khnifee/RAG-Based-Knowledge-Assistant",
+    "stars": 1,
+    "updated_at": "2026-06-01T22:31:05Z",
+    "url": "https://github.com/khnifee/RAG-Based-Knowledge-Assistant"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and i",
+    "id": "saurabhmain/a-mem-mcp-server",
+    "language": "Python",
+    "name": "saurabhmain/a-mem-mcp-server",
+    "stars": 1,
+    "updated_at": "2026-06-01T22:30:59Z",
+    "url": "https://github.com/saurabhmain/a-mem-mcp-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T22:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
     "id": "Jeroflo88/Self-Corrective-RAG",
     "language": "Python",
@@ -180,15 +279,6 @@
     "url": "https://github.com/xLyleericson/OmniLearnAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T22:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udd0d Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe",
     "id": "boxcalfdevelopmentallearning748/OpenScout",
     "language": "Python",
@@ -196,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T22:15:19Z",
     "url": "https://github.com/boxcalfdevelopmentallearning748/OpenScout"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T22:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd86 Explore DuckDB's powerful features for efficient data analysis and easy integration with various data sources and tool",
@@ -268,6 +349,15 @@
     "stars": 1,
     "updated_at": "2026-06-01T22:11:28Z",
     "url": "https://github.com/SuperDev699/CheatSheet-LLM"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10471,
+    "updated_at": "2026-06-01T22:10:14Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "\ud83d\udee0\ufe0f Simplify your tasks with MineContext, an open-source AI tool that provides context-aware support for clarity and effi",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T22:01:30Z",
     "url": "https://github.com/mansuur22/claude-data-analysis"
-  },
-  {
-    "description": "",
-    "id": "shreyash550/kramdb",
-    "language": "C++",
-    "name": "shreyash550/kramdb",
-    "stars": 0,
-    "updated_at": "2026-06-01T22:01:13Z",
-    "url": "https://github.com/shreyash550/kramdb"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 1,
-    "updated_at": "2026-06-01T21:55:06Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:54:07Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-06-01T21:53:43Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83d\udd0d Optimize and manage prompts, agents, and templates with ContextForge, an AI-powered platform for seamless collaboratio",
-    "id": "vishu570/contextforge",
-    "language": "TypeScript",
-    "name": "vishu570/contextforge",
-    "stars": 2,
-    "updated_at": "2026-06-01T21:53:37Z",
-    "url": "https://github.com/vishu570/contextforge"
-  },
-  {
-    "description": "Cloud-native RAG system - upload PDFs, ask questions, get grounded answers with citations. Built with FastAPI, Qdrant, S",
-    "id": "hammadmalik17/Cloud-Native-AI-Knowledge-Assistant",
-    "language": "Python",
-    "name": "hammadmalik17/Cloud-Native-AI-Knowledge-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-01T21:52:30Z",
-    "url": "https://github.com/hammadmalik17/Cloud-Native-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "",
-    "id": "Ghostiepg/Scraping_AI_with_RAG_Tune",
-    "language": "JavaScript",
-    "name": "Ghostiepg/Scraping_AI_with_RAG_Tune",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:52:29Z",
-    "url": "https://github.com/Ghostiepg/Scraping_AI_with_RAG_Tune"
-  },
-  {
-    "description": "\ud83e\udd16 Explore GhanaGPT, an AI assistant for document analysis and web search, offering support for Ga and Twi languages thro",
-    "id": "Bheka77/GhanaGPT",
-    "language": "Python",
-    "name": "Bheka77/GhanaGPT",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:51:55Z",
-    "url": "https://github.com/Bheka77/GhanaGPT"
-  },
-  {
-    "description": "\ud83d\udcc4 Upload PDFs and chat with AI for instant insights, all through a sleek, user-friendly interface that works on any devi",
-    "id": "18311-Claire-Xinjin/pdf-chat-app",
-    "language": "TypeScript",
-    "name": "18311-Claire-Xinjin/pdf-chat-app",
-    "stars": 1,
-    "updated_at": "2026-06-01T21:50:55Z",
-    "url": "https://github.com/18311-Claire-Xinjin/pdf-chat-app"
-  },
-  {
-    "description": "\ud83e\udd16 Transform internal knowledge retrieval with a secure, on-premise RAG-powered chatbot that enhances efficiency through ",
-    "id": "sososeur/Enterprise-ready-conversational-AI-LLM-RAG",
-    "language": "Python",
-    "name": "sososeur/Enterprise-ready-conversational-AI-LLM-RAG",
-    "stars": 5,
-    "updated_at": "2026-06-01T21:50:39Z",
-    "url": "https://github.com/sososeur/Enterprise-ready-conversational-AI-LLM-RAG"
   }
 ]
