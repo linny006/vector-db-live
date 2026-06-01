@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
+    "id": "jgoy-labs/server-nexe",
+    "language": "Python",
+    "name": "jgoy-labs/server-nexe",
+    "stars": 9,
+    "updated_at": "2026-06-01T10:00:04Z",
+    "url": "https://github.com/jgoy-labs/server-nexe"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6152,
+    "updated_at": "2026-06-01T09:55:38Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 522,
+    "updated_at": "2026-06-01T09:51:19Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Memory control plane for AI Agents in 6 lines of code",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17614,
+    "updated_at": "2026-06-01T09:48:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Mithra Life OS is a production-grade, AI-native personal operating system that consolidates task management, habit track",
+    "id": "hemasaivattikuti25/Mithra-AI-life-os",
+    "language": "JavaScript",
+    "name": "hemasaivattikuti25/Mithra-AI-life-os",
+    "stars": 5,
+    "updated_at": "2026-06-01T09:48:55Z",
+    "url": "https://github.com/hemasaivattikuti25/Mithra-AI-life-os"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T09:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6152,
-    "updated_at": "2026-06-01T09:41:58Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31717,
-    "updated_at": "2026-06-01T09:38:29Z",
+    "stars": 31719,
+    "updated_at": "2026-06-01T09:54:46Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:34:11Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:33:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -131,7 +176,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4406,
-    "updated_at": "2026-06-01T09:30:55Z",
+    "updated_at": "2026-06-01T09:47:53Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T09:30:53Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -329,7 +365,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6937,
-    "updated_at": "2026-06-01T09:20:03Z",
+    "updated_at": "2026-06-01T09:45:29Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -392,7 +428,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10466,
-    "updated_at": "2026-06-01T09:36:18Z",
+    "updated_at": "2026-06-01T10:00:03Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T09:13:47Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-01T09:13:45Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:10:59Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:10:59Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-01T09:20:57Z",
-    "url": "https://github.com/structured-world/coordinode"
   }
 ]
