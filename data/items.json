@@ -5,15 +5,69 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-01T03:00:19Z",
+    "updated_at": "2026-06-01T03:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-06-01T03:13:33Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Lightweight vector search engine",
+    "id": "dmitryglhf/edda",
+    "language": "Zig",
+    "name": "dmitryglhf/edda",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:11:17Z",
+    "url": "https://github.com/dmitryglhf/edda"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:08:17Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-06-01T03:02:48Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-01T03:11:05Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic code search engine \u2014 FastAPI, tree-sitter, Qdrant, OpenAI embeddings, Cloud Run",
     "id": "adsouza5/lens-api",
     "language": "Python",
     "name": "adsouza5/lens-api",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T02:59:42Z",
     "url": "https://github.com/adsouza5/lens-api"
   },
@@ -22,25 +76,16 @@
     "id": "lidge-jun/markdown-fastrag-mcp",
     "language": "Python",
     "name": "lidge-jun/markdown-fastrag-mcp",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T02:57:22Z",
     "url": "https://github.com/lidge-jun/markdown-fastrag-mcp"
-  },
-  {
-    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
-    "id": "matolks/AI-engineering",
-    "language": "HTML",
-    "name": "matolks/AI-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:56:45Z",
-    "url": "https://github.com/matolks/AI-engineering"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
     "name": "0xLazAI/alith",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-06-01T02:54:36Z",
     "url": "https://github.com/0xLazAI/alith"
   },
@@ -50,17 +95,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9308,
-    "updated_at": "2026-06-01T02:52:52Z",
+    "updated_at": "2026-06-01T03:03:36Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-06-01T02:54:05Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -76,25 +112,16 @@
     "id": "flaggdavid-source/project-yui",
     "language": "\u2014",
     "name": "flaggdavid-source/project-yui",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T02:47:54Z",
     "url": "https://github.com/flaggdavid-source/project-yui"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udcda \u4ece\u96f6\u5f00\u59cb\u7684\u5411\u91cf\u6570\u636e\u5e93\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b\uff0c\u5728\u7ebf\u9605\u8bfb\u5730\u5740\uff1ahttps://easy-vecdb.datawhale.cc/",
     "id": "datawhalechina/easy-vecdb",
     "language": "Jupyter Notebook",
     "name": "datawhalechina/easy-vecdb",
-    "stars": 316,
+    "stars": 317,
     "updated_at": "2026-06-01T02:43:48Z",
     "url": "https://github.com/datawhalechina/easy-vecdb"
   },
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-06-01T02:24:43Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31713,
+    "updated_at": "2026-06-01T02:24:13Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -387,15 +423,6 @@
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-01T02:32:38Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T02:05:17Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:03:19Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:03:14Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:03:10Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
