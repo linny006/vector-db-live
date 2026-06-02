@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-02T02:45:18Z",
+    "updated_at": "2026-06-02T03:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1344,
+    "updated_at": "2026-06-02T02:54:14Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-02T02:52:02Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "A pure Python-implemented, lightweight, server-optional, multi-end compatible, vector database deployable locally or rem",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-02T02:57:38Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-06-02T02:46:28Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 1,
+    "updated_at": "2026-06-02T02:45:31Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T02:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "bhensley5/overgraph",
     "stars": 11,
-    "updated_at": "2026-06-02T02:43:23Z",
+    "updated_at": "2026-06-02T02:45:26Z",
     "url": "https://github.com/bhensley5/overgraph"
   },
   {
@@ -43,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:42:31Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10472,
+    "updated_at": "2026-06-02T02:42:25Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:38:45Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
-  },
-  {
-    "description": "A pure Python-implemented, lightweight, server-optional, multi-end compatible, vector database deployable locally or rem",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-02T02:42:15Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -234,15 +288,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1344,
-    "updated_at": "2026-06-02T02:30:42Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
     "id": "aziz5971/TalentLens",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-06-02T02:30:26Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:19:32Z",
     "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "ResearchFlow is a production-grade multi-agent research platform that orchestrates specialized AI agents to plan, search",
-    "id": "dhanushkumar-amk/ResearchFlow",
-    "language": "TypeScript",
-    "name": "dhanushkumar-amk/ResearchFlow",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:19:20Z",
-    "url": "https://github.com/dhanushkumar-amk/ResearchFlow"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:19:00Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "A simplified, educational multimodal data engine (Graph + Column + Vector) in pure Rust \u2014 ideal for database systems cou",
-    "id": "zhanbolee/DaoQL-Edu",
-    "language": "Rust",
-    "name": "zhanbolee/DaoQL-Edu",
-    "stars": 3,
-    "updated_at": "2026-06-02T02:18:52Z",
-    "url": "https://github.com/zhanbolee/DaoQL-Edu"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:18:12Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
