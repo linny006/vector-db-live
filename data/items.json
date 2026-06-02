@@ -1,5 +1,41 @@
 [
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9740,
+    "updated_at": "2026-06-02T03:12:16Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline ",
+    "id": "tonysperez/dshield_prism",
+    "language": "Python",
+    "name": "tonysperez/dshield_prism",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:09:05Z",
+    "url": "https://github.com/tonysperez/dshield_prism"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44582,
+    "updated_at": "2026-06-02T03:04:16Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,15 +90,6 @@
     "url": "https://github.com/fik93673/QueryMind-SQL"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
     "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
     "language": "TypeScript",
@@ -103,7 +130,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10472,
+    "stars": 10473,
     "updated_at": "2026-06-02T02:42:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -324,15 +351,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9740,
-    "updated_at": "2026-06-02T02:28:06Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
     "id": "Bogeymanlicitness496/mcp-memento",
     "language": "Python",
@@ -405,15 +423,6 @@
     "url": "https://github.com/pencaudal526/system-design-bible"
   },
   {
-    "description": "Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline ",
-    "id": "tonysperez/dshield_prism",
-    "language": "Python",
-    "name": "tonysperez/dshield_prism",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:20:30Z",
-    "url": "https://github.com/tonysperez/dshield_prism"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:19:37Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:19:32Z",
-    "url": "https://github.com/mad011408/IndexCache"
   }
 ]
