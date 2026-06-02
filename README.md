@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 03:15 UTC
+> ⏰ Last updated: 2026-06-02 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9740 | C++ | 2026-06-02 | A lightweight, lightning-fast, in-process vector database |
-| 2 | [tonysperez/dshield_prism](https://github.com/tonysperez/dshield_prism) | 0 | Python | 2026-06-02 | Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline  |
-| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44582 | Go | 2026-06-02 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9740 | C++ | 2026-06-02 | A lightweight, lightning-fast, in-process vector database |
+| 4 | [tonysperez/dshield_prism](https://github.com/tonysperez/dshield_prism) | 0 | Python | 2026-06-02 | Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline  |
+| 5 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44582 | Go | 2026-06-02 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 6 | [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) | 1344 | Python | 2026-06-02 | Ground truth layer for humans and AI agents working together. Version control for knowledge.  |
 | 7 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-02 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
 | 8 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-06-02 | A pure Python-implemented, lightweight, server-optional, multi-end compatible, vector database deployable locally or rem |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-06-02 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
 | 13 | [bhensley5/overgraph](https://github.com/bhensley5/overgraph) | 11 | Rust | 2026-06-02 | Absurdly fast embedded graph database with built-in vector search. Rust core, Node.js and Python connectors, GQL, graph  |
 | 14 | [Monkish-jewishryebread665/NodeMind](https://github.com/Monkish-jewishryebread665/NodeMind) | 0 | HTML | 2026-06-02 | Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs. |
-| 15 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10473 | HTML | 2026-06-02 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 15 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10474 | HTML | 2026-06-02 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 16 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-06-02 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 17 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-02 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 18 | [dgbac5672/LogN_DB-Core](https://github.com/dgbac5672/LogN_DB-Core) | 0 | C++ | 2026-06-02 | Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit |
