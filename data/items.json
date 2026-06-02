@@ -1,11 +1,74 @@
 [
   {
+    "description": "End-to-end RAG-based AI research assistant that lets users query PDF papers and arXiv articles using Groq LLM, ChromaDB,",
+    "id": "garariya/ResearchGPT",
+    "language": "Python",
+    "name": "garariya/ResearchGPT",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:28:49Z",
+    "url": "https://github.com/garariya/ResearchGPT"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:26:22Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-02T10:26:12Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
+    "id": "Ashutosh3021/TazaKhabar",
+    "language": "Python",
+    "name": "Ashutosh3021/TazaKhabar",
+    "stars": 1,
+    "updated_at": "2026-06-02T10:25:13Z",
+    "url": "https://github.com/Ashutosh3021/TazaKhabar"
+  },
+  {
+    "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 1,
+    "updated_at": "2026-06-02T10:23:45Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-02T10:28:18Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-02T10:15:23Z",
+    "updated_at": "2026-06-02T10:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 911,
-    "updated_at": "2026-06-02T10:12:13Z",
+    "updated_at": "2026-06-02T10:28:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -32,7 +95,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6152,
-    "updated_at": "2026-06-02T10:10:41Z",
+    "updated_at": "2026-06-02T10:28:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31743,
-    "updated_at": "2026-06-02T10:03:45Z",
+    "updated_at": "2026-06-02T10:30:25Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -77,17 +140,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7672,
-    "updated_at": "2026-06-02T10:02:11Z",
+    "updated_at": "2026-06-02T10:19:39Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -122,7 +176,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-06-02T10:15:14Z",
+    "updated_at": "2026-06-02T10:30:16Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "XortexAI/XMem",
     "stars": 225,
-    "updated_at": "2026-06-02T10:09:13Z",
+    "updated_at": "2026-06-02T10:23:28Z",
     "url": "https://github.com/XortexAI/XMem"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9307,
-    "updated_at": "2026-06-02T09:33:23Z",
+    "updated_at": "2026-06-02T10:17:35Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T09:31:11Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
-    "id": "Ashutosh3021/TazaKhabar",
-    "language": "Python",
-    "name": "Ashutosh3021/TazaKhabar",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:29:19Z",
-    "url": "https://github.com/Ashutosh3021/TazaKhabar"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -403,50 +448,5 @@
     "stars": 17636,
     "updated_at": "2026-06-02T10:09:54Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:21:52Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:21:27Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-02T09:20:43Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6938,
-    "updated_at": "2026-06-02T10:15:12Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:19:25Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
