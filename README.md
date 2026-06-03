@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-03 22:15 UTC
+> ⏰ Last updated: 2026-06-03 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,38 +42,38 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [egrilmez/JasCan](https://github.com/egrilmez/JasCan) | 0 | Python | 2026-06-03 | Find near-duplicate documents before you embed them — fast lexical (MinHash/LSH) dedup for RAG pipelines. |
-| 2 | [RIGASWAR/CIVIL-RAG-MODEL](https://github.com/RIGASWAR/CIVIL-RAG-MODEL) | 0 | Python | 2026-06-03 | AI-powered Civil Engineering Assistant using Retrieval-Augmented Generation (RAG), Semantic Search, Vector Embeddings, F |
-| 3 | [AliSajadian/agentica](https://github.com/AliSajadian/agentica) | 0 | Python | 2026-06-03 | Production-grade agentic AI orchestration platform — RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama, |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 64 | Rust | 2026-06-03 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
-| 7 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 8 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 9 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-06-03 | API platform info for machine-learning |
-| 10 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-06-03 | API platform info for database |
-| 11 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-03 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 12 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17661 | Python | 2026-06-03 | Memory platform for AI Agents in 6 lines of code |
-| 13 | [lennylxx/lancedb-csharp](https://github.com/lennylxx/lancedb-csharp) | 8 | C# | 2026-06-03 | LanceDB C# SDK |
-| 14 | [PWDevens/fedacq-rag-chatbot](https://github.com/PWDevens/fedacq-rag-chatbot) | 0 | Python | 2026-06-03 | Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot |
-| 15 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-03 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 16 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 1 | TypeScript | 2026-06-03 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
-| 17 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 762 | Go | 2026-06-03 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 18 | [Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant](https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant) | 0 | TypeScript | 2026-06-03 | Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re |
-| 19 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1567 | Python | 2026-06-03 | Declarative and Incremental Backend for Multimodal AI Applications |
-| 20 | [Monkish-jewishryebread665/NodeMind](https://github.com/Monkish-jewishryebread665/NodeMind) | 0 | HTML | 2026-06-03 | Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs. |
-| 21 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-06-03 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
-| 22 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-03 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 23 | [dgbac5672/LogN_DB-Core](https://github.com/dgbac5672/LogN_DB-Core) | 0 | C++ | 2026-06-03 | Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit |
-| 24 | [constancywoodsy286/agentic-rag-for-practice](https://github.com/constancywoodsy286/agentic-rag-for-practice) | 1 | Python | 2026-06-03 | Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo |
-| 25 | [wendyneat563/atlas.llm](https://github.com/wendyneat563/atlas.llm) | 1 | Go | 2026-06-03 | Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se |
-| 26 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6938 | Java | 2026-06-03 | The AI search platform |
-| 27 | [exact-treesquirrel5419/ai_osint](https://github.com/exact-treesquirrel5419/ai_osint) | 2 | — | 2026-06-03 | Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco |
-| 28 | [jefffergunson118-beep/smara](https://github.com/jefffergunson118-beep/smara) | 1 | — | 2026-06-03 | Sync persistent memory across your AI tools and agents using a unified MCP server. |
-| 29 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-06-03 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
-| 30 | [sarcosomebankcheck694/coordinode](https://github.com/sarcosomebankcheck694/coordinode) | 0 | Rust | 2026-06-03 | Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC |
-| 31 | [Rippledirham767/LongParser](https://github.com/Rippledirham767/LongParser) | 0 | Python | 2026-06-03 | Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review |
-| 32 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10491 | HTML | 2026-06-03 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 1 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10491 | HTML | 2026-06-03 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 2 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-03 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [egrilmez/JasCan](https://github.com/egrilmez/JasCan) | 0 | Python | 2026-06-03 | Find near-duplicate documents before you embed them — fast lexical (MinHash/LSH) dedup for RAG pipelines. |
+| 6 | [RIGASWAR/CIVIL-RAG-MODEL](https://github.com/RIGASWAR/CIVIL-RAG-MODEL) | 0 | Python | 2026-06-03 | AI-powered Civil Engineering Assistant using Retrieval-Augmented Generation (RAG), Semantic Search, Vector Embeddings, F |
+| 7 | [AliSajadian/agentica](https://github.com/AliSajadian/agentica) | 0 | Python | 2026-06-03 | Production-grade agentic AI orchestration platform — RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama, |
+| 8 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 64 | Rust | 2026-06-03 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
+| 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 11 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-06-03 | API platform info for machine-learning |
+| 12 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-06-03 | API platform info for database |
+| 13 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17661 | Python | 2026-06-03 | Memory platform for AI Agents in 6 lines of code |
+| 14 | [lennylxx/lancedb-csharp](https://github.com/lennylxx/lancedb-csharp) | 8 | C# | 2026-06-03 | LanceDB C# SDK |
+| 15 | [PWDevens/fedacq-rag-chatbot](https://github.com/PWDevens/fedacq-rag-chatbot) | 0 | Python | 2026-06-03 | Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot |
+| 16 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-03 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
+| 17 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 1 | TypeScript | 2026-06-03 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
+| 18 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 762 | Go | 2026-06-03 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 19 | [Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant](https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant) | 0 | TypeScript | 2026-06-03 | Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re |
+| 20 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1567 | Python | 2026-06-03 | Declarative and Incremental Backend for Multimodal AI Applications |
+| 21 | [Monkish-jewishryebread665/NodeMind](https://github.com/Monkish-jewishryebread665/NodeMind) | 0 | HTML | 2026-06-03 | Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs. |
+| 22 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-06-03 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
+| 23 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-03 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 24 | [dgbac5672/LogN_DB-Core](https://github.com/dgbac5672/LogN_DB-Core) | 0 | C++ | 2026-06-03 | Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit |
+| 25 | [constancywoodsy286/agentic-rag-for-practice](https://github.com/constancywoodsy286/agentic-rag-for-practice) | 1 | Python | 2026-06-03 | Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo |
+| 26 | [wendyneat563/atlas.llm](https://github.com/wendyneat563/atlas.llm) | 1 | Go | 2026-06-03 | Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se |
+| 27 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6938 | Java | 2026-06-03 | The AI search platform |
+| 28 | [exact-treesquirrel5419/ai_osint](https://github.com/exact-treesquirrel5419/ai_osint) | 2 | — | 2026-06-03 | Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco |
+| 29 | [jefffergunson118-beep/smara](https://github.com/jefffergunson118-beep/smara) | 1 | — | 2026-06-03 | Sync persistent memory across your AI tools and agents using a unified MCP server. |
+| 30 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-06-03 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
+| 31 | [sarcosomebankcheck694/coordinode](https://github.com/sarcosomebankcheck694/coordinode) | 0 | Rust | 2026-06-03 | Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC |
+| 32 | [Rippledirham767/LongParser](https://github.com/Rippledirham767/LongParser) | 0 | Python | 2026-06-03 | Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review |
 | 33 | [viviannenitrogenous100/mentedb](https://github.com/viviannenitrogenous100/mentedb) | 0 | — | 2026-06-03 | Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval |
 | 34 | [cornelablastular720/dbdb-index](https://github.com/cornelablastular720/dbdb-index) | 1 | Go | 2026-06-03 | Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research |
 | 35 | [Twentyeight-lawnchair711/AlayaRenderer](https://github.com/Twentyeight-lawnchair711/AlayaRenderer) | 0 | — | 2026-06-03 | Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing |
