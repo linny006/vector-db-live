@@ -1,5 +1,77 @@
 [
   {
+    "description": "NetAssist AI \u2014 Intelligent Telecom Support Powered by RAG. \ud83d\udce1\ud83e\udd16. ",
+    "id": "saeedsq3r/NetAssist_AI",
+    "language": "Python",
+    "name": "saeedsq3r/NetAssist_AI",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:55:37Z",
+    "url": "https://github.com/saeedsq3r/NetAssist_AI"
+  },
+  {
+    "description": "A simple Retrieval-Augmented Generation (RAG) pipeline that ingests PDF documents into Pinecone.",
+    "id": "fajarbc/rag-pinecone",
+    "language": "Python",
+    "name": "fajarbc/rag-pinecone",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:55:32Z",
+    "url": "https://github.com/fajarbc/rag-pinecone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:54:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
+    "id": "richtg22/enterprise-rag-knowledge-assistant",
+    "language": "Python",
+    "name": "richtg22/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:00:26Z",
+    "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1844,
+    "updated_at": "2026-06-03T17:51:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-03T17:51:19Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 917,
+    "updated_at": "2026-06-03T17:48:00Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:45:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1567,
-    "updated_at": "2026-06-03T17:40:12Z",
+    "updated_at": "2026-06-03T17:47:36Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 16,
     "updated_at": "2026-06-03T17:41:22Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31779,
-    "updated_at": "2026-06-03T17:29:13Z",
+    "updated_at": "2026-06-03T17:58:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -130,7 +193,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 27697,
+    "stars": 27698,
     "updated_at": "2026-06-03T17:02:08Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-03T16:38:55Z",
+    "updated_at": "2026-06-03T17:56:10Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T16:37:01Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7674,
-    "updated_at": "2026-06-03T16:36:17Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:35:31Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:34:55Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:34:10Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:32:29Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:31:55Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:31:15Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
