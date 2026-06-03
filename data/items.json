@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T13:30:29Z",
+    "updated_at": "2026-06-03T13:45:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-03T13:39:32Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-03T13:27:57Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31776,
+    "updated_at": "2026-06-03T13:27:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-03T13:37:17Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16266,
+    "updated_at": "2026-06-03T13:44:43Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -14,17 +68,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7672,
-    "updated_at": "2026-06-03T13:29:27Z",
+    "updated_at": "2026-06-03T13:37:37Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31775,
-    "updated_at": "2026-06-03T13:27:44Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A high performance,lightweight vector database with a Python-first API and a Rust storage/search backend. ",
@@ -43,15 +88,6 @@
     "stars": 9745,
     "updated_at": "2026-06-03T13:17:49Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:15:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Autonomous RAG system built with n8n, Groq, and Supabase to extract, embed, and query educational materials using vector",
@@ -77,7 +113,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6153,
-    "updated_at": "2026-06-03T13:24:38Z",
+    "updated_at": "2026-06-03T13:41:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 19,
     "updated_at": "2026-06-03T12:46:28Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-03T13:26:55Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T12:07:46Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Self-healing RAG on n8n with LLM-as-judge eval, drift detection, investigator agent, and canary A/B deploys.",
-    "id": "jawwad-ali/self-healing-rag",
-    "language": "TypeScript",
-    "name": "jawwad-ali/self-healing-rag",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:07:42Z",
-    "url": "https://github.com/jawwad-ali/self-healing-rag"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 32493,
-    "updated_at": "2026-06-03T12:07:41Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:07:14Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
