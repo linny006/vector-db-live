@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T19:00:35Z",
+    "updated_at": "2026-06-03T19:00:51Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-03T19:00:48Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T19:00:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udd0d Optimize and manage prompts, agents, and templates with ContextForge, an AI-powered platform for seamless collaboratio",
+    "id": "vishu570/contextforge",
+    "language": "TypeScript",
+    "name": "vishu570/contextforge",
+    "stars": 2,
+    "updated_at": "2026-06-03T19:00:32Z",
+    "url": "https://github.com/vishu570/contextforge"
   },
   {
     "description": "",
@@ -216,15 +243,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T18:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
     "id": "avnlp/vectordb",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:55:37Z",
     "url": "https://github.com/saeedsq3r/NetAssist_AI"
-  },
-  {
-    "description": "A simple Retrieval-Augmented Generation (RAG) pipeline that ingests PDF documents into Pinecone.",
-    "id": "fajarbc/rag-pinecone",
-    "language": "Python",
-    "name": "fajarbc/rag-pinecone",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:55:32Z",
-    "url": "https://github.com/fajarbc/rag-pinecone"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-03T17:54:32Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
