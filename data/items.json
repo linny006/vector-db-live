@@ -1,5 +1,41 @@
 [
   {
+    "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
+    "id": "Neboy72/hermes-nexus-memory",
+    "language": "Python",
+    "name": "Neboy72/hermes-nexus-memory",
+    "stars": 2,
+    "updated_at": "2026-06-03T13:08:08Z",
+    "url": "https://github.com/Neboy72/hermes-nexus-memory"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6153,
+    "updated_at": "2026-06-03T13:14:51Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31775,
+    "updated_at": "2026-06-03T13:01:11Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,7 +45,7 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Local-first, citation-backed RAG template (Ollama + ChromaDB). Ships with a 22-paper UAV small-object-detection example ",
+    "description": "Local-first, citation-backed RAG template. Point it at your own documents for a private assistant that cites its sources",
     "id": "poweichen00/personal-rag",
     "language": "Python",
     "name": "poweichen00/personal-rag",
@@ -32,7 +68,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1844,
-    "updated_at": "2026-06-03T12:59:33Z",
+    "updated_at": "2026-06-03T13:05:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -49,7 +85,7 @@
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
-    "stars": 4406,
+    "stars": 4407,
     "updated_at": "2026-06-03T12:48:37Z",
     "url": "https://github.com/crate/crate"
   },
@@ -61,24 +97,6 @@
     "stars": 19,
     "updated_at": "2026-06-03T12:46:28Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
-    "id": "Neboy72/hermes-nexus-memory",
-    "language": "Python",
-    "name": "Neboy72/hermes-nexus-memory",
-    "stars": 2,
-    "updated_at": "2026-06-03T12:45:11Z",
-    "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -97,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T12:42:52Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6153,
-    "updated_at": "2026-06-03T12:57:08Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "XGBoost-based credit risk engine with SHAP explainability, Optuna optimization and LLM explanation in natural language",
@@ -142,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-06-03T12:23:26Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "A high performance,lightweight vector database with a Python-first API and a Rust storage/search backend. ",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-03T12:22:36Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -189,15 +207,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "A pure Python-implemented, lightweight, server-optional, multi-end compatible, vector database deployable locally or rem",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-03T12:22:36Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
     "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
     "id": "dgbac5672/LogN_DB-Core",
     "language": "C++",
@@ -243,6 +252,15 @@
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
   },
   {
+    "description": "Provide the right context to your agents.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 73,
+    "updated_at": "2026-06-03T12:15:27Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -259,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-06-03T12:15:04Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57920,
+    "updated_at": "2026-06-03T12:13:43Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -382,7 +409,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 32491,
+    "stars": 32492,
     "updated_at": "2026-06-03T12:07:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -405,15 +432,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31775,
-    "updated_at": "2026-06-03T13:00:30Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
     "id": "aziz5971/TalentLens",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T12:04:57Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:04:05Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:03:53Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
