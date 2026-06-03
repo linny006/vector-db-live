@@ -1,21 +1,12 @@
 [
   {
-    "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 4658,
-    "updated_at": "2026-06-03T17:00:10Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
-    "id": "NirDiamant/Agent_Memory_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 476,
-    "updated_at": "2026-06-03T16:54:42Z",
-    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 762,
+    "updated_at": "2026-06-03T17:14:34Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
@@ -23,17 +14,89 @@
     "language": "JavaScript",
     "name": "ahmedamen1/minirag-course-notes",
     "stars": 0,
-    "updated_at": "2026-06-03T16:54:40Z",
+    "updated_at": "2026-06-03T17:14:03Z",
     "url": "https://github.com/ahmedamen1/minirag-course-notes"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31778,
+    "updated_at": "2026-06-03T17:11:12Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 15,
+    "updated_at": "2026-06-03T17:11:30Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1951,
+    "updated_at": "2026-06-03T17:06:24Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
+    "id": "NirDiamant/Agent_Memory_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Agent_Memory_Techniques",
+    "stars": 476,
+    "updated_at": "2026-06-03T17:02:15Z",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
   },
   {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 27694,
-    "updated_at": "2026-06-03T16:54:34Z",
+    "stars": 27695,
+    "updated_at": "2026-06-03T17:02:08Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:00:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-03T17:00:32Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 4658,
+    "updated_at": "2026-06-03T17:01:17Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:52:30Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1951,
-    "updated_at": "2026-06-03T17:00:18Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:48:16Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 762,
-    "updated_at": "2026-06-03T16:48:02Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -151,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:46:49Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -297,6 +324,15 @@
     "url": "https://github.com/Ac3v3d0/semafold"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7674,
+    "updated_at": "2026-06-03T16:36:17Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -369,15 +405,6 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 15,
-    "updated_at": "2026-06-03T16:59:37Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6089,
-    "updated_at": "2026-06-03T16:56:11Z",
+    "updated_at": "2026-06-03T17:05:33Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:27:23Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10490,
-    "updated_at": "2026-06-03T16:57:49Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:24:54Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:24:53Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
