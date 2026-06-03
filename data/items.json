@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
+    "id": "ahmedamen1/minirag-course-notes",
+    "language": "JavaScript",
+    "name": "ahmedamen1/minirag-course-notes",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:29:43Z",
+    "url": "https://github.com/ahmedamen1/minirag-course-notes"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 576,
+    "updated_at": "2026-06-03T17:28:57Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-03T17:19:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -9,21 +54,12 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
-    "id": "ahmedamen1/minirag-course-notes",
-    "language": "JavaScript",
-    "name": "ahmedamen1/minirag-course-notes",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:14:03Z",
-    "url": "https://github.com/ahmedamen1/minirag-course-notes"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31778,
-    "updated_at": "2026-06-03T17:11:12Z",
+    "stars": 31779,
+    "updated_at": "2026-06-03T17:29:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 15,
-    "updated_at": "2026-06-03T17:11:30Z",
+    "updated_at": "2026-06-03T17:29:23Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -41,7 +77,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1951,
-    "updated_at": "2026-06-03T17:06:24Z",
+    "updated_at": "2026-06-03T17:24:38Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -61,24 +97,6 @@
     "stars": 27695,
     "updated_at": "2026-06-03T17:02:08Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:00:38Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6089,
-    "updated_at": "2026-06-03T17:05:33Z",
+    "updated_at": "2026-06-03T17:23:42Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:27:33Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:27:23Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
