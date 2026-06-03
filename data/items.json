@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T08:00:27Z",
+    "updated_at": "2026-06-03T08:15:28Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,53 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-03T07:59:55Z",
+    "updated_at": "2026-06-03T08:14:08Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6152,
+    "updated_at": "2026-06-03T08:09:12Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12188,
+    "updated_at": "2026-06-03T08:07:19Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1842,
+    "updated_at": "2026-06-03T08:11:35Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 147,
+    "updated_at": "2026-06-03T08:03:32Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
@@ -27,13 +72,13 @@
     "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6152,
-    "updated_at": "2026-06-03T07:59:58Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "One Postgres container that replaces MongoDB, Redis/RabbitMQ, Elasticsearch, Pinecone, PostGIS, a time-series DB, Snowfl",
+    "id": "Havoc24k/Postgres4all",
+    "language": "Go",
+    "name": "Havoc24k/Postgres4all",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:59:42Z",
+    "url": "https://github.com/Havoc24k/Postgres4all"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -68,24 +113,15 @@
     "language": "Shell",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 2,
-    "updated_at": "2026-06-03T07:53:04Z",
+    "updated_at": "2026-06-03T08:09:56Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "likeslines-maker/VectorRAG.Net",
     "language": "C#",
     "name": "likeslines-maker/VectorRAG.Net",
-    "stars": 463,
+    "stars": 470,
     "updated_at": "2026-06-03T07:43:46Z",
     "url": "https://github.com/likeslines-maker/VectorRAG.Net"
   },
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31767,
-    "updated_at": "2026-06-03T07:54:20Z",
+    "updated_at": "2026-06-03T08:14:37Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4406,
-    "updated_at": "2026-06-03T07:55:34Z",
+    "updated_at": "2026-06-03T08:08:31Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:31:58Z",
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 147,
-    "updated_at": "2026-06-03T07:48:52Z",
-    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:18:43Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Full-stack RAG chatbot for video analytics \u2014 compares YouTube & Instagram Reels using LangGraph, ChromaDB, and streaming",
-    "id": "Yashsh101/creator-rag-system",
-    "language": "Python",
-    "name": "Yashsh101/creator-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:16:56Z",
-    "url": "https://github.com/Yashsh101/creator-rag-system"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:16:54Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:16:28Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
