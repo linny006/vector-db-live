@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T08:30:23Z",
+    "updated_at": "2026-06-03T08:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44607,
-    "updated_at": "2026-06-03T08:26:21Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6152,
+    "updated_at": "2026-06-03T08:43:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
@@ -23,8 +23,53 @@
     "language": "CSS",
     "name": "blackeagle686/mafqood-ai",
     "stars": 1,
-    "updated_at": "2026-06-03T08:24:58Z",
+    "updated_at": "2026-06-03T08:43:03Z",
     "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-03T08:37:42Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 19,
+    "updated_at": "2026-06-03T08:34:42Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Enterprise-grade AI Legal SaaS Platform with RAG, Phi3, Ollama, FAISS Vector Database, Multi-Document Intelligence, Conv",
+    "id": "Anirodh-Padhy/Enterprise-AI-Legal-SaaS-Platform",
+    "language": "Python",
+    "name": "Anirodh-Padhy/Enterprise-AI-Legal-SaaS-Platform",
+    "stars": 1,
+    "updated_at": "2026-06-03T08:30:35Z",
+    "url": "https://github.com/Anirodh-Padhy/Enterprise-AI-Legal-SaaS-Platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44607,
+    "updated_at": "2026-06-03T08:36:19Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
@@ -36,13 +81,13 @@
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31768,
+    "updated_at": "2026-06-03T08:44:34Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -54,13 +99,13 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6152,
-    "updated_at": "2026-06-03T08:26:04Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1843,
+    "updated_at": "2026-06-03T08:11:35Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -70,15 +115,6 @@
     "stars": 12189,
     "updated_at": "2026-06-03T08:07:19Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1842,
-    "updated_at": "2026-06-03T08:11:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 4,
-    "updated_at": "2026-06-03T07:56:04Z",
+    "updated_at": "2026-06-03T08:37:11Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -148,18 +184,9 @@
     "id": "likeslines-maker/VectorRAG.Net",
     "language": "C#",
     "name": "likeslines-maker/VectorRAG.Net",
-    "stars": 482,
+    "stars": 490,
     "updated_at": "2026-06-03T07:43:46Z",
     "url": "https://github.com/likeslines-maker/VectorRAG.Net"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31767,
-    "updated_at": "2026-06-03T08:18:16Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T07:22:25Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:21:20Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9742,
-    "updated_at": "2026-06-03T07:20:45Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:19:56Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
