@@ -1,5 +1,50 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9307,
+    "updated_at": "2026-06-03T04:45:08Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Movie recommendation system",
+    "id": "SofiaTejada-ai/MovieGoer",
+    "language": "Python",
+    "name": "SofiaTejada-ai/MovieGoer",
+    "stars": 1,
+    "updated_at": "2026-06-03T04:43:50Z",
+    "url": "https://github.com/SofiaTejada-ai/MovieGoer"
+  },
+  {
+    "description": "ResearchFlow is a production-grade multi-agent research platform that orchestrates specialized AI agents to plan, search",
+    "id": "dhanushkumar-amk/ResearchFlow",
+    "language": "TypeScript",
+    "name": "dhanushkumar-amk/ResearchFlow",
+    "stars": 1,
+    "updated_at": "2026-06-03T04:42:06Z",
+    "url": "https://github.com/dhanushkumar-amk/ResearchFlow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -27,24 +72,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T04:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T04:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -67,7 +94,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44605,
+    "stars": 44606,
     "updated_at": "2026-06-03T04:00:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T04:00:01Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9307,
-    "updated_at": "2026-06-03T04:22:59Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T03:14:45Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-03T03:13:17Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:11:36Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
