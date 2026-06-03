@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-03T17:30:24Z",
+    "updated_at": "2026-06-03T17:45:29Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,71 @@
     "language": "JavaScript",
     "name": "ahmedamen1/minirag-course-notes",
     "stars": 0,
-    "updated_at": "2026-06-03T17:29:43Z",
+    "updated_at": "2026-06-03T17:44:24Z",
     "url": "https://github.com/ahmedamen1/minirag-course-notes"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 29,
+    "updated_at": "2026-06-03T17:40:46Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 11860,
+    "updated_at": "2026-06-03T17:40:41Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1567,
+    "updated_at": "2026-06-03T17:40:12Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1951,
+    "updated_at": "2026-06-03T17:43:45Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 87,
+    "updated_at": "2026-06-03T17:35:51Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 16,
+    "updated_at": "2026-06-03T17:41:22Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
@@ -23,7 +86,7 @@
     "language": "C#",
     "name": "hhblaze/DBreeze",
     "stars": 576,
-    "updated_at": "2026-06-03T17:28:57Z",
+    "updated_at": "2026-06-03T17:35:27Z",
     "url": "https://github.com/hhblaze/DBreeze"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-03T17:19:17Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -63,24 +117,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 15,
-    "updated_at": "2026-06-03T17:29:23Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1951,
-    "updated_at": "2026-06-03T17:24:38Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
     "id": "NirDiamant/Agent_Memory_Techniques",
     "language": "Jupyter Notebook",
@@ -94,7 +130,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 27695,
+    "stars": 27697,
     "updated_at": "2026-06-03T17:02:08Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -142,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:50:45Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9309,
+    "updated_at": "2026-06-03T16:50:44Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:31:15Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:30:13Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:29:52Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:28:34Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 231,
-    "updated_at": "2026-06-03T16:28:17Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6089,
-    "updated_at": "2026-06-03T17:23:42Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
