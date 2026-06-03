@@ -1,5 +1,68 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6938,
+    "updated_at": "2026-06-03T08:55:50Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
+    "id": "stackitcloud/rag-template",
+    "language": "Python",
+    "name": "stackitcloud/rag-template",
+    "stars": 82,
+    "updated_at": "2026-06-03T08:55:20Z",
+    "url": "https://github.com/stackitcloud/rag-template"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:50:44Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31769,
+    "updated_at": "2026-06-03T08:59:43Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-03T08:59:48Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 87,
+    "updated_at": "2026-06-03T08:47:27Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6152,
-    "updated_at": "2026-06-03T08:43:19Z",
+    "updated_at": "2026-06-03T08:55:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -27,13 +90,13 @@
     "url": "https://github.com/blackeagle686/mafqood-ai"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-03T08:37:42Z",
-    "url": "https://github.com/structured-world/coordinode"
+    "description": "AI-powered Research Paper Assistant built using RAG, LangChain, FAISS, OpenAI, and Streamlit for intelligent research do",
+    "id": "SrkPavan-GenAI/researchrag-ai-powered-research-paper-assistant",
+    "language": "Jupyter Notebook",
+    "name": "SrkPavan-GenAI/researchrag-ai-powered-research-paper-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:39:09Z",
+    "url": "https://github.com/SrkPavan-GenAI/researchrag-ai-powered-research-paper-assistant"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Anirodh-Padhy/Enterprise-AI-Legal-SaaS-Platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -79,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T08:23:10Z",
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31768,
-    "updated_at": "2026-06-03T08:44:34Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:14:08Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -184,7 +220,7 @@
     "id": "likeslines-maker/VectorRAG.Net",
     "language": "C#",
     "name": "likeslines-maker/VectorRAG.Net",
-    "stars": 490,
+    "stars": 498,
     "updated_at": "2026-06-03T07:43:46Z",
     "url": "https://github.com/likeslines-maker/VectorRAG.Net"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:25:48Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:24:55Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:23:36Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:22:50Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:22:25Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
