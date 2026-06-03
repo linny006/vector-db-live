@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "RIGASWAR/CIVIL-RAG-MODEL",
     "stars": 0,
-    "updated_at": "2026-06-03T21:59:11Z",
+    "updated_at": "2026-06-03T22:05:05Z",
     "url": "https://github.com/RIGASWAR/CIVIL-RAG-MODEL"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:05:04Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Find near-duplicate documents before you embed them \u2014 fast lexical (MinHash/LSH) dedup for RAG pipelines.",
+    "id": "egrilmez/JasCan",
+    "language": "Python",
+    "name": "egrilmez/JasCan",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:04:32Z",
+    "url": "https://github.com/egrilmez/JasCan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -34,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:48:27Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "API platform info for machine-learning",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T20:57:52Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-03T20:55:43Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
