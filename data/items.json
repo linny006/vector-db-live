@@ -1,21 +1,12 @@
 [
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10491,
-    "updated_at": "2026-06-03T22:24:32Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
+    "description": "A high performance,lightweight vector database with a Python-first API and a Rust storage/search backend. ",
+    "id": "BirchKwok/lynsedb",
     "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-03T22:28:45Z",
-    "url": "https://github.com/structured-world/coordinode"
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-03T22:44:28Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +14,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-03T22:15:32Z",
+    "updated_at": "2026-06-03T22:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,6 +25,33 @@
     "stars": 0,
     "updated_at": "2026-06-03T22:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10491,
+    "updated_at": "2026-06-03T22:32:41Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6089,
+    "updated_at": "2026-06-03T22:22:36Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-03T22:28:45Z",
+    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Find near-duplicate documents before you embed them \u2014 fast lexical (MinHash/LSH) dedup for RAG pipelines.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T21:00:50Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Java client for Redis.",
-    "id": "redis/redis-vl-java",
-    "language": "Java",
-    "name": "redis/redis-vl-java",
-    "stars": 19,
-    "updated_at": "2026-06-03T21:00:36Z",
-    "url": "https://github.com/redis/redis-vl-java"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-03T20:59:17Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
