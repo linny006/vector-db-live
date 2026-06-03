@@ -1,5 +1,167 @@
 [
   {
+    "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 4658,
+    "updated_at": "2026-06-03T17:00:10Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
+    "id": "NirDiamant/Agent_Memory_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Agent_Memory_Techniques",
+    "stars": 476,
+    "updated_at": "2026-06-03T16:54:42Z",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
+  },
+  {
+    "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
+    "id": "ahmedamen1/minirag-course-notes",
+    "language": "JavaScript",
+    "name": "ahmedamen1/minirag-course-notes",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:54:40Z",
+    "url": "https://github.com/ahmedamen1/minirag-course-notes"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 27694,
+    "updated_at": "2026-06-03T16:54:34Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:53:35Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 1,
+    "updated_at": "2026-06-03T16:52:30Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1951,
+    "updated_at": "2026-06-03T17:00:18Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
+    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "language": "TypeScript",
+    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:50:45Z",
+    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12195,
+    "updated_at": "2026-06-03T16:49:38Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
+    "id": "Monkish-jewishryebread665/NodeMind",
+    "language": "HTML",
+    "name": "Monkish-jewishryebread665/NodeMind",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:49:03Z",
+    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:48:16Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 762,
+    "updated_at": "2026-06-03T16:48:02Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:47:34Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-03T16:47:31Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
+    "id": "dgbac5672/LogN_DB-Core",
+    "language": "C++",
+    "name": "dgbac5672/LogN_DB-Core",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:47:18Z",
+    "url": "https://github.com/dgbac5672/LogN_DB-Core"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 1,
+    "updated_at": "2026-06-03T16:47:00Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
+    "id": "wendyneat563/atlas.llm",
+    "language": "Go",
+    "name": "wendyneat563/atlas.llm",
+    "stars": 1,
+    "updated_at": "2026-06-03T16:46:49Z",
+    "url": "https://github.com/wendyneat563/atlas.llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T16:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -153,15 +315,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-06-03T16:34:12Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
     "id": "aziz5971/TalentLens",
     "language": "Python",
@@ -198,15 +351,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:30:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
     "id": "Bogeymanlicitness496/mcp-memento",
     "language": "Python",
@@ -230,7 +374,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 15,
-    "updated_at": "2026-06-03T16:35:37Z",
+    "updated_at": "2026-06-03T16:59:37Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -257,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6089,
-    "updated_at": "2026-06-03T16:37:40Z",
+    "updated_at": "2026-06-03T16:56:11Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -284,7 +428,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10490,
-    "updated_at": "2026-06-03T16:25:34Z",
+    "updated_at": "2026-06-03T16:57:49Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:24:53Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:24:49Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:22:41Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1951,
-    "updated_at": "2026-06-03T16:22:30Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
-    "id": "ahmedamen1/minirag-course-notes",
-    "language": "JavaScript",
-    "name": "ahmedamen1/minirag-course-notes",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:21:54Z",
-    "url": "https://github.com/ahmedamen1/minirag-course-notes"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:20:36Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:20:22Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:20:11Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:20:03Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:19:27Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16267,
-    "updated_at": "2026-06-03T16:41:10Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:18:27Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:18:14Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:18:04Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:17:50Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:17:15Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:16:49Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
