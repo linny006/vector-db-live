@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc19 Meta-AI Orchestrator unifies multiple LLMs with dynamic routing, RAG search, and DAG pipelines for enterprise AI workl",
+    "id": "ttcs60cntt3/meta-ai-orchestrator",
+    "language": "Rust",
+    "name": "ttcs60cntt3/meta-ai-orchestrator",
+    "stars": 6,
+    "updated_at": "2026-06-04T18:00:45Z",
+    "url": "https://github.com/ttcs60cntt3/meta-ai-orchestrator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-06-04T17:47:16Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31796,
-    "updated_at": "2026-06-04T18:00:13Z",
+    "updated_at": "2026-06-04T18:01:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 73,
     "updated_at": "2026-06-04T15:59:36Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "LangChain tools for instanode.dev \u2014 let LangChain agents provision an ephemeral free Postgres + webhook receiver in one ",
-    "id": "InstaNode-dev/langchain-instanode",
-    "language": "Python",
-    "name": "InstaNode-dev/langchain-instanode",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:59:15Z",
-    "url": "https://github.com/InstaNode-dev/langchain-instanode"
   }
 ]
