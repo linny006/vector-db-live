@@ -1,5 +1,41 @@
 [
   {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1343,
+    "updated_at": "2026-06-04T03:14:00Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9309,
+    "updated_at": "2026-06-04T03:11:45Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Production-grade microservice architecture for bank marketing. Combines XGBoost propensity modeling with a deterministic",
+    "id": "EricSerrano1111/Bank-Marketing-Copilot",
+    "language": "Jupyter Notebook",
+    "name": "EricSerrano1111/Bank-Marketing-Copilot",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:08:49Z",
+    "url": "https://github.com/EricSerrano1111/Bank-Marketing-Copilot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,22 +63,13 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-06-04T02:33:23Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6091,
+    "updated_at": "2026-06-04T02:47:43Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44618,
-    "updated_at": "2026-06-04T02:16:20Z",
+    "updated_at": "2026-06-04T03:04:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-06-04T02:15:47Z",
     "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6090,
-    "updated_at": "2026-06-04T02:47:43Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Long-term memory layer for agents across sessions. Memory extraction, semantic retrieval, fact storage, decay, and contr",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T01:22:55Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:22:54Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:22:41Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
