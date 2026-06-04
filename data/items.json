@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T07:15:26Z",
+    "updated_at": "2026-06-04T07:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background ",
+    "id": "crastatelvin/TAYANA-ASSIGNMENTS",
+    "language": "TypeScript",
+    "name": "crastatelvin/TAYANA-ASSIGNMENTS",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:30:11Z",
+    "url": "https://github.com/crastatelvin/TAYANA-ASSIGNMENTS"
+  },
+  {
+    "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-04T07:30:05Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
+    "id": "richtg22/enterprise-rag-knowledge-assistant",
+    "language": "Python",
+    "name": "richtg22/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:28:49Z",
+    "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-04T07:25:51Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -16,24 +61,6 @@
     "stars": 118,
     "updated_at": "2026-06-04T07:08:54Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background ",
-    "id": "crastatelvin/TAYANA-ASSIGNMENTS",
-    "language": "TypeScript",
-    "name": "crastatelvin/TAYANA-ASSIGNMENTS",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:02:31Z",
-    "url": "https://github.com/crastatelvin/TAYANA-ASSIGNMENTS"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An Amazon S3 service implementation based on Netty.",
@@ -72,15 +99,6 @@
     "url": "https://github.com/PaytonWebber/quantal"
   },
   {
-    "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
-    "id": "richtg22/enterprise-rag-knowledge-assistant",
-    "language": "Python",
-    "name": "richtg22/enterprise-rag-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:45:13Z",
-    "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -94,7 +112,7 @@
     "id": "milvus-io/pymilvus",
     "language": "Python",
     "name": "milvus-io/pymilvus",
-    "stars": 1385,
+    "stars": 1386,
     "updated_at": "2026-06-04T06:18:15Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
@@ -131,7 +149,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6939,
-    "updated_at": "2026-06-04T06:55:07Z",
+    "updated_at": "2026-06-04T07:16:30Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1343,
-    "updated_at": "2026-06-04T07:07:51Z",
+    "updated_at": "2026-06-04T07:28:56Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T05:46:38Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:46:10Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:44:01Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
