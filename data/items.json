@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T02:00:23Z",
+    "updated_at": "2026-06-04T02:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 763,
+    "updated_at": "2026-06-04T02:14:35Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Long-term memory layer for agents across sessions. Memory extraction, semantic retrieval, fact storage, decay, and contr",
+    "id": "reaatech/agent-memory",
+    "language": "TypeScript",
+    "name": "reaatech/agent-memory",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:07:50Z",
+    "url": "https://github.com/reaatech/agent-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hybrid-search RAG over the Kubernetes docs, with end-to-end evaluation and citation verification.",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T01:46:29Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -171,15 +189,6 @@
     "url": "https://github.com/viviannenitrogenous100/mentedb"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 763,
-    "updated_at": "2026-06-04T01:46:05Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
     "id": "cornelablastular720/dbdb-index",
     "language": "Go",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1568,
-    "updated_at": "2026-06-04T01:29:43Z",
+    "updated_at": "2026-06-04T02:13:06Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:19:02Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:18:50Z",
-    "url": "https://github.com/mad011408/IndexCache"
   }
 ]
