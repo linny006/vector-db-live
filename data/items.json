@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Adapter for PHPVector database for Neuron AI framework",
+    "id": "neuron-core/php-vector",
+    "language": "PHP",
+    "name": "neuron-core/php-vector",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:30:04Z",
+    "url": "https://github.com/neuron-core/php-vector"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1844,
+    "updated_at": "2026-06-04T12:22:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-04T12:17:27Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 27708,
+    "updated_at": "2026-06-04T12:17:05Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-04T12:10:41Z",
+    "updated_at": "2026-06-04T12:15:31Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,24 +79,6 @@
     "stars": 61,
     "updated_at": "2026-06-04T12:13:26Z",
     "url": "https://github.com/oceanbase/pyseekdb"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 27708,
-    "updated_at": "2026-06-04T12:00:55Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
@@ -149,7 +176,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6153,
-    "updated_at": "2026-06-04T12:08:55Z",
+    "updated_at": "2026-06-04T12:28:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31790,
-    "updated_at": "2026-06-04T12:10:34Z",
+    "updated_at": "2026-06-04T12:29:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17665,
-    "updated_at": "2026-06-04T12:15:16Z",
+    "updated_at": "2026-06-04T12:25:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T10:57:39Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:57:08Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:56:14Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:54:42Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
