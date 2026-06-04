@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T17:15:23Z",
+    "updated_at": "2026-06-04T17:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:28:24Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10496,
+    "updated_at": "2026-06-04T17:26:06Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:25:44Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-04T17:28:57Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-04T17:18:21Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 32535,
+    "updated_at": "2026-06-04T17:15:27Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
@@ -25,15 +88,6 @@
     "stars": 7,
     "updated_at": "2026-06-04T17:14:13Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based messaging agent that decides what to send, on which channel, and when \u2014 purely from examples, no if/else rules",
@@ -90,24 +144,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 367,
-    "updated_at": "2026-06-04T16:48:26Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 32534,
-    "updated_at": "2026-06-04T17:15:23Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Trust layer between AI agents and vector databases. Rust gRPC middleware that validates, normalizes and routes embedding",
     "id": "Adelagric/vector-router",
     "language": "Rust",
@@ -131,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7679,
-    "updated_at": "2026-06-04T16:51:02Z",
+    "updated_at": "2026-06-04T17:26:08Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10496,
-    "updated_at": "2026-06-04T16:29:15Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "RAG pipeline for medical document processing with LangChain + Claude + pgvector",
     "id": "ivan-podgurskiy/langchain-document-pipeline",
     "language": "Python",
@@ -171,21 +198,12 @@
     "url": "https://github.com/ivan-podgurskiy/langchain-document-pipeline"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-04T16:37:45Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6153,
-    "updated_at": "2026-06-04T16:24:57Z",
+    "updated_at": "2026-06-04T17:15:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T15:50:49Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:49:32Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-06-04T15:49:27Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
