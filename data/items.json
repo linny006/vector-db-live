@@ -5,17 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T11:45:22Z",
+    "updated_at": "2026-06-04T12:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Per-speaker memory isolation with neural reranking for multi-party LLM agents. 56.3% on LoCoMo (+39.3 pp on temporal ove",
+    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
+    "id": "Cyning12/ai-ink-brain",
+    "language": "TypeScript",
+    "name": "Cyning12/ai-ink-brain",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:59:39Z",
+    "url": "https://github.com/Cyning12/ai-ink-brain"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 197,
+    "updated_at": "2026-06-04T11:59:16Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Research Paper Chat Bot built from scratch using Retrieval-Augmented Generation (RAG), ChromaDB, Hugging Face embeddings",
+    "id": "Roshan3019/research-paper-chatbot-rag",
+    "language": "Python",
+    "name": "Roshan3019/research-paper-chatbot-rag",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:58:26Z",
+    "url": "https://github.com/Roshan3019/research-paper-chatbot-rag"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:55:57Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:53:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44625,
+    "updated_at": "2026-06-04T11:46:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Per-speaker memory isolation with neural reranking for multi-party LLM agents. 66.6% on LoCoMo (+50.2 pp on temporal ove",
     "id": "CodeNinjaSarthak/eidetic-memory",
     "language": "Python",
     "name": "CodeNinjaSarthak/eidetic-memory",
     "stars": 1,
-    "updated_at": "2026-06-04T11:41:59Z",
+    "updated_at": "2026-06-04T11:45:36Z",
     "url": "https://github.com/CodeNinjaSarthak/eidetic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Real, framework-free AI support agent where SynapCores is the brain \u2014 memory, RAG, tool routing, generation in one datab",
@@ -25,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-06-04T11:39:13Z",
     "url": "https://github.com/SynapCores/synapcores-agent"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 197,
-    "updated_at": "2026-06-04T11:42:04Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-04T11:36:26Z",
+    "updated_at": "2026-06-04T11:46:23Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -72,20 +126,11 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6940,
+    "stars": 6941,
     "updated_at": "2026-06-04T11:28:59Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -103,8 +148,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31789,
-    "updated_at": "2026-06-04T11:25:19Z",
+    "stars": 31790,
+    "updated_at": "2026-06-04T11:58:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T10:51:50Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 148,
-    "updated_at": "2026-06-04T10:51:45Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:50:17Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:49:21Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:48:47Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:46:36Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
