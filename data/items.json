@@ -1,5 +1,194 @@
 [
   {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:14:20Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:14:07Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83d\udcda Learn from diverse sources with OmniLearnAI, an intelligent platform that combines documents, videos, and more, all wi",
+    "id": "xLyleericson/OmniLearnAI",
+    "language": "Python",
+    "name": "xLyleericson/OmniLearnAI",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:12:42Z",
+    "url": "https://github.com/xLyleericson/OmniLearnAI"
+  },
+  {
+    "description": "\ud83e\udd86 Explore DuckDB's powerful features for efficient data analysis and easy integration with various data sources and tool",
+    "id": "Linco2749/duckdb-s22",
+    "language": "\u2014",
+    "name": "Linco2749/duckdb-s22",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:12:14Z",
+    "url": "https://github.com/Linco2749/duckdb-s22"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe",
+    "id": "boxcalfdevelopmentallearning748/OpenScout",
+    "language": "Python",
+    "name": "boxcalfdevelopmentallearning748/OpenScout",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:12:13Z",
+    "url": "https://github.com/boxcalfdevelopmentallearning748/OpenScout"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:11:34Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Connect your IDE or AI assistant to the Codex CLI with this open-source MCP server for efficient automation and robust",
+    "id": "directive-reticule640/codex-mcp-server",
+    "language": "TypeScript",
+    "name": "directive-reticule640/codex-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-04T04:11:25Z",
+    "url": "https://github.com/directive-reticule640/codex-mcp-server"
+  },
+  {
+    "description": "\u26a1 Compress LLM embeddings efficiently with Vectro, achieving ultra-high performance and guaranteed quality for your mach",
+    "id": "helderm989/vectro",
+    "language": "Mojo",
+    "name": "helderm989/vectro",
+    "stars": 2,
+    "updated_at": "2026-06-04T04:08:55Z",
+    "url": "https://github.com/helderm989/vectro"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:08:18Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 2,
+    "updated_at": "2026-06-04T04:08:12Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Run local Large Language Models offline with ease using Ollama for streamlined access and interaction.",
+    "id": "SuperDev699/CheatSheet-LLM",
+    "language": "Python",
+    "name": "SuperDev699/CheatSheet-LLM",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:07:54Z",
+    "url": "https://github.com/SuperDev699/CheatSheet-LLM"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify your tasks with MineContext, an open-source AI tool that provides context-aware support for clarity and effi",
+    "id": "Lithium2012/MineContext",
+    "language": "Python",
+    "name": "Lithium2012/MineContext",
+    "stars": 2,
+    "updated_at": "2026-06-04T04:05:19Z",
+    "url": "https://github.com/Lithium2012/MineContext"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44618,
+    "updated_at": "2026-06-04T04:02:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83d\udcda Enhance technical documentation queries with DocsChat RAG, a robust Retrieval-Augmented Generation system featuring hy",
+    "id": "Milesdexter/docschat-rag",
+    "language": "\u2014",
+    "name": "Milesdexter/docschat-rag",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:02:14Z",
+    "url": "https://github.com/Milesdexter/docschat-rag"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI conversations with Cognio, a persistent memory server that retains context and enables meaningful semantic ",
+    "id": "Thianvelaz/Cognio",
+    "language": "Python",
+    "name": "Thianvelaz/Cognio",
+    "stars": 3,
+    "updated_at": "2026-06-04T04:00:54Z",
+    "url": "https://github.com/Thianvelaz/Cognio"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:00:42Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "\ud83c\udfa8 Visualize audio in your terminal with Chroma, a Rust-based ASCII art shader that offers GPU-accelerated effects and re",
+    "id": "Shahid-Shabbir/chroma",
+    "language": "Rust",
+    "name": "Shahid-Shabbir/chroma",
+    "stars": 3,
+    "updated_at": "2026-06-04T04:00:40Z",
+    "url": "https://github.com/Shahid-Shabbir/chroma"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:00:28Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\uddd3\ufe0f Simplify booking with this AI service agent that processes queries, finds local options, and offers immediate slots a",
+    "id": "Efhbbhu/AI-BOOKING-AGENT",
+    "language": "Python",
+    "name": "Efhbbhu/AI-BOOKING-AGENT",
+    "stars": 2,
+    "updated_at": "2026-06-04T04:00:26Z",
+    "url": "https://github.com/Efhbbhu/AI-BOOKING-AGENT"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -115,24 +304,6 @@
     "stars": 5,
     "updated_at": "2026-06-04T03:47:43Z",
     "url": "https://github.com/sososeur/Enterprise-ready-conversational-AI-LLM-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udcc4 Create a lightweight Node.js backend for Retrieval-Augmented Generation, enabling efficient document embedding, storag",
@@ -277,176 +448,5 @@
     "stars": 1844,
     "updated_at": "2026-06-04T03:35:24Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "MemFuse Python SDK offers a simple way to integrate memory capabilities into your LLM projects. \ud83d\ude80 Join the community on ",
-    "id": "RankMegaCraft51/memfuse-python",
-    "language": "Python",
-    "name": "RankMegaCraft51/memfuse-python",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:30:48Z",
-    "url": "https://github.com/RankMegaCraft51/memfuse-python"
-  },
-  {
-    "description": "MemFuse offers a robust memory layer for large language models, enhancing their performance and efficiency. Join our com",
-    "id": "sakhama/memfuse",
-    "language": "Python",
-    "name": "sakhama/memfuse",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:30:45Z",
-    "url": "https://github.com/sakhama/memfuse"
-  },
-  {
-    "description": "This repository contains a RAG-based chatbot that helps you ask questions about your PDF documents. Use FastAPI and Stre",
-    "id": "jcpanggoygit/rag-chatbot-documents",
-    "language": "Python",
-    "name": "jcpanggoygit/rag-chatbot-documents",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:30:44Z",
-    "url": "https://github.com/jcpanggoygit/rag-chatbot-documents"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 8,
-    "updated_at": "2026-06-04T03:26:44Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 87,
-    "updated_at": "2026-06-04T03:25:23Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:24:17Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "A client-side vector database",
-    "id": "myz-suite/vectoria",
-    "language": "TypeScript",
-    "name": "myz-suite/vectoria",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:23:40Z",
-    "url": "https://github.com/myz-suite/vectoria"
-  },
-  {
-    "description": "A system that combines Retrieval-Augmented Generation (RAG), the Claude Sonet 3.5 LLM, and the Pathway framework to anal",
-    "id": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
-    "language": "Python",
-    "name": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
-    "stars": 4,
-    "updated_at": "2026-06-04T03:23:08Z",
-    "url": "https://github.com/Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface"
-  },
-  {
-    "description": "Local Retrieval-Augmented Generation (RAG) system built with FastAPI, integrating vector search, Elasticsearch, and opti",
-    "id": "Jocker-123/ChatQ",
-    "language": "HTML",
-    "name": "Jocker-123/ChatQ",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:23:00Z",
-    "url": "https://github.com/Jocker-123/ChatQ"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:22:47Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-04T03:22:27Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
-    "id": "maksystem2025/GenAI-Course-Repo",
-    "language": "Jupyter Notebook",
-    "name": "maksystem2025/GenAI-Course-Repo",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:20:30Z",
-    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1385,
-    "updated_at": "2026-06-04T03:24:14Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
-    "id": "parvShah22/Rag_free_cources_assisstant",
-    "language": "Python",
-    "name": "parvShah22/Rag_free_cources_assisstant",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:20:02Z",
-    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
-  },
-  {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-06-04T03:57:19Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9309,
-    "updated_at": "2026-06-04T03:11:45Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Production-grade microservice architecture for bank marketing. Combines XGBoost propensity modeling with a deterministic",
-    "id": "EricSerrano1111/Bank-Marketing-Copilot",
-    "language": "Jupyter Notebook",
-    "name": "EricSerrano1111/Bank-Marketing-Copilot",
-    "stars": 0,
-    "updated_at": "2026-06-04T03:08:49Z",
-    "url": "https://github.com/EricSerrano1111/Bank-Marketing-Copilot"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 118,
-    "updated_at": "2026-06-04T02:58:46Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-04T02:55:34Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
