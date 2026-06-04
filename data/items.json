@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based messaging agent that decides what to send, on which channel, and when \u2014 purely from examples, no if/else rules",
+    "id": "Aryanaryahsworld/rag-message-assistant",
+    "language": "Python",
+    "name": "Aryanaryahsworld/rag-message-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:58:03Z",
+    "url": "https://github.com/Aryanaryahsworld/rag-message-assistant"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 197,
+    "updated_at": "2026-06-04T16:57:14Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
     "description": "A fast embedded vector index (1-bit graph routing + 3-bit TurboQuant + exact rerank), in Zig",
     "id": "PaytonWebber/quantal",
     "language": "Zig",
     "name": "PaytonWebber/quantal",
     "stars": 0,
-    "updated_at": "2026-06-04T16:44:53Z",
+    "updated_at": "2026-06-04T16:57:03Z",
     "url": "https://github.com/PaytonWebber/quantal"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:56:39Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Behavioral analysis layer for DShield logs: Clusters attackers by behavior rather than static artifacts. An ML pipeline ",
+    "id": "tonysperez/dshield_prism",
+    "language": "Python",
+    "name": "tonysperez/dshield_prism",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:54:26Z",
+    "url": "https://github.com/tonysperez/dshield_prism"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31796,
+    "updated_at": "2026-06-04T16:59:57Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-04T16:48:26Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 32533,
+    "updated_at": "2026-06-04T16:47:31Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Trust layer between AI agents and vector databases. Rust gRPC middleware that validates, normalizes and routes embedding",
@@ -32,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7679,
-    "updated_at": "2026-06-04T16:34:32Z",
+    "updated_at": "2026-06-04T16:51:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:36:04Z",
     "url": "https://github.com/SeydinaBANE/enterprise-rag-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
@@ -106,15 +169,6 @@
     "stars": 6153,
     "updated_at": "2026-06-04T16:24:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 197,
-    "updated_at": "2026-06-04T16:17:32Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 49918,
-    "updated_at": "2026-06-04T15:57:14Z",
+    "updated_at": "2026-06-04T16:59:44Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -286,6 +340,15 @@
     "stars": 2,
     "updated_at": "2026-06-04T15:55:51Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 57938,
+    "updated_at": "2026-06-04T15:55:31Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -342,15 +405,6 @@
     "url": "https://github.com/cornelablastular720/dbdb-index"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 367,
-    "updated_at": "2026-06-04T15:51:43Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T15:49:22Z",
     "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 2,
-    "updated_at": "2026-06-04T15:49:01Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:47:44Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:46:59Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-04T15:46:17Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:44:54Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 118,
-    "updated_at": "2026-06-04T15:44:12Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
