@@ -1,12 +1,75 @@
 [
   {
+    "description": "A fast embedded vector index (1-bit graph routing + 3-bit TurboQuant + exact rerank), in Zig",
+    "id": "PaytonWebber/quantal",
+    "language": "Zig",
+    "name": "PaytonWebber/quantal",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:44:53Z",
+    "url": "https://github.com/PaytonWebber/quantal"
+  },
+  {
+    "description": "Trust layer between AI agents and vector databases. Rust gRPC middleware that validates, normalizes and routes embedding",
+    "id": "Adelagric/vector-router",
+    "language": "Rust",
+    "name": "Adelagric/vector-router",
+    "stars": 1,
+    "updated_at": "2026-06-04T16:37:29Z",
+    "url": "https://github.com/Adelagric/vector-router"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 2,
+    "updated_at": "2026-06-04T16:37:19Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7679,
+    "updated_at": "2026-06-04T16:34:32Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Production-grade agentic RAG system \u2014 FastAPI \u00b7 LangGraph \u00b7 ChromaDB \u00b7 OpenRouter \u00b7 Prometheus \u00b7 Grafana",
+    "id": "SeydinaBANE/enterprise-rag-agent",
+    "language": "Python",
+    "name": "SeydinaBANE/enterprise-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:36:04Z",
+    "url": "https://github.com/SeydinaBANE/enterprise-rag-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T16:30:23Z",
+    "updated_at": "2026-06-04T16:45:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
+    "id": "PWDevens/fedacq-rag-chatbot",
+    "language": "Python",
+    "name": "PWDevens/fedacq-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-04T16:30:20Z",
+    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -32,26 +95,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-04T16:27:34Z",
+    "updated_at": "2026-06-04T16:37:45Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "A fast embedded vector index (1-bit graph routing + 3-bit TurboQuant + exact rerank), in Zig",
-    "id": "PaytonWebber/quantal",
-    "language": "Zig",
-    "name": "PaytonWebber/quantal",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:27:03Z",
-    "url": "https://github.com/PaytonWebber/quantal"
-  },
-  {
-    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
-    "id": "PWDevens/fedacq-rag-chatbot",
-    "language": "Python",
-    "name": "PWDevens/fedacq-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:30:20Z",
-    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -61,15 +106,6 @@
     "stars": 6153,
     "updated_at": "2026-06-04T16:24:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Trust layer between AI agents and vector databases. Rust gRPC middleware that validates, normalizes and routes embedding",
-    "id": "Adelagric/vector-router",
-    "language": "Rust",
-    "name": "Adelagric/vector-router",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:20:13Z",
-    "url": "https://github.com/Adelagric/vector-router"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -90,13 +126,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-06-04T16:39:44Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
     "description": "\ud83d\udc2c Formation compl\u00e8te MariaDB 11.8 LTS en fran\u00e7ais . SQL, HA, DevOps, Kubernetes, et MariaDB Vector pour l'IA. 20 modules",
@@ -238,7 +274,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 49917,
+    "stars": 49918,
     "updated_at": "2026-06-04T15:57:14Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -412,41 +448,5 @@
     "stars": 118,
     "updated_at": "2026-06-04T15:44:12Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:44:06Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:43:38Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
-    "id": "avishek0769/DocChat",
-    "language": "TypeScript",
-    "name": "avishek0769/DocChat",
-    "stars": 14,
-    "updated_at": "2026-06-04T15:43:16Z",
-    "url": "https://github.com/avishek0769/DocChat"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 3,
-    "updated_at": "2026-06-04T15:42:31Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
