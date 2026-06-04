@@ -1,5 +1,68 @@
 [
   {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:44:33Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "\ud83d\udcda Interactive RAG knowledge base \u2014 25 course videos + 20 advanced topics + production cheatsheet ",
+    "id": "ahmedamen1/minirag-course-notes",
+    "language": "JavaScript",
+    "name": "ahmedamen1/minirag-course-notes",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:42:57Z",
+    "url": "https://github.com/ahmedamen1/minirag-course-notes"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:36:54Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:34:01Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-04T12:44:17Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Adapter for PHPVector database for Neuron AI framework",
+    "id": "neuron-core/php-vector",
+    "language": "PHP",
+    "name": "neuron-core/php-vector",
+    "stars": 2,
+    "updated_at": "2026-06-04T12:31:13Z",
+    "url": "https://github.com/neuron-core/php-vector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:30:26Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Adapter for PHPVector database for Neuron AI framework",
-    "id": "neuron-core/php-vector",
-    "language": "PHP",
-    "name": "neuron-core/php-vector",
-    "stars": 1,
-    "updated_at": "2026-06-04T12:30:04Z",
-    "url": "https://github.com/neuron-core/php-vector"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -45,15 +99,6 @@
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -61,15 +106,6 @@
     "stars": 919,
     "updated_at": "2026-06-04T12:07:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-04T12:15:15Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6941,
-    "updated_at": "2026-06-04T12:08:24Z",
+    "updated_at": "2026-06-04T12:33:18Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31790,
-    "updated_at": "2026-06-04T12:29:11Z",
+    "updated_at": "2026-06-04T12:41:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17665,
-    "updated_at": "2026-06-04T12:25:10Z",
+    "updated_at": "2026-06-04T12:31:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T10:59:39Z",
     "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:59:18Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
-    "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:59:18Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "One Postgres container that replaces MongoDB, Redis/RabbitMQ, Elasticsearch, Pinecone, PostGIS, a time-series DB, Snowfl",
-    "id": "Havoc24k/Postgres4all",
-    "language": "Go",
-    "name": "Havoc24k/Postgres4all",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:58:24Z",
-    "url": "https://github.com/Havoc24k/Postgres4all"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:57:39Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
