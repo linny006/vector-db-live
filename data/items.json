@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T17:00:32Z",
+    "updated_at": "2026-06-04T17:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-06-04T17:14:48Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-06-04T17:14:13Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based messaging agent that decides what to send, on which channel, and when \u2014 purely from examples, no if/else rules",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31796,
-    "updated_at": "2026-06-04T16:59:57Z",
+    "updated_at": "2026-06-04T17:13:24Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -76,18 +103,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 32533,
-    "updated_at": "2026-06-04T16:47:31Z",
+    "stars": 32534,
+    "updated_at": "2026-06-04T17:15:23Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Trust layer between AI agents and vector databases. Rust gRPC middleware that validates, normalizes and routes embedding",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "SeydinaBANE/enterprise-rag-agent",
     "stars": 0,
-    "updated_at": "2026-06-04T16:36:04Z",
+    "updated_at": "2026-06-04T17:15:16Z",
     "url": "https://github.com/SeydinaBANE/enterprise-rag-agent"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T16:15:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-06-04T16:39:44Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
     "description": "\ud83d\udc2c Formation compl\u00e8te MariaDB 11.8 LTS en fran\u00e7ais . SQL, HA, DevOps, Kubernetes, et MariaDB Vector pour l'IA. 20 modules",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-04T15:49:27Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:49:22Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
   }
 ]
