@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 02:30 UTC
+> ⏰ Last updated: 2026-06-04 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) | 1343 | Python | 2026-06-04 | Ground truth layer for humans and AI agents working together. Version control for knowledge.  |
-| 2 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 763 | Go | 2026-06-04 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44618 | Go | 2026-06-04 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 4 | [nram-ai/nram](https://github.com/nram-ai/nram) | 4 | Go | 2026-06-04 | Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e |
-| 5 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6090 | TypeScript | 2026-06-04 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) | 1343 | Python | 2026-06-04 | Ground truth layer for humans and AI agents working together. Version control for knowledge.  |
+| 4 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 763 | Go | 2026-06-04 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 5 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44618 | Go | 2026-06-04 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 6 | [nram-ai/nram](https://github.com/nram-ai/nram) | 4 | Go | 2026-06-04 | Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e |
+| 7 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6090 | TypeScript | 2026-06-04 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 8 | [reaatech/agent-memory](https://github.com/reaatech/agent-memory) | 0 | TypeScript | 2026-06-04 | Long-term memory layer for agents across sessions. Memory extraction, semantic retrieval, fact storage, decay, and contr |
 | 9 | [Darren221/KubeRAG](https://github.com/Darren221/KubeRAG) | 0 | Python | 2026-06-04 | Hybrid-search RAG over the Kubernetes docs, with end-to-end evaluation and citation verification. |
 | 10 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-04 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
