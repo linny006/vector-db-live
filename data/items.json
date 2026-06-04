@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-04T06:30:20Z",
+    "updated_at": "2026-06-04T06:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A fast embedded vector index (1-bit graph routing + 3-bit TurboQuant + exact rerank), in Zig",
-    "id": "PaytonWebber/quantal",
-    "language": "Zig",
-    "name": "PaytonWebber/quantal",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:24:37Z",
-    "url": "https://github.com/PaytonWebber/quantal"
   },
   {
     "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
@@ -23,8 +14,44 @@
     "language": "Python",
     "name": "richtg22/enterprise-rag-knowledge-assistant",
     "stars": 0,
-    "updated_at": "2026-06-04T06:22:22Z",
+    "updated_at": "2026-06-04T06:45:13Z",
     "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background ",
+    "id": "crastatelvin/TAYANA-ASSIGNMENTS",
+    "language": "TypeScript",
+    "name": "crastatelvin/TAYANA-ASSIGNMENTS",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:41:47Z",
+    "url": "https://github.com/crastatelvin/TAYANA-ASSIGNMENTS"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-04T06:35:34Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A fast embedded vector index (1-bit graph routing + 3-bit TurboQuant + exact rerank), in Zig",
+    "id": "PaytonWebber/quantal",
+    "language": "Zig",
+    "name": "PaytonWebber/quantal",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:32:29Z",
+    "url": "https://github.com/PaytonWebber/quantal"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -36,13 +63,13 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44619,
+    "updated_at": "2026-06-04T06:17:46Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -162,31 +189,13 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44618,
-    "updated_at": "2026-06-04T06:17:46Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
     "id": "Open-Source-Legal/cite",
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1343,
-    "updated_at": "2026-06-04T06:02:31Z",
+    "updated_at": "2026-06-04T06:36:38Z",
     "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-06-04T06:02:17Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T05:43:43Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Memory platform for AI Agents in 6 lines of code",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17663,
-    "updated_at": "2026-06-04T05:42:22Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
