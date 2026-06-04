@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 12:10 UTC
+> ⏰ Last updated: 2026-06-04 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 919 | Java | 2026-06-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 2 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-04 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 3 | [oceanbase/pyseekdb](https://github.com/oceanbase/pyseekdb) | 61 | Python | 2026-06-04 | A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use. |
-| 4 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 27708 | Jupyter Notebook | 2026-06-04 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 919 | Java | 2026-06-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 3 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-04 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 4 | [oceanbase/pyseekdb](https://github.com/oceanbase/pyseekdb) | 61 | Python | 2026-06-04 | A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use. |
+| 5 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 27708 | Jupyter Notebook | 2026-06-04 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
 | 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 7 | [Cyning12/ai-ink-brain](https://github.com/Cyning12/ai-ink-brain) | 0 | TypeScript | 2026-06-04 | A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. 🎨+🤖 |
 | 8 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 197 | Python | 2026-06-04 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
