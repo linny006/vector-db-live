@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-05T14:45:23Z",
+    "updated_at": "2026-06-05T15:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6948,
+    "updated_at": "2026-06-05T15:00:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-06-05T14:57:37Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10505,
+    "updated_at": "2026-06-05T14:52:41Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-05T14:59:39Z",
+    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
@@ -14,17 +50,44 @@
     "language": "Python",
     "name": "Neboy72/hermes-nexus-memory",
     "stars": 2,
-    "updated_at": "2026-06-05T14:43:13Z",
+    "updated_at": "2026-06-05T14:47:59Z",
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
-    "description": "AI-powered RAG Chatbot using FastAPI, ChromaDB, Sentence Transformers, and Gemini API for PDF question answering.",
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables PDF question answering using FastAPI, ChromaDB, Sen",
     "id": "dheeraaaa/AI-RAG-CHATBOT",
     "language": "Python",
     "name": "dheeraaaa/AI-RAG-CHATBOT",
     "stars": 0,
-    "updated_at": "2026-06-05T14:38:54Z",
+    "updated_at": "2026-06-05T14:47:48Z",
     "url": "https://github.com/dheeraaaa/AI-RAG-CHATBOT"
+  },
+  {
+    "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
+    "id": "avishek0769/DocChat",
+    "language": "TypeScript",
+    "name": "avishek0769/DocChat",
+    "stars": 14,
+    "updated_at": "2026-06-05T14:47:39Z",
+    "url": "https://github.com/avishek0769/DocChat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4408,
+    "updated_at": "2026-06-05T15:00:23Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
@@ -40,18 +103,9 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12217,
+    "stars": 12218,
     "updated_at": "2026-06-05T14:31:58Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Autonomous, configuration-free data quality and self-healing data pipeline powered by local RAG infrastructure and AI Ag",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31832,
-    "updated_at": "2026-06-05T14:42:40Z",
+    "updated_at": "2026-06-05T14:59:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -225,21 +279,12 @@
     "url": "https://github.com/Sourajit-M/youtube-semantic-search"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6948,
-    "updated_at": "2026-06-05T14:29:00Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7689,
-    "updated_at": "2026-06-05T14:24:53Z",
+    "updated_at": "2026-06-05T14:56:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:28:31Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10505,
-    "updated_at": "2026-06-05T13:28:35Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T13:19:37Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:18:22Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:18:08Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "\ud83d\udc2c Formation compl\u00e8te MariaDB 11.8 LTS en fran\u00e7ais . SQL, HA, DevOps, Kubernetes, et MariaDB Vector pour l'IA. 20 modules",
-    "id": "NDXDeveloper/formation-mariadb",
-    "language": "\u2014",
-    "name": "NDXDeveloper/formation-mariadb",
-    "stars": 20,
-    "updated_at": "2026-06-05T13:17:59Z",
-    "url": "https://github.com/NDXDeveloper/formation-mariadb"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:17:52Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
   }
 ]
