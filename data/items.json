@@ -1,5 +1,32 @@
 [
   {
+    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
+    "id": "voytas75/brainos",
+    "language": "Python",
+    "name": "voytas75/brainos",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:09:47Z",
+    "url": "https://github.com/voytas75/brainos"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:07:57Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,15 +72,6 @@
     "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
-    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
-    "id": "voytas75/brainos",
-    "language": "Python",
-    "name": "voytas75/brainos",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:50:17Z",
-    "url": "https://github.com/voytas75/brainos"
-  },
-  {
     "description": "API and integration profile for Aerospike.",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -61,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T22:49:06Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
-    "id": "jmgindicators/trading-knowledge-rag",
-    "language": "Python",
-    "name": "jmgindicators/trading-knowledge-rag",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:40:08Z",
-    "url": "https://github.com/jmgindicators/trading-knowledge-rag"
   },
   {
     "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-05 23:00 UTC
+> ⏰ Last updated: 2026-06-05 23:12 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-06-05 | API and integration profile for Azure Cosmos DB. |
-| 4 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-05 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
-| 5 | [thekaveh/genai-vanilla](https://github.com/thekaveh/genai-vanilla) | 0 | Python | 2026-06-05 | Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab |
-| 6 | [voytas75/brainos](https://github.com/voytas75/brainos) | 0 | Python | 2026-06-05 | SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance. |
-| 7 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-06-05 | API and integration profile for Aerospike. |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [jmgindicators/trading-knowledge-rag](https://github.com/jmgindicators/trading-knowledge-rag) | 0 | Python | 2026-06-05 | Conversational RAG assistant over the documented trading methodology of a professional futures trader. |
+| 1 | [voytas75/brainos](https://github.com/voytas75/brainos) | 0 | Python | 2026-06-05 | SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance. |
+| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-05 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-06-05 | API and integration profile for Azure Cosmos DB. |
+| 7 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-05 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
+| 8 | [thekaveh/genai-vanilla](https://github.com/thekaveh/genai-vanilla) | 0 | Python | 2026-06-05 | Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab |
+| 9 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-06-05 | API and integration profile for Aerospike. |
 | 10 | [splinterhq/libsplinter](https://github.com/splinterhq/libsplinter) | 3 | C | 2026-06-05 | Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me |
 | 11 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-05 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
 | 12 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 1 | TypeScript | 2026-06-05 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
