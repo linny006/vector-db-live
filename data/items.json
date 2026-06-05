@@ -1,12 +1,57 @@
 [
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61104,
-    "updated_at": "2026-06-05T14:14:36Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
+    "description": "Memory platform for AI Agents in 6 lines of code",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17680,
+    "updated_at": "2026-06-05T14:29:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12217,
+    "updated_at": "2026-06-05T14:29:32Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
+    "id": "NvlFR/enterprise-rag-platform",
+    "language": "Python",
+    "name": "NvlFR/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:29:22Z",
+    "url": "https://github.com/NvlFR/enterprise-rag-platform"
+  },
+  {
+    "description": "One Postgres container that replaces MongoDB, Redis/RabbitMQ, Elasticsearch, Pinecone, PostGIS, a time-series DB, Snowfl",
+    "id": "Havoc24k/Postgres4all",
+    "language": "Go",
+    "name": "Havoc24k/Postgres4all",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:29:22Z",
+    "url": "https://github.com/Havoc24k/Postgres4all"
+  },
+  {
+    "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
+    "id": "Ardem2025/mem0-temporal-hygiene",
+    "language": "Python",
+    "name": "Ardem2025/mem0-temporal-hygiene",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:28:30Z",
+    "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 4,
+    "updated_at": "2026-06-05T14:18:11Z",
+    "url": "https://github.com/bas-in/basin"
   },
   {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
@@ -14,8 +59,35 @@
     "language": "Rust",
     "name": "yihui504/TestVDB",
     "stars": 0,
-    "updated_at": "2026-06-05T14:12:20Z",
+    "updated_at": "2026-06-05T14:16:53Z",
     "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61105,
+    "updated_at": "2026-06-05T14:14:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "An interactive, content-first portfolio and personal operating system built with Next.js and Tailwind CSS. Features a pr",
@@ -59,35 +131,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31832,
-    "updated_at": "2026-06-05T14:08:38Z",
+    "updated_at": "2026-06-05T14:28:34Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
-    "id": "NvlFR/enterprise-rag-platform",
-    "language": "\u2014",
-    "name": "NvlFR/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:06:06Z",
-    "url": "https://github.com/NvlFR/enterprise-rag-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6948,
-    "updated_at": "2026-06-05T14:07:07Z",
+    "updated_at": "2026-06-05T14:29:00Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -167,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7689,
-    "updated_at": "2026-06-05T13:33:54Z",
+    "updated_at": "2026-06-05T14:24:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T13:24:17Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 4,
-    "updated_at": "2026-06-05T13:24:17Z",
-    "url": "https://github.com/bas-in/basin"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:15:47Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 73,
-    "updated_at": "2026-06-05T13:15:04Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:14:58Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:13:28Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:12:46Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
