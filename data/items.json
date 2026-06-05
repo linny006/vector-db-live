@@ -1,12 +1,30 @@
 [
   {
-    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
-    "id": "oceanbase/pyobvector",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "oceanbase/pyobvector",
-    "stars": 19,
-    "updated_at": "2026-06-05T06:21:49Z",
-    "url": "https://github.com/oceanbase/pyobvector"
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 4,
+    "updated_at": "2026-06-05T06:29:27Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 69,
+    "updated_at": "2026-06-05T06:28:25Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
@@ -14,8 +32,26 @@
     "language": "Rust",
     "name": "yihui504/TestVDB",
     "stars": 0,
-    "updated_at": "2026-06-05T06:21:31Z",
+    "updated_at": "2026-06-05T06:23:52Z",
     "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:22:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
+    "id": "oceanbase/pyobvector",
+    "language": "Python",
+    "name": "oceanbase/pyobvector",
+    "stars": 19,
+    "updated_at": "2026-06-05T06:21:49Z",
+    "url": "https://github.com/oceanbase/pyobvector"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:15:23Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -360,15 +378,6 @@
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   },
   {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 4,
-    "updated_at": "2026-06-05T05:53:59Z",
-    "url": "https://github.com/bas-in/basin"
-  },
-  {
     "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
     "id": "pencaudal526/system-design-bible",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T05:49:45Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 1,
-    "updated_at": "2026-06-05T05:49:30Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
   }
 ]
