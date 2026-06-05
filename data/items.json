@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
+    "id": "oceanbase/pyobvector",
+    "language": "Python",
+    "name": "oceanbase/pyobvector",
+    "stars": 19,
+    "updated_at": "2026-06-05T06:42:08Z",
+    "url": "https://github.com/oceanbase/pyobvector"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-06-05T06:36:27Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 69,
+    "updated_at": "2026-06-05T06:34:24Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 37,
+    "updated_at": "2026-06-05T06:30:23Z",
+    "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/bas-in/basin"
   },
   {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 69,
-    "updated_at": "2026-06-05T06:28:25Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Rust",
@@ -34,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:23:52Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:22:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
-    "id": "oceanbase/pyobvector",
-    "language": "Python",
-    "name": "oceanbase/pyobvector",
-    "stars": 19,
-    "updated_at": "2026-06-05T06:21:49Z",
-    "url": "https://github.com/oceanbase/pyobvector"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T05:50:53Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-05T05:49:48Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-05T05:49:45Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
