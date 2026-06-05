@@ -1,5 +1,95 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61104,
+    "updated_at": "2026-06-05T14:14:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Rust",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:12:20Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "An interactive, content-first portfolio and personal operating system built with Next.js and Tailwind CSS. Features a pr",
+    "id": "SolarisXD/rahulgehlot.me",
+    "language": "TypeScript",
+    "name": "SolarisXD/rahulgehlot.me",
+    "stars": 2,
+    "updated_at": "2026-06-05T14:11:59Z",
+    "url": "https://github.com/SolarisXD/rahulgehlot.me"
+  },
+  {
+    "description": "The Index trait unifying flat, HNSW, and IVF vector indexes - part of the iQDB family.",
+    "id": "jamesgober/iqdb-index",
+    "language": "Rust",
+    "name": "jamesgober/iqdb-index",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:12:50Z",
+    "url": "https://github.com/jamesgober/iqdb-index"
+  },
+  {
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
+    "id": "NirDiamant/Agent_Memory_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Agent_Memory_Techniques",
+    "stars": 485,
+    "updated_at": "2026-06-05T14:10:29Z",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 27727,
+    "updated_at": "2026-06-05T14:09:53Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31832,
+    "updated_at": "2026-06-05T14:08:38Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
+    "id": "NvlFR/enterprise-rag-platform",
+    "language": "\u2014",
+    "name": "NvlFR/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:06:06Z",
+    "url": "https://github.com/NvlFR/enterprise-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -27,21 +117,12 @@
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
   },
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Rust",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:55:37Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
     "name": "BBC-Esq/VectorDB-Plugin",
     "stars": 368,
-    "updated_at": "2026-06-05T13:50:38Z",
+    "updated_at": "2026-06-05T14:13:08Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
@@ -49,7 +130,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 281,
+    "stars": 282,
     "updated_at": "2026-06-05T13:50:02Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -63,33 +144,6 @@
     "url": "https://github.com/redis/redis-vl-java"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:45:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31831,
-    "updated_at": "2026-06-05T13:42:14Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Production-grade YouTube RAG Engine: Talk to any YouTube channel using FastAPI, Streamlit, and ChromaDB. Features Hybrid",
     "id": "Sourajit-M/youtube-semantic-search",
     "language": "Python",
@@ -99,21 +153,12 @@
     "url": "https://github.com/Sourajit-M/youtube-semantic-search"
   },
   {
-    "description": "The Index trait unifying flat, HNSW, and IVF vector indexes - part of the iQDB family.",
-    "id": "jamesgober/iqdb-index",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-index",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:37:17Z",
-    "url": "https://github.com/jamesgober/iqdb-index"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6948,
-    "updated_at": "2026-06-05T13:54:01Z",
+    "updated_at": "2026-06-05T14:07:07Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -133,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:32:47Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
-    "id": "NirDiamant/Agent_Memory_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 485,
-    "updated_at": "2026-06-05T13:32:29Z",
-    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 27727,
-    "updated_at": "2026-06-05T13:31:58Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T13:12:46Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:12:13Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 3,
-    "updated_at": "2026-06-05T13:11:11Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:09:53Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
