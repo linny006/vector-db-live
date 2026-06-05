@@ -1,12 +1,57 @@
 [
   {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-05T10:30:56Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
+    "updated_at": "2026-06-05T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 65,
+    "updated_at": "2026-06-05T10:45:12Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
+    "id": "richtg22/enterprise-rag-knowledge-assistant",
+    "language": "Python",
+    "name": "richtg22/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-05T10:42:05Z",
+    "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "Distributed vector search for AI-native applications",
+    "id": "vearch/vearch",
+    "language": "Go",
+    "name": "vearch/vearch",
+    "stars": 2311,
+    "updated_at": "2026-06-05T10:40:57Z",
+    "url": "https://github.com/vearch/vearch"
+  },
+  {
+    "description": "Foundational vector-database types for the iQDB family - the shared vocabulary every iQDB crate speaks.",
+    "id": "jamesgober/iqdb-types",
+    "language": "Rust",
+    "name": "jamesgober/iqdb-types",
+    "stars": 0,
+    "updated_at": "2026-06-05T10:36:29Z",
+    "url": "https://github.com/jamesgober/iqdb-types"
+  },
+  {
+    "description": "",
+    "id": "kawtareg/local-rag",
+    "language": "Python",
+    "name": "kawtareg/local-rag",
+    "stars": 0,
+    "updated_at": "2026-06-05T10:32:48Z",
+    "url": "https://github.com/kawtareg/local-rag"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +59,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-05T10:30:28Z",
+    "updated_at": "2026-06-05T10:31:28Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
     "stars": 0,
-    "updated_at": "2026-06-05T10:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-05T10:30:56Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   },
   {
-    "description": "Foundational vector-database types for the iQDB family - the shared vocabulary every iQDB crate speaks.",
-    "id": "jamesgober/iqdb-types",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-types",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:26:01Z",
-    "url": "https://github.com/jamesgober/iqdb-types"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -126,15 +162,6 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 65,
-    "updated_at": "2026-06-05T10:26:43Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -151,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-06-05T10:22:55Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16277,
+    "updated_at": "2026-06-05T10:44:34Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -369,15 +405,6 @@
     "url": "https://github.com/okeidontlike/Awareness-Local"
   },
   {
-    "description": "Enterprise RAG Knowledge Assistant supporting multi-document upload, semantic search, source citations and grounded ques",
-    "id": "richtg22/enterprise-rag-knowledge-assistant",
-    "language": "Python",
-    "name": "richtg22/enterprise-rag-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:08:42Z",
-    "url": "https://github.com/richtg22/enterprise-rag-knowledge-assistant"
-  },
-  {
     "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
     "id": "ahmahmahm/pdf-rag-assistant",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-05T10:06:14Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-05T10:06:06Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-05T10:04:32Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-05T10:02:37Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
