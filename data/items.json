@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
+    "id": "voytas75/brainos",
+    "language": "Python",
+    "name": "voytas75/brainos",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:40:22Z",
+    "url": "https://github.com/voytas75/brainos"
+  },
+  {
+    "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
+    "id": "jmgindicators/trading-knowledge-rag",
+    "language": "Python",
+    "name": "jmgindicators/trading-knowledge-rag",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:40:08Z",
+    "url": "https://github.com/jmgindicators/trading-knowledge-rag"
+  },
+  {
+    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 3,
+    "updated_at": "2026-06-05T22:32:34Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -16,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T22:28:07Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
-    "id": "voytas75/brainos",
-    "language": "Python",
-    "name": "voytas75/brainos",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:27:56Z",
-    "url": "https://github.com/voytas75/brainos"
-  },
-  {
-    "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
-    "id": "jmgindicators/trading-knowledge-rag",
-    "language": "Python",
-    "name": "jmgindicators/trading-knowledge-rag",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:27:09Z",
-    "url": "https://github.com/jmgindicators/trading-knowledge-rag"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -207,24 +234,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
     "id": "Keeterete513/llm-model-search-recommendation",
     "language": "Python",
@@ -250,6 +259,15 @@
     "stars": 2,
     "updated_at": "2026-06-05T22:13:45Z",
     "url": "https://github.com/Ac3v3d0/semafold"
+  },
+  {
+    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
+    "id": "thekaveh/genai-vanilla",
+    "language": "Python",
+    "name": "thekaveh/genai-vanilla",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:44:55Z",
+    "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 65,
-    "updated_at": "2026-06-05T22:08:58Z",
+    "updated_at": "2026-06-05T22:35:35Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T21:57:58Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-06-05T21:57:57Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:57:46Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
