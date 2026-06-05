@@ -1,21 +1,21 @@
 [
   {
-    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1569,
-    "updated_at": "2026-06-05T19:09:17Z",
-    "url": "https://github.com/pixeltable/pixeltable"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-05T19:28:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T19:07:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31833,
+    "updated_at": "2026-06-05T19:22:11Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
@@ -23,8 +23,17 @@
     "language": "Rust",
     "name": "ChrisGVE/workspace-qdrant-mcp",
     "stars": 1,
-    "updated_at": "2026-06-05T19:03:45Z",
+    "updated_at": "2026-06-05T19:20:57Z",
     "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "RAG pipeline for medical document processing with LangChain + Claude + pgvector",
+    "id": "ivan-podgurskiy/langchain-document-pipeline",
+    "language": "Python",
+    "name": "ivan-podgurskiy/langchain-document-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:16:15Z",
+    "url": "https://github.com/ivan-podgurskiy/langchain-document-pipeline"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +41,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-05T19:00:27Z",
+    "updated_at": "2026-06-05T19:15:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1569,
+    "updated_at": "2026-06-05T19:09:17Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
@@ -97,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T18:20:57Z",
     "url": "https://github.com/splinterhq/libsplinter"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31834,
-    "updated_at": "2026-06-05T19:06:08Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-powered Telecom Knowledge Assistant using RAG, ChromaDB, FastAPI, and React for intelligent document retrieval and qu",
@@ -324,15 +342,6 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-05T17:45:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A set of  7 projects that demonstrate various big data technologies.",
     "id": "linuteresa/big-data-analytics",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-05T17:36:34Z",
     "url": "https://github.com/bas-in/basin"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:36:32Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
