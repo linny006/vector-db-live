@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-05T22:45:18Z",
+    "updated_at": "2026-06-05T23:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-05T22:56:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "API and integration profile for Azure Cosmos DB.",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:55:27Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-05T22:52:49Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
+    "id": "thekaveh/genai-vanilla",
+    "language": "Python",
+    "name": "thekaveh/genai-vanilla",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:52:40Z",
+    "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
     "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "voytas75/brainos",
     "stars": 0,
-    "updated_at": "2026-06-05T22:40:22Z",
+    "updated_at": "2026-06-05T22:50:17Z",
     "url": "https://github.com/voytas75/brainos"
+  },
+  {
+    "description": "API and integration profile for Aerospike.",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:49:06Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
@@ -34,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T22:32:34Z",
     "url": "https://github.com/splinterhq/libsplinter"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -153,15 +198,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-05T22:20:16Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -259,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T22:13:45Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
-    "id": "thekaveh/genai-vanilla",
-    "language": "Python",
-    "name": "thekaveh/genai-vanilla",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:44:55Z",
-    "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -382,7 +409,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31834,
+    "stars": 31835,
     "updated_at": "2026-06-05T22:02:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-05T22:01:38Z",
     "url": "https://github.com/Skelf-Research/memista"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 65,
-    "updated_at": "2026-06-05T22:35:35Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-05T22:00:13Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:57:58Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
