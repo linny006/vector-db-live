@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-05 13:42 UTC
+> ⏰ Last updated: 2026-06-05 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Neboy72/hermes-nexus-memory](https://github.com/Neboy72/hermes-nexus-memory) | 2 | Python | 2026-06-05 | Persistent vector memory for AI agents — SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery |
-| 2 | [Sourajit-M/youtube-semantic-search](https://github.com/Sourajit-M/youtube-semantic-search) | 1 | Python | 2026-06-05 | Production-grade YouTube RAG Engine: Talk to any YouTube channel using FastAPI, Streamlit, and ChromaDB. Features Hybrid |
-| 3 | [jamesgober/iqdb-index](https://github.com/jamesgober/iqdb-index) | 0 | Rust | 2026-06-05 | The Index trait unifying flat, HNSW, and IVF vector indexes - part of the iQDB family. |
-| 4 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6948 | Java | 2026-06-05 | The AI search platform |
-| 5 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 368 | Python | 2026-06-05 | Program that lets you ask questions about your documents, audio, and video files. |
-| 6 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-05 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 7 | [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 485 | Jupyter Notebook | 2026-06-05 | Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi |
-| 8 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 27727 | Jupyter Notebook | 2026-06-05 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
-| 9 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 1 | TypeScript | 2026-06-05 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [Neboy72/hermes-nexus-memory](https://github.com/Neboy72/hermes-nexus-memory) | 2 | Python | 2026-06-05 | Persistent vector memory for AI agents — SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [Sourajit-M/youtube-semantic-search](https://github.com/Sourajit-M/youtube-semantic-search) | 1 | Python | 2026-06-05 | Production-grade YouTube RAG Engine: Talk to any YouTube channel using FastAPI, Streamlit, and ChromaDB. Features Hybrid |
+| 5 | [jamesgober/iqdb-index](https://github.com/jamesgober/iqdb-index) | 0 | Rust | 2026-06-05 | The Index trait unifying flat, HNSW, and IVF vector indexes - part of the iQDB family. |
+| 6 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6948 | Java | 2026-06-05 | The AI search platform |
+| 7 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 368 | Python | 2026-06-05 | Program that lets you ask questions about your documents, audio, and video files. |
+| 8 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-05 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
+| 9 | [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 485 | Jupyter Notebook | 2026-06-05 | Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi |
+| 10 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 27727 | Jupyter Notebook | 2026-06-05 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
+| 11 | [fik93673/QueryMind-SQL](https://github.com/fik93673/QueryMind-SQL) | 1 | TypeScript | 2026-06-05 | Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain. |
 | 12 | [Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant](https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant) | 0 | TypeScript | 2026-06-05 | Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re |
 | 13 | [Monkish-jewishryebread665/NodeMind](https://github.com/Monkish-jewishryebread665/NodeMind) | 0 | HTML | 2026-06-05 | Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs. |
 | 14 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10505 | HTML | 2026-06-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
