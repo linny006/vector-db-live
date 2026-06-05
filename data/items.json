@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-05T13:59:25Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "This repo has code form AI Agent setup on aws bedrok ",
+    "id": "everythingisdata1/ai-agent-aws-bedrok",
+    "language": "Python",
+    "name": "everythingisdata1/ai-agent-aws-bedrok",
     "stars": 0,
-    "updated_at": "2026-06-05T13:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-05T13:58:15Z",
+    "url": "https://github.com/everythingisdata1/ai-agent-aws-bedrok"
   },
   {
     "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "Neboy72/hermes-nexus-memory",
     "stars": 2,
-    "updated_at": "2026-06-05T13:45:23Z",
+    "updated_at": "2026-06-05T13:57:18Z",
     "url": "https://github.com/Neboy72/hermes-nexus-memory"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Rust",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-06-05T13:55:37Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 368,
+    "updated_at": "2026-06-05T13:50:38Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 281,
+    "updated_at": "2026-06-05T13:50:02Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Java client for Redis.",
+    "id": "redis/redis-vl-java",
+    "language": "Java",
+    "name": "redis/redis-vl-java",
+    "stars": 19,
+    "updated_at": "2026-06-05T13:47:49Z",
+    "url": "https://github.com/redis/redis-vl-java"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-05T13:42:44Z",
+    "updated_at": "2026-06-05T13:45:49Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31831,
+    "updated_at": "2026-06-05T13:42:14Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-grade YouTube RAG Engine: Talk to any YouTube channel using FastAPI, Streamlit, and ChromaDB. Features Hybrid",
@@ -50,17 +113,17 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6948,
-    "updated_at": "2026-06-05T13:34:30Z",
+    "updated_at": "2026-06-05T13:54:01Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 368,
-    "updated_at": "2026-06-05T13:34:22Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7689,
+    "updated_at": "2026-06-05T13:33:54Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:09:53Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:09:06Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:08:40Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 148,
-    "updated_at": "2026-06-05T13:08:13Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Open-source AI memory engine for LLMs. Built with FastAPI, PostgreSQL/pgvector and fastembed. Features autonomous contex",
-    "id": "aayanghazi/ContextFold",
-    "language": "Python",
-    "name": "aayanghazi/ContextFold",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:07:25Z",
-    "url": "https://github.com/aayanghazi/ContextFold"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:06:34Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:06:32Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:06:25Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
