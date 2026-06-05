@@ -1,12 +1,39 @@
 [
   {
-    "description": "Memory platform for AI Agents in 6 lines of code",
-    "id": "topoteretes/cognee",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17680,
-    "updated_at": "2026-06-05T14:29:52Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
+    "id": "Neboy72/hermes-nexus-memory",
+    "language": "Python",
+    "name": "Neboy72/hermes-nexus-memory",
+    "stars": 2,
+    "updated_at": "2026-06-05T14:43:13Z",
+    "url": "https://github.com/Neboy72/hermes-nexus-memory"
+  },
+  {
+    "description": "AI-powered RAG Chatbot using FastAPI, ChromaDB, Sentence Transformers, and Gemini API for PDF question answering.",
+    "id": "dheeraaaa/AI-RAG-CHATBOT",
+    "language": "Python",
+    "name": "dheeraaaa/AI-RAG-CHATBOT",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:38:54Z",
+    "url": "https://github.com/dheeraaaa/AI-RAG-CHATBOT"
+  },
+  {
+    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
+    "id": "voytas75/brainos",
+    "language": "Python",
+    "name": "voytas75/brainos",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:32:43Z",
+    "url": "https://github.com/voytas75/brainos"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -14,8 +41,35 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12217,
-    "updated_at": "2026-06-05T14:29:32Z",
+    "updated_at": "2026-06-05T14:31:58Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Autonomous, configuration-free data quality and self-healing data pipeline powered by local RAG infrastructure and AI Ag",
+    "id": "AtulSingh-Emyre/aegis-data",
+    "language": "Python",
+    "name": "AtulSingh-Emyre/aegis-data",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:29:55Z",
+    "url": "https://github.com/AtulSingh-Emyre/aegis-data"
+  },
+  {
+    "description": "Memory platform for AI Agents in 6 lines of code",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17680,
+    "updated_at": "2026-06-05T14:29:52Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
@@ -59,26 +113,8 @@
     "language": "Rust",
     "name": "yihui504/TestVDB",
     "stars": 0,
-    "updated_at": "2026-06-05T14:16:53Z",
+    "updated_at": "2026-06-05T14:32:45Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31832,
-    "updated_at": "2026-06-05T14:28:34Z",
+    "updated_at": "2026-06-05T14:42:40Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/everythingisdata1/ai-agent-aws-bedrok"
   },
   {
-    "description": "Persistent vector memory for AI agents \u2014 SkillGraph, hybrid retrieval (BM25+Vector+RRF), drift detection, auto-discovery",
-    "id": "Neboy72/hermes-nexus-memory",
-    "language": "Python",
-    "name": "Neboy72/hermes-nexus-memory",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:57:18Z",
-    "url": "https://github.com/Neboy72/hermes-nexus-memory"
-  },
-  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
@@ -175,7 +202,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 282,
+    "stars": 284,
     "updated_at": "2026-06-05T13:50:02Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-05T13:17:52Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:16:22Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
-    "id": "MRupam202005/rag-codebase-explainer",
-    "language": "Python",
-    "name": "MRupam202005/rag-codebase-explainer",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:15:51Z",
-    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:15:47Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
