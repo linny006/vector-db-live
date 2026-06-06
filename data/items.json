@@ -1,12 +1,48 @@
 [
   {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-06T13:29:49Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:29:15Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T13:15:20Z",
+    "updated_at": "2026-06-06T13:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "QuantumPDF V1.3 enables intelligent conversations with PDF documents. Built with Next.js 15 and React 19, it uses Retrie",
+    "id": "Kedhareswer/QuantumPDF_ChatApp_VectorDB",
+    "language": "TypeScript",
+    "name": "Kedhareswer/QuantumPDF_ChatApp_VectorDB",
+    "stars": 8,
+    "updated_at": "2026-06-06T13:23:45Z",
+    "url": "https://github.com/Kedhareswer/QuantumPDF_ChatApp_VectorDB"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:21:43Z",
+    "url": "https://github.com/vicquick/nobrainr"
   },
   {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1344,
-    "updated_at": "2026-06-06T13:10:31Z",
+    "updated_at": "2026-06-06T13:22:04Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -23,8 +59,17 @@
     "language": "Jupyter Notebook",
     "name": "VashuTheGreat/Multi-Rag",
     "stars": 0,
-    "updated_at": "2026-06-06T13:10:00Z",
+    "updated_at": "2026-06-06T13:27:41Z",
     "url": "https://github.com/VashuTheGreat/Multi-Rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
@@ -34,15 +79,6 @@
     "stars": 745,
     "updated_at": "2026-06-06T13:09:52Z",
     "url": "https://github.com/verygoodplugins/automem"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:08:32Z",
-    "url": "https://github.com/vicquick/nobrainr"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -70,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-06T13:01:05Z",
     "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17692,
-    "updated_at": "2026-06-06T12:20:47Z",
+    "updated_at": "2026-06-06T13:30:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -211,7 +238,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44655,
+    "stars": 44656,
     "updated_at": "2026-06-06T12:06:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T11:54:00Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-06T11:53:18Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:52:00Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:51:21Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
