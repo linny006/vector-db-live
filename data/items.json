@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-06T06:14:21Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Object-storage-first vector database. Cost-optimized for cold/bursty workloads. FAISS IVFFlat under the hood.",
+    "id": "rosalinddb/rosalinddb",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "rosalinddb/rosalinddb",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:13:32Z",
+    "url": "https://github.com/rosalinddb/rosalinddb"
   },
   {
     "description": "A production-ready Retrieval-Augmented Generation (RAG) pipeline featuring document ingestion, vector database indexing,",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "Aaron-Garvin/RAG-Application",
     "stars": 0,
-    "updated_at": "2026-06-06T05:56:46Z",
+    "updated_at": "2026-06-06T06:08:45Z",
     "url": "https://github.com/Aaron-Garvin/RAG-Application"
+  },
+  {
+    "description": "TARS Automotive Repair Specialist",
+    "id": "RobertSloan22/TARS-Automotive-Repair-Specialist",
+    "language": "\u2014",
+    "name": "RobertSloan22/TARS-Automotive-Repair-Specialist",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:08:33Z",
+    "url": "https://github.com/RobertSloan22/TARS-Automotive-Repair-Specialist"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -36,15 +72,6 @@
     "url": "https://github.com/yihui504/TestVDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "verygoodplugins/automem",
     "stars": 745,
-    "updated_at": "2026-06-06T05:48:31Z",
+    "updated_at": "2026-06-06T06:11:11Z",
     "url": "https://github.com/verygoodplugins/automem"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T04:54:57Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:54:55Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:54:20Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:54:01Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
