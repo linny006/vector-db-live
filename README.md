@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 17:45 UTC
+> ⏰ Last updated: 2026-06-06 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [Minns-ai/MinnsDB](https://github.com/Minns-ai/MinnsDB) | 17 | Rust | 2026-06-06 |  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 745 | Python | 2026-06-06 | AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: |
-| 5 | [FireFistisDead/pdf-qa-bot](https://github.com/FireFistisDead/pdf-qa-bot) | 17 | JavaScript | 2026-06-06 | A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont |
-| 6 | [Krishna89287/rag-llm-toolkit](https://github.com/Krishna89287/rag-llm-toolkit) | 0 | Python | 2026-06-06 | Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [Krishna89287/rag-llm-toolkit](https://github.com/Krishna89287/rag-llm-toolkit) | 0 | Python | 2026-06-06 | Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [Minns-ai/MinnsDB](https://github.com/Minns-ai/MinnsDB) | 17 | Rust | 2026-06-06 |  |
+| 5 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 745 | Python | 2026-06-06 | AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: |
+| 6 | [FireFistisDead/pdf-qa-bot](https://github.com/FireFistisDead/pdf-qa-bot) | 17 | JavaScript | 2026-06-06 | A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont |
 | 7 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-06 | Identity and Authorization Service with Vector and AI Integration |
 | 8 | [schmitech/orbit](https://github.com/schmitech/orbit) | 277 | Python | 2026-06-06 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
 | 9 | [Open-Source-Legal/cite](https://github.com/Open-Source-Legal/cite) | 1344 | Python | 2026-06-06 | Ground truth layer for humans and AI agents working together. Version control for knowledge.  |
