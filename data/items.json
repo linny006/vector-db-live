@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi source Retrieval Augmented Generation system using vector databases and LLMs.",
+    "id": "VashuTheGreat/Multi-Rag",
+    "language": "Jupyter Notebook",
+    "name": "VashuTheGreat/Multi-Rag",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:54:37Z",
+    "url": "https://github.com/VashuTheGreat/Multi-Rag"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 24,
+    "updated_at": "2026-06-06T12:52:45Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "LLM\u5e94\u7528&Agent\u5f00\u53d1\u9762\u8bd5\u9898\u5168\u96c6\uff1a21\u4e2a\u4e13\u9898\u3001380+\u9053\u9898\u300141000+\u884c\u3001\u8986\u76d6Python/FastAPI/LangChain/CICD",
+    "id": "dirjaker/llm_agent_interview",
+    "language": "\u2014",
+    "name": "dirjaker/llm_agent_interview",
+    "stars": 2,
+    "updated_at": "2026-06-06T12:49:53Z",
+    "url": "https://github.com/dirjaker/llm_agent_interview"
+  },
+  {
+    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
+    "id": "MRupam202005/rag-codebase-explainer",
+    "language": "JavaScript",
+    "name": "MRupam202005/rag-codebase-explainer",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:47:56Z",
+    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
     "id": "dejan3dejan/langgraph-travel-agent",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T12:42:06Z",
     "url": "https://github.com/Oxygen56/memoria"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
@@ -54,15 +90,6 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 24,
-    "updated_at": "2026-06-06T12:28:03Z",
-    "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -70,15 +97,6 @@
     "stars": 6950,
     "updated_at": "2026-06-06T12:26:22Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
-    "id": "MRupam202005/rag-codebase-explainer",
-    "language": "JavaScript",
-    "name": "MRupam202005/rag-codebase-explainer",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:25:27Z",
-    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
   },
   {
     "description": "Fast, SQL powered, in-process vector search for any language with an SQLite driver",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T11:47:59Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:47:47Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-06T11:46:05Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
