@@ -1,12 +1,75 @@
 [
   {
+    "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
+    "id": "Suvroneel/Phynix-Ai",
+    "language": "Jupyter Notebook",
+    "name": "Suvroneel/Phynix-Ai",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:28:08Z",
+    "url": "https://github.com/Suvroneel/Phynix-Ai"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 51,
+    "updated_at": "2026-06-06T06:26:03Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:24:27Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
     "name": "SuperInstance/SuperInstance",
     "stars": 4,
-    "updated_at": "2026-06-06T06:14:21Z",
+    "updated_at": "2026-06-06T06:23:39Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Multi-agent RAG workflow built with LangGraph, Gemini, and FAISS for document retrieval, source-grounded question answer",
+    "id": "DanishShaikh18/Multi-Agent-RAG-System",
+    "language": "Python",
+    "name": "DanishShaikh18/Multi-Agent-RAG-System",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:16:38Z",
+    "url": "https://github.com/DanishShaikh18/Multi-Agent-RAG-System"
+  },
+  {
+    "description": "A production-ready Retrieval-Augmented Generation (RAG) pipeline featuring document ingestion, vector database indexing,",
+    "id": "Aaron-Garvin/RAG-Application",
+    "language": "Python",
+    "name": "Aaron-Garvin/RAG-Application",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:15:29Z",
+    "url": "https://github.com/Aaron-Garvin/RAG-Application"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Object-storage-first vector database. Cost-optimized for cold/bursty workloads. FAISS IVFFlat under the hood.",
@@ -18,15 +81,6 @@
     "url": "https://github.com/rosalinddb/rosalinddb"
   },
   {
-    "description": "A production-ready Retrieval-Augmented Generation (RAG) pipeline featuring document ingestion, vector database indexing,",
-    "id": "Aaron-Garvin/RAG-Application",
-    "language": "Python",
-    "name": "Aaron-Garvin/RAG-Application",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:08:45Z",
-    "url": "https://github.com/Aaron-Garvin/RAG-Application"
-  },
-  {
     "description": "TARS Automotive Repair Specialist",
     "id": "RobertSloan22/TARS-Automotive-Repair-Specialist",
     "language": "\u2014",
@@ -36,29 +90,11 @@
     "url": "https://github.com/RobertSloan22/TARS-Automotive-Repair-Specialist"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44649,
+    "stars": 44650,
     "updated_at": "2026-06-06T05:56:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -88,15 +124,6 @@
     "stars": 745,
     "updated_at": "2026-06-06T06:11:11Z",
     "url": "https://github.com/verygoodplugins/automem"
-  },
-  {
-    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 51,
-    "updated_at": "2026-06-06T05:42:51Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T04:57:03Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:55:17Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-06-06T04:55:06Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:54:57Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
