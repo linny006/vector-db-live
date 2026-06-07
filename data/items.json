@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Personal Glossary Database to help keep track on terms and theory for school and future work",
+    "id": "JohnnyHyytiainen/glossary_db",
+    "language": "Python",
+    "name": "JohnnyHyytiainen/glossary_db",
+    "stars": 3,
+    "updated_at": "2026-06-07T18:14:09Z",
+    "url": "https://github.com/JohnnyHyytiainen/glossary_db"
+  },
+  {
+    "description": "The repository presents a recommendation workflow built around structured persona creation, context retention, retrieval",
+    "id": "kinola-IQ/behavioral-intelligence-agent",
+    "language": "Jupyter Notebook",
+    "name": "kinola-IQ/behavioral-intelligence-agent",
+    "stars": 1,
+    "updated_at": "2026-06-07T18:09:18Z",
+    "url": "https://github.com/kinola-IQ/behavioral-intelligence-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:03:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -9,31 +45,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:01:12Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "VectorLite is an Android-first local data platform that combines relational storage, vector search, automatic services a",
     "id": "kkokotero/VectorLite",
     "language": "Kotlin",
     "name": "kkokotero/VectorLite",
     "stars": 1,
-    "updated_at": "2026-06-07T18:01:12Z",
+    "updated_at": "2026-06-07T18:04:47Z",
     "url": "https://github.com/kkokotero/VectorLite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T16:44:56Z",
     "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-07T16:44:02Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 925,
-    "updated_at": "2026-06-07T17:30:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
