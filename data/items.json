@@ -1,11 +1,74 @@
 [
   {
+    "description": "Two-stage semantic search engine \u2014 pgvector ANN retrieval + cross-encoder reranking. Built with FastAPI, Streamlit, and ",
+    "id": "Tanish-Sarkar/semantic-search-engine",
+    "language": "Python",
+    "name": "Tanish-Sarkar/semantic-search-engine",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:43:38Z",
+    "url": "https://github.com/Tanish-Sarkar/semantic-search-engine"
+  },
+  {
+    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
+    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "language": "Python",
+    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:41:39Z",
+    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
+  },
+  {
+    "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
+    "id": "Abhishek-Das1121/AMLGo_Labs_chatbot_assesment",
+    "language": "Python",
+    "name": "Abhishek-Das1121/AMLGo_Labs_chatbot_assesment",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:38:50Z",
+    "url": "https://github.com/Abhishek-Das1121/AMLGo_Labs_chatbot_assesment"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-07T17:37:57Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-07T17:37:30Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Repository-aware coding assistant with AST analysis, semantic retrieval, ChromaDB memory, and Gemini-powered code review",
+    "id": "decoded15/code-reviewer",
+    "language": "Python",
+    "name": "decoded15/code-reviewer",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:36:04Z",
+    "url": "https://github.com/decoded15/code-reviewer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-07T17:30:17Z",
+    "updated_at": "2026-06-07T17:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi",
     "id": "ather-techie/rag-interview-system",
     "language": "\u2014",
@@ -67,7 +121,7 @@
     "id": "ClaudioDrews/memory-os",
     "language": "Python",
     "name": "ClaudioDrews/memory-os",
-    "stars": 986,
+    "stars": 989,
     "updated_at": "2026-06-07T17:05:33Z",
     "url": "https://github.com/ClaudioDrews/memory-os"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-07T16:41:35Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-07T16:40:53Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "ajianaz/uteke",
-    "language": "Python",
-    "name": "ajianaz/uteke",
-    "stars": 3,
-    "updated_at": "2026-06-07T16:40:43Z",
-    "url": "https://github.com/ajianaz/uteke"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-07T16:39:51Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-07T16:38:19Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-07T16:38:16Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 329,
-    "updated_at": "2026-06-07T16:36:53Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
