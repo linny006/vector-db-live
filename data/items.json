@@ -1,12 +1,30 @@
 [
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-07T10:44:58Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T11:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Context-aware AI assistant with persistent semantic memory, multi-session chat management, and real-time web retrieval b",
+    "id": "pratiksingh1296/context-aware-ai-assistant",
+    "language": "Python",
+    "name": "pratiksingh1296/context-aware-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:56:14Z",
+    "url": "https://github.com/pratiksingh1296/context-aware-ai-assistant"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 2,
+    "updated_at": "2026-06-07T10:52:23Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "yihui504/TestVDB",
     "stars": 1,
-    "updated_at": "2026-06-07T10:33:43Z",
+    "updated_at": "2026-06-07T10:52:12Z",
     "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "\ud83d\udc2c Formation compl\u00e8te MariaDB 11.8 LTS en fran\u00e7ais . SQL, HA, DevOps, Kubernetes, et MariaDB Vector pour l'IA. 20 modules",
+    "id": "NDXDeveloper/formation-mariadb",
+    "language": "\u2014",
+    "name": "NDXDeveloper/formation-mariadb",
+    "stars": 20,
+    "updated_at": "2026-06-07T10:48:41Z",
+    "url": "https://github.com/NDXDeveloper/formation-mariadb"
+  },
+  {
+    "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
+    "id": "Abhishek-Das1121/AMLGo_Labs_chatbot_assesment",
+    "language": "Python",
+    "name": "Abhishek-Das1121/AMLGo_Labs_chatbot_assesment",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:47:13Z",
+    "url": "https://github.com/Abhishek-Das1121/AMLGo_Labs_chatbot_assesment"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-07T10:54:56Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "From-scratch hybrid RAG pipeline over Wikipedia: semantic chunking, BM25 + dense fusion, query expansion, cross-encoder ",
@@ -25,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-07T10:30:46Z",
     "url": "https://github.com/Dialexy/RAG-pipeline"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T10:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-07T09:33:22Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:33:00Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:31:00Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-07T09:30:56Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "A reproducible catalog for choosing embedding layouts under quality, memory, and latency constraints",
-    "id": "jorge-martinez-gil/embeddings",
-    "language": "Python",
-    "name": "jorge-martinez-gil/embeddings",
-    "stars": 2,
-    "updated_at": "2026-06-07T09:30:55Z",
-    "url": "https://github.com/jorge-martinez-gil/embeddings"
   }
 ]
