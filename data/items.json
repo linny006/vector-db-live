@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T12:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify your tasks with MineContext, an open-source AI tool that provides context-aware support for clarity and effi",
+    "id": "Lithium2012/MineContext",
+    "language": "Python",
+    "name": "Lithium2012/MineContext",
+    "stars": 2,
+    "updated_at": "2026-06-07T12:00:16Z",
+    "url": "https://github.com/Lithium2012/MineContext"
+  },
+  {
+    "description": " Autonomous log investigation engine, ingest logs into pgvector, run hybrid search, and let an LLM ReAct loop surface ro",
+    "id": "VarunGitGood/repi",
+    "language": "Python",
+    "name": "VarunGitGood/repi",
+    "stars": 1,
+    "updated_at": "2026-06-07T11:58:57Z",
+    "url": "https://github.com/VarunGitGood/repi"
+  },
+  {
+    "description": "\ud83d\udcda Enhance technical documentation queries with DocsChat RAG, a robust Retrieval-Augmented Generation system featuring hy",
+    "id": "Milesdexter/docschat-rag",
+    "language": "\u2014",
+    "name": "Milesdexter/docschat-rag",
+    "stars": 1,
+    "updated_at": "2026-06-07T11:57:09Z",
+    "url": "https://github.com/Milesdexter/docschat-rag"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI conversations with Cognio, a persistent memory server that retains context and enables meaningful semantic ",
+    "id": "Thianvelaz/Cognio",
+    "language": "Python",
+    "name": "Thianvelaz/Cognio",
+    "stars": 3,
+    "updated_at": "2026-06-07T11:56:01Z",
+    "url": "https://github.com/Thianvelaz/Cognio"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-06-07T11:55:58Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "\ud83c\udfa8 Visualize audio in your terminal with Chroma, a Rust-based ASCII art shader that offers GPU-accelerated effects and re",
+    "id": "Shahid-Shabbir/chroma",
+    "language": "Rust",
+    "name": "Shahid-Shabbir/chroma",
+    "stars": 4,
+    "updated_at": "2026-06-07T11:55:51Z",
+    "url": "https://github.com/Shahid-Shabbir/chroma"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-07T11:55:37Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\uddd3\ufe0f Simplify booking with this AI service agent that processes queries, finds local options, and offers immediate slots a",
+    "id": "Efhbbhu/AI-BOOKING-AGENT",
+    "language": "Python",
+    "name": "Efhbbhu/AI-BOOKING-AGENT",
+    "stars": 2,
+    "updated_at": "2026-06-07T11:55:35Z",
+    "url": "https://github.com/Efhbbhu/AI-BOOKING-AGENT"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 5,
+    "updated_at": "2026-06-07T11:52:40Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83d\udcca Analyze data efficiently with Claude Data Analysis Assistant, using AI-driven commands for insights, visualizations, a",
+    "id": "mansuur22/claude-data-analysis",
+    "language": "Python",
+    "name": "mansuur22/claude-data-analysis",
+    "stars": 1,
+    "updated_at": "2026-06-07T11:52:36Z",
+    "url": "https://github.com/mansuur22/claude-data-analysis"
+  },
+  {
+    "description": "",
+    "id": "shreyash550/kramdb",
+    "language": "C++",
+    "name": "shreyash550/kramdb",
+    "stars": 0,
+    "updated_at": "2026-06-07T11:52:28Z",
+    "url": "https://github.com/shreyash550/kramdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T11:47:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Detect and fix oversized vector DB metadata before upsert. CLI for Pinecone, Chroma, Qdrant, Weaviate.",
     "id": "Achal13jain/vectormeta",
     "language": "Python",
@@ -43,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T11:45:54Z",
     "url": "https://github.com/vishu570/contextforge"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:45:54Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -301,7 +400,7 @@
     "id": "ClaudioDrews/memory-os",
     "language": "Python",
     "name": "ClaudioDrews/memory-os",
-    "stars": 973,
+    "stars": 974,
     "updated_at": "2026-06-07T11:26:26Z",
     "url": "https://github.com/ClaudioDrews/memory-os"
   },
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T11:21:07Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "Local Retrieval-Augmented Generation (RAG) system built with FastAPI, integrating vector search, Elasticsearch, and opti",
-    "id": "Jocker-123/ChatQ",
-    "language": "HTML",
-    "name": "Jocker-123/ChatQ",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:21:03Z",
-    "url": "https://github.com/Jocker-123/ChatQ"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-07T11:20:56Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
-    "id": "maksystem2025/GenAI-Course-Repo",
-    "language": "Jupyter Notebook",
-    "name": "maksystem2025/GenAI-Course-Repo",
-    "stars": 1,
-    "updated_at": "2026-06-07T11:19:18Z",
-    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
-  },
-  {
-    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
-    "id": "parvShah22/Rag_free_cources_assisstant",
-    "language": "Python",
-    "name": "parvShah22/Rag_free_cources_assisstant",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:18:43Z",
-    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:13:32Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "ajianaz/uteke",
-    "language": "Python",
-    "name": "ajianaz/uteke",
-    "stars": 3,
-    "updated_at": "2026-06-07T11:06:48Z",
-    "url": "https://github.com/ajianaz/uteke"
-  },
-  {
-    "description": "The repository presents a recommendation workflow built around structured persona creation, context retention, retrieval",
-    "id": "kinola-IQ/behavioral-intelligence-agent",
-    "language": "Jupyter Notebook",
-    "name": "kinola-IQ/behavioral-intelligence-agent",
-    "stars": 1,
-    "updated_at": "2026-06-07T11:03:51Z",
-    "url": "https://github.com/kinola-IQ/behavioral-intelligence-agent"
-  },
-  {
-    "description": "Context-aware AI assistant with persistent semantic memory, multi-session chat management, and real-time web retrieval b",
-    "id": "pratiksingh1296/context-aware-ai-assistant",
-    "language": "Python",
-    "name": "pratiksingh1296/context-aware-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-07T10:56:14Z",
-    "url": "https://github.com/pratiksingh1296/context-aware-ai-assistant"
-  },
-  {
-    "description": "Memory platform for AI Agents in 6 lines of code",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17710,
-    "updated_at": "2026-06-07T10:54:42Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 2,
-    "updated_at": "2026-06-07T10:52:23Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 1,
-    "updated_at": "2026-06-07T10:52:12Z",
-    "url": "https://github.com/yihui504/TestVDB"
   }
 ]
