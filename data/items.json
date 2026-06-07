@@ -1,11 +1,56 @@
 [
   {
+    "description": "Aplica\u00e7\u00e3o full stack de IA para consulta inteligente de PDFs com RAG, LangGraph, FastAPI, Next.js, PostgreSQL + pgvector",
+    "id": "fredtamashiro/smartdocs-ai",
+    "language": "Python",
+    "name": "fredtamashiro/smartdocs-ai",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:00:07Z",
+    "url": "https://github.com/fredtamashiro/smartdocs-ai"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-06-06T23:56:01Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:54:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
+    "id": "gifton/VectorCore",
+    "language": "Swift",
+    "name": "gifton/VectorCore",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:47:07Z",
+    "url": "https://github.com/gifton/VectorCore"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-06T23:56:23Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-06T23:44:52Z",
+    "updated_at": "2026-06-06T23:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-06T23:45:22Z",
+    "updated_at": "2026-06-07T00:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1343,
-    "updated_at": "2026-06-06T23:37:55Z",
+    "updated_at": "2026-06-06T23:58:42Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:19:16Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-06T23:29:21Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -397,12 +433,12 @@
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos-first",
+    "id": "dovahkiin-v/mitos",
     "language": "Python",
-    "name": "dovahkiin-v/mitos-first",
+    "name": "dovahkiin-v/mitos",
     "stars": 1,
     "updated_at": "2026-06-06T23:02:39Z",
-    "url": "https://github.com/dovahkiin-v/mitos-first"
+    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:02:30Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:02:26Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:02:23Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:02:20Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:01:43Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
