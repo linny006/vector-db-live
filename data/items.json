@@ -1,12 +1,39 @@
 [
   {
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizd",
+    "language": "Rust",
+    "name": "cluaiz/cluaizd",
+    "stars": 1,
+    "updated_at": "2026-06-07T19:46:14Z",
+    "url": "https://github.com/cluaiz/cluaizd"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-07T19:45:17Z",
+    "updated_at": "2026-06-07T19:45:45Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcdd Preserve human memories and wisdom with Mnemosyne, a digital archive that safeguards our legacies in the age of AI.",
+    "id": "KayseanWasHereOnce/mnemosyneManohar",
+    "language": "JavaScript",
+    "name": "KayseanWasHereOnce/mnemosyneManohar",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:45:28Z",
+    "url": "https://github.com/KayseanWasHereOnce/mnemosyneManohar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T19:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
@@ -127,12 +154,12 @@
   },
   {
     "description": "An enterprise RAG system that lets you upload documents and query them using hybrid BM25 + semantic search with Cohere r",
-    "id": "shashank-poola/DataMind-enterprises-data-RAG",
+    "id": "shashank-poola/datamind",
     "language": "TypeScript",
-    "name": "shashank-poola/DataMind-enterprises-data-RAG",
+    "name": "shashank-poola/datamind",
     "stars": 2,
     "updated_at": "2026-06-07T19:33:45Z",
-    "url": "https://github.com/shashank-poola/DataMind-enterprises-data-RAG"
+    "url": "https://github.com/shashank-poola/datamind"
   },
   {
     "description": "\ud83c\udfe5 Assess and predict disease risk using AI, empowering healthcare decisions with clinical insights and personalized reco",
@@ -216,15 +243,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T19:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
     "id": "ChrisGVE/workspace-qdrant-mcp",
     "language": "Rust",
@@ -241,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-06-07T19:28:22Z",
     "url": "https://github.com/Carricacha/local-rag-system"
-  },
-  {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizd",
-    "language": "Rust",
-    "name": "cluaiz/cluaizd",
-    "stars": 1,
-    "updated_at": "2026-06-07T19:27:28Z",
-    "url": "https://github.com/cluaiz/cluaizd"
   },
   {
     "description": "\ud83c\udf99\ufe0f Transform your documents into a voice assistant that answers your questions with accurate, context-aware information ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T19:12:11Z",
     "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "\ud83c\udfa8 Visualize audio in your terminal with Chroma, a Rust-based ASCII art shader that offers GPU-accelerated effects and re",
-    "id": "Shahid-Shabbir/chroma",
-    "language": "Rust",
-    "name": "Shahid-Shabbir/chroma",
-    "stars": 4,
-    "updated_at": "2026-06-07T19:12:08Z",
-    "url": "https://github.com/Shahid-Shabbir/chroma"
   }
 ]
