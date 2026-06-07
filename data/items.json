@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-07T00:15:20Z",
+    "updated_at": "2026-06-07T00:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 140 q",
+    "id": "ather-techie/rag-interview-questions",
+    "language": "\u2014",
+    "name": "ather-techie/rag-interview-questions",
+    "stars": 49,
+    "updated_at": "2026-06-07T00:29:17Z",
+    "url": "https://github.com/ather-techie/rag-interview-questions"
+  },
+  {
+    "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 11882,
+    "updated_at": "2026-06-07T00:27:47Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T00:01:29Z",
     "url": "https://github.com/gifton/VectorCore"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Aplica\u00e7\u00e3o full stack de IA para consulta inteligente de PDFs com RAG, LangGraph, FastAPI, Next.js, PostgreSQL + pgvector",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T23:05:54Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:05:44Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:04:15Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
