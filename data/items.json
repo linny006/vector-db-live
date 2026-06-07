@@ -1,12 +1,12 @@
 [
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
+    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+    "id": "pixeltable/pixeltable",
     "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 1,
-    "updated_at": "2026-06-07T06:38:01Z",
-    "url": "https://github.com/yihui504/TestVDB"
+    "name": "pixeltable/pixeltable",
+    "stars": 1569,
+    "updated_at": "2026-06-07T06:39:56Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-07T06:30:23Z",
+    "updated_at": "2026-06-07T06:38:40Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 1,
+    "updated_at": "2026-06-07T06:38:01Z",
+    "url": "https://github.com/yihui504/TestVDB"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T05:28:09Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:27:56Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
