@@ -1,12 +1,66 @@
 [
   {
+    "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
+    "id": "stackitcloud/rag-template",
+    "language": "Python",
+    "name": "stackitcloud/rag-template",
+    "stars": 82,
+    "updated_at": "2026-06-08T07:44:22Z",
+    "url": "https://github.com/stackitcloud/rag-template"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 7,
+    "updated_at": "2026-06-08T07:43:07Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control.",
+    "id": "kth3/Cortex-agents_infra",
+    "language": "Rust",
+    "name": "kth3/Cortex-agents_infra",
+    "stars": 3,
+    "updated_at": "2026-06-08T07:39:13Z",
+    "url": "https://github.com/kth3/Cortex-agents_infra"
+  },
+  {
+    "description": "Reproducible benchmark: per-chunk vs per-document contextual retrieval for RAG \u2014 cost, speed, and recall/nDCG accuracy o",
+    "id": "Raphael2908/contextual-RAG-per-chunk-vs-per-doc",
+    "language": "Python",
+    "name": "Raphael2908/contextual-RAG-per-chunk-vs-per-doc",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:37:00Z",
+    "url": "https://github.com/Raphael2908/contextual-RAG-per-chunk-vs-per-doc"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T07:30:24Z",
+    "updated_at": "2026-06-08T07:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "**LangChain learning repository featuring hands-on notebooks, experiments, and study notes on data ingestion, text split",
+    "id": "kashyapsundaragiri/LangChain-Study-Repository",
+    "language": "Jupyter Notebook",
+    "name": "kashyapsundaragiri/LangChain-Study-Repository",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:29:43Z",
+    "url": "https://github.com/kashyapsundaragiri/LangChain-Study-Repository"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -23,17 +77,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-08T07:26:29Z",
+    "updated_at": "2026-06-08T07:40:12Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T07:13:46Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
-    "id": "stackitcloud/rag-template",
-    "language": "Python",
-    "name": "stackitcloud/rag-template",
-    "stars": 82,
-    "updated_at": "2026-06-08T07:27:56Z",
-    "url": "https://github.com/stackitcloud/rag-template"
   },
   {
     "description": "Disk persistence, WAL, and crash recovery for iQDB indexes - part of the iQDB family.",
@@ -160,15 +196,6 @@
     "stars": 1345,
     "updated_at": "2026-06-08T06:17:46Z",
     "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "Reproducible benchmark: per-chunk vs per-document contextual retrieval for RAG \u2014 cost, speed, and recall/nDCG accuracy o",
-    "id": "Raphael2908/contextual-RAG-per-chunk-vs-per-doc",
-    "language": "Python",
-    "name": "Raphael2908/contextual-RAG-per-chunk-vs-per-doc",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:17:25Z",
-    "url": "https://github.com/Raphael2908/contextual-RAG-per-chunk-vs-per-doc"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:56:24Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:55:59Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-08T05:55:01Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Object-storage-first vector database. Cost-optimized for cold/bursty workloads. FAISS IVFFlat under the hood.",
-    "id": "rosalinddb/rosalinddb",
-    "language": "Python",
-    "name": "rosalinddb/rosalinddb",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:53:59Z",
-    "url": "https://github.com/rosalinddb/rosalinddb"
   }
 ]
