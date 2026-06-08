@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
+    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "language": "Python",
+    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:13:46Z",
+    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
+  },
+  {
+    "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
+    "id": "stackitcloud/rag-template",
+    "language": "Python",
+    "name": "stackitcloud/rag-template",
+    "stars": 82,
+    "updated_at": "2026-06-08T07:07:41Z",
+    "url": "https://github.com/stackitcloud/rag-template"
+  },
+  {
+    "description": "Disk persistence, WAL, and crash recovery for iQDB indexes - part of the iQDB family.",
+    "id": "jamesgober/iqdb-persist",
+    "language": "Rust",
+    "name": "jamesgober/iqdb-persist",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:04:28Z",
+    "url": "https://github.com/jamesgober/iqdb-persist"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-08T07:00:26Z",
+    "updated_at": "2026-06-08T07:03:28Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T07:00:22Z",
+    "updated_at": "2026-06-08T07:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-08T06:53:28Z",
+    "updated_at": "2026-06-08T07:12:30Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -63,15 +90,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 1,
-    "updated_at": "2026-06-08T07:00:17Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
     "description": "Built a developer-focused AI platform that transforms GitHub repositories into searchable knowledge bases through semant",
     "id": "prabanjan-ux/Repora",
     "language": "JavaScript",
@@ -91,12 +109,12 @@
   },
   {
     "description": "An AI-powered PDF chatbot that lets users upload documents and ask questions in natural language, providing accurate ans",
-    "id": "chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System",
+    "id": "chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant",
     "language": "HTML",
-    "name": "chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System",
+    "name": "chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant",
     "stars": 0,
     "updated_at": "2026-06-08T06:27:26Z",
-    "url": "https://github.com/chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System"
+    "url": "https://github.com/chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant"
   },
   {
     "description": "Production-grade agentic AI orchestration platform \u2014 RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama,",
@@ -112,7 +130,7 @@
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
-    "stars": 1958,
+    "stars": 1959,
     "updated_at": "2026-06-08T06:19:29Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:52:44Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
-    "id": "gifton/VectorCore",
-    "language": "Swift",
-    "name": "gifton/VectorCore",
-    "stars": 2,
-    "updated_at": "2026-06-08T05:55:02Z",
-    "url": "https://github.com/gifton/VectorCore"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-08T05:50:53Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
