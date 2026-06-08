@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T21:45:21Z",
+    "updated_at": "2026-06-08T22:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast portable RDBMS in advanced C++",
+    "id": "bumbelbee777/AstralDB",
+    "language": "C++",
+    "name": "bumbelbee777/AstralDB",
+    "stars": 2,
+    "updated_at": "2026-06-08T21:56:48Z",
+    "url": "https://github.com/bumbelbee777/AstralDB"
+  },
+  {
+    "description": "Persistent, local-first memory for AI agents. No cloud, no Docker, no external services \u2013 just CozoDB embedded in Node.j",
+    "id": "tobs-code/cozo-memory",
+    "language": "HTML",
+    "name": "tobs-code/cozo-memory",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:52:39Z",
+    "url": "https://github.com/tobs-code/cozo-memory"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 65,
+    "updated_at": "2026-06-08T21:50:39Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1570,
+    "updated_at": "2026-06-08T21:47:06Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -25,15 +70,6 @@
     "stars": 927,
     "updated_at": "2026-06-08T21:37:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deterministic 5-Phase Autonomous AI Engineer with Semantic Code Graph Analysis & Static Data-Flow Tracking.",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T21:03:00Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Fast portable RDBMS in advanced C++",
-    "id": "bumbelbee777/AstralDB",
-    "language": "C++",
-    "name": "bumbelbee777/AstralDB",
-    "stars": 2,
-    "updated_at": "2026-06-08T21:07:21Z",
-    "url": "https://github.com/bumbelbee777/AstralDB"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-08T20:38:21Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:38:16Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:38:07Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:37:45Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
