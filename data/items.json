@@ -1,5 +1,59 @@
 [
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9765,
+    "updated_at": "2026-06-08T06:44:12Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
+    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "language": "Python",
+    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-08T06:43:04Z",
+    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-08T06:40:58Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Built a developer-focused AI platform that transforms GitHub repositories into searchable knowledge bases through semant",
+    "id": "prabanjan-ux/Repora",
+    "language": "JavaScript",
+    "name": "prabanjan-ux/Repora",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:40:05Z",
+    "url": "https://github.com/prabanjan-ux/Repora"
+  },
+  {
+    "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that allows users to upload documents (PDFs) and ask natural l",
+    "id": "Danish08654/AI-Business-System-Assistant",
+    "language": "Python",
+    "name": "Danish08654/AI-Business-System-Assistant",
+    "stars": 1,
+    "updated_at": "2026-06-08T06:36:45Z",
+    "url": "https://github.com/Danish08654/AI-Business-System-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-06-08T06:29:54Z",
     "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "An AI-powered PDF chatbot that lets users upload documents and ask questions in natural language, providing accurate ans",
+    "id": "chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System",
+    "language": "HTML",
+    "name": "chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:27:26Z",
+    "url": "https://github.com/chethanakeshava/DocuChat-AI-RAG-Based-PDF-Question-Answering-System"
   },
   {
     "description": "Production-grade agentic AI orchestration platform \u2014 RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama,",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:17:25Z",
     "url": "https://github.com/Raphael2908/contextual-RAG-per-chunk-vs-per-doc"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "mikedconcepcion/CuttleDB",
     "stars": 2,
-    "updated_at": "2026-06-08T06:10:43Z",
+    "updated_at": "2026-06-08T06:33:54Z",
     "url": "https://github.com/mikedconcepcion/CuttleDB"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/gifton/VectorCore"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9765,
-    "updated_at": "2026-06-08T05:51:46Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
     "id": "User75621/memory-mcp",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:50:42Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:49:18Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-08T05:49:06Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:47:24Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-08T05:47:23Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:47:08Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
