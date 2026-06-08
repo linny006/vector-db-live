@@ -5,26 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T08:15:23Z",
+    "updated_at": "2026-06-08T08:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
+    "id": "avishek0769/DocChat",
+    "language": "TypeScript",
+    "name": "avishek0769/DocChat",
+    "stars": 15,
+    "updated_at": "2026-06-08T08:29:28Z",
+    "url": "https://github.com/avishek0769/DocChat"
   },
   {
     "description": "A multilingual Basic and Advanced RAG showcase using vector databases, Gradio apps, and notebook-based workflows.",
     "id": "sakshianil/polyglot-rag-lab",
-    "language": "\u2014",
+    "language": "Jupyter Notebook",
     "name": "sakshianil/polyglot-rag-lab",
     "stars": 0,
-    "updated_at": "2026-06-08T08:15:02Z",
+    "updated_at": "2026-06-08T08:27:06Z",
     "url": "https://github.com/sakshianil/polyglot-rag-lab"
   },
   {
-    "description": "Disk persistence, WAL, and crash recovery for iQDB indexes - part of the iQDB family.",
-    "id": "jamesgober/iqdb-persist",
-    "language": "Rust",
-    "name": "jamesgober/iqdb-persist",
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4407,
+    "updated_at": "2026-06-08T08:27:11Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Production-ready PDF RAG chatbot built with Gemini 2.5 Flash, FAISS, and Streamlit",
+    "id": "swikarb69/pdf-rag-chatbot",
+    "language": "Python",
+    "name": "swikarb69/pdf-rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-06-08T08:13:52Z",
-    "url": "https://github.com/jamesgober/iqdb-persist"
+    "updated_at": "2026-06-08T08:17:28Z",
+    "url": "https://github.com/swikarb69/pdf-rag-chatbot"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -32,8 +50,35 @@
     "language": "HTML",
     "name": "SuperInstance/SuperInstance",
     "stars": 4,
-    "updated_at": "2026-06-08T08:01:22Z",
+    "updated_at": "2026-06-08T08:15:35Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Disk persistence, WAL, and crash recovery for iQDB indexes - part of the iQDB family.",
+    "id": "jamesgober/iqdb-persist",
+    "language": "Rust",
+    "name": "jamesgober/iqdb-persist",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:18:12Z",
+    "url": "https://github.com/jamesgober/iqdb-persist"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 54,
+    "updated_at": "2026-06-08T08:11:37Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -54,30 +99,12 @@
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4407,
-    "updated_at": "2026-06-08T08:08:54Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9313,
-    "updated_at": "2026-06-08T07:58:58Z",
+    "updated_at": "2026-06-08T08:15:48Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 124,
     "updated_at": "2026-06-08T07:57:54Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Production-ready PDF RAG chatbot built with Gemini 2.5 Flash, FAISS, and Streamlit",
-    "id": "swikarb69/pdf-rag-chatbot",
-    "language": "Python",
-    "name": "swikarb69/pdf-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:57:34Z",
-    "url": "https://github.com/swikarb69/pdf-rag-chatbot"
   },
   {
     "description": "A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay \u2014 runn",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58011,
-    "updated_at": "2026-06-08T08:09:15Z",
+    "updated_at": "2026-06-08T08:21:19Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -229,7 +247,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 9766,
+    "stars": 9767,
     "updated_at": "2026-06-08T06:44:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T06:03:29Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:02:37Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:02:12Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
   }
 ]
