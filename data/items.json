@@ -1,11 +1,119 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4407,
+    "updated_at": "2026-06-08T08:00:07Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9313,
+    "updated_at": "2026-06-08T07:58:58Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-08T07:57:54Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-08T07:57:39Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and Ollama. Turns your entire workspace int",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 7,
+    "updated_at": "2026-06-08T07:59:51Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Production-ready PDF RAG chatbot built with Gemini 2.5 Flash, FAISS, and Streamlit",
+    "id": "swikarb69/pdf-rag-chatbot",
+    "language": "Python",
+    "name": "swikarb69/pdf-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:57:34Z",
+    "url": "https://github.com/swikarb69/pdf-rag-chatbot"
+  },
+  {
+    "description": "A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay \u2014 runn",
+    "id": "Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets",
+    "language": "Jupyter Notebook",
+    "name": "Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:57:28Z",
+    "url": "https://github.com/Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets"
+  },
+  {
+    "description": "Distributed multi-agent orchestration engine \u2014 9 agents, Redis Streams/SSE, Qdrant vector memory, Langfuse + Prometheus/",
+    "id": "IShalkin/manoe",
+    "language": "TypeScript",
+    "name": "IShalkin/manoe",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:58:24Z",
+    "url": "https://github.com/IShalkin/manoe"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44676,
+    "updated_at": "2026-06-08T07:50:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "id": "zilliztech/claude-context",
+    "language": "TypeScript",
+    "name": "zilliztech/claude-context",
+    "stars": 11786,
+    "updated_at": "2026-06-08T07:46:16Z",
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
     "id": "stackitcloud/rag-template",
     "language": "Python",
     "name": "stackitcloud/rag-template",
     "stars": 82,
-    "updated_at": "2026-06-08T07:44:22Z",
+    "updated_at": "2026-06-08T07:47:17Z",
     "url": "https://github.com/stackitcloud/rag-template"
   },
   {
@@ -36,22 +144,13 @@
     "url": "https://github.com/Raphael2908/contextual-RAG-per-chunk-vs-per-doc"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58009,
+    "updated_at": "2026-06-08T07:56:46Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "**LangChain learning repository featuring hands-on notebooks, experiments, and study notes on data ingestion, text split",
@@ -72,15 +171,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4407,
-    "updated_at": "2026-06-08T07:40:12Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
     "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
     "language": "Python",
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "jamesgober/iqdb-persist",
     "stars": 0,
-    "updated_at": "2026-06-08T07:04:28Z",
+    "updated_at": "2026-06-08T07:54:03Z",
     "url": "https://github.com/jamesgober/iqdb-persist"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:50:50Z",
     "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-08T06:49:57Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that allows users to upload documents (PDFs) and ask natural l",
@@ -279,15 +360,6 @@
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44676,
-    "updated_at": "2026-06-08T06:08:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
     "id": "exact-treesquirrel5419/ai_osint",
     "language": "\u2014",
@@ -333,15 +405,6 @@
     "url": "https://github.com/Rippledirham767/LongParser"
   },
   {
-    "description": "A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay \u2014 runn",
-    "id": "Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets",
-    "language": "Jupyter Notebook",
-    "name": "Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:03:50Z",
-    "url": "https://github.com/Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets"
-  },
-  {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
     "id": "viviannenitrogenous100/mentedb",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:01:07Z",
     "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:00:56Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:00:37Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:59:21Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:58:58Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-08T05:58:21Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:56:57Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:56:24Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
