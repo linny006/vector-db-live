@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 00:45 UTC
+> ⏰ Last updated: 2026-06-08 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dejan3dejan/langgraph-travel-agent](https://github.com/dejan3dejan/langgraph-travel-agent) | 1 | Python | 2026-06-08 | Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets](https://github.com/Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets) | 0 | Jupyter Notebook | 2026-06-08 | A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay — runn |
-| 5 | [reaatech/hybrid-rag](https://github.com/reaatech/hybrid-rag) | 1 | TypeScript | 2026-06-08 | Production-grade hybrid RAG in TypeScript — vector + BM25 + reranker across 14 vector stores (Qdrant, Pinecone, Weaviate |
-| 6 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1570 | Python | 2026-06-08 | Declarative and Incremental Backend for Multimodal AI Applications |
-| 7 | [thekaveh/genai-vanilla](https://github.com/thekaveh/genai-vanilla) | 0 | Python | 2026-06-08 | Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab |
-| 8 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-08 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 10 | [cluaiz/cluaizd](https://github.com/cluaiz/cluaizd) | 1 | Rust | 2026-06-08 | A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro |
+| 1 | [cluaiz/cluaizd](https://github.com/cluaiz/cluaizd) | 1 | Rust | 2026-06-08 | A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro |
+| 2 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-08 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [dejan3dejan/langgraph-travel-agent](https://github.com/dejan3dejan/langgraph-travel-agent) | 1 | Python | 2026-06-08 | Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud |
+| 6 | [Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets](https://github.com/Junaid-Ahmed-Rupok/Continuum-RAG-Chatbot-That-Never-Forgets) | 0 | Jupyter Notebook | 2026-06-08 | A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay — runn |
+| 7 | [reaatech/hybrid-rag](https://github.com/reaatech/hybrid-rag) | 1 | TypeScript | 2026-06-08 | Production-grade hybrid RAG in TypeScript — vector + BM25 + reranker across 14 vector stores (Qdrant, Pinecone, Weaviate |
+| 8 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1570 | Python | 2026-06-08 | Declarative and Incremental Backend for Multimodal AI Applications |
+| 9 | [thekaveh/genai-vanilla](https://github.com/thekaveh/genai-vanilla) | 0 | Python | 2026-06-08 | Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 11 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1845 | Go | 2026-06-07 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-07 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 13 | [nram-ai/nram](https://github.com/nram-ai/nram) | 4 | Go | 2026-06-07 | The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE |

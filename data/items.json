@@ -1,12 +1,21 @@
 [
   {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
-    "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizd",
+    "language": "Rust",
+    "name": "cluaiz/cluaizd",
     "stars": 1,
-    "updated_at": "2026-06-08T00:32:38Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+    "updated_at": "2026-06-08T00:54:10Z",
+    "url": "https://github.com/cluaiz/cluaizd"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-08T00:57:52Z",
+    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-08T00:30:23Z",
+    "updated_at": "2026-06-08T00:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-08T00:30:18Z",
+    "updated_at": "2026-06-08T00:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-08T00:32:38Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
   },
   {
     "description": "A production-grade RAG chatbot with persistent memory, built on Phi-3-mini, ChromaDB, and Ebbinghaus memory decay \u2014 runn",
@@ -63,15 +81,6 @@
     "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-08T00:20:52Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T00:06:29Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizd",
-    "language": "Rust",
-    "name": "cluaiz/cluaizd",
-    "stars": 1,
-    "updated_at": "2026-06-08T00:02:55Z",
-    "url": "https://github.com/cluaiz/cluaizd"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
