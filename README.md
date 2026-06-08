@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 07:00 UTC
+> ⏰ Last updated: 2026-06-08 07:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-06-08 | High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration,  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
 | 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 0 | Python | 2026-06-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [crate/crate](https://github.com/crate/crate) | 4407 | Java | 2026-06-08 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 4 | [Ardem2025/mem0-temporal-hygiene](https://github.com/Ardem2025/mem0-temporal-hygiene) | 0 | Python | 2026-06-08 | Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol |
-| 5 | [Danish08654/AI-Business-System-Assistant](https://github.com/Danish08654/AI-Business-System-Assistant) | 1 | Python | 2026-06-08 | An AI-powered Retrieval-Augmented Generation (RAG) system that allows users to upload documents (PDFs) and ask natural l |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-06-08 | High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration,  |
+| 4 | [crate/crate](https://github.com/crate/crate) | 4407 | Java | 2026-06-08 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 5 | [Ardem2025/mem0-temporal-hygiene](https://github.com/Ardem2025/mem0-temporal-hygiene) | 0 | Python | 2026-06-08 | Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol |
+| 6 | [Danish08654/AI-Business-System-Assistant](https://github.com/Danish08654/AI-Business-System-Assistant) | 1 | Python | 2026-06-08 | An AI-powered Retrieval-Augmented Generation (RAG) system that allows users to upload documents (PDFs) and ask natural l |
 | 7 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9765 | C++ | 2026-06-08 | A lightweight, lightning-fast, in-process vector database |
 | 8 | [Susanta2025-lab/estudio-polymind-llm-orchestration](https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration) | 1 | Python | 2026-06-08 | Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and |
 | 9 | [prabanjan-ux/Repora](https://github.com/prabanjan-ux/Repora) | 0 | JavaScript | 2026-06-08 | Built a developer-focused AI platform that transforms GitHub repositories into searchable knowledge bases through semant |
