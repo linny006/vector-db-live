@@ -1,12 +1,39 @@
 [
   {
-    "description": "Embedded vector index for high-dimensional embeddings, with HNSW-style routing and TurboQuant compression.",
-    "id": "PaytonWebber/quantal",
-    "language": "Zig",
-    "name": "PaytonWebber/quantal",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-09T23:27:24Z",
-    "url": "https://github.com/PaytonWebber/quantal"
+    "updated_at": "2026-06-09T23:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Applied-AI system that scores job-candidate fit and drafts evidence-grounded, tailored applications you review. RAG + Cl",
+    "id": "bitcoinbox/jobproof",
+    "language": "Python",
+    "name": "bitcoinbox/jobproof",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:40:59Z",
+    "url": "https://github.com/bitcoinbox/jobproof"
+  },
+  {
+    "description": "Full-stack music recommender using 5D audio feature vectors, pgvector, and cosine similarity",
+    "id": "Beck-MN/music-rec-app",
+    "language": "TypeScript",
+    "name": "Beck-MN/music-rec-app",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:37:37Z",
+    "url": "https://github.com/Beck-MN/music-rec-app"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 769,
+    "updated_at": "2026-06-09T23:32:14Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-09T23:15:35Z",
+    "updated_at": "2026-06-09T23:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Embedded vector index for high-dimensional embeddings, with HNSW-style routing and TurboQuant compression.",
+    "id": "PaytonWebber/quantal",
+    "language": "Zig",
+    "name": "PaytonWebber/quantal",
     "stars": 0,
-    "updated_at": "2026-06-09T23:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-09T23:27:24Z",
+    "url": "https://github.com/PaytonWebber/quantal"
   },
   {
     "description": "\ud83d\udc2c Formation MariaDB 12.3 LTS compl\u00e8te en fran\u00e7ais : SQL, index, transactions, r\u00e9plication, Galera, MaxScale, DevOps/Kube",
@@ -421,32 +448,5 @@
     "stars": 6100,
     "updated_at": "2026-06-09T23:09:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17746,
-    "updated_at": "2026-06-09T22:44:58Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:44:20Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-09T22:44:04Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
