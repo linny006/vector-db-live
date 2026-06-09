@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-09T11:29:37Z",
+    "updated_at": "2026-06-09T11:30:34Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -22,7 +40,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 31963,
+    "stars": 31964,
     "updated_at": "2026-06-09T11:24:03Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -41,26 +59,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-09T11:29:01Z",
+    "updated_at": "2026-06-09T11:33:23Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
@@ -86,7 +86,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-09T11:24:00Z",
+    "updated_at": "2026-06-09T11:35:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58015,
-    "updated_at": "2026-06-09T10:34:24Z",
+    "updated_at": "2026-06-09T11:34:43Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
