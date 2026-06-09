@@ -1,5 +1,59 @@
 [
   {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-09T11:29:37Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:24:34Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31963,
+    "updated_at": "2026-06-09T11:24:03Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 67,
+    "updated_at": "2026-06-09T11:18:48Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4407,
+    "updated_at": "2026-06-09T11:29:01Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Krishna89287/rag-llm-toolkit"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-09T11:12:13Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "A production-ready RAG (Retrieval-Augmented Generation) engine architecture utilizing FastAPI, Streamlit, ChromaDB, and ",
     "id": "SatutiKesar/document-intelligence-studio",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-09T11:13:27Z",
+    "updated_at": "2026-06-09T11:24:00Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T11:08:06Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -378,15 +414,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 31962,
-    "updated_at": "2026-06-09T10:57:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
     "id": "whiteoakredguard557/llmfs",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T10:24:16Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:22:18Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-09T10:22:12Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-09T10:21:59Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
