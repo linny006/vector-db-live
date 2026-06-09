@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T04:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 0,
-    "updated_at": "2026-06-09T04:30:20Z",
+    "updated_at": "2026-06-09T04:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9768,
+    "updated_at": "2026-06-09T04:44:17Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Couchbase integration with LangChain",
+    "id": "Couchbase-Ecosystem/langchain-couchbase",
+    "language": "Python",
+    "name": "Couchbase-Ecosystem/langchain-couchbase",
+    "stars": 3,
+    "updated_at": "2026-06-09T04:44:04Z",
+    "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 118,
+    "updated_at": "2026-06-09T04:42:47Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Locally-running agentic RAG system for clinical chart analysis",
+    "id": "Vee27/MediGraph-RAG",
+    "language": "Python",
+    "name": "Vee27/MediGraph-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:39:14Z",
+    "url": "https://github.com/Vee27/MediGraph-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:34:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:41:35Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9768,
-    "updated_at": "2026-06-09T03:41:03Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:18:17Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:18:16Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:17:40Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:16:49Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
