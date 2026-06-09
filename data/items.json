@@ -1,12 +1,48 @@
 [
   {
+    "description": "A production-ready RAG (Retrieval-Augmented Generation) engine architecture utilizing FastAPI, Streamlit, ChromaDB, and ",
+    "id": "SatutiKesar/document-intelligence-studio",
+    "language": "Python",
+    "name": "SatutiKesar/document-intelligence-studio",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:44:16Z",
+    "url": "https://github.com/SatutiKesar/document-intelligence-studio"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:43:22Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "Distributed vector search for AI-native applications",
+    "id": "vearch/vearch",
+    "language": "Go",
+    "name": "vearch/vearch",
+    "stars": 2314,
+    "updated_at": "2026-06-09T11:40:43Z",
+    "url": "https://github.com/vearch/vearch"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-09T11:30:28Z",
+    "updated_at": "2026-06-09T11:38:51Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44697,
+    "updated_at": "2026-06-09T11:34:22Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,17 +59,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-09T11:30:34Z",
+    "updated_at": "2026-06-09T11:39:38Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
-    "id": "ChrisGVE/workspace-qdrant-mcp",
-    "language": "Rust",
-    "name": "ChrisGVE/workspace-qdrant-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:24:34Z",
-    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31964,
-    "updated_at": "2026-06-09T11:24:03Z",
+    "updated_at": "2026-06-09T11:43:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-09T11:33:23Z",
+    "updated_at": "2026-06-09T11:45:17Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T11:14:04Z",
     "url": "https://github.com/Krishna89287/rag-llm-toolkit"
-  },
-  {
-    "description": "A production-ready RAG (Retrieval-Augmented Generation) engine architecture utilizing FastAPI, Streamlit, ChromaDB, and ",
-    "id": "SatutiKesar/document-intelligence-studio",
-    "language": "Python",
-    "name": "SatutiKesar/document-intelligence-studio",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:10:35Z",
-    "url": "https://github.com/SatutiKesar/document-intelligence-studio"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T10:26:00Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:25:59Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-09T10:24:16Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
