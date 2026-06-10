@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T13:00:26Z",
+    "updated_at": "2026-06-10T13:15:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
+    "id": "Hardhikman/IntrepidQ",
+    "language": "TypeScript",
+    "name": "Hardhikman/IntrepidQ",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:12:36Z",
+    "url": "https://github.com/Hardhikman/IntrepidQ"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-10T13:00:39Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9773,
+    "updated_at": "2026-06-10T13:02:27Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
@@ -23,7 +59,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12273,
-    "updated_at": "2026-06-10T12:54:05Z",
+    "updated_at": "2026-06-10T13:06:37Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-10T12:54:18Z",
+    "updated_at": "2026-06-10T13:07:04Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -72,13 +108,13 @@
     "url": "https://github.com/pathwaycom/llm-app"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 17757,
+    "updated_at": "2026-06-10T13:06:59Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The AI search platform",
@@ -160,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-06-10T12:29:35Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-10T13:00:09Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -301,7 +328,7 @@
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9318,
+    "stars": 9319,
     "updated_at": "2026-06-10T12:20:12Z",
     "url": "https://github.com/databendlabs/databend"
   },
@@ -383,7 +410,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T12:57:25Z",
+    "updated_at": "2026-06-10T13:01:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1844,
     "updated_at": "2026-06-10T12:16:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-10T12:11:59Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:10:33Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:09:47Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
