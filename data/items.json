@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T20:15:24Z",
+    "updated_at": "2026-06-10T20:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:28:51Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17763,
+    "updated_at": "2026-06-10T20:21:54Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 51,
+    "updated_at": "2026-06-10T20:21:06Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "MCP server for searching saved Reddit content (ChromaDB + nomic-embed-text)",
+    "id": "lh1207/reddit-kb",
+    "language": "Python",
+    "name": "lh1207/reddit-kb",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:17:56Z",
+    "url": "https://github.com/lh1207/reddit-kb"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:15:51Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG service for intelligent bug analysis with multi-LLM support",
@@ -27,15 +81,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-10T20:06:44Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
     "id": "zhijunio/spring-ai-chat-rag-samples",
     "language": "Java",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T20:06:17Z",
     "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T20:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-grade Python ETL with built-in GDPR, CCPA, HIPAA compliance. Multi-tenant data catalog, OpenLineage lineage, ",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 92,
-    "updated_at": "2026-06-10T20:03:11Z",
+    "updated_at": "2026-06-10T20:26:59Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -112,7 +148,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61387,
+    "stars": 61388,
     "updated_at": "2026-06-10T19:45:48Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -124,15 +160,6 @@
     "stars": 6103,
     "updated_at": "2026-06-10T19:44:42Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 51,
-    "updated_at": "2026-06-10T19:39:30Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -185,7 +212,7 @@
     "language": "C",
     "name": "ysys143/pg_cuvs",
     "stars": 2,
-    "updated_at": "2026-06-10T19:24:12Z",
+    "updated_at": "2026-06-10T20:30:18Z",
     "url": "https://github.com/ysys143/pg_cuvs"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T18:29:02Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:28:44Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:28:33Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:27:31Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
