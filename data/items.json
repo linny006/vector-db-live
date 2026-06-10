@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:12:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Applied-AI system that scores job-candidate fit and drafts evidence-grounded, tailored applications you review. RAG + Cl",
+    "id": "bitcoinbox/jobproof",
+    "language": "Python",
+    "name": "bitcoinbox/jobproof",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:01:05Z",
+    "url": "https://github.com/bitcoinbox/jobproof"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-06-09T23:57:53Z",
     "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "A RAG (Retrieval Augmented Generation) demo \u2014 crawl any website, index it into Qdrant, and chat with it using Claude. Bu",
+    "id": "sirben01/RagDemo",
+    "language": "C#",
+    "name": "sirben01/RagDemo",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:57:00Z",
+    "url": "https://github.com/sirben01/RagDemo"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-09T23:52:08Z",
+    "updated_at": "2026-06-10T00:04:06Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -34,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:45:59Z",
     "url": "https://github.com/Beck-MN/music-rec-app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Applied-AI system that scores job-candidate fit and drafts evidence-grounded, tailored applications you review. RAG + Cl",
-    "id": "bitcoinbox/jobproof",
-    "language": "Python",
-    "name": "bitcoinbox/jobproof",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:40:59Z",
-    "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-09T22:48:31Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:47:14Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-09T22:46:33Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
