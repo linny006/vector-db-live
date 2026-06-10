@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:57:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 92,
+    "updated_at": "2026-06-10T19:57:43Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizd",
+    "language": "Rust",
+    "name": "cluaiz/cluaizd",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:51:33Z",
+    "url": "https://github.com/cluaiz/cluaizd"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 7,
+    "updated_at": "2026-06-10T19:50:46Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-10T19:59:45Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Chatbot berbasis RAG yang dirancang untuk membantu karyawan baru memahami dokumen internal perusahaan secara interaktif.",
+    "id": "whddarmadi/RAG-Onboarding-Chatbot",
+    "language": "Jupyter Notebook",
+    "name": "whddarmadi/RAG-Onboarding-Chatbot",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:49:13Z",
+    "url": "https://github.com/whddarmadi/RAG-Onboarding-Chatbot"
+  },
+  {
+    "description": "RAG service for intelligent bug analysis with multi-LLM support",
+    "id": "apex-bridge/bugspotter-intelligence",
+    "language": "Python",
+    "name": "apex-bridge/bugspotter-intelligence",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:47:35Z",
+    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:46:24Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61386,
+    "updated_at": "2026-06-10T19:45:48Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -9,24 +99,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Chatbot berbasis RAG yang dirancang untuk membantu karyawan baru memahami dokumen internal perusahaan secara interaktif.",
-    "id": "whddarmadi/RAG-Onboarding-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "whddarmadi/RAG-Onboarding-Chatbot",
-    "stars": 2,
-    "updated_at": "2026-06-10T19:44:15Z",
-    "url": "https://github.com/whddarmadi/RAG-Onboarding-Chatbot"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 7,
-    "updated_at": "2026-06-10T19:43:08Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
     "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
     "id": "verygoodplugins/mcp-automem",
     "language": "TypeScript",
@@ -34,15 +106,6 @@
     "stars": 51,
     "updated_at": "2026-06-10T19:39:30Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "RAG service for intelligent bug analysis with multi-LLM support",
-    "id": "apex-bridge/bugspotter-intelligence",
-    "language": "Python",
-    "name": "apex-bridge/bugspotter-intelligence",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:41:29Z",
-    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -63,33 +126,6 @@
     "url": "https://github.com/TorshaMajumder/LogSentinel-AI"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:32:04Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:30:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
@@ -106,6 +142,15 @@
     "stars": 749,
     "updated_at": "2026-06-10T19:28:11Z",
     "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16308,
+    "updated_at": "2026-06-10T19:54:53Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer (resident CA",
@@ -187,15 +232,6 @@
     "stars": 10,
     "updated_at": "2026-06-10T18:54:02Z",
     "url": "https://github.com/staticroostermedia-arch/engram"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-10T19:13:40Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) system built with LangChain, Ollama, ChromaDB, and Flask for querying PDF documen",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:21:22Z",
     "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-10T18:20:51Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:18:51Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:18:08Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:17:15Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
