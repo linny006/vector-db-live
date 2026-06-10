@@ -1,30 +1,12 @@
 [
   {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizd",
-    "language": "Rust",
-    "name": "cluaiz/cluaizd",
-    "stars": 2,
-    "updated_at": "2026-06-10T21:05:29Z",
-    "url": "https://github.com/cluaiz/cluaizd"
-  },
-  {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
     "id": "PWDevens/fedacq-rag-chatbot",
     "language": "Python",
     "name": "PWDevens/fedacq-rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-06-10T21:05:19Z",
+    "updated_at": "2026-06-10T21:15:54Z",
     "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17763,
-    "updated_at": "2026-06-10T21:01:11Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,7 +14,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-10T21:00:31Z",
+    "updated_at": "2026-06-10T21:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -43,6 +25,24 @@
     "stars": 1,
     "updated_at": "2026-06-10T21:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizd",
+    "language": "Rust",
+    "name": "cluaiz/cluaizd",
+    "stars": 2,
+    "updated_at": "2026-06-10T21:05:29Z",
+    "url": "https://github.com/cluaiz/cluaizd"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17763,
+    "updated_at": "2026-06-10T21:01:11Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A local, secure, and visual RAG (Retrieval-Augmented Generation) assistant built with Spring Boot 3 (Spring AI), React (",
