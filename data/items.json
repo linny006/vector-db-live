@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T13:30:25Z",
+    "updated_at": "2026-06-10T13:45:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:37:31Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "From-scratch hybrid RAG pipeline over Wikipedia: semantic chunking, BM25 + dense fusion, query expansion, cross-encoder ",
+    "id": "Dialexy/RAG-pipeline",
+    "language": "Python",
+    "name": "Dialexy/RAG-pipeline",
+    "stars": 2,
+    "updated_at": "2026-06-10T13:32:13Z",
+    "url": "https://github.com/Dialexy/RAG-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-10T13:42:53Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17758,
-    "updated_at": "2026-06-10T13:24:07Z",
+    "updated_at": "2026-06-10T13:40:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6958,
-    "updated_at": "2026-06-10T13:18:10Z",
+    "updated_at": "2026-06-10T13:43:32Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
@@ -61,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-10T13:12:36Z",
     "url": "https://github.com/Hardhikman/IntrepidQ"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16307,
+    "updated_at": "2026-06-10T13:12:08Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -108,20 +144,11 @@
     "url": "https://github.com/Azim-Sk/AI-Assisted-HelpDesk"
   },
   {
-    "description": "From-scratch hybrid RAG pipeline over Wikipedia: semantic chunking, BM25 + dense fusion, query expansion, cross-encoder ",
-    "id": "Dialexy/RAG-pipeline",
-    "language": "Python",
-    "name": "Dialexy/RAG-pipeline",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:51:42Z",
-    "url": "https://github.com/Dialexy/RAG-pipeline"
-  },
-  {
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
     "id": "pathwaycom/llm-app",
     "language": "Jupyter Notebook",
     "name": "pathwaycom/llm-app",
-    "stars": 59368,
+    "stars": 59366,
     "updated_at": "2026-06-10T12:49:56Z",
     "url": "https://github.com/pathwaycom/llm-app"
   },
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32002,
-    "updated_at": "2026-06-10T13:24:15Z",
+    "updated_at": "2026-06-10T13:38:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9319,
-    "updated_at": "2026-06-10T13:29:10Z",
+    "updated_at": "2026-06-10T13:44:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-10T13:29:28Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T12:14:08Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:13:31Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:12:56Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
