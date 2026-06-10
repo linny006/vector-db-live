@@ -1,5 +1,59 @@
 [
   {
+    "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
+    "id": "Hardhikman/IntrepidQ",
+    "language": "TypeScript",
+    "name": "Hardhikman/IntrepidQ",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:59:00Z",
+    "url": "https://github.com/Hardhikman/IntrepidQ"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 408,
+    "updated_at": "2026-06-10T13:57:21Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 5,
+    "updated_at": "2026-06-10T13:54:42Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-10T13:52:19Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Self-hosted, categorized memory for AI agents: a FastAPI server on mem0 + Qdrant with a tiered context tree, auto-catego",
+    "id": "omarnagy91/mnemonic",
+    "language": "Python",
+    "name": "omarnagy91/mnemonic",
+    "stars": 1,
+    "updated_at": "2026-06-10T13:49:13Z",
+    "url": "https://github.com/omarnagy91/mnemonic"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:45:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-10T13:45:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9319,
+    "updated_at": "2026-06-10T13:44:46Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -27,21 +90,12 @@
     "url": "https://github.com/Dialexy/RAG-pipeline"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T13:42:53Z",
+    "updated_at": "2026-06-10T13:50:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17758,
-    "updated_at": "2026-06-10T13:40:25Z",
+    "updated_at": "2026-06-10T13:49:24Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-10T13:22:38Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
@@ -77,17 +122,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6958,
-    "updated_at": "2026-06-10T13:43:32Z",
+    "updated_at": "2026-06-10T13:51:12Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
-    "id": "Hardhikman/IntrepidQ",
-    "language": "TypeScript",
-    "name": "Hardhikman/IntrepidQ",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:12:36Z",
-    "url": "https://github.com/Hardhikman/IntrepidQ"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -151,6 +187,15 @@
     "stars": 59366,
     "updated_at": "2026-06-10T12:49:56Z",
     "url": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6101,
+    "updated_at": "2026-06-10T12:48:46Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -360,15 +405,6 @@
     "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9319,
-    "updated_at": "2026-06-10T13:44:46Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T12:18:05Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:16:42Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:16:12Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:15:28Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:14:08Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
