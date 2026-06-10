@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T12:45:25Z",
+    "updated_at": "2026-06-10T13:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
+    "id": "jayshreek2511-cloud/AI-RAG-ChatBot",
+    "language": "CSS",
+    "name": "jayshreek2511-cloud/AI-RAG-ChatBot",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:59:08Z",
+    "url": "https://github.com/jayshreek2511-cloud/AI-RAG-ChatBot"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12273,
+    "updated_at": "2026-06-10T12:54:05Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4407,
+    "updated_at": "2026-06-10T12:54:18Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Distributed vector search node and client for Seer. Production Seer is not accepting Totem requests just yet. For indepe",
+    "id": "rao-studios/Totem",
+    "language": "Swift",
+    "name": "rao-studios/Totem",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:53:14Z",
+    "url": "https://github.com/rao-studios/Totem"
+  },
+  {
+    "description": "Enterprise AI HelpDesk using Spring AI, Multi-Agent Architecture, Ollama and RAG",
+    "id": "Azim-Sk/AI-Assisted-HelpDesk",
+    "language": "Java",
+    "name": "Azim-Sk/AI-Assisted-HelpDesk",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:52:28Z",
+    "url": "https://github.com/Azim-Sk/AI-Assisted-HelpDesk"
+  },
+  {
+    "description": "From-scratch hybrid RAG pipeline over Wikipedia: semantic chunking, BM25 + dense fusion, query expansion, cross-encoder ",
+    "id": "Dialexy/RAG-pipeline",
+    "language": "Python",
+    "name": "Dialexy/RAG-pipeline",
+    "stars": 2,
+    "updated_at": "2026-06-10T12:51:42Z",
+    "url": "https://github.com/Dialexy/RAG-pipeline"
+  },
+  {
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
+    "id": "pathwaycom/llm-app",
+    "language": "Jupyter Notebook",
+    "name": "pathwaycom/llm-app",
+    "stars": 59368,
+    "updated_at": "2026-06-10T12:49:56Z",
+    "url": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6958,
+    "updated_at": "2026-06-10T12:45:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
@@ -36,6 +117,15 @@
     "url": "https://github.com/agent-engineering-studio/knowledge-graph"
   },
   {
+    "description": "A Streamlit-based RAG application that allows users to upload PDF documents, generate embeddings, perform semantic searc",
+    "id": "kousireddy/streamlit-RAG-application-pdfreader",
+    "language": "Python",
+    "name": "kousireddy/streamlit-RAG-application-pdfreader",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:33:43Z",
+    "url": "https://github.com/kousireddy/streamlit-RAG-application-pdfreader"
+  },
+  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -52,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T12:31:28Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 124,
-    "updated_at": "2026-06-10T12:28:30Z",
+    "updated_at": "2026-06-10T13:00:09Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -302,7 +383,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T12:45:25Z",
+    "updated_at": "2026-06-10T12:57:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -351,15 +432,6 @@
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4407,
-    "updated_at": "2026-06-10T12:44:16Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T12:09:47Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:09:25Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:07:24Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:07:24Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:07:10Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-10T12:05:38Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:03:41Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-10T12:03:37Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:03:30Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
