@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 88,
+    "updated_at": "2026-06-10T00:44:39Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:43:44Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "A system that combines Retrieval-Augmented Generation (RAG), the Claude Sonet 3.5 LLM, and the Pathway framework to anal",
+    "id": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
+    "language": "Python",
+    "name": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
+    "stars": 4,
+    "updated_at": "2026-06-10T00:42:41Z",
+    "url": "https://github.com/Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:42:20Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-10T00:42:18Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Local Retrieval-Augmented Generation (RAG) system built with FastAPI, integrating vector search, Elasticsearch, and opti",
+    "id": "Jocker-123/ChatQ",
+    "language": "HTML",
+    "name": "Jocker-123/ChatQ",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:42:14Z",
+    "url": "https://github.com/Jocker-123/ChatQ"
+  },
+  {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:40:35Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:40:07Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Comprehensive vector database benchmark: pgvector, Pinecone, Weaviate, Chroma, Qdrant, Milvus \u2014 recall@k, QPS, latency, ",
     "id": "jhondados/vector-database-benchmark",
     "language": "HTML",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 31983,
-    "updated_at": "2026-06-10T00:23:05Z",
+    "updated_at": "2026-06-10T00:45:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-10T00:21:46Z",
+    "updated_at": "2026-06-10T00:35:39Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -34,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T00:15:49Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -144,7 +216,7 @@
     "url": "https://github.com/PaytonWebber/quantal"
   },
   {
-    "description": "\ud83d\udc2c Formation MariaDB 12.3 LTS compl\u00e8te en fran\u00e7ais : SQL, index, transactions, r\u00e9plication, Galera, MaxScale, DevOps/Kube",
+    "description": "\ud83d\udc2c Formation MariaDB 12.3 LTS : SQL, index, transactions, r\u00e9plication, Galera, MaxScale, DevOps/Kubernetes et MariaDB Vec",
     "id": "NDXDeveloper/formation-mariadb",
     "language": "\u2014",
     "name": "NDXDeveloper/formation-mariadb",
@@ -376,77 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-09T22:58:50Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:54:55Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:54:52Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-09T22:55:42Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 2,
-    "updated_at": "2026-06-09T22:54:31Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "ajianaz/uteke",
-    "language": "Python",
-    "name": "ajianaz/uteke",
-    "stars": 3,
-    "updated_at": "2026-06-09T22:55:53Z",
-    "url": "https://github.com/ajianaz/uteke"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:53:14Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:52:46Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-09T22:52:05Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
