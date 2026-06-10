@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T12:30:26Z",
+    "updated_at": "2026-06-10T12:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:43:59Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-06-10T12:43:19Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Companion repo del libro 'AI che Ragiona' (G. Zileni, 2026) \u2014 Knowledge Graph production-ready con Graph-RAG ibrido, ser",
+    "id": "agent-engineering-studio/knowledge-graph",
+    "language": "Python",
+    "name": "agent-engineering-studio/knowledge-graph",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:37:30Z",
+    "url": "https://github.com/agent-engineering-studio/knowledge-graph"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:32:20Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 1,
+    "updated_at": "2026-06-10T12:31:28Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T12:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -162,13 +216,13 @@
     "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:20:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9318,
+    "updated_at": "2026-06-10T12:20:12Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
@@ -248,7 +302,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T12:29:29Z",
+    "updated_at": "2026-06-10T12:45:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -302,7 +356,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4407,
-    "updated_at": "2026-06-10T12:29:36Z",
+    "updated_at": "2026-06-10T12:44:16Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:03:30Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:03:18Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:02:52Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:02:41Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:02:07Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:01:43Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:01:16Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
