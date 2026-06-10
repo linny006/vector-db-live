@@ -1,11 +1,47 @@
 [
   {
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizd",
+    "language": "Rust",
+    "name": "cluaiz/cluaizd",
+    "stars": 2,
+    "updated_at": "2026-06-10T21:05:29Z",
+    "url": "https://github.com/cluaiz/cluaizd"
+  },
+  {
+    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
+    "id": "PWDevens/fedacq-rag-chatbot",
+    "language": "Python",
+    "name": "PWDevens/fedacq-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:05:19Z",
+    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17763,
+    "updated_at": "2026-06-10T21:01:11Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T21:00:23Z",
+    "updated_at": "2026-06-10T21:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T20:48:16Z",
     "url": "https://github.com/Ohswedd/aura-connector"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T20:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -126,15 +153,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17763,
-    "updated_at": "2026-06-10T20:57:16Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "MCP server for searching saved Reddit content (ChromaDB + nomic-embed-text)",
     "id": "lh1207/reddit-kb",
     "language": "Python",
@@ -175,7 +193,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5036,
+    "stars": 5035,
     "updated_at": "2026-06-10T20:03:13Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -194,17 +212,8 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 92,
-    "updated_at": "2026-06-10T20:26:59Z",
+    "updated_at": "2026-06-10T21:02:30Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizd",
-    "language": "Rust",
-    "name": "cluaiz/cluaizd",
-    "stars": 2,
-    "updated_at": "2026-06-10T19:51:33Z",
-    "url": "https://github.com/cluaiz/cluaizd"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "verygoodplugins/automem",
     "stars": 749,
-    "updated_at": "2026-06-10T20:54:32Z",
+    "updated_at": "2026-06-10T21:14:32Z",
     "url": "https://github.com/verygoodplugins/automem"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16308,
-    "updated_at": "2026-06-10T20:33:26Z",
+    "updated_at": "2026-06-10T21:04:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -328,7 +337,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2891,
+    "stars": 2890,
     "updated_at": "2026-06-10T19:06:26Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:36:06Z",
     "url": "https://github.com/RafiBG/L.A.M.S."
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:35:59Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
   }
 ]
