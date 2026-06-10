@@ -1,5 +1,50 @@
 [
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10568,
+    "updated_at": "2026-06-10T19:28:21Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 749,
+    "updated_at": "2026-06-10T19:28:11Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer (resident CA",
+    "id": "ysys143/pg_cuvs",
+    "language": "C",
+    "name": "ysys143/pg_cuvs",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:24:12Z",
+    "url": "https://github.com/ysys143/pg_cuvs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:30:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AskNEU is a conversational Retrieval-Augmented Generation (RAG) system designed to transform how users interact with Nor",
     "id": "NagaKushal8/askNEU",
     "language": "Jupyter Notebook",
@@ -18,6 +63,15 @@
     "url": "https://github.com/Fxsin/Scientra-Copilot"
   },
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:12:18Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "eugen-goebel/smart-doc-qa",
     "stars": 0,
-    "updated_at": "2026-06-10T19:06:31Z",
+    "updated_at": "2026-06-10T19:19:58Z",
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
@@ -59,26 +113,8 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 51,
-    "updated_at": "2026-06-10T19:03:59Z",
+    "updated_at": "2026-06-10T19:28:39Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:00:42Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T18:58:49Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:12:18Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Engram: Persistent geometric (non-flat) memory for AI agents. 256KB HolographicBlocks, VSA/sheaf, spatial AABB, rituals,",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-10T18:11:46Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-10T18:11:19Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:09:57Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:08:43Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
