@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A 3-phase educational guide to Approximate Nearest Neighbor (ANN) search, building flat NSW and Hierarchical NSW (HNSW) ",
+    "id": "sanjayy0612/HNSW_exploration-",
+    "language": "Python",
+    "name": "sanjayy0612/HNSW_exploration-",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:57:51Z",
+    "url": "https://github.com/sanjayy0612/HNSW_exploration-"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Python",
+    "name": "codecoradev/uteke",
+    "stars": 3,
+    "updated_at": "2026-06-10T07:00:12Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-10T06:56:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A curated list of awesome works related to high dimensional structure/vector search & database",
+    "id": "dangkhoasdc/awesome-vector-database",
+    "language": "\u2014",
+    "name": "dangkhoasdc/awesome-vector-database",
+    "stars": 353,
+    "updated_at": "2026-06-10T06:51:26Z",
+    "url": "https://github.com/dangkhoasdc/awesome-vector-database"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-10T06:46:39Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
     "id": "nobijoy/memcore-rs",
     "language": "Rust",
@@ -34,42 +97,6 @@
     "stars": 372,
     "updated_at": "2026-06-10T06:32:10Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A 3-phase educational guide to Approximate Nearest Neighbor (ANN) search, building flat NSW and Hierarchical NSW (HNSW) ",
-    "id": "sanjayy0612/HNSW_exploration-",
-    "language": "Python",
-    "name": "sanjayy0612/HNSW_exploration-",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:25:34Z",
-    "url": "https://github.com/sanjayy0612/HNSW_exploration-"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-10T06:22:50Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T05:58:47Z",
     "url": "https://github.com/KazuyaMurayama/ai-knowledge-base"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Python",
-    "name": "codecoradev/uteke",
-    "stars": 3,
-    "updated_at": "2026-06-10T06:22:43Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T05:35:40Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:33:48Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-10T05:33:40Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
