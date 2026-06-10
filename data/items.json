@@ -5,8 +5,170 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T14:45:27Z",
+    "updated_at": "2026-06-10T15:00:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-10T14:54:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:54:04Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
+    "id": "barateza/mcp-plesk-dev-docs",
+    "language": "Python",
+    "name": "barateza/mcp-plesk-dev-docs",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:53:51Z",
+    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 769,
+    "updated_at": "2026-06-10T14:53:16Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:52:34Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-10T14:51:32Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "",
+    "id": "Ghostiepg/Scraping_AI_with_RAG_Tune",
+    "language": "JavaScript",
+    "name": "Ghostiepg/Scraping_AI_with_RAG_Tune",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:49:56Z",
+    "url": "https://github.com/Ghostiepg/Scraping_AI_with_RAG_Tune"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1331,
+    "updated_at": "2026-06-10T14:49:34Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32005,
+    "updated_at": "2026-06-10T14:49:18Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "\ud83e\udd16 Explore GhanaGPT, an AI assistant for document analysis and web search, offering support for Ga and Twi languages thro",
+    "id": "Bheka77/GhanaGPT",
+    "language": "Python",
+    "name": "Bheka77/GhanaGPT",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:49:01Z",
+    "url": "https://github.com/Bheka77/GhanaGPT"
+  },
+  {
+    "description": "\ud83d\udcc4 Upload PDFs and chat with AI for instant insights, all through a sleek, user-friendly interface that works on any devi",
+    "id": "18311-Claire-Xinjin/pdf-chat-app",
+    "language": "TypeScript",
+    "name": "18311-Claire-Xinjin/pdf-chat-app",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:48:21Z",
+    "url": "https://github.com/18311-Claire-Xinjin/pdf-chat-app"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 6,
+    "updated_at": "2026-06-10T14:48:05Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "\ud83e\udd16 Transform internal knowledge retrieval with a secure, on-premise RAG-powered chatbot that enhances efficiency through ",
+    "id": "sososeur/Enterprise-ready-conversational-AI-LLM-RAG",
+    "language": "Python",
+    "name": "sososeur/Enterprise-ready-conversational-AI-LLM-RAG",
+    "stars": 5,
+    "updated_at": "2026-06-10T14:47:18Z",
+    "url": "https://github.com/sososeur/Enterprise-ready-conversational-AI-LLM-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcc4 Create a lightweight Node.js backend for Retrieval-Augmented Generation, enabling efficient document embedding, storag",
+    "id": "Daryl131/rag-nodejs",
+    "language": "JavaScript",
+    "name": "Daryl131/rag-nodejs",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:42:57Z",
+    "url": "https://github.com/Daryl131/rag-nodejs"
+  },
+  {
+    "description": "\ud83c\udf10 Manage Java WebShells effortlessly with No-one, a modern tool for secure testing and deeper understanding of web attac",
+    "id": "gekonge/No-one",
+    "language": "TypeScript",
+    "name": "gekonge/No-one",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:41:36Z",
+    "url": "https://github.com/gekonge/No-one"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Enhance customer interactions with a real-time AI voice agent, utilizing OpenAI's Realtime API and Twilio for smarter",
+    "id": "damn124/ai-calling-agent",
+    "language": "Python",
+    "name": "damn124/ai-calling-agent",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:41:21Z",
+    "url": "https://github.com/damn124/ai-calling-agent"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7718,
+    "updated_at": "2026-06-10T14:41:01Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\ud83e\udd16 Build a production-ready generative AI chatbot with RAG, LangChain, and Azure for accurate, context-aware conversation",
@@ -16,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-06-10T14:39:58Z",
     "url": "https://github.com/Lp7X/azure-genai-chatbot-rag-langchain"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI coordination with the Qdrant Neo4j Crawl4AI MCP server, combining vector search, knowledge graphs, and web ",
+    "id": "Hyperkorn/qdrant-neo4j-crawl4ai-mcp",
+    "language": "Python",
+    "name": "Hyperkorn/qdrant-neo4j-crawl4ai-mcp",
+    "stars": 3,
+    "updated_at": "2026-06-10T14:38:43Z",
+    "url": "https://github.com/Hyperkorn/qdrant-neo4j-crawl4ai-mcp"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -108,15 +279,6 @@
     "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udc19 Meta-AI Orchestrator unifies multiple LLMs with dynamic routing, RAG search, and DAG pipelines for enterprise AI workl",
     "id": "ttcs60cntt3/meta-ai-orchestrator",
     "language": "Rust",
@@ -149,7 +311,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T14:33:53Z",
+    "updated_at": "2026-06-10T14:59:40Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T14:06:24Z",
     "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 408,
-    "updated_at": "2026-06-10T13:57:21Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 5,
-    "updated_at": "2026-06-10T13:54:42Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7716,
-    "updated_at": "2026-06-10T14:41:01Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Self-hosted, categorized memory for AI agents: a FastAPI server on mem0 + Qdrant with a tiered context tree, auto-catego",
-    "id": "omarnagy91/mnemonic",
-    "language": "Python",
-    "name": "omarnagy91/mnemonic",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:49:13Z",
-    "url": "https://github.com/omarnagy91/mnemonic"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9319,
-    "updated_at": "2026-06-10T13:44:46Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:37:31Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "From-scratch hybrid RAG pipeline over Wikipedia: semantic chunking, BM25 + dense fusion, query expansion, cross-encoder ",
-    "id": "Dialexy/RAG-pipeline",
-    "language": "Python",
-    "name": "Dialexy/RAG-pipeline",
-    "stars": 2,
-    "updated_at": "2026-06-10T13:32:13Z",
-    "url": "https://github.com/Dialexy/RAG-pipeline"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17758,
-    "updated_at": "2026-06-10T14:02:57Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
-    "id": "jayshreek2511-cloud/AI-RAG-ChatBot",
-    "language": "CSS",
-    "name": "jayshreek2511-cloud/AI-RAG-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:22:20Z",
-    "url": "https://github.com/jayshreek2511-cloud/AI-RAG-ChatBot"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16307,
-    "updated_at": "2026-06-10T14:30:27Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12274,
-    "updated_at": "2026-06-10T13:06:37Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9773,
-    "updated_at": "2026-06-10T13:02:27Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4407,
-    "updated_at": "2026-06-10T14:06:15Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Distributed vector search node and client for Seer. Production Seer is not accepting Totem requests just yet. For indepe",
-    "id": "rao-studios/Totem",
-    "language": "Swift",
-    "name": "rao-studios/Totem",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:53:14Z",
-    "url": "https://github.com/rao-studios/Totem"
-  },
-  {
-    "description": "Enterprise AI HelpDesk using Spring AI, Multi-Agent Architecture, Ollama and RAG",
-    "id": "Azim-Sk/AI-Assisted-HelpDesk",
-    "language": "Java",
-    "name": "Azim-Sk/AI-Assisted-HelpDesk",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:52:28Z",
-    "url": "https://github.com/Azim-Sk/AI-Assisted-HelpDesk"
-  },
-  {
-    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
-    "id": "pathwaycom/llm-app",
-    "language": "Jupyter Notebook",
-    "name": "pathwaycom/llm-app",
-    "stars": 59365,
-    "updated_at": "2026-06-10T12:49:56Z",
-    "url": "https://github.com/pathwaycom/llm-app"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6101,
-    "updated_at": "2026-06-10T14:23:29Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32002,
-    "updated_at": "2026-06-10T14:38:26Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
