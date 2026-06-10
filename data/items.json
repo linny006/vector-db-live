@@ -1,12 +1,57 @@
 [
   {
+    "description": "Comprehensive vector database benchmark: pgvector, Pinecone, Weaviate, Chroma, Qdrant, Milvus \u2014 recall@k, QPS, latency, ",
+    "id": "jhondados/vector-database-benchmark",
+    "language": "HTML",
+    "name": "jhondados/vector-database-benchmark",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:25:40Z",
+    "url": "https://github.com/jhondados/vector-database-benchmark"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 31983,
+    "updated_at": "2026-06-10T00:23:05Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-10T00:21:46Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:15:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-10T00:12:57Z",
+    "updated_at": "2026-06-10T00:15:22Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -16,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-10T00:14:06Z",
     "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61327,
+    "updated_at": "2026-06-10T00:12:35Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T00:01:05Z",
     "url": "https://github.com/bitcoinbox/jobproof"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:54:26Z",
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-10T00:14:45Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Full-stack music recommender using 5D audio feature vectors, pgvector, and cosine similarity",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T22:52:05Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:50:56Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Enterprise-grade Multi-Tenant RAG assistant. High-performance repository indexing with strict data isolation, FastAPI ba",
-    "id": "federico-orsi-dev/SourceLogic",
-    "language": "Python",
-    "name": "federico-orsi-dev/SourceLogic",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:50:46Z",
-    "url": "https://github.com/federico-orsi-dev/SourceLogic"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:50:06Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-09T22:49:44Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
