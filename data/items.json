@@ -1,5 +1,68 @@
 [
   {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:44:13Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9772,
+    "updated_at": "2026-06-10T06:42:09Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st",
+    "id": "LucasM4r/RepoMind",
+    "language": "Go",
+    "name": "LucasM4r/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:35:55Z",
+    "url": "https://github.com/LucasM4r/RepoMind"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 372,
+    "updated_at": "2026-06-10T06:32:10Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A 3-phase educational guide to Approximate Nearest Neighbor (ANN) search, building flat NSW and Hierarchical NSW (HNSW) ",
+    "id": "sanjayy0612/HNSW_exploration-",
+    "language": "Python",
+    "name": "sanjayy0612/HNSW_exploration-",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:25:34Z",
+    "url": "https://github.com/sanjayy0612/HNSW_exploration-"
+  },
+  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9316,
-    "updated_at": "2026-06-10T06:20:53Z",
+    "updated_at": "2026-06-10T06:32:03Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -32,26 +86,8 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1389,
-    "updated_at": "2026-06-10T06:18:15Z",
+    "updated_at": "2026-06-10T06:38:17Z",
     "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:05:07Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
     "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
@@ -117,21 +153,12 @@
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 9772,
-    "updated_at": "2026-06-10T06:23:48Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1845,
-    "updated_at": "2026-06-10T05:53:32Z",
+    "updated_at": "2026-06-10T06:43:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T05:33:40Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:33:29Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-10T05:31:56Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:30:09Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
