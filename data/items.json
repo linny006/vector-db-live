@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-10T13:15:28Z",
+    "updated_at": "2026-06-10T13:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17758,
+    "updated_at": "2026-06-10T13:24:07Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-10T13:22:38Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
+    "id": "jayshreek2511-cloud/AI-RAG-ChatBot",
+    "language": "CSS",
+    "name": "jayshreek2511-cloud/AI-RAG-ChatBot",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:22:20Z",
+    "url": "https://github.com/jayshreek2511-cloud/AI-RAG-ChatBot"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6958,
+    "updated_at": "2026-06-10T13:18:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
@@ -18,24 +63,6 @@
     "url": "https://github.com/Hardhikman/IntrepidQ"
   },
   {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-10T13:00:39Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -43,15 +70,6 @@
     "stars": 9773,
     "updated_at": "2026-06-10T13:02:27Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "NeuralChat: A premium RAG-powered AI assistant built with Flask and Google Gemini. Features document-aware querying (PDF",
-    "id": "jayshreek2511-cloud/AI-RAG-ChatBot",
-    "language": "CSS",
-    "name": "jayshreek2511-cloud/AI-RAG-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:59:08Z",
-    "url": "https://github.com/jayshreek2511-cloud/AI-RAG-ChatBot"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -108,22 +126,13 @@
     "url": "https://github.com/pathwaycom/llm-app"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17757,
-    "updated_at": "2026-06-10T13:06:59Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6958,
-    "updated_at": "2026-06-10T12:45:23Z",
-    "url": "https://github.com/vespa-engine/vespa"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32002,
+    "updated_at": "2026-06-10T13:24:15Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9319,
-    "updated_at": "2026-06-10T12:20:12Z",
+    "updated_at": "2026-06-10T13:29:10Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -410,7 +419,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-10T13:01:50Z",
+    "updated_at": "2026-06-10T13:29:28Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T12:12:56Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1844,
-    "updated_at": "2026-06-10T12:16:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
