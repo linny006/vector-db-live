@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-09T23:57:53Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:54:26Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-09T23:52:08Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Full-stack music recommender using 5D audio feature vectors, pgvector, and cosine similarity",
+    "id": "Beck-MN/music-rec-app",
+    "language": "TypeScript",
+    "name": "Beck-MN/music-rec-app",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:45:59Z",
+    "url": "https://github.com/Beck-MN/music-rec-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
-    "description": "Full-stack music recommender using 5D audio feature vectors, pgvector, and cosine similarity",
-    "id": "Beck-MN/music-rec-app",
-    "language": "TypeScript",
-    "name": "Beck-MN/music-rec-app",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:37:37Z",
-    "url": "https://github.com/Beck-MN/music-rec-app"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -34,15 +70,6 @@
     "stars": 769,
     "updated_at": "2026-06-09T23:32:14Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded vector index for high-dimensional embeddings, with HNSW-style routing and TurboQuant compression.",
@@ -387,15 +414,6 @@
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 4,
-    "updated_at": "2026-06-09T23:00:21Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
     "id": "lannyfervent952/fastapi-agent-blueprint",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T22:46:33Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-09T22:46:04Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6100,
-    "updated_at": "2026-06-09T23:09:54Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
