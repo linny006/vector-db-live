@@ -1,12 +1,30 @@
 [
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58049,
+    "updated_at": "2026-06-11T09:26:31Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
     "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:14:36Z",
-    "url": "https://github.com/yihui504/TestVDB"
+    "name": "codecoradev/uteke",
+    "stars": 6,
+    "updated_at": "2026-06-11T09:24:25Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-11T09:24:07Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
@@ -14,8 +32,71 @@
     "language": "Rust",
     "name": "cvcraft252/mini-vectordb",
     "stars": 1,
-    "updated_at": "2026-06-11T09:13:35Z",
+    "updated_at": "2026-06-11T09:23:43Z",
     "url": "https://github.com/cvcraft252/mini-vectordb"
+  },
+  {
+    "description": "Framework for benchmarking vector search engines",
+    "id": "qdrant/vector-db-benchmark",
+    "language": "Python",
+    "name": "qdrant/vector-db-benchmark",
+    "stars": 365,
+    "updated_at": "2026-06-11T09:28:39Z",
+    "url": "https://github.com/qdrant/vector-db-benchmark"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:17:48Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:17:25Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-11T09:17:00Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44725,
+    "updated_at": "2026-06-11T09:30:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -41,7 +122,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32025,
-    "updated_at": "2026-06-11T09:11:09Z",
+    "updated_at": "2026-06-11T09:20:40Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -54,42 +135,6 @@
     "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Python",
-    "name": "codecoradev/uteke",
-    "stars": 6,
-    "updated_at": "2026-06-11T09:00:20Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-11T09:12:42Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 17779,
     "updated_at": "2026-06-11T09:11:49Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-11T08:53:35Z",
-    "url": "https://github.com/gupta29470/codewalk"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -149,7 +185,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T09:01:15Z",
+    "updated_at": "2026-06-11T09:24:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -162,21 +198,12 @@
     "url": "https://github.com/KNPratyusha/ai-esg-tool"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44725,
-    "updated_at": "2026-06-11T08:28:21Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9326,
-    "updated_at": "2026-06-11T08:27:21Z",
+    "updated_at": "2026-06-11T09:22:12Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:02:29Z",
     "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:02:13Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-11T08:01:47Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:00:29Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
