@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 09:30 UTC
+> ⏰ Last updated: 2026-06-11 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58049 | Rust | 2026-06-11 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 6 | Python | 2026-06-11 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-06-11 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 4 | [cvcraft252/mini-vectordb](https://github.com/cvcraft252/mini-vectordb) | 1 | Rust | 2026-06-11 | A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API. |
-| 5 | [qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) | 365 | Python | 2026-06-11 | Framework for benchmarking vector search engines |
-| 6 | [yihui504/TestVDB](https://github.com/yihui504/TestVDB) | 1 | Python | 2026-06-11 | A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin. |
-| 7 | [gupta29470/codewalk](https://github.com/gupta29470/codewalk) | 4 | Python | 2026-06-11 | AI-powered codebase onboarding tool — point it at any repo and ask questions about the code. Uses tree-sitter parsing, R |
-| 8 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 2 | TypeScript | 2026-06-11 | A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid |
-| 9 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44725 | Go | 2026-06-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 12 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 4 | HTML | 2026-06-11 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 65 | Rust | 2026-06-11 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
-| 14 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32025 | Rust | 2026-06-11 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 15 | [Ravikalakoti/AI-Document-Chat-App](https://github.com/Ravikalakoti/AI-Document-Chat-App) | 0 | Python | 2026-06-11 | AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to  |
-| 16 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17779 | Python | 2026-06-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 17 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-11 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 18 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-11 | a lightweight experimental database written in modern C++ |
-| 19 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-11 | Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase. |
-| 20 | [pubudini-rathnayake/nlp-research-assistant](https://github.com/pubudini-rathnayake/nlp-research-assistant) | 0 | JavaScript | 2026-06-11 | A full-stack AI Research Assistant using RAG (Retrieval-Augmented Generation) to upload, search, summarize, compare NLP  |
-| 21 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6156 | C | 2026-06-11 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 1 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6156 | C | 2026-06-11 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 2 | [qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) | 365 | Python | 2026-06-11 | Framework for benchmarking vector search engines |
+| 3 | [cvcraft252/mini-vectordb](https://github.com/cvcraft252/mini-vectordb) | 1 | Rust | 2026-06-11 | A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API. |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44725 | Go | 2026-06-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 7 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58050 | Rust | 2026-06-11 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 8 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 6 | Python | 2026-06-11 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 9 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-06-11 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 10 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32026 | Rust | 2026-06-11 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 11 | [yihui504/TestVDB](https://github.com/yihui504/TestVDB) | 1 | Python | 2026-06-11 | A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin. |
+| 12 | [gupta29470/codewalk](https://github.com/gupta29470/codewalk) | 4 | Python | 2026-06-11 | AI-powered codebase onboarding tool — point it at any repo and ask questions about the code. Uses tree-sitter parsing, R |
+| 13 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 2 | TypeScript | 2026-06-11 | A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid |
+| 14 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 4 | HTML | 2026-06-11 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 15 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 65 | Rust | 2026-06-11 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
+| 16 | [Ravikalakoti/AI-Document-Chat-App](https://github.com/Ravikalakoti/AI-Document-Chat-App) | 1 | Python | 2026-06-11 | AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to  |
+| 17 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17779 | Python | 2026-06-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 18 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-11 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 19 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-11 | a lightweight experimental database written in modern C++ |
+| 20 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-11 | Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase. |
+| 21 | [pubudini-rathnayake/nlp-research-assistant](https://github.com/pubudini-rathnayake/nlp-research-assistant) | 0 | JavaScript | 2026-06-11 | A full-stack AI Research Assistant using RAG (Retrieval-Augmented Generation) to upload, search, summarize, compare NLP  |
 | 22 | [KNPratyusha/ai-esg-tool](https://github.com/KNPratyusha/ai-esg-tool) | 0 | Python | 2026-06-11 | 🏛️ Document-grounded ESG/BRSR compliance assistant for Indian companies — answers straight from source PDFs with page-le |
 | 23 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9326 | Rust | 2026-06-11 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 24 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1331 | Java | 2026-06-11 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
