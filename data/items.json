@@ -1,5 +1,86 @@
 [
   {
+    "description": "An in-memory vector database from scratch in Go \u2014 collections, cosine/dot/euclidean metrics, JSON/HTTP API, snapshot per",
+    "id": "gaurav-oberoi/mini-vector-db",
+    "language": "Go",
+    "name": "gaurav-oberoi/mini-vector-db",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:58:18Z",
+    "url": "https://github.com/gaurav-oberoi/mini-vector-db"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5064,
+    "updated_at": "2026-06-11T16:58:11Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6101,
+    "updated_at": "2026-06-11T17:00:28Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 368,
+    "updated_at": "2026-06-11T16:54:59Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil",
+    "id": "Fxsin/Scientra-Copilot",
+    "language": "Python",
+    "name": "Fxsin/Scientra-Copilot",
+    "stars": 2,
+    "updated_at": "2026-06-11T16:53:47Z",
+    "url": "https://github.com/Fxsin/Scientra-Copilot"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 278,
+    "updated_at": "2026-06-11T16:50:39Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:48:12Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-11T16:56:41Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:45:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-06-11T16:43:33Z",
+    "updated_at": "2026-06-11T16:57:05Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -27,30 +108,12 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 368,
-    "updated_at": "2026-06-11T16:39:10Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5064,
-    "updated_at": "2026-06-11T16:37:20Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "The PHP Agentic Framework/Harness to build production-ready AI driven applications. Connect components (LLMs, vector DBs",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1961,
-    "updated_at": "2026-06-11T16:36:38Z",
+    "updated_at": "2026-06-11T16:49:19Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -67,8 +130,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61443,
-    "updated_at": "2026-06-11T16:31:59Z",
+    "stars": 61444,
+    "updated_at": "2026-06-11T16:59:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -77,17 +140,8 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 74,
-    "updated_at": "2026-06-11T16:30:54Z",
+    "updated_at": "2026-06-11T16:54:25Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
@@ -144,15 +198,6 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6101,
-    "updated_at": "2026-06-11T16:43:42Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "TypeScript",
@@ -176,7 +221,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T15:57:20Z",
+    "updated_at": "2026-06-11T16:52:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 9,
-    "updated_at": "2026-06-11T15:45:20Z",
+    "updated_at": "2026-06-11T17:00:28Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -252,6 +297,15 @@
     "url": "https://github.com/zilliztech/mfs"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32032,
+    "updated_at": "2026-06-11T15:25:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
     "id": "avishek0769/DocChat",
     "language": "TypeScript",
@@ -259,15 +313,6 @@
     "stars": 16,
     "updated_at": "2026-06-11T15:22:30Z",
     "url": "https://github.com/avishek0769/DocChat"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 278,
-    "updated_at": "2026-06-11T15:20:11Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T14:54:17Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:53:21Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "ChatGPT, embedding search, and retrieval-augmented generation for Squeak/Smalltalk",
-    "id": "hpi-swa-lab/Squeak-SemanticText",
-    "language": "Smalltalk",
-    "name": "hpi-swa-lab/Squeak-SemanticText",
-    "stars": 18,
-    "updated_at": "2026-06-11T14:52:27Z",
-    "url": "https://github.com/hpi-swa-lab/Squeak-SemanticText"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:51:26Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:51:16Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:51:01Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
