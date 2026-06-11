@@ -1,5 +1,50 @@
 [
   {
+    "description": "Semantic memory recomposition and emergent pattern generation system.",
+    "id": "gdTech1/MNEMOS",
+    "language": "\u2014",
+    "name": "gdTech1/MNEMOS",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:12:53Z",
+    "url": "https://github.com/gdTech1/MNEMOS"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10579,
+    "updated_at": "2026-06-11T22:03:36Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Consola RAG local air-gapped + memoria para agentes (MCP). Base vectorial cuantizada en 3 bits (Rust/WASM, ~21x), embedd",
+    "id": "MauricioPerera/JS-PotatoRAG",
+    "language": "JavaScript",
+    "name": "MauricioPerera/JS-PotatoRAG",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:03:18Z",
+    "url": "https://github.com/MauricioPerera/JS-PotatoRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -22,9 +67,18 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 27870,
+    "stars": 27871,
     "updated_at": "2026-06-11T21:55:50Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61454,
+    "updated_at": "2026-06-11T21:53:44Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Production-ready RAG pipeline for engineering documentation using LangChain, LlamaIndex and FAISS with local LLM integra",
@@ -34,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:51:09Z",
     "url": "https://github.com/PRATdoppelEK/rag-engineering-docs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Semantic memory recomposition and emergent pattern generation system.",
-    "id": "gdTech1/MNEMOS",
-    "language": "\u2014",
-    "name": "gdTech1/MNEMOS",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:44:22Z",
-    "url": "https://github.com/gdTech1/MNEMOS"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -76,7 +103,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32039,
+    "stars": 32040,
     "updated_at": "2026-06-11T21:38:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -97,15 +124,6 @@
     "stars": 51,
     "updated_at": "2026-06-11T21:33:50Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Consola RAG local air-gapped + memoria para agentes (MCP). Base vectorial cuantizada en 3 bits (Rust/WASM, ~21x), embedd",
-    "id": "MauricioPerera/JS-PotatoRAG",
-    "language": "JavaScript",
-    "name": "MauricioPerera/JS-PotatoRAG",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:31:11Z",
-    "url": "https://github.com/MauricioPerera/JS-PotatoRAG"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -423,15 +441,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10579,
-    "updated_at": "2026-06-11T21:06:45Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st",
     "id": "LucasM4r/RepoMind",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:05:22Z",
     "url": "https://github.com/LucasM4r/RepoMind"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:05:21Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
