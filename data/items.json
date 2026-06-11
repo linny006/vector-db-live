@@ -1,21 +1,84 @@
 [
   {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:14:36Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
+    "id": "cvcraft252/mini-vectordb",
+    "language": "Rust",
+    "name": "cvcraft252/mini-vectordb",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:13:35Z",
+    "url": "https://github.com/cvcraft252/mini-vectordb"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:13:34Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 65,
+    "updated_at": "2026-06-11T09:11:38Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32025,
+    "updated_at": "2026-06-11T09:11:09Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to ",
+    "id": "Ravikalakoti/AI-Document-Chat-App",
+    "language": "Python",
+    "name": "Ravikalakoti/AI-Document-Chat-App",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:03:07Z",
+    "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T09:00:26Z",
+    "updated_at": "2026-06-11T09:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A minimal progressive vector database in Rust \u2014 from brute-force exact search to HNSW, with metadata filtering, persiste",
-    "id": "cvcraft252/mini-vectordb",
-    "language": "Rust",
-    "name": "cvcraft252/mini-vectordb",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:00:00Z",
-    "url": "https://github.com/cvcraft252/mini-vectordb"
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Python",
+    "name": "codecoradev/uteke",
+    "stars": 6,
+    "updated_at": "2026-06-11T09:00:20Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-11T08:59:11Z",
+    "updated_at": "2026-06-11T09:12:42Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17779,
-    "updated_at": "2026-06-11T09:00:07Z",
+    "updated_at": "2026-06-11T09:11:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-11T08:53:35Z",
     "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32024,
-    "updated_at": "2026-06-11T09:00:13Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:51:15Z",
     "url": "https://github.com/Icingworld/litedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
@@ -104,7 +149,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T08:59:38Z",
+    "updated_at": "2026-06-11T09:01:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -117,22 +162,22 @@
     "url": "https://github.com/KNPratyusha/ai-esg-tool"
   },
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 65,
-    "updated_at": "2026-06-11T08:48:20Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44724,
+    "stars": 44725,
     "updated_at": "2026-06-11T08:28:21Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9326,
+    "updated_at": "2026-06-11T08:27:21Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -311,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16309,
-    "updated_at": "2026-06-11T08:46:07Z",
+    "updated_at": "2026-06-11T09:11:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T08:00:29Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:59:21Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "The \"SQLite for Vectors\" in pure Go. Embeddable, HNSW indexing, CGO-free, and Qdrant-compatible API.",
-    "id": "DotNetAge/govector",
-    "language": "Go",
-    "name": "DotNetAge/govector",
-    "stars": 6,
-    "updated_at": "2026-06-11T07:58:56Z",
-    "url": "https://github.com/DotNetAge/govector"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-11T07:57:59Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:56:19Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Companion repo del libro 'AI che Ragiona' (G. Zileni, 2026) \u2014 Knowledge Graph production-ready con Graph-RAG ibrido, ser",
-    "id": "agent-engineering-studio/knowledge-graph",
-    "language": "Python",
-    "name": "agent-engineering-studio/knowledge-graph",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:55:22Z",
-    "url": "https://github.com/agent-engineering-studio/knowledge-graph"
   }
 ]
