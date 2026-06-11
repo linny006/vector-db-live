@@ -1,12 +1,48 @@
 [
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-11T09:44:23Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade AI document platform that enables PDF uploads, semantic retrieval, and conversational Q&A using a scala",
+    "id": "Maherimtiyaz/AI_Powered_Doc_API",
+    "language": "JavaScript",
+    "name": "Maherimtiyaz/AI_Powered_Doc_API",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:59:56Z",
+    "url": "https://github.com/Maherimtiyaz/AI_Powered_Doc_API"
+  },
+  {
+    "description": "Expert guidance across legal, finance, investor relations, and competitive analysis. Powered by a multi-model LLM Counci",
+    "id": "Afnanksalal/co-op",
+    "language": "TypeScript",
+    "name": "Afnanksalal/co-op",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:55:31Z",
+    "url": "https://github.com/Afnanksalal/co-op"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32028,
+    "updated_at": "2026-06-11T09:54:57Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6958,
+    "updated_at": "2026-06-11T09:52:51Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Framework for benchmarking vector search engines",
@@ -14,8 +50,71 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 365,
-    "updated_at": "2026-06-11T09:41:51Z",
+    "updated_at": "2026-06-11T09:52:33Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:52:13Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "a lightweight experimental database written in modern C++",
+    "id": "Icingworld/litedb",
+    "language": "C++",
+    "name": "Icingworld/litedb",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:53:30Z",
+    "url": "https://github.com/Icingworld/litedb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:50:43Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17781,
+    "updated_at": "2026-06-11T09:55:12Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 19,
+    "updated_at": "2026-06-11T09:48:06Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-11T09:46:48Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:45:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
@@ -27,29 +126,11 @@
     "url": "https://github.com/cvcraft252/mini-vectordb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44725,
+    "stars": 44727,
     "updated_at": "2026-06-11T09:30:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58050,
-    "updated_at": "2026-06-11T09:36:42Z",
+    "updated_at": "2026-06-11T09:53:54Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32026,
-    "updated_at": "2026-06-11T09:20:40Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:17:48Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-11T09:17:25Z",
-    "url": "https://github.com/gupta29470/codewalk"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -144,15 +207,6 @@
     "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17779,
-    "updated_at": "2026-06-11T09:11:49Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 73,
     "updated_at": "2026-06-11T08:52:13Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "a lightweight experimental database written in modern C++",
-    "id": "Icingworld/litedb",
-    "language": "C++",
-    "name": "Icingworld/litedb",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:45:04Z",
-    "url": "https://github.com/Icingworld/litedb"
   },
   {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16309,
-    "updated_at": "2026-06-11T09:11:06Z",
+    "updated_at": "2026-06-11T09:48:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:06:58Z",
     "url": "https://github.com/tanaos/cognitor-worker"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:06:52Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:06:13Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:04:50Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:03:57Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:02:29Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
   }
 ]
