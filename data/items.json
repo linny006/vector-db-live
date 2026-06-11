@@ -1,12 +1,30 @@
 [
   {
-    "description": "Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil",
-    "id": "Fxsin/Scientra-Copilot",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Fxsin/Scientra-Copilot",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:09:28Z",
-    "url": "https://github.com/Fxsin/Scientra-Copilot"
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 8,
+    "updated_at": "2026-06-11T11:14:25Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-11T11:12:56Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
   },
   {
     "description": "**LangChain learning repository featuring hands-on notebooks, experiments, and study notes on data ingestion, text split",
@@ -14,8 +32,35 @@
     "language": "Jupyter Notebook",
     "name": "kashyapsundaragiri/LangChain-Study-Repository",
     "stars": 0,
-    "updated_at": "2026-06-11T11:09:20Z",
+    "updated_at": "2026-06-11T11:11:12Z",
     "url": "https://github.com/kashyapsundaragiri/LangChain-Study-Repository"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:10:34Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:10:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil",
+    "id": "Fxsin/Scientra-Copilot",
+    "language": "Python",
+    "name": "Fxsin/Scientra-Copilot",
+    "stars": 2,
+    "updated_at": "2026-06-11T11:09:28Z",
+    "url": "https://github.com/Fxsin/Scientra-Copilot"
   },
   {
     "description": "Local Retrieval-Augmented Generation (RAG) system built with FastAPI, integrating vector search, Elasticsearch, and opti",
@@ -90,24 +135,6 @@
     "url": "https://github.com/Mahesh250305/Multi-Domain-RAG-System-for-Customer-Review-Analytics-and-Financial-Intelligence-"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 2893,
-    "updated_at": "2026-06-11T10:52:06Z",
+    "updated_at": "2026-06-11T11:12:19Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -328,7 +355,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58051,
+    "stars": 58052,
     "updated_at": "2026-06-11T09:53:54Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:38:30Z",
     "url": "https://github.com/pubudini-rathnayake/nlp-research-assistant"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f Document-grounded ESG/BRSR compliance assistant for Indian companies \u2014 answers straight from source PDFs with page-le",
-    "id": "KNPratyusha/ai-esg-tool",
-    "language": "Python",
-    "name": "KNPratyusha/ai-esg-tool",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:30:06Z",
-    "url": "https://github.com/KNPratyusha/ai-esg-tool"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1331,
-    "updated_at": "2026-06-11T08:27:24Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
-    "id": "Cyning12/ai-ink-brain",
-    "language": "TypeScript",
-    "name": "Cyning12/ai-ink-brain",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:25:49Z",
-    "url": "https://github.com/Cyning12/ai-ink-brain"
   }
 ]
