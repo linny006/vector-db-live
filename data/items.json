@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A minimal progressive vector database in Rust \u2014 from brute-force exact search to HNSW, with metadata filtering, persiste",
     "id": "cvcraft252/mini-vectordb",
     "language": "Rust",
     "name": "cvcraft252/mini-vectordb",
     "stars": 1,
-    "updated_at": "2026-06-11T08:44:30Z",
+    "updated_at": "2026-06-11T09:00:00Z",
     "url": "https://github.com/cvcraft252/mini-vectordb"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:59:11Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17779,
+    "updated_at": "2026-06-11T09:00:07Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 4,
+    "updated_at": "2026-06-11T08:53:35Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32024,
+    "updated_at": "2026-06-11T09:00:13Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-11T08:52:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "a lightweight experimental database written in modern C++",
+    "id": "Icingworld/litedb",
+    "language": "C++",
+    "name": "Icingworld/litedb",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:51:15Z",
+    "url": "https://github.com/Icingworld/litedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
@@ -32,44 +104,8 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T08:36:47Z",
+    "updated_at": "2026-06-11T08:59:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-11T08:35:39Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-11T08:45:26Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83c\udfdb\ufe0f Document-grounded ESG/BRSR compliance assistant for Indian companies \u2014 answers straight from source PDFs with page-le",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 65,
-    "updated_at": "2026-06-11T08:41:29Z",
+    "updated_at": "2026-06-11T08:48:20Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/lh1207/reddit-kb-mcp-server"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32024,
-    "updated_at": "2026-06-11T08:44:20Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
     "id": "exact-treesquirrel5419/ai_osint",
     "language": "\u2014",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T08:11:39Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:35:45Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16309,
-    "updated_at": "2026-06-11T08:27:07Z",
+    "updated_at": "2026-06-11T08:46:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:55:22Z",
     "url": "https://github.com/agent-engineering-studio/knowledge-graph"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:55:20Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:55:18Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
