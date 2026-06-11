@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to ",
+    "id": "Ravikalakoti/AI-Document-Chat-App",
+    "language": "Python",
+    "name": "Ravikalakoti/AI-Document-Chat-App",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:15:11Z",
+    "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
+  },
+  {
+    "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
+    "id": "cvcraft252/mini-vectordb",
+    "language": "Rust",
+    "name": "cvcraft252/mini-vectordb",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:14:36Z",
+    "url": "https://github.com/cvcraft252/mini-vectordb"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-11T10:12:17Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-11T10:09:57Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-11T10:10:00Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "A powerful FastAPI context engine that ingests codebases, chunks structural data, and generates LLM-ready context using ",
+    "id": "abrarshahh/Probe_BE",
+    "language": "Python",
+    "name": "abrarshahh/Probe_BE",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:08:32Z",
+    "url": "https://github.com/abrarshahh/Probe_BE"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44723,
+    "updated_at": "2026-06-11T10:08:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-11T10:01:15Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,11 +108,20 @@
     "url": "https://github.com/Afnanksalal/co-op"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17782,
+    "updated_at": "2026-06-11T09:55:12Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32028,
+    "stars": 32022,
     "updated_at": "2026-06-11T09:54:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -77,17 +167,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-11T09:50:43Z",
+    "updated_at": "2026-06-11T10:07:26Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17781,
-    "updated_at": "2026-06-11T09:55:12Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -97,42 +178,6 @@
     "stars": 19,
     "updated_at": "2026-06-11T09:48:06Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-11T09:46:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:45:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
-    "id": "cvcraft252/mini-vectordb",
-    "language": "Rust",
-    "name": "cvcraft252/mini-vectordb",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:33:02Z",
-    "url": "https://github.com/cvcraft252/mini-vectordb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44727,
-    "updated_at": "2026-06-11T09:30:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -171,15 +216,6 @@
     "url": "https://github.com/yihui504/TestVDB"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-11T09:38:44Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
@@ -194,17 +230,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 65,
-    "updated_at": "2026-06-11T09:11:38Z",
+    "updated_at": "2026-06-11T10:04:06Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to ",
-    "id": "Ravikalakoti/AI-Document-Chat-App",
-    "language": "Python",
-    "name": "Ravikalakoti/AI-Document-Chat-App",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:03:07Z",
-    "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -214,15 +241,6 @@
     "stars": 73,
     "updated_at": "2026-06-11T08:52:13Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:39:52Z",
-    "url": "https://github.com/zilliztech/mfs"
   },
   {
     "description": "A full-stack AI Research Assistant using RAG (Retrieval-Augmented Generation) to upload, search, summarize, compare NLP ",
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16309,
-    "updated_at": "2026-06-11T09:48:38Z",
+    "updated_at": "2026-06-11T10:09:44Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:07:50Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:06:58Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
   }
 ]
