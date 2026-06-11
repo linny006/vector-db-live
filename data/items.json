@@ -1,5 +1,50 @@
 [
   {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 5,
+    "updated_at": "2026-06-11T21:59:13Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Vector Memory - Slipstream - Built by Vektor Memory - a multi-layered persistent memory architecture. 4-layer associativ",
+    "id": "Vektor-Memory/Vektor-memory",
+    "language": "\u2014",
+    "name": "Vektor-Memory/Vektor-memory",
+    "stars": 4,
+    "updated_at": "2026-06-11T21:55:58Z",
+    "url": "https://github.com/Vektor-Memory/Vektor-memory"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 27870,
+    "updated_at": "2026-06-11T21:55:50Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Production-ready RAG pipeline for engineering documentation using LangChain, LlamaIndex and FAISS with local LLM integra",
+    "id": "PRATdoppelEK/rag-engineering-docs",
+    "language": "Python",
+    "name": "PRATdoppelEK/rag-engineering-docs",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:51:09Z",
+    "url": "https://github.com/PRATdoppelEK/rag-engineering-docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,29 +63,20 @@
     "url": "https://github.com/gdTech1/MNEMOS"
   },
   {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 27870,
-    "updated_at": "2026-06-11T21:42:37Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 5,
-    "updated_at": "2026-06-11T21:39:08Z",
-    "url": "https://github.com/nram-ai/nram"
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 939,
+    "updated_at": "2026-06-11T21:46:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32038,
+    "stars": 32039,
     "updated_at": "2026-06-11T21:38:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:31:11Z",
     "url": "https://github.com/MauricioPerera/JS-PotatoRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T21:05:21Z",
     "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:05:16Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:05:08Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:06:13Z",
-    "url": "https://github.com/thameema/memnos"
   }
 ]
