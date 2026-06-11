@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T04:00:20Z",
+    "updated_at": "2026-06-11T04:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
+    "id": "leekkk2/transcendence-memory-server",
+    "language": "Python",
+    "name": "leekkk2/transcendence-memory-server",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:11:42Z",
+    "url": "https://github.com/leekkk2/transcendence-memory-server"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-11T04:09:52Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MCP server for searching saved Reddit content (ChromaDB + nomic-embed-text)",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T03:54:00Z",
     "url": "https://github.com/lh1207/reddit-kb"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-11T03:52:45Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
@@ -43,15 +61,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T03:45:44Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T03:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -113,7 +122,7 @@
     "language": "C++",
     "name": "Icingworld/litedb",
     "stars": 0,
-    "updated_at": "2026-06-11T03:03:12Z",
+    "updated_at": "2026-06-11T04:01:37Z",
     "url": "https://github.com/Icingworld/litedb"
   },
   {
@@ -162,21 +171,12 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
-    "id": "leekkk2/transcendence-memory-server",
-    "language": "Python",
-    "name": "leekkk2/transcendence-memory-server",
-    "stars": 2,
-    "updated_at": "2026-06-11T02:31:29Z",
-    "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1349,
-    "updated_at": "2026-06-11T02:31:09Z",
+    "updated_at": "2026-06-11T04:05:33Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 1,
-    "updated_at": "2026-06-11T01:59:02Z",
+    "updated_at": "2026-06-11T04:09:54Z",
     "url": "https://github.com/thameema/memnos"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 04:00 UTC
+> ⏰ Last updated: 2026-06-11 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [lh1207/reddit-kb](https://github.com/lh1207/reddit-kb) | 0 | Python | 2026-06-11 | MCP server for searching saved Reddit content (ChromaDB + nomic-embed-text) |
+| 2 | [leekkk2/transcendence-memory-server](https://github.com/leekkk2/transcendence-memory-server) | 2 | Python | 2026-06-11 | Self-hosted multimodal RAG cloud memory service — a shared brain for your AI agents. Multi-agent cross-query, LanceDB +  |
 | 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-11 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
-| 4 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-11 | Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase. |
-| 5 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 5 | Python | 2026-06-11 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9323 | Rust | 2026-06-11 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1844 | Go | 2026-06-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 9 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-11 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
-| 10 | [ysys143/pg_cuvs](https://github.com/ysys143/pg_cuvs) | 2 | C | 2026-06-11 | ⚡ Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS. |
-| 11 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9774 | C++ | 2026-06-11 | A lightweight, lightning-fast, in-process vector database |
-| 12 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 5 | Rust | 2026-06-11 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 13 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-11 | a lightweight experimental database written in modern C++ |
-| 14 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44724 | Go | 2026-06-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 15 | [ArtLjn/AgentDesk](https://github.com/ArtLjn/AgentDesk) | 0 | Python | 2026-06-11 | AI Agent Development Engineer Learning Roadmap - 8-week systematic learning path with 3 progressive projects (Basic Agen |
-| 16 | [Achal13jain/vectormeta](https://github.com/Achal13jain/vectormeta) | 0 | Python | 2026-06-11 | Detect and fix oversized vector DB metadata before upsert. CLI for Pinecone, Chroma, Qdrant, Weaviate. |
-| 17 | [ZemResearch/FiktarDB.jl](https://github.com/ZemResearch/FiktarDB.jl) | 0 | Julia | 2026-06-11 | A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems. |
-| 18 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 768 | Go | 2026-06-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 19 | [leekkk2/transcendence-memory-server](https://github.com/leekkk2/transcendence-memory-server) | 2 | Python | 2026-06-11 | Self-hosted multimodal RAG cloud memory service — a shared brain for your AI agents. Multi-agent cross-query, LanceDB +  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [lh1207/reddit-kb](https://github.com/lh1207/reddit-kb) | 0 | Python | 2026-06-11 | MCP server for searching saved Reddit content (ChromaDB + nomic-embed-text) |
+| 6 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-11 | Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase. |
+| 7 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 5 | Python | 2026-06-11 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 8 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9323 | Rust | 2026-06-11 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 9 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1844 | Go | 2026-06-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 10 | [chyinan/AegisRAG](https://github.com/chyinan/AegisRAG) | 2 | Python | 2026-06-11 | AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit |
+| 11 | [ysys143/pg_cuvs](https://github.com/ysys143/pg_cuvs) | 2 | C | 2026-06-11 | ⚡ Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS. |
+| 12 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9774 | C++ | 2026-06-11 | A lightweight, lightning-fast, in-process vector database |
+| 13 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 5 | Rust | 2026-06-11 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 14 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-11 | a lightweight experimental database written in modern C++ |
+| 15 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44724 | Go | 2026-06-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 16 | [ArtLjn/AgentDesk](https://github.com/ArtLjn/AgentDesk) | 0 | Python | 2026-06-11 | AI Agent Development Engineer Learning Roadmap - 8-week systematic learning path with 3 progressive projects (Basic Agen |
+| 17 | [Achal13jain/vectormeta](https://github.com/Achal13jain/vectormeta) | 0 | Python | 2026-06-11 | Detect and fix oversized vector DB metadata before upsert. CLI for Pinecone, Chroma, Qdrant, Weaviate. |
+| 18 | [ZemResearch/FiktarDB.jl](https://github.com/ZemResearch/FiktarDB.jl) | 0 | Julia | 2026-06-11 | A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems. |
+| 19 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 768 | Go | 2026-06-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
 | 20 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1349 | Python | 2026-06-11 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
 | 21 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 118 | MDX | 2026-06-11 | The documentation for SurrealDB, powered by Astro |
 | 22 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6100 | TypeScript | 2026-06-11 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
