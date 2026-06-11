@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 17:15 UTC
+> ⏰ Last updated: 2026-06-11 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 368 | Python | 2026-06-11 | Program that lets you ask questions about your documents, audio, and video files. |
-| 2 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61446 | JavaScript | 2026-06-11 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 3 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 768 | Go | 2026-06-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 4 | [Fxsin/Scientra-Copilot](https://github.com/Fxsin/Scientra-Copilot) | 2 | Python | 2026-06-11 | Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil |
-| 5 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6101 | TypeScript | 2026-06-11 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 6 | [mattmre/CHELATEDAI](https://github.com/mattmre/CHELATEDAI) | 2 | Python | 2026-06-11 | Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d |
-| 7 | [bas-in/basin](https://github.com/bas-in/basin) | 4 | Rust | 2026-06-11 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [konjoai/vectro](https://github.com/konjoai/vectro) | 9 | Rust | 2026-06-11 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
-| 11 | [gaurav-oberoi/mini-vector-db](https://github.com/gaurav-oberoi/mini-vector-db) | 0 | Go | 2026-06-11 | An in-memory vector database from scratch in Go — collections, cosine/dot/euclidean metrics, JSON/HTTP API, snapshot per |
-| 12 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5065 | Python | 2026-06-11 |  Memory library for building stateful agents |
-| 13 | [schmitech/orbit](https://github.com/schmitech/orbit) | 278 | Python | 2026-06-11 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
-| 14 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 0 | Python | 2026-06-11 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 15 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-11 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 16 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 2 | Rust | 2026-06-11 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
-| 17 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 1961 | PHP | 2026-06-11 | The PHP Agentic Framework/Harness to build production-ready AI driven applications. Connect components (LLMs, vector DBs |
-| 18 | [BhanukaJanappriya/RAG-based-customer_support_chatbot-](https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-) | 0 | Python | 2026-06-11 | Fully local RAG customer support chatbot — Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with  |
-| 19 | [topk-io/topk](https://github.com/topk-io/topk) | 74 | Rust | 2026-06-11 | High-quality search for AI-native applications. |
-| 20 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 749 | Python | 2026-06-11 | AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: |
+| 1 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61447 | JavaScript | 2026-06-11 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 2 | [Fxsin/Scientra-Copilot](https://github.com/Fxsin/Scientra-Copilot) | 2 | Python | 2026-06-11 | Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil |
+| 3 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 749 | Python | 2026-06-11 | AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: |
+| 4 | [schmitech/orbit](https://github.com/schmitech/orbit) | 278 | Python | 2026-06-11 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 368 | Python | 2026-06-11 | Program that lets you ask questions about your documents, audio, and video files. |
+| 8 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 768 | Go | 2026-06-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 9 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6101 | TypeScript | 2026-06-11 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
+| 10 | [mattmre/CHELATEDAI](https://github.com/mattmre/CHELATEDAI) | 2 | Python | 2026-06-11 | Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d |
+| 11 | [bas-in/basin](https://github.com/bas-in/basin) | 4 | Rust | 2026-06-11 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
+| 12 | [konjoai/vectro](https://github.com/konjoai/vectro) | 9 | Rust | 2026-06-11 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
+| 13 | [gaurav-oberoi/mini-vector-db](https://github.com/gaurav-oberoi/mini-vector-db) | 0 | Go | 2026-06-11 | An in-memory vector database from scratch in Go — collections, cosine/dot/euclidean metrics, JSON/HTTP API, snapshot per |
+| 14 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5066 | Python | 2026-06-11 |  Memory library for building stateful agents |
+| 15 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 0 | Python | 2026-06-11 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 16 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 4 | Rust | 2026-06-11 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 17 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 2 | Rust | 2026-06-11 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
+| 18 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 1961 | PHP | 2026-06-11 | The PHP Agentic Framework/Harness to build production-ready AI driven applications. Connect components (LLMs, vector DBs |
+| 19 | [BhanukaJanappriya/RAG-based-customer_support_chatbot-](https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-) | 0 | Python | 2026-06-11 | Fully local RAG customer support chatbot — Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with  |
+| 20 | [topk-io/topk](https://github.com/topk-io/topk) | 74 | Rust | 2026-06-11 | High-quality search for AI-native applications. |
 | 21 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12289 | Java | 2026-06-11 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
 | 22 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50081 | Python | 2026-06-11 | LlamaIndex is the leading document agent and OCR platform |
 | 23 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6958 | Java | 2026-06-11 | The AI search platform |
