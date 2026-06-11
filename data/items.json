@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T15:30:27Z",
+    "updated_at": "2026-06-11T15:45:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 9,
+    "updated_at": "2026-06-11T15:45:20Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
@@ -18,12 +36,21 @@
     "url": "https://github.com/avishek0769/DocChat"
   },
   {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 278,
+    "updated_at": "2026-06-11T15:20:11Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
     "name": "BBC-Esq/VectorDB-Plugin",
     "stars": 368,
-    "updated_at": "2026-06-11T15:18:16Z",
+    "updated_at": "2026-06-11T15:35:52Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
@@ -36,22 +63,22 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T15:25:29Z",
+    "updated_at": "2026-06-11T15:36:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The PHP Agentic Framework/Harness to build production-ready AI driven applications. Connect components (LLMs, vector DBs",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1961,
+    "updated_at": "2026-06-11T15:42:56Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -162,15 +189,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 9,
-    "updated_at": "2026-06-11T15:30:19Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58053,
-    "updated_at": "2026-06-11T15:10:59Z",
+    "updated_at": "2026-06-11T15:36:29Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -400,7 +418,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5062,
+    "stars": 5063,
     "updated_at": "2026-06-11T14:35:21Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -412,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:35:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The PHP Agentic Framework/Harness to build production-ready AI driven applications. Connect components (LLMs, vector DBs",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1961,
-    "updated_at": "2026-06-11T15:09:28Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:33:37Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:33:12Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
