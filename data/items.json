@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "chyinan/AegisRAG",
     "stars": 2,
-    "updated_at": "2026-06-11T03:14:24Z",
+    "updated_at": "2026-06-11T03:28:45Z",
     "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer",
@@ -14,7 +32,7 @@
     "language": "C",
     "name": "ysys143/pg_cuvs",
     "stars": 2,
-    "updated_at": "2026-06-11T03:13:41Z",
+    "updated_at": "2026-06-11T03:25:32Z",
     "url": "https://github.com/ysys143/pg_cuvs"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 9774,
     "updated_at": "2026-06-11T03:04:28Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T03:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -95,7 +95,7 @@
     "language": "Julia",
     "name": "ZemResearch/FiktarDB.jl",
     "stars": 0,
-    "updated_at": "2026-06-11T02:44:41Z",
+    "updated_at": "2026-06-11T03:27:25Z",
     "url": "https://github.com/ZemResearch/FiktarDB.jl"
   },
   {
