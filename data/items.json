@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T22:45:20Z",
+    "updated_at": "2026-06-11T23:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:59:51Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
+    "id": "shlokkvaishnav/nano-db",
+    "language": "C++",
+    "name": "shlokkvaishnav/nano-db",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:59:28Z",
+    "url": "https://github.com/shlokkvaishnav/nano-db"
+  },
+  {
+    "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
+    "id": "araray/llmcore",
+    "language": "Python",
+    "name": "araray/llmcore",
+    "stars": 4,
+    "updated_at": "2026-06-11T22:54:17Z",
+    "url": "https://github.com/araray/llmcore"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 4,
+    "updated_at": "2026-06-11T22:51:41Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:45:42Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Containerized deployment release. Added Docker, Docker Compose, persistent volumes, environment-based container configur",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "punkgate/DocTeach",
     "stars": 0,
-    "updated_at": "2026-06-11T22:45:07Z",
+    "updated_at": "2026-06-11T22:51:17Z",
     "url": "https://github.com/punkgate/DocTeach"
   },
   {
@@ -23,26 +77,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-11T22:38:11Z",
+    "updated_at": "2026-06-11T22:56:47Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 4,
-    "updated_at": "2026-06-11T22:36:55Z",
-    "url": "https://github.com/bas-in/basin"
-  },
-  {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/nano-db",
-    "language": "C++",
-    "name": "shlokkvaishnav/nano-db",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:36:13Z",
-    "url": "https://github.com/shlokkvaishnav/nano-db"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -52,15 +88,6 @@
     "stars": 30,
     "updated_at": "2026-06-11T22:33:18Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi",
@@ -95,7 +122,7 @@
     "language": "JavaScript",
     "name": "MauricioPerera/JS-PotatoRAG",
     "stars": 0,
-    "updated_at": "2026-06-11T22:03:18Z",
+    "updated_at": "2026-06-11T22:59:45Z",
     "url": "https://github.com/MauricioPerera/JS-PotatoRAG"
   },
   {
@@ -131,7 +158,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 61454,
-    "updated_at": "2026-06-11T22:41:52Z",
+    "updated_at": "2026-06-11T22:58:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:13:38Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:12:57Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:11:46Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:11:08Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
