@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T16:15:25Z",
+    "updated_at": "2026-06-11T16:30:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 749,
+    "updated_at": "2026-06-11T16:29:43Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 368,
+    "updated_at": "2026-06-11T16:26:25Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12289,
+    "updated_at": "2026-06-11T16:26:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50081,
+    "updated_at": "2026-06-11T16:22:48Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6958,
+    "updated_at": "2026-06-11T16:17:11Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:15:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12650,
-    "updated_at": "2026-06-11T16:09:54Z",
+    "updated_at": "2026-06-11T16:16:36Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -32,7 +86,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1961,
-    "updated_at": "2026-06-11T16:04:06Z",
+    "updated_at": "2026-06-11T16:23:08Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -41,17 +95,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6101,
-    "updated_at": "2026-06-11T16:02:49Z",
+    "updated_at": "2026-06-11T16:18:26Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -81,12 +126,21 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
+    "description": "Production-grade AI assistant: RAG + LangChain agent with HubSpot CRM, email & voice tools | FastAPI, WebSockets, FAISS,",
+    "id": "narensasbi-debuge/smart-business-assistant",
+    "language": "Python",
+    "name": "narensasbi-debuge/smart-business-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:56:33Z",
+    "url": "https://github.com/narensasbi-debuge/smart-business-assistant"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 937,
-    "updated_at": "2026-06-11T16:14:11Z",
+    "updated_at": "2026-06-11T16:18:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 58054,
     "updated_at": "2026-06-11T15:36:29Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 368,
-    "updated_at": "2026-06-11T15:35:52Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
@@ -256,7 +301,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 390,
+    "stars": 392,
     "updated_at": "2026-06-11T14:57:20Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -403,50 +448,5 @@
     "stars": 768,
     "updated_at": "2026-06-11T15:12:12Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-11T14:45:30Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:43:35Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:42:51Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:41:40Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:39:43Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
