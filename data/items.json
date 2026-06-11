@@ -1,5 +1,59 @@
 [
   {
+    "description": "ChatGPT, embedding search, and retrieval-augmented generation for Squeak/Smalltalk",
+    "id": "hpi-swa-lab/Squeak-SemanticText",
+    "language": "Smalltalk",
+    "name": "hpi-swa-lab/Squeak-SemanticText",
+    "stars": 18,
+    "updated_at": "2026-06-11T14:52:27Z",
+    "url": "https://github.com/hpi-swa-lab/Squeak-SemanticText"
+  },
+  {
+    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
+    "id": "Keeterete513/llm-model-search-recommendation",
+    "language": "Python",
+    "name": "Keeterete513/llm-model-search-recommendation",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:46:17Z",
+    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
+  },
+  {
+    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
+    "id": "Brakepedallap630/openmemory",
+    "language": "Shell",
+    "name": "Brakepedallap630/openmemory",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:46:06Z",
+    "url": "https://github.com/Brakepedallap630/openmemory"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 768,
+    "updated_at": "2026-06-11T14:52:44Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:45:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
+    "id": "Ac3v3d0/semafold",
+    "language": "Python",
+    "name": "Ac3v3d0/semafold",
+    "stars": 3,
+    "updated_at": "2026-06-11T14:45:30Z",
+    "url": "https://github.com/Ac3v3d0/semafold"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-11T14:45:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
+    "id": "Synchronic-leafbud824/skill-vault",
+    "language": "\u2014",
+    "name": "Synchronic-leafbud824/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:43:35Z",
+    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -68,7 +131,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1961,
-    "updated_at": "2026-06-11T14:35:08Z",
+    "updated_at": "2026-06-11T14:48:48Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -99,6 +162,15 @@
     "url": "https://github.com/okeidontlike/Awareness-Local"
   },
   {
+    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
+    "id": "NvlFR/enterprise-rag-platform",
+    "language": "Python",
+    "name": "NvlFR/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:31:57Z",
+    "url": "https://github.com/NvlFR/enterprise-rag-platform"
+  },
+  {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
     "id": "ysys143/pg_cuvs",
     "language": "C",
@@ -117,13 +189,13 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
+    "id": "whiteoakredguard557/llmfs",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "whiteoakredguard557/llmfs",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:29:40Z",
+    "url": "https://github.com/whiteoakredguard557/llmfs"
   },
   {
     "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
@@ -169,15 +241,6 @@
     "stars": 6958,
     "updated_at": "2026-06-11T14:26:32Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
-    "id": "NvlFR/enterprise-rag-platform",
-    "language": "Python",
-    "name": "NvlFR/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:31:57Z",
-    "url": "https://github.com/NvlFR/enterprise-rag-platform"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6101,
-    "updated_at": "2026-06-11T14:36:01Z",
+    "updated_at": "2026-06-11T14:51:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T14:08:54Z",
     "url": "https://github.com/Gfake-tech/python-langgraph-chatbot"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:07:06Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58052,
-    "updated_at": "2026-06-11T14:20:11Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Build an offline Q&A API using RAG to query PDFs and texts, with automated MLflow tracking of performance and quality me",
-    "id": "alunoshacker-beep/ragscope",
-    "language": "Python",
-    "name": "alunoshacker-beep/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:05:24Z",
-    "url": "https://github.com/alunoshacker-beep/ragscope"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:04:46Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 9,
-    "updated_at": "2026-06-11T14:38:58Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:00:33Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:00:08Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
