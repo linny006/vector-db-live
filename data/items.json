@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T01:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 205,
+    "updated_at": "2026-06-11T01:42:18Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:40:57Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7718,
+    "updated_at": "2026-06-11T01:40:20Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T01:39:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
     "id": "fik93673/QueryMind-SQL",
     "language": "TypeScript",
@@ -25,15 +70,6 @@
     "stars": 33,
     "updated_at": "2026-06-11T01:36:43Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 205,
-    "updated_at": "2026-06-11T01:37:48Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "codecoradev/uteke",
     "stars": 3,
-    "updated_at": "2026-06-11T01:32:47Z",
+    "updated_at": "2026-06-11T01:42:20Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -117,24 +153,6 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -160,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:27:56Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 804,
+    "updated_at": "2026-06-11T01:27:39Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T01:35:39Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:01:56Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:58:56Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:58:50Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
