@@ -1,11 +1,92 @@
 [
   {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 2893,
+    "updated_at": "2026-06-11T11:28:13Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Expert guidance across legal, finance, investor relations, and competitive analysis. Powered by a multi-model LLM Counci",
+    "id": "Afnanksalal/co-op",
+    "language": "TypeScript",
+    "name": "Afnanksalal/co-op",
+    "stars": 4,
+    "updated_at": "2026-06-11T11:28:03Z",
+    "url": "https://github.com/Afnanksalal/co-op"
+  },
+  {
+    "description": "\ud83d\udc19 Meta-AI Orchestrator unifies multiple LLMs with dynamic routing, RAG search, and DAG pipelines for enterprise AI workl",
+    "id": "ttcs60cntt3/meta-ai-orchestrator",
+    "language": "Rust",
+    "name": "ttcs60cntt3/meta-ai-orchestrator",
+    "stars": 6,
+    "updated_at": "2026-06-11T11:26:14Z",
+    "url": "https://github.com/ttcs60cntt3/meta-ai-orchestrator"
+  },
+  {
+    "description": "Enterprise-grade RAG platform that transforms internal documents into an intelligent AI assistant using FastAPI, Postgre",
+    "id": "NvlFR/enterprise-rag-platform",
+    "language": "Python",
+    "name": "NvlFR/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:23:09Z",
+    "url": "https://github.com/NvlFR/enterprise-rag-platform"
+  },
+  {
+    "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
+    "id": "Krishna89287/rag-llm-toolkit",
+    "language": "Python",
+    "name": "Krishna89287/rag-llm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:22:08Z",
+    "url": "https://github.com/Krishna89287/rag-llm-toolkit"
+  },
+  {
+    "description": "MemFuse Python SDK offers a simple way to integrate memory capabilities into your LLM projects. \ud83d\ude80 Join the community on ",
+    "id": "RankMegaCraft51/memfuse-python",
+    "language": "Python",
+    "name": "RankMegaCraft51/memfuse-python",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:20:32Z",
+    "url": "https://github.com/RankMegaCraft51/memfuse-python"
+  },
+  {
+    "description": "MemFuse offers a robust memory layer for large language models, enhancing their performance and efficiency. Join our com",
+    "id": "sakhama/memfuse",
+    "language": "Python",
+    "name": "sakhama/memfuse",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:19:59Z",
+    "url": "https://github.com/sakhama/memfuse"
+  },
+  {
+    "description": "This repository contains a RAG-based chatbot that helps you ask questions about your PDF documents. Use FastAPI and Stre",
+    "id": "jcpanggoygit/rag-chatbot-documents",
+    "language": "Python",
+    "name": "jcpanggoygit/rag-chatbot-documents",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:19:52Z",
+    "url": "https://github.com/jcpanggoygit/rag-chatbot-documents"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-11T11:15:25Z",
+    "updated_at": "2026-06-11T11:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T11:10:34Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:10:08Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil",
@@ -104,8 +176,17 @@
     "language": "Python",
     "name": "VarunGitGood/repi",
     "stars": 1,
-    "updated_at": "2026-06-11T11:08:14Z",
+    "updated_at": "2026-06-11T11:18:45Z",
     "url": "https://github.com/VarunGitGood/repi"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7722,
+    "updated_at": "2026-06-11T11:07:34Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
@@ -144,15 +225,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Expert guidance across legal, finance, investor relations, and competitive analysis. Powered by a multi-model LLM Counci",
-    "id": "Afnanksalal/co-op",
-    "language": "TypeScript",
-    "name": "Afnanksalal/co-op",
-    "stars": 4,
-    "updated_at": "2026-06-11T10:57:05Z",
-    "url": "https://github.com/Afnanksalal/co-op"
-  },
-  {
     "description": "Open source, all-in-one semantic search engine for AI and humans",
     "id": "tanaos/cognitor",
     "language": "Python",
@@ -178,15 +250,6 @@
     "stars": 32024,
     "updated_at": "2026-06-11T10:54:14Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 2893,
-    "updated_at": "2026-06-11T11:12:19Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -302,7 +365,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-11T10:53:18Z",
+    "updated_at": "2026-06-11T11:23:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17782,
-    "updated_at": "2026-06-11T11:04:56Z",
+    "updated_at": "2026-06-11T11:25:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-11T10:07:26Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 19,
-    "updated_at": "2026-06-11T09:48:06Z",
-    "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Python",
-    "name": "codecoradev/uteke",
-    "stars": 6,
-    "updated_at": "2026-06-11T09:24:25Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-06-11T09:24:07Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 4,
-    "updated_at": "2026-06-11T09:13:34Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1390,
-    "updated_at": "2026-06-11T09:10:16Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-11T08:52:13Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A full-stack AI Research Assistant using RAG (Retrieval-Augmented Generation) to upload, search, summarize, compare NLP ",
-    "id": "pubudini-rathnayake/nlp-research-assistant",
-    "language": "JavaScript",
-    "name": "pubudini-rathnayake/nlp-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:38:30Z",
-    "url": "https://github.com/pubudini-rathnayake/nlp-research-assistant"
   }
 ]
