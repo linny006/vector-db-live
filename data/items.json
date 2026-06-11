@@ -1,5 +1,41 @@
 [
   {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:14:24Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer",
+    "id": "ysys143/pg_cuvs",
+    "language": "C",
+    "name": "ysys143/pg_cuvs",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:13:41Z",
+    "url": "https://github.com/ysys143/pg_cuvs"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 9774,
+    "updated_at": "2026-06-11T03:04:28Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "hoffresearch/nest",
     "stars": 5,
-    "updated_at": "2026-06-11T02:56:42Z",
+    "updated_at": "2026-06-11T03:03:45Z",
     "url": "https://github.com/hoffresearch/nest"
   },
   {
@@ -23,7 +59,7 @@
     "language": "C++",
     "name": "Icingworld/litedb",
     "stars": 0,
-    "updated_at": "2026-06-11T02:55:13Z",
+    "updated_at": "2026-06-11T03:03:12Z",
     "url": "https://github.com/Icingworld/litedb"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:55:17Z",
     "url": "https://github.com/Achal13jain/vectormeta"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
@@ -189,15 +216,6 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
-    "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer (resident CA",
-    "id": "ysys143/pg_cuvs",
-    "language": "C",
-    "name": "ysys143/pg_cuvs",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:52:55Z",
-    "url": "https://github.com/ysys143/pg_cuvs"
-  },
-  {
     "description": "Semantic memory and cross-project search for AI",
     "id": "jkraybill/gordo-ledger",
     "language": "TypeScript",
@@ -293,7 +311,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-06-11T02:31:33Z",
+    "updated_at": "2026-06-11T03:11:27Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 73,
     "updated_at": "2026-06-11T01:22:18Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:22:14Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:20:20Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
   }
 ]
