@@ -1,12 +1,12 @@
 [
   {
-    "description": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi",
-    "id": "ather-techie/rag-interview-system",
-    "language": "\u2014",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 53,
-    "updated_at": "2026-06-11T22:26:00Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-11T22:15:25Z",
+    "updated_at": "2026-06-11T22:28:45Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T22:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi",
+    "id": "ather-techie/rag-interview-system",
+    "language": "\u2014",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 53,
+    "updated_at": "2026-06-11T22:26:00Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
   },
   {
     "description": "Semantic memory recomposition and emergent pattern generation system.",

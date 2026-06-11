@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 22:28 UTC
+> ⏰ Last updated: 2026-06-11 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ather-techie/rag-interview-system](https://github.com/ather-techie/rag-interview-system) | 53 | — | 2026-06-11 | A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [ather-techie/rag-interview-system](https://github.com/ather-techie/rag-interview-system) | 53 | — | 2026-06-11 | A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi |
 | 4 | [gdTech1/MNEMOS](https://github.com/gdTech1/MNEMOS) | 0 | — | 2026-06-11 | Semantic memory recomposition and emergent pattern generation system. |
 | 5 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10579 | HTML | 2026-06-11 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 6 | [MauricioPerera/JS-PotatoRAG](https://github.com/MauricioPerera/JS-PotatoRAG) | 0 | JavaScript | 2026-06-11 | Consola RAG local air-gapped + memoria para agentes (MCP). Base vectorial cuantizada en 3 bits (Rust/WASM, ~21x), embedd |
