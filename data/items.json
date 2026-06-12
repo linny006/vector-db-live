@@ -1,11 +1,65 @@
 [
   {
+    "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
+    "id": "Krishna89287/rag-llm-toolkit",
+    "language": "Python",
+    "name": "Krishna89287/rag-llm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:42:41Z",
+    "url": "https://github.com/Krishna89287/rag-llm-toolkit"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-12T11:41:39Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:40:56Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Dynamic Retrieval-Augmented Generation framework for context-aware PDF question answering with adaptive retrieval strate",
+    "id": "Joshb-hub/Final_Year_Project-",
+    "language": "JavaScript",
+    "name": "Joshb-hub/Final_Year_Project-",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:37:19Z",
+    "url": "https://github.com/Joshb-hub/Final_Year_Project-"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32054,
+    "updated_at": "2026-06-12T11:37:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-12T11:30:21Z",
+    "updated_at": "2026-06-12T11:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-12T11:21:46Z",
+    "updated_at": "2026-06-12T11:44:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/Shuchi-Anush/ai-workshop-systems"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
     "id": "tradik/mddb",
     "language": "Go",
@@ -97,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T11:14:39Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32053,
-    "updated_at": "2026-06-12T11:11:47Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A minimal vector database in Rust with HNSW search, metadata filtering, persistence, and a REST API.",
@@ -142,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T11:03:51Z",
     "url": "https://github.com/Zoranner/memo-brain"
-  },
-  {
-    "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
-    "id": "Krishna89287/rag-llm-toolkit",
-    "language": "Python",
-    "name": "Krishna89287/rag-llm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:00:24Z",
-    "url": "https://github.com/Krishna89287/rag-llm-toolkit"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9331,
-    "updated_at": "2026-06-12T10:48:18Z",
+    "updated_at": "2026-06-12T11:44:40Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T10:42:55Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:42:17Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 7,
-    "updated_at": "2026-06-12T10:42:17Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "RAG backend for regulatory document Q&A \u2014 hybrid retrieval (ChromaDB + BM25 + Reciprocal Rank Fusion), LangGraph agentic",
-    "id": "Romi-s/Compliance-RAG-Agent",
-    "language": "Python",
-    "name": "Romi-s/Compliance-RAG-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:41:59Z",
-    "url": "https://github.com/Romi-s/Compliance-RAG-Agent"
   }
 ]
