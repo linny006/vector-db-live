@@ -1,12 +1,21 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 940,
-    "updated_at": "2026-06-12T18:14:11Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 5,
+    "updated_at": "2026-06-12T18:29:31Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Production-oriented AI systems monorepo for LangChain, RAG, LLM orchestration, vector search, FastAPI services, and work",
+    "id": "Shuchi-Anush/ai-workshop-systems",
+    "language": "Python",
+    "name": "Shuchi-Anush/ai-workshop-systems",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:27:54Z",
+    "url": "https://github.com/Shuchi-Anush/ai-workshop-systems"
   },
   {
     "description": "",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "CodNoob100/null-drift",
     "stars": 14,
-    "updated_at": "2026-06-12T18:14:03Z",
+    "updated_at": "2026-06-12T18:26:52Z",
     "url": "https://github.com/CodNoob100/null-drift"
+  },
+  {
+    "description": "A privacy-focused chatbot that answers questions about a restaurant by retrieving relevant customer reviews and using a ",
+    "id": "ishitaacharya2005/Local-AI",
+    "language": "Python",
+    "name": "ishitaacharya2005/Local-AI",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:25:28Z",
+    "url": "https://github.com/ishitaacharya2005/Local-AI"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:23:39Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "Production RAG pipeline using Azure OpenAI, LangChain & FAISS | 500-1000 doc Q&A system @ Ericsson",
+    "id": "ansh1423/AI-Knowledge-Assistant-RAG",
+    "language": "Python",
+    "name": "ansh1423/AI-Knowledge-Assistant-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:19:16Z",
+    "url": "https://github.com/ansh1423/AI-Knowledge-Assistant-RAG"
+  },
+  {
+    "description": "RAG chatbot for documents \u2014 upload PDFs/DOCX and ask questions with source-cited answers. FastAPI + ChromaDB + BGE embed",
+    "id": "jdecuirm/docchat-ai",
+    "language": "Python",
+    "name": "jdecuirm/docchat-ai",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:18:24Z",
+    "url": "https://github.com/jdecuirm/docchat-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 939,
+    "updated_at": "2026-06-12T18:14:11Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "a lightweight experimental database written in modern C++",
@@ -23,7 +95,7 @@
     "language": "C++",
     "name": "Icingworld/litedb",
     "stars": 0,
-    "updated_at": "2026-06-12T18:12:33Z",
+    "updated_at": "2026-06-12T18:18:01Z",
     "url": "https://github.com/Icingworld/litedb"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T18:06:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st",
     "id": "LucasM4r/RepoMind",
     "language": "Go",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:02:24Z",
     "url": "https://github.com/LucasM4r/RepoMind"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:57:33Z",
     "url": "https://github.com/shotsofai07-stack/rag-chatbot-from-scratch"
-  },
-  {
-    "description": "RAG chatbot for documents \u2014 upload PDFs/DOCX and ask questions with source-cited answers. FastAPI + ChromaDB + BGE embed",
-    "id": "jdecuirm/docchat-ai",
-    "language": "Python",
-    "name": "jdecuirm/docchat-ai",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:56:48Z",
-    "url": "https://github.com/jdecuirm/docchat-ai"
   },
   {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
@@ -166,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17800,
+    "stars": 17801,
     "updated_at": "2026-06-12T17:49:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-12T17:32:51Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:31:35Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:30:47Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:30:22Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:30:10Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:28:14Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
   }
 ]
