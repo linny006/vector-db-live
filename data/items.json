@@ -1,5 +1,59 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9331,
+    "updated_at": "2026-06-12T11:59:58Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:58:41Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "An AI-powered exam paper generator that uses Retrieval-Augmented Generation (RAG) with FAISS vector search and Groq's LL",
+    "id": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
+    "language": "\u2014",
+    "name": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:55:51Z",
+    "url": "https://github.com/Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12302,
+    "updated_at": "2026-06-12T11:49:02Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
     "id": "Krishna89287/rag-llm-toolkit",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 4,
-    "updated_at": "2026-06-12T11:41:39Z",
+    "updated_at": "2026-06-12T11:57:09Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -23,7 +77,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-06-12T11:40:56Z",
+    "updated_at": "2026-06-12T11:46:23Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -41,26 +95,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32054,
-    "updated_at": "2026-06-12T11:37:02Z",
+    "updated_at": "2026-06-12T11:56:48Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:25:03Z",
     "url": "https://github.com/LordSpudnik/SecAI"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:21:51Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -342,15 +369,6 @@
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9331,
-    "updated_at": "2026-06-12T11:44:40Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
     "id": "raymondmdzz123/agent-memory",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:45:09Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-12T10:44:09Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:42:55Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
