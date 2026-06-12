@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local Retrieval-Augmented Generation (RAG) system built with FastAPI, integrating vector search, Elasticsearch, and opti",
+    "id": "Jocker-123/ChatQ",
+    "language": "HTML",
+    "name": "Jocker-123/ChatQ",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:15:16Z",
+    "url": "https://github.com/Jocker-123/ChatQ"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-12T12:15:16Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "An AI-powered exam paper generator that uses Retrieval-Augmented Generation (RAG) with FAISS vector search and Groq's LL",
+    "id": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
+    "language": "Jupyter Notebook",
+    "name": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:15:04Z",
+    "url": "https://github.com/Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG"
+  },
+  {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:13:33Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:13:13Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:11:22Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:09:42Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "A chatbot who is expert in Data Analyst Domain.",
+    "id": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
+    "language": "Python",
+    "name": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:09:09Z",
+    "url": "https://github.com/Lokesh-DataScience/Data-Analyst-Expert-Bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -18,15 +108,6 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "An AI-powered exam paper generator that uses Retrieval-Augmented Generation (RAG) with FAISS vector search and Groq's LL",
-    "id": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
-    "language": "\u2014",
-    "name": "Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:55:51Z",
-    "url": "https://github.com/Awais-Asghar/AI-Based-Exam-Paper-Generator-using-RAG"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -34,24 +115,6 @@
     "stars": 12302,
     "updated_at": "2026-06-12T11:49:02Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-12T12:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG pipelines, retrieval optimisation and LLM evaluation tools built with LangChain and FAISS",
@@ -72,15 +135,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:46:23Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
     "description": "Dynamic Retrieval-Augmented Generation framework for context-aware PDF question answering with adaptive retrieval strate",
     "id": "Joshb-hub/Final_Year_Project-",
     "language": "JavaScript",
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32054,
-    "updated_at": "2026-06-12T11:56:48Z",
+    "updated_at": "2026-06-12T12:08:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -122,17 +176,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-12T11:44:10Z",
+    "updated_at": "2026-06-12T12:10:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:19:48Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
     "description": "Declarative and Incremental Backend for Multimodal AI Applications",
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T11:07:56Z",
     "url": "https://github.com/Fxsin/Scientra-Copilot"
-  },
-  {
-    "description": "A chatbot who is expert in Data Analyst Domain.",
-    "id": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
-    "language": "Python",
-    "name": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:06:08Z",
-    "url": "https://github.com/Lokesh-DataScience/Data-Analyst-Expert-Bot"
   },
   {
     "description": "Long-term memory for AI coding assistants. Rust CLI with semantic search, Agent Skill integration, and local deployment.",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-12T10:46:43Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Kyros \u2014 The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. ",
-    "id": "Kyros-494/kyros-ai",
-    "language": "Python",
-    "name": "Kyros-494/kyros-ai",
-    "stars": 89,
-    "updated_at": "2026-06-12T10:46:34Z",
-    "url": "https://github.com/Kyros-494/kyros-ai"
-  },
-  {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:46:29Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:45:27Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:45:09Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
