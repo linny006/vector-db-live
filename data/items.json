@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 30,
+    "updated_at": "2026-06-12T18:45:15Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 74,
+    "updated_at": "2026-06-12T18:42:54Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:42:41Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 4,
+    "updated_at": "2026-06-12T18:37:04Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 368,
+    "updated_at": "2026-06-12T18:35:23Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:32:22Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "AI backend: RAG, LLM orchestration and REST API",
+    "id": "rogerioc/ai-backend-rag-llm",
+    "language": "Python",
+    "name": "rogerioc/ai-backend-rag-llm",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:31:58Z",
+    "url": "https://github.com/rogerioc/ai-backend-rag-llm"
+  },
+  {
+    "description": "",
+    "id": "CodNoob100/null-drift",
+    "language": "Python",
+    "name": "CodNoob100/null-drift",
+    "stars": 14,
+    "updated_at": "2026-06-12T18:31:37Z",
+    "url": "https://github.com/CodNoob100/null-drift"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 278,
+    "updated_at": "2026-06-12T18:31:33Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 7,
+    "updated_at": "2026-06-12T18:30:57Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:27:54Z",
     "url": "https://github.com/Shuchi-Anush/ai-workshop-systems"
-  },
-  {
-    "description": "",
-    "id": "CodNoob100/null-drift",
-    "language": "Python",
-    "name": "CodNoob100/null-drift",
-    "stars": 14,
-    "updated_at": "2026-06-12T18:26:52Z",
-    "url": "https://github.com/CodNoob100/null-drift"
   },
   {
     "description": "A privacy-focused chatbot that answers questions about a restaurant by retrieving relevant customer reviews and using a ",
@@ -63,22 +162,22 @@
     "url": "https://github.com/jdecuirm/docchat-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T18:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6106,
+    "updated_at": "2026-06-12T18:16:43Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "plastic-labs/honcho",
+    "stars": 5098,
+    "updated_at": "2026-06-12T18:44:09Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -126,15 +225,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:58:30Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "Production-quality RAG chatbot built from first principles: FastAPI + Streamlit, LangGraph, ChromaDB/FAISS, BGE embeddin",
     "id": "shotsofai07-stack/rag-chatbot-from-scratch",
     "language": "Python",
@@ -162,15 +252,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:52:37Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
-  },
-  {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
     "id": "fik93673/QueryMind-SQL",
     "language": "TypeScript",
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1573,
-    "updated_at": "2026-06-12T17:51:52Z",
+    "updated_at": "2026-06-12T18:33:39Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -268,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:47:19Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 278,
-    "updated_at": "2026-06-12T17:47:11Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:39:27Z",
     "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-12T17:39:10Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:37:47Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:37:15Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:36:31Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:35:11Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:34:31Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:34:03Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-12T17:32:51Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
