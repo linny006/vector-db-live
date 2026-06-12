@@ -1,5 +1,77 @@
 [
   {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-12T21:59:26Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-12T21:58:55Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "Multi-agent AI platform that turns articles into swipeable summary cards. ",
+    "id": "samarthkashyap03/lumen",
+    "language": "TypeScript",
+    "name": "samarthkashyap03/lumen",
+    "stars": 2,
+    "updated_at": "2026-06-12T21:57:16Z",
+    "url": "https://github.com/samarthkashyap03/lumen"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 939,
+    "updated_at": "2026-06-12T21:47:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "",
+    "id": "navid72m/vectorDatabase",
+    "language": "C",
+    "name": "navid72m/vectorDatabase",
+    "stars": 0,
+    "updated_at": "2026-06-12T21:47:11Z",
+    "url": "https://github.com/navid72m/vectorDatabase"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-12T21:46:45Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-12T21:46:41Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-12T21:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-12T21:44:31Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Vector_DB_with_LLM",
+    "id": "euiyounghwang/Vector_DB_with_LLM",
+    "language": "Jupyter Notebook",
+    "name": "euiyounghwang/Vector_DB_with_LLM",
+    "stars": 2,
+    "updated_at": "2026-06-12T21:44:29Z",
+    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
   },
   {
     "description": "RAG chatbot for documents \u2014 upload PDFs/DOCX and ask questions with source-cited answers. FastAPI + ChromaDB + BGE embed",
@@ -54,15 +135,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Vector_DB_with_LLM",
-    "id": "euiyounghwang/Vector_DB_with_LLM",
-    "language": "Jupyter Notebook",
-    "name": "euiyounghwang/Vector_DB_with_LLM",
-    "stars": 2,
-    "updated_at": "2026-06-12T21:44:29Z",
-    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
-  },
-  {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
     "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
     "language": "TypeScript",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T21:42:09Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "",
-    "id": "navid72m/vectorDatabase",
-    "language": "C",
-    "name": "navid72m/vectorDatabase",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:41:22Z",
-    "url": "https://github.com/navid72m/vectorDatabase"
   },
   {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T21:39:00Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Multi-agent AI platform that turns articles into swipeable summary cards. ",
-    "id": "samarthkashyap03/lumen",
-    "language": "TypeScript",
-    "name": "samarthkashyap03/lumen",
-    "stars": 2,
-    "updated_at": "2026-06-12T21:37:07Z",
-    "url": "https://github.com/samarthkashyap03/lumen"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -268,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-06-12T21:31:25Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-12T21:21:33Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
-    "id": "splinterhq/libsplinter",
-    "language": "C",
-    "name": "splinterhq/libsplinter",
-    "stars": 4,
-    "updated_at": "2026-06-12T21:20:32Z",
-    "url": "https://github.com/splinterhq/libsplinter"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-12T21:19:52Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:18:16Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:18:14Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:18:10Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
