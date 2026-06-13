@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-13T01:00:19Z",
+    "updated_at": "2026-06-13T01:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 5,
+    "updated_at": "2026-06-13T01:12:57Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44749,
+    "updated_at": "2026-06-13T01:12:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-13T01:06:50Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 121,
+    "updated_at": "2026-06-13T01:04:37Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T01:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
@@ -45,15 +90,6 @@
     "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
   },
   {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 5,
-    "updated_at": "2026-06-13T00:48:42Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
     "id": "JaeHoYun/vcf-rag-reference-architecture",
     "language": "\u2014",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T00:48:04Z",
     "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-06-13T00:19:37Z",
     "url": "https://github.com/exact-treesquirrel5419/ai_osint"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 4,
-    "updated_at": "2026-06-13T00:19:31Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T00:04:30Z",
     "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-13T00:04:19Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-13T00:02:43Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
