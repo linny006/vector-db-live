@@ -1,11 +1,38 @@
 [
   {
+    "description": "Modern web photobooth with AI-powered image similarity search. Built with vanilla JavaScript frontend and FastAPI + Chro",
+    "id": "777reet/PhotoDiaries",
+    "language": "JavaScript",
+    "name": "777reet/PhotoDiaries",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:25:40Z",
+    "url": "https://github.com/777reet/PhotoDiaries"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:23:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 46,
+    "updated_at": "2026-06-13T15:23:18Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "bas-in/basin",
     "language": "Rust",
     "name": "bas-in/basin",
     "stars": 4,
-    "updated_at": "2026-06-13T15:15:04Z",
+    "updated_at": "2026-06-13T15:21:56Z",
     "url": "https://github.com/bas-in/basin"
   },
   {
@@ -14,8 +41,35 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-06-13T15:11:49Z",
+    "updated_at": "2026-06-13T15:16:34Z",
     "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A full-stack RAG chatbot featuring a Laravel + Inertia/React frontend with async job polling, a FastAPI backend housing ",
+    "id": "migodbtc/leuchtturm-rag-system",
+    "language": "TypeScript",
+    "name": "migodbtc/leuchtturm-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:12:06Z",
+    "url": "https://github.com/migodbtc/leuchtturm-rag-system"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "marco-spagn/pcmi",
     "stars": 4,
-    "updated_at": "2026-06-13T15:07:46Z",
+    "updated_at": "2026-06-13T15:27:52Z",
     "url": "https://github.com/marco-spagn/pcmi"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T15:01:38Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -126,6 +162,15 @@
     "url": "https://github.com/bjamiolkowski/modular-rag-assistant"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17806,
+    "updated_at": "2026-06-13T14:42:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil",
     "id": "Fxsin/Scientra-Copilot",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-06-13T14:42:07Z",
     "url": "https://github.com/Fxsin/Scientra-Copilot"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 46,
-    "updated_at": "2026-06-13T14:37:40Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1352,
-    "updated_at": "2026-06-13T14:58:23Z",
+    "updated_at": "2026-06-13T15:29:31Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T14:16:58Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-13T14:16:37Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-13T14:15:31Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:14:21Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-13T14:13:39Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
