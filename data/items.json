@@ -1,5 +1,50 @@
 [
   {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 66,
+    "updated_at": "2026-06-13T08:12:16Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
+    "id": "FireFistisDead/pdf-qa-bot",
+    "language": "JavaScript",
+    "name": "FireFistisDead/pdf-qa-bot",
+    "stars": 17,
+    "updated_at": "2026-06-13T08:11:43Z",
+    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
+  },
+  {
+    "description": "vecdb \u2013 a dependency-light C11 vector index. Exact & HNSW approximate search, 4\u2011/8\u2011bit TurboQuant compression, filtered ",
+    "id": "navid72m/vectorDatabase",
+    "language": "C",
+    "name": "navid72m/vectorDatabase",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:02:48Z",
+    "url": "https://github.com/navid72m/vectorDatabase"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T08:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -36,24 +81,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T08:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -61,15 +88,6 @@
     "stars": 757,
     "updated_at": "2026-06-13T07:44:06Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "vecdb \u2013 a dependency-light C11 vector index. Exact & HNSW approximate search, 4\u2011/8\u2011bit TurboQuant compression, filtered ",
-    "id": "navid72m/vectorDatabase",
-    "language": "C",
-    "name": "navid72m/vectorDatabase",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:43:01Z",
-    "url": "https://github.com/navid72m/vectorDatabase"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T07:07:45Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:04:38Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-13T07:04:24Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
