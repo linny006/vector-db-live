@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 15:30 UTC
+> ⏰ Last updated: 2026-06-13 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [777reet/PhotoDiaries](https://github.com/777reet/PhotoDiaries) | 1 | JavaScript | 2026-06-13 | Modern web photobooth with AI-powered image similarity search. Built with vanilla JavaScript frontend and FastAPI + Chro |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 46 | JavaScript | 2026-06-13 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
-| 4 | [bas-in/basin](https://github.com/bas-in/basin) | 4 | Rust | 2026-06-13 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
-| 5 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-06-13 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [migodbtc/leuchtturm-rag-system](https://github.com/migodbtc/leuchtturm-rag-system) | 0 | TypeScript | 2026-06-13 | A full-stack RAG chatbot featuring a Laravel + Inertia/React frontend with async job polling, a FastAPI backend housing  |
-| 9 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-13 | Automatically chunk, embed and index a folder into a Cognitor collection |
-| 10 | [tanaos/cognitor](https://github.com/tanaos/cognitor) | 11 | Python | 2026-06-13 | Open source, all-in-one semantic search engine for AI and humans |
-| 11 | [marco-spagn/pcmi](https://github.com/marco-spagn/pcmi) | 4 | Go | 2026-06-13 | Persistent Cognitive Memory Infrastructure — durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri |
-| 12 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 13 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-13 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 14 | [gupta29470/codewalk](https://github.com/gupta29470/codewalk) | 4 | Python | 2026-06-13 | AI-powered codebase onboarding tool — point it at any repo and ask questions about the code. Uses tree-sitter parsing, R |
-| 15 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 2 | Rust | 2026-06-13 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
+| 1 | [777reet/PhotoDiaries](https://github.com/777reet/PhotoDiaries) | 0 | JavaScript | 2026-06-13 | Modern web photobooth with AI-powered image similarity search. Built with vanilla JavaScript frontend and FastAPI + Chro |
+| 2 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 2 | Rust | 2026-06-13 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 46 | JavaScript | 2026-06-13 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
+| 7 | [bas-in/basin](https://github.com/bas-in/basin) | 4 | Rust | 2026-06-13 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
+| 8 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-06-13 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 9 | [migodbtc/leuchtturm-rag-system](https://github.com/migodbtc/leuchtturm-rag-system) | 0 | TypeScript | 2026-06-13 | A full-stack RAG chatbot featuring a Laravel + Inertia/React frontend with async job polling, a FastAPI backend housing  |
+| 10 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-13 | Automatically chunk, embed and index a folder into a Cognitor collection |
+| 11 | [tanaos/cognitor](https://github.com/tanaos/cognitor) | 11 | Python | 2026-06-13 | Open source, all-in-one semantic search engine for AI and humans |
+| 12 | [marco-spagn/pcmi](https://github.com/marco-spagn/pcmi) | 4 | Go | 2026-06-13 | Persistent Cognitive Memory Infrastructure — durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri |
+| 13 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 14 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-13 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 15 | [gupta29470/codewalk](https://github.com/gupta29470/codewalk) | 4 | Python | 2026-06-13 | AI-powered codebase onboarding tool — point it at any repo and ask questions about the code. Uses tree-sitter parsing, R |
 | 16 | [kaivid-labs/evret](https://github.com/kaivid-labs/evret) | 18 | Python | 2026-06-13 | Evals framework for Information Retrieval Systems |
 | 17 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-13 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
 | 18 | [bjamiolkowski/modular-rag-assistant](https://github.com/bjamiolkowski/modular-rag-assistant) | 0 | Python | 2026-06-13 |  Modular RAG system with hybrid retrieval, reranking, and multi-provider LLM support (OpenAI & Ollama). Includes observa |
-| 19 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17806 | Python | 2026-06-13 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 19 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17807 | Python | 2026-06-13 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 20 | [Fxsin/Scientra-Copilot](https://github.com/Fxsin/Scientra-Copilot) | 3 | Python | 2026-06-13 | Scientra OS turns research papers into a searchable knowledge ecosystem. Import PDFs, extract structured knowledge, buil |
 | 21 | [schmitech/orbit](https://github.com/schmitech/orbit) | 279 | Python | 2026-06-13 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
 | 22 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-13 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
