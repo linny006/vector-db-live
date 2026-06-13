@@ -1,5 +1,77 @@
 [
   {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "maksystem2025/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "maksystem2025/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-13T18:43:56Z",
+    "url": "https://github.com/maksystem2025/GenAI-Course-Repo"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-13T18:43:28Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-13T18:43:13Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-13T18:38:39Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-06-13T18:33:09Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17809,
+    "updated_at": "2026-06-13T18:31:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T18:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T18:24:56Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-06-13T18:24:28Z",
-    "url": "https://github.com/iksnerd/code-nexus"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -112,7 +175,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32145,
+    "stars": 32147,
     "updated_at": "2026-06-13T18:19:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -223,24 +286,6 @@
     "stars": 217,
     "updated_at": "2026-06-13T18:24:50Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T18:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T18:02:54Z",
     "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:01:15Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-13T18:01:15Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:00:51Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:00:48Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-13T18:00:20Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
