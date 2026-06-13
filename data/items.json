@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T22:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
+    "id": "thekaveh/genai-vanilla",
+    "language": "Python",
+    "name": "thekaveh/genai-vanilla",
     "stars": 0,
-    "updated_at": "2026-06-13T21:44:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-06-13T21:59:34Z",
+    "url": "https://github.com/thekaveh/genai-vanilla"
   },
   {
     "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "kherrera6219/theFactory",
     "stars": 1,
-    "updated_at": "2026-06-13T21:44:08Z",
+    "updated_at": "2026-06-13T21:58:50Z",
     "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 4,
+    "updated_at": "2026-06-13T21:54:56Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Applied-AI system that scores job-candidate fit and drafts evidence-grounded, tailored applications you review. RAG + LL",
@@ -27,29 +54,11 @@
     "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 4,
-    "updated_at": "2026-06-13T21:38:03Z",
-    "url": "https://github.com/bas-in/basin"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32159,
+    "stars": 32160,
     "updated_at": "2026-06-13T21:29:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "sochdb/sochdb",
     "stars": 31,
-    "updated_at": "2026-06-13T21:28:06Z",
+    "updated_at": "2026-06-13T21:56:43Z",
     "url": "https://github.com/sochdb/sochdb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T20:54:39Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-13T20:53:06Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
