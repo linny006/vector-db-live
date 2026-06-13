@@ -1,12 +1,12 @@
 [
   {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 74,
-    "updated_at": "2026-06-13T00:29:31Z",
-    "url": "https://github.com/topk-io/topk"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T00:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
@@ -14,8 +14,53 @@
     "language": "Elixir",
     "name": "elchemista/vettore",
     "stars": 21,
-    "updated_at": "2026-06-13T00:29:30Z",
+    "updated_at": "2026-06-13T00:42:02Z",
     "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
+    "id": "n8watkins/GeminiGPT",
+    "language": "TypeScript",
+    "name": "n8watkins/GeminiGPT",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:41:44Z",
+    "url": "https://github.com/n8watkins/GeminiGPT"
+  },
+  {
+    "description": "RAG chatbot for documents \u2014 upload PDFs/DOCX and ask questions with source-cited answers. FastAPI + ChromaDB + BGE embed",
+    "id": "jdecuirm/docchat-ai",
+    "language": "Python",
+    "name": "jdecuirm/docchat-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:40:57Z",
+    "url": "https://github.com/jdecuirm/docchat-ai"
+  },
+  {
+    "description": "VCF Private AI \ub97c \uc704\ud55c \uc5d4\ud130\ud504\ub77c\uc774\uc988 vectorDB \uc18c\uac1c \ubc0f \uac00\uc774\ub4dc",
+    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:37:31Z",
+    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 74,
+    "updated_at": "2026-06-13T00:29:31Z",
+    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Semantic memory recomposition and emergent pattern generation system.",
@@ -117,24 +162,6 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "RAG chatbot for documents \u2014 upload PDFs/DOCX and ask questions with source-cited answers. FastAPI + ChromaDB + BGE embed",
-    "id": "jdecuirm/docchat-ai",
-    "language": "Python",
-    "name": "jdecuirm/docchat-ai",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:20:46Z",
-    "url": "https://github.com/jdecuirm/docchat-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T00:19:50Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
     "id": "exact-treesquirrel5419/ai_osint",
     "language": "\u2014",
@@ -225,15 +252,6 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
     "id": "Keeterete513/llm-model-search-recommendation",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-06-13T00:09:28Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
-    "id": "n8watkins/GeminiGPT",
-    "language": "TypeScript",
-    "name": "n8watkins/GeminiGPT",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:09:12Z",
-    "url": "https://github.com/n8watkins/GeminiGPT"
   },
   {
     "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T00:00:39Z",
     "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:00:08Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
