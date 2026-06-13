@@ -1,5 +1,95 @@
 [
   {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 31,
+    "updated_at": "2026-06-13T21:28:06Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 279,
+    "updated_at": "2026-06-13T21:24:17Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Role-Based Medical RAG System using FastAPI, Next.js, ChromaDB, Hybrid Retrieval, and Gemma 4 with secure department-lev",
+    "id": "himelds/MedRagAssistant",
+    "language": "Python",
+    "name": "himelds/MedRagAssistant",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:24:00Z",
+    "url": "https://github.com/himelds/MedRagAssistant"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:17:54Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:17:52Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
+    "id": "fik93673/QueryMind-SQL",
+    "language": "TypeScript",
+    "name": "fik93673/QueryMind-SQL",
+    "stars": 1,
+    "updated_at": "2026-06-13T21:17:08Z",
+    "url": "https://github.com/fik93673/QueryMind-SQL"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-06-13T21:15:41Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
+    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "language": "TypeScript",
+    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:15:35Z",
+    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T21:15:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
     "id": "Monkish-jewishryebread665/NodeMind",
     "language": "HTML",
@@ -43,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-13T21:12:49Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 31,
-    "updated_at": "2026-06-13T21:12:34Z",
-    "url": "https://github.com/sochdb/sochdb"
   },
   {
     "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
@@ -225,15 +306,6 @@
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-13T21:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Large document Q&A agent using RAG",
     "id": "djleamen/doc-reader",
     "language": "Python",
@@ -248,17 +320,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32155,
-    "updated_at": "2026-06-13T21:00:20Z",
+    "updated_at": "2026-06-13T21:29:01Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -315,15 +378,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 279,
-    "updated_at": "2026-06-13T20:56:25Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
     "id": "whiteoakredguard557/llmfs",
     "language": "Python",
@@ -360,15 +414,6 @@
     "url": "https://github.com/pencaudal526/system-design-bible"
   },
   {
-    "description": "Role-Based Medical RAG System using FastAPI, Next.js, ChromaDB, Hybrid Retrieval, and Gemma 4 with secure department-lev",
-    "id": "himelds/medichat",
-    "language": "Python",
-    "name": "himelds/medichat",
-    "stars": 0,
-    "updated_at": "2026-06-13T20:51:32Z",
-    "url": "https://github.com/himelds/medichat"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T20:50:58Z",
     "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-13T20:50:22Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-13T20:49:32Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-13T20:49:28Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag",
-    "id": "staffardinsoluble415/ai-context-master",
-    "language": "JavaScript",
-    "name": "staffardinsoluble415/ai-context-master",
-    "stars": 1,
-    "updated_at": "2026-06-13T20:49:19Z",
-    "url": "https://github.com/staffardinsoluble415/ai-context-master"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-13T20:49:06Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
