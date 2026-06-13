@@ -1,21 +1,12 @@
 [
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 66,
-    "updated_at": "2026-06-13T08:12:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
-    "id": "FireFistisDead/pdf-qa-bot",
-    "language": "JavaScript",
-    "name": "FireFistisDead/pdf-qa-bot",
-    "stars": 17,
-    "updated_at": "2026-06-13T08:11:43Z",
-    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T08:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "vecdb \u2013 a dependency-light C11 vector index. Exact & HNSW approximate search, 4\u2011/8\u2011bit TurboQuant compression, filtered ",
@@ -23,8 +14,35 @@
     "language": "C",
     "name": "navid72m/vectorDatabase",
     "stars": 0,
-    "updated_at": "2026-06-13T08:02:48Z",
+    "updated_at": "2026-06-13T08:27:59Z",
     "url": "https://github.com/navid72m/vectorDatabase"
+  },
+  {
+    "description": "A high-performance, low-cost vector database that can run either embedded inside your Python process or as a standalone ",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-13T08:26:29Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 4,
+    "updated_at": "2026-06-13T08:25:23Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
+    "id": "FireFistisDead/pdf-qa-bot",
+    "language": "JavaScript",
+    "name": "FireFistisDead/pdf-qa-bot",
+    "stars": 17,
+    "updated_at": "2026-06-13T08:19:10Z",
+    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,17 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-13T08:00:24Z",
+    "updated_at": "2026-06-13T08:15:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T08:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 66,
+    "updated_at": "2026-06-13T08:21:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T07:51:07Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A high-performance, low-cost vector database that can run either embedded inside your Python process or as a standalone ",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-13T07:49:53Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -331,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-06-13T07:18:29Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 4,
-    "updated_at": "2026-06-13T07:18:27Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
