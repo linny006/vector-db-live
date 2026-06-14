@@ -1,12 +1,57 @@
 [
   {
-    "description": "A privacy-first, self-hosted photo manager powered by local LLMs (Ollama) and DeepFace. Scan your local images, generate",
-    "id": "ejber-ozkan/local-llm-photo-scanner",
-    "language": "TypeScript",
-    "name": "ejber-ozkan/local-llm-photo-scanner",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T18:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TL;DR: Master RAG Systems and Vector Databases through professional Python AI coding tutorials and deep-dive documentati",
+    "id": "chaitrika1103-crypto/Advanced-RAG-and-Vector-Databases-Python",
+    "language": "Python",
+    "name": "chaitrika1103-crypto/Advanced-RAG-and-Vector-Databases-Python",
     "stars": 0,
-    "updated_at": "2026-06-14T17:43:12Z",
-    "url": "https://github.com/ejber-ozkan/local-llm-photo-scanner"
+    "updated_at": "2026-06-14T17:59:50Z",
+    "url": "https://github.com/chaitrika1103-crypto/Advanced-RAG-and-Vector-Databases-Python"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:58:29Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
+    "id": "tanaos/cognitor-worker",
+    "language": "Python",
+    "name": "tanaos/cognitor-worker",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:56:23Z",
+    "url": "https://github.com/tanaos/cognitor-worker"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "bas-in/basin",
+    "language": "Rust",
+    "name": "bas-in/basin",
+    "stars": 4,
+    "updated_at": "2026-06-14T17:55:57Z",
+    "url": "https://github.com/bas-in/basin"
+  },
+  {
+    "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
+    "id": "avishek0769/DocChat",
+    "language": "TypeScript",
+    "name": "avishek0769/DocChat",
+    "stars": 16,
+    "updated_at": "2026-06-14T17:53:43Z",
+    "url": "https://github.com/avishek0769/DocChat"
   },
   {
     "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
@@ -14,8 +59,53 @@
     "language": "JavaScript",
     "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
     "stars": 1,
-    "updated_at": "2026-06-14T17:40:14Z",
+    "updated_at": "2026-06-14T17:53:23Z",
     "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "man4ish/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "man4ish/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:51:46Z",
+    "url": "https://github.com/man4ish/omnibioai-dev-hub"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "ysys143/pg_cuvs",
+    "language": "C",
+    "name": "ysys143/pg_cuvs",
+    "stars": 2,
+    "updated_at": "2026-06-14T17:51:21Z",
+    "url": "https://github.com/ysys143/pg_cuvs"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 2,
+    "updated_at": "2026-06-14T17:57:59Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A privacy-first, self-hosted photo manager powered by local LLMs (Ollama) and DeepFace. Scan your local images, generate",
+    "id": "ejber-ozkan/local-llm-photo-scanner",
+    "language": "TypeScript",
+    "name": "ejber-ozkan/local-llm-photo-scanner",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:12Z",
+    "url": "https://github.com/ejber-ozkan/local-llm-photo-scanner"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
@@ -27,49 +117,13 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:34:53Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
     "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
     "id": "sochdb/sochdb-python-sdk",
     "language": "Python",
     "name": "sochdb/sochdb-python-sdk",
     "stars": 2,
-    "updated_at": "2026-06-14T17:33:33Z",
+    "updated_at": "2026-06-14T17:47:27Z",
     "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:29:31Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
   },
   {
     "description": "Open source, all-in-one semantic search engine for AI and humans",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9341,
-    "updated_at": "2026-06-14T17:40:52Z",
+    "updated_at": "2026-06-14T17:56:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T16:47:20Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:46:41Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:45:39Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-14T16:44:38Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44774,
-    "updated_at": "2026-06-14T16:44:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-14T16:44:02Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-14T16:43:01Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
