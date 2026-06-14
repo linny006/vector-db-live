@@ -1,5 +1,68 @@
 [
   {
+    "description": "A privacy-first, self-hosted photo manager powered by local LLMs (Ollama) and DeepFace. Scan your local images, generate",
+    "id": "ejber-ozkan/local-llm-photo-scanner",
+    "language": "TypeScript",
+    "name": "ejber-ozkan/local-llm-photo-scanner",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:43:12Z",
+    "url": "https://github.com/ejber-ozkan/local-llm-photo-scanner"
+  },
+  {
+    "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
+    "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
+    "language": "JavaScript",
+    "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:40:14Z",
+    "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 360,
+    "updated_at": "2026-06-14T17:37:57Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:34:53Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
+    "id": "sochdb/sochdb-python-sdk",
+    "language": "Python",
+    "name": "sochdb/sochdb-python-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-14T17:33:33Z",
+    "url": "https://github.com/sochdb/sochdb-python-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
     "id": "tanaos/cognitor-worker",
     "language": "Python",
@@ -18,21 +81,12 @@
     "url": "https://github.com/tanaos/cognitor"
   },
   {
-    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
-    "id": "sochdb/sochdb-python-sdk",
-    "language": "Python",
-    "name": "sochdb/sochdb-python-sdk",
-    "stars": 2,
-    "updated_at": "2026-06-14T17:27:44Z",
-    "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-14T17:27:05Z",
+    "updated_at": "2026-06-14T17:43:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "sochdb/sochdb",
     "stars": 31,
-    "updated_at": "2026-06-14T17:19:51Z",
+    "updated_at": "2026-06-14T17:44:27Z",
     "url": "https://github.com/sochdb/sochdb"
   },
   {
@@ -90,22 +144,13 @@
     "url": "https://github.com/badhope/DATA-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9341,
+    "updated_at": "2026-06-14T17:40:52Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T17:06:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:05:04Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-14T16:43:01Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Islamic AI companion with knowledge graph and Qdrant vector search",
-    "id": "mhmalvi/elma",
-    "language": "TypeScript",
-    "name": "mhmalvi/elma",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:42:39Z",
-    "url": "https://github.com/mhmalvi/elma"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:41:39Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17826,
-    "updated_at": "2026-06-14T16:41:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:40:46Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
