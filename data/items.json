@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-14T10:15:18Z",
+    "updated_at": "2026-06-14T10:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:25:03Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-06-14T10:24:37Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-14T10:27:36Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T10:00:30Z",
     "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T09:45:30Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi",
-    "id": "mad011408/IndexCache",
-    "language": "\u2014",
-    "name": "mad011408/IndexCache",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:45:26Z",
-    "url": "https://github.com/mad011408/IndexCache"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:44:58Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:44:28Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
