@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 16:45 UTC
+> ⏰ Last updated: 2026-06-14 16:55 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shiyao222333-afk/athanor](https://github.com/shiyao222333-afk/athanor) | 0 | Python | 2026-06-14 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
-| 2 | [roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant) | 1 | Python | 2026-06-14 | Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation |
-| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44774 | Go | 2026-06-14 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 4 | [lannyfervent952/fastapi-agent-blueprint](https://github.com/lannyfervent952/fastapi-agent-blueprint) | 1 | Python | 2026-06-14 | Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture |
-| 5 | [Bogeymanlicitness496/mcp-memento](https://github.com/Bogeymanlicitness496/mcp-memento) | 4 | Python | 2026-06-14 | Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr |
-| 6 | [mhmalvi/elma](https://github.com/mhmalvi/elma) | 0 | TypeScript | 2026-06-14 | Islamic AI companion with knowledge graph and Qdrant vector search |
-| 7 | [Bielrezende/WMB-100K](https://github.com/Bielrezende/WMB-100K) | 0 | — | 2026-06-14 | Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17825 | Python | 2026-06-14 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 9 | [okeidontlike/Awareness-Local](https://github.com/okeidontlike/Awareness-Local) | 2 | JavaScript | 2026-06-14 | Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline. |
-| 10 | [ahmahmahm/pdf-rag-assistant](https://github.com/ahmahmahm/pdf-rag-assistant) | 0 | — | 2026-06-14 | Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes |
-| 11 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-14 | Automatically chunk, embed and index a folder into a Cognitor collection |
-| 12 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-14 | a lightweight experimental database written in modern C++ |
-| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-14 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
-| 14 | [whiteoakredguard557/llmfs](https://github.com/whiteoakredguard557/llmfs) | 1 | Python | 2026-06-14 | Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token  |
-| 15 | [User75621/memory-mcp](https://github.com/User75621/memory-mcp) | 2 | Python | 2026-06-14 | Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks |
-| 16 | [elkalowkey885/gemini-embedding-2-mcp-server](https://github.com/elkalowkey885/gemini-embedding-2-mcp-server) | 2 | Python | 2026-06-14 | Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi |
-| 17 | [Lokesh-DataScience/Data-Analyst-Expert-Bot](https://github.com/Lokesh-DataScience/Data-Analyst-Expert-Bot) | 0 | Python | 2026-06-14 | A chatbot who is expert in Data Analyst Domain. |
-| 18 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 2 | — | 2026-06-14 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
-| 19 | [tanaos/cognitor](https://github.com/tanaos/cognitor) | 11 | Python | 2026-06-14 | Open source, all-in-one semantic search engine for AI and humans |
-| 20 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 3 | Python | 2026-06-14 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
-| 21 | [Uncomfortable-filagree112/OpenViking](https://github.com/Uncomfortable-filagree112/OpenViking) | 0 | — | 2026-06-14 | Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks. |
-| 22 | [Ekaterinaacid284/memory-lancedb-pro-skill](https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill) | 0 | — | 2026-06-14 | Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory  |
-| 23 | [mad011408/IndexCache](https://github.com/mad011408/IndexCache) | 0 | — | 2026-06-14 | Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi |
-| 24 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-06-14 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
-| 25 | [decided-indication109/AI-Engineer-in-90-Days](https://github.com/decided-indication109/AI-Engineer-in-90-Days) | 1 | Mermaid | 2026-06-14 | Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI  |
-| 26 | [Boney-massiveness357/ragscope](https://github.com/Boney-massiveness357/ragscope) | 0 | Python | 2026-06-14 | Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua |
-| 27 | [staffardinsoluble415/ai-context-master](https://github.com/staffardinsoluble415/ai-context-master) | 1 | JavaScript | 2026-06-14 | Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag |
-| 28 | [nobijoy/memcore-rs](https://github.com/nobijoy/memcore-rs) | 0 | Rust | 2026-06-14 | High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction,  |
-| 29 | [eastythenob8-svg/graph-memory](https://github.com/eastythenob8-svg/graph-memory) | 1 | TypeScript | 2026-06-14 | Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses |
-| 30 | [conceited-watergillyflower311/meilisearch-desktop](https://github.com/conceited-watergillyflower311/meilisearch-desktop) | 1 | TypeScript | 2026-06-14 | Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat |
-| 31 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-06-14 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
-| 32 | [Dyinu/rag-forge](https://github.com/Dyinu/rag-forge) | 1 | Python | 2026-06-14 | Benchmark multiple chunking, embedding, and retrieval combinations for RAG pipelines to find the most effective setup wi |
-| 33 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 34 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 35 | [Kelvin-genya/indexer](https://github.com/Kelvin-genya/indexer) | 1 | TypeScript | 2026-06-14 | Submit URLs in bulk to Google Indexing API and IndexNow with auto key rotation, quota tracking, retry logic, and a real- |
-| 36 | [younismahmoud1234/gitsage](https://github.com/younismahmoud1234/gitsage) | 1 | Java | 2026-06-14 | Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas |
-| 37 | [venkata-murari-sunkara/research-paper-reasoning-assistant](https://github.com/venkata-murari-sunkara/research-paper-reasoning-assistant) | 1 | Python | 2026-06-14 | Research Paper RAG Assistant built with FastAPI, LlamaIndex, ChromaDB, OpenAI and Streamlit. |
-| 38 | [Gfake-tech/python-langgraph-chatbot](https://github.com/Gfake-tech/python-langgraph-chatbot) | 1 | Python | 2026-06-14 | Build AI chatbots that analyze PDFs, answer questions, and visualize LangGraph workflows using Azure OpenAI and Gradio. |
-| 39 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-14 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 40 | [thameema/memnos](https://github.com/thameema/memnos) | 1 | Python | 2026-06-14 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 41 | [Snow17s/spank](https://github.com/Snow17s/spank) | 2 | Go | 2026-06-14 | Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary. |
-| 42 | [alunoshacker-beep/ragscope](https://github.com/alunoshacker-beep/ragscope) | 0 | Python | 2026-06-14 | Build an offline Q&A API using RAG to query PDFs and texts, with automated MLflow tracking of performance and quality me |
-| 43 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-14 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 44 | [FIRE-hub911/citation-assistant](https://github.com/FIRE-hub911/citation-assistant) | 2 | Shell | 2026-06-14 | Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem |
-| 45 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 7 | Shell | 2026-06-14 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
-| 46 | [schmitech/orbit](https://github.com/schmitech/orbit) | 280 | Python | 2026-06-14 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
-| 47 | [K3Tamaa/Vector-Forge](https://github.com/K3Tamaa/Vector-Forge) | 0 | — | 2026-06-14 | Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm |
-| 48 | [iqiipo-dev/PS-HK19_MindForge_MindForge](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge) | 2 | JavaScript | 2026-06-14 | Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff |
-| 49 | [a258huit58/claude-memory](https://github.com/a258huit58/claude-memory) | 1 | JavaScript | 2026-06-14 | Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ |
-| 50 | [leo2007960216/deeprecall](https://github.com/leo2007960216/deeprecall) | 2 | Python | 2026-06-14 | 🔍 Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor |
+| 1 | [jefffergunson118-beep/smara](https://github.com/jefffergunson118-beep/smara) | 1 | — | 2026-06-14 | Sync persistent memory across your AI tools and agents using a unified MCP server. |
+| 2 | [sarcosomebankcheck694/coordinode](https://github.com/sarcosomebankcheck694/coordinode) | 0 | Rust | 2026-06-14 | Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC |
+| 3 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-06-14 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
+| 4 | [Rippledirham767/LongParser](https://github.com/Rippledirham767/LongParser) | 0 | Python | 2026-06-14 | Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review |
+| 5 | [viviannenitrogenous100/mentedb](https://github.com/viviannenitrogenous100/mentedb) | 0 | — | 2026-06-14 | Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval |
+| 6 | [cornelablastular720/dbdb-index](https://github.com/cornelablastular720/dbdb-index) | 1 | Go | 2026-06-14 | Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research |
+| 7 | [Twentyeight-lawnchair711/AlayaRenderer](https://github.com/Twentyeight-lawnchair711/AlayaRenderer) | 0 | — | 2026-06-14 | Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing |
+| 8 | [raymondmdzz123/agent-memory](https://github.com/raymondmdzz123/agent-memory) | 1 | TypeScript | 2026-06-14 | Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc |
+| 9 | [Lokesh-DataScience/Data-Analyst-Expert-Bot](https://github.com/Lokesh-DataScience/Data-Analyst-Expert-Bot) | 0 | Python | 2026-06-14 | A chatbot who is expert in Data Analyst Domain. |
+| 10 | [Keeterete513/llm-model-search-recommendation](https://github.com/Keeterete513/llm-model-search-recommendation) | 0 | Python | 2026-06-14 | Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation |
+| 11 | [Brakepedallap630/openmemory](https://github.com/Brakepedallap630/openmemory) | 0 | Shell | 2026-06-14 | Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te |
+| 12 | [Ac3v3d0/semafold](https://github.com/Ac3v3d0/semafold) | 3 | Python | 2026-06-14 | Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w |
+| 13 | [Synchronic-leafbud824/skill-vault](https://github.com/Synchronic-leafbud824/skill-vault) | 1 | — | 2026-06-14 | Organize, secure, and find Claude Code skills in one vault for easy reuse |
+| 14 | [Genusophiophagussqueezeplay359/ragpipe](https://github.com/Genusophiophagussqueezeplay359/ragpipe) | 0 | Python | 2026-06-14 | Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon |
+| 15 | [nobijoy/memcore-rs](https://github.com/nobijoy/memcore-rs) | 0 | Rust | 2026-06-14 | High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction,  |
+| 16 | [aziz5971/TalentLens](https://github.com/aziz5971/TalentLens) | 2 | Python | 2026-06-14 | Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter |
+| 17 | [Deafened-vascularstructure846/pageindex-rag](https://github.com/Deafened-vascularstructure846/pageindex-rag) | 2 | Python | 2026-06-14 | Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store |
+| 18 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 19 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 20 | [shiyao222333-afk/athanor](https://github.com/shiyao222333-afk/athanor) | 0 | Python | 2026-06-14 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
+| 21 | [roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant) | 1 | Python | 2026-06-14 | Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation |
+| 22 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44774 | Go | 2026-06-14 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 23 | [lannyfervent952/fastapi-agent-blueprint](https://github.com/lannyfervent952/fastapi-agent-blueprint) | 1 | Python | 2026-06-14 | Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture |
+| 24 | [Bogeymanlicitness496/mcp-memento](https://github.com/Bogeymanlicitness496/mcp-memento) | 4 | Python | 2026-06-14 | Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr |
+| 25 | [mhmalvi/elma](https://github.com/mhmalvi/elma) | 0 | TypeScript | 2026-06-14 | Islamic AI companion with knowledge graph and Qdrant vector search |
+| 26 | [Bielrezende/WMB-100K](https://github.com/Bielrezende/WMB-100K) | 0 | — | 2026-06-14 | Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios |
+| 27 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17825 | Python | 2026-06-14 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 28 | [okeidontlike/Awareness-Local](https://github.com/okeidontlike/Awareness-Local) | 2 | JavaScript | 2026-06-14 | Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline. |
+| 29 | [ahmahmahm/pdf-rag-assistant](https://github.com/ahmahmahm/pdf-rag-assistant) | 0 | — | 2026-06-14 | Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes |
+| 30 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-14 | Automatically chunk, embed and index a folder into a Cognitor collection |
+| 31 | [Icingworld/litedb](https://github.com/Icingworld/litedb) | 0 | C++ | 2026-06-14 | a lightweight experimental database written in modern C++ |
+| 32 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-14 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
+| 33 | [whiteoakredguard557/llmfs](https://github.com/whiteoakredguard557/llmfs) | 1 | Python | 2026-06-14 | Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token  |
+| 34 | [User75621/memory-mcp](https://github.com/User75621/memory-mcp) | 2 | Python | 2026-06-14 | Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks |
+| 35 | [elkalowkey885/gemini-embedding-2-mcp-server](https://github.com/elkalowkey885/gemini-embedding-2-mcp-server) | 2 | Python | 2026-06-14 | Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi |
+| 36 | [pencaudal526/system-design-bible](https://github.com/pencaudal526/system-design-bible) | 2 | — | 2026-06-14 | Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer |
+| 37 | [tanaos/cognitor](https://github.com/tanaos/cognitor) | 11 | Python | 2026-06-14 | Open source, all-in-one semantic search engine for AI and humans |
+| 38 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 3 | Python | 2026-06-14 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
+| 39 | [Uncomfortable-filagree112/OpenViking](https://github.com/Uncomfortable-filagree112/OpenViking) | 0 | — | 2026-06-14 | Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks. |
+| 40 | [Ekaterinaacid284/memory-lancedb-pro-skill](https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill) | 0 | — | 2026-06-14 | Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory  |
+| 41 | [mad011408/IndexCache](https://github.com/mad011408/IndexCache) | 0 | — | 2026-06-14 | Accelerate DeepSeek Sparse Attention models by reusing cross-layer indexes to cut computations and speed up inference wi |
+| 42 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-06-14 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
+| 43 | [decided-indication109/AI-Engineer-in-90-Days](https://github.com/decided-indication109/AI-Engineer-in-90-Days) | 1 | Mermaid | 2026-06-14 | Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI  |
+| 44 | [Boney-massiveness357/ragscope](https://github.com/Boney-massiveness357/ragscope) | 0 | Python | 2026-06-14 | Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua |
+| 45 | [staffardinsoluble415/ai-context-master](https://github.com/staffardinsoluble415/ai-context-master) | 1 | JavaScript | 2026-06-14 | Enable AI agents to retain context, access accurate API docs, and manage conversations with a universal memory and subag |
+| 46 | [eastythenob8-svg/graph-memory](https://github.com/eastythenob8-svg/graph-memory) | 1 | TypeScript | 2026-06-14 | Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses |
+| 47 | [conceited-watergillyflower311/meilisearch-desktop](https://github.com/conceited-watergillyflower311/meilisearch-desktop) | 1 | TypeScript | 2026-06-14 | Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat |
+| 48 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-06-14 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
+| 49 | [Dyinu/rag-forge](https://github.com/Dyinu/rag-forge) | 1 | Python | 2026-06-14 | Benchmark multiple chunking, embedding, and retrieval combinations for RAG pipelines to find the most effective setup wi |
+| 50 | [Kelvin-genya/indexer](https://github.com/Kelvin-genya/indexer) | 1 | TypeScript | 2026-06-14 | Submit URLs in bulk to Google Indexing API and IndexNow with auto key rotation, quota tracking, retry logic, and a real- |
 <!-- TRACKER_TABLE_END -->
 
 ---
