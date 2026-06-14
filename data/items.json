@@ -1,5 +1,113 @@
 [
   {
+    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
+    "id": "tanaos/cognitor-worker",
+    "language": "Python",
+    "name": "tanaos/cognitor-worker",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:29:31Z",
+    "url": "https://github.com/tanaos/cognitor-worker"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-14T17:29:08Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
+    "id": "sochdb/sochdb-python-sdk",
+    "language": "Python",
+    "name": "sochdb/sochdb-python-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-14T17:27:44Z",
+    "url": "https://github.com/sochdb/sochdb-python-sdk"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 66,
+    "updated_at": "2026-06-14T17:27:05Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:23:40Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "An hobby project to construct a fully functioning vector database from scratch using first principles. Built to be fast.",
+    "id": "PranavBhatP/velox-db",
+    "language": "TypeScript",
+    "name": "PranavBhatP/velox-db",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:20:12Z",
+    "url": "https://github.com/PranavBhatP/velox-db"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 31,
+    "updated_at": "2026-06-14T17:19:51Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
+    "id": "MRupam202005/rag-codebase-explainer",
+    "language": "JavaScript",
+    "name": "MRupam202005/rag-codebase-explainer",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:19:05Z",
+    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 280,
+    "updated_at": "2026-06-14T17:18:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Self-hosted AI agent for enterprise data \u2014 financial, internal knowledge, the important stuff. Knowledge bases, workflow",
+    "id": "badhope/DATA-AI",
+    "language": "TypeScript",
+    "name": "badhope/DATA-AI",
+    "stars": 21,
+    "updated_at": "2026-06-14T17:29:13Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -27,15 +135,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-14T17:04:10Z",
-    "url": "https://github.com/tanaos/cognitor"
-  },
-  {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
     "id": "fik93673/QueryMind-SQL",
     "language": "TypeScript",
@@ -43,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T17:03:43Z",
     "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:03:43Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
   },
   {
     "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
@@ -72,15 +162,6 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
     "id": "Monkish-jewishryebread665/NodeMind",
     "language": "HTML",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:00:25Z",
     "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -364,7 +436,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17825,
+    "stars": 17826,
     "updated_at": "2026-06-14T16:41:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T16:40:46Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:40:23Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "a lightweight experimental database written in modern C++",
-    "id": "Icingworld/litedb",
-    "language": "C++",
-    "name": "Icingworld/litedb",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:38:46Z",
-    "url": "https://github.com/Icingworld/litedb"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 66,
-    "updated_at": "2026-06-14T17:01:44Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-14T16:38:10Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:38:04Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:37:49Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-14T16:36:04Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-14T16:34:03Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
