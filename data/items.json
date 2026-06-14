@@ -1,11 +1,74 @@
 [
   {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-14T10:59:03Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "Chatbot developed during Tata Steel Summer Internship, uses live IoT Telemetry data for various machines and allows user",
+    "id": "sayan-academic/tata-telemetry-chatbot",
+    "language": "Python",
+    "name": "sayan-academic/tata-telemetry-chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:57:27Z",
+    "url": "https://github.com/sayan-academic/tata-telemetry-chatbot"
+  },
+  {
+    "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
+    "id": "Nav33dCodes/smartLearn-AI",
+    "language": "JavaScript",
+    "name": "Nav33dCodes/smartLearn-AI",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:56:27Z",
+    "url": "https://github.com/Nav33dCodes/smartLearn-AI"
+  },
+  {
+    "description": " Autonomous log investigation engine, ingest logs into pgvector, run hybrid search, and let an LLM ReAct loop surface ro",
+    "id": "VarunGitGood/repi",
+    "language": "Python",
+    "name": "VarunGitGood/repi",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:53:52Z",
+    "url": "https://github.com/VarunGitGood/repi"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:53:50Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Local-first AI second brain: multi-agent RAG over your Markdown notes, visualized as a 3D knowledge galaxy.",
+    "id": "BeastOfShadow/Cosmind",
+    "language": "Python",
+    "name": "BeastOfShadow/Cosmind",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:50:25Z",
+    "url": "https://github.com/BeastOfShadow/Cosmind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-14T10:45:18Z",
+    "updated_at": "2026-06-14T11:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,17 +95,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 5,
-    "updated_at": "2026-06-14T10:41:03Z",
+    "updated_at": "2026-06-14T10:46:59Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -52,15 +106,6 @@
     "stars": 17819,
     "updated_at": "2026-06-14T10:26:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:25:03Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
     "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
@@ -77,7 +122,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-14T10:27:36Z",
+    "updated_at": "2026-06-14T10:47:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T10:08:08Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
-    "id": "Nav33dCodes/smartLearn-AI",
-    "language": "JavaScript",
-    "name": "Nav33dCodes/smartLearn-AI",
-    "stars": 1,
-    "updated_at": "2026-06-14T10:06:09Z",
-    "url": "https://github.com/Nav33dCodes/smartLearn-AI"
   },
   {
     "description": "Discover exposed AI infrastructure including LLMs, agents, and ML pipelines using curated OSINT dorks, queries, and reco",
@@ -360,15 +396,6 @@
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   },
   {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-14T09:53:08Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
     "description": "AST-aware code chunker with surgical re-indexing - parse Python, JS & TS into semantic chunks and only re-embed what act",
     "id": "Darsh-Nandu/ast-surgeon",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T09:49:29Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-14T09:49:18Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-14T09:47:44Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
-  },
-  {
-    "description": "An advanced AI-powered meeting analytics & collaboration hub. Orchestrates transcription, smart summary extraction, and ",
-    "id": "syedbaqar25/SyncMind-Ai",
-    "language": "JavaScript",
-    "name": "syedbaqar25/SyncMind-Ai",
-    "stars": 2,
-    "updated_at": "2026-06-14T09:47:11Z",
-    "url": "https://github.com/syedbaqar25/SyncMind-Ai"
   }
 ]
