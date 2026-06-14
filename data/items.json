@@ -1,5 +1,50 @@
 [
   {
+    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
+    "id": "Aaryav1130/rag-chatbot",
+    "language": "Python",
+    "name": "Aaryav1130/rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:15:20Z",
+    "url": "https://github.com/Aaryav1130/rag-chatbot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T18:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
+    "id": "Nav33dCodes/smartLearn-AI",
+    "language": "JavaScript",
+    "name": "Nav33dCodes/smartLearn-AI",
+    "stars": 1,
+    "updated_at": "2026-06-14T18:14:35Z",
+    "url": "https://github.com/Nav33dCodes/smartLearn-AI"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:14:24Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:13:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "bas-in/basin",
     "language": "Rust",
@@ -7,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-06-14T18:12:39Z",
     "url": "https://github.com/bas-in/basin"
-  },
-  {
-    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
-    "id": "Aaryav1130/rag-chatbot",
-    "language": "Makefile",
-    "name": "Aaryav1130/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-14T18:12:22Z",
-    "url": "https://github.com/Aaryav1130/rag-chatbot"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -28,12 +64,12 @@
   },
   {
     "description": "RAG-powered e-commerce customer support assistant using ChromaDB, BGE embeddings, and Groq-hosted Llama 3.3 for grounded",
-    "id": "yashumishra11-dot/shopping-kart-",
+    "id": "yashumishra11-dot/shopkart-rag--customer--support",
     "language": "Python",
-    "name": "yashumishra11-dot/shopping-kart-",
+    "name": "yashumishra11-dot/shopkart-rag--customer--support",
     "stars": 0,
     "updated_at": "2026-06-14T18:10:52Z",
-    "url": "https://github.com/yashumishra11-dot/shopping-kart-"
+    "url": "https://github.com/yashumishra11-dot/shopkart-rag--customer--support"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -88,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-14T18:00:29Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T18:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T18:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -194,7 +212,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-06-14T17:23:40Z",
+    "updated_at": "2026-06-14T18:13:50Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T16:51:07Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "A chatbot who is expert in Data Analyst Domain.",
-    "id": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
-    "language": "Python",
-    "name": "Lokesh-DataScience/Data-Analyst-Expert-Bot",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:50:00Z",
-    "url": "https://github.com/Lokesh-DataScience/Data-Analyst-Expert-Bot"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:49:54Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
   }
 ]
