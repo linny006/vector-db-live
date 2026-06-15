@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-15T23:30:25Z",
+    "updated_at": "2026-06-15T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:44:06Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "SurrealDB APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:42:31Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-15T23:45:20Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, and PII masking + l",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:35:11Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:32:15Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 365,
+    "updated_at": "2026-06-15T23:32:14Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T23:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-06-15T23:27:20Z",
+    "updated_at": "2026-06-15T23:32:49Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -261,15 +324,6 @@
     "url": "https://github.com/Ac3v3d0/semafold"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -360,15 +414,6 @@
     "url": "https://github.com/Bielrezende/WMB-100K"
   },
   {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, tamper-evident audit ledger, PII masking & lineage built into e",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:09:44Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
     "description": "Vector search engine with end-to-end embedding and reranking.",
     "id": "api-evangelist/marqo",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:08:46Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:07:17Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:06:51Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:06:48Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-15T23:06:38Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 365,
-    "updated_at": "2026-06-15T23:05:23Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
