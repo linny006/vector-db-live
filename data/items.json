@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-15T00:15:20Z",
+    "updated_at": "2026-06-15T00:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vex - Vector Exchange - Built by Vektor Memory - A Cross-standard Vector memory DB migration tool - Open Source",
+    "id": "Vektor-Memory/Vex",
+    "language": "JavaScript",
+    "name": "Vektor-Memory/Vex",
+    "stars": 5,
+    "updated_at": "2026-06-15T00:30:17Z",
+    "url": "https://github.com/Vektor-Memory/Vex"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -14,8 +23,53 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 20,
-    "updated_at": "2026-06-15T00:14:05Z",
+    "updated_at": "2026-06-15T00:30:06Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 32,
+    "updated_at": "2026-06-15T00:27:37Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:23:07Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Production-grade RAG chatbot using LangChain, Groq LLaMA, Gemini embeddings,  and ChromaDB \u2014 with Phase 2 observability ",
+    "id": "haswanth13901/RAG-chatbot-LangChain-observability",
+    "language": "Python",
+    "name": "haswanth13901/RAG-chatbot-LangChain-observability",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:22:32Z",
+    "url": "https://github.com/haswanth13901/RAG-chatbot-LangChain-observability"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-15T00:16:47Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -45,15 +99,6 @@
     "url": "https://github.com/api-evangelist/milvus"
   },
   {
-    "description": "Production-grade RAG chatbot using LangChain, Groq LLaMA, Gemini embeddings,  and ChromaDB \u2014 with Phase 2 observability ",
-    "id": "haswanth13901/RAG-chatbot-LangChain-observability",
-    "language": "Python",
-    "name": "haswanth13901/RAG-chatbot-LangChain-observability",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:07:27Z",
-    "url": "https://github.com/haswanth13901/RAG-chatbot-LangChain-observability"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T00:05:58Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -252,15 +288,6 @@
     "url": "https://github.com/cornelablastular720/dbdb-index"
   },
   {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 32,
-    "updated_at": "2026-06-14T23:40:18Z",
-    "url": "https://github.com/sochdb/sochdb"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T23:28:30Z",
     "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "A high-performance, low-cost vector database that can run either embedded inside your Python process or as a standalone ",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-14T23:27:06Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "bas-in/basin",
-    "language": "Rust",
-    "name": "bas-in/basin",
-    "stars": 4,
-    "updated_at": "2026-06-14T23:26:48Z",
-    "url": "https://github.com/bas-in/basin"
-  },
-  {
-    "description": "Learn system design for the AI era with clear patterns, diagrams, and production-ready guidance beyond the Primer",
-    "id": "pencaudal526/system-design-bible",
-    "language": "\u2014",
-    "name": "pencaudal526/system-design-bible",
-    "stars": 2,
-    "updated_at": "2026-06-14T23:26:48Z",
-    "url": "https://github.com/pencaudal526/system-design-bible"
   }
 ]
