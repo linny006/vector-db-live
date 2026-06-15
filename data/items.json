@@ -1,5 +1,68 @@
 [
   {
+    "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
+    "id": "Nav33dCodes/smartLearn-AI",
+    "language": "JavaScript",
+    "name": "Nav33dCodes/smartLearn-AI",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:12:57Z",
+    "url": "https://github.com/Nav33dCodes/smartLearn-AI"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:12:08Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Submit URLs in bulk to Google Indexing API and IndexNow with auto key rotation, quota tracking, retry logic, and a real-",
+    "id": "Kelvin-genya/indexer",
+    "language": "TypeScript",
+    "name": "Kelvin-genya/indexer",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:12:06Z",
+    "url": "https://github.com/Kelvin-genya/indexer"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:11:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:10:56Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T16:09:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Build AI chatbots that analyze PDFs, answer questions, and visualize LangGraph workflows using Azure OpenAI and Gradio.",
+    "id": "Gfake-tech/python-langgraph-chatbot",
+    "language": "Python",
+    "name": "Gfake-tech/python-langgraph-chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:08:36Z",
+    "url": "https://github.com/Gfake-tech/python-langgraph-chatbot"
+  },
+  {
     "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
     "id": "Snow17s/spank",
     "language": "Go",
@@ -90,15 +153,6 @@
     "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
   },
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 1,
-    "updated_at": "2026-06-15T16:00:54Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -106,15 +160,6 @@
     "stars": 12337,
     "updated_at": "2026-06-15T16:00:41Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T16:00:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -133,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-06-15T15:59:56Z",
     "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58108,
+    "updated_at": "2026-06-15T16:15:06Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -320,7 +374,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 20,
-    "updated_at": "2026-06-15T16:05:33Z",
+    "updated_at": "2026-06-15T16:11:12Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T15:49:10Z",
     "url": "https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58107,
-    "updated_at": "2026-06-15T15:59:17Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T15:41:31Z",
     "url": "https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:41:20Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 281,
-    "updated_at": "2026-06-15T15:41:13Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "\ud83d\udcb0 Enable autonomous cryptocurrency payments on Solana with LangChain ZendFi, ensuring security and fee management for AI",
-    "id": "CODINGIDK11/langchain-agent-pay",
-    "language": "Python",
-    "name": "CODINGIDK11/langchain-agent-pay",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:40:28Z",
-    "url": "https://github.com/CODINGIDK11/langchain-agent-pay"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and analyze biotech research, companies, and funding with our advanced machine learning platform for enhanced",
-    "id": "iamthegoatgojo1505/biotech-intel",
-    "language": "Python",
-    "name": "iamthegoatgojo1505/biotech-intel",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:40:13Z",
-    "url": "https://github.com/iamthegoatgojo1505/biotech-intel"
-  },
-  {
-    "description": "\ud83e\udde0 Elevate AI with ABMemory, a robust memory layer that offers adaptive storage, context-aware retrieval, and complete li",
-    "id": "adamsandler123/ABMemory",
-    "language": "Python",
-    "name": "adamsandler123/ABMemory",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:40:05Z",
-    "url": "https://github.com/adamsandler123/ABMemory"
   }
 ]
