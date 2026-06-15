@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-15T13:45:25Z",
+    "updated_at": "2026-06-15T14:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Voice-driven AI-powered personal portfolio (Next.js + FastAPI + RAG)",
+    "id": "RedwanRipon/redwan-portfolio",
+    "language": "TypeScript",
+    "name": "RedwanRipon/redwan-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:57:44Z",
+    "url": "https://github.com/RedwanRipon/redwan-portfolio"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 773,
+    "updated_at": "2026-06-15T13:56:05Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
+    "id": "Coriou/up-vector",
+    "language": "TypeScript",
+    "name": "Coriou/up-vector",
+    "stars": 1,
+    "updated_at": "2026-06-15T13:53:06Z",
+    "url": "https://github.com/Coriou/up-vector"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4409,
+    "updated_at": "2026-06-15T13:53:42Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Showcase repository for a production-grade AI agronomist chatbot built for Italian farmers \u2014 RAG + GPT-4o + WhatsApp (Tw",
+    "id": "js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public",
+    "language": "\u2014",
+    "name": "js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:45:56Z",
+    "url": "https://github.com/js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32313,
+    "updated_at": "2026-06-15T13:45:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
@@ -23,7 +86,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-15T13:40:02Z",
+    "updated_at": "2026-06-15T13:59:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-15T13:37:48Z",
+    "updated_at": "2026-06-15T13:57:44Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -40,7 +103,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10611,
+    "stars": 10613,
     "updated_at": "2026-06-15T13:37:06Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -54,15 +117,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:30:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-06-15T13:27:10Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Showcase repository for a production-grade AI agronomist chatbot built for Italian farmers \u2014 RAG + GPT-4o + WhatsApp (Tw",
-    "id": "js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public",
-    "language": "\u2014",
-    "name": "js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:25:28Z",
-    "url": "https://github.com/js-deepakgiduthuri/Agronomist-ChatBot-Whatsapp-IT-public"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -115,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-06-15T13:16:08Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Always-on cross-device hub for the claude-mem shared memory pool. HA Add-on serving Chroma + web UI + JSON API so every ",
+    "id": "Tomer-PRIM3/claude-mem-hub",
+    "language": "Python",
+    "name": "Tomer-PRIM3/claude-mem-hub",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:15:05Z",
+    "url": "https://github.com/Tomer-PRIM3/claude-mem-hub"
   },
   {
     "description": "The Kubernetes operator for K8ssandra",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6115,
-    "updated_at": "2026-06-15T13:02:47Z",
+    "updated_at": "2026-06-15T13:50:48Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
-    "id": "Coriou/up-vector",
-    "language": "TypeScript",
-    "name": "Coriou/up-vector",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:44:01Z",
-    "url": "https://github.com/Coriou/up-vector"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:41:36Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:41:24Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
-    "id": "Keeterete513/llm-model-search-recommendation",
-    "language": "Python",
-    "name": "Keeterete513/llm-model-search-recommendation",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:40:03Z",
-    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
-  },
-  {
-    "description": "Automate OpenMemory MCP server start and stop across Claude Code, OpenCode, Codex CLI, and Gemini CLI for shared long-te",
-    "id": "Brakepedallap630/openmemory",
-    "language": "Shell",
-    "name": "Brakepedallap630/openmemory",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:39:54Z",
-    "url": "https://github.com/Brakepedallap630/openmemory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-15T12:39:37Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:38:22Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
