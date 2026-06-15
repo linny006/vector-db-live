@@ -1,11 +1,263 @@
 [
   {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 2,
+    "updated_at": "2026-06-15T15:58:24Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:57:44Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83d\uddc2 Generate fast, language-aware code indexes with automatic test mapping and incremental updates for efficient agent wor",
+    "id": "Pango470/ARK-index",
+    "language": "TypeScript",
+    "name": "Pango470/ARK-index",
+    "stars": 2,
+    "updated_at": "2026-06-15T15:57:29Z",
+    "url": "https://github.com/Pango470/ARK-index"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 5,
+    "updated_at": "2026-06-15T15:57:24Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:56:02Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-06-15T15:55:58Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "\ud83d\udcda Define and enforce stable data contracts and decision records for integrating multi-repo knowledge pipelines with LLM ",
+    "id": "kami-beep/kb-contracts",
+    "language": "TypeScript",
+    "name": "kami-beep/kb-contracts",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:55:45Z",
+    "url": "https://github.com/kami-beep/kb-contracts"
+  },
+  {
+    "description": "\u26a1 Optimize vector searches with a hyper-efficient cache that uses machine learning for faster, smarter data access and r",
+    "id": "Ronakagrwal000/vector-cache-optimizer",
+    "language": "Python",
+    "name": "Ronakagrwal000/vector-cache-optimizer",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:53:27Z",
+    "url": "https://github.com/Ronakagrwal000/vector-cache-optimizer"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:53:25Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "",
+    "id": "V4ld3AI/egyptian-rag-translator",
+    "language": "Jupyter Notebook",
+    "name": "V4ld3AI/egyptian-rag-translator",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:53:01Z",
+    "url": "https://github.com/V4ld3AI/egyptian-rag-translator"
+  },
+  {
+    "description": "\ud83d\udcf7 Transform any camera into ROS2 image topics for seamless integration with robotic systems and effective VLA model depl",
+    "id": "santi1602/AnyCam2Ros",
+    "language": "Python",
+    "name": "santi1602/AnyCam2Ros",
+    "stars": 2,
+    "updated_at": "2026-06-15T15:52:33Z",
+    "url": "https://github.com/santi1602/AnyCam2Ros"
+  },
+  {
+    "description": "\ud83e\udde0 Build a simple, local memory system that learns and adapts without complexity or authentication, designed for Claude C",
+    "id": "Oculusnoob/vesper-memory",
+    "language": "TypeScript",
+    "name": "Oculusnoob/vesper-memory",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:51:44Z",
+    "url": "https://github.com/Oculusnoob/vesper-memory"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:51:30Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "\u265f\ufe0f Build an intelligent chess assistant that enhances gameplay with analysis and education, paving the way for future au",
+    "id": "Gen9oooooo/rag-assisted-chess-agent",
+    "language": "JavaScript",
+    "name": "Gen9oooooo/rag-assisted-chess-agent",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:51:13Z",
+    "url": "https://github.com/Gen9oooooo/rag-assisted-chess-agent"
+  },
+  {
+    "description": "\ud83d\uded2 Transform e-commerce with AI. Build interactive dashboards and smart search tools for real-time insights and data-driv",
+    "id": "0xmrninja197/ai-online-store",
+    "language": "TypeScript",
+    "name": "0xmrninja197/ai-online-store",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:50:51Z",
+    "url": "https://github.com/0xmrninja197/ai-online-store"
+  },
+  {
+    "description": "\ud83e\udeb6 Capture and explore digital consciousness with MemoryRaven, a powerful tool for memory architecture inspired by myth a",
+    "id": "OnlyinOhio234/MemoryRaven",
+    "language": "Python",
+    "name": "OnlyinOhio234/MemoryRaven",
+    "stars": 2,
+    "updated_at": "2026-06-15T15:50:45Z",
+    "url": "https://github.com/OnlyinOhio234/MemoryRaven"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6115,
+    "updated_at": "2026-06-15T15:59:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
+    "id": "os-tack/ostk-recall",
+    "language": "Rust",
+    "name": "os-tack/ostk-recall",
+    "stars": 3,
+    "updated_at": "2026-06-15T15:50:13Z",
+    "url": "https://github.com/os-tack/ostk-recall"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:49:54Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 20,
+    "updated_at": "2026-06-15T15:49:19Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "\ud83e\udd16 Automate SAP S/4HANA deployment on IBM Cloud PowerVS using Generative AI with RAG and LLM orchestration in OpenShift.",
+    "id": "GhOsTxChEaT/s4hana-ai-agent-openshift",
+    "language": "SCSS",
+    "name": "GhOsTxChEaT/s4hana-ai-agent-openshift",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:49:10Z",
+    "url": "https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58107,
+    "updated_at": "2026-06-15T15:59:17Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:47:33Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI memory with Memo, allowing your coding assistant to remember past conversations and share team knowledge ef",
+    "id": "Aurorasylvani/memo-brain",
+    "language": "Rust",
+    "name": "Aurorasylvani/memo-brain",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:46:32Z",
+    "url": "https://github.com/Aurorasylvani/memo-brain"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-06-15T15:45:42Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-15T16:00:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Match German resumes with job descriptions using a local RAG system for semantic search and ATS-style scoring, enhanci",
+    "id": "irullbarca/german-job-matcher-rag",
+    "language": "Python",
+    "name": "irullbarca/german-job-matcher-rag",
+    "stars": 0,
+    "updated_at": "2026-06-15T15:44:26Z",
+    "url": "https://github.com/irullbarca/german-job-matcher-rag"
+  },
+  {
     "description": "A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native ",
     "id": "marcominerva/SqlDatabaseVectorSearch",
     "language": "C#",
     "name": "marcominerva/SqlDatabaseVectorSearch",
     "stars": 142,
-    "updated_at": "2026-06-15T15:42:35Z",
+    "updated_at": "2026-06-15T15:58:44Z",
     "url": "https://github.com/marcominerva/SqlDatabaseVectorSearch"
   },
   {
@@ -14,7 +266,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10612,
-    "updated_at": "2026-06-15T15:42:03Z",
+    "updated_at": "2026-06-15T15:58:35Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -196,257 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-15T15:32:07Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83e\udd16 Automate workflows with the ultimate n8n stack, featuring integrated AI services, PostgreSQL, and Redis for efficient ",
-    "id": "daner-itz/jeffvato-ultimate-n8n-stack",
-    "language": "Shell",
-    "name": "daner-itz/jeffvato-ultimate-n8n-stack",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:31:52Z",
-    "url": "https://github.com/daner-itz/jeffvato-ultimate-n8n-stack"
-  },
-  {
-    "description": "\ud83d\ude80 Build memory and retrieval infrastructure for ReasonKit, enhancing data management and access for your applications wi",
-    "id": "Sachin5464/reasonkit-mem",
-    "language": "Rust",
-    "name": "Sachin5464/reasonkit-mem",
-    "stars": 3,
-    "updated_at": "2026-06-15T15:31:43Z",
-    "url": "https://github.com/Sachin5464/reasonkit-mem"
-  },
-  {
-    "description": "\ud83d\udcd8 Enable natural-language querying of PDFs with a local RAG system using Ollama, FAISS, and LangChain for accurate, grou",
-    "id": "killboy7/rag-pdf-qa",
-    "language": "Python",
-    "name": "killboy7/rag-pdf-qa",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:31:34Z",
-    "url": "https://github.com/killboy7/rag-pdf-qa"
-  },
-  {
-    "description": "SQL Server 2025 native vector search + AI_GENERATE_EMBEDDINGS over StackOverflow, exposed to AI agents via Data API buil",
-    "id": "nocentino/sql2025-ai-faststart",
-    "language": "TypeScript",
-    "name": "nocentino/sql2025-ai-faststart",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:31:22Z",
-    "url": "https://github.com/nocentino/sql2025-ai-faststart"
-  },
-  {
-    "description": "\ud83d\udcda Index and search academic research papers with AI-powered Q&A and metadata extraction for comprehensive literature rev",
-    "id": "bobspw/thesis-rag",
-    "language": "Python",
-    "name": "bobspw/thesis-rag",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:31:06Z",
-    "url": "https://github.com/bobspw/thesis-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:30:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:30:36Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83c\udf3e Accelerate similarity search with GrainVDB, a native vector engine for macOS and Apple Silicon, leveraging Metal for h",
-    "id": "Rhodrix7771/grain-vdb",
-    "language": "Python",
-    "name": "Rhodrix7771/grain-vdb",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:30:15Z",
-    "url": "https://github.com/Rhodrix7771/grain-vdb"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-15T15:29:33Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and manage your team's knowledge effortlessly with Eywa, ensuring no valuable memory is ever lost.",
-    "id": "nans28/eywa",
-    "language": "Rust",
-    "name": "nans28/eywa",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:29:11Z",
-    "url": "https://github.com/nans28/eywa"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance code search with intelligent semantic indexing, empowering AI assistants to find relevant code quickly and acc",
-    "id": "ArnoldoSQ/smart-coding-mcp",
-    "language": "JavaScript",
-    "name": "ArnoldoSQ/smart-coding-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:28:54Z",
-    "url": "https://github.com/ArnoldoSQ/smart-coding-mcp"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance code search accuracy with Smart Coding MCP, an AI-driven server that uses intelligent embeddings for quick, re",
-    "id": "Moxnyyy/smart-coding-mcp",
-    "language": "HTML",
-    "name": "Moxnyyy/smart-coding-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:27:59Z",
-    "url": "https://github.com/Moxnyyy/smart-coding-mcp"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 773,
-    "updated_at": "2026-06-15T15:27:15Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-15T15:27:05Z",
-    "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
-    "id": "mowael07/Awesome-RAG-Production",
-    "language": "Python",
-    "name": "mowael07/Awesome-RAG-Production",
-    "stars": 3,
-    "updated_at": "2026-06-15T15:24:46Z",
-    "url": "https://github.com/mowael07/Awesome-RAG-Production"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:23:36Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:22:42Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83d\ude80 Build an enterprise-ready RAG system to enhance technical documentation querying with LangGraph and multi-step reasoni",
-    "id": "deepashreesiva/langgraph-rag-assistant",
-    "language": "Python",
-    "name": "deepashreesiva/langgraph-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:21:46Z",
-    "url": "https://github.com/deepashreesiva/langgraph-rag-assistant"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy a lightweight RAG demo using FastAPI, Chroma, and Ollama LLM for efficient AI-assisted information re",
-    "id": "Namanpaliyal/KardiaFlow",
-    "language": "HTML",
-    "name": "Namanpaliyal/KardiaFlow",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:20:29Z",
-    "url": "https://github.com/Namanpaliyal/KardiaFlow"
-  },
-  {
-    "description": "\ud83d\udcdd Preserve human memories and wisdom with Mnemosyne, a digital archive that safeguards our legacies in the age of AI.",
-    "id": "KayseanWasHereOnce/mnemosyneManohar",
-    "language": "JavaScript",
-    "name": "KayseanWasHereOnce/mnemosyneManohar",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:19:09Z",
-    "url": "https://github.com/KayseanWasHereOnce/mnemosyneManohar"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:16:49Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-06-15T15:16:38Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 74,
-    "updated_at": "2026-06-15T15:39:34Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:15:15Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:14:22Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:13:54Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/athanor",
-    "language": "Python",
-    "name": "shiyao222333-afk/athanor",
-    "stars": 0,
-    "updated_at": "2026-06-15T15:13:24Z",
-    "url": "https://github.com/shiyao222333-afk/athanor"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-06-15T15:13:23Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
