@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-15T00:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Vex - Vector Exchange - Built by Vektor Memory - A Cross-standard Vector memory DB migration tool - Open Source",
-    "id": "Vektor-Memory/Vex",
-    "language": "JavaScript",
-    "name": "Vektor-Memory/Vex",
-    "stars": 5,
-    "updated_at": "2026-06-15T00:30:17Z",
-    "url": "https://github.com/Vektor-Memory/Vex"
+    "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
+    "id": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "language": "TypeScript",
+    "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:44:58Z",
+    "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -23,8 +14,53 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 20,
-    "updated_at": "2026-06-15T00:30:06Z",
+    "updated_at": "2026-06-15T00:42:19Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "Production-grade RAG chatbot using LangChain, Groq LLaMA, Gemini embeddings,  and ChromaDB \u2014 with Phase 2 observability ",
+    "id": "haswanth13901/RAG-chatbot-LangChain-observability",
+    "language": "Python",
+    "name": "haswanth13901/RAG-chatbot-LangChain-observability",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:38:24Z",
+    "url": "https://github.com/haswanth13901/RAG-chatbot-LangChain-observability"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1846,
+    "updated_at": "2026-06-15T00:33:25Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Vex - Vector Exchange - Built by Vektor Memory - A Cross-standard Vector memory DB migration tool - Open Source",
+    "id": "Vektor-Memory/Vex",
+    "language": "JavaScript",
+    "name": "Vektor-Memory/Vex",
+    "stars": 5,
+    "updated_at": "2026-06-15T00:30:38Z",
+    "url": "https://github.com/Vektor-Memory/Vex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T00:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-15T00:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
@@ -45,31 +81,13 @@
     "url": "https://github.com/88plug/total-recall"
   },
   {
-    "description": "Production-grade RAG chatbot using LangChain, Groq LLaMA, Gemini embeddings,  and ChromaDB \u2014 with Phase 2 observability ",
-    "id": "haswanth13901/RAG-chatbot-LangChain-observability",
-    "language": "Python",
-    "name": "haswanth13901/RAG-chatbot-LangChain-observability",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:22:32Z",
-    "url": "https://github.com/haswanth13901/RAG-chatbot-LangChain-observability"
-  },
-  {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
     "id": "lopadova/AskMyDocs",
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-06-15T00:16:47Z",
+    "updated_at": "2026-06-15T00:41:31Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T23:28:33Z",
     "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-14T23:28:31Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-14T23:28:30Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
   }
 ]
