@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-15T06:45:21Z",
+    "updated_at": "2026-06-15T07:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A universal, content-addressed, versioned store: one interface that's a filesystem, a git-style version history, and a q",
+    "id": "uldrenai/uldren-loom",
+    "language": "JavaScript",
+    "name": "uldrenai/uldren-loom",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:58:10Z",
+    "url": "https://github.com/uldrenai/uldren-loom"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 452,
+    "updated_at": "2026-06-15T06:57:12Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4409,
+    "updated_at": "2026-06-15T06:57:49Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-15T06:51:34Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 19,
+    "updated_at": "2026-06-15T06:46:04Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -18,15 +72,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 452,
-    "updated_at": "2026-06-15T06:43:20Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -34,15 +79,6 @@
     "stars": 16325,
     "updated_at": "2026-06-15T06:37:57Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A universal, content-addressed, versioned store: one interface that's a filesystem, a git-style version history, and a q",
-    "id": "uldrenai/uldren-loom",
-    "language": "JavaScript",
-    "name": "uldrenai/uldren-loom",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:34:28Z",
-    "url": "https://github.com/uldrenai/uldren-loom"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG-based telecom customer care chatbot using LangChain, ChromaDB, and Qwen3-32B on Groq",
     "id": "adityalakhe/rag-telecom-chatbot",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T06:27:46Z",
     "url": "https://github.com/adityalakhe/rag-telecom-chatbot"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4409,
-    "updated_at": "2026-06-15T06:42:42Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "zilliztech/mfs",
     "stars": 2,
-    "updated_at": "2026-06-15T06:39:41Z",
+    "updated_at": "2026-06-15T06:54:06Z",
     "url": "https://github.com/zilliztech/mfs"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-15T05:58:53Z",
+    "updated_at": "2026-06-15T07:00:17Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-15T05:57:12Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-15T05:56:00Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-15T05:55:15Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
