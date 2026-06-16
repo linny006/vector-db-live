@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 10:31 UTC
+> ⏰ Last updated: 2026-06-16 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Pran-07hub/Youtube-Transcript-Rag-Chatbot](https://github.com/Pran-07hub/Youtube-Transcript-Rag-Chatbot) | 1 | Python | 2026-06-16 | A GenAI-powered YouTube chatbot that enables semantic question answering across YouTube video transcripts. The system re |
-| 2 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 0 | HTML | 2026-06-16 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [deyaditya34/Chatline---RAG-Powered-AI-Chatbot](https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot) | 0 | JavaScript | 2026-06-16 | Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in |
-| 6 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-06-16 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-16 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
-| 8 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-06-16 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
-| 9 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-06-16 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
-| 10 | [saurabhmain/a-mem-mcp-server](https://github.com/saurabhmain/a-mem-mcp-server) | 1 | Python | 2026-06-16 | 🧠 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and i |
-| 11 | [khnifee/RAG-Based-Knowledge-Assistant](https://github.com/khnifee/RAG-Based-Knowledge-Assistant) | 2 | Python | 2026-06-16 | 🔍 Build a modular RAG system for multi-turn conversations, document ingestion, and vector search using FastAPI and OpenA |
-| 12 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 10 | JavaScript | 2026-06-16 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
-| 13 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-06-16 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
-| 14 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-06-16 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
-| 15 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 211 | Python | 2026-06-16 | CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search. |
-| 16 | [TekilaSS/Educational-Vector-Database](https://github.com/TekilaSS/Educational-Vector-Database) | 0 | Python | 2026-06-16 | 📚 Learn to build and understand Vector Databases step-by-step in Arabic, gaining practical insights beyond existing solu |
-| 17 | [breninfps/memlayer](https://github.com/breninfps/memlayer) | 1 | Python | 2026-06-16 | 🧠 Enhance LLMs with Memlayer for intelligent, contextual memory and fast retrieval—streamline agents with just 3 lines o |
-| 18 | [kastiglia/raptor](https://github.com/kastiglia/raptor) | 1 | Rust | 2026-06-16 |  |
-| 19 | [Carricacha/local-rag-system](https://github.com/Carricacha/local-rag-system) | 3 | Python | 2026-06-16 | 🤖 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or dat |
-| 20 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9340 | Rust | 2026-06-16 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 21 | [Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval](https://github.com/Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval) | 0 | JavaScript | 2026-06-16 | 🎙️ Transform documents into a smart voice assistant that answers your questions naturally, delivering accurate insights  |
-| 22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17846 | Python | 2026-06-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 23 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-06-16 |  |
-| 24 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-06-16 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
-| 25 | [xLyleericson/OmniLearnAI](https://github.com/xLyleericson/OmniLearnAI) | 1 | Python | 2026-06-16 | 📚 Learn from diverse sources with OmniLearnAI, an intelligent platform that combines documents, videos, and more, all wi |
-| 26 | [boxcalfdevelopmentallearning748/OpenScout](https://github.com/boxcalfdevelopmentallearning748/OpenScout) | 1 | Python | 2026-06-16 | 🔍 Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe |
-| 27 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16334 | Go | 2026-06-16 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 28 | [helderm989/vectro](https://github.com/helderm989/vectro) | 3 | Mojo | 2026-06-16 | ⚡ Compress LLM embeddings efficiently with Vectro, achieving ultra-high performance and guaranteed quality for your mach |
-| 29 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-06-16 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
-| 30 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 2 | Python | 2026-06-16 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
-| 31 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 488 | Rust | 2026-06-16 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
-| 32 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 5 | Python | 2026-06-16 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 33 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 34 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1846 | Go | 2026-06-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 35 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-06-16 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
-| 36 | [Thianvelaz/Cognio](https://github.com/Thianvelaz/Cognio) | 3 | Python | 2026-06-16 | 🧠 Enhance AI conversations with Cognio, a persistent memory server that retains context and enables meaningful semantic  |
-| 37 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-06-16 |  |
-| 38 | [Efhbbhu/AI-BOOKING-AGENT](https://github.com/Efhbbhu/AI-BOOKING-AGENT) | 2 | Python | 2026-06-16 | 🗓️ Simplify booking with this AI service agent that processes queries, finds local options, and offers immediate slots a |
-| 39 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 40 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-16 | A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one searchable, b |
-| 41 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32365 | Rust | 2026-06-16 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 42 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6157 | C | 2026-06-16 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 43 | [lianyinging/flowgame_python](https://github.com/lianyinging/flowgame_python) | 1 | Python | 2026-06-16 | ⚡ FlowGame execution engine focused on business workflows. 专注于业务落地的工作流执行引擎，支持同步/流式试运行、Redis 流程存储、Qdrant 向量检索等场景。🐍 FastAP |
-| 44 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 5 | Python | 2026-06-16 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
-| 45 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 1 | C | 2026-06-16 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
-| 46 | [IgnazioDS/NexusRAG](https://github.com/IgnazioDS/NexusRAG) | 0 | Python | 2026-06-16 | Production-grade multi-tenant RAG platform with hybrid retrieval (pgvector + BM25 + reranking), streaming LangGraph agen |
-| 47 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-06-16 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
-| 48 | [roberto729a/OllamaRAG](https://github.com/roberto729a/OllamaRAG) | 6 | Python | 2026-06-16 | 🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo |
-| 49 | [18311-Claire-Xinjin/pdf-chat-app](https://github.com/18311-Claire-Xinjin/pdf-chat-app) | 1 | TypeScript | 2026-06-16 | 📄 Upload PDFs and chat with AI for instant insights, all through a sleek, user-friendly interface that works on any devi |
-| 50 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6959 | Java | 2026-06-16 | The AI search platform |
+| 1 | [kunashee/AnyToolCall](https://github.com/kunashee/AnyToolCall) | 2 | JavaScript | 2026-06-16 | 🛠️ Simplify tool calls for any LLM with AnyToolCall, an OpenAI-compatible middleware that bypasses native constraints th |
+| 2 | [Sachin5464/reasonkit-mem](https://github.com/Sachin5464/reasonkit-mem) | 3 | Rust | 2026-06-16 | 🚀 Build memory and retrieval infrastructure for ReasonKit, enhancing data management and access for your applications wi |
+| 3 | [cartoon1230/Telegram2txt](https://github.com/cartoon1230/Telegram2txt) | 1 | Python | 2026-06-16 | 📥 Backup your Telegram chat history and media in simple text format with this Python tool using the Telegram API. |
+| 4 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-06-16 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
+| 5 | [daner-itz/jeffvato-ultimate-n8n-stack](https://github.com/daner-itz/jeffvato-ultimate-n8n-stack) | 0 | Shell | 2026-06-16 | 🤖 Automate workflows with the ultimate n8n stack, featuring integrated AI services, PostgreSQL, and Redis for efficient  |
+| 6 | [killboy7/rag-pdf-qa](https://github.com/killboy7/rag-pdf-qa) | 0 | Python | 2026-06-16 | 📘 Enable natural-language querying of PDFs with a local RAG system using Ollama, FAISS, and LangChain for accurate, grou |
+| 7 | [bobspw/thesis-rag](https://github.com/bobspw/thesis-rag) | 1 | Python | 2026-06-16 | 📚 Index and search academic research papers with AI-powered Q&A and metadata extraction for comprehensive literature rev |
+| 8 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 211 | Python | 2026-06-16 | CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search. |
+| 9 | [regabbb22/Flipkart-Product-Recommender-RAG](https://github.com/regabbb22/Flipkart-Product-Recommender-RAG) | 3 | Python | 2026-06-16 | 🛒 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de |
+| 10 | [nans28/eywa](https://github.com/nans28/eywa) | 2 | Rust | 2026-06-16 | 🧠 Capture and manage your team's knowledge effortlessly with Eywa, ensuring no valuable memory is ever lost. |
+| 11 | [ArnoldoSQ/smart-coding-mcp](https://github.com/ArnoldoSQ/smart-coding-mcp) | 2 | JavaScript | 2026-06-16 | 🧠 Enhance code search with intelligent semantic indexing, empowering AI assistants to find relevant code quickly and acc |
+| 12 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32368 | Rust | 2026-06-16 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 13 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-06-16 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
+| 14 | [humanhady/DocMine](https://github.com/humanhady/DocMine) | 2 | Python | 2026-06-16 | 📄 Transform documents into queryable knowledge with exact recall and entity extraction for research insights. |
+| 15 | [KayseanWasHereOnce/mnemosyneManohar](https://github.com/KayseanWasHereOnce/mnemosyneManohar) | 0 | JavaScript | 2026-06-16 | 📝 Preserve human memories and wisdom with Mnemosyne, a digital archive that safeguards our legacies in the age of AI. |
+| 16 | [Pran-07hub/Youtube-Transcript-Rag-Chatbot](https://github.com/Pran-07hub/Youtube-Transcript-Rag-Chatbot) | 1 | Python | 2026-06-16 | A GenAI-powered YouTube chatbot that enables semantic question answering across YouTube video transcripts. The system re |
+| 17 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-06-16 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 18 | [Edublackk/self-correcting-rag-chatbot](https://github.com/Edublackk/self-correcting-rag-chatbot) | 3 | — | 2026-06-16 | 🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo |
+| 19 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 20 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 0 | HTML | 2026-06-16 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
+| 21 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 22 | [deyaditya34/Chatline---RAG-Powered-AI-Chatbot](https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot) | 0 | JavaScript | 2026-06-16 | Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in |
+| 23 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-06-16 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 24 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-16 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
+| 25 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-06-16 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
+| 26 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-06-16 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
+| 27 | [saurabhmain/a-mem-mcp-server](https://github.com/saurabhmain/a-mem-mcp-server) | 1 | Python | 2026-06-16 | 🧠 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and i |
+| 28 | [khnifee/RAG-Based-Knowledge-Assistant](https://github.com/khnifee/RAG-Based-Knowledge-Assistant) | 2 | Python | 2026-06-16 | 🔍 Build a modular RAG system for multi-turn conversations, document ingestion, and vector search using FastAPI and OpenA |
+| 29 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 10 | JavaScript | 2026-06-16 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
+| 30 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-06-16 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
+| 31 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-06-16 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
+| 32 | [TekilaSS/Educational-Vector-Database](https://github.com/TekilaSS/Educational-Vector-Database) | 0 | Python | 2026-06-16 | 📚 Learn to build and understand Vector Databases step-by-step in Arabic, gaining practical insights beyond existing solu |
+| 33 | [breninfps/memlayer](https://github.com/breninfps/memlayer) | 1 | Python | 2026-06-16 | 🧠 Enhance LLMs with Memlayer for intelligent, contextual memory and fast retrieval—streamline agents with just 3 lines o |
+| 34 | [kastiglia/raptor](https://github.com/kastiglia/raptor) | 1 | Rust | 2026-06-16 |  |
+| 35 | [Carricacha/local-rag-system](https://github.com/Carricacha/local-rag-system) | 3 | Python | 2026-06-16 | 🤖 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or dat |
+| 36 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9340 | Rust | 2026-06-16 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 37 | [Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval](https://github.com/Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval) | 0 | JavaScript | 2026-06-16 | 🎙️ Transform documents into a smart voice assistant that answers your questions naturally, delivering accurate insights  |
+| 38 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17846 | Python | 2026-06-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 39 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-06-16 |  |
+| 40 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-06-16 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
+| 41 | [xLyleericson/OmniLearnAI](https://github.com/xLyleericson/OmniLearnAI) | 1 | Python | 2026-06-16 | 📚 Learn from diverse sources with OmniLearnAI, an intelligent platform that combines documents, videos, and more, all wi |
+| 42 | [boxcalfdevelopmentallearning748/OpenScout](https://github.com/boxcalfdevelopmentallearning748/OpenScout) | 1 | Python | 2026-06-16 | 🔍 Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe |
+| 43 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16334 | Go | 2026-06-16 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 44 | [helderm989/vectro](https://github.com/helderm989/vectro) | 3 | Mojo | 2026-06-16 | ⚡ Compress LLM embeddings efficiently with Vectro, achieving ultra-high performance and guaranteed quality for your mach |
+| 45 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-06-16 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
+| 46 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 2 | Python | 2026-06-16 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
+| 47 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 490 | Rust | 2026-06-16 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
+| 48 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 5 | Python | 2026-06-16 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 49 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 50 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1846 | Go | 2026-06-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 <!-- TRACKER_TABLE_END -->
 
 ---
