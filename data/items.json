@@ -1,19 +1,55 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
+    "id": "Rohit-Dnath/RAMen",
+    "language": "Go",
+    "name": "Rohit-Dnath/RAMen",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:42:50Z",
+    "url": "https://github.com/Rohit-Dnath/RAMen"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:37:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Single-binary operational CLI for Qdrant with .qql runbooks, CI automation, retrieval diagnostics, and stable JSON outpu",
     "id": "srimon12/qql-go",
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-16T20:29:41Z",
+    "updated_at": "2026-06-16T20:34:21Z",
     "url": "https://github.com/srimon12/qql-go"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
-    "stars": 774,
+    "stars": 775,
     "updated_at": "2026-06-16T20:22:47Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
@@ -27,30 +63,12 @@
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:15:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-16T20:14:23Z",
+    "updated_at": "2026-06-16T20:38:20Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-06-16T20:02:47Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
-    "id": "Rohit-Dnath/RAMen",
-    "language": "Go",
-    "name": "Rohit-Dnath/RAMen",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:01:57Z",
-    "url": "https://github.com/Rohit-Dnath/RAMen"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -167,7 +176,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T19:33:24Z",
+    "updated_at": "2026-06-16T20:40:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "Fidonis/qdrant-mcp-rbac",
     "stars": 0,
-    "updated_at": "2026-06-16T19:40:32Z",
+    "updated_at": "2026-06-16T20:44:29Z",
     "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 942,
-    "updated_at": "2026-06-16T20:30:19Z",
+    "updated_at": "2026-06-16T20:40:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "kaivid-labs/evret",
     "stars": 18,
-    "updated_at": "2026-06-16T18:39:04Z",
+    "updated_at": "2026-06-16T20:45:19Z",
     "url": "https://github.com/kaivid-labs/evret"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:53:25Z",
     "url": "https://github.com/somenath203/NeuroPad"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:52:36Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
