@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 23:30 UTC
+> ⏰ Last updated: 2026-06-16 23:42 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,20 +43,20 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 96 | Python | 2026-06-16 | [knowledge-rag] - Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid search + rerank |
-| 2 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 193 | Rust | 2026-06-16 | Suite of tools containing an in-memory vector datastore and AI proxy |
-| 3 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 775 | Go | 2026-06-16 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 4 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 227 | Python | 2026-06-16 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
-| 5 | [sammyjdev/rpg-master-ai](https://github.com/sammyjdev/rpg-master-ai) | 0 | Java | 2026-06-16 | Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo |
-| 6 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1578 | Python | 2026-06-16 | Unified multimodal backend for AI data apps |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 775 | Go | 2026-06-16 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 3 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 193 | Rust | 2026-06-16 | Suite of tools containing an in-memory vector datastore and AI proxy |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 227 | Python | 2026-06-16 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
+| 7 | [sammyjdev/rpg-master-ai](https://github.com/sammyjdev/rpg-master-ai) | 0 | Java | 2026-06-16 | Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo |
+| 8 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1578 | Python | 2026-06-16 | Unified multimodal backend for AI data apps |
 | 9 | [Susanta2025-lab/estudio-polymind-llm-orchestration](https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration) | 0 | Python | 2026-06-16 | Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and |
 | 10 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9341 | Rust | 2026-06-16 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 11 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 368 | TypeScript | 2026-06-16 | Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb |
+| 11 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 369 | TypeScript | 2026-06-16 | Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb |
 | 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 13 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-06-16 | C# SDK for the Weaviate API -- open-source vector database |
-| 14 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61670 | JavaScript | 2026-06-16 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 15 | [MariaDB/server](https://github.com/MariaDB/server) | 7739 | C++ | 2026-06-16 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 14 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61672 | JavaScript | 2026-06-16 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 15 | [MariaDB/server](https://github.com/MariaDB/server) | 7740 | C++ | 2026-06-16 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 16 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 66 | Rust | 2026-06-16 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
 | 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [cyborginc/cyborgdb-py](https://github.com/cyborginc/cyborgdb-py) | 8 | Python | 2026-06-16 | Python Client SDK for CyborgDB: The Confidential Vector Database |
 | 36 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6120 | TypeScript | 2026-06-16 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 37 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17856 | Python | 2026-06-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 38 | [Rohit-Dnath/RAMen](https://github.com/Rohit-Dnath/RAMen) | 1 | Go | 2026-06-16 | RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti |
+| 38 | [Rohit-Dnath/RAMen](https://github.com/Rohit-Dnath/RAMen) | 2 | Go | 2026-06-16 | RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti |
 | 39 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-16 | Single-binary operational CLI for Qdrant with .qql runbooks, CI automation, retrieval diagnostics, and stable JSON outpu |
 | 40 | [Fieldnote-Echo/ordvec](https://github.com/Fieldnote-Echo/ordvec) | 21 | Rust | 2026-06-16 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
 | 41 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 11 | JavaScript | 2026-06-16 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [Fidonis/qdrant-mcp-rbac](https://github.com/Fidonis/qdrant-mcp-rbac) | 0 | Python | 2026-06-16 | Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis. |
 | 47 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 942 | Java | 2026-06-16 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 48 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 105 | Python | 2026-06-16 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
-| 49 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5303 | Rust | 2026-06-16 | HelixDB is an OLTP graph-vector database built in Rust. |
+| 49 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5304 | Rust | 2026-06-16 | HelixDB is an OLTP graph-vector database built in Rust. |
 | 50 | [lancedb/docs](https://github.com/lancedb/docs) | 7 | Python | 2026-06-16 | Documentation for LanceDB, the Multimodal Lakehouse for AI |
 <!-- TRACKER_TABLE_END -->
 
