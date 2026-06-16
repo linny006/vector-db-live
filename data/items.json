@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T17:30:26Z",
+    "updated_at": "2026-06-16T17:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61667,
+    "updated_at": "2026-06-16T17:44:57Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-06-16T17:41:24Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Build a Personal RAG Assistant locally.",
+    "id": "Shreyansh-cloud1/Local-RAG-Assistant",
+    "language": "Python",
+    "name": "Shreyansh-cloud1/Local-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:39:18Z",
+    "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
+  },
+  {
+    "description": "Kyros \u2014 The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. ",
+    "id": "Kyros-494/kyros-ai",
+    "language": "Python",
+    "name": "Kyros-494/kyros-ai",
+    "stars": 91,
+    "updated_at": "2026-06-16T17:37:37Z",
+    "url": "https://github.com/Kyros-494/kyros-ai"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-16T17:36:35Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 7,
+    "updated_at": "2026-06-16T17:33:50Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -54,24 +117,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Kyros \u2014 The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. ",
-    "id": "Kyros-494/kyros-ai",
-    "language": "Python",
-    "name": "Kyros-494/kyros-ai",
-    "stars": 91,
-    "updated_at": "2026-06-16T17:16:42Z",
-    "url": "https://github.com/Kyros-494/kyros-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:15:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -86,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-16T17:29:50Z",
+    "updated_at": "2026-06-16T17:39:39Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 211,
-    "updated_at": "2026-06-16T17:15:43Z",
+    "updated_at": "2026-06-16T17:38:33Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -157,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17852,
+    "stars": 17853,
     "updated_at": "2026-06-16T16:48:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6119,
-    "updated_at": "2026-06-16T17:22:59Z",
+    "updated_at": "2026-06-16T17:40:16Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/ma2za/docqa-stream"
   },
   {
-    "description": "Build a Personal RAG Assistant locally.",
-    "id": "Shreyansh-cloud1/Local-RAG-Assistant",
-    "language": "Python",
-    "name": "Shreyansh-cloud1/Local-RAG-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:12:15Z",
-    "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
-  },
-  {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
     "id": "lightonai/next-plaid",
     "language": "Rust",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32376,
-    "updated_at": "2026-06-16T17:23:22Z",
+    "updated_at": "2026-06-16T17:42:18Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -274,7 +310,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58120,
+    "stars": 58122,
     "updated_at": "2026-06-16T15:58:52Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:51:47Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61665,
-    "updated_at": "2026-06-16T15:41:33Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
@@ -401,7 +428,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T17:05:41Z",
+    "updated_at": "2026-06-16T17:39:23Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:53:08Z",
     "url": "https://github.com/sarkar-dipankar/ebrag-vecdb-2026-paper"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16335,
-    "updated_at": "2026-06-16T16:34:47Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12662,
-    "updated_at": "2026-06-16T14:47:15Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 8,
-    "updated_at": "2026-06-16T14:45:22Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
