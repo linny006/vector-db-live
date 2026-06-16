@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production AI career coaching platform \u2014 multi-agent orchestration, RAG, continuous LLM-as-judge evaluation",
+    "id": "theo-ai-lab/ai-career-coach",
+    "language": "TypeScript",
+    "name": "theo-ai-lab/ai-career-coach",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:44:52Z",
+    "url": "https://github.com/theo-ai-lab/ai-career-coach"
+  },
+  {
+    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-06-16T21:40:57Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-06-16T21:39:06Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Evals framework for Information Retrieval Systems",
     "id": "kaivid-labs/evret",
     "language": "Python",
@@ -18,6 +63,15 @@
     "url": "https://github.com/litegraphdb/litegraph"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32384,
+    "updated_at": "2026-06-16T21:34:36Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
     "id": "Dakera-AI/dakera-rs",
     "language": "Rust",
@@ -25,24 +79,6 @@
     "stars": 6,
     "updated_at": "2026-06-16T21:18:31Z",
     "url": "https://github.com/Dakera-AI/dakera-rs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
@@ -68,7 +104,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 61670,
-    "updated_at": "2026-06-16T21:17:40Z",
+    "updated_at": "2026-06-16T21:43:24Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17856,
-    "updated_at": "2026-06-16T21:24:35Z",
+    "updated_at": "2026-06-16T21:39:31Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T21:18:36Z",
     "url": "https://github.com/srimon12/qql-go"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32383,
-    "updated_at": "2026-06-16T21:23:22Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -239,7 +266,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T21:22:12Z",
+    "updated_at": "2026-06-16T21:44:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -274,7 +301,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5293,
+    "stars": 5296,
     "updated_at": "2026-06-16T19:19:02Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:53:25Z",
     "url": "https://github.com/somenath203/NeuroPad"
-  },
-  {
-    "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
-    "id": "Rishabh150102/DeepLearning-RAG-Chatbot",
-    "language": "TypeScript",
-    "name": "Rishabh150102/DeepLearning-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:49:26Z",
-    "url": "https://github.com/Rishabh150102/DeepLearning-RAG-Chatbot"
-  },
-  {
-    "description": "Build a Personal RAG Assistant locally.",
-    "id": "Shreyansh-cloud1/Local-RAG-Assistant",
-    "language": "Python",
-    "name": "Shreyansh-cloud1/Local-RAG-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:48:48Z",
-    "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 2949,
-    "updated_at": "2026-06-16T17:39:36Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   }
 ]
