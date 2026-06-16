@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 15:30 UTC
+> ⏰ Last updated: 2026-06-16 15:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [CryptoJones/RAG-Pipeline-Example](https://github.com/CryptoJones/RAG-Pipeline-Example) | 0 | Python | 2026-06-16 | Self-hosted, GPU-split RAG pipeline — local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF→M |
-| 2 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 211 | Python | 2026-06-16 | CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search. |
-| 3 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-06-16 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [CryptoJones/RAG-Pipeline-Example](https://github.com/CryptoJones/RAG-Pipeline-Example) | 0 | Python | 2026-06-16 | Self-hosted, GPU-split RAG pipeline — local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF→M |
+| 4 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 211 | Python | 2026-06-16 | CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search. |
+| 5 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-06-16 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
 | 6 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58119 | Rust | 2026-06-16 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | 7 | [mixpeek/mixpeek-extractors](https://github.com/mixpeek/mixpeek-extractors) | 0 | — | 2026-06-16 | Multimodal extractors for video, image, audio, text & PDF — turn any file into searchable vector embeddings (SigLIP, Gem |
 | 8 | [zavoryn/debug-mind](https://github.com/zavoryn/debug-mind) | 8 | Python | 2026-06-16 | AI-Powered Bug Diagnosis Agent with Experiential Memory — the more bugs it sees, the faster it gets. |
 | 9 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-16 | Automatically chunk, embed and index a folder into a Cognitor collection |
 | 10 | [himelds/MedRagAssistant](https://github.com/himelds/MedRagAssistant) | 0 | Python | 2026-06-16 | Role-Based Medical RAG System using FastAPI, Next.js, ChromaDB, Hybrid Retrieval, and Gemma 4 with secure department-lev |
-| 11 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 506 | Rust | 2026-06-16 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
+| 11 | [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) | 507 | Rust | 2026-06-16 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
 | 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6156 | C | 2026-06-16 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 13 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1332 | Java | 2026-06-16 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
 | 14 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32375 | Rust | 2026-06-16 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
