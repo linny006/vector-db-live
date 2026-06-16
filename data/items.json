@@ -1,21 +1,66 @@
 [
   {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-16T02:59:12Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
     "description": "Agent-native file search CLI for large local workspaces, ideal for managing memory, skill, codebase and knowledgebase.",
     "id": "zilliztech/mfs",
     "language": "Python",
     "name": "zilliztech/mfs",
     "stars": 2,
-    "updated_at": "2026-06-16T02:58:43Z",
+    "updated_at": "2026-06-16T03:12:22Z",
     "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32349,
+    "updated_at": "2026-06-16T03:10:37Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Encrypted-first embedded database and memory engine, faster than unencrypted SQLite.",
+    "id": "yp3y5akh0v/citadel",
+    "language": "Rust",
+    "name": "yp3y5akh0v/citadel",
+    "stars": 2,
+    "updated_at": "2026-06-16T03:05:57Z",
+    "url": "https://github.com/yp3y5akh0v/citadel"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/athanor",
+    "language": "Python",
+    "name": "shiyao222333-afk/athanor",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:01:31Z",
+    "url": "https://github.com/shiyao222333-afk/athanor"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T03:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Charisma's personal Enterprise AI Assistant built with Python, Streamlit, Ollama, ChromaDB, and Sentence Transformers us",
+    "id": "charismac123/charisma-enterprise-rag-assistant",
+    "language": "Python",
+    "name": "charismac123/charisma-enterprise-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:00:24Z",
+    "url": "https://github.com/charismac123/charisma-enterprise-rag-assistant"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1392,
-    "updated_at": "2026-06-16T03:00:17Z",
+    "updated_at": "2026-06-16T03:14:19Z",
     "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-16T02:59:12Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
@@ -41,17 +95,8 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1435,
-    "updated_at": "2026-06-16T02:57:41Z",
+    "updated_at": "2026-06-16T03:10:27Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/athanor",
-    "language": "Python",
-    "name": "shiyao222333-afk/athanor",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:48:19Z",
-    "url": "https://github.com/shiyao222333-afk/athanor"
   },
   {
     "description": "Logstash-like RAG ingestion daemon for local files, chunking, embeddings, and Qdrant indexing.",
@@ -67,27 +112,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10193,
+    "stars": 10195,
     "updated_at": "2026-06-16T02:47:08Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T02:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T01:53:44Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-16T01:52:42Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:51:32Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-16T01:50:56Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
