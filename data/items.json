@@ -1,12 +1,93 @@
 [
   {
+    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
+    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "language": "Python",
+    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:58:00Z",
+    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
+  },
+  {
+    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-go",
+    "language": "Go",
+    "name": "Dakera-AI/dakera-go",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:57:14Z",
+    "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
+    "id": "Dakera-AI/dakera-rs",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-rs",
+    "stars": 6,
+    "updated_at": "2026-06-16T18:57:09Z",
+    "url": "https://github.com/Dakera-AI/dakera-rs"
+  },
+  {
+    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
+    "id": "marinoalfonso/open-pertosa",
+    "language": "Python",
+    "name": "marinoalfonso/open-pertosa",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:54:11Z",
+    "url": "https://github.com/marinoalfonso/open-pertosa"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 272,
+    "updated_at": "2026-06-16T18:51:45Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
     "id": "Neverdecel/CodeRAG",
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 211,
-    "updated_at": "2026-06-16T18:44:53Z",
+    "updated_at": "2026-06-16T18:50:52Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-16T18:48:50Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis.",
+    "id": "Fidonis/qdrant-mcp-rbac",
+    "language": "Python",
+    "name": "Fidonis/qdrant-mcp-rbac",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:48:29Z",
+    "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:45:33Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Evals framework for Information Retrieval Systems",
@@ -45,24 +126,6 @@
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
     "id": "Dakera-AI/dakera-py",
     "language": "Python",
@@ -86,35 +149,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32378,
-    "updated_at": "2026-06-16T18:31:21Z",
+    "updated_at": "2026-06-16T18:46:02Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
-    "id": "marinoalfonso/open-pertosa",
-    "language": "Python",
-    "name": "marinoalfonso/open-pertosa",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:22:16Z",
-    "url": "https://github.com/marinoalfonso/open-pertosa"
-  },
-  {
-    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
-    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "language": "Python",
-    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:21:06Z",
-    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
-  },
-  {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-16T18:15:48Z",
-    "url": "https://github.com/tanaos/cognitor"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -126,13 +162,13 @@
     "url": "https://github.com/tanaos/cognitor-worker"
   },
   {
-    "description": "Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis.",
-    "id": "Fidonis/qdrant-mcp-rbac",
+    "description": "Production-ready Agentic AI Assistant with RAG, LangGraph workflows, Amazon Bedrock, vector search, and AWS deployment.",
+    "id": "goutamroy/ai-life-copilot",
     "language": "Python",
-    "name": "Fidonis/qdrant-mcp-rbac",
+    "name": "goutamroy/ai-life-copilot",
     "stars": 0,
-    "updated_at": "2026-06-16T18:21:28Z",
-    "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
+    "updated_at": "2026-06-16T18:11:47Z",
+    "url": "https://github.com/goutamroy/ai-life-copilot"
   },
   {
     "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
@@ -225,21 +261,12 @@
     "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
   },
   {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 272,
-    "updated_at": "2026-06-16T17:49:45Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
-  },
-  {
     "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
     "id": "cyborginc/cyborgdb-py",
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-06-16T17:41:24Z",
+    "updated_at": "2026-06-16T18:48:50Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6120,
-    "updated_at": "2026-06-16T18:38:44Z",
+    "updated_at": "2026-06-16T18:50:18Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -256,7 +283,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2934,
+    "stars": 2935,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-16T16:34:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l",
-    "id": "backblaze-b2-samples/lance-multimodal-search",
-    "language": "TypeScript",
-    "name": "backblaze-b2-samples/lance-multimodal-search",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:30:12Z",
-    "url": "https://github.com/backblaze-b2-samples/lance-multimodal-search"
-  },
-  {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/OpenMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/OpenMemory",
-    "stars": 4243,
-    "updated_at": "2026-06-16T16:28:41Z",
-    "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
-    "id": "hash-anu/snkv",
-    "language": "C",
-    "name": "hash-anu/snkv",
-    "stars": 76,
-    "updated_at": "2026-06-16T16:40:25Z",
-    "url": "https://github.com/hash-anu/snkv"
   }
 ]
