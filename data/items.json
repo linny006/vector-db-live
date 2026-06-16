@@ -1,11 +1,47 @@
 [
   {
+    "description": "A GenAI-powered YouTube chatbot that enables semantic question answering across YouTube video transcripts. The system re",
+    "id": "Pran-07hub/Youtube-Transcript-Rag-Chatbot",
+    "language": "Python",
+    "name": "Pran-07hub/Youtube-Transcript-Rag-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-16T10:31:21Z",
+    "url": "https://github.com/Pran-07hub/Youtube-Transcript-Rag-Chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:30:51Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T10:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
     "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
     "language": "JavaScript",
     "name": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
     "stars": 0,
-    "updated_at": "2026-06-16T10:30:23Z",
+    "updated_at": "2026-06-16T10:30:39Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
   },
   {
@@ -18,21 +54,12 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "A GenAI-powered YouTube chatbot that enables semantic question answering across YouTube video transcripts. The system re",
-    "id": "Pran-07hub/Youtube-Transcript-Rag-Chatbot",
-    "language": "Python",
-    "name": "Pran-07hub/Youtube-Transcript-Rag-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-06-16T10:30:09Z",
-    "url": "https://github.com/Pran-07hub/Youtube-Transcript-Rag-Chatbot"
-  },
-  {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-16T10:30:05Z",
+    "updated_at": "2026-06-16T10:31:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -198,24 +225,6 @@
     "url": "https://github.com/xLyleericson/OmniLearnAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T10:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T10:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udd0d Enhance your queries with OpenScout, a RAG system that retrieves, ranks, and synthesizes web content for concise answe",
     "id": "boxcalfdevelopmentallearning748/OpenScout",
     "language": "Python",
@@ -265,7 +274,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 487,
+    "stars": 488,
     "updated_at": "2026-06-16T10:11:04Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -439,14 +448,5 @@
     "stars": 6959,
     "updated_at": "2026-06-16T10:07:00Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Official n8n node for interfacing with Qdrant",
-    "id": "qdrant/n8n-nodes-qdrant",
-    "language": "TypeScript",
-    "name": "qdrant/n8n-nodes-qdrant",
-    "stars": 77,
-    "updated_at": "2026-06-16T09:54:01Z",
-    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
   }
 ]
