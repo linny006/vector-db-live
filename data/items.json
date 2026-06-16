@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T09:00:24Z",
+    "updated_at": "2026-06-16T09:15:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 482,
+    "updated_at": "2026-06-16T09:12:25Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -14,7 +32,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T08:59:29Z",
+    "updated_at": "2026-06-16T09:12:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -36,6 +54,15 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16333,
+    "updated_at": "2026-06-16T08:51:13Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "RAG-based API migration assistant that retrieves migration guidelines and generates updated code suggestions using LangC",
     "id": "SANTHIYAM306/RAG_API_HEALER",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:47:12Z",
     "url": "https://github.com/SANTHIYAM306/RAG_API_HEALER"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -63,22 +81,22 @@
     "url": "https://github.com/tanaos/cognitor-worker"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32361,
+    "updated_at": "2026-06-16T08:42:03Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 76,
-    "updated_at": "2026-06-16T08:39:15Z",
+    "updated_at": "2026-06-16T09:04:40Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 482,
-    "updated_at": "2026-06-16T08:38:00Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
     "description": "Always-on cross-device hub for the claude-mem shared memory pool. HA Add-on serving Chroma + web UI + JSON API so every ",
@@ -94,7 +112,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44803,
+    "stars": 44804,
     "updated_at": "2026-06-16T08:34:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -122,7 +140,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 1,
-    "updated_at": "2026-06-16T08:28:24Z",
+    "updated_at": "2026-06-16T09:07:31Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 211,
-    "updated_at": "2026-06-16T08:26:02Z",
+    "updated_at": "2026-06-16T09:05:59Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -175,8 +193,8 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58116,
-    "updated_at": "2026-06-16T08:23:02Z",
+    "stars": 58115,
+    "updated_at": "2026-06-16T09:12:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/Brakepedallap630/openmemory"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16332,
-    "updated_at": "2026-06-16T08:51:13Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -382,7 +391,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12340,
+    "stars": 12342,
     "updated_at": "2026-06-16T08:09:17Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -419,7 +428,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4409,
-    "updated_at": "2026-06-16T09:00:27Z",
+    "updated_at": "2026-06-16T09:15:12Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T08:05:37Z",
     "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
-  },
-  {
-    "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
-    "id": "liaoyu1992/claude-smart",
-    "language": "Python",
-    "name": "liaoyu1992/claude-smart",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:04:29Z",
-    "url": "https://github.com/liaoyu1992/claude-smart"
   }
 ]
