@@ -1,11 +1,29 @@
 [
   {
+    "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
+    "id": "avin2204/Sports-ai-operating-system",
+    "language": "Python",
+    "name": "avin2204/Sports-ai-operating-system",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:42:55Z",
+    "url": "https://github.com/avin2204/Sports-ai-operating-system"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61665,
+    "updated_at": "2026-06-16T15:41:33Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-16T15:30:40Z",
+    "updated_at": "2026-06-16T15:33:54Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -16,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-06-16T15:30:37Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build a Personal RAG Assistant locally.",
+    "id": "Shreyansh-cloud1/Local-RAG-Assistant",
+    "language": "Python",
+    "name": "Shreyansh-cloud1/Local-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:30:17Z",
+    "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
   },
   {
     "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
@@ -90,12 +117,21 @@
     "url": "https://github.com/himelds/MedRagAssistant"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7740,
+    "updated_at": "2026-06-16T15:05:17Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 507,
-    "updated_at": "2026-06-16T15:04:55Z",
+    "stars": 508,
+    "updated_at": "2026-06-16T15:42:43Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
@@ -104,7 +140,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T15:17:29Z",
+    "updated_at": "2026-06-16T15:44:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61665,
-    "updated_at": "2026-06-16T14:30:25Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-16T14:22:53Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:21:30Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:21:06Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-06-16T14:20:15Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
