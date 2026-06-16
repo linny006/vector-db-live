@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T08:30:25Z",
+    "updated_at": "2026-06-16T08:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
+    "id": "tanaos/cognitor-worker",
+    "language": "Python",
+    "name": "tanaos/cognitor-worker",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:42:31Z",
+    "url": "https://github.com/tanaos/cognitor-worker"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-16T08:42:39Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 76,
+    "updated_at": "2026-06-16T08:39:15Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 482,
+    "updated_at": "2026-06-16T08:38:00Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "Always-on cross-device hub for the claude-mem shared memory pool. HA Add-on serving Chroma + web UI + JSON API so every ",
+    "id": "Tomer-PRIM3/claude-mem-hub",
+    "language": "HTML",
+    "name": "Tomer-PRIM3/claude-mem-hub",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:35:12Z",
+    "url": "https://github.com/Tomer-PRIM3/claude-mem-hub"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44803,
+    "updated_at": "2026-06-16T08:34:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "fully local, temporally aware natural language file search on your pc! even without a GPU.  find relevant files using na",
+    "id": "monkesearch/monkeSearch",
+    "language": "Python",
+    "name": "monkesearch/monkeSearch",
+    "stars": 195,
+    "updated_at": "2026-06-16T08:41:01Z",
+    "url": "https://github.com/monkesearch/monkeSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Real-time RAG system for incident response: streams GitHub, Jira, and log events via Kafka into pgvector, enabling conte",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:24:35Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:24:29Z",
-    "url": "https://github.com/zilliztech/mfs"
   },
   {
     "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
@@ -171,15 +234,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -275,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16332,
-    "updated_at": "2026-06-16T08:14:22Z",
+    "updated_at": "2026-06-16T08:41:09Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4409,
-    "updated_at": "2026-06-16T08:07:21Z",
+    "updated_at": "2026-06-16T08:43:36Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T08:03:46Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4569,
-    "updated_at": "2026-06-16T08:03:31Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:03:13Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:01:33Z",
-    "url": "https://github.com/User75621/memory-mcp"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:01:13Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Build a local MCP server that turns files, images, and video into fast spatial search for AI agents using Gemini embeddi",
-    "id": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "language": "Python",
-    "name": "elkalowkey885/gemini-embedding-2-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:01:03Z",
-    "url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-16T08:25:44Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
