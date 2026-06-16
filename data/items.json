@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T09:15:27Z",
+    "updated_at": "2026-06-16T09:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-16T09:29:19Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-16T09:29:20Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6959,
+    "updated_at": "2026-06-16T09:21:56Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:18:55Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:15:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7736,
+    "updated_at": "2026-06-16T09:15:01Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -18,39 +72,12 @@
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T09:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-16T09:12:37Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:59:34Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 19,
-    "updated_at": "2026-06-16T08:55:02Z",
+    "updated_at": "2026-06-16T09:21:47Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16333,
-    "updated_at": "2026-06-16T08:51:13Z",
+    "updated_at": "2026-06-16T09:17:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32361,
-    "updated_at": "2026-06-16T08:42:03Z",
+    "updated_at": "2026-06-16T09:29:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58115,
-    "updated_at": "2026-06-16T09:12:40Z",
+    "updated_at": "2026-06-16T09:29:08Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -391,7 +418,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12342,
+    "stars": 12343,
     "updated_at": "2026-06-16T08:09:17Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T08:06:58Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4409,
-    "updated_at": "2026-06-16T09:15:12Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:06:33Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Store and manage persistent MCP memory with confidence tracking, relationship mapping, and knowledge quality control acr",
-    "id": "Bogeymanlicitness496/mcp-memento",
-    "language": "Python",
-    "name": "Bogeymanlicitness496/mcp-memento",
-    "stars": 4,
-    "updated_at": "2026-06-16T08:05:37Z",
-    "url": "https://github.com/Bogeymanlicitness496/mcp-memento"
   }
 ]
