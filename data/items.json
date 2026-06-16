@@ -1,12 +1,66 @@
 [
   {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T18:44:53Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Evals framework for Information Retrieval Systems",
+    "id": "kaivid-labs/evret",
+    "language": "Python",
+    "name": "kaivid-labs/evret",
+    "stars": 18,
+    "updated_at": "2026-06-16T18:39:04Z",
+    "url": "https://github.com/kaivid-labs/evret"
+  },
+  {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 11,
-    "updated_at": "2026-06-16T18:26:46Z",
+    "updated_at": "2026-06-16T18:37:03Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:36:41Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:33:26Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T18:26:43Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T18:25:40Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32378,
-    "updated_at": "2026-06-16T18:22:44Z",
+    "updated_at": "2026-06-16T18:31:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -70,24 +115,6 @@
     "stars": 11,
     "updated_at": "2026-06-16T18:15:48Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:15:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6120,
-    "updated_at": "2026-06-16T18:30:15Z",
+    "updated_at": "2026-06-16T18:38:44Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -229,7 +256,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2933,
+    "stars": 2934,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -259,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-06-16T17:33:50Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:26:02Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing 6\ubd80\uc791 \uc778\ub371\uc2a4 (PAIF 9.1 / PAIS 2.1)",
@@ -346,7 +364,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 513,
+    "stars": 515,
     "updated_at": "2026-06-16T17:05:50Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -373,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17854,
+    "stars": 17855,
     "updated_at": "2026-06-16T16:48:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 76,
     "updated_at": "2026-06-16T16:40:25Z",
     "url": "https://github.com/hash-anu/snkv"
-  },
-  {
-    "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
-    "id": "ma2za/docqa-stream",
-    "language": "Python",
-    "name": "ma2za/docqa-stream",
-    "stars": 9,
-    "updated_at": "2026-06-16T16:15:28Z",
-    "url": "https://github.com/ma2za/docqa-stream"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 495,
-    "updated_at": "2026-06-16T18:08:53Z",
-    "url": "https://github.com/lightonai/next-plaid"
   }
 ]
