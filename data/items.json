@@ -1,11 +1,47 @@
 [
   {
+    "description": "Evals framework for Information Retrieval Systems",
+    "id": "kaivid-labs/evret",
+    "language": "Python",
+    "name": "kaivid-labs/evret",
+    "stars": 18,
+    "updated_at": "2026-06-16T21:30:13Z",
+    "url": "https://github.com/kaivid-labs/evret"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 121,
+    "updated_at": "2026-06-16T21:26:28Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
+    "id": "Dakera-AI/dakera-rs",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-rs",
+    "stars": 6,
+    "updated_at": "2026-06-16T21:18:31Z",
+    "url": "https://github.com/Dakera-AI/dakera-rs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T21:15:29Z",
+    "updated_at": "2026-06-16T21:30:29Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,21 +63,12 @@
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 121,
-    "updated_at": "2026-06-16T21:12:07Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 61670,
-    "updated_at": "2026-06-16T21:12:42Z",
+    "updated_at": "2026-06-16T21:17:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -52,24 +79,6 @@
     "stars": 368,
     "updated_at": "2026-06-16T21:07:07Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:00:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Evals framework for Information Retrieval Systems",
-    "id": "kaivid-labs/evret",
-    "language": "Python",
-    "name": "kaivid-labs/evret",
-    "stars": 18,
-    "updated_at": "2026-06-16T21:00:12Z",
-    "url": "https://github.com/kaivid-labs/evret"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17856,
-    "updated_at": "2026-06-16T20:48:10Z",
+    "updated_at": "2026-06-16T21:24:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-16T21:14:56Z",
+    "updated_at": "2026-06-16T21:18:36Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32383,
-    "updated_at": "2026-06-16T21:09:07Z",
+    "updated_at": "2026-06-16T21:23:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-16T20:38:20Z",
+    "updated_at": "2026-06-16T21:21:13Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T20:06:16Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 6,
-    "updated_at": "2026-06-16T20:22:12Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -239,7 +239,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T20:49:27Z",
+    "updated_at": "2026-06-16T21:22:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -445,7 +445,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2948,
+    "stars": 2949,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   }
