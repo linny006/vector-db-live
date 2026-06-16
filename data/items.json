@@ -1,5 +1,86 @@
 [
   {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 66,
+    "updated_at": "2026-06-16T20:14:23Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61670,
+    "updated_at": "2026-06-16T20:08:54Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-go",
+    "language": "Go",
+    "name": "Dakera-AI/dakera-go",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:06:16Z",
+    "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
+    "id": "Dakera-AI/dakera-rs",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-rs",
+    "stars": 6,
+    "updated_at": "2026-06-16T20:09:45Z",
+    "url": "https://github.com/Dakera-AI/dakera-rs"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-06-16T20:04:22Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-16T20:02:47Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
+    "id": "Rohit-Dnath/RAMen",
+    "language": "Go",
+    "name": "Rohit-Dnath/RAMen",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:01:57Z",
+    "url": "https://github.com/Rohit-Dnath/RAMen"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:00:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
     "id": "lightonai/next-plaid",
     "language": "Rust",
@@ -16,24 +97,6 @@
     "stars": 211,
     "updated_at": "2026-06-16T19:52:15Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:45:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Click below to checkout the website",
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32381,
-    "updated_at": "2026-06-16T19:47:07Z",
+    "updated_at": "2026-06-16T20:03:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 6156,
     "updated_at": "2026-06-16T19:33:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61669,
-    "updated_at": "2026-06-16T20:00:12Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis.",
@@ -121,7 +175,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5289,
+    "stars": 5291,
     "updated_at": "2026-06-16T19:19:02Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 21,
-    "updated_at": "2026-06-16T19:32:22Z",
+    "updated_at": "2026-06-16T20:13:48Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -151,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:58:00Z",
     "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:57:14Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 6,
-    "updated_at": "2026-06-16T18:57:09Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
     "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
@@ -205,15 +241,6 @@
     "stars": 18,
     "updated_at": "2026-06-16T18:39:04Z",
     "url": "https://github.com/kaivid-labs/evret"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-16T19:10:11Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Shreyansh-cloud1/Local-RAG-Assistant"
   },
   {
-    "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-06-16T18:48:50Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -373,7 +391,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2942,
+    "stars": 2944,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -430,23 +448,5 @@
     "stars": 4410,
     "updated_at": "2026-06-16T18:03:23Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Multimodal extractors for video, image, audio, text & PDF \u2014 turn any file into searchable vector embeddings (SigLIP, Gem",
-    "id": "mixpeek/mixpeek-extractors",
-    "language": "Python",
-    "name": "mixpeek/mixpeek-extractors",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:12:48Z",
-    "url": "https://github.com/mixpeek/mixpeek-extractors"
-  },
-  {
-    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
-    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:09:54Z",
-    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
   }
 ]
