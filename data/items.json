@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T14:45:29Z",
+    "updated_at": "2026-06-16T15:00:33Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1332,
+    "updated_at": "2026-06-16T14:53:52Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Reproducibility artefacts for 'An Input-Regime Audit of Conflict Detection for Retrieval-Augmented Generation' (VecDB@VL",
+    "id": "sarkar-dipankar/ebrag-vecdb-2026-paper",
+    "language": "Python",
+    "name": "sarkar-dipankar/ebrag-vecdb-2026-paper",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:53:08Z",
+    "url": "https://github.com/sarkar-dipankar/ebrag-vecdb-2026-paper"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +32,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 942,
-    "updated_at": "2026-06-16T14:42:20Z",
+    "updated_at": "2026-06-16T14:48:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-16T14:47:23Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:45:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 8,
+    "updated_at": "2026-06-16T14:45:22Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
     "description": "RAG service for intelligent bug analysis with multi-LLM support",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12660,
-    "updated_at": "2026-06-16T14:40:42Z",
+    "updated_at": "2026-06-16T14:47:15Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -45,13 +90,13 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-16T14:38:33Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9341,
+    "updated_at": "2026-06-16T14:37:47Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 211,
-    "updated_at": "2026-06-16T14:35:32Z",
+    "updated_at": "2026-06-16T14:56:22Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:32:25Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Reproducibility artefacts for 'An Input-Regime Audit of Conflict Detection for Retrieval-Augmented Generation' (VecDB@VL",
-    "id": "sarkar-dipankar/ebrag-vecdb-2026-paper",
-    "language": "Python",
-    "name": "sarkar-dipankar/ebrag-vecdb-2026-paper",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:32:03Z",
-    "url": "https://github.com/sarkar-dipankar/ebrag-vecdb-2026-paper"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -153,15 +189,6 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:30:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -175,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61663,
+    "stars": 61665,
     "updated_at": "2026-06-16T14:30:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -292,7 +319,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 504,
+    "stars": 505,
     "updated_at": "2026-06-16T14:24:16Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T14:14:32Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:14:06Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Store and retrieve persistent filesystem memory for LLMs and AI agents with structured, searchable context beyond token ",
-    "id": "whiteoakredguard557/llmfs",
-    "language": "Python",
-    "name": "whiteoakredguard557/llmfs",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:12:00Z",
-    "url": "https://github.com/whiteoakredguard557/llmfs"
-  },
-  {
-    "description": "Store persistent project memory for AI agents and MCP clients so they can resume work with context, decisions, and tasks",
-    "id": "User75621/memory-mcp",
-    "language": "Python",
-    "name": "User75621/memory-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-16T14:11:57Z",
-    "url": "https://github.com/User75621/memory-mcp"
   }
 ]
