@@ -1,8 +1,71 @@
 [
   {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:43:07Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
+    "id": "avin2204/Sports-ai-operating-system",
+    "language": "Python",
+    "name": "avin2204/Sports-ai-operating-system",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:42:43Z",
+    "url": "https://github.com/avin2204/Sports-ai-operating-system"
+  },
+  {
+    "description": "Kyros \u2014 The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. ",
+    "id": "Kyros-494/kyros-ai",
+    "language": "Python",
+    "name": "Kyros-494/kyros-ai",
+    "stars": 92,
+    "updated_at": "2026-06-16T16:41:39Z",
+    "url": "https://github.com/Kyros-494/kyros-ai"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 5,
+    "updated_at": "2026-06-16T16:39:02Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-16T16:34:28Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:30:47Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T16:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l",
     "id": "backblaze-b2-samples/lance-multimodal-search",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "backblaze-b2-samples/lance-multimodal-search",
     "stars": 0,
     "updated_at": "2026-06-16T16:30:12Z",
@@ -36,31 +99,13 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
-    "id": "avin2204/Sports-ai-operating-system",
-    "language": "Python",
-    "name": "avin2204/Sports-ai-operating-system",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:22:27Z",
-    "url": "https://github.com/avin2204/Sports-ai-operating-system"
-  },
-  {
     "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
     "id": "hash-anu/snkv",
     "language": "C",
     "name": "hash-anu/snkv",
     "stars": 76,
-    "updated_at": "2026-06-16T16:22:00Z",
+    "updated_at": "2026-06-16T16:40:25Z",
     "url": "https://github.com/hash-anu/snkv"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:20:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -70,24 +115,6 @@
     "stars": 509,
     "updated_at": "2026-06-16T16:17:53Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "Kyros \u2014 The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. ",
-    "id": "Kyros-494/kyros-ai",
-    "language": "Python",
-    "name": "Kyros-494/kyros-ai",
-    "stars": 92,
-    "updated_at": "2026-06-16T16:18:21Z",
-    "url": "https://github.com/Kyros-494/kyros-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T16:30:43Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-16T16:19:41Z",
+    "updated_at": "2026-06-16T16:38:05Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16335,
-    "updated_at": "2026-06-16T14:51:27Z",
+    "updated_at": "2026-06-16T16:34:47Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:31:42Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:31:20Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:31:13Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:31:03Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
   }
 ]
