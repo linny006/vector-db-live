@@ -1,12 +1,93 @@
 [
   {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-16T18:26:46Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:26:43Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T18:25:40Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
+    "id": "diegoglozano/revector",
+    "language": "Rust",
+    "name": "diegoglozano/revector",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:24:22Z",
+    "url": "https://github.com/diegoglozano/revector"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32378,
+    "updated_at": "2026-06-16T18:22:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
     "id": "marinoalfonso/open-pertosa",
     "language": "Python",
     "name": "marinoalfonso/open-pertosa",
     "stars": 0,
-    "updated_at": "2026-06-16T18:15:00Z",
+    "updated_at": "2026-06-16T18:22:16Z",
     "url": "https://github.com/marinoalfonso/open-pertosa"
+  },
+  {
+    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
+    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "language": "Python",
+    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:21:06Z",
+    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-16T18:15:48Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:15:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "Fidonis/qdrant-mcp-rbac",
     "stars": 0,
-    "updated_at": "2026-06-16T18:12:58Z",
+    "updated_at": "2026-06-16T18:21:28Z",
     "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/Aaryav1130/rag-chatbot"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32377,
-    "updated_at": "2026-06-16T18:07:26Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -54,15 +126,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T18:08:06Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -70,24 +133,6 @@
     "stars": 1846,
     "updated_at": "2026-06-16T18:02:17Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:15:34Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-based compliance document analyzer \u2014 grounded Q&A, checklist generation, and gap analysis. Python \u00b7 Streamlit \u00b7 Chro",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6120,
-    "updated_at": "2026-06-16T17:40:16Z",
+    "updated_at": "2026-06-16T18:30:15Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -184,7 +229,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2932,
+    "stars": 2933,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-16T17:22:58Z",
+    "updated_at": "2026-06-16T18:26:02Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -301,7 +346,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 512,
+    "stars": 513,
     "updated_at": "2026-06-16T17:05:50Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -403,50 +448,5 @@
     "stars": 495,
     "updated_at": "2026-06-16T18:08:53Z",
     "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
-    "id": "daringanitch/claude-memory",
-    "language": "Python",
-    "name": "daringanitch/claude-memory",
-    "stars": 3,
-    "updated_at": "2026-06-16T16:00:35Z",
-    "url": "https://github.com/daringanitch/claude-memory"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58122,
-    "updated_at": "2026-06-16T15:58:52Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1577,
-    "updated_at": "2026-06-16T15:56:54Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44804,
-    "updated_at": "2026-06-16T15:56:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:55:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
