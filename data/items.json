@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
+    "id": "marinoalfonso/open-pertosa",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "marinoalfonso/open-pertosa",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:15:00Z",
+    "url": "https://github.com/marinoalfonso/open-pertosa"
+  },
+  {
+    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
+    "id": "tanaos/cognitor-worker",
+    "language": "Python",
+    "name": "tanaos/cognitor-worker",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:13:33Z",
+    "url": "https://github.com/tanaos/cognitor-worker"
   },
   {
     "description": "Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis.",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Fidonis/qdrant-mcp-rbac",
     "stars": 0,
-    "updated_at": "2026-06-16T18:00:28Z",
+    "updated_at": "2026-06-16T18:12:58Z",
     "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
   },
   {
@@ -23,8 +32,62 @@
     "language": "Python",
     "name": "Aaryav1130/rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-06-16T18:00:29Z",
+    "updated_at": "2026-06-16T18:09:20Z",
     "url": "https://github.com/Aaryav1130/rag-chatbot"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32377,
+    "updated_at": "2026-06-16T18:07:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 367,
+    "updated_at": "2026-06-16T18:03:27Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T18:08:06Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1846,
+    "updated_at": "2026-06-16T18:02:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:15:34Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-based compliance document analyzer \u2014 grounded Q&A, checklist generation, and gap analysis. Python \u00b7 Streamlit \u00b7 Chro",
@@ -40,7 +103,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61667,
+    "stars": 61668,
     "updated_at": "2026-06-16T17:55:57Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -72,15 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T17:59:13Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
     "id": "Rishabh150102/DeepLearning-RAG-Chatbot",
     "language": "TypeScript",
@@ -108,15 +162,6 @@
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
     "id": "cyborginc/cyborgdb-py",
     "language": "Python",
@@ -139,7 +184,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2931,
+    "stars": 2932,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -221,7 +266,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-16T17:53:54Z",
+    "updated_at": "2026-06-16T18:03:23Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -256,7 +301,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 511,
+    "stars": 512,
     "updated_at": "2026-06-16T17:05:50Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -283,7 +328,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17853,
+    "stars": 17854,
     "updated_at": "2026-06-16T16:48:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -356,17 +401,8 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-16T16:58:51Z",
+    "updated_at": "2026-06-16T18:08:53Z",
     "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32376,
-    "updated_at": "2026-06-16T18:00:26Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:55:57Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Knowledge Manager LLM",
-    "id": "luigigargioni/KnowledgeManagerLLM",
-    "language": "Python",
-    "name": "luigigargioni/KnowledgeManagerLLM",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:54:37Z",
-    "url": "https://github.com/luigigargioni/KnowledgeManagerLLM"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:54:35Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:51:47Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
-    "id": "CryptoJones/RAG-Pipeline-Example",
-    "language": "Python",
-    "name": "CryptoJones/RAG-Pipeline-Example",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:20:39Z",
-    "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
   }
 ]
