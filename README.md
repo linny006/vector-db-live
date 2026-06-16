@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 21:59 UTC
+> ⏰ Last updated: 2026-06-16 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-06-16 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
-| 2 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-06-16 | C# SDK for the Weaviate API -- open-source vector database |
-| 3 | [tryAGI/Turbopuffer](https://github.com/tryAGI/Turbopuffer) | 0 | C# | 2026-06-16 | C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval |
-| 4 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-06-16 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
-| 5 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-06-16 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
-| 6 | [kaivid-labs/evret](https://github.com/kaivid-labs/evret) | 18 | Python | 2026-06-16 | Evals framework for Information Retrieval Systems |
-| 7 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50173 | Python | 2026-06-16 | LlamaIndex is the leading document agent and OCR platform |
-| 8 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 775 | Go | 2026-06-16 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 9 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 0 | C# | 2026-06-16 | C# SDK for the Chroma API -- open-source vector database |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-06-16 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
+| 4 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-06-16 | C# SDK for the Weaviate API -- open-source vector database |
+| 5 | [tryAGI/Turbopuffer](https://github.com/tryAGI/Turbopuffer) | 0 | C# | 2026-06-16 | C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval |
+| 6 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-06-16 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
+| 7 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-06-16 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
+| 8 | [kaivid-labs/evret](https://github.com/kaivid-labs/evret) | 18 | Python | 2026-06-16 | Evals framework for Information Retrieval Systems |
+| 9 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50173 | Python | 2026-06-16 | LlamaIndex is the leading document agent and OCR platform |
+| 10 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 775 | Go | 2026-06-16 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 11 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 0 | C# | 2026-06-16 | C# SDK for the Chroma API -- open-source vector database |
 | 12 | [theo-ai-lab/ai-career-coach](https://github.com/theo-ai-lab/ai-career-coach) | 0 | TypeScript | 2026-06-16 | Resume-grounded AI career coach — multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve |
 | 13 | [cyborginc/cyborgdb-js](https://github.com/cyborginc/cyborgdb-js) | 7 | TypeScript | 2026-06-16 | JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database |
 | 14 | [cyborginc/cyborgdb-go](https://github.com/cyborginc/cyborgdb-go) | 9 | Go | 2026-06-16 | Go Client for CyborgDB: The Confidential Vector Database |
