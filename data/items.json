@@ -1,5 +1,95 @@
 [
   {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:55:47Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:55:14Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
+    "id": "tryAGI/Turbopuffer",
+    "language": "C#",
+    "name": "tryAGI/Turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:53:57Z",
+    "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:53:47Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-06-16T21:52:22Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "Evals framework for Information Retrieval Systems",
+    "id": "kaivid-labs/evret",
+    "language": "Python",
+    "name": "kaivid-labs/evret",
+    "stars": 18,
+    "updated_at": "2026-06-16T21:51:57Z",
+    "url": "https://github.com/kaivid-labs/evret"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50173,
+    "updated_at": "2026-06-16T21:52:17Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 775,
+    "updated_at": "2026-06-16T21:48:34Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:48:16Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,7 +99,7 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Production AI career coaching platform \u2014 multi-agent orchestration, RAG, continuous LLM-as-judge evaluation",
+    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
     "id": "theo-ai-lab/ai-career-coach",
     "language": "TypeScript",
     "name": "theo-ai-lab/ai-career-coach",
@@ -34,24 +124,6 @@
     "stars": 9,
     "updated_at": "2026-06-16T21:39:06Z",
     "url": "https://github.com/cyborginc/cyborgdb-go"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Evals framework for Information Retrieval Systems",
-    "id": "kaivid-labs/evret",
-    "language": "Python",
-    "name": "kaivid-labs/evret",
-    "stars": 18,
-    "updated_at": "2026-06-16T21:30:13Z",
-    "url": "https://github.com/kaivid-labs/evret"
   },
   {
     "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
@@ -104,7 +176,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 61670,
-    "updated_at": "2026-06-16T21:43:24Z",
+    "updated_at": "2026-06-16T21:55:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17856,
-    "updated_at": "2026-06-16T21:39:31Z",
+    "updated_at": "2026-06-16T21:53:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/srimon12/qql-go"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 775,
-    "updated_at": "2026-06-16T20:22:47Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
     "id": "Fieldnote-Echo/ordvec",
     "language": "Rust",
@@ -194,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 66,
-    "updated_at": "2026-06-16T21:21:13Z",
+    "updated_at": "2026-06-16T21:50:14Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -266,7 +329,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T21:44:02Z",
+    "updated_at": "2026-06-16T21:47:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:24:22Z",
     "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:13:33Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
-  },
-  {
-    "description": "Production-ready Agentic AI Assistant with RAG, LangGraph workflows, Amazon Bedrock, vector search, and AWS deployment.",
-    "id": "goutamroy/ai-life-copilot",
-    "language": "Python",
-    "name": "goutamroy/ai-life-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:11:47Z",
-    "url": "https://github.com/goutamroy/ai-life-copilot"
-  },
-  {
-    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
-    "id": "Aaryav1130/rag-chatbot",
-    "language": "Python",
-    "name": "Aaryav1130/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:09:20Z",
-    "url": "https://github.com/Aaryav1130/rag-chatbot"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1846,
-    "updated_at": "2026-06-16T18:02:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "RAG-based compliance document analyzer \u2014 grounded Q&A, checklist generation, and gap analysis. Python \u00b7 Streamlit \u00b7 Chro",
-    "id": "manasaghattamaneni/complianceiq",
-    "language": "Python",
-    "name": "manasaghattamaneni/complianceiq",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:56:31Z",
-    "url": "https://github.com/manasaghattamaneni/complianceiq"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1435,
-    "updated_at": "2026-06-16T17:55:34Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "",
-    "id": "somenath203/NeuroPad",
-    "language": "JavaScript",
-    "name": "somenath203/NeuroPad",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:53:25Z",
-    "url": "https://github.com/somenath203/NeuroPad"
   }
 ]
