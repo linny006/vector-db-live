@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T17:00:30Z",
+    "updated_at": "2026-06-16T17:15:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:15:07Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Click below to checkout the website",
+    "id": "somenath203/NeuroPad",
+    "language": "JavaScript",
+    "name": "somenath203/NeuroPad",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:14:03Z",
+    "url": "https://github.com/somenath203/NeuroPad"
+  },
+  {
+    "description": "Multimodal extractors for video, image, audio, text & PDF \u2014 turn any file into searchable vector embeddings (SigLIP, Gem",
+    "id": "mixpeek/mixpeek-extractors",
+    "language": "Python",
+    "name": "mixpeek/mixpeek-extractors",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:12:48Z",
+    "url": "https://github.com/mixpeek/mixpeek-extractors"
+  },
+  {
+    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T17:11:15Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
+    "id": "JaeHoYun/vcf-rag-reference-architecture",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-rag-reference-architecture",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:09:58Z",
+    "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
+  },
+  {
+    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
+    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:09:54Z",
+    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
+  },
+  {
+    "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing 6\ubd80\uc791 \uc778\ub371\uc2a4 (PAIF 9.1 / PAIS 2.1)",
+    "id": "JaeHoYun/vcf-private-ai-series",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-private-ai-series",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:09:50Z",
+    "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
+  },
+  {
+    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
+    "id": "Vaibhav170216/llm-zoomcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "Vaibhav170216/llm-zoomcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:06:22Z",
+    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "SouravRoy-ETL/duckle",
+    "language": "Rust",
+    "name": "SouravRoy-ETL/duckle",
+    "stars": 510,
+    "updated_at": "2026-06-16T17:05:50Z",
+    "url": "https://github.com/SouravRoy-ETL/duckle"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-16T17:07:19Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
@@ -14,7 +113,7 @@
     "language": "Rust",
     "name": "ChrisGVE/workspace-qdrant-mcp",
     "stars": 2,
-    "updated_at": "2026-06-16T16:54:12Z",
+    "updated_at": "2026-06-16T17:00:41Z",
     "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
   },
   {
@@ -23,7 +122,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4409,
-    "updated_at": "2026-06-16T16:55:12Z",
+    "updated_at": "2026-06-16T17:15:02Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -36,24 +135,6 @@
     "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
-    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
-    "id": "Vaibhav170216/llm-zoomcamp-2026",
-    "language": "Jupyter Notebook",
-    "name": "Vaibhav170216/llm-zoomcamp-2026",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:52:31Z",
-    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
-  },
-  {
-    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T16:48:41Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 17852,
     "updated_at": "2026-06-16T16:48:22Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
@@ -85,7 +157,7 @@
     "id": "Kyros-494/kyros-ai",
     "language": "Python",
     "name": "Kyros-494/kyros-ai",
-    "stars": 92,
+    "stars": 91,
     "updated_at": "2026-06-16T16:41:39Z",
     "url": "https://github.com/Kyros-494/kyros-ai"
   },
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6119,
-    "updated_at": "2026-06-16T16:47:03Z",
+    "updated_at": "2026-06-16T17:13:29Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 76,
     "updated_at": "2026-06-16T16:40:25Z",
     "url": "https://github.com/hash-anu/snkv"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 510,
-    "updated_at": "2026-06-16T16:17:53Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
   },
   {
     "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
@@ -288,15 +351,6 @@
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
-    "description": "Multimodal extractors for video, image, audio, text & PDF \u2014 turn any file into searchable vector embeddings (SigLIP, Gem",
-    "id": "mixpeek/mixpeek-extractors",
-    "language": "\u2014",
-    "name": "mixpeek/mixpeek-extractors",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:11:42Z",
-    "url": "https://github.com/mixpeek/mixpeek-extractors"
-  },
-  {
     "description": "AI-Powered Bug Diagnosis Agent with Experiential Memory \u2014 the more bugs it sees, the faster it gets.",
     "id": "zavoryn/debug-mind",
     "language": "Python",
@@ -338,7 +392,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T16:56:01Z",
+    "updated_at": "2026-06-16T17:05:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 942,
-    "updated_at": "2026-06-16T14:48:41Z",
+    "updated_at": "2026-06-16T17:15:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -382,7 +436,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12661,
+    "stars": 12662,
     "updated_at": "2026-06-16T14:47:15Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -394,59 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-16T14:45:22Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "RAG service for intelligent bug analysis with multi-LLM support",
-    "id": "apex-bridge/bugspotter-intelligence",
-    "language": "Python",
-    "name": "apex-bridge/bugspotter-intelligence",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:41:31Z",
-    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:53Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9341,
-    "updated_at": "2026-06-16T14:37:47Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:36:41Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Generate SQL queries from natural language text using an LLM-powered interface built with FastAPI, React, and LangChain.",
-    "id": "fik93673/QueryMind-SQL",
-    "language": "TypeScript",
-    "name": "fik93673/QueryMind-SQL",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:35:47Z",
-    "url": "https://github.com/fik93673/QueryMind-SQL"
-  },
-  {
-    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
-    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:34:17Z",
-    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
   }
 ]
