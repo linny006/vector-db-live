@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-16T17:00:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
+    "id": "ChrisGVE/workspace-qdrant-mcp",
+    "language": "Rust",
+    "name": "ChrisGVE/workspace-qdrant-mcp",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:54:12Z",
+    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4409,
+    "updated_at": "2026-06-16T16:55:12Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
     "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
     "id": "AK-Jeevan/production-rag-system",
     "language": "Python",
     "name": "AK-Jeevan/production-rag-system",
     "stars": 0,
-    "updated_at": "2026-06-16T16:43:07Z",
+    "updated_at": "2026-06-16T16:53:41Z",
     "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
+    "id": "Vaibhav170216/llm-zoomcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "Vaibhav170216/llm-zoomcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:52:31Z",
+    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
+  },
+  {
+    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T16:48:41Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17852,
+    "updated_at": "2026-06-16T16:48:22Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 5,
-    "updated_at": "2026-06-16T16:39:02Z",
+    "updated_at": "2026-06-16T17:00:06Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 7,
     "updated_at": "2026-06-16T16:34:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:30:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-16T16:45:29Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l",
@@ -81,21 +126,12 @@
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
   {
-    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
-    "id": "Vaibhav170216/llm-zoomcamp-2026",
-    "language": "Jupyter Notebook",
-    "name": "Vaibhav170216/llm-zoomcamp-2026",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:27:13Z",
-    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6119,
-    "updated_at": "2026-06-16T16:27:59Z",
+    "updated_at": "2026-06-16T16:47:03Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -112,7 +148,7 @@
     "id": "SouravRoy-ETL/duckle",
     "language": "Rust",
     "name": "SouravRoy-ETL/duckle",
-    "stars": 509,
+    "stars": 510,
     "updated_at": "2026-06-16T16:17:53Z",
     "url": "https://github.com/SouravRoy-ETL/duckle"
   },
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-16T16:38:05Z",
+    "updated_at": "2026-06-16T16:58:51Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -184,7 +220,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44803,
+    "stars": 44804,
     "updated_at": "2026-06-16T15:56:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:20:39Z",
     "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
-  },
-  {
-    "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T15:17:57Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -311,7 +338,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6156,
-    "updated_at": "2026-06-16T16:30:09Z",
+    "updated_at": "2026-06-16T16:56:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:34:17Z",
     "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:32:50Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:32:25Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:31:42Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
