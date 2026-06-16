@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T08:45:23Z",
+    "updated_at": "2026-06-16T09:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-16T08:59:29Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-16T08:59:34Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 19,
+    "updated_at": "2026-06-16T08:55:02Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "RAG-based API migration assistant that retrieves migration guidelines and generates updated code suggestions using LangC",
+    "id": "SANTHIYAM306/RAG_API_HEALER",
+    "language": "Python",
+    "name": "SANTHIYAM306/RAG_API_HEALER",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:47:12Z",
+    "url": "https://github.com/SANTHIYAM306/RAG_API_HEALER"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:42:31Z",
     "url": "https://github.com/tanaos/cognitor-worker"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:42:39Z",
-    "url": "https://github.com/zilliztech/mfs"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -70,15 +106,6 @@
     "stars": 195,
     "updated_at": "2026-06-16T08:41:01Z",
     "url": "https://github.com/monkesearch/monkeSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Real-time RAG system for incident response: streams GitHub, Jira, and log events via Kafka into pgvector, enabling conte",
@@ -329,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16332,
-    "updated_at": "2026-06-16T08:41:09Z",
+    "updated_at": "2026-06-16T08:51:13Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4409,
-    "updated_at": "2026-06-16T08:43:36Z",
+    "updated_at": "2026-06-16T09:00:27Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T08:04:29Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:04:21Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Smart Study Buddy is an AI-powered educational platform that helps students learn more effectively by turning study mate",
-    "id": "RohitVerma2003/Smart-Study-Buddy",
-    "language": "TypeScript",
-    "name": "RohitVerma2003/Smart-Study-Buddy",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:03:56Z",
-    "url": "https://github.com/RohitVerma2003/Smart-Study-Buddy"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:03:46Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
