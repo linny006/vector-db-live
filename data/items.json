@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-16T19:30:25Z",
+    "updated_at": "2026-06-16T19:45:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 211,
+    "updated_at": "2026-06-16T19:44:29Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Click below to checkout the website",
@@ -14,15 +23,60 @@
     "language": "JavaScript",
     "name": "somenath203/ChatFolio",
     "stars": 0,
-    "updated_at": "2026-06-16T19:30:29Z",
+    "updated_at": "2026-06-16T19:42:57Z",
     "url": "https://github.com/somenath203/ChatFolio"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:39:59Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32381,
+    "updated_at": "2026-06-16T19:37:43Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:34:56Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6156,
+    "updated_at": "2026-06-16T19:33:24Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61668,
+    "stars": 61669,
     "updated_at": "2026-06-16T19:27:52Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Fidonis/qdrant-mcp-rbac",
     "stars": 0,
-    "updated_at": "2026-06-16T19:29:34Z",
+    "updated_at": "2026-06-16T19:40:32Z",
     "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
   },
   {
@@ -45,21 +99,12 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:22:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
     "id": "lightonai/next-plaid",
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-16T19:20:43Z",
+    "updated_at": "2026-06-16T19:43:58Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -76,18 +121,9 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5287,
+    "stars": 5288,
     "updated_at": "2026-06-16T19:19:02Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 211,
-    "updated_at": "2026-06-16T19:15:30Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 21,
-    "updated_at": "2026-06-16T19:07:29Z",
+    "updated_at": "2026-06-16T19:32:22Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 11,
     "updated_at": "2026-06-16T18:48:50Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32380,
-    "updated_at": "2026-06-16T18:46:02Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Evals framework for Information Retrieval Systems",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6120,
-    "updated_at": "2026-06-16T18:50:18Z",
+    "updated_at": "2026-06-16T19:42:51Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -346,7 +373,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 2940,
+    "stars": 2941,
     "updated_at": "2026-06-16T17:39:36Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:09:54Z",
     "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
-    "id": "Vaibhav170216/llm-zoomcamp-2026",
-    "language": "Jupyter Notebook",
-    "name": "Vaibhav170216/llm-zoomcamp-2026",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:06:22Z",
-    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "SouravRoy-ETL/duckle",
-    "language": "Rust",
-    "name": "SouravRoy-ETL/duckle",
-    "stars": 517,
-    "updated_at": "2026-06-16T17:05:50Z",
-    "url": "https://github.com/SouravRoy-ETL/duckle"
-  },
-  {
-    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
-    "id": "ChrisGVE/workspace-qdrant-mcp",
-    "language": "Rust",
-    "name": "ChrisGVE/workspace-qdrant-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-16T17:00:41Z",
-    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
   }
 ]
