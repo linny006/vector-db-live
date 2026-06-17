@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
+    "id": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "language": "TypeScript",
+    "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:13:05Z",
+    "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:08:27Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Production-ready RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with auth, structured logging, and configurabl",
+    "id": "marcuspat/ai-knowledge-assist",
+    "language": "Python",
+    "name": "marcuspat/ai-knowledge-assist",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:08:14Z",
+    "url": "https://github.com/marcuspat/ai-knowledge-assist"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 51,
+    "updated_at": "2026-06-17T02:07:14Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:06:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50178,
+    "updated_at": "2026-06-17T02:04:27Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -9,22 +72,13 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16336,
+    "updated_at": "2026-06-17T01:57:48Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:54:21Z",
     "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
-  },
-  {
-    "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
-    "id": "Dream-Pixels-Forge/obsidian-memorius-plugin",
-    "language": "TypeScript",
-    "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:52:31Z",
-    "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -117,15 +162,6 @@
     "url": "https://github.com/zentrix-innovative-labs/galaxdb"
   },
   {
-    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 51,
-    "updated_at": "2026-06-17T01:26:45Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -157,18 +193,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61682,
+    "stars": 61683,
     "updated_at": "2026-06-17T01:08:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:04:19Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "MatthewRyanWeber/data-governance-pipeline",
     "stars": 0,
-    "updated_at": "2026-06-17T02:06:22Z",
+    "updated_at": "2026-06-17T02:07:41Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 227,
     "updated_at": "2026-06-17T00:08:48Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50175,
-    "updated_at": "2026-06-17T02:04:27Z",
-    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -430,23 +448,5 @@
     "stars": 6157,
     "updated_at": "2026-06-16T21:47:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
-    "id": "theo-ai-lab/ai-career-coach",
-    "language": "TypeScript",
-    "name": "theo-ai-lab/ai-career-coach",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:44:52Z",
-    "url": "https://github.com/theo-ai-lab/ai-career-coach"
-  },
-  {
-    "description": "JavaScript & TypeScript Client SDK for CyborgDB: The Confidential Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-06-16T21:40:57Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
   }
 ]
