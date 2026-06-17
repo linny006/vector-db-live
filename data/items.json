@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI Research Pilot is a multi-modal Retrieval-Augmented Intelligence platform that transforms user-provided content into ",
-    "id": "Kiranravi80/RAG-based-Research-Tutor",
-    "language": "\u2014",
-    "name": "Kiranravi80/RAG-based-Research-Tutor",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T12:03:31Z",
-    "url": "https://github.com/Kiranravi80/RAG-based-Research-Tutor"
+    "updated_at": "2026-06-17T12:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
+    "id": "developer-shubham101/ai_engineer",
+    "language": "Python",
+    "name": "developer-shubham101/ai_engineer",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:15:13Z",
+    "url": "https://github.com/developer-shubham101/ai_engineer"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 495,
+    "updated_at": "2026-06-17T12:10:09Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1124,
+    "updated_at": "2026-06-17T12:09:07Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-17T12:00:35Z",
+    "updated_at": "2026-06-17T12:05:40Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "AI Research Pilot is a multi-modal Retrieval-Augmented Intelligence platform that transforms user-provided content into ",
+    "id": "Kiranravi80/RAG-based-Research-Tutor",
+    "language": "\u2014",
+    "name": "Kiranravi80/RAG-based-Research-Tutor",
     "stars": 1,
-    "updated_at": "2026-06-17T12:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-17T12:03:31Z",
+    "url": "https://github.com/Kiranravi80/RAG-based-Research-Tutor"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -72,21 +99,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 495,
-    "updated_at": "2026-06-17T12:03:05Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6962,
-    "updated_at": "2026-06-17T11:55:30Z",
+    "updated_at": "2026-06-17T12:12:31Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -373,7 +391,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58143,
+    "stars": 58144,
     "updated_at": "2026-06-17T10:19:19Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-17T09:52:20Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Production-grade AI anime recommender | RAG pipeline with ChromaDB + Groq (Llama 3.1) + LangChain | Dockerized, deployed",
-    "id": "Anand-Velpuri/AI-Anime-Recommender",
-    "language": "Python",
-    "name": "Anand-Velpuri/AI-Anime-Recommender",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:51:53Z",
-    "url": "https://github.com/Anand-Velpuri/AI-Anime-Recommender"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:50:14Z",
-    "url": "https://github.com/kalisio/knowledge"
   }
 ]
