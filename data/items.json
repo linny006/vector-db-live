@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6960,
+    "updated_at": "2026-06-17T07:28:37Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:27:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 12,
-    "updated_at": "2026-06-17T07:25:59Z",
+    "updated_at": "2026-06-17T07:28:19Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -34,33 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T07:22:34Z",
     "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6960,
-    "updated_at": "2026-06-17T07:19:29Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -238,7 +238,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10654,
+    "stars": 10656,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-17T07:14:01Z",
+    "updated_at": "2026-06-17T07:28:13Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 07:27 UTC
+> ⏰ Last updated: 2026-06-17 07:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 12 | Rust | 2026-06-17 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 2 | [sochdb/sochdb-nodejs-sdk](https://github.com/sochdb/sochdb-nodejs-sdk) | 0 | TypeScript | 2026-06-17 | SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - nodejs sdk |
-| 3 | [nobijoy/memcore-rs](https://github.com/nobijoy/memcore-rs) | 1 | Rust | 2026-06-17 | High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction,  |
-| 4 | [sochdb/sochdb-python-sdk](https://github.com/sochdb/sochdb-python-sdk) | 2 | Python | 2026-06-17 | SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk |
-| 5 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6960 | Java | 2026-06-17 | The AI search platform |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6960 | Java | 2026-06-17 | The AI search platform |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 12 | Rust | 2026-06-17 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 5 | [sochdb/sochdb-nodejs-sdk](https://github.com/sochdb/sochdb-nodejs-sdk) | 0 | TypeScript | 2026-06-17 | SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - nodejs sdk |
+| 6 | [nobijoy/memcore-rs](https://github.com/nobijoy/memcore-rs) | 1 | Rust | 2026-06-17 | High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction,  |
+| 7 | [sochdb/sochdb-python-sdk](https://github.com/sochdb/sochdb-python-sdk) | 2 | Python | 2026-06-17 | SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk |
 | 8 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-06-17 | High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration,  |
 | 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17866 | Python | 2026-06-17 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 10 | [zilliztech/mfs](https://github.com/zilliztech/mfs) | 2 | Python | 2026-06-17 | A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one searchable, b |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [TheAnishSolankii/rag-chatbot](https://github.com/TheAnishSolankii/rag-chatbot) | 0 | JavaScript | 2026-06-17 | 🤖 AI-powered RAG Chatbot — chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React |
 | 25 | [siaarzh/scrybe](https://github.com/siaarzh/scrybe) | 3 | TypeScript | 2026-06-17 | Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu |
 | 26 | [MariaDB/server](https://github.com/MariaDB/server) | 7742 | C++ | 2026-06-17 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 27 | [alibaba/zvec](https://github.com/alibaba/zvec) | 10654 | C++ | 2026-06-17 | A lightweight, lightning-fast, in-process vector database |
+| 27 | [alibaba/zvec](https://github.com/alibaba/zvec) | 10656 | C++ | 2026-06-17 | A lightweight, lightning-fast, in-process vector database |
 | 28 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-17 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 29 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-17 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
 | 30 | [AndreyWinz/logo-brand-archive](https://github.com/AndreyWinz/logo-brand-archive) | 0 | — | 2026-06-17 | A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St |
