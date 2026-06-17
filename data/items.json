@@ -1,12 +1,129 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:45:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "ducklelabs/duckle",
     "language": "Rust",
     "name": "ducklelabs/duckle",
-    "stars": 528,
-    "updated_at": "2026-06-17T09:29:24Z",
+    "stars": 530,
+    "updated_at": "2026-06-17T09:45:12Z",
     "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44814,
+    "updated_at": "2026-06-17T09:44:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 228,
+    "updated_at": "2026-06-17T09:39:45Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1846,
+    "updated_at": "2026-06-17T09:38:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-17T09:37:17Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32396,
+    "updated_at": "2026-06-17T09:44:45Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 5,
+    "updated_at": "2026-06-17T09:44:19Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Build a Personal RAG Assistant locally.",
+    "id": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "language": "Python",
+    "name": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:34:58Z",
+    "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6158,
+    "updated_at": "2026-06-17T09:37:33Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:41:38Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-17T09:30:59Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4410,
+    "updated_at": "2026-06-17T09:37:31Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Documentation Scraper & Post-Processor",
@@ -45,24 +162,6 @@
     "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:15:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T09:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -72,21 +171,12 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44814,
-    "updated_at": "2026-06-17T09:12:24Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58142,
-    "updated_at": "2026-06-17T09:19:50Z",
+    "updated_at": "2026-06-17T09:33:44Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T09:08:45Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-17T08:59:45Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -176,17 +257,8 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 213,
-    "updated_at": "2026-06-17T08:37:17Z",
+    "updated_at": "2026-06-17T09:42:11Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32395,
-    "updated_at": "2026-06-17T08:59:48Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
@@ -202,8 +274,8 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5331,
-    "updated_at": "2026-06-17T08:17:07Z",
+    "stars": 5333,
+    "updated_at": "2026-06-17T09:44:24Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -216,30 +288,12 @@
     "url": "https://github.com/Filippo-Venturini/ctxvault"
   },
   {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-17T08:54:44Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6158,
-    "updated_at": "2026-06-17T09:25:57Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
     "id": "zilliztech/knowhere",
     "language": "C++",
     "name": "zilliztech/knowhere",
     "stars": 359,
-    "updated_at": "2026-06-17T08:08:20Z",
+    "updated_at": "2026-06-17T09:32:17Z",
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T07:45:54Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1846,
-    "updated_at": "2026-06-17T08:08:32Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - nodejs sdk",
@@ -313,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-06-17T07:01:57Z",
     "url": "https://github.com/ihimanshu29/Agentic-AI-Lucknow-Guide-FastAPI"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4410,
-    "updated_at": "2026-06-17T08:44:42Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -409,44 +445,8 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10701,
+    "stars": 10708,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:13:15Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-17T06:14:23Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St",
-    "id": "AndreyWinz/logo-brand-archive",
-    "language": "\u2014",
-    "name": "AndreyWinz/logo-brand-archive",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:11:30Z",
-    "url": "https://github.com/AndreyWinz/logo-brand-archive"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:10:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
