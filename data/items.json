@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 528,
+    "updated_at": "2026-06-17T09:29:24Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "Documentation Scraper & Post-Processor",
+    "id": "emanuelrechsteiner/DocScraper",
+    "language": "Python",
+    "name": "emanuelrechsteiner/DocScraper",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:25:39Z",
+    "url": "https://github.com/emanuelrechsteiner/DocScraper"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-17T09:18:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-17T09:18:36Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:17:01Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:15:42Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16337,
+    "updated_at": "2026-06-17T09:30:05Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -23,8 +86,17 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58142,
-    "updated_at": "2026-06-17T09:12:06Z",
+    "updated_at": "2026-06-17T09:19:50Z",
     "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI-powered Research Assistant built with FastAPI, React, LangChain, Mistral AI, and ChromaDB. Supports PDF analysis, RAG",
+    "id": "Tejas-kurude/AI-Research-Assistant-Fullstack",
+    "language": "JavaScript",
+    "name": "Tejas-kurude/AI-Research-Assistant-Fullstack",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:08:58Z",
+    "url": "https://github.com/Tejas-kurude/AI-Research-Assistant-Fullstack"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -36,24 +108,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:04:47Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:00:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
     "id": "notadev-iamaura/OneRAG",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 528,
-    "updated_at": "2026-06-17T09:09:18Z",
-    "url": "https://github.com/ducklelabs/duckle"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -79,15 +124,6 @@
     "stars": 12356,
     "updated_at": "2026-06-17T08:53:42Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 1,
-    "updated_at": "2026-06-17T08:47:08Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
     "description": "fast, efficient, redis-compatible database",
@@ -117,15 +153,6 @@
     "url": "https://github.com/Thangcomplex/rag-claude-chatbot"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16336,
-    "updated_at": "2026-06-17T09:13:55Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T08:42:33Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T09:09:12Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
@@ -212,7 +230,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-17T09:12:48Z",
+    "updated_at": "2026-06-17T09:25:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "siaarzh/scrybe",
     "stars": 3,
-    "updated_at": "2026-06-17T06:29:13Z",
+    "updated_at": "2026-06-17T09:29:53Z",
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6121,
-    "updated_at": "2026-06-17T09:11:39Z",
+    "updated_at": "2026-06-17T09:19:41Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -391,7 +409,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10696,
+    "stars": 10701,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:10:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Agentic resume-tailoring & gap-analysis tool \u2014 LangGraph, RAG (pgvector), and LangSmith observability",
-    "id": "davidcjw/career-copilot",
-    "language": "Python",
-    "name": "davidcjw/career-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:09:53Z",
-    "url": "https://github.com/davidcjw/career-copilot"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1578,
-    "updated_at": "2026-06-17T06:04:22Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
