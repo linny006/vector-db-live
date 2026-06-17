@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:30 UTC
+> ⏰ Last updated: 2026-06-17 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-17 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 2 | [diegoglozano/revector](https://github.com/diegoglozano/revector) | 0 | Rust | 2026-06-17 | Declarative, versioned schema & config migrations for Qdrant — Alembic for vector collections. |
-| 3 | [TammineniTanay/hybrid-rag-system](https://github.com/TammineniTanay/hybrid-rag-system) | 2 | Python | 2026-06-17 | Production-grade RAG system with hybrid retrieval (Qdrant + Elasticsearch + Neo4j), Corrective RAG via LangGraph, feedba |
-| 4 | [waynewbishop/quiver](https://github.com/waynewbishop/quiver) | 5 | Swift | 2026-06-17 | Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning. |
-| 5 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-17 | Single-binary operational CLI for Qdrant with .qql runbooks, CI automation, retrieval diagnostics, and stable JSON outpu |
-| 6 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 0 | — | 2026-06-17 | Profile README |
-| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-06-17 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [diegoglozano/revector](https://github.com/diegoglozano/revector) | 0 | Rust | 2026-06-17 | Declarative, versioned schema & config migrations for Qdrant — Alembic for vector collections. |
+| 2 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-17 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 3 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-17 | CLI, SDK, and gateway for Qdrant — SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [TammineniTanay/hybrid-rag-system](https://github.com/TammineniTanay/hybrid-rag-system) | 2 | Python | 2026-06-17 | Production-grade RAG system with hybrid retrieval (Qdrant + Elasticsearch + Neo4j), Corrective RAG via LangGraph, feedba |
+| 7 | [waynewbishop/quiver](https://github.com/waynewbishop/quiver) | 5 | Swift | 2026-06-17 | Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning. |
+| 8 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 0 | — | 2026-06-17 | Profile README |
+| 9 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-06-17 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 10 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 1 | Python | 2026-06-17 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
 | 11 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 108 | Python | 2026-06-17 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
 | 12 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 11 | JavaScript | 2026-06-17 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
 | 13 | [AliSajadian/agentica](https://github.com/AliSajadian/agentica) | 0 | Python | 2026-06-17 | Production-grade agentic AI orchestration platform — RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama, |
 | 14 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 214 | Python | 2026-06-17 | Local-first, zero-key semantic code search for large and custom codebases — hybrid vector + keyword retrieval with symbo |
-| 15 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61735 | JavaScript | 2026-06-17 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 15 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 61736 | JavaScript | 2026-06-17 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 16 | [MariaDB/server](https://github.com/MariaDB/server) | 7744 | C++ | 2026-06-17 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 18 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10631 | HTML | 2026-06-17 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
