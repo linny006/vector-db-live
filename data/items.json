@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T10:15:11Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
+    "id": "Buffden/rag-document-engine",
+    "language": "Python",
+    "name": "Buffden/rag-document-engine",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:13:41Z",
+    "url": "https://github.com/Buffden/rag-document-engine"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T10:00:26Z",
+    "updated_at": "2026-06-17T10:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-17T10:05:47Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 228,
+    "updated_at": "2026-06-17T10:04:27Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 495,
+    "updated_at": "2026-06-17T10:12:08Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44814,
-    "updated_at": "2026-06-17T09:58:23Z",
+    "updated_at": "2026-06-17T10:04:25Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -45,12 +99,21 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
+    "description": "Production-grade AI anime recommender | RAG pipeline with ChromaDB + Groq (Llama 3.1) + LangChain | Dockerized, deployed",
+    "id": "Anand-Velpuri/AI-Anime-Recommender",
+    "language": "Python",
+    "name": "Anand-Velpuri/AI-Anime-Recommender",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:51:53Z",
+    "url": "https://github.com/Anand-Velpuri/AI-Anime-Recommender"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "ducklelabs/duckle",
     "language": "Rust",
     "name": "ducklelabs/duckle",
     "stars": 530,
-    "updated_at": "2026-06-17T09:51:38Z",
+    "updated_at": "2026-06-17T10:10:32Z",
     "url": "https://github.com/ducklelabs/duckle"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T09:50:14Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 495,
-    "updated_at": "2026-06-17T09:49:59Z",
-    "url": "https://github.com/lightonai/next-plaid"
   },
   {
     "description": "Knowledge Manager LLM",
@@ -86,26 +140,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32397,
-    "updated_at": "2026-06-17T09:46:12Z",
+    "updated_at": "2026-06-17T10:08:26Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:45:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 228,
-    "updated_at": "2026-06-17T09:39:45Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -140,7 +176,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-17T09:37:33Z",
+    "updated_at": "2026-06-17T10:13:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16338,
-    "updated_at": "2026-06-17T09:30:05Z",
+    "updated_at": "2026-06-17T10:10:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:08:58Z",
     "url": "https://github.com/Tejas-kurude/AI-Research-Assistant-Fullstack"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T09:08:45Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -333,6 +360,15 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17870,
+    "updated_at": "2026-06-17T08:06:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -367,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T07:22:34Z",
     "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17868,
-    "updated_at": "2026-06-17T08:06:33Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library. ",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-17T06:42:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "**LangChain learning repository featuring hands-on notebooks, experiments, and study notes on data ingestion, text split",
-    "id": "kashyapsundaragiri/LangChain-Study-Repository",
-    "language": "Jupyter Notebook",
-    "name": "kashyapsundaragiri/LangChain-Study-Repository",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:40:07Z",
-    "url": "https://github.com/kashyapsundaragiri/LangChain-Study-Repository"
-  },
-  {
-    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-py",
-    "language": "Python",
-    "name": "Dakera-AI/dakera-py",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:31:53Z",
-    "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
-    "id": "TheAnishSolankii/rag-chatbot",
-    "language": "JavaScript",
-    "name": "TheAnishSolankii/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:29:32Z",
-    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
   }
 ]
