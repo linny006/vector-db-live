@@ -1,12 +1,30 @@
 [
   {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
+    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:45:17Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:44:33Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
     "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 193,
-    "updated_at": "2026-06-17T00:27:05Z",
-    "url": "https://github.com/deven96/ahnlich"
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-17T00:44:17Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
@@ -14,8 +32,44 @@
     "language": "Rust",
     "name": "zentrix-innovative-labs/galaxdb",
     "stars": 7,
-    "updated_at": "2026-06-17T00:26:59Z",
+    "updated_at": "2026-06-17T00:37:15Z",
     "url": "https://github.com/zentrix-innovative-labs/galaxdb"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T00:30:41Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T00:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 193,
+    "updated_at": "2026-06-17T00:27:05Z",
+    "url": "https://github.com/deven96/ahnlich"
   },
   {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -45,15 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -63,15 +108,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
     "id": "sammyjdev/rpg-master-ai",
     "language": "Java",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:15:15Z",
     "url": "https://github.com/sammyjdev/rpg-master-ai"
-  },
-  {
-    "description": "Self-hosted GenAI platform: chat, RAG, agents, ETL, ML notebooks. 30 OSS Docker Compose services (Ollama, LiteLLM, Supab",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:09:04Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1578,
-    "updated_at": "2026-06-16T23:25:52Z",
+    "updated_at": "2026-06-17T00:45:16Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -184,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61674,
+    "stars": 61675,
     "updated_at": "2026-06-16T22:39:02Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -279,6 +306,15 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6157,
+    "updated_at": "2026-06-16T21:47:48Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
     "id": "theo-ai-lab/ai-career-coach",
     "language": "TypeScript",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6120,
-    "updated_at": "2026-06-16T23:44:51Z",
+    "updated_at": "2026-06-17T00:44:17Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-17T00:06:53Z",
+    "updated_at": "2026-06-17T00:41:30Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 21,
     "updated_at": "2026-06-16T20:18:16Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T00:27:39Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:42:57Z",
     "url": "https://github.com/somenath203/ChatFolio"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6156,
-    "updated_at": "2026-06-16T21:47:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out. Maintained by Fidonis.",
-    "id": "Fidonis/qdrant-mcp-rbac",
-    "language": "Python",
-    "name": "Fidonis/qdrant-mcp-rbac",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:44:29Z",
-    "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 942,
-    "updated_at": "2026-06-16T23:36:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
