@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 228,
+    "updated_at": "2026-06-17T14:10:56Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:10:44Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
+    "id": "rani700/healthcompanion",
+    "language": "Python",
+    "name": "rani700/healthcompanion",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:07:22Z",
+    "url": "https://github.com/rani700/healthcompanion"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 359,
+    "updated_at": "2026-06-17T14:04:20Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T14:00:36Z",
+    "updated_at": "2026-06-17T14:02:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:00:42Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:48:59Z",
     "url": "https://github.com/yashumishra11-dot/rag-customer-support-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:45:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16339,
-    "updated_at": "2026-06-17T14:00:33Z",
+    "updated_at": "2026-06-17T14:08:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -112,8 +148,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32400,
-    "updated_at": "2026-06-17T13:19:19Z",
+    "stars": 32401,
+    "updated_at": "2026-06-17T14:04:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -166,7 +202,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58145,
+    "stars": 58146,
     "updated_at": "2026-06-17T13:02:02Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -178,15 +214,6 @@
     "stars": 1846,
     "updated_at": "2026-06-17T12:58:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:50:37Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -360,15 +387,6 @@
     "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 228,
-    "updated_at": "2026-06-17T11:24:59Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
     "description": "An intelligent chatbot that answers questions about PDF documents",
     "id": "kia/rag-doc-chatbot",
     "language": "Python",
@@ -383,7 +401,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T13:56:51Z",
+    "updated_at": "2026-06-17T14:07:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:01:05Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
-    "id": "tryAGI/Pinecone",
-    "language": "C#",
-    "name": "tryAGI/Pinecone",
-    "stars": 8,
-    "updated_at": "2026-06-17T10:54:40Z",
-    "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
-    "id": "Buffden/rag-document-engine",
-    "language": "Python",
-    "name": "Buffden/rag-document-engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:52:33Z",
-    "url": "https://github.com/Buffden/rag-document-engine"
   }
 ]
