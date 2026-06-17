@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T14:45:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58145,
+    "updated_at": "2026-06-17T14:38:31Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-06-17T14:38:10Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-17T14:37:33Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-06-17T14:42:36Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-17T14:33:36Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:33:05Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:24:48Z",
     "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-06-17T14:24:13Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
@@ -68,26 +131,8 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T14:19:25Z",
+    "updated_at": "2026-06-17T14:43:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:15:36Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
@@ -106,15 +151,6 @@
     "stars": 228,
     "updated_at": "2026-06-17T14:10:56Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:10:44Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
     "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
@@ -142,33 +178,6 @@
     "stars": 359,
     "updated_at": "2026-06-17T14:04:20Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-06-17T13:57:43Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-17T13:56:48Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T14:27:16Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "RAG-powered customer support assistant using chromaDB, BGE embeddings, and Groq LLM",
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16339,
-    "updated_at": "2026-06-17T14:28:43Z",
+    "updated_at": "2026-06-17T14:42:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -270,15 +279,6 @@
     "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58146,
-    "updated_at": "2026-06-17T13:02:02Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -292,7 +292,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10630,
+    "stars": 10629,
     "updated_at": "2026-06-17T12:48:05Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -446,7 +446,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 944,
-    "updated_at": "2026-06-17T14:29:37Z",
+    "updated_at": "2026-06-17T14:36:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
