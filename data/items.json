@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
+    "id": "Miss-prachi-guptaa/Tech-Diary",
+    "language": "JavaScript",
+    "name": "Miss-prachi-guptaa/Tech-Diary",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:43:15Z",
+    "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-17T12:42:15Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-17T12:41:28Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "Self-hosted AI agent for enterprise data \u2014 financial, internal knowledge, the important stuff. Knowledge bases, workflow",
@@ -14,8 +32,44 @@
     "language": "TypeScript",
     "name": "badhope/DATA-AI",
     "stars": 21,
-    "updated_at": "2026-06-17T12:28:08Z",
+    "updated_at": "2026-06-17T12:39:07Z",
     "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-17T12:37:45Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-06-17T12:30:33Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T12:45:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
     "id": "developer-shubham101/ai_engineer",
     "language": "Python",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-17T12:10:09Z",
+    "updated_at": "2026-06-17T12:42:56Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -108,31 +153,13 @@
     "url": "https://github.com/AndreyWinz/logo-brand-archive"
   },
   {
-    "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
-    "id": "Miss-prachi-guptaa/Tech-Diary",
-    "language": "JavaScript",
-    "name": "Miss-prachi-guptaa/Tech-Diary",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:54:18Z",
-    "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1846,
-    "updated_at": "2026-06-17T11:54:06Z",
+    "updated_at": "2026-06-17T12:38:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T12:12:31Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -151,15 +178,6 @@
     "stars": 44816,
     "updated_at": "2026-06-17T11:48:24Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-17T12:29:21Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T12:18:11Z",
+    "updated_at": "2026-06-17T12:39:29Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T11:33:34Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-06-17T11:29:52Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32398,
-    "updated_at": "2026-06-17T12:29:23Z",
+    "updated_at": "2026-06-17T12:43:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58144,
-    "updated_at": "2026-06-17T10:19:19Z",
+    "updated_at": "2026-06-17T12:35:48Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T10:16:33Z",
     "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
-  },
-  {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-17T10:16:15Z",
-    "url": "https://github.com/tanaos/cognitor"
   }
 ]
