@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 12,
+    "updated_at": "2026-06-17T07:25:59Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - nodejs sdk",
+    "id": "sochdb/sochdb-nodejs-sdk",
+    "language": "TypeScript",
+    "name": "sochdb/sochdb-nodejs-sdk",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:24:55Z",
+    "url": "https://github.com/sochdb/sochdb-nodejs-sdk"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:21:44Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
+    "id": "sochdb/sochdb-python-sdk",
+    "language": "Python",
+    "name": "sochdb/sochdb-python-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:22:34Z",
+    "url": "https://github.com/sochdb/sochdb-python-sdk"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6960,
+    "updated_at": "2026-06-17T07:19:29Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-06-17T07:14:53Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17866,
+    "updated_at": "2026-06-17T07:10:37Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
@@ -27,15 +99,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6960,
-    "updated_at": "2026-06-17T07:07:07Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "An enterprise-grade, full-stack AI travel planner which provides data-driven itineraries for Lucknow, India and showcase",
     "id": "ihimanshu29/Agentic-AI-Lucknow-Guide-FastAPI",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-17T07:01:57Z",
     "url": "https://github.com/ihimanshu29/Agentic-AI-Lucknow-Guide-FastAPI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:01:37Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -68,17 +122,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T07:00:54Z",
+    "updated_at": "2026-06-17T07:25:34Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -99,6 +144,15 @@
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 944,
+    "updated_at": "2026-06-17T06:48:42Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "ducklelabs/duckle",
     "language": "Rust",
@@ -108,15 +162,6 @@
     "url": "https://github.com/ducklelabs/duckle"
   },
   {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:45:08Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
     "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:45:04Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17865,
-    "updated_at": "2026-06-17T07:10:37Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44809,
-    "updated_at": "2026-06-17T06:34:23Z",
+    "updated_at": "2026-06-17T07:22:25Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -202,7 +238,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10648,
+    "stars": 10654,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -223,15 +259,6 @@
     "stars": 15,
     "updated_at": "2026-06-17T06:14:23Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 12,
-    "updated_at": "2026-06-17T07:13:07Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St",
@@ -319,7 +346,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12356,
+    "stars": 12355,
     "updated_at": "2026-06-17T05:34:56Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 943,
-    "updated_at": "2026-06-17T06:48:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Local-first AI agent workspace to cowork with AI on coding, tasks & docs \u2014 self-hosted, privacy-first, one-command Docke",
     "id": "thanhdp1305/171305-cowork",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T04:02:39Z",
     "url": "https://github.com/man4ish/omnibioai-dev-hub"
-  },
-  {
-    "description": "BioScout AI is an advanced, production-ready Intelligence Platform designed for healthcare and agritech investment scout",
-    "id": "aakash2410/HealthRnD",
-    "language": "HTML",
-    "name": "aakash2410/HealthRnD",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:58:17Z",
-    "url": "https://github.com/aakash2410/HealthRnD"
-  },
-  {
-    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
-    "id": "zentrix-innovative-labs/galaxdb",
-    "language": "Rust",
-    "name": "zentrix-innovative-labs/galaxdb",
-    "stars": 7,
-    "updated_at": "2026-06-17T06:33:53Z",
-    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
   }
 ]
