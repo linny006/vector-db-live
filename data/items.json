@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T13:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1846,
+    "updated_at": "2026-06-17T12:58:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
     "id": "Miss-prachi-guptaa/Tech-Diary",
     "language": "JavaScript",
     "name": "Miss-prachi-guptaa/Tech-Diary",
     "stars": 0,
-    "updated_at": "2026-06-17T12:43:15Z",
+    "updated_at": "2026-06-17T12:56:44Z",
     "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:50:37Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10630,
+    "updated_at": "2026-06-17T12:48:05Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32399,
+    "updated_at": "2026-06-17T12:47:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 530,
+    "updated_at": "2026-06-17T12:46:41Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 96,
+    "updated_at": "2026-06-17T12:46:19Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -45,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -61,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T12:30:33Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
@@ -90,6 +144,15 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17875,
+    "updated_at": "2026-06-17T12:17:16Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
     "id": "developer-shubham101/ai_engineer",
     "language": "Python",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 495,
-    "updated_at": "2026-06-17T12:42:56Z",
+    "updated_at": "2026-06-17T12:46:33Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/AndreyWinz/logo-brand-archive"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1846,
-    "updated_at": "2026-06-17T12:38:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -175,7 +229,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44816,
+    "stars": 44815,
     "updated_at": "2026-06-17T11:48:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -221,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T12:39:29Z",
+    "updated_at": "2026-06-17T12:55:01Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T11:33:34Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10630,
-    "updated_at": "2026-06-17T11:28:44Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16338,
-    "updated_at": "2026-06-17T12:19:06Z",
+    "updated_at": "2026-06-17T12:53:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -284,7 +329,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T12:17:26Z",
+    "updated_at": "2026-06-17T12:56:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T11:06:39Z",
     "url": "https://github.com/Bharanikumar55/Legal-Question-Answer-System-using-RAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32398,
-    "updated_at": "2026-06-17T12:43:55Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "fully local, temporally aware natural language file search on your pc! even without a GPU.  find relevant files using na",
@@ -387,15 +423,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 530,
-    "updated_at": "2026-06-17T10:46:15Z",
-    "url": "https://github.com/ducklelabs/duckle"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 87,
     "updated_at": "2026-06-17T11:58:31Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58144,
-    "updated_at": "2026-06-17T12:35:48Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:16:54Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
-  },
-  {
-    "description": "RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Ollama, and Python.",
-    "id": "kanikapitaliya/rag-data-engineering-assistant",
-    "language": "Python",
-    "name": "kanikapitaliya/rag-data-engineering-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:16:33Z",
-    "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
   }
 ]
