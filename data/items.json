@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T06:58:30Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:55:23Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 212,
+    "updated_at": "2026-06-17T06:51:47Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 527,
+    "updated_at": "2026-06-17T06:48:24Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,24 +108,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:39:49Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T06:37:12Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T06:31:53Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
@@ -139,7 +157,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10621,
+    "stars": 10637,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 12,
-    "updated_at": "2026-06-17T06:32:30Z",
+    "updated_at": "2026-06-17T06:54:38Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -205,6 +223,15 @@
     "stars": 1578,
     "updated_at": "2026-06-17T06:04:22Z",
     "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10628,
+    "updated_at": "2026-06-17T05:59:19Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -252,21 +279,12 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 212,
-    "updated_at": "2026-06-17T06:25:52Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1846,
-    "updated_at": "2026-06-17T05:34:26Z",
+    "updated_at": "2026-06-17T06:56:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6959,
-    "updated_at": "2026-06-17T06:42:54Z",
+    "updated_at": "2026-06-17T06:58:37Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 124,
-    "updated_at": "2026-06-17T04:26:41Z",
+    "updated_at": "2026-06-17T06:55:59Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 943,
-    "updated_at": "2026-06-17T04:25:56Z",
+    "updated_at": "2026-06-17T06:48:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T03:18:45Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:57:29Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-17T02:56:18Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
