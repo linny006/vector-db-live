@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T15:15:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
+    "id": "ParthSharma-2/Finsight-AI",
+    "language": "Python",
+    "name": "ParthSharma-2/Finsight-AI",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:12:13Z",
+    "url": "https://github.com/ParthSharma-2/Finsight-AI"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-06-17T15:10:37Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "A RAG PDF QA chatbot built with Python, LangChain, IBM watsonx.ai, Chroma, and Gradio. Upload PDFs, retrieve relevant co",
+    "id": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
+    "language": "Python",
+    "name": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-17T15:06:24Z",
+    "url": "https://github.com/czhao-dev/AI-Watsonx-RAG-PDF-Chatbot"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 495,
+    "updated_at": "2026-06-17T15:02:47Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 944,
+    "updated_at": "2026-06-17T15:02:00Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:00:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
@@ -7,6 +70,24 @@
     "stars": 1,
     "updated_at": "2026-06-17T14:59:10Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 4,
+    "updated_at": "2026-06-17T14:57:59Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Applied-AI system that scores job-candidate fit and drafts evidence-grounded, tailored applications you review. RAG + LL",
+    "id": "bitcoinbox/jobproof",
+    "language": "Python",
+    "name": "bitcoinbox/jobproof",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:57:37Z",
+    "url": "https://github.com/bitcoinbox/jobproof"
   },
   {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
@@ -18,24 +99,6 @@
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:45:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:45:35Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
     "id": "cyborginc/cyborgdb-py",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-06-17T14:42:47Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-06-17T14:42:36Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 213,
-    "updated_at": "2026-06-17T14:23:28Z",
+    "updated_at": "2026-06-17T15:01:06Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -139,7 +193,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61721,
+    "stars": 61723,
     "updated_at": "2026-06-17T14:21:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -158,7 +212,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T14:53:47Z",
+    "updated_at": "2026-06-17T15:00:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 495,
-    "updated_at": "2026-06-17T14:54:05Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
@@ -284,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7741,
-    "updated_at": "2026-06-17T14:47:54Z",
+    "updated_at": "2026-06-17T15:14:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T12:03:31Z",
     "url": "https://github.com/Kiranravi80/RAG-based-Research-Tutor"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-17T12:00:22Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Rest client for Qdrant vector database",
-    "id": "quarkiverse/quarkus-qdrant",
-    "language": "Java",
-    "name": "quarkiverse/quarkus-qdrant",
-    "stars": 1,
-    "updated_at": "2026-06-17T11:58:04Z",
-    "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St",
-    "id": "AndreyWinz/logo-brand-archive",
-    "language": "JavaScript",
-    "name": "AndreyWinz/logo-brand-archive",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:56:30Z",
-    "url": "https://github.com/AndreyWinz/logo-brand-archive"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:49:40Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:46:55Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
