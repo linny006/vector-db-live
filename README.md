@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:57 UTC
+> ⏰ Last updated: 2026-06-17 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [diegoglozano/revector](https://github.com/diegoglozano/revector) | 0 | Rust | 2026-06-17 | Declarative, versioned schema & config migrations for Qdrant — Alembic for vector collections. |
-| 2 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 121 | C# | 2026-06-17 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
-| 3 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5239 | Python | 2026-06-17 |  Memory library for building stateful agents |
-| 4 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 1 | Python | 2026-06-17 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
-| 5 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 28013 | Jupyter Notebook | 2026-06-17 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
-| 6 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-17 | Identity and Authorization Service with Vector and AI Integration |
-| 7 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6962 | Java | 2026-06-17 | The AI search platform |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [diegoglozano/revector](https://github.com/diegoglozano/revector) | 0 | Rust | 2026-06-17 | Declarative, versioned schema & config migrations for Qdrant — Alembic for vector collections. |
+| 3 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 121 | C# | 2026-06-17 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
+| 4 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5239 | Python | 2026-06-17 |  Memory library for building stateful agents |
+| 5 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 1 | Python | 2026-06-17 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
+| 6 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 28013 | Jupyter Notebook | 2026-06-17 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
+| 7 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-17 | Identity and Authorization Service with Vector and AI Integration |
+| 8 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6962 | Java | 2026-06-17 | The AI search platform |
+| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 10 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-17 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 11 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-17 | CLI, SDK, and gateway for Qdrant — SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc |
 | 12 | [TammineniTanay/hybrid-rag-system](https://github.com/TammineniTanay/hybrid-rag-system) | 3 | Python | 2026-06-17 | Production-grade RAG system with hybrid retrieval (Qdrant + Elasticsearch + Neo4j), Corrective RAG via LangGraph, feedba |
