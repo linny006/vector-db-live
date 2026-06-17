@@ -1,12 +1,12 @@
 [
   {
-    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 96,
-    "updated_at": "2026-06-17T16:29:36Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12358,
+    "updated_at": "2026-06-17T16:44:31Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 282,
-    "updated_at": "2026-06-17T16:25:58Z",
+    "updated_at": "2026-06-17T16:41:36Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16340,
+    "updated_at": "2026-06-17T16:45:21Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 213,
+    "updated_at": "2026-06-17T16:41:44Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 96,
+    "updated_at": "2026-06-17T16:34:01Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-06-17T16:33:23Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "RAG PDF Q&A chatbot using LangChain, Google Vertex AI (Gemini) for embeddings and generation, and Chroma vector search, ",
+    "id": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
+    "language": "Python",
+    "name": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:32:11Z",
+    "url": "https://github.com/czhao-dev/AI-Watsonx-RAG-PDF-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T16:30:04Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5237,
+    "updated_at": "2026-06-17T16:29:30Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "",
@@ -31,36 +112,18 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50196,
+    "stars": 50197,
     "updated_at": "2026-06-17T16:23:18Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12358,
-    "updated_at": "2026-06-17T16:17:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:15:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:15:32Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "topoteretes/cognee",
+    "stars": 17878,
+    "updated_at": "2026-06-17T16:14:49Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -153,15 +216,6 @@
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5236,
-    "updated_at": "2026-06-17T16:29:30Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -187,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T15:25:07Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16340,
-    "updated_at": "2026-06-17T16:25:19Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Go Client for CyborgDB: The Confidential Vector Database",
@@ -241,15 +286,6 @@
     "stars": 7742,
     "updated_at": "2026-06-17T16:09:28Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A RAG PDF QA chatbot built with Python, LangChain, IBM watsonx.ai, Chroma, and Gradio. Upload PDFs, retrieve relevant co",
-    "id": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
-    "language": "Python",
-    "name": "czhao-dev/AI-Watsonx-RAG-PDF-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-06-17T15:06:24Z",
-    "url": "https://github.com/czhao-dev/AI-Watsonx-RAG-PDF-Chatbot"
   },
   {
     "description": "Splinter is a successful advanced AI research project to cohabitate inference and semantic governance in L3 cache and me",
@@ -324,24 +360,6 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17877,
-    "updated_at": "2026-06-17T16:14:49Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 213,
-    "updated_at": "2026-06-17T16:27:34Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -355,7 +373,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61726,
+    "stars": 61725,
     "updated_at": "2026-06-17T14:21:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -374,7 +392,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T16:17:56Z",
+    "updated_at": "2026-06-17T16:39:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T16:30:04Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T13:31:21Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "AI-powered PDF Chat Assistant using Gemini, LangChain, FAISS and Streamlit",
-    "id": "SoumyasreeMitra/docmind-ai",
-    "language": "CSS",
-    "name": "SoumyasreeMitra/docmind-ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:18:13Z",
-    "url": "https://github.com/SoumyasreeMitra/docmind-ai"
   }
 ]
