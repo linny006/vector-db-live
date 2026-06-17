@@ -1,5 +1,59 @@
 [
   {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 96,
+    "updated_at": "2026-06-17T16:29:36Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-17T16:25:58Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:25:44Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50196,
+    "updated_at": "2026-06-17T16:23:18Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12358,
+    "updated_at": "2026-06-17T16:17:15Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:15:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12358,
-    "updated_at": "2026-06-17T16:15:18Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
     "id": "zilliztech/knowhere",
     "language": "C++",
@@ -25,15 +70,6 @@
     "stars": 360,
     "updated_at": "2026-06-17T16:09:11Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:03:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5236,
-    "updated_at": "2026-06-17T15:27:27Z",
+    "updated_at": "2026-06-17T16:29:30Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16340,
-    "updated_at": "2026-06-17T16:05:37Z",
+    "updated_at": "2026-06-17T16:25:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -297,21 +333,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 96,
-    "updated_at": "2026-06-17T14:27:11Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
     "id": "Neverdecel/CodeRAG",
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 213,
-    "updated_at": "2026-06-17T15:48:58Z",
+    "updated_at": "2026-06-17T16:27:34Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -328,7 +355,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61725,
+    "stars": 61726,
     "updated_at": "2026-06-17T14:21:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -347,7 +374,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T15:42:20Z",
+    "updated_at": "2026-06-17T16:17:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32403,
-    "updated_at": "2026-06-17T16:00:25Z",
+    "updated_at": "2026-06-17T16:23:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -401,7 +428,7 @@
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 11,
-    "updated_at": "2026-06-17T13:38:31Z",
+    "updated_at": "2026-06-17T16:30:04Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:18:13Z",
     "url": "https://github.com/SoumyasreeMitra/docmind-ai"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44820,
-    "updated_at": "2026-06-17T13:16:25Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
-    "id": "sammyjdev/rpg-master-ai",
-    "language": "Java",
-    "name": "sammyjdev/rpg-master-ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:08:10Z",
-    "url": "https://github.com/sammyjdev/rpg-master-ai"
-  },
-  {
-    "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
-    "id": "Miss-prachi-guptaa/Tech-Diary",
-    "language": "JavaScript",
-    "name": "Miss-prachi-guptaa/Tech-Diary",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:02:31Z",
-    "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
   }
 ]
