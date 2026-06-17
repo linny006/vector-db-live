@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T01:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
+    "id": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "language": "TypeScript",
+    "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:29:35Z",
+    "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
+  },
+  {
+    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
+    "id": "zentrix-innovative-labs/galaxdb",
+    "language": "Rust",
+    "name": "zentrix-innovative-labs/galaxdb",
+    "stars": 7,
+    "updated_at": "2026-06-17T01:26:28Z",
+    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 51,
+    "updated_at": "2026-06-17T01:26:45Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:22:17Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 1,
+    "updated_at": "2026-06-17T01:16:44Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -9,20 +72,11 @@
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
-    "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
-    "id": "Dream-Pixels-Forge/obsidian-memorius-plugin",
-    "language": "TypeScript",
-    "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:12:22Z",
-    "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61678,
+    "stars": 61680,
     "updated_at": "2026-06-17T01:08:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -43,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:04:55Z",
     "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
-    "id": "zentrix-innovative-labs/galaxdb",
-    "language": "Rust",
-    "name": "zentrix-innovative-labs/galaxdb",
-    "stars": 7,
-    "updated_at": "2026-06-17T01:04:49Z",
-    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T01:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 0,
-    "updated_at": "2026-06-17T01:11:17Z",
+    "updated_at": "2026-06-17T01:27:22Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9341,
-    "updated_at": "2026-06-17T01:15:15Z",
+    "updated_at": "2026-06-17T01:23:54Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:15:21Z",
     "url": "https://github.com/yichunzhao/ragdemo"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-06-16T21:15:01Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Confidential Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-06-16T20:57:09Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6120,
-    "updated_at": "2026-06-17T01:12:46Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
