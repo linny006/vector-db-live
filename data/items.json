@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
-    "id": "TheAnishSolankii/rag-chatbot",
-    "language": "JavaScript",
-    "name": "TheAnishSolankii/rag-chatbot",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 7,
+    "updated_at": "2026-06-17T19:14:12Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "",
+    "id": "MLbyTharun/HR-Knowledge-Assistant",
+    "language": "Python",
+    "name": "MLbyTharun/HR-Knowledge-Assistant",
     "stars": 0,
-    "updated_at": "2026-06-17T18:59:25Z",
-    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
+    "updated_at": "2026-06-17T19:12:37Z",
+    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:10:14Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -14,8 +41,35 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10630,
-    "updated_at": "2026-06-17T18:58:48Z",
+    "updated_at": "2026-06-17T19:05:59Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
+    "id": "TheAnishSolankii/rag-chatbot",
+    "language": "JavaScript",
+    "name": "TheAnishSolankii/rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:04:25Z",
+    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 748,
+    "updated_at": "2026-06-17T19:02:03Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -45,6 +99,15 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32405,
+    "updated_at": "2026-06-17T18:51:18Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
@@ -52,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T18:47:31Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "",
-    "id": "MLbyTharun/HR-Knowledge-Assistant",
-    "language": "Python",
-    "name": "MLbyTharun/HR-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:47:22Z",
-    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -79,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:46:13Z",
     "url": "https://github.com/ebaadraheem/shared-memory-failures"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:45:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:45:31Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -180,6 +216,15 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7744,
+    "updated_at": "2026-06-17T18:13:16Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-17T18:54:53Z",
+    "updated_at": "2026-06-17T19:09:24Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7743,
-    "updated_at": "2026-06-17T18:13:16Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -396,15 +432,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32404,
-    "updated_at": "2026-06-17T18:51:18Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 361,
     "updated_at": "2026-06-17T16:09:11Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
-    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "language": "Python",
-    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:05:48Z",
-    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 230,
-    "updated_at": "2026-06-17T16:01:39Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:56:46Z",
-    "url": "https://github.com/thekaveh/atlas"
   }
 ]
