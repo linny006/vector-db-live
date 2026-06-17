@@ -1,21 +1,57 @@
 [
   {
-    "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
-    "id": "Filippo-Venturini/ctxvault",
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
-    "name": "Filippo-Venturini/ctxvault",
-    "stars": 58,
-    "updated_at": "2026-06-17T07:59:01Z",
-    "url": "https://github.com/Filippo-Venturini/ctxvault"
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-17T08:15:27Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T08:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 359,
+    "updated_at": "2026-06-17T08:08:20Z",
+    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5329,
-    "updated_at": "2026-06-17T07:57:31Z",
+    "stars": 5330,
+    "updated_at": "2026-06-17T08:03:23Z",
     "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
+    "id": "Filippo-Venturini/ctxvault",
+    "language": "Python",
+    "name": "Filippo-Venturini/ctxvault",
+    "stars": 58,
+    "updated_at": "2026-06-17T08:13:35Z",
+    "url": "https://github.com/Filippo-Venturini/ctxvault"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -34,24 +70,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T07:45:54Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1846,
-    "updated_at": "2026-06-17T07:37:35Z",
+    "updated_at": "2026-06-17T08:08:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -94,7 +112,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6960,
+    "stars": 6961,
     "updated_at": "2026-06-17T07:28:37Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -144,21 +162,12 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-17T07:53:24Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17868,
-    "updated_at": "2026-06-17T07:10:37Z",
+    "updated_at": "2026-06-17T08:06:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 213,
-    "updated_at": "2026-06-17T07:08:38Z",
+    "updated_at": "2026-06-17T08:12:08Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 124,
-    "updated_at": "2026-06-17T07:00:54Z",
+    "updated_at": "2026-06-17T08:14:39Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -301,7 +310,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10668,
+    "stars": 10673,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -364,7 +373,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10628,
+    "stars": 10629,
     "updated_at": "2026-06-17T05:59:19Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -439,14 +448,5 @@
     "stars": 119,
     "updated_at": "2026-06-17T04:35:56Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 369,
-    "updated_at": "2026-06-17T04:33:48Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
