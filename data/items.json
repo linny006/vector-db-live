@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T11:00:24Z",
+    "updated_at": "2026-06-17T11:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St",
+    "id": "AndreyWinz/logo-brand-archive",
+    "language": "\u2014",
+    "name": "AndreyWinz/logo-brand-archive",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:14:54Z",
+    "url": "https://github.com/AndreyWinz/logo-brand-archive"
+  },
+  {
+    "description": "An intelligent chatbot that answers questions about PDF documents",
+    "id": "kia/rag-doc-chatbot",
+    "language": "Python",
+    "name": "kia/rag-doc-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:13:05Z",
+    "url": "https://github.com/kia/rag-doc-chatbot"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6157,
+    "updated_at": "2026-06-17T11:06:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "\u2696\ufe0f AI-powered legal document Q&A system using RAG (Retrieval-Augmented Generation)",
+    "id": "Bharanikumar55/Legal-Question-Answer-System-using-RAG",
+    "language": "Python",
+    "name": "Bharanikumar55/Legal-Question-Answer-System-using-RAG",
+    "stars": 3,
+    "updated_at": "2026-06-17T11:06:39Z",
+    "url": "https://github.com/Bharanikumar55/Legal-Question-Answer-System-using-RAG"
+  },
+  {
+    "description": "fully local, temporally aware natural language file search on your pc! even without a GPU.  find relevant files using na",
+    "id": "monkesearch/monkeSearch",
+    "language": "Python",
+    "name": "monkesearch/monkeSearch",
+    "stars": 195,
+    "updated_at": "2026-06-17T11:03:34Z",
+    "url": "https://github.com/monkesearch/monkeSearch"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-06-17T11:02:27Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "Documentation Scraper & Post-Processor",
+    "id": "emanuelrechsteiner/DocScraper",
+    "language": "Python",
+    "name": "emanuelrechsteiner/DocScraper",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:08:59Z",
+    "url": "https://github.com/emanuelrechsteiner/DocScraper"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:01:05Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
@@ -36,15 +117,6 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6157,
-    "updated_at": "2026-06-17T10:57:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
     "id": "Buffden/rag-document-engine",
     "language": "Python",
@@ -68,7 +140,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16338,
-    "updated_at": "2026-06-17T10:58:20Z",
+    "updated_at": "2026-06-17T11:13:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -103,18 +175,18 @@
     "id": "ducklelabs/duckle",
     "language": "Rust",
     "name": "ducklelabs/duckle",
-    "stars": 530,
+    "stars": 529,
     "updated_at": "2026-06-17T10:46:15Z",
     "url": "https://github.com/ducklelabs/duckle"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44816,
+    "updated_at": "2026-06-17T10:45:36Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
@@ -122,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6962,
-    "updated_at": "2026-06-17T10:43:39Z",
+    "updated_at": "2026-06-17T11:12:53Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 124,
     "updated_at": "2026-06-17T10:29:58Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "A curated visual archive of tech logos, brand symbols, and format variations (SVG/PNG/etc) discovered across the web. St",
-    "id": "AndreyWinz/logo-brand-archive",
-    "language": "\u2014",
-    "name": "AndreyWinz/logo-brand-archive",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:29:36Z",
-    "url": "https://github.com/AndreyWinz/logo-brand-archive"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -243,21 +306,12 @@
     "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44815,
-    "updated_at": "2026-06-17T10:45:36Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T10:15:41Z",
+    "updated_at": "2026-06-17T11:12:25Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -302,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32397,
-    "updated_at": "2026-06-17T10:36:59Z",
+    "updated_at": "2026-06-17T11:04:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -310,7 +364,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5336,
+    "stars": 5338,
     "updated_at": "2026-06-17T09:44:24Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -340,15 +394,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T09:49:58Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Documentation Scraper & Post-Processor",
-    "id": "emanuelrechsteiner/DocScraper",
-    "language": "Python",
-    "name": "emanuelrechsteiner/DocScraper",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:54:36Z",
-    "url": "https://github.com/emanuelrechsteiner/DocScraper"
   },
   {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T08:45:32Z",
     "url": "https://github.com/RohitVerma2003/Smart-Study-Buddy"
-  },
-  {
-    "description": "RAG chatbot using Claude (Anthropic) + LangChain + ChromaDB with conversational memory",
-    "id": "Thangcomplex/rag-claude-chatbot",
-    "language": "Python",
-    "name": "Thangcomplex/rag-claude-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:44:55Z",
-    "url": "https://github.com/Thangcomplex/rag-claude-chatbot"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 8,
-    "updated_at": "2026-06-17T08:41:40Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
-    "id": "liaoyu1992/claude-smart",
-    "language": "Python",
-    "name": "liaoyu1992/claude-smart",
-    "stars": 1,
-    "updated_at": "2026-06-17T08:42:33Z",
-    "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 213,
-    "updated_at": "2026-06-17T09:42:11Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:21:19Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
   }
 ]
