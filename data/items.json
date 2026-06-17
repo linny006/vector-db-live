@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T09:45:32Z",
+    "updated_at": "2026-06-17T10:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 530,
-    "updated_at": "2026-06-17T09:45:12Z",
-    "url": "https://github.com/ducklelabs/duckle"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -23,8 +14,89 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44814,
-    "updated_at": "2026-06-17T09:44:25Z",
+    "updated_at": "2026-06-17T09:58:23Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4410,
+    "updated_at": "2026-06-17T09:57:26Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-17T09:53:53Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 5,
+    "updated_at": "2026-06-17T09:52:20Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 530,
+    "updated_at": "2026-06-17T09:51:38Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-17T09:50:14Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 495,
+    "updated_at": "2026-06-17T09:49:59Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Knowledge Manager LLM",
+    "id": "luigigargioni/KnowledgeManagerLLM",
+    "language": "Python",
+    "name": "luigigargioni/KnowledgeManagerLLM",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:46:28Z",
+    "url": "https://github.com/luigigargioni/KnowledgeManagerLLM"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32397,
+    "updated_at": "2026-06-17T09:46:12Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:45:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -45,30 +117,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-17T09:37:17Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32396,
-    "updated_at": "2026-06-17T09:44:45Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 5,
-    "updated_at": "2026-06-17T09:44:19Z",
+    "updated_at": "2026-06-17T09:57:29Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -104,26 +158,17 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 3,
-    "updated_at": "2026-06-17T09:30:59Z",
+    "updated_at": "2026-06-17T09:49:58Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4410,
-    "updated_at": "2026-06-17T09:37:31Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16338,
+    "updated_at": "2026-06-17T09:30:05Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Documentation Scraper & Post-Processor",
@@ -162,21 +207,12 @@
     "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16337,
-    "updated_at": "2026-06-17T09:30:05Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58142,
-    "updated_at": "2026-06-17T09:33:44Z",
+    "updated_at": "2026-06-17T09:54:18Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:29:32Z",
     "url": "https://github.com/TheAnishSolankii/rag-chatbot"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-06-17T09:29:53Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6121,
-    "updated_at": "2026-06-17T09:19:41Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7742,
-    "updated_at": "2026-06-17T07:35:45Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 10708,
-    "updated_at": "2026-06-17T06:18:12Z",
-    "url": "https://github.com/alibaba/zvec"
   }
 ]
