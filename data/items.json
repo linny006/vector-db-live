@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T12:15:26Z",
+    "updated_at": "2026-06-17T12:30:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted AI agent for enterprise data \u2014 financial, internal knowledge, the important stuff. Knowledge bases, workflow",
+    "id": "badhope/DATA-AI",
+    "language": "TypeScript",
+    "name": "badhope/DATA-AI",
+    "stars": 21,
+    "updated_at": "2026-06-17T12:28:08Z",
+    "url": "https://github.com/badhope/DATA-AI"
+  },
+  {
+    "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
+    "id": "sammyjdev/rpg-master-ai",
+    "language": "Java",
+    "name": "sammyjdev/rpg-master-ai",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:23:50Z",
+    "url": "https://github.com/sammyjdev/rpg-master-ai"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 2,
+    "updated_at": "2026-06-17T12:21:16Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A production-ready, multi-provider Enterprise RAG (Retrieval-Augmented Generation) system with a FastAPI backend and Rea",
@@ -34,15 +70,6 @@
     "stars": 1124,
     "updated_at": "2026-06-17T12:09:07Z",
     "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:05:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Research Pilot is a multi-modal Retrieval-Augmented Intelligence platform that transforms user-provided content into ",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 124,
-    "updated_at": "2026-06-17T11:47:56Z",
+    "updated_at": "2026-06-17T12:29:21Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T12:05:08Z",
+    "updated_at": "2026-06-17T12:18:11Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16338,
-    "updated_at": "2026-06-17T11:56:27Z",
+    "updated_at": "2026-06-17T12:19:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,7 +275,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6157,
-    "updated_at": "2026-06-17T11:19:02Z",
+    "updated_at": "2026-06-17T12:17:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32398,
-    "updated_at": "2026-06-17T11:59:54Z",
+    "updated_at": "2026-06-17T12:29:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-17T10:16:15Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7742,
-    "updated_at": "2026-06-17T12:01:35Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T11:31:36Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 5,
-    "updated_at": "2026-06-17T09:52:20Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
