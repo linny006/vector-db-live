@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T08:30:26Z",
+    "updated_at": "2026-06-17T08:45:28Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
+    "id": "gonicolas12/My_AI",
     "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 213,
-    "updated_at": "2026-06-17T08:28:14Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
+    "name": "gonicolas12/My_AI",
+    "stars": 8,
+    "updated_at": "2026-06-17T08:41:40Z",
+    "url": "https://github.com/gonicolas12/My_AI"
   },
   {
     "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "liaoyu1992/claude-smart",
     "stars": 1,
-    "updated_at": "2026-06-17T08:26:59Z",
+    "updated_at": "2026-06-17T08:42:33Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44814,
+    "updated_at": "2026-06-17T08:36:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 527,
+    "updated_at": "2026-06-17T08:32:13Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58141,
+    "updated_at": "2026-06-17T08:30:55Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 213,
+    "updated_at": "2026-06-17T08:37:17Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -34,6 +79,15 @@
     "stars": 124,
     "updated_at": "2026-06-17T08:25:50Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32395,
+    "updated_at": "2026-06-17T08:23:48Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
@@ -72,30 +126,12 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 527,
-    "updated_at": "2026-06-17T08:15:43Z",
-    "url": "https://github.com/ducklelabs/duckle"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-17T08:30:25Z",
+    "updated_at": "2026-06-17T08:44:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T07:45:54Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32394,
-    "updated_at": "2026-06-17T08:23:48Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6961,
-    "updated_at": "2026-06-17T08:22:25Z",
+    "updated_at": "2026-06-17T08:33:10Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:24:55Z",
     "url": "https://github.com/sochdb/sochdb-nodejs-sdk"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44812,
-    "updated_at": "2026-06-17T07:22:25Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -205,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T07:22:34Z",
     "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58141,
-    "updated_at": "2026-06-17T07:57:56Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -248,7 +257,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4410,
-    "updated_at": "2026-06-17T08:30:08Z",
+    "updated_at": "2026-06-17T08:44:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -337,7 +346,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10676,
+    "stars": 10681,
     "updated_at": "2026-06-17T06:18:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -400,7 +409,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10629,
+    "stars": 10630,
     "updated_at": "2026-06-17T05:59:19Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -439,14 +448,5 @@
     "stars": 12003,
     "updated_at": "2026-06-17T05:38:01Z",
     "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "GenAI SOC 2026 projects including RAG applications, prompt engineering, vector databases, agents, and LLM integrations.",
-    "id": "vishnu-g4947/genai-soc-2026",
-    "language": "Python",
-    "name": "vishnu-g4947/genai-soc-2026",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:00:06Z",
-    "url": "https://github.com/vishnu-g4947/genai-soc-2026"
   }
 ]
