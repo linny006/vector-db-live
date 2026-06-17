@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6959,
+    "updated_at": "2026-06-17T03:30:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 10537,
+    "updated_at": "2026-06-17T03:28:36Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44805,
+    "updated_at": "2026-06-17T03:26:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The multi-paradigm database expert for Claude Code \u2014 design a schema, audit it on two never-blended scores (Design & Int",
+    "id": "Hainrixz/claude-db",
+    "language": "JavaScript",
+    "name": "Hainrixz/claude-db",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:20:21Z",
+    "url": "https://github.com/Hainrixz/claude-db"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 12,
+    "updated_at": "2026-06-17T03:17:38Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 748,
+    "updated_at": "2026-06-17T03:16:08Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1846,
-    "updated_at": "2026-06-17T03:12:26Z",
+    "updated_at": "2026-06-17T03:26:13Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -27,30 +99,12 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
     "id": "liaoyu1992/claude-smart",
     "language": "Python",
     "name": "liaoyu1992/claude-smart",
     "stars": 1,
-    "updated_at": "2026-06-17T02:59:14Z",
+    "updated_at": "2026-06-17T03:18:45Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9341,
-    "updated_at": "2026-06-17T02:50:25Z",
+    "updated_at": "2026-06-17T03:18:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 0,
-    "updated_at": "2026-06-17T02:46:15Z",
+    "updated_at": "2026-06-17T03:27:11Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44804,
-    "updated_at": "2026-06-17T03:06:24Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Production-ready RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with auth, structured logging, and configurabl",
     "id": "marcuspat/ai-knowledge-assist",
     "language": "Python",
@@ -157,7 +202,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50178,
+    "stars": 50179,
     "updated_at": "2026-06-17T02:04:27Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -166,7 +211,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16336,
+    "stars": 16337,
     "updated_at": "2026-06-17T01:57:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -220,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32387,
+    "stars": 32388,
     "updated_at": "2026-06-17T01:14:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -238,7 +283,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61688,
+    "stars": 61689,
     "updated_at": "2026-06-17T01:08:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -403,50 +448,5 @@
     "stars": 7741,
     "updated_at": "2026-06-16T22:20:16Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 66,
-    "updated_at": "2026-06-16T22:13:23Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 6,
-    "updated_at": "2026-06-16T22:12:35Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:08:14Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Evals framework for Information Retrieval Systems",
-    "id": "kaivid-labs/evret",
-    "language": "Python",
-    "name": "kaivid-labs/evret",
-    "stars": 18,
-    "updated_at": "2026-06-16T22:00:57Z",
-    "url": "https://github.com/kaivid-labs/evret"
-  },
-  {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:55:47Z",
-    "url": "https://github.com/tryAGI/Milvus"
   }
 ]
