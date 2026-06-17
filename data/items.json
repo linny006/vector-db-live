@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic resume-tailoring & gap-analysis tool \u2014 LangGraph, RAG (pgvector), and LangSmith observability",
+    "id": "davidcjw/career-copilot",
+    "language": "Python",
+    "name": "davidcjw/career-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:59:45Z",
+    "url": "https://github.com/davidcjw/career-copilot"
+  },
+  {
+    "description": "BioScout AI is an advanced, production-ready Intelligence Platform designed for healthcare and agritech investment scout",
+    "id": "aakash2410/HealthRnD",
+    "language": "HTML",
+    "name": "aakash2410/HealthRnD",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:58:17Z",
+    "url": "https://github.com/aakash2410/HealthRnD"
+  },
+  {
+    "description": "RAG research-paper assistant with claim-level citation verification, cross-paper comparison, an AI peer-review panel, an",
+    "id": "ankitkumartiwari-web/citecheck",
+    "language": "Python",
+    "name": "ankitkumartiwari-web/citecheck",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:57:13Z",
+    "url": "https://github.com/ankitkumartiwari-web/citecheck"
+  },
+  {
+    "description": "",
+    "id": "ersinisgor/AI-Knowledge-Base-Assistant",
+    "language": "TypeScript",
+    "name": "ersinisgor/AI-Knowledge-Base-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:56:07Z",
+    "url": "https://github.com/ersinisgor/AI-Knowledge-Base-Assistant"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-17T03:53:34Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:46:28Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T03:45:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -7,15 +79,6 @@
     "stars": 44805,
     "updated_at": "2026-06-17T03:34:23Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Agentic resume-tailoring & gap-analysis tool \u2014 LangGraph, RAG (pgvector), and LangSmith observability",
-    "id": "davidcjw/career-copilot",
-    "language": "Python",
-    "name": "davidcjw/career-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:33:27Z",
-    "url": "https://github.com/davidcjw/career-copilot"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -45,24 +108,6 @@
     "url": "https://github.com/Hainrixz/claude-db"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -76,7 +121,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 10540,
+    "stars": 10546,
     "updated_at": "2026-06-17T03:28:36Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9341,
-    "updated_at": "2026-06-17T03:18:29Z",
+    "updated_at": "2026-06-17T03:51:10Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 0,
-    "updated_at": "2026-06-17T03:38:55Z",
+    "updated_at": "2026-06-17T03:54:49Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1578,
-    "updated_at": "2026-06-17T02:27:36Z",
+    "updated_at": "2026-06-17T03:56:50Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -220,7 +265,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50179,
+    "stars": 50180,
     "updated_at": "2026-06-17T02:04:27Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -403,50 +448,5 @@
     "stars": 227,
     "updated_at": "2026-06-17T00:08:48Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:07:29Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 96,
-    "updated_at": "2026-06-16T23:35:08Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 775,
-    "updated_at": "2026-06-16T23:34:41Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:15:08Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 369,
-    "updated_at": "2026-06-16T22:46:36Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
