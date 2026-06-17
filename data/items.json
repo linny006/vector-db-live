@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T02:15:26Z",
+    "updated_at": "2026-06-17T02:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
+    "id": "zentrix-innovative-labs/galaxdb",
+    "language": "Rust",
+    "name": "zentrix-innovative-labs/galaxdb",
+    "stars": 7,
+    "updated_at": "2026-06-17T02:27:50Z",
+    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1578,
+    "updated_at": "2026-06-17T02:27:36Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Connect your Obsidian vault to Memorius \u2014 semantic search, auto-sync, context injection, MCP console, and dashboard.",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "Dream-Pixels-Forge/obsidian-memorius-plugin",
     "stars": 0,
-    "updated_at": "2026-06-17T02:13:05Z",
+    "updated_at": "2026-06-17T02:26:14Z",
     "url": "https://github.com/Dream-Pixels-Forge/obsidian-memorius-plugin"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:22:09Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44804,
+    "updated_at": "2026-06-17T02:16:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "marcuspat/ai-knowledge-assist",
     "stars": 0,
-    "updated_at": "2026-06-17T02:08:14Z",
+    "updated_at": "2026-06-17T02:17:57Z",
     "url": "https://github.com/marcuspat/ai-knowledge-assist"
   },
   {
@@ -41,17 +86,8 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 51,
-    "updated_at": "2026-06-17T02:07:14Z",
+    "updated_at": "2026-06-17T02:20:33Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:06:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -61,15 +97,6 @@
     "stars": 50178,
     "updated_at": "2026-06-17T02:04:27Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1578,
-    "updated_at": "2026-06-17T02:00:51Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 0,
-    "updated_at": "2026-06-17T01:56:30Z",
+    "updated_at": "2026-06-17T02:24:49Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/liaoyu1992/claude-smart"
   },
   {
-    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
-    "id": "zentrix-innovative-labs/galaxdb",
-    "language": "Rust",
-    "name": "zentrix-innovative-labs/galaxdb",
-    "stars": 7,
-    "updated_at": "2026-06-17T01:26:28Z",
-    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -193,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61683,
+    "stars": 61686,
     "updated_at": "2026-06-17T01:08:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -205,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T00:47:09Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:46:43Z",
-    "url": "https://github.com/perforate-org/gleaph"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -230,8 +239,17 @@
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 11,
-    "updated_at": "2026-06-17T02:04:45Z",
+    "updated_at": "2026-06-17T02:18:10Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1436,
+    "updated_at": "2026-06-17T00:28:55Z",
+    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9341,
-    "updated_at": "2026-06-17T01:38:05Z",
+    "updated_at": "2026-06-17T02:29:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -427,26 +445,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17857,
+    "stars": 17859,
     "updated_at": "2026-06-16T21:53:12Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
-    "id": "tryAGI/Pinecone",
-    "language": "C#",
-    "name": "tryAGI/Pinecone",
-    "stars": 8,
-    "updated_at": "2026-06-16T21:52:22Z",
-    "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6157,
-    "updated_at": "2026-06-16T21:47:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
