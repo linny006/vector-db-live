@@ -1,5 +1,23 @@
 [
   {
+    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:37:37Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -106,15 +115,6 @@
     "stars": 16336,
     "updated_at": "2026-06-17T01:57:48Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:24:49Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
@@ -193,7 +193,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32385,
+    "stars": 32387,
     "updated_at": "2026-06-17T01:14:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -211,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61686,
+    "stars": 61687,
     "updated_at": "2026-06-17T01:08:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
