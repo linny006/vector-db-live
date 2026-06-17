@@ -1,12 +1,12 @@
 [
   {
-    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
-    "id": "srimon12/qql-go",
-    "language": "Go",
-    "name": "srimon12/qql-go",
-    "stars": 2,
-    "updated_at": "2026-06-17T21:21:34Z",
-    "url": "https://github.com/srimon12/qql-go"
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 96,
+    "updated_at": "2026-06-17T21:45:05Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +14,62 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-17T21:20:51Z",
+    "updated_at": "2026-06-17T21:40:45Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-17T21:37:12Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T21:34:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-17T21:32:54Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-17T21:32:41Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
+    "id": "srimon12/qql-go",
+    "language": "Go",
+    "name": "srimon12/qql-go",
+    "stars": 2,
+    "updated_at": "2026-06-17T21:36:41Z",
+    "url": "https://github.com/srimon12/qql-go"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -25,33 +79,6 @@
     "stars": 61736,
     "updated_at": "2026-06-17T21:16:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T21:09:04Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -99,15 +126,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-17T20:55:06Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
@@ -130,7 +148,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32407,
+    "stars": 32408,
     "updated_at": "2026-06-17T20:39:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -139,7 +157,7 @@
     "id": "TammineniTanay/hybrid-rag-system",
     "language": "Python",
     "name": "TammineniTanay/hybrid-rag-system",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-17T20:28:05Z",
     "url": "https://github.com/TammineniTanay/hybrid-rag-system"
   },
@@ -176,7 +194,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10632,
-    "updated_at": "2026-06-17T20:14:59Z",
+    "updated_at": "2026-06-17T21:38:51Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -221,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7744,
-    "updated_at": "2026-06-17T21:17:29Z",
+    "updated_at": "2026-06-17T21:32:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -247,7 +265,7 @@
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
-    "stars": 2055,
+    "stars": 2056,
     "updated_at": "2026-06-17T19:47:14Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:23:47Z",
     "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
-  },
-  {
-    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 12 MCP tools, 20 format parsers, hybrid search + rerank",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 96,
-    "updated_at": "2026-06-17T19:20:50Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:46:13Z",
     "url": "https://github.com/ebaadraheem/shared-memory-failures"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-17T18:45:25Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
