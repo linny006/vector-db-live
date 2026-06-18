@@ -5,17 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T03:45:18Z",
+    "updated_at": "2026-06-18T04:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:54:45Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1847,
+    "updated_at": "2026-06-18T03:53:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 9,
+    "updated_at": "2026-06-18T03:53:23Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:53:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T03:50:34Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6962,
+    "stars": 6963,
     "updated_at": "2026-06-18T03:42:27Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44824,
+    "updated_at": "2026-06-18T03:40:25Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
@@ -32,17 +95,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T03:45:09Z",
+    "updated_at": "2026-06-18T03:56:49Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T03:35:41Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
@@ -50,7 +104,7 @@
     "language": "Shell",
     "name": "kossakovsky/n8n-install",
     "stars": 887,
-    "updated_at": "2026-06-18T03:34:54Z",
+    "updated_at": "2026-06-18T03:46:32Z",
     "url": "https://github.com/kossakovsky/n8n-install"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -97,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:22:12Z",
     "url": "https://github.com/david-kabera/featureforge"
-  },
-  {
-    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
-    "id": "kherrera6219/theFactory",
-    "language": "Python",
-    "name": "kherrera6219/theFactory",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:20:22Z",
-    "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44823,
-    "updated_at": "2026-06-18T03:40:25Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 369,
-    "updated_at": "2026-06-18T00:58:05Z",
+    "updated_at": "2026-06-18T03:56:40Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
@@ -277,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:44:15Z",
     "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 362,
+    "updated_at": "2026-06-18T00:33:08Z",
+    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
@@ -333,20 +369,11 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:23:25Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10637,
+    "stars": 10638,
     "updated_at": "2026-06-17T23:08:10Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -400,7 +427,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32418,
+    "stars": 32419,
     "updated_at": "2026-06-17T22:20:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 17889,
     "updated_at": "2026-06-17T22:04:52Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:59:51Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
-    "id": "pinecone-io/examples",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-io/examples",
-    "stars": 3022,
-    "updated_at": "2026-06-18T03:04:18Z",
-    "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "Framework for benchmarking vector search engines",
-    "id": "qdrant/vector-db-benchmark",
-    "language": "Python",
-    "name": "qdrant/vector-db-benchmark",
-    "stars": 367,
-    "updated_at": "2026-06-18T01:58:52Z",
-    "url": "https://github.com/qdrant/vector-db-benchmark"
   }
 ]
