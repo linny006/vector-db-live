@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T20:15:23Z",
+    "updated_at": "2026-06-18T20:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
+    "id": "vishwajitvm/PolicyBot",
+    "language": "Python",
+    "name": "vishwajitvm/PolicyBot",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:30:00Z",
+    "url": "https://github.com/vishwajitvm/PolicyBot"
   },
   {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
@@ -14,8 +23,35 @@
     "language": "CSS",
     "name": "blackeagle686/mafqood-ai",
     "stars": 1,
-    "updated_at": "2026-06-18T20:13:50Z",
+    "updated_at": "2026-06-18T20:27:25Z",
     "url": "https://github.com/blackeagle686/mafqood-ai"
+  },
+  {
+    "description": "This repository contains a Python-based auto-response bot that uses the GitHub API and LlamaIndex package to monitor and",
+    "id": "idaholab/ranger",
+    "language": "Python",
+    "name": "idaholab/ranger",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:26:50Z",
+    "url": "https://github.com/idaholab/ranger"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-18T20:25:45Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -54,6 +90,15 @@
     "url": "https://github.com/yielab/Adapta"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7746,
+    "updated_at": "2026-06-18T20:06:07Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
     "id": "hivellm/vectorizer",
     "language": "Rust",
@@ -63,13 +108,13 @@
     "url": "https://github.com/hivellm/vectorizer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "An intelligent Document Assistant built using FastAPI, Streamlit, and a local Qdrant Vector Database for Retrieval-Augme",
+    "id": "Denbon001/Smart-RAG-Doc-Buddy",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "Denbon001/Smart-RAG-Doc-Buddy",
     "stars": 0,
-    "updated_at": "2026-06-18T20:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-06-18T20:00:25Z",
+    "url": "https://github.com/Denbon001/Smart-RAG-Doc-Buddy"
   },
   {
     "description": "The AI search platform",
@@ -225,24 +270,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-18T19:33:56Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7746,
-    "updated_at": "2026-06-18T20:06:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -382,7 +409,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44839,
+    "stars": 44840,
     "updated_at": "2026-06-18T17:32:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:24:59Z",
     "url": "https://github.com/snroy1999/ai-pdf-chat-app"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 368,
-    "updated_at": "2026-06-18T17:20:59Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:17:37Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
-    "id": "MoTahaAboHeiba/EduMate-RAG",
-    "language": "Python",
-    "name": "MoTahaAboHeiba/EduMate-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-18T17:09:20Z",
-    "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
   }
 ]
