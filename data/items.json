@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-18T00:00:06Z",
-    "url": "https://github.com/konjoai/vectro"
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-18T00:06:50Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
@@ -14,8 +14,17 @@
     "language": "JavaScript",
     "name": "TheAnishSolankii/rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-06-17T23:58:03Z",
+    "updated_at": "2026-06-18T00:05:08Z",
     "url": "https://github.com/TheAnishSolankii/rag-chatbot"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1580,
+    "updated_at": "2026-06-18T00:04:38Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-17T23:45:24Z",
+    "updated_at": "2026-06-18T00:00:30Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T23:45:23Z",
+    "updated_at": "2026-06-18T00:00:30Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-18T00:12:20Z",
+    "url": "https://github.com/konjoai/vectro"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -108,21 +126,12 @@
     "url": "https://github.com/vishwajitvm/PolicyBot"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:07:29Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16341,
-    "updated_at": "2026-06-17T23:56:40Z",
+    "updated_at": "2026-06-18T00:11:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 367,
-    "updated_at": "2026-06-17T23:52:04Z",
+    "updated_at": "2026-06-18T00:09:08Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-17T23:58:49Z",
+    "updated_at": "2026-06-18T00:09:50Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -274,7 +283,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28013,
+    "stars": 28014,
     "updated_at": "2026-06-17T20:54:18Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -355,7 +364,7 @@
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
-    "stars": 2056,
+    "stars": 2058,
     "updated_at": "2026-06-17T19:47:14Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
@@ -412,15 +421,6 @@
     "stars": 748,
     "updated_at": "2026-06-17T19:02:03Z",
     "url": "https://github.com/verygoodplugins/automem"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1580,
-    "updated_at": "2026-06-17T23:12:58Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
