@@ -1,21 +1,48 @@
 [
   {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:25:24Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
     "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
     "id": "kherrera6219/theFactory",
     "language": "Python",
     "name": "kherrera6219/theFactory",
     "stars": 1,
-    "updated_at": "2026-06-18T22:22:00Z",
+    "updated_at": "2026-06-18T22:43:38Z",
     "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 67,
+    "updated_at": "2026-06-18T22:41:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 949,
+    "updated_at": "2026-06-18T22:37:39Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-18T22:38:34Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:35:06Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T22:15:23Z",
+    "updated_at": "2026-06-18T22:30:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T22:15:21Z",
+    "updated_at": "2026-06-18T22:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/idaholab/ranger"
   },
   {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-18T20:25:45Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
     "id": "cyborginc/cyborgdb-py",
     "language": "Python",
@@ -295,15 +313,6 @@
     "stars": 6963,
     "updated_at": "2026-06-18T19:54:59Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 949,
-    "updated_at": "2026-06-18T21:32:48Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -392,7 +401,7 @@
     "language": "Go",
     "name": "cyborginc/cyborgdb-go",
     "stars": 9,
-    "updated_at": "2026-06-18T18:58:42Z",
+    "updated_at": "2026-06-18T22:34:02Z",
     "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T18:31:14Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Ask questions across your documents using local LLMs \u2014 no data leaves your machine. Multi-format support, FAISS vector s",
-    "id": "Nikhilsh10/RAG-QA-System",
-    "language": "Python",
-    "name": "Nikhilsh10/RAG-QA-System",
-    "stars": 1,
-    "updated_at": "2026-06-18T18:18:15Z",
-    "url": "https://github.com/Nikhilsh10/RAG-QA-System"
   }
 ]
