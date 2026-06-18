@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T17:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-18T16:48:52Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Advanced Hybrid RAG application with vector-based conversational memory",
+    "id": "eshaan-eshaan/Hybrid-Rag_Workspace",
+    "language": "Jupyter Notebook",
+    "name": "eshaan-eshaan/Hybrid-Rag_Workspace",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:46:42Z",
+    "url": "https://github.com/eshaan-eshaan/Hybrid-Rag_Workspace"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6123,
+    "updated_at": "2026-06-18T16:41:41Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -13,7 +58,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32441,
+    "stars": 32443,
     "updated_at": "2026-06-18T16:34:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -27,15 +72,6 @@
     "url": "https://github.com/apex-bridge/bugspotter-intelligence"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:31:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:30:48Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T16:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -72,15 +99,6 @@
     "url": "https://github.com/dasu07988/n8n-rag-chatbot"
   },
   {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-18T16:14:17Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "AI-powered knowledge management system with multi-PDF RAG, agent memory, semantic search, and conversational AI.",
     "id": "saikrishna210506/personal-knowledge-brain",
     "language": "Python",
@@ -94,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17898,
+    "stars": 17899,
     "updated_at": "2026-06-18T16:13:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -211,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61772,
+    "stars": 61773,
     "updated_at": "2026-06-18T15:09:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -232,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T14:55:32Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6122,
-    "updated_at": "2026-06-18T16:41:41Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T13:31:29Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16346,
-    "updated_at": "2026-06-18T16:21:41Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
