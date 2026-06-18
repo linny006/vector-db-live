@@ -1,11 +1,38 @@
 [
   {
+    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
+    "id": "hillzeealex/vektoria",
+    "language": "Python",
+    "name": "hillzeealex/vektoria",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:40:26Z",
+    "url": "https://github.com/hillzeealex/vektoria"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T17:39:17Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T17:28:43Z",
+    "updated_at": "2026-06-18T17:30:27Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12668,
-    "updated_at": "2026-06-18T17:28:38Z",
+    "updated_at": "2026-06-18T17:35:06Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44837,
-    "updated_at": "2026-06-18T17:26:25Z",
+    "updated_at": "2026-06-18T17:32:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:17:37Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-18T17:23:44Z",
+    "updated_at": "2026-06-18T17:45:02Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T15:33:22Z",
     "url": "https://github.com/aaushik/directors-on-directors"
-  },
-  {
-    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
-    "id": "hillzeealex/vektoria",
-    "language": "Python",
-    "name": "hillzeealex/vektoria",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:40:16Z",
-    "url": "https://github.com/hillzeealex/vektoria"
   },
   {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
@@ -412,15 +421,6 @@
     "stars": 7,
     "updated_at": "2026-06-18T14:07:12Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T17:14:24Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
