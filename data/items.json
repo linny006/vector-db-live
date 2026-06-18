@@ -1,21 +1,39 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T15:30:29Z",
+    "updated_at": "2026-06-18T15:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Intelligent file organization with computer vision, audio analysis, chunking, proactive AI-powered analysis, interactive",
+    "id": "thebearwithabite/ai-file-organizer",
+    "language": "Python",
+    "name": "thebearwithabite/ai-file-organizer",
+    "stars": 37,
+    "updated_at": "2026-06-18T15:43:35Z",
+    "url": "https://github.com/thebearwithabite/ai-file-organizer"
+  },
+  {
+    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
+    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "language": "Python",
+    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:38:29Z",
+    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-18T15:44:31Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "RAG chatbot over Variety's 'Directors on Directors' interviews + Wikipedia \u2014 answers questions about how filmmakers work",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "aaushik/directors-on-directors",
     "stars": 0,
-    "updated_at": "2026-06-18T15:15:26Z",
+    "updated_at": "2026-06-18T15:33:22Z",
     "url": "https://github.com/aaushik/directors-on-directors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "hillzeealex/vektoria",
     "stars": 0,
-    "updated_at": "2026-06-18T15:13:56Z",
+    "updated_at": "2026-06-18T15:40:16Z",
     "url": "https://github.com/hillzeealex/vektoria"
   },
   {
@@ -67,18 +94,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61773,
+    "stars": 61772,
     "updated_at": "2026-06-18T15:09:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-18T15:30:19Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6122,
-    "updated_at": "2026-06-18T15:15:53Z",
+    "updated_at": "2026-06-18T15:31:36Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -169,6 +187,15 @@
     "stars": 121,
     "updated_at": "2026-06-18T14:46:34Z",
     "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32439,
+    "updated_at": "2026-06-18T14:32:32Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-18T14:01:25Z",
+    "updated_at": "2026-06-18T15:40:21Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/mdzaheerjk/Complete-RAG-Bootcamp-2026"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32438,
-    "updated_at": "2026-06-18T14:32:32Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:37:34Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
-    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
-    "language": "Python",
-    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:34:54Z",
-    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
   },
   {
     "description": "Open source, all-in-one semantic search engine for AI and humans",
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T15:06:13Z",
+    "updated_at": "2026-06-18T15:42:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T14:03:12Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Production-ready FastAPI trading analysis platform with AI sentiment, vector search, Redis/Celery background processing,",
-    "id": "MSR-DE/Multi-Source-AI-Trading-Pipeline",
-    "language": "Python",
-    "name": "MSR-DE/Multi-Source-AI-Trading-Pipeline",
-    "stars": 2,
-    "updated_at": "2026-06-18T12:29:38Z",
-    "url": "https://github.com/MSR-DE/Multi-Source-AI-Trading-Pipeline"
   }
 ]
