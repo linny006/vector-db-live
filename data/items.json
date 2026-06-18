@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-go",
+    "language": "Go",
+    "name": "Dakera-AI/dakera-go",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:44:26Z",
+    "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "Safarnak - AI-powered offline-first travel companion with multi-storage architecture. Built with Expo React Native, Clou",
+    "id": "mohetios/safarnak.app",
+    "language": "TypeScript",
+    "name": "mohetios/safarnak.app",
+    "stars": 5,
+    "updated_at": "2026-06-18T12:39:28Z",
+    "url": "https://github.com/mohetios/safarnak.app"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 121,
+    "updated_at": "2026-06-18T12:37:45Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:34:13Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-ready FastAPI trading analysis platform with AI sentiment, vector search, Redis/Celery background processing,",
     "id": "MSR-DE/Multi-Source-AI-Trading-Pipeline",
     "language": "Python",
@@ -63,21 +117,12 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:20:37Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
     "id": "Dakera-AI/dakera-rs",
     "language": "Rust",
     "name": "Dakera-AI/dakera-rs",
     "stars": 6,
-    "updated_at": "2026-06-18T12:20:34Z",
+    "updated_at": "2026-06-18T12:39:50Z",
     "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
@@ -112,27 +157,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32436,
+    "stars": 32437,
     "updated_at": "2026-06-18T12:16:09Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
@@ -162,15 +189,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:03:40Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
     "id": "ogham-mcp/ogham-mcp",
     "language": "Python",
@@ -185,7 +203,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6963,
-    "updated_at": "2026-06-18T12:03:32Z",
+    "updated_at": "2026-06-18T12:34:40Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -293,7 +311,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-18T12:24:25Z",
+    "updated_at": "2026-06-18T12:36:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T12:29:15Z",
+    "updated_at": "2026-06-18T12:45:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-18T09:22:28Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 5,
-    "updated_at": "2026-06-18T09:15:11Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:14:51Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
