@@ -1,21 +1,66 @@
 [
   {
+    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-18T00:44:15Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
+    "id": "Buffden/rag-document-engine",
+    "language": "Python",
+    "name": "Buffden/rag-document-engine",
+    "stars": 0,
+    "updated_at": "2026-06-18T00:43:07Z",
+    "url": "https://github.com/Buffden/rag-document-engine"
+  },
+  {
+    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
+    "id": "PWDevens/fedacq-rag-chatbot",
+    "language": "Python",
+    "name": "PWDevens/fedacq-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T00:42:19Z",
+    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 1,
+    "updated_at": "2026-06-18T00:36:27Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9342,
+    "updated_at": "2026-06-18T00:31:26Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
     "id": "ZenSystemAI/Zengram",
     "language": "JavaScript",
     "name": "ZenSystemAI/Zengram",
     "stars": 48,
-    "updated_at": "2026-06-18T00:26:11Z",
+    "updated_at": "2026-06-18T00:31:23Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
     "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1580,
-    "updated_at": "2026-06-18T00:23:39Z",
-    "url": "https://github.com/pixeltable/pixeltable"
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T00:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -27,22 +72,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:15:13Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:06:50Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
+    "name": "pixeltable/pixeltable",
+    "stars": 1580,
+    "updated_at": "2026-06-18T00:23:39Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-18T00:29:26Z",
+    "updated_at": "2026-06-18T00:31:21Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -292,7 +328,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28014,
+    "stars": 28015,
     "updated_at": "2026-06-17T20:54:18Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-17T19:14:12Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:10:14Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-    "id": "verygoodplugins/automem",
-    "language": "Python",
-    "name": "verygoodplugins/automem",
-    "stars": 748,
-    "updated_at": "2026-06-17T19:02:03Z",
-    "url": "https://github.com/verygoodplugins/automem"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44821,
-    "updated_at": "2026-06-17T18:54:25Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 945,
-    "updated_at": "2026-06-18T00:23:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
