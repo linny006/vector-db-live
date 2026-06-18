@@ -1,5 +1,59 @@
 [
   {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3006,
+    "updated_at": "2026-06-18T14:13:44Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 109,
+    "updated_at": "2026-06-18T14:09:00Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:08:52Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-18T14:07:12Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T14:01:25Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-18T13:57:54Z",
+    "updated_at": "2026-06-18T14:08:49Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:47:12Z",
     "url": "https://github.com/himelds/MedRagAssistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:00:36Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
@@ -70,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:40:38Z",
     "url": "https://github.com/mdzaheerjk/Complete-RAG-Bootcamp-2026"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32438,
+    "updated_at": "2026-06-18T13:38:51Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -117,21 +162,12 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T13:53:09Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T13:58:47Z",
+    "updated_at": "2026-06-18T14:08:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -176,17 +212,8 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 124,
-    "updated_at": "2026-06-18T13:14:09Z",
+    "updated_at": "2026-06-18T14:15:28Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Proactive AI accountability coach on Telegram: long-term semantic memory (Postgres + pgvector), Gemini 2.5, multimodal i",
-    "id": "alilok7/accountability-agent",
-    "language": "Python",
-    "name": "alilok7/accountability-agent",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:06:20Z",
-    "url": "https://github.com/alilok7/accountability-agent"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -266,7 +293,7 @@
     "language": "Go",
     "name": "zilliztech/milvus-operator",
     "stars": 121,
-    "updated_at": "2026-06-18T13:50:15Z",
+    "updated_at": "2026-06-18T14:11:43Z",
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-18T12:34:13Z",
+    "updated_at": "2026-06-18T14:03:12Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32437,
-    "updated_at": "2026-06-18T13:38:51Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -367,15 +385,6 @@
     "stars": 1848,
     "updated_at": "2026-06-18T12:09:04Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 109,
-    "updated_at": "2026-06-18T12:03:33Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
     "description": "The AI search platform",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T11:43:09Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
-    "id": "tanaos/cognitor-worker",
-    "language": "Python",
-    "name": "tanaos/cognitor-worker",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:23:24Z",
-    "url": "https://github.com/tanaos/cognitor-worker"
   }
 ]
