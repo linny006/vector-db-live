@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "MatthewRyanWeber/data-governance-pipeline",
     "stars": 0,
-    "updated_at": "2026-06-18T22:15:09Z",
+    "updated_at": "2026-06-18T22:25:24Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-18T22:22:00Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T22:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -25,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:07:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T22:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16347,
-    "updated_at": "2026-06-18T21:48:08Z",
+    "updated_at": "2026-06-18T22:20:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T18:18:15Z",
     "url": "https://github.com/Nikhilsh10/RAG-QA-System"
-  },
-  {
-    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
-    "id": "Aaryav1130/rag-chatbot",
-    "language": "Python",
-    "name": "Aaryav1130/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:09:11Z",
-    "url": "https://github.com/Aaryav1130/rag-chatbot"
   }
 ]
