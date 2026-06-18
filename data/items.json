@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T10:30:23Z",
+    "updated_at": "2026-06-18T10:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1848,
+    "updated_at": "2026-06-18T10:38:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T10:27:38Z",
     "url": "https://github.com/ZemResearch/FiktarDB.jl"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1848,
-    "updated_at": "2026-06-18T10:23:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -81,21 +90,12 @@
     "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-18T10:20:57Z",
+    "updated_at": "2026-06-18T10:34:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 808,
-    "updated_at": "2026-06-18T10:09:30Z",
+    "updated_at": "2026-06-18T10:35:12Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -149,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T10:26:34Z",
+    "updated_at": "2026-06-18T10:42:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
