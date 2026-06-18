@@ -1,12 +1,75 @@
 [
   {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-06-18T06:15:22Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-18T06:10:48Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:07:23Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6963,
-    "updated_at": "2026-06-18T06:00:03Z",
+    "updated_at": "2026-06-18T06:01:10Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6158,
+    "updated_at": "2026-06-18T06:00:21Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Unraid CA template and Docker build for Mem0 (OpenMemory). This mega-container utilizes s6-overlay to seamlessly bundle ",
+    "id": "JSONbored/mem0-aio",
+    "language": "Python",
+    "name": "JSONbored/mem0-aio",
+    "stars": 16,
+    "updated_at": "2026-06-18T06:00:19Z",
+    "url": "https://github.com/JSONbored/mem0-aio"
   },
   {
     "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-18T05:55:37Z",
+    "updated_at": "2026-06-18T06:10:06Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -52,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:49:16Z",
     "url": "https://github.com/nuclide-research/tome"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -103,7 +148,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44824,
+    "stars": 44825,
     "updated_at": "2026-06-18T05:12:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T05:08:48Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:04:15Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -211,7 +247,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1847,
+    "stars": 1848,
     "updated_at": "2026-06-18T03:53:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T05:18:41Z",
+    "updated_at": "2026-06-18T06:06:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -382,7 +418,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61753,
+    "stars": 61754,
     "updated_at": "2026-06-18T01:23:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:20:28Z",
     "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10157,
-    "updated_at": "2026-06-18T01:00:42Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
-    "id": "Buffden/rag-document-engine",
-    "language": "Python",
-    "name": "Buffden/rag-document-engine",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:59:03Z",
-    "url": "https://github.com/Buffden/rag-document-engine"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 369,
-    "updated_at": "2026-06-18T03:56:40Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-18T00:54:27Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   }
 ]
