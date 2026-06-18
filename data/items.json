@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T11:30:22Z",
+    "updated_at": "2026-06-18T11:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflow/duckle",
+    "language": "Rust",
+    "name": "slothflow/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T11:44:29Z",
+    "url": "https://github.com/slothflow/duckle"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:43:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-18T11:42:46Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17894,
+    "updated_at": "2026-06-18T11:36:23Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Open source, all-in-one semantic search engine for AI and humans",
@@ -41,7 +86,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7746,
-    "updated_at": "2026-06-18T11:19:52Z",
+    "updated_at": "2026-06-18T11:37:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -61,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T11:16:07Z",
     "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflow/duckle",
-    "language": "Rust",
-    "name": "slothflow/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T11:13:32Z",
-    "url": "https://github.com/slothflow/duckle"
   },
   {
     "description": "The AI search platform",
@@ -117,15 +144,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17893,
-    "updated_at": "2026-06-18T11:26:48Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
     "id": "nobijoy/memcore-rs",
     "language": "Rust",
@@ -139,7 +157,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32434,
+    "stars": 32435,
     "updated_at": "2026-06-18T10:46:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T11:22:58Z",
+    "updated_at": "2026-06-18T11:38:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-18T08:57:20Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
@@ -373,7 +382,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58164,
+    "stars": 58167,
     "updated_at": "2026-06-18T08:54:13Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -410,7 +419,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 87,
-    "updated_at": "2026-06-18T10:21:58Z",
+    "updated_at": "2026-06-18T11:41:58Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T08:44:35Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "\ud83c\udf0d AI-powered Multilingual Retrieval-Augmented Generation (RAG) System using FastAPI, ChromaDB, Sentence Transformers, Gr",
-    "id": "SatyamKushwaha3232/Multilingual_RAG",
-    "language": "CSS",
-    "name": "SatyamKushwaha3232/Multilingual_RAG",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:44:19Z",
-    "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
   }
 ]
