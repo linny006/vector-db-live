@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T13:59:55Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-06-18T13:57:54Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Role-Based Medical RAG System using FastAPI, Next.js, ChromaDB, Hybrid Retrieval, and Gemma 4 with secure department-lev",
+    "id": "himelds/MedRagAssistant",
+    "language": "Python",
+    "name": "himelds/MedRagAssistant",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:47:12Z",
+    "url": "https://github.com/himelds/MedRagAssistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T13:45:24Z",
+    "updated_at": "2026-06-18T14:00:36Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -81,21 +117,12 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
     "id": "Neverdecel/CodeRAG",
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-18T13:37:29Z",
+    "updated_at": "2026-06-18T13:53:09Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T13:44:31Z",
+    "updated_at": "2026-06-18T13:58:47Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 91,
-    "updated_at": "2026-06-18T13:14:37Z",
+    "updated_at": "2026-06-18T13:50:34Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:06:20Z",
     "url": "https://github.com/alilok7/accountability-agent"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T13:04:27Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "zilliztech/milvus-operator",
     "stars": 121,
-    "updated_at": "2026-06-18T12:52:46Z",
+    "updated_at": "2026-06-18T13:50:15Z",
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:23:24Z",
     "url": "https://github.com/tanaos/cognitor-worker"
-  },
-  {
-    "description": "\ud83d\ude80 Advanced multi-agent autonomous framework for deep research, self-reflective peer review, and citation-accurate report",
-    "id": "TranTungDuong02082006/autonomous-researcher",
-    "language": "Python",
-    "name": "TranTungDuong02082006/autonomous-researcher",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:21:05Z",
-    "url": "https://github.com/TranTungDuong02082006/autonomous-researcher"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7746,
-    "updated_at": "2026-06-18T13:35:22Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
