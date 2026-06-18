@@ -5,17 +5,44 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12360,
-    "updated_at": "2026-06-18T07:06:40Z",
+    "updated_at": "2026-06-18T07:29:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
     "language": "Python",
-    "name": "dovahkiin-v/mitos",
+    "name": "chyinan/AegisRAG",
     "stars": 2,
-    "updated_at": "2026-06-18T07:01:24Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
+    "updated_at": "2026-06-18T07:28:01Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 542,
+    "updated_at": "2026-06-18T07:27:49Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:24:02Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A voice-driven, autonomous AI developer assistant designed to manage complex engineering workflows, track project states",
+    "id": "VarunRathore137/ZENO-Agent",
+    "language": "JavaScript",
+    "name": "VarunRathore137/ZENO-Agent",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:17:14Z",
+    "url": "https://github.com/VarunRathore137/ZENO-Agent"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T07:00:28Z",
+    "updated_at": "2026-06-18T07:15:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-18T07:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:01:24Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
@@ -95,7 +131,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7745,
-    "updated_at": "2026-06-18T06:42:11Z",
+    "updated_at": "2026-06-18T07:25:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -106,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:39:29Z",
     "url": "https://github.com/czhao-dev/GCP-Vertex-AI-RAG-Chatbot"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44825,
+    "updated_at": "2026-06-18T06:31:16Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T06:39:42Z",
+    "updated_at": "2026-06-18T07:18:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 32421,
     "updated_at": "2026-06-18T06:33:12Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44826,
-    "updated_at": "2026-06-18T06:31:16Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -391,7 +427,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5245,
+    "stars": 5246,
     "updated_at": "2026-06-18T02:57:03Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:30:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
     "id": "konjoai/vectro",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-18T02:22:26Z",
     "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4572,
-    "updated_at": "2026-06-18T01:59:30Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
-    "id": "Cyning12/ai-ink-brain",
-    "language": "TypeScript",
-    "name": "Cyning12/ai-ink-brain",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:03:42Z",
-    "url": "https://github.com/Cyning12/ai-ink-brain"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Cohere, Mistral, Moonshot, DeepSeek, and Zai model",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:50:11Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
   }
 ]
