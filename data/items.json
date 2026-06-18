@@ -1,11 +1,38 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12360,
+    "updated_at": "2026-06-18T07:06:40Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:01:24Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T07:00:22Z",
+    "updated_at": "2026-06-18T07:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12360,
-    "updated_at": "2026-06-18T06:50:22Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
@@ -72,13 +90,13 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7745,
+    "updated_at": "2026-06-18T06:42:11Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "RAG PDF Q&A chatbot using LangChain, Google Vertex AI (Gemini) for embeddings and generation, and Chroma vector search, ",
@@ -142,15 +160,6 @@
     "stars": 124,
     "updated_at": "2026-06-18T06:10:48Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T06:07:23Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
@@ -382,7 +391,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5244,
+    "stars": 5245,
     "updated_at": "2026-06-18T02:57:03Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:50:11Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
-    "id": "liaoyu1992/claude-smart",
-    "language": "Python",
-    "name": "liaoyu1992/claude-smart",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:43:06Z",
-    "url": "https://github.com/liaoyu1992/claude-smart"
   }
 ]
