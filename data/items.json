@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
+    "name": "al7o/DocuMind-AI-Engine",
     "stars": 0,
-    "updated_at": "2026-06-18T16:30:48Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
+    "updated_at": "2026-06-18T16:34:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32441,
+    "updated_at": "2026-06-18T16:34:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "RAG service for intelligent bug analysis with multi-LLM support",
+    "id": "apex-bridge/bugspotter-intelligence",
+    "language": "Python",
+    "name": "apex-bridge/bugspotter-intelligence",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:33:49Z",
+    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T16:30:35Z",
+    "updated_at": "2026-06-18T16:31:01Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:30:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -63,12 +90,21 @@
     "url": "https://github.com/saikrishna210506/personal-knowledge-brain"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17898,
+    "updated_at": "2026-06-18T16:13:12Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6963,
-    "updated_at": "2026-06-18T16:10:55Z",
+    "updated_at": "2026-06-18T16:35:53Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -97,6 +133,15 @@
     "stars": 37,
     "updated_at": "2026-06-18T15:43:35Z",
     "url": "https://github.com/thebearwithabite/ai-file-organizer"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58172,
+    "updated_at": "2026-06-18T15:41:11Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
@@ -180,15 +225,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17897,
-    "updated_at": "2026-06-18T16:13:12Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6122,
-    "updated_at": "2026-06-18T16:23:13Z",
+    "updated_at": "2026-06-18T16:41:41Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -220,7 +256,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3006,
+    "stars": 3007,
     "updated_at": "2026-06-18T14:41:37Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -259,15 +295,6 @@
     "stars": 121,
     "updated_at": "2026-06-18T14:46:34Z",
     "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32440,
-    "updated_at": "2026-06-18T16:23:08Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -421,32 +448,5 @@
     "stars": 16346,
     "updated_at": "2026-06-18T16:21:41Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI-powered customer support and reception platform built with FastAPI, Next.js, ChromaDB, and Ollama, featuring RAG, Wha",
-    "id": "Nimalan07/ai-receptionist-saas",
-    "language": "JavaScript",
-    "name": "Nimalan07/ai-receptionist-saas",
-    "stars": 1,
-    "updated_at": "2026-06-18T13:20:31Z",
-    "url": "https://github.com/Nimalan07/ai-receptionist-saas"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1358,
-    "updated_at": "2026-06-18T13:17:49Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 91,
-    "updated_at": "2026-06-18T13:50:34Z",
-    "url": "https://github.com/oracle/ai-optimizer"
   }
 ]
