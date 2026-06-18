@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-18T11:26:31Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
+    "id": "tanaos/cognitor-worker",
+    "language": "Python",
+    "name": "tanaos/cognitor-worker",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:23:24Z",
+    "url": "https://github.com/tanaos/cognitor-worker"
+  },
+  {
+    "description": "\ud83d\ude80 Advanced multi-agent autonomous framework for deep research, self-reflective peer review, and citation-accurate report",
+    "id": "TranTungDuong02082006/autonomous-researcher",
+    "language": "Python",
+    "name": "TranTungDuong02082006/autonomous-researcher",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:21:05Z",
+    "url": "https://github.com/TranTungDuong02082006/autonomous-researcher"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7746,
+    "updated_at": "2026-06-18T11:19:52Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 9,
+    "updated_at": "2026-06-18T11:17:05Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:16:07Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflow/duckle",
     "language": "Rust",
@@ -36,15 +108,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -54,21 +117,12 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17893,
-    "updated_at": "2026-06-18T11:08:10Z",
+    "updated_at": "2026-06-18T11:26:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -81,6 +135,15 @@
     "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32434,
+    "updated_at": "2026-06-18T10:46:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,15 +151,6 @@
     "stars": 1848,
     "updated_at": "2026-06-18T10:38:04Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:30:11Z",
-    "url": "https://github.com/chyinan/AegisRAG"
   },
   {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
@@ -135,15 +189,6 @@
     "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32433,
-    "updated_at": "2026-06-18T10:46:52Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T11:03:10Z",
+    "updated_at": "2026-06-18T11:22:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -328,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58163,
+    "stars": 58164,
     "updated_at": "2026-06-18T08:54:13Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:44:19Z",
     "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1393,
-    "updated_at": "2026-06-18T09:00:19Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "AI-driven long-form novel writing engine. Powered by an 8-Agent collaborative workflow and a 3-layer memory system (SQLi",
-    "id": "FantasyLu/neupen",
-    "language": "Python",
-    "name": "FantasyLu/neupen",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:34:45Z",
-    "url": "https://github.com/FantasyLu/neupen"
-  },
-  {
-    "description": "RAG-based telecom customer care chatbot using LangChain, ChromaDB, and Qwen3-32B on Groq",
-    "id": "adityalakhe/rag-telecom-chatbot",
-    "language": "Python",
-    "name": "adityalakhe/rag-telecom-chatbot",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:34:26Z",
-    "url": "https://github.com/adityalakhe/rag-telecom-chatbot"
-  },
-  {
-    "description": "Rest client for Qdrant vector database",
-    "id": "quarkiverse/quarkus-qdrant",
-    "language": "Java",
-    "name": "quarkiverse/quarkus-qdrant",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:28:59Z",
-    "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "CrateDB provider for LangChain.",
-    "id": "crate/langchain-cratedb",
-    "language": "Python",
-    "name": "crate/langchain-cratedb",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:21:15Z",
-    "url": "https://github.com/crate/langchain-cratedb"
   }
 ]
