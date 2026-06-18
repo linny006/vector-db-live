@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T09:00:25Z",
+    "updated_at": "2026-06-18T09:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 5,
+    "updated_at": "2026-06-18T09:15:11Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:14:51Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12362,
+    "updated_at": "2026-06-18T09:08:54Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T09:08:05Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "",
+    "id": "Adityaz23/Video-Transcriber",
+    "language": "Python",
+    "name": "Adityaz23/Video-Transcriber",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:07:44Z",
+    "url": "https://github.com/Adityaz23/Video-Transcriber"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:01:59Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "",
-    "id": "Adityaz23/Video-Transcriber",
-    "language": "Python",
-    "name": "Adityaz23/Video-Transcriber",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:58:35Z",
-    "url": "https://github.com/Adityaz23/Video-Transcriber"
-  },
-  {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
     "id": "rustic-ai/uni-db",
     "language": "Rust",
@@ -52,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:57:46Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16345,
+    "updated_at": "2026-06-18T09:15:30Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -99,15 +162,6 @@
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:46:34Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:45:54Z",
     "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Scalable Hybrid RAG system with Dense + BM25 retrieval over 10K documents using Pinecone and FastAPI.",
@@ -184,7 +229,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44828,
+    "stars": 44829,
     "updated_at": "2026-06-18T08:42:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -196,24 +241,6 @@
     "stars": 1393,
     "updated_at": "2026-06-18T09:00:19Z",
     "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T08:41:38Z",
-    "url": "https://github.com/ducklelabs/duckle"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12362,
-    "updated_at": "2026-06-18T08:35:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI-driven long-form novel writing engine. Powered by an 8-Agent collaborative workflow and a 3-layer memory system (SQLi",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32428,
-    "updated_at": "2026-06-18T07:56:33Z",
+    "updated_at": "2026-06-18T09:04:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -365,7 +392,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6158,
-    "updated_at": "2026-06-18T08:57:50Z",
+    "updated_at": "2026-06-18T09:13:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/zilliztech/mfs"
   },
   {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 5,
-    "updated_at": "2026-06-18T06:53:33Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:39:29Z",
     "url": "https://github.com/czhao-dev/GCP-Vertex-AI-RAG-Chatbot"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17893,
-    "updated_at": "2026-06-18T06:33:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
-    "id": "vasu-devs/JustHireMe",
-    "language": "Python",
-    "name": "vasu-devs/JustHireMe",
-    "stars": 2067,
-    "updated_at": "2026-06-18T06:32:00Z",
-    "url": "https://github.com/vasu-devs/JustHireMe"
   }
 ]
