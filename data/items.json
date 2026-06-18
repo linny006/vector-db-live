@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
-    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:14:12Z",
-    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T10:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6158,
-    "updated_at": "2026-06-18T10:12:16Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 2,
+    "updated_at": "2026-06-18T10:30:11Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
+    "id": "Dakera-AI/dakera-cli",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-cli",
+    "stars": 9,
+    "updated_at": "2026-06-18T10:24:26Z",
+    "url": "https://github.com/Dakera-AI/dakera-cli"
   },
   {
     "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
@@ -23,8 +32,71 @@
     "language": "Julia",
     "name": "ZemResearch/FiktarDB.jl",
     "stars": 1,
-    "updated_at": "2026-06-18T10:11:45Z",
+    "updated_at": "2026-06-18T10:27:38Z",
     "url": "https://github.com/ZemResearch/FiktarDB.jl"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1848,
+    "updated_at": "2026-06-18T10:23:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44832,
+    "updated_at": "2026-06-18T10:22:29Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6963,
+    "updated_at": "2026-06-18T10:17:22Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A Multi-Domain RAG & Local AI Experiment",
+    "id": "EduardKuun/ipraat",
+    "language": "TypeScript",
+    "name": "EduardKuun/ipraat",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:16:59Z",
+    "url": "https://github.com/EduardKuun/ipraat"
+  },
+  {
+    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
+    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "language": "Python",
+    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:16:27Z",
+    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6158,
+    "updated_at": "2026-06-18T10:20:57Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -45,30 +117,12 @@
     "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32433,
-    "updated_at": "2026-06-18T10:00:24Z",
+    "updated_at": "2026-06-18T10:17:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -88,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-06-18T09:57:51Z",
     "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16346,
+    "updated_at": "2026-06-18T10:26:34Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -151,15 +214,6 @@
     "stars": 16,
     "updated_at": "2026-06-18T10:07:35Z",
     "url": "https://github.com/JSONbored/mem0-aio"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6963,
-    "updated_at": "2026-06-18T09:22:41Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
@@ -243,15 +297,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16345,
-    "updated_at": "2026-06-18T09:56:30Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
     "id": "notadev-iamaura/OneRAG",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 87,
-    "updated_at": "2026-06-18T08:46:23Z",
+    "updated_at": "2026-06-18T10:21:58Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:44:19Z",
     "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44832,
-    "updated_at": "2026-06-18T08:42:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:18:41Z",
     "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:12:45Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-06-18T08:09:35Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:07:04Z",
-    "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 2,
-    "updated_at": "2026-06-18T09:47:31Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
   }
 ]
