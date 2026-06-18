@@ -1,12 +1,21 @@
 [
   {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-17T23:34:09Z",
-    "url": "https://github.com/schmitech/orbit"
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-18T00:00:06Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
+    "id": "TheAnishSolankii/rag-chatbot",
+    "language": "JavaScript",
+    "name": "TheAnishSolankii/rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:58:03Z",
+    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-17T23:30:31Z",
+    "updated_at": "2026-06-17T23:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-17T23:30:21Z",
+    "updated_at": "2026-06-17T23:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-17T23:34:09Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16341,
-    "updated_at": "2026-06-17T23:05:32Z",
+    "updated_at": "2026-06-17T23:56:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 367,
-    "updated_at": "2026-06-17T23:20:16Z",
+    "updated_at": "2026-06-17T23:52:04Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-17T23:09:37Z",
+    "updated_at": "2026-06-17T23:58:49Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -247,7 +265,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5240,
+    "stars": 5239,
     "updated_at": "2026-06-17T20:55:10Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
-    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
-    "id": "TheAnishSolankii/rag-chatbot",
-    "language": "JavaScript",
-    "name": "TheAnishSolankii/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:04:25Z",
-    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
-  },
-  {
     "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
     "id": "verygoodplugins/automem",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 945,
-    "updated_at": "2026-06-17T22:04:25Z",
+    "updated_at": "2026-06-17T23:59:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:46:13Z",
     "url": "https://github.com/ebaadraheem/shared-memory-failures"
-  },
-  {
-    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
-    "id": "ChrisGVE/workspace-qdrant-mcp",
-    "language": "Rust",
-    "name": "ChrisGVE/workspace-qdrant-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:45:19Z",
-    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
   }
 ]
