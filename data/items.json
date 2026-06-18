@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T14:45:24Z",
+    "updated_at": "2026-06-18T15:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:55:32Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:51:53Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
+    "id": "CryptoJones/RAG-Pipeline-Example",
+    "language": "Python",
+    "name": "CryptoJones/RAG-Pipeline-Example",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:46:02Z",
+    "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -36,15 +72,6 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:41:22Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 12,
-    "updated_at": "2026-06-18T14:45:07Z",
+    "updated_at": "2026-06-18T14:59:16Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -77,17 +104,8 @@
     "language": "Go",
     "name": "zilliztech/milvus-operator",
     "stars": 121,
-    "updated_at": "2026-06-18T14:33:51Z",
+    "updated_at": "2026-06-18T14:46:34Z",
     "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -108,15 +126,6 @@
     "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
-    "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
-    "id": "CryptoJones/RAG-Pipeline-Example",
-    "language": "Python",
-    "name": "CryptoJones/RAG-Pipeline-Example",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:28:34Z",
-    "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
-  },
-  {
     "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
     "id": "Aritra-Basak/self-correcting-rag-spring-ai",
     "language": "Java",
@@ -126,21 +135,12 @@
     "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:44:30Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
     "id": "konjoai/vectro",
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-18T14:43:46Z",
+    "updated_at": "2026-06-18T14:48:08Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T14:31:18Z",
+    "updated_at": "2026-06-18T14:55:35Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
