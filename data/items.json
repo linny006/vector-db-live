@@ -1,5 +1,50 @@
 [
   {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 91,
+    "updated_at": "2026-06-18T12:50:44Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Document-aware RAG chatbot with persistent memory, source citations, and automatic topic-switch detection. Built with Gr",
+    "id": "Sri-Nidhi-25/multi-turn_conversation",
+    "language": "Python",
+    "name": "Sri-Nidhi-25/multi-turn_conversation",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:49:00Z",
+    "url": "https://github.com/Sri-Nidhi-25/multi-turn_conversation"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T12:48:02Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T12:45:52Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:45:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "zilliztech/milvus-operator",
     "stars": 121,
-    "updated_at": "2026-06-18T12:37:45Z",
+    "updated_at": "2026-06-18T12:51:33Z",
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production-ready FastAPI trading analysis platform with AI sentiment, vector search, Redis/Celery background processing,",
     "id": "MSR-DE/Multi-Source-AI-Trading-Pipeline",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T12:29:38Z",
     "url": "https://github.com/MSR-DE/Multi-Source-AI-Trading-Pipeline"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 91,
-    "updated_at": "2026-06-18T12:30:12Z",
-    "url": "https://github.com/oracle/ai-optimizer"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -133,15 +160,6 @@
     "stars": 40,
     "updated_at": "2026-06-18T12:19:57Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T12:18:41Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
@@ -241,6 +259,15 @@
     "stars": 3,
     "updated_at": "2026-06-18T11:49:09Z",
     "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": " High-performance, fully-local AI-infrastructure platform \u2014 Rust SIMD + rayon  vector kernels, a PyO3/maturin Python SDK",
+    "id": "0DevDutt0/neuralforge-x",
+    "language": "HTML",
+    "name": "0DevDutt0/neuralforge-x",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:43:49Z",
+    "url": "https://github.com/0DevDutt0/neuralforge-x"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -392,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T12:45:17Z",
+    "updated_at": "2026-06-18T12:49:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:30:04Z",
     "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 12,
-    "updated_at": "2026-06-18T09:27:19Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Unraid CA template and Docker build for Mem0 (OpenMemory). This mega-container utilizes s6-overlay to seamlessly bundle ",
-    "id": "JSONbored/mem0-aio",
-    "language": "Python",
-    "name": "JSONbored/mem0-aio",
-    "stars": 16,
-    "updated_at": "2026-06-18T10:07:35Z",
-    "url": "https://github.com/JSONbored/mem0-aio"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 8,
-    "updated_at": "2026-06-18T09:22:28Z",
-    "url": "https://github.com/gonicolas12/My_AI"
   }
 ]
