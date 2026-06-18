@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T06:45:20Z",
+    "updated_at": "2026-06-18T07:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:00:06Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "The Memory Layer for AI Agents, Building the future of AI memory, identity, and continuit & Infrastructure for persisten",
+    "id": "AbrahamMemory/abraham-memory",
+    "language": "\u2014",
+    "name": "AbrahamMemory/abraham-memory",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:55:39Z",
+    "url": "https://github.com/AbrahamMemory/abraham-memory"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 5,
+    "updated_at": "2026-06-18T06:53:33Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12360,
+    "updated_at": "2026-06-18T06:50:22Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-06-18T06:49:38Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Unraid CA template and Docker build for Mem0 (OpenMemory). This mega-container utilizes s6-overlay to seamlessly bundle ",
+    "id": "JSONbored/mem0-aio",
+    "language": "Python",
+    "name": "JSONbored/mem0-aio",
+    "stars": 16,
+    "updated_at": "2026-06-18T06:48:51Z",
+    "url": "https://github.com/JSONbored/mem0-aio"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 13,
+    "updated_at": "2026-06-18T06:48:35Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG PDF Q&A chatbot using LangChain, Google Vertex AI (Gemini) for embeddings and generation, and Chroma vector search, ",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:39:29Z",
     "url": "https://github.com/czhao-dev/GCP-Vertex-AI-RAG-Chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -63,15 +126,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "The Memory Layer for AI Agents, Building the future of AI memory, identity, and continuit & Infrastructure for persisten",
-    "id": "AbrahamMemory/abraham-memory",
-    "language": "\u2014",
-    "name": "AbrahamMemory/abraham-memory",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:20:19Z",
-    "url": "https://github.com/AbrahamMemory/abraham-memory"
-  },
-  {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
     "id": "nobijoy/memcore-rs",
     "language": "Rust",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:17:05Z",
     "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-06-18T06:40:26Z",
-    "url": "https://github.com/weaviate/docs"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -133,15 +178,6 @@
     "stars": 6158,
     "updated_at": "2026-06-18T06:00:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Unraid CA template and Docker build for Mem0 (OpenMemory). This mega-container utilizes s6-overlay to seamlessly bundle ",
-    "id": "JSONbored/mem0-aio",
-    "language": "Python",
-    "name": "JSONbored/mem0-aio",
-    "stars": 16,
-    "updated_at": "2026-06-18T06:37:35Z",
-    "url": "https://github.com/JSONbored/mem0-aio"
   },
   {
     "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T05:08:48Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 13,
-    "updated_at": "2026-06-18T05:01:40Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T01:43:06Z",
     "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-18T01:37:19Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-18T06:20:01Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61755,
-    "updated_at": "2026-06-18T01:23:34Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
