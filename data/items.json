@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T13:27:19Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
+    "id": "Aritra-Basak/self-correcting-rag-spring-ai",
+    "language": "Java",
+    "name": "Aritra-Basak/self-correcting-rag-spring-ai",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:42:49Z",
+    "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
   },
   {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "gonicolas12/My_AI",
     "stars": 8,
-    "updated_at": "2026-06-18T13:25:04Z",
+    "updated_at": "2026-06-18T13:42:03Z",
     "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "A comprehensive, hands-on bootcamp covering everything you need to build sophisticated RAG applications, from core conce",
+    "id": "mdzaheerjk/Complete-RAG-Bootcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "mdzaheerjk/Complete-RAG-Bootcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:40:38Z",
+    "url": "https://github.com/mdzaheerjk/Complete-RAG-Bootcamp-2026"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:37:48Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:37:34Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
+    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "language": "Python",
+    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:34:54Z",
+    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-18T13:34:37Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-18T13:31:29Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T13:37:29Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T13:23:07Z",
+    "updated_at": "2026-06-18T13:44:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -45,22 +126,13 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T13:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1358,
+    "updated_at": "2026-06-18T13:17:49Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -266,17 +338,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32437,
-    "updated_at": "2026-06-18T13:28:39Z",
+    "updated_at": "2026-06-18T13:38:51Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
-    "id": "Aritra-Basak/self-correcting-rag-spring-ai",
-    "language": "Java",
-    "name": "Aritra-Basak/self-correcting-rag-spring-ai",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:12:12Z",
-    "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -360,15 +423,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-18T11:26:31Z",
-    "url": "https://github.com/tanaos/cognitor"
-  },
-  {
     "description": "Automatically chunk, embed and index a folder into a Cognitor collection",
     "id": "tanaos/cognitor-worker",
     "language": "Python",
@@ -392,61 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7746,
-    "updated_at": "2026-06-18T13:20:51Z",
+    "updated_at": "2026-06-18T13:35:22Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 9,
-    "updated_at": "2026-06-18T11:17:05Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6158,
-    "updated_at": "2026-06-18T12:36:38Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 808,
-    "updated_at": "2026-06-18T11:04:39Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44833,
-    "updated_at": "2026-06-18T11:00:24Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
-    "id": "Dakera-AI/dakera-cli",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-cli",
-    "stars": 9,
-    "updated_at": "2026-06-18T10:24:26Z",
-    "url": "https://github.com/Dakera-AI/dakera-cli"
-  },
-  {
-    "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
-    "id": "ZemResearch/FiktarDB.jl",
-    "language": "Julia",
-    "name": "ZemResearch/FiktarDB.jl",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:27:38Z",
-    "url": "https://github.com/ZemResearch/FiktarDB.jl"
   }
 ]
