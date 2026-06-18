@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 48,
+    "updated_at": "2026-06-18T00:26:11Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1580,
+    "updated_at": "2026-06-18T00:23:39Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T00:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T00:15:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -16,33 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:05:08Z",
     "url": "https://github.com/TheAnishSolankii/rag-chatbot"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1580,
-    "updated_at": "2026-06-18T00:04:38Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 369,
-    "updated_at": "2026-06-17T23:23:25Z",
+    "updated_at": "2026-06-18T00:24:44Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-17T22:25:57Z",
+    "updated_at": "2026-06-18T00:29:06Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 367,
-    "updated_at": "2026-06-18T00:09:08Z",
+    "updated_at": "2026-06-18T00:25:29Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Go",
     "name": "srimon12/qql-go",
     "stars": 2,
-    "updated_at": "2026-06-18T00:09:50Z",
+    "updated_at": "2026-06-18T00:29:26Z",
     "url": "https://github.com/srimon12/qql-go"
   },
   {
@@ -247,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61739,
+    "stars": 61740,
     "updated_at": "2026-06-17T21:16:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -437,16 +446,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 945,
-    "updated_at": "2026-06-17T23:59:49Z",
+    "updated_at": "2026-06-18T00:23:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Experiment framework testing how shared vector memory causes recall failures (belief asymmetry, authority collapse, memo",
-    "id": "ebaadraheem/shared-memory-failures",
-    "language": "Python",
-    "name": "ebaadraheem/shared-memory-failures",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:46:13Z",
-    "url": "https://github.com/ebaadraheem/shared-memory-failures"
   }
 ]
