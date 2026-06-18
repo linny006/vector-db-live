@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 04:45 UTC
+> ⏰ Last updated: 2026-06-18 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,8 +43,8 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [kherrera6219/theFactory](https://github.com/kherrera6219/theFactory) | 1 | Python | 2026-06-18 | theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [kherrera6219/theFactory](https://github.com/kherrera6219/theFactory) | 1 | Python | 2026-06-18 | theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v |
 | 4 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 2 | Python | 2026-06-18 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
 | 5 | [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) | 214 | Python | 2026-06-18 | Local-first, zero-key semantic code search for large and custom codebases — hybrid vector + keyword retrieval with symbo |
 | 6 | [muonroi/experience-engine](https://github.com/muonroi/experience-engine) | 1 | JavaScript | 2026-06-18 | AI agents that learn from mistakes — not just store facts. Memory shrinks as capability grows. |
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1580 | Python | 2026-06-18 | Unified multimodal backend for AI data apps |
 | 44 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16343 | Go | 2026-06-18 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 45 | [TheAnishSolankii/rag-chatbot](https://github.com/TheAnishSolankii/rag-chatbot) | 0 | JavaScript | 2026-06-18 | 🤖 AI-powered RAG Chatbot — chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React |
-| 46 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 12 | JavaScript | 2026-06-17 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
+| 46 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 12 | JavaScript | 2026-06-18 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
 | 47 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10638 | HTML | 2026-06-17 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 48 | [vishwajitvm/PolicyBot](https://github.com/vishwajitvm/PolicyBot) | 0 | Python | 2026-06-17 | Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m |
 | 49 | [MariaDB/server](https://github.com/MariaDB/server) | 7744 | C++ | 2026-06-18 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
