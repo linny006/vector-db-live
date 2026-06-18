@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T09:47:18Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T09:31:12Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32430,
-    "updated_at": "2026-06-18T09:22:33Z",
+    "updated_at": "2026-06-18T09:49:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 12362,
     "updated_at": "2026-06-18T09:08:54Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T09:08:05Z",
-    "url": "https://github.com/ducklelabs/duckle"
   },
   {
     "description": "",
@@ -194,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16345,
-    "updated_at": "2026-06-18T09:33:01Z",
+    "updated_at": "2026-06-18T09:46:34Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -401,7 +401,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 2,
-    "updated_at": "2026-06-18T09:35:50Z",
+    "updated_at": "2026-06-18T09:47:31Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
