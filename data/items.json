@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T21:00:23Z",
+    "updated_at": "2026-06-18T21:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Spring AI RAG demo with PGVector, conversation memory, tool calling, and Open WebUI integration",
+    "id": "arvindand/spring-ai-rag-demo",
+    "language": "Java",
+    "name": "arvindand/spring-ai-rag-demo",
+    "stars": 5,
+    "updated_at": "2026-06-18T21:07:27Z",
+    "url": "https://github.com/arvindand/spring-ai-rag-demo"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-06-18T21:04:42Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T21:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -36,15 +63,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T20:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
     "id": "MoTahaAboHeiba/EduMate-RAG",
     "language": "Python",
@@ -70,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T20:39:31Z",
     "url": "https://github.com/chrishenyard/Vector.Search"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7747,
+    "updated_at": "2026-06-18T20:34:29Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Profile README",
@@ -144,15 +171,6 @@
     "url": "https://github.com/yielab/Adapta"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7746,
-    "updated_at": "2026-06-18T20:34:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
     "id": "hivellm/vectorizer",
     "language": "Rust",
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16347,
-    "updated_at": "2026-06-18T19:41:13Z",
+    "updated_at": "2026-06-18T21:09:51Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:43:48Z",
     "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
-  },
-  {
-    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
-    "id": "hillzeealex/vektoria",
-    "language": "Python",
-    "name": "hillzeealex/vektoria",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:40:26Z",
-    "url": "https://github.com/hillzeealex/vektoria"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T18:32:07Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   }
 ]
