@@ -1,5 +1,68 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6963,
+    "updated_at": "2026-06-18T06:00:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI-powered Medical RAG Chatbot built with FastAPI, Qdrant, Sentence Transformers and Gemini for intelligent document ret",
+    "id": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "language": "Python",
+    "name": "Anmolbhattarai-AI/medical-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:59:26Z",
+    "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T05:55:37Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "An AI-native financial auditing engine. Built with Go and Supabase to orchestrate a RAG pipeline that extracts unstructu",
+    "id": "NisargKumarGharde/nexaaudit",
+    "language": "Go",
+    "name": "NisargKumarGharde/nexaaudit",
+    "stars": 1,
+    "updated_at": "2026-06-18T05:49:48Z",
+    "url": "https://github.com/NisargKumarGharde/nexaaudit"
+  },
+  {
+    "description": "Fast vulnerability scanner for AI and ML infrastructure. 218 service fingerprints, 62 deep enumerators.",
+    "id": "nuclide-research/aimap",
+    "language": "Go",
+    "name": "nuclide-research/aimap",
+    "stars": 3,
+    "updated_at": "2026-06-18T05:49:38Z",
+    "url": "https://github.com/nuclide-research/aimap"
+  },
+  {
+    "description": "Technical OSINT Mining Engine. Canonical AI/ML platform corpus: 50 platforms with Shodan dorks at 3 tiers, aimap probe c",
+    "id": "nuclide-research/tome",
+    "language": "Go",
+    "name": "nuclide-research/tome",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:49:16Z",
+    "url": "https://github.com/nuclide-research/tome"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T05:33:23Z",
     "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T04:39:11Z",
     "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-18T04:55:13Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
@@ -180,15 +225,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6963,
-    "updated_at": "2026-06-18T04:33:36Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -232,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:22:12Z",
     "url": "https://github.com/david-kabera/featureforge"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6121,
+    "updated_at": "2026-06-18T02:57:20Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -337,7 +382,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61752,
+    "stars": 61753,
     "updated_at": "2026-06-18T01:23:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -369,6 +414,15 @@
     "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
   },
   {
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10157,
+    "updated_at": "2026-06-18T01:00:42Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
     "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
     "id": "Buffden/rag-document-engine",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 124,
     "updated_at": "2026-06-18T00:54:27Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:44:15Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 362,
-    "updated_at": "2026-06-18T00:33:08Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 48,
-    "updated_at": "2026-06-18T00:31:23Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16343,
-    "updated_at": "2026-06-18T00:11:16Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered RAG Chatbot \u2014 chat with your PDFs using GPT-4.1, LangChain, FAISS, FastAPI & React",
-    "id": "TheAnishSolankii/rag-chatbot",
-    "language": "JavaScript",
-    "name": "TheAnishSolankii/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:05:08Z",
-    "url": "https://github.com/TheAnishSolankii/rag-chatbot"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10638,
-    "updated_at": "2026-06-17T23:08:10Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
