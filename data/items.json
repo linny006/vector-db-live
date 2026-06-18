@@ -1,21 +1,21 @@
 [
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:30:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44823,
+    "updated_at": "2026-06-18T02:54:25Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-18T02:51:04Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,8 +23,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T02:30:20Z",
+    "updated_at": "2026-06-18T02:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:30:57Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "RAG PDF Q&A chatbot using LangChain, Google Vertex AI (Gemini) for embeddings and generation, and Chroma vector search, ",
@@ -45,15 +63,6 @@
     "url": "https://github.com/konjoai/vectro"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44823,
-    "updated_at": "2026-06-18T02:20:24Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -68,7 +77,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T02:03:56Z",
+    "updated_at": "2026-06-18T03:00:11Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -130,7 +139,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61751,
+    "stars": 61752,
     "updated_at": "2026-06-18T01:23:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1580,
-    "updated_at": "2026-06-18T01:40:29Z",
+    "updated_at": "2026-06-18T02:55:24Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -319,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32413,
+    "stars": 32416,
     "updated_at": "2026-06-17T22:20:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5242,
-    "updated_at": "2026-06-17T20:55:10Z",
+    "updated_at": "2026-06-18T02:57:03Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-17T20:28:05Z",
     "url": "https://github.com/TammineniTanay/hybrid-rag-system"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 5,
-    "updated_at": "2026-06-17T20:27:39Z",
-    "url": "https://github.com/waynewbishop/quiver"
   }
 ]
