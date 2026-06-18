@@ -1,5 +1,32 @@
 [
   {
+    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
+    "id": "Cyning12/ai-ink-brain",
+    "language": "TypeScript",
+    "name": "Cyning12/ai-ink-brain",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:11:53Z",
+    "url": "https://github.com/Cyning12/ai-ink-brain"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:02:09Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +45,6 @@
     "url": "https://github.com/Buffden/rag-document-engine"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:58:07Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codeb",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-18T00:55:44Z",
+    "updated_at": "2026-06-18T01:14:58Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 124,
     "updated_at": "2026-06-18T00:54:27Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
@@ -139,7 +148,7 @@
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-06-17T23:29:54Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
@@ -265,7 +274,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17885,
+    "stars": 17887,
     "updated_at": "2026-06-17T22:04:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:45:56Z",
     "url": "https://github.com/allandng/universal-local-ai-boilerplate"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50200,
-    "updated_at": "2026-06-17T19:25:43Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
