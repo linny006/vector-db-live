@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:42:37Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Cohere, Mistral, Moonshot, DeepSeek, and Zai model",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:31:12Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
     "id": "blackeagle686/mafqood-ai",
     "language": "CSS",
@@ -61,24 +97,6 @@
     "stars": 8,
     "updated_at": "2026-06-18T09:22:28Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16345,
-    "updated_at": "2026-06-18T09:15:30Z",
+    "updated_at": "2026-06-18T09:33:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:44:19Z",
     "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T08:43:38Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -392,7 +401,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 2,
-    "updated_at": "2026-06-18T09:30:00Z",
+    "updated_at": "2026-06-18T09:35:50Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -401,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7745,
-    "updated_at": "2026-06-18T09:19:51Z",
+    "updated_at": "2026-06-18T09:44:51Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 196,
     "updated_at": "2026-06-18T07:44:06Z",
     "url": "https://github.com/monkesearch/monkeSearch"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6158,
-    "updated_at": "2026-06-18T09:23:25Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
