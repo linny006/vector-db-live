@@ -1,11 +1,38 @@
 [
   {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 109,
+    "updated_at": "2026-06-18T17:14:51Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 368,
+    "updated_at": "2026-06-18T17:12:45Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T17:00:23Z",
+    "updated_at": "2026-06-18T17:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:46:42Z",
     "url": "https://github.com/eshaan-eshaan/Hybrid-Rag_Workspace"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -122,7 +140,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6963,
-    "updated_at": "2026-06-18T16:35:53Z",
+    "updated_at": "2026-06-18T17:08:14Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -243,6 +261,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 235,
+    "updated_at": "2026-06-18T15:07:25Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -315,15 +342,6 @@
     "url": "https://github.com/vektori-ai/vektori"
   },
   {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 109,
-    "updated_at": "2026-06-18T14:29:45Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
     "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
     "id": "Aritra-Basak/self-correcting-rag-spring-ai",
     "language": "Java",
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-18T14:48:08Z",
+    "updated_at": "2026-06-18T17:01:10Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-18T16:00:42Z",
+    "updated_at": "2026-06-18T17:14:24Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:37:34Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-18T13:34:37Z",
-    "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-18T13:31:29Z",
-    "url": "https://github.com/kalisio/knowledge"
   }
 ]
