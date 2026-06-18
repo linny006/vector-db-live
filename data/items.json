@@ -1,12 +1,30 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:15:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T15:15:28Z",
+    "updated_at": "2026-06-18T15:30:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG chatbot over Variety's 'Directors on Directors' interviews + Wikipedia \u2014 answers questions about how filmmakers work",
+    "id": "aaushik/directors-on-directors",
+    "language": "Python",
+    "name": "aaushik/directors-on-directors",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:15:26Z",
+    "url": "https://github.com/aaushik/directors-on-directors"
   },
   {
     "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
@@ -49,7 +67,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61772,
+    "stars": 61773,
     "updated_at": "2026-06-18T15:09:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-18T15:08:53Z",
+    "updated_at": "2026-06-18T15:30:19Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -81,15 +99,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6122,
-    "updated_at": "2026-06-18T15:07:20Z",
+    "updated_at": "2026-06-18T15:15:53Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 12,
-    "updated_at": "2026-06-18T15:12:11Z",
+    "updated_at": "2026-06-18T15:21:57Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-18T12:29:38Z",
     "url": "https://github.com/MSR-DE/Multi-Source-AI-Trading-Pipeline"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 369,
-    "updated_at": "2026-06-18T12:26:13Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
