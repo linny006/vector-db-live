@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T03:30:19Z",
+    "updated_at": "2026-06-18T03:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-18T03:42:27Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
+    "id": "muonroi/experience-engine",
+    "language": "JavaScript",
+    "name": "muonroi/experience-engine",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:39:52Z",
+    "url": "https://github.com/muonroi/experience-engine"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9342,
+    "updated_at": "2026-06-18T03:45:09Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-18T03:35:41Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
+    "id": "kossakovsky/n8n-install",
+    "language": "Shell",
+    "name": "kossakovsky/n8n-install",
+    "stars": 887,
+    "updated_at": "2026-06-18T03:34:54Z",
+    "url": "https://github.com/kossakovsky/n8n-install"
   },
   {
     "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
@@ -14,8 +59,26 @@
     "language": "JavaScript",
     "name": "Miss-prachi-guptaa/Tech-Diary",
     "stars": 0,
-    "updated_at": "2026-06-18T03:29:55Z",
+    "updated_at": "2026-06-18T03:33:28Z",
     "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:32:42Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -45,21 +108,12 @@
     "url": "https://github.com/kherrera6219/theFactory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44823,
-    "updated_at": "2026-06-18T02:54:25Z",
+    "updated_at": "2026-06-18T03:40:25Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -97,24 +151,6 @@
     "stars": 11,
     "updated_at": "2026-06-18T02:22:26Z",
     "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:18:47Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9342,
-    "updated_at": "2026-06-18T03:23:01Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
@@ -329,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7744,
-    "updated_at": "2026-06-17T23:03:02Z",
+    "updated_at": "2026-06-18T03:40:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T22:07:36Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
     "id": "pinecone-io/examples",
     "language": "Jupyter Notebook",
@@ -421,32 +448,5 @@
     "stars": 367,
     "updated_at": "2026-06-18T01:58:52Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
-  },
-  {
-    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
-    "id": "srimon12/qql-go",
-    "language": "Go",
-    "name": "srimon12/qql-go",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:37:07Z",
-    "url": "https://github.com/srimon12/qql-go"
-  },
-  {
-    "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
-    "id": "diegoglozano/revector",
-    "language": "Rust",
-    "name": "diegoglozano/revector",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:06:54Z",
-    "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 121,
-    "updated_at": "2026-06-17T20:55:45Z",
-    "url": "https://github.com/litegraphdb/litegraph"
   }
 ]
