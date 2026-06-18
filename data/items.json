@@ -1,30 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T16:00:39Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 282,
-    "updated_at": "2026-06-18T15:55:21Z",
+    "updated_at": "2026-06-18T16:14:17Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-18T15:50:31Z",
-    "url": "https://github.com/edheltzel/Recall"
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6963,
+    "updated_at": "2026-06-18T16:10:55Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) chatbot built with n8n and Google Gemini. Supports PDF upload, semantic ",
+    "id": "dasu07988/n8n-rag-chatbot",
+    "language": "\u2014",
+    "name": "dasu07988/n8n-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:10:49Z",
+    "url": "https://github.com/dasu07988/n8n-rag-chatbot"
+  },
+  {
+    "description": "The High-Performance, Hardware-Adaptive Knowledge Engine for MCP Agents: Hybrid Graph-RAG & Atomic Concurrency Control.",
+    "id": "kth3/Cortex-agents_infra",
+    "language": "Rust",
+    "name": "kth3/Cortex-agents_infra",
+    "stars": 3,
+    "updated_at": "2026-06-18T16:09:59Z",
+    "url": "https://github.com/kth3/Cortex-agents_infra"
   },
   {
     "description": "",
@@ -32,8 +41,17 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-18T15:48:56Z",
+    "updated_at": "2026-06-18T16:04:49Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-18T16:03:02Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -41,8 +59,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T15:45:30Z",
+    "updated_at": "2026-06-18T16:00:45Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T16:00:39Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Intelligent file organization with computer vision, audio analysis, chunking, proactive AI-powered analysis, interactive",
@@ -61,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T15:38:29Z",
     "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50211,
+    "updated_at": "2026-06-18T15:34:51Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "RAG chatbot over Variety's 'Directors on Directors' interviews + Wikipedia \u2014 answers questions about how filmmakers work",
@@ -112,7 +148,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61771,
+    "stars": 61772,
     "updated_at": "2026-06-18T15:09:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17897,
-    "updated_at": "2026-06-18T15:47:24Z",
+    "updated_at": "2026-06-18T16:13:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6122,
-    "updated_at": "2026-06-18T16:00:41Z",
+    "updated_at": "2026-06-18T16:00:45Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -211,7 +247,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32439,
+    "stars": 32440,
     "updated_at": "2026-06-18T14:32:32Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 1582,
     "updated_at": "2026-06-18T12:59:06Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:54:17Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Document-aware RAG chatbot with persistent memory, source citations, and automatic topic-switch detection. Built with Gr",
-    "id": "Sri-Nidhi-25/multi-turn_conversation",
-    "language": "Python",
-    "name": "Sri-Nidhi-25/multi-turn_conversation",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:49:00Z",
-    "url": "https://github.com/Sri-Nidhi-25/multi-turn_conversation"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:44:26Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Evals framework for Information Retrieval Systems",
-    "id": "kaivid-labs/evret",
-    "language": "Python",
-    "name": "kaivid-labs/evret",
-    "stars": 18,
-    "updated_at": "2026-06-18T12:41:44Z",
-    "url": "https://github.com/kaivid-labs/evret"
   }
 ]
