@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T03:15:19Z",
+    "updated_at": "2026-06-18T03:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udd10A full-stack blog application that enables secure user authentication, role-based access control, post creation and man",
+    "id": "Miss-prachi-guptaa/Tech-Diary",
+    "language": "JavaScript",
+    "name": "Miss-prachi-guptaa/Tech-Diary",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:29:55Z",
+    "url": "https://github.com/Miss-prachi-guptaa/Tech-Diary"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 946,
+    "updated_at": "2026-06-18T03:26:41Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Real-time feature platform for classical ML and LLM applications \u2014 streaming features, vector store, and LLM observabili",
+    "id": "david-kabera/featureforge",
+    "language": "Python",
+    "name": "david-kabera/featureforge",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:22:12Z",
+    "url": "https://github.com/david-kabera/featureforge"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:20:22Z",
+    "url": "https://github.com/kherrera6219/theFactory"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T03:00:23Z",
+    "updated_at": "2026-06-18T03:15:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -72,21 +108,12 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 946,
-    "updated_at": "2026-06-18T02:06:37Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T03:00:11Z",
+    "updated_at": "2026-06-18T03:23:01Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -148,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61753,
+    "stars": 61752,
     "updated_at": "2026-06-18T01:23:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -337,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32416,
+    "stars": 32418,
     "updated_at": "2026-06-17T22:20:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 121,
     "updated_at": "2026-06-17T20:55:45Z",
     "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5242,
-    "updated_at": "2026-06-18T02:57:03Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 28018,
-    "updated_at": "2026-06-17T20:54:18Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-06-17T20:51:02Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
