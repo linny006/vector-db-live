@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:30:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:16:34Z",
     "url": "https://github.com/dasu07988/n8n-rag-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -439,14 +448,5 @@
     "stars": 91,
     "updated_at": "2026-06-18T13:50:34Z",
     "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-18T13:00:49Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   }
 ]
