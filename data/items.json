@@ -1,11 +1,65 @@
 [
   {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 91,
+    "updated_at": "2026-06-18T13:14:37Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-18T13:14:09Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Proactive AI accountability coach on Telegram: long-term semantic memory (Postgres + pgvector), Gemini 2.5, multimodal i",
+    "id": "alilok7/accountability-agent",
+    "language": "Python",
+    "name": "alilok7/accountability-agent",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:06:20Z",
+    "url": "https://github.com/alilok7/accountability-agent"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T13:04:27Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:00:49Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T13:00:27Z",
+    "updated_at": "2026-06-18T13:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,24 +81,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:52:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 91,
-    "updated_at": "2026-06-18T12:50:44Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
     "description": "Document-aware RAG chatbot with persistent memory, source citations, and automatic topic-switch detection. Built with Gr",
     "id": "Sri-Nidhi-25/multi-turn_conversation",
     "language": "Python",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 545,
-    "updated_at": "2026-06-18T12:45:52Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
     "id": "Dakera-AI/dakera-go",
     "language": "Go",
@@ -79,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:44:26Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "Evals framework for Information Retrieval Systems",
+    "id": "kaivid-labs/evret",
+    "language": "Python",
+    "name": "kaivid-labs/evret",
+    "stars": 18,
+    "updated_at": "2026-06-18T12:41:44Z",
+    "url": "https://github.com/kaivid-labs/evret"
   },
   {
     "description": "Safarnak - AI-powered offline-first travel companion with multi-storage architecture. Built with Expo React Native, Clou",
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T12:29:38Z",
     "url": "https://github.com/MSR-DE/Multi-Source-AI-Trading-Pipeline"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-18T12:27:58Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "Dakera-AI/dakera-rs",
     "stars": 6,
-    "updated_at": "2026-06-18T12:39:50Z",
+    "updated_at": "2026-06-18T13:03:24Z",
     "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32437,
-    "updated_at": "2026-06-18T12:57:40Z",
+    "updated_at": "2026-06-18T13:12:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +293,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 87,
-    "updated_at": "2026-06-18T11:48:18Z",
+    "updated_at": "2026-06-18T13:03:21Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17894,
-    "updated_at": "2026-06-18T12:18:05Z",
+    "updated_at": "2026-06-18T13:00:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 12362,
     "updated_at": "2026-06-18T09:57:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 2,
-    "updated_at": "2026-06-18T09:57:51Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16346,
-    "updated_at": "2026-06-18T12:49:40Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:55:34Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
   }
 ]
