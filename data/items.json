@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Scalable Hybrid RAG system with Dense + BM25 retrieval over 10K documents using Pinecone and FastAPI.",
+    "id": "rakeshpedapudi07/hybrid-rag-qa-system",
+    "language": "Python",
+    "name": "rakeshpedapudi07/hybrid-rag-qa-system",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:44:40Z",
+    "url": "https://github.com/rakeshpedapudi07/hybrid-rag-qa-system"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-06-18T08:44:35Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "\ud83c\udf0d AI-powered Multilingual Retrieval-Augmented Generation (RAG) System using FastAPI, ChromaDB, Sentence Transformers, Gr",
+    "id": "SatyamKushwaha3232/Multilingual_RAG",
+    "language": "CSS",
+    "name": "SatyamKushwaha3232/Multilingual_RAG",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:44:19Z",
+    "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:43:38Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1393,
+    "updated_at": "2026-06-18T08:42:25Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:41:51Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "ducklelabs/duckle",
+    "language": "Rust",
+    "name": "ducklelabs/duckle",
+    "stars": 545,
+    "updated_at": "2026-06-18T08:41:38Z",
+    "url": "https://github.com/ducklelabs/duckle"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12360,
+    "updated_at": "2026-06-18T08:35:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-driven long-form novel writing engine. Powered by an 8-Agent collaborative workflow and a 3-layer memory system (SQLi",
+    "id": "FantasyLu/neupen",
+    "language": "Python",
+    "name": "FantasyLu/neupen",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:34:45Z",
+    "url": "https://github.com/FantasyLu/neupen"
+  },
+  {
+    "description": "RAG-based telecom customer care chatbot using LangChain, ChromaDB, and Qwen3-32B on Groq",
+    "id": "adityalakhe/rag-telecom-chatbot",
+    "language": "Python",
+    "name": "adityalakhe/rag-telecom-chatbot",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:34:26Z",
+    "url": "https://github.com/adityalakhe/rag-telecom-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Rest client for Qdrant vector database",
     "id": "quarkiverse/quarkus-qdrant",
     "language": "Java",
@@ -14,17 +122,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 5,
-    "updated_at": "2026-06-18T08:28:39Z",
+    "updated_at": "2026-06-18T08:39:09Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12360,
-    "updated_at": "2026-06-18T08:27:11Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "CrateDB provider for LangChain.",
@@ -43,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T08:18:41Z",
     "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "\ud83c\udf0d AI-powered Multilingual Retrieval-Augmented Generation (RAG) System using FastAPI, ChromaDB, Sentence Transformers, Gr",
-    "id": "SatyamKushwaha3232/Multilingual_RAG",
-    "language": "CSS",
-    "name": "SatyamKushwaha3232/Multilingual_RAG",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:26:09Z",
-    "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
@@ -99,21 +171,12 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "ducklelabs/duckle",
-    "language": "Rust",
-    "name": "ducklelabs/duckle",
-    "stars": 543,
-    "updated_at": "2026-06-18T08:14:53Z",
-    "url": "https://github.com/ducklelabs/duckle"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7745,
-    "updated_at": "2026-06-18T08:28:05Z",
+    "updated_at": "2026-06-18T08:41:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -130,7 +193,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32425,
+    "stars": 32426,
     "updated_at": "2026-06-18T07:56:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -158,26 +221,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1848,
-    "updated_at": "2026-06-18T08:27:57Z",
+    "updated_at": "2026-06-18T08:31:04Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-06-18T07:52:36Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:44:27Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "fully local, temporally aware natural language file search on your pc! even without a GPU.  find relevant files using na",
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44826,
-    "updated_at": "2026-06-18T06:31:16Z",
+    "updated_at": "2026-06-18T08:42:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "Neverdecel/CodeRAG",
     "stars": 214,
-    "updated_at": "2026-06-18T08:01:35Z",
+    "updated_at": "2026-06-18T08:45:18Z",
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-18T05:34:52Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
-    "id": "Dakera-AI/dakera-js",
-    "language": "TypeScript",
-    "name": "Dakera-AI/dakera-js",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:08:48Z",
-    "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
-    "id": "kherrera6219/theFactory",
-    "language": "Python",
-    "name": "kherrera6219/theFactory",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:39:11Z",
-    "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
-    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
-    "id": "muonroi/experience-engine",
-    "language": "JavaScript",
-    "name": "muonroi/experience-engine",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:27:06Z",
-    "url": "https://github.com/muonroi/experience-engine"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 9,
-    "updated_at": "2026-06-18T04:17:54Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-18T04:17:42Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   }
 ]
