@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T14:30:28Z",
+    "updated_at": "2026-06-18T14:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6122,
+    "updated_at": "2026-06-18T14:44:32Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-18T14:43:17Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3006,
+    "updated_at": "2026-06-18T14:41:37Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:41:22Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:41:18Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 12,
+    "updated_at": "2026-06-18T14:45:07Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "",
+    "id": "MLbyTharun/HR-Knowledge-Assistant",
+    "language": "Python",
+    "name": "MLbyTharun/HR-Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:35:36Z",
+    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 121,
+    "updated_at": "2026-06-18T14:33:51Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "vektori-ai/vektori",
+    "language": "Python",
+    "name": "vektori-ai/vektori",
+    "stars": 123,
+    "updated_at": "2026-06-18T14:32:52Z",
+    "url": "https://github.com/vektori-ai/vektori"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -36,21 +126,12 @@
     "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:23:24Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-18T14:21:18Z",
+    "updated_at": "2026-06-18T14:44:30Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-18T14:19:20Z",
+    "updated_at": "2026-06-18T14:43:46Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -79,33 +160,6 @@
     "stars": 17896,
     "updated_at": "2026-06-18T14:15:42Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-18T14:15:28Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3006,
-    "updated_at": "2026-06-18T14:13:44Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32438,
-    "updated_at": "2026-06-18T14:25:19Z",
+    "updated_at": "2026-06-18T14:32:32Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -230,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T14:27:00Z",
+    "updated_at": "2026-06-18T14:31:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/mohetios/safarnak.app"
   },
   {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 121,
-    "updated_at": "2026-06-18T14:11:43Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 40,
     "updated_at": "2026-06-18T12:19:57Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
-    "id": "Iammilansoni/MiningNiti",
-    "language": "TypeScript",
-    "name": "Iammilansoni/MiningNiti",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:17:24Z",
-    "url": "https://github.com/Iammilansoni/MiningNiti"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1848,
-    "updated_at": "2026-06-18T12:09:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6963,
-    "updated_at": "2026-06-18T14:27:59Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 2,
-    "updated_at": "2026-06-18T12:01:47Z",
-    "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
-    "id": "nobijoy/memcore-rs",
-    "language": "Rust",
-    "name": "nobijoy/memcore-rs",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:52:29Z",
-    "url": "https://github.com/nobijoy/memcore-rs"
   }
 ]
