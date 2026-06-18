@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T05:15:28Z",
+    "updated_at": "2026-06-18T05:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Curated AI OSINT resources \u2014 Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoi",
+    "id": "7WaySecurity/ai_osint",
+    "language": "\u2014",
+    "name": "7WaySecurity/ai_osint",
+    "stars": 92,
+    "updated_at": "2026-06-18T05:30:08Z",
+    "url": "https://github.com/7WaySecurity/ai_osint"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-18T05:15:27Z",
+    "updated_at": "2026-06-18T05:16:32Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9342,
-    "updated_at": "2026-06-18T04:21:12Z",
+    "updated_at": "2026-06-18T05:18:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:07:51Z",
     "url": "https://github.com/vishwajitvm/PolicyBot"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7744,
-    "updated_at": "2026-06-18T03:40:39Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
