@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-18T23:30:19Z",
+    "updated_at": "2026-06-18T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 33197,
+    "updated_at": "2026-06-18T23:44:29Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-18T23:41:18Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
+    "id": "Vansh-7/Vector-DB-RAG-pipeline",
+    "language": "Python",
+    "name": "Vansh-7/Vector-DB-RAG-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:30:35Z",
+    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -25,15 +61,6 @@
     "stars": 38,
     "updated_at": "2026-06-18T23:20:02Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:19:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T22:50:00Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
-    "id": "kherrera6219/theFactory",
-    "language": "Python",
-    "name": "kherrera6219/theFactory",
-    "stars": 1,
-    "updated_at": "2026-06-18T22:48:12Z",
-    "url": "https://github.com/kherrera6219/theFactory"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -205,6 +223,15 @@
     "stars": 7747,
     "updated_at": "2026-06-18T22:05:32Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50215,
+    "updated_at": "2026-06-18T21:22:57Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Spring AI RAG demo with PGVector, conversation memory, tool calling, and Open WebUI integration",
@@ -365,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16347,
-    "updated_at": "2026-06-18T22:20:25Z",
+    "updated_at": "2026-06-18T23:37:57Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:10:25Z",
     "url": "https://github.com/IsaacAlves7/machine-learning"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:27:42Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-06-18T19:00:16Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-go",
-    "language": "Go",
-    "name": "cyborginc/cyborgdb-go",
-    "stars": 9,
-    "updated_at": "2026-06-18T22:34:02Z",
-    "url": "https://github.com/cyborginc/cyborgdb-go"
   }
 ]
