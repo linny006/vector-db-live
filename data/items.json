@@ -1,12 +1,12 @@
 [
   {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3006,
-    "updated_at": "2026-06-18T14:13:44Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -14,17 +14,98 @@
     "language": "Python",
     "name": "ogham-mcp/ogham-mcp",
     "stars": 109,
-    "updated_at": "2026-06-18T14:09:00Z",
+    "updated_at": "2026-06-18T14:29:45Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
+    "id": "CryptoJones/RAG-Pipeline-Example",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "CryptoJones/RAG-Pipeline-Example",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:28:34Z",
+    "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
+  },
+  {
+    "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
+    "id": "Aritra-Basak/self-correcting-rag-spring-ai",
+    "language": "Java",
+    "name": "Aritra-Basak/self-correcting-rag-spring-ai",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:27:27Z",
+    "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:23:24Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:21:18Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-18T14:19:20Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-06-18T14:08:52Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-18T14:17:41Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17896,
+    "updated_at": "2026-06-18T14:15:42Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 124,
+    "updated_at": "2026-06-18T14:15:28Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3006,
+    "updated_at": "2026-06-18T14:13:44Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-18T14:08:49Z",
+    "updated_at": "2026-06-18T14:16:27Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:47:12Z",
     "url": "https://github.com/himelds/MedRagAssistant"
-  },
-  {
-    "description": "A production-grade, agentic Retrieval-Augmented Generation (RAG) pipeline built using modern Java, Spring Boot and Sprin",
-    "id": "Aritra-Basak/self-correcting-rag-spring-ai",
-    "language": "Java",
-    "name": "Aritra-Basak/self-correcting-rag-spring-ai",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:42:49Z",
-    "url": "https://github.com/Aritra-Basak/self-correcting-rag-spring-ai"
   },
   {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32438,
-    "updated_at": "2026-06-18T13:38:51Z",
+    "updated_at": "2026-06-18T14:25:19Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16346,
-    "updated_at": "2026-06-18T14:08:38Z",
+    "updated_at": "2026-06-18T14:27:00Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T13:20:31Z",
     "url": "https://github.com/Nimalan07/ai-receptionist-saas"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-18T13:17:59Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -207,15 +261,6 @@
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
-    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
-    "id": "notadev-iamaura/OneRAG",
-    "language": "Python",
-    "name": "notadev-iamaura/OneRAG",
-    "stars": 124,
-    "updated_at": "2026-06-18T14:15:28Z",
-    "url": "https://github.com/notadev-iamaura/OneRAG"
-  },
-  {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -223,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T13:00:49Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17895,
-    "updated_at": "2026-06-18T13:29:18Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -392,7 +428,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6963,
-    "updated_at": "2026-06-18T12:34:40Z",
+    "updated_at": "2026-06-18T14:27:59Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T11:52:29Z",
     "url": "https://github.com/nobijoy/memcore-rs"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 87,
-    "updated_at": "2026-06-18T13:03:21Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
-    "id": "ExMachinaSAGL/cosmo42-open",
-    "language": "Java",
-    "name": "ExMachinaSAGL/cosmo42-open",
-    "stars": 3,
-    "updated_at": "2026-06-18T11:49:09Z",
-    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
-  },
-  {
-    "description": " High-performance, fully-local AI-infrastructure platform \u2014 Rust SIMD + rayon  vector kernels, a PyO3/maturin Python SDK",
-    "id": "0DevDutt0/neuralforge-x",
-    "language": "HTML",
-    "name": "0DevDutt0/neuralforge-x",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:43:49Z",
-    "url": "https://github.com/0DevDutt0/neuralforge-x"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:43:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
