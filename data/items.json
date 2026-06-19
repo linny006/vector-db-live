@@ -1,11 +1,56 @@
 [
   {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 9,
+    "updated_at": "2026-06-19T00:40:51Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1358,
+    "updated_at": "2026-06-19T00:40:13Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
+    "id": "tryAGI/Turbopuffer",
+    "language": "C#",
+    "name": "tryAGI/Turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:34:45Z",
+    "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "Ruby bindings for the Lance columnar data format. Built on the Lance Rust crate, Lancelot brings high-performance vector",
+    "id": "scientist-labs/lancelot",
+    "language": "Ruby",
+    "name": "scientist-labs/lancelot",
+    "stars": 7,
+    "updated_at": "2026-06-19T00:32:15Z",
+    "url": "https://github.com/scientist-labs/lancelot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T00:30:21Z",
+    "updated_at": "2026-06-19T00:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Ruby bindings for the Lance columnar data format. Built on the Lance Rust crate, Lancelot brings high-performance vector",
-    "id": "scientist-labs/lancelot",
-    "language": "Ruby",
-    "name": "scientist-labs/lancelot",
-    "stars": 7,
-    "updated_at": "2026-06-19T00:27:22Z",
-    "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "marco-spagn/pcmi",
     "stars": 5,
-    "updated_at": "2026-06-19T00:25:35Z",
+    "updated_at": "2026-06-19T00:44:29Z",
     "url": "https://github.com/marco-spagn/pcmi"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T00:18:39Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
@@ -130,7 +157,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61785,
+    "stars": 61786,
     "updated_at": "2026-06-18T23:11:05Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -274,7 +301,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50216,
+    "stars": 50218,
     "updated_at": "2026-06-18T21:22:57Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -421,32 +448,5 @@
     "stars": 6963,
     "updated_at": "2026-06-18T19:54:59Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 1,
-    "updated_at": "2026-06-18T19:44:12Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16347,
-    "updated_at": "2026-06-18T23:37:57Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12364,
-    "updated_at": "2026-06-18T19:30:05Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
