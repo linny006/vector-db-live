@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T19:00:22Z",
+    "updated_at": "2026-06-19T19:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
+    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "language": "JavaScript",
+    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:15:19Z",
+    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
+  },
+  {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-19T19:12:10Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "A dynamic Agentic RAG platform for real-time news analysis, bias detection, and timeline synthesis. Built with Pathway, ",
+    "id": "OptimusPrime-hub/NewsLens",
+    "language": "Python",
+    "name": "OptimusPrime-hub/NewsLens",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:07:23Z",
+    "url": "https://github.com/OptimusPrime-hub/NewsLens"
+  },
+  {
+    "description": "A multi-agent RAG pipeline for enterprise data with MCP integration and human-in-the-loop validation.",
+    "id": "Melce-AI/agentic-rag",
+    "language": "Python",
+    "name": "Melce-AI/agentic-rag",
+    "stars": 3,
+    "updated_at": "2026-06-19T19:07:24Z",
+    "url": "https://github.com/Melce-AI/agentic-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 68,
-    "updated_at": "2026-06-19T18:57:01Z",
+    "updated_at": "2026-06-19T19:01:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -45,29 +90,11 @@
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
-    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
-    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "language": "JavaScript",
-    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:46:21Z",
-    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain",
     "id": "stuinfla/Ruv-Explainer",
     "language": "HTML",
     "name": "stuinfla/Ruv-Explainer",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-19T18:43:44Z",
     "url": "https://github.com/stuinfla/Ruv-Explainer"
   },
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T18:56:33Z",
+    "updated_at": "2026-06-19T19:02:03Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T17:49:33Z",
+    "updated_at": "2026-06-19T19:07:08Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -247,7 +274,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58193,
+    "stars": 58194,
     "updated_at": "2026-06-19T17:05:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -360,15 +387,6 @@
     "url": "https://github.com/avin2204/Sports-ai-operating-system"
   },
   {
-    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-19T16:01:34Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
     "id": "sochdb/sochdb",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T15:42:52Z",
     "url": "https://github.com/Aaryav1130/rag-chatbot"
-  },
-  {
-    "description": "Retrieval-Augmented Generation for intelligent question-answering over scraped data.",
-    "id": "MostafaRastegar/mr-rag",
-    "language": "Python",
-    "name": "MostafaRastegar/mr-rag",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:40:53Z",
-    "url": "https://github.com/MostafaRastegar/mr-rag"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12670,
-    "updated_at": "2026-06-19T15:29:15Z",
-    "url": "https://github.com/neuml/txtai"
   }
 ]
