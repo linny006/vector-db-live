@@ -1,12 +1,57 @@
 [
   {
+    "description": "An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain",
+    "id": "stuinfla/Ruv-Explainer",
+    "language": "HTML",
+    "name": "stuinfla/Ruv-Explainer",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:43:44Z",
+    "url": "https://github.com/stuinfla/Ruv-Explainer"
+  },
+  {
+    "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
+    "language": "Python",
+    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:40:46Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:39:26Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1333,
-    "updated_at": "2026-06-19T18:30:06Z",
+    "updated_at": "2026-06-19T18:37:16Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
@@ -36,15 +81,6 @@
     "url": "https://github.com/samvarthika1234-cmd/VectorDB-HNSW-RAG"
   },
   {
-    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
-    "id": "abhay-codes07/Agent-DNA-Transfer",
-    "language": "Python",
-    "name": "abhay-codes07/Agent-DNA-Transfer",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:23:08Z",
-    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
-  },
-  {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
     "id": "Project-Navi/ordvec",
     "language": "Rust",
@@ -61,33 +97,6 @@
     "stars": 32468,
     "updated_at": "2026-06-19T18:16:07Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain",
-    "id": "stuinfla/Ruv-Explainer",
-    "language": "HTML",
-    "name": "stuinfla/Ruv-Explainer",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:13:07Z",
-    "url": "https://github.com/stuinfla/Ruv-Explainer"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:56:29Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:55:16Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -284,7 +284,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 118,
-    "updated_at": "2026-06-19T16:28:38Z",
+    "updated_at": "2026-06-19T18:43:46Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
