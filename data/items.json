@@ -1,5 +1,86 @@
 [
   {
+    "description": "A graph-first, embedded multi-model database engine",
+    "id": "insanalamin/sekejap",
+    "language": "Rust",
+    "name": "insanalamin/sekejap",
+    "stars": 5,
+    "updated_at": "2026-06-19T11:27:28Z",
+    "url": "https://github.com/insanalamin/sekejap"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:24:41Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:22:32Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:21:45Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "CrateDB provider for LangChain.",
+    "id": "crate/langchain-cratedb",
+    "language": "Python",
+    "name": "crate/langchain-cratedb",
+    "stars": 2,
+    "updated_at": "2026-06-19T11:20:46Z",
+    "url": "https://github.com/crate/langchain-cratedb"
+  },
+  {
+    "description": "AI-powered PDF Question Answering System using RAG, LangChain, ChromaDB, Groq, and Flask.",
+    "id": "sathvik8-agavinti/pdf-rag-system",
+    "language": "HTML",
+    "name": "sathvik8-agavinti/pdf-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:17:30Z",
+    "url": "https://github.com/sathvik8-agavinti/pdf-rag-system"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16352,
+    "updated_at": "2026-06-19T11:16:54Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -7,6 +88,24 @@
     "stars": 1971,
     "updated_at": "2026-06-19T11:14:56Z",
     "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
+    "id": "rahimahgilani/pdf-chatbox",
+    "language": "JavaScript",
+    "name": "rahimahgilani/pdf-chatbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:12:32Z",
+    "url": "https://github.com/rahimahgilani/pdf-chatbox"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32458,
+    "updated_at": "2026-06-19T11:28:53Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
@@ -52,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:06:13Z",
     "url": "https://github.com/cestdove/BioAcoustic-Vector-Search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector Memory - Slipstream - Built by Vektor Memory - a multi-layered persistent agentic memory architecture. 4-layer as",
@@ -162,31 +243,13 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16351,
-    "updated_at": "2026-06-19T11:15:15Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6126,
-    "updated_at": "2026-06-19T10:29:37Z",
+    "updated_at": "2026-06-19T11:30:13Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "CrateDB provider for LangChain.",
-    "id": "crate/langchain-cratedb",
-    "language": "Python",
-    "name": "crate/langchain-cratedb",
-    "stars": 2,
-    "updated_at": "2026-06-19T10:28:35Z",
-    "url": "https://github.com/crate/langchain-cratedb"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -203,7 +266,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 4,
-    "updated_at": "2026-06-19T10:52:18Z",
+    "updated_at": "2026-06-19T11:22:17Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "vishwajitvm/PolicyBot",
     "stars": 0,
-    "updated_at": "2026-06-19T10:36:09Z",
+    "updated_at": "2026-06-19T11:23:07Z",
     "url": "https://github.com/vishwajitvm/PolicyBot"
   },
   {
@@ -221,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7749,
-    "updated_at": "2026-06-19T10:58:58Z",
+    "updated_at": "2026-06-19T11:23:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32457,
-    "updated_at": "2026-06-19T11:12:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Rest client for Qdrant vector database",
     "id": "quarkiverse/quarkus-qdrant",
     "language": "Java",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:19:01Z",
     "url": "https://github.com/nuclide-research/nuclide-method"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:15:55Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T07:52:13Z",
     "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
-    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "language": "JavaScript",
-    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-19T07:50:43Z",
-    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Cohere, Mistral, Moonshot, DeepSeek, and Zai model",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:45:42Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Enterprise-style RAG auditing platform for tracking AI responses, retrieved document chunks, and secure compliance logs.",
-    "id": "Tisha-choksi/RAGTrace",
-    "language": "Python",
-    "name": "Tisha-choksi/RAGTrace",
-    "stars": 1,
-    "updated_at": "2026-06-19T07:36:17Z",
-    "url": "https://github.com/Tisha-choksi/RAGTrace"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 92,
-    "updated_at": "2026-06-19T07:33:12Z",
-    "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:16:19Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   }
 ]
