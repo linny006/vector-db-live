@@ -1,5 +1,50 @@
 [
   {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-19T11:53:29Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Minimal RAG pipeline from scratch \u2014 upload a PDF, ask questions, get cited answers. FastAPI + FAISS + sentence-transform",
+    "id": "santanu2908/chat-with-pdf-rag",
+    "language": "Python",
+    "name": "santanu2908/chat-with-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:52:42Z",
+    "url": "https://github.com/santanu2908/chat-with-pdf-rag"
+  },
+  {
+    "description": "CrateDB provider for LangChain.",
+    "id": "crate/langchain-cratedb",
+    "language": "Python",
+    "name": "crate/langchain-cratedb",
+    "stars": 2,
+    "updated_at": "2026-06-19T11:49:59Z",
+    "url": "https://github.com/crate/langchain-cratedb"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:48:53Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/ldclabs/anda-db"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:37:01Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -43,15 +79,6 @@
     "stars": 7750,
     "updated_at": "2026-06-19T11:35:06Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A graph-first, embedded multi-model database engine",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:21:45Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "CrateDB provider for LangChain.",
-    "id": "crate/langchain-cratedb",
-    "language": "Python",
-    "name": "crate/langchain-cratedb",
-    "stars": 2,
-    "updated_at": "2026-06-19T11:20:46Z",
-    "url": "https://github.com/crate/langchain-cratedb"
   },
   {
     "description": "AI-powered PDF Question Answering System using RAG, LangChain, ChromaDB, Groq, and Flask.",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32458,
-    "updated_at": "2026-06-19T11:28:53Z",
+    "updated_at": "2026-06-19T11:51:40Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 68,
     "updated_at": "2026-06-19T08:20:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12367,
-    "updated_at": "2026-06-19T09:24:58Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Framework for benchmarking vector search engines",
-    "id": "qdrant/vector-db-benchmark",
-    "language": "Python",
-    "name": "qdrant/vector-db-benchmark",
-    "stars": 367,
-    "updated_at": "2026-06-19T08:07:07Z",
-    "url": "https://github.com/qdrant/vector-db-benchmark"
   }
 ]
