@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T00:57:58Z",
+    "updated_at": "2026-06-19T01:13:38Z",
     "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61786,
+    "updated_at": "2026-06-19T01:13:32Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44841,
+    "updated_at": "2026-06-19T01:11:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1583,
+    "updated_at": "2026-06-19T01:10:33Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:08:16Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
+    "id": "barateza/mcp-plesk-dev-docs",
+    "language": "Python",
+    "name": "barateza/mcp-plesk-dev-docs",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:04:41Z",
+    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T00:45:26Z",
+    "updated_at": "2026-06-19T01:00:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -151,15 +196,6 @@
     "stars": 38,
     "updated_at": "2026-06-18T23:51:00Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61786,
-    "updated_at": "2026-06-18T23:11:05Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T20:26:50Z",
     "url": "https://github.com/idaholab/ranger"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-06-18T20:43:55Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 24,
-    "updated_at": "2026-06-18T20:04:55Z",
-    "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
-    "description": "An intelligent Document Assistant built using FastAPI, Streamlit, and a local Qdrant Vector Database for Retrieval-Augme",
-    "id": "Denbon001/Smart-RAG-Doc-Buddy",
-    "language": "Python",
-    "name": "Denbon001/Smart-RAG-Doc-Buddy",
-    "stars": 0,
-    "updated_at": "2026-06-18T20:00:25Z",
-    "url": "https://github.com/Denbon001/Smart-RAG-Doc-Buddy"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6963,
-    "updated_at": "2026-06-18T19:54:59Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
