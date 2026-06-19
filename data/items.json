@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-19T08:35:55Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "T\u00fcrk\u00e7e SQL Server 2025 ba\u015fucu kitab\u0131 \u2014 kod \u00f6rnekleri, errata, topluluk Q&A \u00b7 CC BY-NC-SA 4.0 + MIT",
+    "id": "dmcteknoloji/sql-server-2025-kitap",
+    "language": "TSQL",
+    "name": "dmcteknoloji/sql-server-2025-kitap",
+    "stars": 18,
+    "updated_at": "2026-06-19T08:59:42Z",
+    "url": "https://github.com/dmcteknoloji/sql-server-2025-kitap"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +23,44 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-19T08:34:51Z",
+    "updated_at": "2026-06-19T08:57:51Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Learn AI by Rajul Babel - free interactive guide. Covers Model Internals, Neural Networks, Transformers, Attention, RAG,",
+    "id": "rajulbabel/learn-ai",
+    "language": "JavaScript",
+    "name": "rajulbabel/learn-ai",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:46:52Z",
+    "url": "https://github.com/rajulbabel/learn-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
+    "id": "utkarsh0885/Docmind-AI",
+    "language": "TypeScript",
+    "name": "utkarsh0885/Docmind-AI",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:41:36Z",
+    "url": "https://github.com/utkarsh0885/Docmind-AI"
+  },
+  {
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
+    "language": "Python",
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-19T09:00:12Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T08:31:11Z",
     "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -67,7 +94,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6963,
+    "stars": 6964,
     "updated_at": "2026-06-19T08:23:22Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -142,6 +169,15 @@
     "stars": 1,
     "updated_at": "2026-06-19T07:52:13Z",
     "url": "https://github.com/diegoglozano/revector"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7748,
+    "updated_at": "2026-06-19T07:50:56Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-06-19T05:15:04Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
-    "id": "muonroi/experience-engine",
-    "language": "JavaScript",
-    "name": "muonroi/experience-engine",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:40:23Z",
-    "url": "https://github.com/muonroi/experience-engine"
-  },
-  {
-    "description": "Research Paper Chat Bot built from scratch using Retrieval-Augmented Generation (RAG), ChromaDB, Hugging Face embeddings",
-    "id": "Roshan3019/research-paper-chatbot-rag",
-    "language": "Python",
-    "name": "Roshan3019/research-paper-chatbot-rag",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:15:16Z",
-    "url": "https://github.com/Roshan3019/research-paper-chatbot-rag"
-  },
-  {
-    "description": "Enterprise governed RAG system with RBAC, trust scoring, and Azure deployment",
-    "id": "SamikshitSharma/Governed-RAG-System",
-    "language": "Python",
-    "name": "SamikshitSharma/Governed-RAG-System",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:55:32Z",
-    "url": "https://github.com/SamikshitSharma/Governed-RAG-System"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44844,
-    "updated_at": "2026-06-19T04:29:23Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
