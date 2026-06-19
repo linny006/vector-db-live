@@ -1,21 +1,21 @@
 [
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:43:53Z",
-    "url": "https://github.com/edheltzel/Recall"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44841,
+    "updated_at": "2026-06-19T01:54:07Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:42:09Z",
-    "url": "https://github.com/perforate-org/gleaph"
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:46:55Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T01:30:26Z",
+    "updated_at": "2026-06-19T01:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -36,6 +36,24 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:57:25Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:42:09Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:26:38Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:23:30Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -70,15 +79,6 @@
     "stars": 61787,
     "updated_at": "2026-06-19T01:13:32Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44841,
-    "updated_at": "2026-06-19T01:11:34Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-18T23:08:06Z",
+    "updated_at": "2026-06-19T01:57:06Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
