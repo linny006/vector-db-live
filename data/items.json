@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "abhay-codes07/Agent-DNA-Transfer",
     "stars": 0,
-    "updated_at": "2026-06-19T17:27:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-06-19T17:41:31Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10649,
+    "updated_at": "2026-06-19T17:40:56Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -14,8 +23,53 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T17:28:30Z",
+    "updated_at": "2026-06-19T17:40:40Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1333,
+    "updated_at": "2026-06-19T17:36:34Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 40,
+    "updated_at": "2026-06-19T17:34:44Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9344,
+    "updated_at": "2026-06-19T17:31:07Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T17:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:17:37Z",
     "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T17:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -90,24 +135,6 @@
     "url": "https://github.com/Nyx-abu/nori"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1333,
-    "updated_at": "2026-06-19T16:58:24Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
-    "id": "abhay-codes07/Agent-DNA-Transfer",
-    "language": "Python",
-    "name": "abhay-codes07/Agent-DNA-Transfer",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:58:12Z",
-    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
-  },
-  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T16:45:32Z",
     "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10649,
-    "updated_at": "2026-06-19T16:40:48Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
@@ -346,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17905,
+    "stars": 17906,
     "updated_at": "2026-06-19T15:10:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:25:19Z",
     "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-19T14:20:42Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-19T17:05:49Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
   }
 ]
