@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 11:53 UTC
+> ⏰ Last updated: 2026-06-19 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fireflyframework/fireflyframework-agentic](https://github.com/fireflyframework/fireflyframework-agentic) | 4 | Python | 2026-06-19 | In-process Python metaframework on Pydantic AI for production GenAI — composable, protocol-driven layers for agents & mi |
-| 2 | [santanu2908/chat-with-pdf-rag](https://github.com/santanu2908/chat-with-pdf-rag) | 0 | Python | 2026-06-19 | Minimal RAG pipeline from scratch — upload a PDF, ask questions, get cited answers. FastAPI + FAISS + sentence-transform |
-| 3 | [crate/langchain-cratedb](https://github.com/crate/langchain-cratedb) | 2 | Python | 2026-06-19 | CrateDB provider for LangChain. |
-| 4 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-19 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [oracle/ai-optimizer](https://github.com/oracle/ai-optimizer) | 91 | Python | 2026-06-19 | GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL |
-| 8 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 30 | Rust | 2026-06-19 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 30 | Rust | 2026-06-19 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
+| 3 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-19 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [fireflyframework/fireflyframework-agentic](https://github.com/fireflyframework/fireflyframework-agentic) | 4 | Python | 2026-06-19 | In-process Python metaframework on Pydantic AI for production GenAI — composable, protocol-driven layers for agents & mi |
+| 6 | [santanu2908/chat-with-pdf-rag](https://github.com/santanu2908/chat-with-pdf-rag) | 0 | Python | 2026-06-19 | Minimal RAG pipeline from scratch — upload a PDF, ask questions, get cited answers. FastAPI + FAISS + sentence-transform |
+| 7 | [crate/langchain-cratedb](https://github.com/crate/langchain-cratedb) | 2 | Python | 2026-06-19 | CrateDB provider for LangChain. |
+| 8 | [oracle/ai-optimizer](https://github.com/oracle/ai-optimizer) | 91 | Python | 2026-06-19 | GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL |
 | 9 | [MariaDB/server](https://github.com/MariaDB/server) | 7750 | C++ | 2026-06-19 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 10 | [insanalamin/sekejap](https://github.com/insanalamin/sekejap) | 5 | Rust | 2026-06-19 | A graph-first, embedded multi-model database engine |
 | 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
