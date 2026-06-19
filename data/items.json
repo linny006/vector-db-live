@@ -1,21 +1,84 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1359,
+    "updated_at": "2026-06-19T15:45:07Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
     "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
     "id": "Aaryav1130/rag-chatbot",
     "language": "Python",
     "name": "Aaryav1130/rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-06-19T15:30:05Z",
+    "updated_at": "2026-06-19T15:42:52Z",
     "url": "https://github.com/Aaryav1130/rag-chatbot"
+  },
+  {
+    "description": "Retrieval-Augmented Generation for intelligent question-answering over scraped data.",
+    "id": "MostafaRastegar/mr-rag",
+    "language": "Python",
+    "name": "MostafaRastegar/mr-rag",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:40:53Z",
+    "url": "https://github.com/MostafaRastegar/mr-rag"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Fieldnote-Echo/ordvec",
+    "language": "Rust",
+    "name": "Fieldnote-Echo/ordvec",
+    "stars": 22,
+    "updated_at": "2026-06-19T15:36:22Z",
+    "url": "https://github.com/Fieldnote-Echo/ordvec"
+  },
+  {
+    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
+    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "language": "JavaScript",
+    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:34:15Z",
+    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10647,
+    "stars": 10648,
     "updated_at": "2026-06-19T15:27:12Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32464,
+    "updated_at": "2026-06-19T15:33:56Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -54,15 +117,6 @@
     "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:15:35Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
@@ -70,15 +124,6 @@
     "stars": 553,
     "updated_at": "2026-06-19T15:15:31Z",
     "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
@@ -99,12 +144,21 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17905,
+    "updated_at": "2026-06-19T15:10:28Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
     "id": "oracle/ai-optimizer",
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 91,
-    "updated_at": "2026-06-19T15:16:19Z",
+    "updated_at": "2026-06-19T15:35:45Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -203,7 +257,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1972,
-    "updated_at": "2026-06-19T15:02:44Z",
+    "updated_at": "2026-06-19T15:36:20Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:25:19Z",
     "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17905,
-    "updated_at": "2026-06-19T15:10:28Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
@@ -304,15 +349,6 @@
     "stars": 58188,
     "updated_at": "2026-06-19T13:45:17Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1359,
-    "updated_at": "2026-06-19T15:09:58Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -405,15 +441,6 @@
     "url": "https://github.com/tanaos/cognitor"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32463,
-    "updated_at": "2026-06-19T15:26:09Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T12:26:33Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "\u4f7f\u7528 QQ/\u5fae\u4fe1 \u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002 --\u7eed\u6e29",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 101,
-    "updated_at": "2026-06-19T12:22:14Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 9,
-    "updated_at": "2026-06-19T12:16:44Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "A multi-agent RAG pipeline for enterprise data with MCP integration and human-in-the-loop validation.",
-    "id": "Melce-AI/agentic-rag",
-    "language": "Python",
-    "name": "Melce-AI/agentic-rag",
-    "stars": 3,
-    "updated_at": "2026-06-19T14:37:42Z",
-    "url": "https://github.com/Melce-AI/agentic-rag"
   }
 ]
