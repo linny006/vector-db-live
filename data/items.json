@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "SuperInstance/SuperInstance",
+    "stars": 5,
+    "updated_at": "2026-06-19T09:29:12Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6964,
+    "updated_at": "2026-06-19T09:23:32Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-19T09:30:11Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "A scanner produces candidates. Verification produces findings. The NuClide AI-infrastructure assessment methodology.",
+    "id": "nuclide-research/nuclide-method",
+    "language": "Shell",
+    "name": "nuclide-research/nuclide-method",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:19:01Z",
+    "url": "https://github.com/nuclide-research/nuclide-method"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +41,26 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-19T09:12:33Z",
+    "updated_at": "2026-06-19T09:15:55Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:01:39Z",
     "url": "https://github.com/j-laux/political-rag-bundestag2025"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -117,15 +153,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6964,
-    "updated_at": "2026-06-19T08:23:22Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -149,17 +176,8 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12367,
-    "updated_at": "2026-06-19T08:15:32Z",
+    "updated_at": "2026-06-19T09:24:58Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A scanner produces candidates. Verification produces findings. The NuClide AI-infrastructure assessment methodology.",
-    "id": "nuclide-research/nuclide-method",
-    "language": "Shell",
-    "name": "nuclide-research/nuclide-method",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:13:39Z",
-    "url": "https://github.com/nuclide-research/nuclide-method"
   },
   {
     "description": "Framework for benchmarking vector search engines",
@@ -203,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7748,
-    "updated_at": "2026-06-19T07:50:56Z",
+    "updated_at": "2026-06-19T09:22:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:51:57Z",
     "url": "https://github.com/EkleTony/GenAI-Course-Repo"
-  },
-  {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-19T08:13:58Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 949,
-    "updated_at": "2026-06-19T05:39:10Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
