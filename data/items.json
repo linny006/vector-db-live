@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 8,
+    "updated_at": "2026-06-19T13:22:51Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "jorshali/developers-guide-to-ai",
+    "language": "Python",
+    "name": "jorshali/developers-guide-to-ai",
+    "stars": 55,
+    "updated_at": "2026-06-19T13:17:49Z",
+    "url": "https://github.com/jorshali/developers-guide-to-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
     "id": "BirchKwok/lynsedb",
     "language": "Rust",
@@ -16,15 +52,6 @@
     "stars": 20,
     "updated_at": "2026-06-19T13:09:38Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "jorshali/developers-guide-to-ai",
-    "language": "Python",
-    "name": "jorshali/developers-guide-to-ai",
-    "stars": 55,
-    "updated_at": "2026-06-19T13:08:57Z",
-    "url": "https://github.com/jorshali/developers-guide-to-ai"
   },
   {
     "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
@@ -45,21 +72,12 @@
     "url": "https://github.com/scylladb/vector-search-examples"
   },
   {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 8,
-    "updated_at": "2026-06-19T13:07:54Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16355,
-    "updated_at": "2026-06-19T13:08:22Z",
+    "updated_at": "2026-06-19T13:18:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -70,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T13:01:04Z",
     "url": "https://github.com/MRupam202005/rag-codebase-explainer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T13:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -148,7 +148,7 @@
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 97,
+    "stars": 98,
     "updated_at": "2026-06-19T12:22:14Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-19T13:15:18Z",
+    "updated_at": "2026-06-19T13:21:37Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -437,7 +437,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 4,
-    "updated_at": "2026-06-19T12:55:14Z",
+    "updated_at": "2026-06-19T13:25:58Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 13:15 UTC
+> ⏰ Last updated: 2026-06-19 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-06-19 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
-| 2 | [weaviate/docs](https://github.com/weaviate/docs) | 20 | Python | 2026-06-19 | The documentation repo for Weaviate Database, Cloud, Agents and much more! |
-| 3 | [jorshali/developers-guide-to-ai](https://github.com/jorshali/developers-guide-to-ai) | 55 | Python | 2026-06-19 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 4 | [rani700/healthcompanion](https://github.com/rani700/healthcompanion) | 0 | Python | 2026-06-19 | Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas |
-| 5 | [scylladb/vector-search-examples](https://github.com/scylladb/vector-search-examples) | 7 | Python | 2026-06-19 | Vector search examples with ScyllaDB |
-| 6 | [gonicolas12/My_AI](https://github.com/gonicolas12/My_AI) | 8 | Python | 2026-06-19 | Local-first AI assistant — 9 specialized agents (code, web, debug, security…), 10M-token vector memory, two-way local vo |
-| 7 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16355 | Go | 2026-06-19 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 8 | [MRupam202005/rag-codebase-explainer](https://github.com/MRupam202005/rag-codebase-explainer) | 1 | JavaScript | 2026-06-19 | An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [gonicolas12/My_AI](https://github.com/gonicolas12/My_AI) | 8 | Python | 2026-06-19 | Local-first AI assistant — 9 specialized agents (code, web, debug, security…), 10M-token vector memory, two-way local vo |
+| 2 | [jorshali/developers-guide-to-ai](https://github.com/jorshali/developers-guide-to-ai) | 55 | Python | 2026-06-19 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-06-19 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
+| 6 | [weaviate/docs](https://github.com/weaviate/docs) | 20 | Python | 2026-06-19 | The documentation repo for Weaviate Database, Cloud, Agents and much more! |
+| 7 | [rani700/healthcompanion](https://github.com/rani700/healthcompanion) | 0 | Python | 2026-06-19 | Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas |
+| 8 | [scylladb/vector-search-examples](https://github.com/scylladb/vector-search-examples) | 7 | Python | 2026-06-19 | Vector search examples with ScyllaDB |
+| 9 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16355 | Go | 2026-06-19 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 10 | [MRupam202005/rag-codebase-explainer](https://github.com/MRupam202005/rag-codebase-explainer) | 1 | JavaScript | 2026-06-19 | An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha |
 | 11 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6126 | TypeScript | 2026-06-19 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 12 | [quarkiverse/quarkus-qdrant](https://github.com/quarkiverse/quarkus-qdrant) | 2 | Java | 2026-06-19 | Rest client for Qdrant vector database |
 | 13 | [tanaos/cognitor-worker](https://github.com/tanaos/cognitor-worker) | 0 | Python | 2026-06-19 | Automatically chunk, embed and index a folder into a Cognitor collection |
 | 14 | [tanaos/cognitor](https://github.com/tanaos/cognitor) | 11 | Python | 2026-06-19 | Open source, all-in-one semantic search engine for AI and humans |
 | 15 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32462 | Rust | 2026-06-19 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 16 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-19 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
-| 17 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 97 | Python | 2026-06-19 | 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 --续温 |
+| 17 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 98 | Python | 2026-06-19 | 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 --续温 |
 | 18 | [Zizka-ai/ZizkaDB](https://github.com/Zizka-ai/ZizkaDB) | 9 | TypeScript | 2026-06-19 | Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S |
 | 19 | [Melce-AI/agentic-rag](https://github.com/Melce-AI/agentic-rag) | 3 | Python | 2026-06-19 | A multi-agent RAG pipeline for enterprise data with MCP integration and human-in-the-loop validation. |
 | 20 | [ZeeshanGeoPk/ollama-rag-memory](https://github.com/ZeeshanGeoPk/ollama-rag-memory) | 0 | Python | 2026-06-19 | Local Ollama RAG memory proxy using ChromaDB and nomic-embed-text to retrieve relevant chat history, compress context, a |
