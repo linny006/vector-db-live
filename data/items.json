@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:59:56Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Production-ready RAG system: Semantic search + LLM integration for building  accurate AI assistants that cite sources an",
+    "id": "SakshamDevloper/RAG-Powered-AI-Assistant",
+    "language": "HTML",
+    "name": "SakshamDevloper/RAG-Powered-AI-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:59:51Z",
+    "url": "https://github.com/SakshamDevloper/RAG-Powered-AI-Assistant"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:56:30Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:54:03Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 778,
+    "updated_at": "2026-06-19T19:52:51Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:52:06Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Project-Navi/ordvec",
+    "language": "Rust",
+    "name": "Project-Navi/ordvec",
+    "stars": 22,
+    "updated_at": "2026-06-19T19:59:50Z",
+    "url": "https://github.com/Project-Navi/ordvec"
+  },
+  {
+    "description": "A dynamic Agentic RAG platform for real-time news analysis, bias detection, and timeline synthesis. Built with Pathway, ",
+    "id": "OptimusPrime-hub/NewsLens",
+    "language": "Python",
+    "name": "OptimusPrime-hub/NewsLens",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:50:25Z",
+    "url": "https://github.com/OptimusPrime-hub/NewsLens"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -16,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T19:36:52Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "A dynamic Agentic RAG platform for real-time news analysis, bias detection, and timeline synthesis. Built with Pathway, ",
-    "id": "OptimusPrime-hub/NewsLens",
-    "language": "Python",
-    "name": "OptimusPrime-hub/NewsLens",
-    "stars": 1,
-    "updated_at": "2026-06-19T19:34:28Z",
-    "url": "https://github.com/OptimusPrime-hub/NewsLens"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -45,49 +126,13 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T19:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:30:14Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T19:29:25Z",
+    "updated_at": "2026-06-19T19:54:19Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Project-Navi/ordvec",
-    "language": "Rust",
-    "name": "Project-Navi/ordvec",
-    "stars": 22,
-    "updated_at": "2026-06-19T19:45:05Z",
-    "url": "https://github.com/Project-Navi/ordvec"
   },
   {
     "description": "The AI search platform",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
   },
   {
-    "description": "Production-ready RAG system: Semantic search + LLM integration for building  accurate AI assistants that cite sources an",
-    "id": "SakshamDevloper/RAG-Powered-AI-Assistant",
-    "language": "Python",
-    "name": "SakshamDevloper/RAG-Powered-AI-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:14:03Z",
-    "url": "https://github.com/SakshamDevloper/RAG-Powered-AI-Assistant"
-  },
-  {
     "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -153,12 +189,21 @@
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16364,
+    "updated_at": "2026-06-19T18:57:04Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 68,
-    "updated_at": "2026-06-19T19:01:10Z",
+    "updated_at": "2026-06-19T19:57:05Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -234,38 +279,11 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:59:35Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:56:29Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 778,
-    "updated_at": "2026-06-19T17:50:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5291,
+    "stars": 5292,
     "updated_at": "2026-06-19T17:49:05Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -310,18 +328,9 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58194,
+    "stars": 58195,
     "updated_at": "2026-06-19T17:05:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16363,
-    "updated_at": "2026-06-19T18:57:04Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "",
@@ -365,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7752,
-    "updated_at": "2026-06-19T16:30:00Z",
+    "updated_at": "2026-06-19T19:56:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T15:51:30Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12367,
-    "updated_at": "2026-06-19T15:51:08Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
