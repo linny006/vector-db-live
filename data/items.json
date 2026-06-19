@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-06-19T14:27:35Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
+    "id": "neuron-core/neuron-ai",
     "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-19T14:15:21Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
+    "name": "neuron-core/neuron-ai",
+    "stars": 1971,
+    "updated_at": "2026-06-19T14:27:31Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:25:19Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17905,
+    "updated_at": "2026-06-19T14:24:47Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-19T14:20:42Z",
+    "url": "https://github.com/konjoai/vectro"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -14,7 +50,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1333,
-    "updated_at": "2026-06-19T14:13:43Z",
+    "updated_at": "2026-06-19T14:18:53Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T14:00:30Z",
+    "updated_at": "2026-06-19T14:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T14:00:26Z",
+    "updated_at": "2026-06-19T14:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 5,
+    "updated_at": "2026-06-19T14:15:21Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
     "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
@@ -220,7 +265,7 @@
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 100,
+    "stars": 101,
     "updated_at": "2026-06-19T12:22:14Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -342,15 +387,6 @@
     "url": "https://github.com/sathvik8-agavinti/pdf-rag-system"
   },
   {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1971,
-    "updated_at": "2026-06-19T11:14:56Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
     "id": "rahimahgilani/pdf-chatbox",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-19T10:59:49Z",
     "url": "https://github.com/Vektor-Memory/Vektor-memory"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-19T10:57:10Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-19T10:55:48Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-rag-reference-architecture",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-rag-reference-architecture",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:44:05Z",
-    "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
-  },
-  {
-    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
-    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:43:36Z",
-    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
   }
 ]
