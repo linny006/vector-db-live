@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T07:15:20Z",
+    "updated_at": "2026-06-19T07:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-06-19T07:25:22Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12366,
+    "updated_at": "2026-06-19T07:23:58Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-19T07:19:29Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:16:19Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Rest client for Qdrant vector database",
+    "id": "quarkiverse/quarkus-qdrant",
+    "language": "Java",
+    "name": "quarkiverse/quarkus-qdrant",
+    "stars": 1,
+    "updated_at": "2026-06-19T07:15:29Z",
+    "url": "https://github.com/quarkiverse/quarkus-qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade local RAG API assistant backend running on traditional Azure CPU infrastructure. Serves a quantized Lla",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:03:35Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -187,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T06:05:46Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:05:31Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
@@ -365,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16348,
-    "updated_at": "2026-06-19T06:48:19Z",
+    "updated_at": "2026-06-19T07:23:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 1359,
     "updated_at": "2026-06-19T03:18:20Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-06-19T03:17:12Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "From-scratch HNSW approximate-nearest-neighbor index in pure Python + NumPy \u2014 the algorithm behind vector databases, wit",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T02:46:42Z",
     "url": "https://github.com/rao-studios/Sewn"
-  },
-  {
-    "description": "Production-style documentation samples for Pinecone vector database \u2014 quickstart, conceptual guide, and RAG walkthrough",
-    "id": "TyraTechWriter/vector-search-docs-sample",
-    "language": "\u2014",
-    "name": "TyraTechWriter/vector-search-docs-sample",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:29:31Z",
-    "url": "https://github.com/TyraTechWriter/vector-search-docs-sample"
-  },
-  {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-19T03:47:55Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "AI Interview Simulator is a GenAI-based application that conducts mock interviews, evaluates answers using semantic simi",
-    "id": "jahnavi1234-me/ai_interview_simulator",
-    "language": "Python",
-    "name": "jahnavi1234-me/ai_interview_simulator",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:20:31Z",
-    "url": "https://github.com/jahnavi1234-me/ai_interview_simulator"
   }
 ]
