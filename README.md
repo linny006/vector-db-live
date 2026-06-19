@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 22:45 UTC
+> ⏰ Last updated: 2026-06-19 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [driftkit-ai/driftkit-framework](https://github.com/driftkit-ai/driftkit-framework) | 43 | Java | 2026-06-19 | The only Java AI framework with a complete Dev → Test → Prod prompt lifecycle, featuring multi-agent orchestration and b |
-| 2 | [stuinfla/Ruv-Explainer](https://github.com/stuinfla/Ruv-Explainer) | 4 | HTML | 2026-06-19 | An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain |
-| 3 | [abhay-codes07/Agent-DNA-Transfer](https://github.com/abhay-codes07/Agent-DNA-Transfer) | 0 | Python | 2026-06-19 | Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off |
-| 4 | [Project-Navi/ordvec](https://github.com/Project-Navi/ordvec) | 22 | Rust | 2026-06-19 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
-| 5 | [furkandogmus/kuberag](https://github.com/furkandogmus/kuberag) | 0 | Go | 2026-06-19 | Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 3 | [PWDevens/fedacq-rag-chatbot](https://github.com/PWDevens/fedacq-rag-chatbot) | 0 | Python | 2026-06-19 | Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot |
+| 4 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-19 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 5 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 2 | TypeScript | 2026-06-19 | A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid |
 | 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [marco-spagn/pcmi](https://github.com/marco-spagn/pcmi) | 5 | Go | 2026-06-19 | Persistent Cognitive Memory Infrastructure — durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri |
-| 9 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-19 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 10 | [PWDevens/fedacq-rag-chatbot](https://github.com/PWDevens/fedacq-rag-chatbot) | 0 | Python | 2026-06-19 | Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot |
-| 11 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 2 | TypeScript | 2026-06-19 | A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid |
-| 12 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-19 | CLI, SDK, and gateway for Qdrant — SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc |
-| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 68 | Rust | 2026-06-19 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
-| 14 | [euiyounghwang/Vector_DB_with_LLM](https://github.com/euiyounghwang/Vector_DB_with_LLM) | 2 | Jupyter Notebook | 2026-06-19 | Vector_DB_with_LLM |
-| 15 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 121 | C# | 2026-06-19 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
-| 16 | [samarthkashyap03/lumen](https://github.com/samarthkashyap03/lumen) | 2 | TypeScript | 2026-06-19 | Multi-agent AI platform that turns articles into swipeable summary cards.  |
-| 17 | [SeydinaBANE/enterprise-rag-agent](https://github.com/SeydinaBANE/enterprise-rag-agent) | 0 | Python | 2026-06-19 | Production-grade agentic RAG system — FastAPI · LangGraph · ChromaDB · OpenRouter · Prometheus · Grafana |
-| 18 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6964 | Java | 2026-06-19 | The AI search platform |
-| 19 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-19 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
-| 20 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 371 | TypeScript | 2026-06-19 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 21 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 22 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-06-19 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 23 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5293 | Python | 2026-06-19 |  Memory library for building stateful agents |
+| 7 | [driftkit-ai/driftkit-framework](https://github.com/driftkit-ai/driftkit-framework) | 43 | Java | 2026-06-19 | The only Java AI framework with a complete Dev → Test → Prod prompt lifecycle, featuring multi-agent orchestration and b |
+| 8 | [stuinfla/Ruv-Explainer](https://github.com/stuinfla/Ruv-Explainer) | 4 | HTML | 2026-06-19 | An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain |
+| 9 | [abhay-codes07/Agent-DNA-Transfer](https://github.com/abhay-codes07/Agent-DNA-Transfer) | 0 | Python | 2026-06-19 | Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off |
+| 10 | [Project-Navi/ordvec](https://github.com/Project-Navi/ordvec) | 22 | Rust | 2026-06-19 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
+| 11 | [furkandogmus/kuberag](https://github.com/furkandogmus/kuberag) | 0 | Go | 2026-06-19 | Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st |
+| 12 | [marco-spagn/pcmi](https://github.com/marco-spagn/pcmi) | 5 | Go | 2026-06-19 | Persistent Cognitive Memory Infrastructure — durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri |
+| 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-19 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 14 | [srimon12/qql-go](https://github.com/srimon12/qql-go) | 2 | Go | 2026-06-19 | CLI, SDK, and gateway for Qdrant — SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc |
+| 15 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 68 | Rust | 2026-06-19 | VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with  |
+| 16 | [euiyounghwang/Vector_DB_with_LLM](https://github.com/euiyounghwang/Vector_DB_with_LLM) | 2 | Jupyter Notebook | 2026-06-19 | Vector_DB_with_LLM |
+| 17 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 121 | C# | 2026-06-19 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
+| 18 | [samarthkashyap03/lumen](https://github.com/samarthkashyap03/lumen) | 2 | TypeScript | 2026-06-19 | Multi-agent AI platform that turns articles into swipeable summary cards.  |
+| 19 | [SeydinaBANE/enterprise-rag-agent](https://github.com/SeydinaBANE/enterprise-rag-agent) | 0 | Python | 2026-06-19 | Production-grade agentic RAG system — FastAPI · LangGraph · ChromaDB · OpenRouter · Prometheus · Grafana |
+| 20 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 6964 | Java | 2026-06-19 | The AI search platform |
+| 21 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-19 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
+| 22 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 371 | TypeScript | 2026-06-19 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 23 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5294 | Python | 2026-06-19 |  Memory library for building stateful agents |
 | 24 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 1 | Rust | 2026-06-19 |  |
 | 25 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-19 | Identity and Authorization Service with Vector and AI Integration |
 | 26 | [WajihZaman/local-ai-rag-assistant](https://github.com/WajihZaman/local-ai-rag-assistant) | 1 | Python | 2026-06-19 | Enterprise-grade local RAG API assistant backend running on traditional Azure CPU infrastructure. Serves a quantized Lla |
