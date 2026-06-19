@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector Memory - Slipstream - Built by Vektor Memory - a multi-layered persistent agentic memory architecture. 4-layer as",
+    "id": "Vektor-Memory/Vektor-memory",
+    "language": "\u2014",
+    "name": "Vektor-Memory/Vektor-memory",
+    "stars": 4,
+    "updated_at": "2026-06-19T10:59:49Z",
+    "url": "https://github.com/Vektor-Memory/Vektor-memory"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-19T10:57:10Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-19T10:55:48Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 9,
+    "updated_at": "2026-06-19T10:45:23Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
     "id": "JaeHoYun/vcf-rag-reference-architecture",
     "language": "\u2014",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T10:43:36Z",
     "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-19T10:43:24Z",
-    "url": "https://github.com/kalisio/knowledge"
   },
   {
     "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing 6\ubd80\uc791 \uc778\ub371\uc2a4 (PAIF 9.1 / PAIS 2.1)",
@@ -63,22 +108,13 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16351,
+    "updated_at": "2026-06-19T10:31:03Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -113,7 +149,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 4,
-    "updated_at": "2026-06-19T10:11:58Z",
+    "updated_at": "2026-06-19T10:52:18Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -124,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T10:36:09Z",
     "url": "https://github.com/vishwajitvm/PolicyBot"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7749,
+    "updated_at": "2026-06-19T10:58:58Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Official repository of the kANNolo library.",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32457,
-    "updated_at": "2026-06-19T10:23:01Z",
+    "updated_at": "2026-06-19T10:57:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:01:39Z",
     "url": "https://github.com/j-laux/political-rag-bundestag2025"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16350,
-    "updated_at": "2026-06-19T10:31:03Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "T\u00fcrk\u00e7e SQL Server 2025 ba\u015fucu kitab\u0131 \u2014 kod \u00f6rnekleri, errata, topluluk Q&A \u00b7 CC BY-NC-SA 4.0 + MIT",
@@ -324,15 +360,6 @@
     "url": "https://github.com/diegoglozano/revector"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7748,
-    "updated_at": "2026-06-19T10:02:44Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
     "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
     "language": "JavaScript",
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:45:42Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-19T10:40:59Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "Enterprise-style RAG auditing platform for tracking AI responses, retrieved document chunks, and secure compliance logs.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:03:35Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Fast vulnerability scanner for AI and ML infrastructure. 218 service fingerprints, 62 deep enumerators.",
-    "id": "nuclide-research/aimap",
-    "language": "Go",
-    "name": "nuclide-research/aimap",
-    "stars": 3,
-    "updated_at": "2026-06-19T06:58:59Z",
-    "url": "https://github.com/nuclide-research/aimap"
-  },
-  {
-    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
-    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "language": "Python",
-    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:58:57Z",
-    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
   }
 ]
