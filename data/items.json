@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-06-19T16:28:38Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:28:53Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
+    "id": "srimon12/qql-go",
+    "language": "Go",
+    "name": "srimon12/qql-go",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:25:57Z",
+    "url": "https://github.com/srimon12/qql-go"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:23:08Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32465,
+    "updated_at": "2026-06-19T16:28:53Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1972,
+    "updated_at": "2026-06-19T16:20:44Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "shiyao222333-afk/citrinitas",
     "stars": 0,
-    "updated_at": "2026-06-19T16:12:28Z",
+    "updated_at": "2026-06-19T16:19:26Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6964,
+    "updated_at": "2026-06-19T16:16:46Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T16:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -45,15 +117,6 @@
     "url": "https://github.com/avin2204/Sports-ai-operating-system"
   },
   {
-    "description": "Production-grade Agentic RAG with LangGraph, hybrid retrieval, and comprehensive evaluation harness",
-    "id": "Jowan69/agentic-rag-system",
-    "language": "Python",
-    "name": "Jowan69/agentic-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:02:31Z",
-    "url": "https://github.com/Jowan69/agentic-rag-system"
-  },
-  {
     "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
     "id": "pavanbadempet/AI-Healthcare-System",
     "language": "Python",
@@ -70,24 +133,6 @@
     "stars": 10648,
     "updated_at": "2026-06-19T16:01:02Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:00:53Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -144,15 +189,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1972,
-    "updated_at": "2026-06-19T15:46:19Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T15:34:15Z",
     "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32464,
-    "updated_at": "2026-06-19T15:45:23Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T15:00:51Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6964,
-    "updated_at": "2026-06-19T16:10:12Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -430,23 +448,5 @@
     "stars": 58189,
     "updated_at": "2026-06-19T13:45:17Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7751,
-    "updated_at": "2026-06-19T15:18:19Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "jorshali/developers-guide-to-ai",
-    "language": "Python",
-    "name": "jorshali/developers-guide-to-ai",
-    "stars": 55,
-    "updated_at": "2026-06-19T13:17:49Z",
-    "url": "https://github.com/jorshali/developers-guide-to-ai"
   }
 ]
