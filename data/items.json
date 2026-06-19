@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T14:45:20Z",
+    "updated_at": "2026-06-19T15:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6964,
+    "updated_at": "2026-06-19T14:57:31Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 553,
+    "updated_at": "2026-06-19T14:56:22Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:54:19Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
+    "id": "amikumar91/ai-systems-engineering",
+    "language": "JavaScript",
+    "name": "amikumar91/ai-systems-engineering",
+    "stars": 2,
+    "updated_at": "2026-06-19T14:54:38Z",
+    "url": "https://github.com/amikumar91/ai-systems-engineering"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -45,22 +90,13 @@
     "url": "https://github.com/pragathijp/DocQuest_AI"
   },
   {
-    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
-    "id": "amikumar91/ai-systems-engineering",
-    "language": "JavaScript",
-    "name": "amikumar91/ai-systems-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:32:56Z",
-    "url": "https://github.com/amikumar91/ai-systems-engineering"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1972,
+    "updated_at": "2026-06-19T14:32:40Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T14:27:35Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1971,
-    "updated_at": "2026-06-19T14:32:40Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -162,13 +189,13 @@
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
     "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 553,
-    "updated_at": "2026-06-19T13:46:06Z",
-    "url": "https://github.com/slothflowlabs/duckle"
+    "name": "meilisearch/meilisearch",
+    "stars": 58188,
+    "updated_at": "2026-06-19T13:45:17Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -203,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7751,
-    "updated_at": "2026-06-19T13:37:10Z",
+    "updated_at": "2026-06-19T14:56:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/ldclabs/anda-db"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:54:05Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 91,
-    "updated_at": "2026-06-19T14:02:17Z",
+    "updated_at": "2026-06-19T14:55:17Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:17:30Z",
     "url": "https://github.com/sathvik8-agavinti/pdf-rag-system"
-  },
-  {
-    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
-    "id": "rahimahgilani/pdf-chatbox",
-    "language": "JavaScript",
-    "name": "rahimahgilani/pdf-chatbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:12:32Z",
-    "url": "https://github.com/rahimahgilani/pdf-chatbox"
-  },
-  {
-    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
-    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "language": "Python",
-    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "stars": 1,
-    "updated_at": "2026-06-19T11:12:09Z",
-    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
   }
 ]
