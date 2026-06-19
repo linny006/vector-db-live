@@ -1,12 +1,75 @@
 [
   {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-19T13:10:00Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-06-19T13:09:38Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "jorshali/developers-guide-to-ai",
+    "language": "Python",
+    "name": "jorshali/developers-guide-to-ai",
+    "stars": 55,
+    "updated_at": "2026-06-19T13:08:57Z",
+    "url": "https://github.com/jorshali/developers-guide-to-ai"
+  },
+  {
+    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
+    "id": "rani700/healthcompanion",
+    "language": "Python",
+    "name": "rani700/healthcompanion",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:08:54Z",
+    "url": "https://github.com/rani700/healthcompanion"
+  },
+  {
+    "description": "Vector search examples with ScyllaDB",
+    "id": "scylladb/vector-search-examples",
+    "language": "Python",
+    "name": "scylladb/vector-search-examples",
+    "stars": 7,
+    "updated_at": "2026-06-19T13:08:12Z",
+    "url": "https://github.com/scylladb/vector-search-examples"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 8,
+    "updated_at": "2026-06-19T13:07:54Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16354,
-    "updated_at": "2026-06-19T12:58:02Z",
+    "stars": 16355,
+    "updated_at": "2026-06-19T13:08:22Z",
     "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
+    "id": "MRupam202005/rag-codebase-explainer",
+    "language": "JavaScript",
+    "name": "MRupam202005/rag-codebase-explainer",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:01:04Z",
+    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T12:45:27Z",
+    "updated_at": "2026-06-19T13:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T12:45:22Z",
+    "updated_at": "2026-06-19T13:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -63,13 +126,13 @@
     "url": "https://github.com/tanaos/cognitor"
   },
   {
-    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
-    "id": "MRupam202005/rag-codebase-explainer",
-    "language": "JavaScript",
-    "name": "MRupam202005/rag-codebase-explainer",
-    "stars": 1,
-    "updated_at": "2026-06-19T12:31:29Z",
-    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32462,
+    "updated_at": "2026-06-19T12:37:30Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
@@ -85,7 +148,7 @@
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 96,
+    "stars": 97,
     "updated_at": "2026-06-19T12:22:14Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-19T12:59:06Z",
+    "updated_at": "2026-06-19T13:15:18Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:52:42Z",
     "url": "https://github.com/santanu2908/chat-with-pdf-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32461,
-    "updated_at": "2026-06-19T12:37:30Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "CrateDB provider for LangChain.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:34:23Z",
     "url": "https://github.com/vishwajitvm/PolicyBot"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "TusKANNy/kannolo",
-    "language": "Rust",
-    "name": "TusKANNy/kannolo",
-    "stars": 56,
-    "updated_at": "2026-06-19T10:02:03Z",
-    "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "Jurify \u2014 A legal networking platform + AI legal assistant. Lawyers can connect, collaborate, and take ProBono cases. Non",
-    "id": "sakshamVerma08/Jurify-",
-    "language": "TypeScript",
-    "name": "sakshamVerma08/Jurify-",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:25:28Z",
-    "url": "https://github.com/sakshamVerma08/Jurify-"
-  },
-  {
-    "description": "Implemented an LLM observability and evaluation submodule featuring automated instrumentation and tracing, stateful chat",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-19T09:52:45Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 5,
-    "updated_at": "2026-06-19T09:29:12Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A scanner produces candidates. Verification produces findings. The NuClide AI-infrastructure assessment methodology.",
-    "id": "nuclide-research/nuclide-method",
-    "language": "Shell",
-    "name": "nuclide-research/nuclide-method",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:19:01Z",
-    "url": "https://github.com/nuclide-research/nuclide-method"
-  },
-  {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "HTML",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:10:23Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
   }
 ]
