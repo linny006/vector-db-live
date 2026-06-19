@@ -1,5 +1,86 @@
 [
   {
+    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
+    "id": "PWDevens/fedacq-rag-chatbot",
+    "language": "Python",
+    "name": "PWDevens/fedacq-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:56:36Z",
+    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:56:34Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
+    "id": "srimon12/qql-go",
+    "language": "Go",
+    "name": "srimon12/qql-go",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:53:40Z",
+    "url": "https://github.com/srimon12/qql-go"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 68,
+    "updated_at": "2026-06-19T21:51:49Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Vector_DB_with_LLM",
+    "id": "euiyounghwang/Vector_DB_with_LLM",
+    "language": "Jupyter Notebook",
+    "name": "euiyounghwang/Vector_DB_with_LLM",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:52:19Z",
+    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 121,
+    "updated_at": "2026-06-19T21:50:55Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Project-Navi/ordvec",
+    "language": "Rust",
+    "name": "Project-Navi/ordvec",
+    "stars": 22,
+    "updated_at": "2026-06-19T21:48:39Z",
+    "url": "https://github.com/Project-Navi/ordvec"
+  },
+  {
+    "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
+    "language": "Python",
+    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:48:06Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +90,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Project-Navi/ordvec",
-    "language": "Rust",
-    "name": "Project-Navi/ordvec",
-    "stars": 22,
-    "updated_at": "2026-06-19T21:44:46Z",
-    "url": "https://github.com/Project-Navi/ordvec"
-  },
-  {
     "description": "Multi-agent AI platform that turns articles into swipeable summary cards. ",
     "id": "samarthkashyap03/lumen",
     "language": "TypeScript",
@@ -25,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T21:41:17Z",
     "url": "https://github.com/samarthkashyap03/lumen"
-  },
-  {
-    "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
-    "id": "abhay-codes07/Agent-DNA-Transfer",
-    "language": "Python",
-    "name": "abhay-codes07/Agent-DNA-Transfer",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:39:45Z",
-    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 68,
-    "updated_at": "2026-06-19T21:36:57Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-grade agentic RAG system \u2014 FastAPI \u00b7 LangGraph \u00b7 ChromaDB \u00b7 OpenRouter \u00b7 Prometheus \u00b7 Grafana",
@@ -180,15 +225,6 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:01:38Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Production-ready RAG system: Semantic search + LLM integration for building  accurate AI assistants that cite sources an",
     "id": "SakshamDevloper/RAG-Powered-AI-Assistant",
     "language": "HTML",
@@ -256,7 +292,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10653,
+    "stars": 10654,
     "updated_at": "2026-06-19T19:33:15Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -274,7 +310,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6128,
+    "stars": 6129,
     "updated_at": "2026-06-19T19:27:21Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -337,7 +373,7 @@
     "id": "stuinfla/Ruv-Explainer",
     "language": "HTML",
     "name": "stuinfla/Ruv-Explainer",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-19T18:43:44Z",
     "url": "https://github.com/stuinfla/Ruv-Explainer"
   },
@@ -412,41 +448,5 @@
     "stars": 40,
     "updated_at": "2026-06-19T17:34:44Z",
     "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9345,
-    "updated_at": "2026-06-19T17:31:07Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI-powered HR Knowledge Assistant using RAG and vector databases for context-aware Q&A over HR policies and employee doc",
-    "id": "MLbyTharun/HR-Knowledge-Assistant",
-    "language": "Python",
-    "name": "MLbyTharun/HR-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:17:37Z",
-    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58194,
-    "updated_at": "2026-06-19T17:05:16Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "",
-    "id": "Nyx-abu/nori",
-    "language": "TypeScript",
-    "name": "Nyx-abu/nori",
-    "stars": 1,
-    "updated_at": "2026-06-19T17:04:07Z",
-    "url": "https://github.com/Nyx-abu/nori"
   }
 ]
