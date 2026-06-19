@@ -1,11 +1,56 @@
 [
   {
+    "description": "Research Paper Chat Bot built from scratch using Retrieval-Augmented Generation (RAG), ChromaDB, Hugging Face embeddings",
+    "id": "Roshan3019/research-paper-chatbot-rag",
+    "language": "Python",
+    "name": "Roshan3019/research-paper-chatbot-rag",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:55:59Z",
+    "url": "https://github.com/Roshan3019/research-paper-chatbot-rag"
+  },
+  {
+    "description": "Enterprise governed RAG system with RBAC, trust scoring, and Azure deployment",
+    "id": "SamikshitSharma/Governed-RAG-System",
+    "language": "Python",
+    "name": "SamikshitSharma/Governed-RAG-System",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:55:32Z",
+    "url": "https://github.com/SamikshitSharma/Governed-RAG-System"
+  },
+  {
+    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
+    "id": "EkleTony/GenAI-Course-Repo",
+    "language": "Jupyter Notebook",
+    "name": "EkleTony/GenAI-Course-Repo",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:54:17Z",
+    "url": "https://github.com/EkleTony/GenAI-Course-Repo"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 12,
+    "updated_at": "2026-06-19T04:56:30Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T04:45:19Z",
+    "updated_at": "2026-06-19T05:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,24 +61,6 @@
     "stars": 31,
     "updated_at": "2026-06-19T04:43:21Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 12,
-    "updated_at": "2026-06-19T04:42:41Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -400,7 +427,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 33200,
+    "stars": 33201,
     "updated_at": "2026-06-18T23:44:29Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -421,32 +448,5 @@
     "stars": 38,
     "updated_at": "2026-06-18T23:51:00Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:04:56Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 67,
-    "updated_at": "2026-06-18T22:58:43Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 949,
-    "updated_at": "2026-06-18T22:37:39Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
