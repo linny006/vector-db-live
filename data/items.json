@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T22:15:19Z",
+    "updated_at": "2026-06-19T22:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Go",
     "name": "marco-spagn/pcmi",
     "stars": 5,
-    "updated_at": "2026-06-19T22:15:03Z",
+    "updated_at": "2026-06-19T22:19:57Z",
     "url": "https://github.com/marco-spagn/pcmi"
   },
   {
@@ -23,8 +23,17 @@
     "language": "Go",
     "name": "furkandogmus/kuberag",
     "stars": 0,
-    "updated_at": "2026-06-19T22:06:03Z",
+    "updated_at": "2026-06-19T22:18:47Z",
     "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:03:21Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:03:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T22:05:59Z",
+    "updated_at": "2026-06-19T22:22:13Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -113,7 +113,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T21:48:39Z",
+    "updated_at": "2026-06-19T22:28:41Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -328,7 +328,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6129,
+    "stars": 6130,
     "updated_at": "2026-06-19T19:27:21Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -364,7 +364,7 @@
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-06-19T19:02:18Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
