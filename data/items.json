@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 68,
+    "updated_at": "2026-06-19T18:57:01Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-19T18:55:22Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:49:02Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 4,
+    "updated_at": "2026-06-19T18:47:08Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
+    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "language": "JavaScript",
+    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:46:21Z",
+    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain",
     "id": "stuinfla/Ruv-Explainer",
     "language": "HTML",
@@ -18,15 +81,6 @@
     "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:39:26Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -34,33 +88,6 @@
     "stars": 1333,
     "updated_at": "2026-06-19T18:37:16Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
-    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "language": "JavaScript",
-    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:29:54Z",
-    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T18:22:17Z",
+    "updated_at": "2026-06-19T18:56:33Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 32468,
     "updated_at": "2026-06-19T18:16:07Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-19T18:11:27Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -229,7 +247,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58192,
+    "stars": 58193,
     "updated_at": "2026-06-19T17:05:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16363,
-    "updated_at": "2026-06-19T17:04:25Z",
+    "updated_at": "2026-06-19T18:57:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -277,6 +295,15 @@
     "stars": 1972,
     "updated_at": "2026-06-19T16:40:02Z",
     "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7752,
+    "updated_at": "2026-06-19T16:30:00Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -421,32 +448,5 @@
     "stars": 12670,
     "updated_at": "2026-06-19T15:29:15Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:17:54Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-19T15:18:00Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17907,
-    "updated_at": "2026-06-19T15:10:28Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
