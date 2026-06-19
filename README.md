@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 23:45 UTC
+> ⏰ Last updated: 2026-06-19 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 33197 | Python | 2026-06-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [Vansh-7/Vector-DB-RAG-pipeline](https://github.com/Vansh-7/Vector-DB-RAG-pipeline) | 0 | Python | 2026-06-18 | Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B |
 | 3 | [kherrera6219/theFactory](https://github.com/kherrera6219/theFactory) | 1 | Python | 2026-06-18 | theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v |
-| 4 | [Vansh-7/Vector-DB-RAG-pipeline](https://github.com/Vansh-7/Vector-DB-RAG-pipeline) | 0 | Python | 2026-06-18 | Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 33197 | Python | 2026-06-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 6 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 2 | Python | 2026-06-18 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
 | 7 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 38 | Rust | 2026-06-18 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
 | 8 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-18 | Identity and Authorization Service with Vector and AI Integration |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [Faraz6180/Insightpilot-ai](https://github.com/Faraz6180/Insightpilot-ai) | 0 | Python | 2026-06-18 | AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins |
 | 24 | [LucasM4r/RepoMind](https://github.com/LucasM4r/RepoMind) | 0 | Go | 2026-06-18 | RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st |
 | 25 | [MariaDB/server](https://github.com/MariaDB/server) | 7747 | C++ | 2026-06-18 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 26 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50215 | Python | 2026-06-18 | LlamaIndex is the leading document agent and OCR platform |
+| 26 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50216 | Python | 2026-06-18 | LlamaIndex is the leading document agent and OCR platform |
 | 27 | [arvindand/spring-ai-rag-demo](https://github.com/arvindand/spring-ai-rag-demo) | 5 | Java | 2026-06-18 | Spring AI RAG demo with PGVector, conversation memory, tool calling, and Open WebUI integration |
 | 28 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-06-18 | C# SDK for the Weaviate API -- open-source vector database |
 | 29 | [nobijoy/memcore-rs](https://github.com/nobijoy/memcore-rs) | 1 | Rust | 2026-06-18 | High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction,  |
