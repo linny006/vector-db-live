@@ -1,5 +1,41 @@
 [
   {
+    "description": "Enterprise-style RAG auditing platform for tracking AI responses, retrieved document chunks, and secure compliance logs.",
+    "id": "Tisha-choksi/RAGTrace",
+    "language": "Python",
+    "name": "Tisha-choksi/RAGTrace",
+    "stars": 1,
+    "updated_at": "2026-06-19T07:36:17Z",
+    "url": "https://github.com/Tisha-choksi/RAGTrace"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 92,
+    "updated_at": "2026-06-19T07:33:12Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
+    "id": "kanetiyahet/Knowledge-Assistant",
+    "language": "HTML",
+    "name": "kanetiyahet/Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:32:26Z",
+    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T07:19:29Z",
+    "updated_at": "2026-06-19T07:33:31Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T07:15:29Z",
     "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade local RAG API assistant backend running on traditional Azure CPU infrastructure. Serves a quantized Lla",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:03:35Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "HTML",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:00:22Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
   },
   {
     "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 68,
-    "updated_at": "2026-06-19T06:36:10Z",
+    "updated_at": "2026-06-19T07:37:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:55:01Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "Enterprise-style RAG auditing platform for tracking AI responses, retrieved document chunks, and secure compliance logs.",
-    "id": "Tisha-choksi/RAGTrace",
-    "language": "Python",
-    "name": "Tisha-choksi/RAGTrace",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:54:24Z",
-    "url": "https://github.com/Tisha-choksi/RAGTrace"
   },
   {
     "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16348,
-    "updated_at": "2026-06-19T07:23:25Z",
+    "updated_at": "2026-06-19T07:31:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T03:09:32Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "An industrial grade Federated AI platform with royalty tracking and personalized chat that sews threads together.",
-    "id": "rao-studios/Sewn",
-    "language": "\u2014",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:46:42Z",
-    "url": "https://github.com/rao-studios/Sewn"
   }
 ]
