@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T04:15:24Z",
+    "updated_at": "2026-06-19T04:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-19T04:30:17Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44842,
+    "updated_at": "2026-06-19T04:29:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 12,
+    "updated_at": "2026-06-19T04:27:26Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
+    "id": "muonroi/experience-engine",
+    "language": "JavaScript",
+    "name": "muonroi/experience-engine",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:18:44Z",
+    "url": "https://github.com/muonroi/experience-engine"
+  },
+  {
+    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
+    "id": "kanetiyahet/Knowledge-Assistant",
+    "language": "Python",
+    "name": "kanetiyahet/Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:18:15Z",
+    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
@@ -27,24 +81,6 @@
     "url": "https://github.com/engram-os/engram-os"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-19T03:58:31Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": " High-performance, fully-local AI-infrastructure platform \u2014 Rust SIMD + rayon  vector kernels, a PyO3/maturin Python SDK",
     "id": "0DevDutt0/neuralforge-x",
     "language": "HTML",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:48:48Z",
     "url": "https://github.com/LucasM4r/RepoMind"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 12,
-    "updated_at": "2026-06-19T04:10:03Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -203,17 +230,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6125,
-    "updated_at": "2026-06-19T01:58:22Z",
+    "updated_at": "2026-06-19T04:24:56Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44842,
-    "updated_at": "2026-06-19T01:54:07Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -337,7 +355,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32450,
+    "stars": 32451,
     "updated_at": "2026-06-19T00:22:56Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -373,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 33199,
+    "stars": 33200,
     "updated_at": "2026-06-18T23:44:29Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:35:06Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17903,
-    "updated_at": "2026-06-18T22:09:18Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7747,
-    "updated_at": "2026-06-19T03:20:41Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
