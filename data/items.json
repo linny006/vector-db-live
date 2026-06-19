@@ -1,5 +1,68 @@
 [
   {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1971,
+    "updated_at": "2026-06-19T11:14:56Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
+    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "language": "Python",
+    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:12:09Z",
+    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:11:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-06-19T11:10:05Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6964,
+    "updated_at": "2026-06-19T11:08:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A lightweight bioacoustic search engine to classify European bird songs. Uses MFCC feature extraction with librosa, vect",
+    "id": "cestdove/BioAcoustic-Vector-Search",
+    "language": "Python",
+    "name": "cestdove/BioAcoustic-Vector-Search",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:06:13Z",
+    "url": "https://github.com/cestdove/BioAcoustic-Vector-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T10:55:48Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16351,
-    "updated_at": "2026-06-19T10:31:03Z",
+    "updated_at": "2026-06-19T11:15:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -203,17 +257,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32457,
-    "updated_at": "2026-06-19T10:57:05Z",
+    "updated_at": "2026-06-19T11:12:31Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6964,
-    "updated_at": "2026-06-19T09:35:40Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Rest client for Qdrant vector database",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:16:19Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Enterprise-grade local RAG API assistant backend running on traditional Azure CPU infrastructure. Serves a quantized Lla",
-    "id": "WajihZaman/local-ai-rag-assistant",
-    "language": "Python",
-    "name": "WajihZaman/local-ai-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-19T07:12:33Z",
-    "url": "https://github.com/WajihZaman/local-ai-rag-assistant"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1333,
-    "updated_at": "2026-06-19T07:09:52Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 3,
-    "updated_at": "2026-06-19T07:09:20Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-19T07:05:25Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
-    "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
-    "language": "JavaScript",
-    "name": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:03:35Z",
-    "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
   }
 ]
