@@ -1,5 +1,95 @@
 [
   {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1333,
+    "updated_at": "2026-06-19T18:30:06Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
+    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "language": "JavaScript",
+    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:29:54Z",
+    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-19T18:29:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Vector database with HNSW, KD-Tree, Brute Force search and RAG support using Ollama.",
+    "id": "samvarthika1234-cmd/VectorDB-HNSW-RAG",
+    "language": "C++",
+    "name": "samvarthika1234-cmd/VectorDB-HNSW-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:27:05Z",
+    "url": "https://github.com/samvarthika1234-cmd/VectorDB-HNSW-RAG"
+  },
+  {
+    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
+    "language": "Python",
+    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:23:08Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Project-Navi/ordvec",
+    "language": "Rust",
+    "name": "Project-Navi/ordvec",
+    "stars": 22,
+    "updated_at": "2026-06-19T18:22:17Z",
+    "url": "https://github.com/Project-Navi/ordvec"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32468,
+    "updated_at": "2026-06-19T18:16:07Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An independent Repo-Primer Pipeline that turns Reuven Cohen's (@ruvnet) dense power-tool repos into approachable explain",
+    "id": "stuinfla/Ruv-Explainer",
+    "language": "HTML",
+    "name": "stuinfla/Ruv-Explainer",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:13:07Z",
+    "url": "https://github.com/stuinfla/Ruv-Explainer"
+  },
+  {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -16,33 +106,6 @@
     "stars": 44846,
     "updated_at": "2026-06-19T18:07:21Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
-    "id": "abhay-codes07/Agent-DNA-Transfer",
-    "language": "Python",
-    "name": "abhay-codes07/Agent-DNA-Transfer",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:02:59Z",
-    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -72,15 +135,6 @@
     "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32467,
-    "updated_at": "2026-06-19T18:11:32Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -103,7 +157,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5290,
+    "stars": 5291,
     "updated_at": "2026-06-19T17:49:05Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -121,36 +175,9 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10650,
+    "stars": 10651,
     "updated_at": "2026-06-19T17:40:56Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Fieldnote-Echo/ordvec",
-    "language": "Rust",
-    "name": "Fieldnote-Echo/ordvec",
-    "stars": 22,
-    "updated_at": "2026-06-19T18:11:02Z",
-    "url": "https://github.com/Fieldnote-Echo/ordvec"
-  },
-  {
-    "description": "Vector database with HNSW, KD-Tree, Brute Force search and RAG support using Ollama.",
-    "id": "samvarthika1234-cmd/VectorDB-HNSW-RAG",
-    "language": "C++",
-    "name": "samvarthika1234-cmd/VectorDB-HNSW-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:36:59Z",
-    "url": "https://github.com/samvarthika1234-cmd/VectorDB-HNSW-RAG"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1333,
-    "updated_at": "2026-06-19T17:36:34Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
@@ -169,15 +196,6 @@
     "stars": 9344,
     "updated_at": "2026-06-19T17:31:07Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
-    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "language": "JavaScript",
-    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-06-19T17:24:46Z",
-    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
   },
   {
     "description": "AI-powered HR Knowledge Assistant using RAG and vector databases for context-aware Q&A over HR policies and employee doc",
@@ -211,7 +229,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58191,
+    "stars": 58192,
     "updated_at": "2026-06-19T17:05:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -427,26 +445,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17906,
+    "stars": 17907,
     "updated_at": "2026-06-19T15:10:28Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 91,
-    "updated_at": "2026-06-19T15:35:45Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
-    "id": "amikumar91/ai-systems-engineering",
-    "language": "JavaScript",
-    "name": "amikumar91/ai-systems-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:08:43Z",
-    "url": "https://github.com/amikumar91/ai-systems-engineering"
   }
 ]
