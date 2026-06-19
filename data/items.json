@@ -1,12 +1,30 @@
 [
   {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-06-19T16:28:38Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T16:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 553,
+    "updated_at": "2026-06-19T16:45:17Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Vector_DB_with_LLM",
+    "id": "euiyounghwang/Vector_DB_with_LLM",
+    "language": "Jupyter Notebook",
+    "name": "euiyounghwang/Vector_DB_with_LLM",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:45:14Z",
+    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
   },
   {
     "description": "Take your AI's memory anywhere \u2014 a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "abhay-codes07/Agent-DNA-Transfer",
     "stars": 0,
-    "updated_at": "2026-06-19T16:28:53Z",
+    "updated_at": "2026-06-19T16:42:11Z",
     "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10649,
+    "updated_at": "2026-06-19T16:40:48Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1972,
+    "updated_at": "2026-06-19T16:40:02Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-06-19T16:28:38Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
@@ -41,17 +95,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32465,
-    "updated_at": "2026-06-19T16:28:53Z",
+    "updated_at": "2026-06-19T16:31:06Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1972,
-    "updated_at": "2026-06-19T16:20:44Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -72,24 +117,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -97,15 +124,6 @@
     "stars": 949,
     "updated_at": "2026-06-19T16:10:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 553,
-    "updated_at": "2026-06-19T16:09:16Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
@@ -126,20 +144,11 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10648,
-    "updated_at": "2026-06-19T16:01:02Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16361,
+    "stars": 16362,
     "updated_at": "2026-06-19T15:59:51Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-19T16:09:35Z",
+    "updated_at": "2026-06-19T16:37:36Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "Fieldnote-Echo/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T16:04:18Z",
+    "updated_at": "2026-06-19T16:39:29Z",
     "url": "https://github.com/Fieldnote-Echo/ordvec"
   },
   {
@@ -401,7 +410,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 5,
-    "updated_at": "2026-06-19T14:15:21Z",
+    "updated_at": "2026-06-19T16:33:20Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:46:17Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58189,
-    "updated_at": "2026-06-19T13:45:17Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
