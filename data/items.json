@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:13:32Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 91,
+    "updated_at": "2026-06-19T15:08:45Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
+    "id": "amikumar91/ai-systems-engineering",
+    "language": "JavaScript",
+    "name": "amikumar91/ai-systems-engineering",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:08:43Z",
+    "url": "https://github.com/amikumar91/ai-systems-engineering"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12669,
+    "updated_at": "2026-06-19T15:11:21Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 949,
+    "updated_at": "2026-06-19T15:05:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:00:51Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,22 +99,13 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
-    "id": "amikumar91/ai-systems-engineering",
-    "language": "JavaScript",
-    "name": "amikumar91/ai-systems-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:54:38Z",
-    "url": "https://github.com/amikumar91/ai-systems-engineering"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16360,
+    "updated_at": "2026-06-19T15:09:19Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -95,7 +149,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 1972,
-    "updated_at": "2026-06-19T14:32:40Z",
+    "updated_at": "2026-06-19T15:02:44Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 17905,
-    "updated_at": "2026-06-19T14:35:47Z",
+    "updated_at": "2026-06-19T15:10:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-19T13:45:00Z",
+    "updated_at": "2026-06-19T15:09:58Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 40,
     "updated_at": "2026-06-19T13:58:40Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16359,
-    "updated_at": "2026-06-19T14:44:48Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32463,
-    "updated_at": "2026-06-19T12:37:30Z",
+    "updated_at": "2026-06-19T15:09:51Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T11:49:59Z",
     "url": "https://github.com/crate/langchain-cratedb"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 91,
-    "updated_at": "2026-06-19T14:55:17Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "A graph-first, embedded multi-model database engine",
-    "id": "insanalamin/sekejap",
-    "language": "Rust",
-    "name": "insanalamin/sekejap",
-    "stars": 5,
-    "updated_at": "2026-06-19T11:35:43Z",
-    "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:24:41Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:21:45Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI-powered PDF Question Answering System using RAG, LangChain, ChromaDB, Groq, and Flask.",
-    "id": "sathvik8-agavinti/pdf-rag-system",
-    "language": "HTML",
-    "name": "sathvik8-agavinti/pdf-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:17:30Z",
-    "url": "https://github.com/sathvik8-agavinti/pdf-rag-system"
   }
 ]
