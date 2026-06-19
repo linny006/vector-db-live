@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 05:00 UTC
+> ⏰ Last updated: 2026-06-19 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Roshan3019/research-paper-chatbot-rag](https://github.com/Roshan3019/research-paper-chatbot-rag) | 0 | Python | 2026-06-19 | Research Paper Chat Bot built from scratch using Retrieval-Augmented Generation (RAG), ChromaDB, Hugging Face embeddings |
-| 2 | [SamikshitSharma/Governed-RAG-System](https://github.com/SamikshitSharma/Governed-RAG-System) | 1 | Python | 2026-06-19 | Enterprise governed RAG system with RBAC, trust scoring, and Azure deployment |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 12 | Rust | 2026-06-19 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
 | 3 | [EkleTony/GenAI-Course-Repo](https://github.com/EkleTony/GenAI-Course-Repo) | 1 | Jupyter Notebook | 2026-06-19 | Explore a comprehensive collection of hands-on-tutorials, examples and note from the "Complete GenAI course wth Langchai |
-| 4 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 12 | Rust | 2026-06-19 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 31 | Python | 2026-06-19 | AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite,  |
-| 8 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44842 | Go | 2026-06-19 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 9 | [muonroi/experience-engine](https://github.com/muonroi/experience-engine) | 1 | JavaScript | 2026-06-19 | AI agents that learn from mistakes — not just store facts. Memory shrinks as capability grows. |
+| 4 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 31 | Python | 2026-06-19 | AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite,  |
+| 5 | [muonroi/experience-engine](https://github.com/muonroi/experience-engine) | 1 | JavaScript | 2026-06-19 | AI agents that learn from mistakes — not just store facts. Memory shrinks as capability grows. |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [Roshan3019/research-paper-chatbot-rag](https://github.com/Roshan3019/research-paper-chatbot-rag) | 0 | Python | 2026-06-19 | Research Paper Chat Bot built from scratch using Retrieval-Augmented Generation (RAG), ChromaDB, Hugging Face embeddings |
+| 8 | [SamikshitSharma/Governed-RAG-System](https://github.com/SamikshitSharma/Governed-RAG-System) | 1 | Python | 2026-06-19 | Enterprise governed RAG system with RBAC, trust scoring, and Azure deployment |
+| 9 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44842 | Go | 2026-06-19 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 10 | [kanetiyahet/Knowledge-Assistant](https://github.com/kanetiyahet/Knowledge-Assistant) | 0 | Python | 2026-06-19 | AI-Powered Digital Library & Research Assistant for Gandhian Literature |
 | 11 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 0 | Python | 2026-06-19 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
 | 12 | [engram-os/engram-os](https://github.com/engram-os/engram-os) | 0 | Python | 2026-06-19 | An AI OS architecture emphasizing edge computing with privacy-by-design principles. |
