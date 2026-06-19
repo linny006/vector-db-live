@@ -1,12 +1,48 @@
 [
   {
+    "description": "",
+    "id": "CodNoob100/null-drift",
+    "language": "Python",
+    "name": "CodNoob100/null-drift",
+    "stars": 17,
+    "updated_at": "2026-06-19T06:30:20Z",
+    "url": "https://github.com/CodNoob100/null-drift"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-19T06:15:21Z",
+    "updated_at": "2026-06-19T06:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:22:03Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:18:15Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T06:05:31Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 3,
-    "updated_at": "2026-06-19T05:44:03Z",
+    "updated_at": "2026-06-19T06:18:14Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
@@ -157,7 +184,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44842,
+    "stars": 44843,
     "updated_at": "2026-06-19T04:29:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -373,7 +400,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 61798,
+    "stars": 61797,
     "updated_at": "2026-06-19T01:13:32Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-19T00:32:15Z",
     "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:27:59Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:25:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-06-19T00:44:29Z",
-    "url": "https://github.com/marco-spagn/pcmi"
   }
 ]
