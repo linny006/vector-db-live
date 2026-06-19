@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:39:46Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-06-19T20:39:31Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 34,
     "updated_at": "2026-06-19T20:15:27Z",
     "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -139,7 +157,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44846,
+    "stars": 44845,
     "updated_at": "2026-06-19T19:36:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -238,7 +256,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16364,
+    "stars": 16365,
     "updated_at": "2026-06-19T18:57:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 68,
-    "updated_at": "2026-06-19T19:57:05Z",
+    "updated_at": "2026-06-19T20:40:27Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5292,
-    "updated_at": "2026-06-19T17:49:05Z",
+    "updated_at": "2026-06-19T20:44:04Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 118,
     "updated_at": "2026-06-19T18:43:46Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
-    "id": "srimon12/qql-go",
-    "language": "Go",
-    "name": "srimon12/qql-go",
-    "stars": 2,
-    "updated_at": "2026-06-19T16:25:57Z",
-    "url": "https://github.com/srimon12/qql-go"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:23:08Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   }
 ]
