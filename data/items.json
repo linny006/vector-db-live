@@ -1,12 +1,66 @@
 [
   {
-    "description": "",
-    "id": "CodNoob100/null-drift",
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
     "language": "Python",
-    "name": "CodNoob100/null-drift",
-    "stars": 17,
-    "updated_at": "2026-06-19T06:44:07Z",
-    "url": "https://github.com/CodNoob100/null-drift"
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-19T06:59:21Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
+  },
+  {
+    "description": "Fast vulnerability scanner for AI and ML infrastructure. 218 service fingerprints, 62 deep enumerators.",
+    "id": "nuclide-research/aimap",
+    "language": "Go",
+    "name": "nuclide-research/aimap",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:58:59Z",
+    "url": "https://github.com/nuclide-research/aimap"
+  },
+  {
+    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
+    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "language": "Python",
+    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:58:57Z",
+    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+  },
+  {
+    "description": "Advanced Hybrid RAG application with vector-based conversational memory",
+    "id": "eshaan-eshaan/Hybrid-Rag_Workspace",
+    "language": "Jupyter Notebook",
+    "name": "eshaan-eshaan/Hybrid-Rag_Workspace",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:57:37Z",
+    "url": "https://github.com/eshaan-eshaan/Hybrid-Rag_Workspace"
+  },
+  {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-19T06:57:36Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:56:55Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Technical OSINT Mining Engine. Canonical AI/ML platform corpus: 50 platforms with Shodan dorks at 3 tiers, aimap probe c",
+    "id": "nuclide-research/tome",
+    "language": "Go",
+    "name": "nuclide-research/tome",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:56:13Z",
+    "url": "https://github.com/nuclide-research/tome"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -14,8 +68,35 @@
     "language": "HTML",
     "name": "kanetiyahet/Knowledge-Assistant",
     "stars": 0,
-    "updated_at": "2026-06-19T06:44:01Z",
+    "updated_at": "2026-06-19T07:00:22Z",
     "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T07:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "CodNoob100/null-drift",
+    "language": "Python",
+    "name": "CodNoob100/null-drift",
+    "stars": 17,
+    "updated_at": "2026-06-19T06:44:07Z",
+    "url": "https://github.com/CodNoob100/null-drift"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -52,24 +133,6 @@
     "stars": 196,
     "updated_at": "2026-06-19T06:30:53Z",
     "url": "https://github.com/monkesearch/monkeSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T06:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:51:57Z",
     "url": "https://github.com/EkleTony/GenAI-Course-Repo"
-  },
-  {
-    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-19T06:10:22Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
@@ -220,7 +274,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44843,
+    "stars": 44844,
     "updated_at": "2026-06-19T04:29:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -275,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16348,
-    "updated_at": "2026-06-19T06:36:56Z",
+    "updated_at": "2026-06-19T06:48:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:57:25Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:42:09Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:26:38Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61797,
-    "updated_at": "2026-06-19T01:13:32Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1583,
-    "updated_at": "2026-06-19T01:10:33Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
-    "id": "barateza/mcp-plesk-dev-docs",
-    "language": "Python",
-    "name": "barateza/mcp-plesk-dev-docs",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:04:41Z",
-    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 9,
-    "updated_at": "2026-06-19T00:40:51Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
