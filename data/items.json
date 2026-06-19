@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade local RAG API assistant backend running on traditional Azure CPU infrastructure. Serves a quantized Lla",
+    "id": "WajihZaman/local-ai-rag-assistant",
+    "language": "Python",
+    "name": "WajihZaman/local-ai-rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:26:06Z",
+    "url": "https://github.com/WajihZaman/local-ai-rag-assistant"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-06-19T20:17:04Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 778,
+    "updated_at": "2026-06-19T20:16:41Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 34,
+    "updated_at": "2026-06-19T20:15:27Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
     "id": "Project-Navi/ordvec",
     "language": "Rust",
@@ -25,24 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T20:01:38Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T19:54:03Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 778,
-    "updated_at": "2026-06-19T19:52:51Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -130,7 +157,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10651,
+    "stars": 10652,
     "updated_at": "2026-06-19T19:33:15Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -142,6 +169,15 @@
     "stars": 1,
     "updated_at": "2026-06-19T19:32:41Z",
     "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6128,
+    "updated_at": "2026-06-19T19:27:21Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "The AI search platform",
@@ -274,8 +310,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32469,
-    "updated_at": "2026-06-19T18:16:07Z",
+    "stars": 32468,
+    "updated_at": "2026-06-19T20:26:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -337,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58195,
+    "stars": 58194,
     "updated_at": "2026-06-19T17:05:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T16:23:08Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 949,
-    "updated_at": "2026-06-19T18:09:27Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Enterprise AI Operating System for Sports Analytics using FastAPI, Qdrant, Redis, PostgreSQL, Gemini and LangGraph",
-    "id": "avin2204/Sports-ai-operating-system",
-    "language": "Python",
-    "name": "avin2204/Sports-ai-operating-system",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:06:09Z",
-    "url": "https://github.com/avin2204/Sports-ai-operating-system"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 34,
-    "updated_at": "2026-06-19T15:58:56Z",
-    "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-19T15:53:04Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   }
 ]
