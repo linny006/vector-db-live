@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
+    "id": "Neverdecel/CodeRAG",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Neverdecel/CodeRAG",
+    "stars": 214,
+    "updated_at": "2026-06-19T08:35:55Z",
+    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +14,35 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-19T08:26:27Z",
+    "updated_at": "2026-06-19T08:34:51Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
+    "id": "kanetiyahet/Knowledge-Assistant",
+    "language": "HTML",
+    "name": "kanetiyahet/Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:31:11Z",
+    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -70,15 +97,6 @@
     "stars": 12367,
     "updated_at": "2026-06-19T08:15:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A scanner produces candidates. Verification produces findings. The NuClide AI-infrastructure assessment methodology.",
@@ -180,15 +198,6 @@
     "url": "https://github.com/qdrant/java-client"
   },
   {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "HTML",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:32:26Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:03:35Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Local-first, zero-key semantic code search for large and custom codebases \u2014 hybrid vector + keyword retrieval with symbo",
-    "id": "Neverdecel/CodeRAG",
-    "language": "Python",
-    "name": "Neverdecel/CodeRAG",
-    "stars": 214,
-    "updated_at": "2026-06-19T07:42:57Z",
-    "url": "https://github.com/Neverdecel/CodeRAG"
   },
   {
     "description": "Fast vulnerability scanner for AI and ML infrastructure. 218 service fingerprints, 62 deep enumerators.",
@@ -419,7 +419,7 @@
     "language": "JavaScript",
     "name": "muonroi/experience-engine",
     "stars": 1,
-    "updated_at": "2026-06-19T05:00:36Z",
+    "updated_at": "2026-06-19T08:40:23Z",
     "url": "https://github.com/muonroi/experience-engine"
   },
   {
