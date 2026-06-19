@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 5,
+    "updated_at": "2026-06-19T14:15:21Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1333,
-    "updated_at": "2026-06-19T14:00:05Z",
+    "updated_at": "2026-06-19T14:13:43Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T14:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
@@ -54,24 +81,6 @@
     "url": "https://github.com/slothflowlabs/duckle"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T14:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -95,7 +104,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16359,
-    "updated_at": "2026-06-19T13:40:48Z",
+    "updated_at": "2026-06-19T14:14:26Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Melce-AI/agentic-rag",
     "stars": 3,
-    "updated_at": "2026-06-19T12:15:47Z",
+    "updated_at": "2026-06-19T14:09:17Z",
     "url": "https://github.com/Melce-AI/agentic-rag"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 91,
-    "updated_at": "2026-06-19T13:52:04Z",
+    "updated_at": "2026-06-19T14:02:17Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T10:43:36Z",
     "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing 6\ubd80\uc791 \uc778\ub371\uc2a4 (PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-private-ai-series",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-private-ai-series",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:42:34Z",
-    "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
   }
 ]
