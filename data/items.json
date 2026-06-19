@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 239,
+    "updated_at": "2026-06-19T23:34:10Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T23:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 239,
-    "updated_at": "2026-06-19T23:23:07Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -32,17 +41,8 @@
     "language": "Go",
     "name": "marco-spagn/pcmi",
     "stars": 5,
-    "updated_at": "2026-06-19T23:19:12Z",
+    "updated_at": "2026-06-19T23:45:03Z",
     "url": "https://github.com/marco-spagn/pcmi"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -140,7 +140,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T23:11:00Z",
+    "updated_at": "2026-06-19T23:33:38Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -238,7 +238,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5294,
+    "stars": 5295,
     "updated_at": "2026-06-19T20:44:04Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "djleamen/doc-reader",
     "stars": 3,
-    "updated_at": "2026-06-19T20:17:04Z",
+    "updated_at": "2026-06-19T23:37:20Z",
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
