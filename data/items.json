@@ -1,12 +1,39 @@
 [
   {
-    "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
-    "id": "abhay-codes07/Agent-DNA-Transfer",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-06-19T22:15:03Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
     "stars": 0,
-    "updated_at": "2026-06-19T22:01:33Z",
-    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
+    "updated_at": "2026-06-19T22:06:03Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:03:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T22:00:23Z",
+    "updated_at": "2026-06-19T22:03:07Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Take your AI's memory anywhere - a local-first, portable, git-like memory layer for AI coding agents (MCP-native, $0/off",
+    "id": "abhay-codes07/Agent-DNA-Transfer",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "abhay-codes07/Agent-DNA-Transfer",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:01:33Z",
+    "url": "https://github.com/abhay-codes07/Agent-DNA-Transfer"
   },
   {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-19T21:56:34Z",
+    "updated_at": "2026-06-19T22:05:59Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6964,
-    "updated_at": "2026-06-19T21:21:25Z",
+    "updated_at": "2026-06-19T22:10:14Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:09:31Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:59:11Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "",
@@ -346,7 +364,7 @@
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
-    "stars": 2,
+    "stars": 4,
     "updated_at": "2026-06-19T19:02:18Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
@@ -430,23 +448,5 @@
     "stars": 5292,
     "updated_at": "2026-06-19T20:44:04Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
-    "id": "ChrisGVE/workspace-qdrant-mcp",
-    "language": "Rust",
-    "name": "ChrisGVE/workspace-qdrant-mcp",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:46:44Z",
-    "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 40,
-    "updated_at": "2026-06-19T17:34:44Z",
-    "url": "https://github.com/vector-index-bench/vibe"
   }
 ]
