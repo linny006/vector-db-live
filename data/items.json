@@ -1,11 +1,83 @@
 [
   {
+    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
+    "id": "utkarsh0885/Docmind-AI",
+    "language": "Python",
+    "name": "utkarsh0885/Docmind-AI",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:44:45Z",
+    "url": "https://github.com/utkarsh0885/Docmind-AI"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 5,
+    "updated_at": "2026-06-20T06:44:42Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 561,
+    "updated_at": "2026-06-20T06:44:08Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Vector Knowledge Base - ingest what matters to you and provide it to your models via MCP",
+    "id": "inkiebeard/galactic-vkb",
+    "language": "TypeScript",
+    "name": "inkiebeard/galactic-vkb",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:41:47Z",
+    "url": "https://github.com/inkiebeard/galactic-vkb"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-20T06:40:22Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
+    "id": "OmidGheysar/epi-rag",
+    "language": "Python",
+    "name": "OmidGheysar/epi-rag",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:38:45Z",
+    "url": "https://github.com/OmidGheysar/epi-rag"
+  },
+  {
+    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
+    "id": "chrisleekr/langchain-playground",
+    "language": "TypeScript",
+    "name": "chrisleekr/langchain-playground",
+    "stars": 5,
+    "updated_at": "2026-06-20T06:36:43Z",
+    "url": "https://github.com/chrisleekr/langchain-playground"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T06:30:19Z",
+    "updated_at": "2026-06-20T06:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,24 +90,6 @@
     "url": "https://github.com/furkandogmus/kuberag"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 561,
-    "updated_at": "2026-06-20T06:26:46Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
-    "id": "utkarsh0885/Docmind-AI",
-    "language": "TypeScript",
-    "name": "utkarsh0885/Docmind-AI",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:21:12Z",
-    "url": "https://github.com/utkarsh0885/Docmind-AI"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 73,
     "updated_at": "2026-06-20T06:18:46Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
@@ -88,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-06-20T06:05:54Z",
     "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
-    "id": "OmidGheysar/epi-rag",
-    "language": "Python",
-    "name": "OmidGheysar/epi-rag",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:42:35Z",
-    "url": "https://github.com/OmidGheysar/epi-rag"
   },
   {
     "description": "RAG-powered Document QA Bot using Gemini, ChromaDB, and Sentence Transformers. Ask questions from PDFs and get source-ci",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:12:46Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-20T06:08:38Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:36:16Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "SurrealDB APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:34:42Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1359,
-    "updated_at": "2026-06-20T02:56:48Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:29:37Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
   }
 ]
