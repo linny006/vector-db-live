@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 07:15 UTC
+> ⏰ Last updated: 2026-06-20 07:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [pragathijp/DocQuest_AI](https://github.com/pragathijp/DocQuest_AI) | 0 | Python | 2026-06-20 | AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R |
-| 3 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 39 | Rust | 2026-06-20 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
-| 4 | [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) | 561 | Rust | 2026-06-20 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
-| 5 | [utkarsh0885/Docmind-AI](https://github.com/utkarsh0885/Docmind-AI) | 0 | Python | 2026-06-20 | DocMind AI – Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do |
-| 6 | [hejun789/docintel](https://github.com/hejun789/docintel) | 1 | Python | 2026-06-20 | RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) — grounded answers with page-level cit |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 9 | [Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG](https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG) | 1 | JavaScript | 2026-06-20 | An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD |
-| 10 | [Abhishek-Das1121/DocuBuddy](https://github.com/Abhishek-Das1121/DocuBuddy) | 0 | Python | 2026-06-20 | Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5,  |
-| 11 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-20 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
-| 12 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 5 | Rust | 2026-06-20 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
-| 13 | [inkiebeard/galactic-vkb](https://github.com/inkiebeard/galactic-vkb) | 0 | TypeScript | 2026-06-20 | Vector Knowledge Base - ingest what matters to you and provide it to your models via MCP |
-| 14 | [OmidGheysar/epi-rag](https://github.com/OmidGheysar/epi-rag) | 0 | Python | 2026-06-20 | Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend |
-| 15 | [chrisleekr/langchain-playground](https://github.com/chrisleekr/langchain-playground) | 5 | TypeScript | 2026-06-20 | A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re |
-| 16 | [furkandogmus/kuberag](https://github.com/furkandogmus/kuberag) | 0 | Go | 2026-06-20 | Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st |
-| 17 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-20 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 18 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 1972 | PHP | 2026-06-20 | The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, |
-| 19 | [pavanbadempet/Movie-Recommendation-System](https://github.com/pavanbadempet/Movie-Recommendation-System) | 8 | Python | 2026-06-20 | Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F |
+| 1 | [utkarsh0885/Docmind-AI](https://github.com/utkarsh0885/Docmind-AI) | 0 | Python | 2026-06-20 | DocMind AI – Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do |
+| 2 | [pavanbadempet/Movie-Recommendation-System](https://github.com/pavanbadempet/Movie-Recommendation-System) | 8 | Python | 2026-06-20 | Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [pragathijp/DocQuest_AI](https://github.com/pragathijp/DocQuest_AI) | 0 | Python | 2026-06-20 | AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R |
+| 6 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 39 | Rust | 2026-06-20 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
+| 7 | [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) | 562 | Rust | 2026-06-20 | Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt |
+| 8 | [hejun789/docintel](https://github.com/hejun789/docintel) | 1 | Python | 2026-06-20 | RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) — grounded answers with page-level cit |
+| 9 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-06-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 10 | [Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG](https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG) | 1 | JavaScript | 2026-06-20 | An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD |
+| 11 | [Abhishek-Das1121/DocuBuddy](https://github.com/Abhishek-Das1121/DocuBuddy) | 0 | Python | 2026-06-20 | Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5,  |
+| 12 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-20 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
+| 13 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 5 | Rust | 2026-06-20 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
+| 14 | [inkiebeard/galactic-vkb](https://github.com/inkiebeard/galactic-vkb) | 0 | TypeScript | 2026-06-20 | Vector Knowledge Base - ingest what matters to you and provide it to your models via MCP |
+| 15 | [OmidGheysar/epi-rag](https://github.com/OmidGheysar/epi-rag) | 0 | Python | 2026-06-20 | Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend |
+| 16 | [chrisleekr/langchain-playground](https://github.com/chrisleekr/langchain-playground) | 5 | TypeScript | 2026-06-20 | A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re |
+| 17 | [furkandogmus/kuberag](https://github.com/furkandogmus/kuberag) | 0 | Go | 2026-06-20 | Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st |
+| 18 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-20 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 19 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 1972 | PHP | 2026-06-20 | The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, |
 | 20 | [Nikhil-Donthusaram/document_qa_bot](https://github.com/Nikhil-Donthusaram/document_qa_bot) | 0 | Python | 2026-06-20 | RAG-powered Document QA Bot using Gemini, ChromaDB, and Sentence Transformers. Ask questions from PDFs and get source-ci |
 | 21 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 121 | C# | 2026-06-20 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
 | 22 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 950 | Java | 2026-06-20 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
