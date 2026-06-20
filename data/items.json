@@ -1,11 +1,83 @@
 [
   {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-20T11:26:35Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
+    "id": "Sakushi-Dev/nexus_memory",
+    "language": "Python",
+    "name": "Sakushi-Dev/nexus_memory",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:21:00Z",
+    "url": "https://github.com/Sakushi-Dev/nexus_memory"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 5,
+    "updated_at": "2026-06-20T11:20:50Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
+    "id": "shlokkvaishnav/Distributed-Nano-DB",
+    "language": "C++",
+    "name": "shlokkvaishnav/Distributed-Nano-DB",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:19:35Z",
+    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:17:41Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9345,
+    "updated_at": "2026-06-20T11:16:45Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-20T11:15:24Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T11:15:21Z",
+    "updated_at": "2026-06-20T11:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +90,6 @@
     "url": "https://github.com/rahimahgilani/pdf-chatbox"
   },
   {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/Distributed-Nano-DB",
-    "language": "C++",
-    "name": "shlokkvaishnav/Distributed-Nano-DB",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:05:57Z",
-    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
-  },
-  {
     "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
     "id": "AK-Jeevan/production-rag-system",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T11:03:55Z",
     "url": "https://github.com/AK-Jeevan/production-rag-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:48:49Z",
     "url": "https://github.com/pragathijp/DocQuest_AI"
-  },
-  {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-20T10:48:38Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
     "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
@@ -139,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18030,
+    "stars": 18041,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 69,
-    "updated_at": "2026-06-20T09:46:11Z",
+    "updated_at": "2026-06-20T11:30:13Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -229,7 +274,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16373,
+    "stars": 16374,
     "updated_at": "2026-06-20T09:35:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -313,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T08:55:23Z",
     "url": "https://github.com/Nav33dCodes/smartLearn-AI"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:54:19Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T08:01:54Z",
     "url": "https://github.com/NeonSalamander/waagh"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-20T07:32:35Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-20T07:28:22Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 39,
-    "updated_at": "2026-06-20T07:38:12Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Production-ready Enterprise RAG Chatbot leveraging LangChain, advanced document indexing, and semantic search retrieval.",
-    "id": "Eleven-hash/Enterprise-RAG-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "Eleven-hash/Enterprise-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:09:37Z",
-    "url": "https://github.com/Eleven-hash/Enterprise-RAG-Chatbot"
   }
 ]
