@@ -1,19 +1,91 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
     "id": "dejan3dejan/langgraph-travel-agent",
     "language": "Python",
     "name": "dejan3dejan/langgraph-travel-agent",
     "stars": 1,
-    "updated_at": "2026-06-20T09:14:56Z",
+    "updated_at": "2026-06-20T09:29:01Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:23:40Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T09:21:44Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Agentic RAG Assistant with intelligent routing across Vector Search, SQL Databases, Web Search, and LLM-powered reasonin",
+    "id": "Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-",
+    "language": "Python",
+    "name": "Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:18:22Z",
+    "url": "https://github.com/Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:17:39Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T09:18:51Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A RAG-powered Flipkart shopping assistant built with LangChain, AstraDB, Groq LLaMA 3.3 70B, and Flask. Ask natural lang",
+    "id": "Nikkiraj4/flipkart-chatbot",
+    "language": "Python",
+    "name": "Nikkiraj4/flipkart-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:14:51Z",
+    "url": "https://github.com/Nikkiraj4/flipkart-chatbot"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17956,
+    "stars": 17971,
     "updated_at": "2026-06-20T09:10:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -25,33 +97,6 @@
     "stars": 11,
     "updated_at": "2026-06-20T09:06:39Z",
     "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T09:15:13Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:57:33Z",
     "url": "https://github.com/pragathijp/DocQuest_AI"
-  },
-  {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:57:17Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -387,15 +423,6 @@
     "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:15:58Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "From-scratch HNSW approximate-nearest-neighbor index in pure Python + NumPy \u2014 the algorithm behind vector databases, wit",
     "id": "Hritikd/warren",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 780,
     "updated_at": "2026-06-20T04:20:35Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc",
-    "id": "yuliu625/Yu-RAG-Toolkit",
-    "language": "Python",
-    "name": "yuliu625/Yu-RAG-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:01:14Z",
-    "url": "https://github.com/yuliu625/Yu-RAG-Toolkit"
-  },
-  {
-    "description": "Ruby bindings for the Lance columnar data format. Built on the Lance Rust crate, Lancelot brings high-performance vector",
-    "id": "scientist-labs/lancelot",
-    "language": "Ruby",
-    "name": "scientist-labs/lancelot",
-    "stars": 7,
-    "updated_at": "2026-06-20T03:58:45Z",
-    "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-06-20T03:27:11Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
