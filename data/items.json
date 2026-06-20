@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T02:00:20Z",
+    "updated_at": "2026-06-20T02:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
@@ -16,15 +25,6 @@
     "stars": 11,
     "updated_at": "2026-06-20T01:58:20Z",
     "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T01:35:40Z",
+    "updated_at": "2026-06-20T02:02:22Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-20T01:39:10Z",
+    "updated_at": "2026-06-20T02:13:05Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6131,
-    "updated_at": "2026-06-20T00:44:15Z",
+    "updated_at": "2026-06-20T02:04:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-20T01:46:09Z",
+    "updated_at": "2026-06-20T02:05:42Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -369,6 +369,15 @@
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17911,
+    "updated_at": "2026-06-19T23:52:03Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T21:53:40Z",
     "url": "https://github.com/srimon12/qql-go"
-  },
-  {
-    "description": "Vector_DB_with_LLM",
-    "id": "euiyounghwang/Vector_DB_with_LLM",
-    "language": "Jupyter Notebook",
-    "name": "euiyounghwang/Vector_DB_with_LLM",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:52:19Z",
-    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
   }
 ]
