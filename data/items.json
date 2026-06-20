@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T19:45:19Z",
+    "updated_at": "2026-06-20T20:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:54:54Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-06-20T19:50:42Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 7,
+    "updated_at": "2026-06-20T19:49:13Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:47:01Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -18,6 +63,15 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18274,
+    "updated_at": "2026-06-20T19:44:56Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
@@ -25,6 +79,15 @@
     "stars": 6,
     "updated_at": "2026-06-20T19:44:34Z",
     "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32492,
+    "updated_at": "2026-06-20T19:44:04Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -36,24 +99,6 @@
     "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:33:38Z",
-    "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18269,
-    "updated_at": "2026-06-20T19:44:56Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
     "id": "pavanbadempet/Movie-Recommendation-System",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-06-20T19:30:26Z",
     "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
@@ -126,15 +162,6 @@
     "url": "https://github.com/thanhdp1305/171305-cowork"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32491,
-    "updated_at": "2026-06-20T19:44:04Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:31:32Z",
     "url": "https://github.com/nakul85/DocumentGPT-Pro"
-  },
-  {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 7,
-    "updated_at": "2026-06-20T18:22:14Z",
-    "url": "https://github.com/nram-ai/nram"
   },
   {
     "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
@@ -430,23 +448,5 @@
     "stars": 24,
     "updated_at": "2026-06-20T15:35:22Z",
     "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
-    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
-    "id": "MRupam202005/rag-codebase-explainer",
-    "language": "JavaScript",
-    "name": "MRupam202005/rag-codebase-explainer",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:32:34Z",
-    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58205,
-    "updated_at": "2026-06-20T15:26:40Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
