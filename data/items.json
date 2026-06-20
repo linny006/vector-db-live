@@ -1,12 +1,39 @@
 [
   {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:45:10Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 371,
-    "updated_at": "2026-06-20T04:27:50Z",
+    "updated_at": "2026-06-20T04:38:56Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -16,33 +43,6 @@
     "stars": 779,
     "updated_at": "2026-06-20T04:20:35Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:11:24Z",
-    "url": "https://github.com/furkandogmus/kuberag"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-20T04:12:51Z",
+    "updated_at": "2026-06-20T04:42:35Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
