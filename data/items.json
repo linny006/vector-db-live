@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Platform for all the information you want for any anime",
+    "id": "Eyepatch5263/Anima",
+    "language": "TypeScript",
+    "name": "Eyepatch5263/Anima",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:28:54Z",
+    "url": "https://github.com/Eyepatch5263/Anima"
+  },
+  {
+    "description": "Text embeddings and reranking for Swift \u2014 one protocol, providers for Voyage, Jina, Cohere, and OpenAI. No dependencies,",
+    "id": "Dean151/swift-embeddings",
+    "language": "Swift",
+    "name": "Dean151/swift-embeddings",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:26:40Z",
+    "url": "https://github.com/Dean151/swift-embeddings"
+  },
+  {
+    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
+    "id": "pragathijp/DocQuest_AI",
+    "language": "Python",
+    "name": "pragathijp/DocQuest_AI",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:25:40Z",
+    "url": "https://github.com/pragathijp/DocQuest_AI"
+  },
+  {
+    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
+    "id": "rahimahgilani/pdf-chatbox",
+    "language": "JavaScript",
+    "name": "rahimahgilani/pdf-chatbox",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:24:58Z",
+    "url": "https://github.com/rahimahgilani/pdf-chatbox"
+  },
+  {
+    "description": "AI Chatbot with RAG (LangChain + Groq + FAISS + Streamlit). Supports PDF upload, contextual Q&A, and real-time streaming",
+    "id": "bharathkumargorre/ai-chatbot-langchain",
+    "language": "Python",
+    "name": "bharathkumargorre/ai-chatbot-langchain",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:22:20Z",
+    "url": "https://github.com/bharathkumargorre/ai-chatbot-langchain"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 564,
+    "updated_at": "2026-06-20T10:21:31Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18007,
+    "updated_at": "2026-06-20T10:19:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:16:49Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
     "id": "Abhishek-Das1121/DocuBuddy",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:13:11Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "AI Chatbot with RAG (LangChain + Groq + FAISS + Streamlit). Supports PDF upload, contextual Q&A, and real-time streaming",
-    "id": "bharathkumargorre/ai-chatbot-langchain",
-    "language": "Python",
-    "name": "bharathkumargorre/ai-chatbot-langchain",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:13:04Z",
-    "url": "https://github.com/bharathkumargorre/ai-chatbot-langchain"
   },
   {
     "description": "Your Very Own Agent: The Ultimate, Complete Edition",
@@ -45,15 +126,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
-    "id": "pragathijp/DocQuest_AI",
-    "language": "Python",
-    "name": "pragathijp/DocQuest_AI",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:06:00Z",
-    "url": "https://github.com/pragathijp/DocQuest_AI"
-  },
-  {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
     "id": "sunormesky-max/epicode",
     "language": "Rust",
@@ -61,42 +133,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T10:05:52Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17997,
-    "updated_at": "2026-06-20T10:05:16Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T10:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:59:47Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -369,15 +405,6 @@
     "url": "https://github.com/rustic-ai/uni-db"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 564,
-    "updated_at": "2026-06-20T07:12:56Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
     "description": "Production-ready Enterprise RAG Chatbot leveraging LangChain, advanced document indexing, and semantic search retrieval.",
     "id": "Eleven-hash/Enterprise-RAG-Chatbot",
     "language": "Jupyter Notebook",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:41:47Z",
     "url": "https://github.com/inkiebeard/galactic-vkb"
-  },
-  {
-    "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
-    "id": "OmidGheysar/epi-rag",
-    "language": "Python",
-    "name": "OmidGheysar/epi-rag",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:38:45Z",
-    "url": "https://github.com/OmidGheysar/epi-rag"
-  },
-  {
-    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
-    "id": "chrisleekr/langchain-playground",
-    "language": "TypeScript",
-    "name": "chrisleekr/langchain-playground",
-    "stars": 5,
-    "updated_at": "2026-06-20T06:36:43Z",
-    "url": "https://github.com/chrisleekr/langchain-playground"
-  },
-  {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:27:00Z",
-    "url": "https://github.com/furkandogmus/kuberag"
   }
 ]
