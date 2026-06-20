@@ -1,57 +1,57 @@
 [
   {
-    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
-    "id": "AlayaDB-AI/AlayaLite",
-    "language": "C++",
-    "name": "AlayaDB-AI/AlayaLite",
-    "stars": 208,
-    "updated_at": "2026-06-20T15:59:31Z",
-    "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-06-20T15:57:34Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T16:13:59Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18191,
-    "updated_at": "2026-06-20T15:59:50Z",
+    "stars": 18196,
+    "updated_at": "2026-06-20T16:12:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:49:33Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T15:51:13Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
-    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
     "language": "Python",
-    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:45:32Z",
-    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-20T16:12:42Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-20T16:09:36Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
+    "id": "1Vewton/WikiSpider",
+    "language": "Go",
+    "name": "1Vewton/WikiSpider",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:03:39Z",
+    "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 208,
+    "updated_at": "2026-06-20T16:02:05Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-20T15:45:24Z",
+    "updated_at": "2026-06-20T16:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -72,12 +72,30 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-20T15:57:34Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:49:33Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
     "id": "schwichtgit/ai-resume",
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-06-20T15:44:34Z",
+    "updated_at": "2026-06-20T16:10:31Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 371,
     "updated_at": "2026-06-20T15:33:45Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-20T15:33:44Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
   },
   {
     "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T14:58:55Z",
     "url": "https://github.com/hejun789/docintel"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-20T15:32:43Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "",
@@ -295,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T14:03:55Z",
     "url": "https://github.com/Sakushi-Dev/nexus_memory"
-  },
-  {
-    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
-    "id": "1Vewton/WikiSpider",
-    "language": "Go",
-    "name": "1Vewton/WikiSpider",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:02:56Z",
-    "url": "https://github.com/1Vewton/WikiSpider"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:11:20Z",
     "url": "https://github.com/derinworks/penr-oz-agent-memory-rust"
+  },
+  {
+    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
+    "id": "theo-ai-lab/ai-career-coach",
+    "language": "TypeScript",
+    "name": "theo-ai-lab/ai-career-coach",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:15:51Z",
+    "url": "https://github.com/theo-ai-lab/ai-career-coach"
   }
 ]
