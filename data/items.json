@@ -1,21 +1,84 @@
 [
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T16:13:59Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Research Assistant built with Next.js, FastAPI, and Gemini. Supports multi-document RAG, streaming responses (SSE), a",
+    "id": "Chemini-Gamage/AI-Research-Assistant",
+    "language": "TypeScript",
+    "name": "Chemini-Gamage/AI-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:28:16Z",
+    "url": "https://github.com/Chemini-Gamage/AI-Research-Assistant"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 118,
+    "updated_at": "2026-06-20T16:26:47Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 208,
+    "updated_at": "2026-06-20T16:22:20Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:20:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:16:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18196,
-    "updated_at": "2026-06-20T16:12:51Z",
+    "stars": 18200,
+    "updated_at": "2026-06-20T16:16:05Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T16:23:30Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-20T16:09:36Z",
+    "updated_at": "2026-06-20T16:29:53Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -43,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:03:39Z",
     "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
-    "id": "AlayaDB-AI/AlayaLite",
-    "language": "C++",
-    "name": "AlayaDB-AI/AlayaLite",
-    "stars": 208,
-    "updated_at": "2026-06-20T16:02:05Z",
-    "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T16:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-06-20T16:10:31Z",
+    "updated_at": "2026-06-20T16:28:21Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -153,6 +189,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58203,
+    "updated_at": "2026-06-20T15:26:40Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "A AI native event driven code reviewer for your multi-language codebases",
     "id": "pirjademl/vento-bot",
     "language": "Go",
@@ -207,15 +252,6 @@
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
-    "description": "AI Research Assistant built with Next.js, FastAPI, and Gemini. Supports multi-document RAG, streaming responses (SSE), a",
-    "id": "Chemini-Gamage/AI-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Chemini-Gamage/AI-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:51:05Z",
-    "url": "https://github.com/Chemini-Gamage/AI-Research-Assistant"
-  },
-  {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
     "id": "dejan3dejan/langgraph-travel-agent",
     "language": "Python",
@@ -252,15 +288,6 @@
     "url": "https://github.com/scientist-labs/lancelot"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:16:48Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T14:03:55Z",
     "url": "https://github.com/Sakushi-Dev/nexus_memory"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:01:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-20T12:18:26Z",
     "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Implementation of Agent memory vector store proxy written in Rust",
-    "id": "derinworks/penr-oz-agent-memory-rust",
-    "language": "Rust",
-    "name": "derinworks/penr-oz-agent-memory-rust",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:11:20Z",
-    "url": "https://github.com/derinworks/penr-oz-agent-memory-rust"
-  },
-  {
-    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
-    "id": "theo-ai-lab/ai-career-coach",
-    "language": "TypeScript",
-    "name": "theo-ai-lab/ai-career-coach",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:15:51Z",
-    "url": "https://github.com/theo-ai-lab/ai-career-coach"
   }
 ]
