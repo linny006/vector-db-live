@@ -1,12 +1,21 @@
 [
   {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
+    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
+    "id": "utkarsh0885/Docmind-AI",
+    "language": "TypeScript",
+    "name": "utkarsh0885/Docmind-AI",
     "stars": 0,
-    "updated_at": "2026-06-20T05:28:15Z",
-    "url": "https://github.com/furkandogmus/kuberag"
+    "updated_at": "2026-06-20T05:43:08Z",
+    "url": "https://github.com/utkarsh0885/Docmind-AI"
+  },
+  {
+    "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
+    "id": "OmidGheysar/epi-rag",
+    "language": "Python",
+    "name": "OmidGheysar/epi-rag",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:42:35Z",
+    "url": "https://github.com/OmidGheysar/epi-rag"
   },
   {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
@@ -14,8 +23,53 @@
     "language": "Rust",
     "name": "slothflowlabs/duckle",
     "stars": 561,
-    "updated_at": "2026-06-20T05:24:36Z",
+    "updated_at": "2026-06-20T05:37:31Z",
     "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 121,
+    "updated_at": "2026-06-20T05:36:19Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 950,
+    "updated_at": "2026-06-20T05:31:35Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T05:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:28:15Z",
+    "url": "https://github.com/furkandogmus/kuberag"
   },
   {
     "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:15:58Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "From-scratch HNSW approximate-nearest-neighbor index in pure Python + NumPy \u2014 the algorithm behind vector databases, wit",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:16:42Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
-    "id": "PWDevens/fedacq-rag-chatbot",
-    "language": "Python",
-    "name": "PWDevens/fedacq-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:11:04Z",
-    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
-  },
-  {
-    "description": "Text embeddings and reranking for Swift \u2014 one protocol, providers for Voyage, Jina, Cohere, and OpenAI. No dependencies,",
-    "id": "Dean151/swift-embeddings",
-    "language": "Swift",
-    "name": "Dean151/swift-embeddings",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:05:43Z",
-    "url": "https://github.com/Dean151/swift-embeddings"
-  },
-  {
-    "description": "API and integration profile for Azure Cosmos DB.",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:04:37Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "API and integration profile for Aerospike.",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:03:07Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
