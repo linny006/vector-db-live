@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T13:00:19Z",
+    "updated_at": "2026-06-20T13:12:15Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
+    "id": "ROHITCRAFTSYT/Loco-RAG",
+    "language": "Python",
+    "name": "ROHITCRAFTSYT/Loco-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:11:35Z",
+    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
+  },
+  {
+    "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
+    "id": "Sakushi-Dev/nexus_memory",
+    "language": "Python",
+    "name": "Sakushi-Dev/nexus_memory",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:08:42Z",
+    "url": "https://github.com/Sakushi-Dev/nexus_memory"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 6,
+    "updated_at": "2026-06-20T13:06:00Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32483,
+    "updated_at": "2026-06-20T13:05:31Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A AI native event driven code reviewer for your multi-language codebases",
@@ -14,8 +50,17 @@
     "language": "Go",
     "name": "pirjademl/vento-bot",
     "stars": 0,
-    "updated_at": "2026-06-20T12:58:30Z",
+    "updated_at": "2026-06-20T13:03:00Z",
     "url": "https://github.com/pirjademl/vento-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "KonNik88/ml-research-radar",
     "stars": 0,
-    "updated_at": "2026-06-20T12:54:17Z",
+    "updated_at": "2026-06-20T13:10:44Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 69,
-    "updated_at": "2026-06-20T12:49:14Z",
+    "updated_at": "2026-06-20T13:11:46Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32482,
-    "updated_at": "2026-06-20T12:28:06Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
     "id": "hejun789/docintel",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T11:44:41Z",
     "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
-    "id": "Sakushi-Dev/nexus_memory",
-    "language": "Python",
-    "name": "Sakushi-Dev/nexus_memory",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:41:29Z",
-    "url": "https://github.com/Sakushi-Dev/nexus_memory"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -355,7 +373,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 566,
+    "stars": 567,
     "updated_at": "2026-06-20T10:21:31Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -364,7 +382,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18092,
+    "stars": 18099,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T09:29:01Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "Agentic RAG Assistant with intelligent routing across Vector Search, SQL Databases, Web Search, and LLM-powered reasonin",
-    "id": "Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-",
-    "language": "Python",
-    "name": "Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:18:22Z",
-    "url": "https://github.com/Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T09:18:51Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
