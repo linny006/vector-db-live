@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 03:30 UTC
+> ⏰ Last updated: 2026-06-20 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-20 | Identity and Authorization Service with Vector and AI Integration |
-| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44849 | Go | 2026-06-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 4 | [Buffden/rag-document-engine](https://github.com/Buffden/rag-document-engine) | 1 | Python | 2026-06-20 |  A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-06-20 | Identity and Authorization Service with Vector and AI Integration |
+| 4 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 44849 | Go | 2026-06-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 5 | [Buffden/rag-document-engine](https://github.com/Buffden/rag-document-engine) | 1 | Python | 2026-06-20 |  A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int |
 | 6 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 1 | Python | 2026-06-20 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
 | 7 | [Project-Navi/ordvec](https://github.com/Project-Navi/ordvec) | 22 | Rust | 2026-06-20 | Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P |
 | 8 | [furkandogmus/kuberag](https://github.com/furkandogmus/kuberag) | 0 | Go | 2026-06-20 | Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 5 | PHP | 2026-06-20 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
 | 13 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-20 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
 | 14 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-20 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
-| 15 | [sazFreelancer/ai-rag-platform-blueprint](https://github.com/sazFreelancer/ai-rag-platform-blueprint) | 0 | Python | 2026-06-20 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
+| 15 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-06-20 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
 | 16 | [kanikapitaliya/rag-data-engineering-assistant](https://github.com/kanikapitaliya/rag-data-engineering-assistant) | 0 | Python | 2026-06-20 | RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Ollama, and Python. |
 | 17 | [barateza/mcp-plesk-dev-docs](https://github.com/barateza/mcp-plesk-dev-docs) | 0 | Python | 2026-06-20 | A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer |
 | 18 | [konjoai/vectro](https://github.com/konjoai/vectro) | 11 | Rust | 2026-06-20 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
