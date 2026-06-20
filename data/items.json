@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T12:45:20Z",
+    "updated_at": "2026-06-20T13:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T12:44:27Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "description": "A AI native event driven code reviewer for your multi-language codebases",
+    "id": "pirjademl/vento-bot",
+    "language": "Go",
+    "name": "pirjademl/vento-bot",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:58:30Z",
+    "url": "https://github.com/pirjademl/vento-bot"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 7,
+    "updated_at": "2026-06-20T12:56:42Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6964,
+    "updated_at": "2026-06-20T12:55:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "KonNik88/ml-research-radar",
     "stars": 0,
-    "updated_at": "2026-06-20T12:39:36Z",
+    "updated_at": "2026-06-20T12:54:17Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T12:49:14Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Explore history through AI. Planet Atlas combines semantic search, vector embeddings, and large language models to deliv",
@@ -43,15 +79,6 @@
     "stars": 22,
     "updated_at": "2026-06-20T12:35:59Z",
     "url": "https://github.com/MrPeker/turbopuffer-gui"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
@@ -328,7 +355,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 565,
+    "stars": 566,
     "updated_at": "2026-06-20T10:21:31Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -337,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18088,
+    "stars": 18092,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-20T09:18:51Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "A RAG-powered Flipkart shopping assistant built with LangChain, AstraDB, Groq LLaMA 3.3 70B, and Flask. Ask natural lang",
-    "id": "Nikkiraj4/flipkart-chatbot",
-    "language": "Python",
-    "name": "Nikkiraj4/flipkart-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:14:51Z",
-    "url": "https://github.com/Nikkiraj4/flipkart-chatbot"
-  },
-  {
-    "description": "Open source, all-in-one semantic search engine for AI and humans",
-    "id": "tanaos/cognitor",
-    "language": "Python",
-    "name": "tanaos/cognitor",
-    "stars": 11,
-    "updated_at": "2026-06-20T09:06:39Z",
-    "url": "https://github.com/tanaos/cognitor"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 951,
-    "updated_at": "2026-06-20T09:04:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
