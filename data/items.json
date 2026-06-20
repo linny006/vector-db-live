@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T15:00:21Z",
+    "updated_at": "2026-06-20T15:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-20T15:13:47Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-20T15:12:01Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 5,
+    "updated_at": "2026-06-20T15:03:38Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-06-20T14:52:33Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
     "description": "AI Research Assistant built with Next.js, FastAPI, and Gemini. Supports multi-document RAG, streaming responses (SSE), a",
     "id": "Chemini-Gamage/AI-Research-Assistant",
     "language": "TypeScript",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T14:51:05Z",
     "url": "https://github.com/Chemini-Gamage/AI-Research-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-06-20T14:59:42Z",
+    "updated_at": "2026-06-20T15:14:15Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -166,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18163,
+    "stars": 18169,
     "updated_at": "2026-06-20T14:15:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -247,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32485,
+    "stars": 32486,
     "updated_at": "2026-06-20T13:34:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-20T11:44:41Z",
     "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-20T14:50:32Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9345,
-    "updated_at": "2026-06-20T13:20:34Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
