@@ -1,12 +1,21 @@
 [
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
     "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:59:52Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:14:02Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Project-Navi/ordvec",
+    "language": "Rust",
+    "name": "Project-Navi/ordvec",
+    "stars": 22,
+    "updated_at": "2026-06-20T03:10:29Z",
+    "url": "https://github.com/Project-Navi/ordvec"
   },
   {
     "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
@@ -14,8 +23,35 @@
     "language": "Go",
     "name": "furkandogmus/kuberag",
     "stars": 0,
-    "updated_at": "2026-06-20T02:59:54Z",
+    "updated_at": "2026-06-20T03:05:58Z",
     "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:59:52Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -34,24 +70,6 @@
     "stars": 7,
     "updated_at": "2026-06-20T02:52:46Z",
     "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T02:37:12Z",
     "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Project-Navi/ordvec",
-    "language": "Rust",
-    "name": "Project-Navi/ordvec",
-    "stars": 22,
-    "updated_at": "2026-06-20T02:58:51Z",
-    "url": "https://github.com/Project-Navi/ordvec"
   },
   {
     "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
@@ -292,7 +301,7 @@
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
-    "stars": 778,
+    "stars": 779,
     "updated_at": "2026-06-20T01:16:38Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
@@ -439,14 +448,5 @@
     "stars": 239,
     "updated_at": "2026-06-19T23:53:18Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 17913,
-    "updated_at": "2026-06-19T23:52:03Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
