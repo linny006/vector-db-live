@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T22:15:18Z",
+    "updated_at": "2026-06-20T22:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
+    "id": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
+    "language": "HTML",
+    "name": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:26:12Z",
+    "url": "https://github.com/abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence"
+  },
+  {
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:24:18Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
@@ -27,6 +54,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:26:29Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -36,13 +72,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 18291,
+    "updated_at": "2026-06-20T22:18:06Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-20T21:57:10Z",
+    "updated_at": "2026-06-20T22:30:17Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T22:10:52Z",
+    "updated_at": "2026-06-20T22:26:29Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T21:28:58Z",
     "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18290,
-    "updated_at": "2026-06-20T21:58:05Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:49:23Z",
     "url": "https://github.com/beawesome8/Recurring-research-agent"
+  },
+  {
+    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, private by default",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 17,
+    "updated_at": "2026-06-20T20:36:47Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-20T21:55:25Z",
+    "updated_at": "2026-06-20T22:28:47Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:00:53Z",
     "url": "https://github.com/Anujzdv/RAG-PDF-ChatBot"
-  },
-  {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, private by default",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 16,
-    "updated_at": "2026-06-20T20:36:47Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:40:40Z",
     "url": "https://github.com/vishwajitvm/PolicyBot"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 953,
-    "updated_at": "2026-06-20T16:39:45Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
-    "id": "marinoalfonso/open-pertosa",
-    "language": "Python",
-    "name": "marinoalfonso/open-pertosa",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:33:49Z",
-    "url": "https://github.com/marinoalfonso/open-pertosa"
-  },
-  {
-    "description": "AI Research Assistant built with Next.js, FastAPI, and Gemini. Supports multi-document RAG, streaming responses (SSE), a",
-    "id": "Chemini-Gamage/AI-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Chemini-Gamage/AI-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:28:16Z",
-    "url": "https://github.com/Chemini-Gamage/AI-Research-Assistant"
   }
 ]
