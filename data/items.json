@@ -1,11 +1,56 @@
 [
   {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:28:15Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 561,
+    "updated_at": "2026-06-20T05:24:36Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
+    "id": "Ardem2025/mem0-temporal-hygiene",
+    "language": "Python",
+    "name": "Ardem2025/mem0-temporal-hygiene",
+    "stars": 1,
+    "updated_at": "2026-06-20T05:19:20Z",
+    "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:15:58Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T05:15:18Z",
+    "updated_at": "2026-06-20T05:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:12:46Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:13:30Z",
-    "url": "https://github.com/furkandogmus/kuberag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:03:07Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:49:40Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6131,
-    "updated_at": "2026-06-20T02:04:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A RAG (Retrieval Augmented Generation) demo \u2014 crawl any website, index it into Qdrant, and chat with it using Claude. Bu",
-    "id": "sirben01/RagDemo",
-    "language": "C#",
-    "name": "sirben01/RagDemo",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:27:07Z",
-    "url": "https://github.com/sirben01/RagDemo"
   }
 ]
