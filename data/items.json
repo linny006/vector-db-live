@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
     "id": "iksnerd/code-nexus",
     "language": "Elixir",
     "name": "iksnerd/code-nexus",
     "stars": 1,
-    "updated_at": "2026-06-20T20:58:38Z",
+    "updated_at": "2026-06-20T21:13:50Z",
     "url": "https://github.com/iksnerd/code-nexus"
   },
   {
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 282,
-    "updated_at": "2026-06-20T20:57:07Z",
+    "updated_at": "2026-06-20T21:11:51Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6159,
+    "updated_at": "2026-06-20T21:08:17Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T21:02:11Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32494,
+    "updated_at": "2026-06-20T21:13:19Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
@@ -27,20 +72,11 @@
     "url": "https://github.com/ParthSharma-2/Finsight-AI"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32493,
-    "updated_at": "2026-06-20T20:51:16Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18287,
+    "stars": 18288,
     "updated_at": "2026-06-20T20:49:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:49:23Z",
     "url": "https://github.com/beawesome8/Recurring-research-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/thanhdp1305/171305-cowork"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:06:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -347,7 +356,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1437,
-    "updated_at": "2026-06-20T17:30:47Z",
+    "updated_at": "2026-06-20T21:11:12Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-20T16:55:08Z",
+    "updated_at": "2026-06-20T21:13:02Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 208,
     "updated_at": "2026-06-20T16:22:20Z",
     "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
-    "id": "1Vewton/WikiSpider",
-    "language": "Go",
-    "name": "1Vewton/WikiSpider",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:03:39Z",
-    "url": "https://github.com/1Vewton/WikiSpider"
   }
 ]
