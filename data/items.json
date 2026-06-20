@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Plan and Track Future and Growth - Ocean Mind Intelligence engine version 1.0",
+    "id": "XaveriaCave/arshMind",
+    "language": "TypeScript",
+    "name": "XaveriaCave/arshMind",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:59:44Z",
+    "url": "https://github.com/XaveriaCave/arshMind"
+  },
+  {
+    "description": "Local-first AI agent workspace to cowork with AI on coding, tasks & docs \u2014 self-hosted, privacy-first, one-command Docke",
+    "id": "thanhdp1305/171305-cowork",
+    "language": "TypeScript",
+    "name": "thanhdp1305/171305-cowork",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:56:16Z",
+    "url": "https://github.com/thanhdp1305/171305-cowork"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "pavanbadempet/Movie-Recommendation-System",
     "stars": 8,
-    "updated_at": "2026-06-20T18:43:34Z",
+    "updated_at": "2026-06-20T18:53:56Z",
     "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:52:49Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18259,
+    "updated_at": "2026-06-20T18:49:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:31:32Z",
     "url": "https://github.com/nakul85/DocumentGPT-Pro"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18256,
-    "updated_at": "2026-06-20T18:23:52Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -153,15 +180,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:47:59Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
     "id": "heybeaux/engram",
     "language": "TypeScript",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T18:28:02Z",
+    "updated_at": "2026-06-20T18:54:03Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T14:38:26Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
-    "id": "ROHITCRAFTSYT/Loco-RAG",
-    "language": "Python",
-    "name": "ROHITCRAFTSYT/Loco-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:28:51Z",
-    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
-  },
-  {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "HTML",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:21:59Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
   }
 ]
