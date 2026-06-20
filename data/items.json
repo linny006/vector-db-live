@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "snehitha30/document-qa-bot",
     "stars": 0,
-    "updated_at": "2026-06-20T12:12:17Z",
+    "updated_at": "2026-06-20T12:29:20Z",
     "url": "https://github.com/snehitha30/document-qa-bot"
+  },
+  {
+    "description": "Desktop GUI client for Turbopuffer vector database",
+    "id": "MrPeker/turbopuffer-gui",
+    "language": "TypeScript",
+    "name": "MrPeker/turbopuffer-gui",
+    "stars": 22,
+    "updated_at": "2026-06-20T12:30:17Z",
+    "url": "https://github.com/MrPeker/turbopuffer-gui"
+  },
+  {
+    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
+    "id": "shlokkvaishnav/Distributed-Nano-DB",
+    "language": "C++",
+    "name": "shlokkvaishnav/Distributed-Nano-DB",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:27:50Z",
+    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:20:58Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
+    "id": "marinoalfonso/open-pertosa",
+    "language": "Python",
+    "name": "marinoalfonso/open-pertosa",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:19:32Z",
+    "url": "https://github.com/marinoalfonso/open-pertosa"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 3,
+    "updated_at": "2026-06-20T12:18:26Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Implementation of Agent memory vector store proxy written in Rust",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "theo-ai-lab/ai-career-coach",
     "stars": 0,
-    "updated_at": "2026-06-20T12:10:24Z",
+    "updated_at": "2026-06-20T12:15:51Z",
     "url": "https://github.com/theo-ai-lab/ai-career-coach"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-20T12:06:04Z",
+    "updated_at": "2026-06-20T12:16:45Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -61,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:02:37Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/Distributed-Nano-DB",
-    "language": "C++",
-    "name": "shlokkvaishnav/Distributed-Nano-DB",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:00:41Z",
-    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 69,
-    "updated_at": "2026-06-20T11:50:26Z",
+    "updated_at": "2026-06-20T12:20:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32482,
-    "updated_at": "2026-06-20T11:44:47Z",
+    "updated_at": "2026-06-20T12:28:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -283,7 +319,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18064,
+    "stars": 18076,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T08:41:34Z",
     "url": "https://github.com/Soham170205/planet-atlas"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 808,
-    "updated_at": "2026-06-20T08:37:36Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 5,
-    "updated_at": "2026-06-20T08:22:38Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 70,
-    "updated_at": "2026-06-20T08:18:57Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "A from-scratch vector database with a hand-written HNSW index, atomic on-disk persistence, and a REST API. No faiss/hnsw",
-    "id": "Vansh4195/vectro",
-    "language": "Python",
-    "name": "Vansh4195/vectro",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:18:09Z",
-    "url": "https://github.com/Vansh4195/vectro"
   }
 ]
