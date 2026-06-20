@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T11:33:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
+    "id": "shlokkvaishnav/Distributed-Nano-DB",
+    "language": "C++",
+    "name": "shlokkvaishnav/Distributed-Nano-DB",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:31:55Z",
+    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
     "id": "BirchKwok/lynsedb",
     "language": "Rust",
@@ -27,15 +54,6 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/Distributed-Nano-DB",
-    "language": "C++",
-    "name": "shlokkvaishnav/Distributed-Nano-DB",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:19:35Z",
-    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -54,15 +72,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 73,
     "updated_at": "2026-06-20T11:15:24Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
@@ -184,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18041,
+    "stars": 18046,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
