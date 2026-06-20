@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 778,
+    "updated_at": "2026-06-20T01:11:21Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
+    "id": "PWDevens/fedacq-rag-chatbot",
+    "language": "Python",
+    "name": "PWDevens/fedacq-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:11:04Z",
+    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
+  },
+  {
+    "description": "Text embeddings and reranking for Swift \u2014 one protocol, providers for Voyage, Jina, Cohere, and OpenAI. No dependencies,",
+    "id": "Dean151/swift-embeddings",
+    "language": "Swift",
+    "name": "Dean151/swift-embeddings",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:05:43Z",
+    "url": "https://github.com/Dean151/swift-embeddings"
+  },
+  {
+    "description": "API and integration profile for Azure Cosmos DB.",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:04:37Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "API and integration profile for Aerospike.",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:03:07Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
     "id": "BirchKwok/lynsedb",
     "language": "Rust",
     "name": "BirchKwok/lynsedb",
     "stars": 40,
-    "updated_at": "2026-06-20T00:58:05Z",
+    "updated_at": "2026-06-20T01:01:12Z",
     "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -18,22 +81,13 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6131,
+    "updated_at": "2026-06-20T00:44:15Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-20T00:30:26Z",
+    "updated_at": "2026-06-20T01:13:07Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T00:26:51Z",
+    "updated_at": "2026-06-20T01:05:00Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T00:14:40Z",
     "url": "https://github.com/tanguykonan/pocket-rag-cli"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 778,
-    "updated_at": "2026-06-20T00:14:36Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -196,15 +241,6 @@
     "stars": 68,
     "updated_at": "2026-06-20T00:57:57Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
-    "id": "PWDevens/fedacq-rag-chatbot",
-    "language": "Python",
-    "name": "PWDevens/fedacq-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:58:50Z",
-    "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -412,41 +448,5 @@
     "stars": 7752,
     "updated_at": "2026-06-19T23:21:03Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:54:03Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "A dynamic Agentic RAG platform for real-time news analysis, bias detection, and timeline synthesis. Built with Pathway, ",
-    "id": "OptimusPrime-hub/NewsLens",
-    "language": "Python",
-    "name": "OptimusPrime-hub/NewsLens",
-    "stars": 1,
-    "updated_at": "2026-06-19T19:50:25Z",
-    "url": "https://github.com/OptimusPrime-hub/NewsLens"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44847,
-    "updated_at": "2026-06-19T19:36:24Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 4,
-    "updated_at": "2026-06-19T19:36:52Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   }
 ]
