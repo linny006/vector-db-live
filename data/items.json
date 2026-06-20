@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:57:37Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
+    "id": "hejun789/docintel",
+    "language": "Python",
+    "name": "hejun789/docintel",
     "stars": 1,
-    "updated_at": "2026-06-20T13:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-20T13:55:31Z",
+    "url": "https://github.com/hejun789/docintel"
   },
   {
     "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "OmidGheysar/epi-rag",
     "stars": 0,
-    "updated_at": "2026-06-20T13:35:23Z",
+    "updated_at": "2026-06-20T13:55:19Z",
     "url": "https://github.com/OmidGheysar/epi-rag"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) document assistant built with Ollama, LangChain, ChromaDB, Sentence Tran",
+    "id": "nakul85/DocumentGPT-Pro",
+    "language": "Python",
+    "name": "nakul85/DocumentGPT-Pro",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:52:01Z",
+    "url": "https://github.com/nakul85/DocumentGPT-Pro"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:50:09Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T13:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T13:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T13:34:33Z",
     "url": "https://github.com/huzaifa620/rag-f1gpt-chatbot-nextjs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 69,
-    "updated_at": "2026-06-20T13:11:46Z",
+    "updated_at": "2026-06-20T13:52:28Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:27:50Z",
     "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:20:58Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T11:56:45Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
-    "id": "hejun789/docintel",
-    "language": "Python",
-    "name": "hejun789/docintel",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:44:40Z",
-    "url": "https://github.com/hejun789/docintel"
   },
   {
     "description": "A graph-first, embedded multi-model database engine",
@@ -409,7 +427,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18127,
+    "stars": 18136,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -423,15 +441,6 @@
     "url": "https://github.com/Abhishek-Das1121/DocuBuddy"
   },
   {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:13:11Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
     "description": "Your Very Own Agent: The Ultimate, Complete Edition",
     "id": "undead-undead/AIMAXXING",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 49,
     "updated_at": "2026-06-20T10:09:20Z",
     "url": "https://github.com/undead-undead/AIMAXXING"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library. ",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 38,
-    "updated_at": "2026-06-20T09:46:46Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
