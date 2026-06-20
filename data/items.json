@@ -1,21 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T12:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
     "id": "snehitha30/document-qa-bot",
     "language": "Python",
     "name": "snehitha30/document-qa-bot",
     "stars": 0,
-    "updated_at": "2026-06-20T11:59:55Z",
+    "updated_at": "2026-06-20T12:12:17Z",
     "url": "https://github.com/snehitha30/document-qa-bot"
+  },
+  {
+    "description": "Implementation of Agent memory vector store proxy written in Rust",
+    "id": "derinworks/penr-oz-agent-memory-rust",
+    "language": "Rust",
+    "name": "derinworks/penr-oz-agent-memory-rust",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:11:20Z",
+    "url": "https://github.com/derinworks/penr-oz-agent-memory-rust"
+  },
+  {
+    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
+    "id": "theo-ai-lab/ai-career-coach",
+    "language": "TypeScript",
+    "name": "theo-ai-lab/ai-career-coach",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:10:24Z",
+    "url": "https://github.com/theo-ai-lab/ai-career-coach"
+  },
+  {
+    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
+    "id": "Vaibhav170216/llm-zoomcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "Vaibhav170216/llm-zoomcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:07:08Z",
+    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-06-20T12:06:04Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-20T12:05:31Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:02:37Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
@@ -23,8 +68,26 @@
     "language": "C++",
     "name": "shlokkvaishnav/Distributed-Nano-DB",
     "stars": 0,
-    "updated_at": "2026-06-20T11:57:39Z",
+    "updated_at": "2026-06-20T12:00:41Z",
     "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -54,13 +117,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32482,
+    "updated_at": "2026-06-20T11:44:47Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
@@ -81,15 +144,6 @@
     "url": "https://github.com/insanalamin/sekejap"
   },
   {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-20T11:26:35Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
     "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
     "id": "Sakushi-Dev/nexus_memory",
     "language": "Python",
@@ -104,7 +158,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 5,
-    "updated_at": "2026-06-20T11:20:50Z",
+    "updated_at": "2026-06-20T12:12:49Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T11:03:55Z",
     "url": "https://github.com/AK-Jeevan/production-rag-system"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-06-20T11:05:03Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Candidate ranking system for the Redrob India Runs Data & AI Challenge. 7-signal scoring pipeline, CPU-only, fully offli",
@@ -238,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18058,
+    "stars": 18064,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -270,24 +315,6 @@
     "url": "https://github.com/undead-undead/AIMAXXING"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:07:45Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32481,
-    "updated_at": "2026-06-20T11:44:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library. ",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -295,15 +322,6 @@
     "stars": 38,
     "updated_at": "2026-06-20T09:46:46Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
-    "id": "Vaibhav170216/llm-zoomcamp-2026",
-    "language": "Jupyter Notebook",
-    "name": "Vaibhav170216/llm-zoomcamp-2026",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:41:20Z",
-    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -387,6 +405,15 @@
     "url": "https://github.com/Nav33dCodes/smartLearn-AI"
   },
   {
+    "description": "Explore history through AI. Planet Atlas combines semantic search, vector embeddings, and large language models to deliv",
+    "id": "Soham170205/planet-atlas",
+    "language": "\u2014",
+    "name": "Soham170205/planet-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:41:34Z",
+    "url": "https://github.com/Soham170205/planet-atlas"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T08:18:09Z",
     "url": "https://github.com/Vansh4195/vectro"
-  },
-  {
-    "description": "RAG service for intelligent bug analysis with multi-LLM support",
-    "id": "apex-bridge/bugspotter-intelligence",
-    "language": "Python",
-    "name": "apex-bridge/bugspotter-intelligence",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:14:00Z",
-    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
-  },
-  {
-    "description": "Side-by-side evaluation of a RAG pipeline across three model and retrieval configurations (GPT-5, Claude Sonnet/Haiku; n",
-    "id": "winderai/winder-demos-eval-comparison",
-    "language": "Python",
-    "name": "winderai/winder-demos-eval-comparison",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:12:12Z",
-    "url": "https://github.com/winderai/winder-demos-eval-comparison"
-  },
-  {
-    "description": "Build a conversational chatbot that can remember context and retrieve external information during conversations.",
-    "id": "Danish08654/AI-Powered-Context-Aware-Chatbot",
-    "language": "Python",
-    "name": "Danish08654/AI-Powered-Context-Aware-Chatbot",
-    "stars": 3,
-    "updated_at": "2026-06-20T08:05:16Z",
-    "url": "https://github.com/Danish08654/AI-Powered-Context-Aware-Chatbot"
   }
 ]
