@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T05:00:19Z",
+    "updated_at": "2026-06-20T05:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "From-scratch HNSW approximate-nearest-neighbor index in pure Python + NumPy \u2014 the algorithm behind vector databases, wit",
+    "id": "Hritikd/warren",
+    "language": "Python",
+    "name": "Hritikd/warren",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:14:49Z",
+    "url": "https://github.com/Hritikd/warren"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:12:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:13:30Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Retrieval-Augmented Generation (RAG) chatbot for the eBay User Agreement using BAAI/bge-small-en-v1.5, ",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T04:59:33Z",
     "url": "https://github.com/Abhishek-Das1121/AMLGo_Labs_chatbot_assesment"
-  },
-  {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:59:27Z",
-    "url": "https://github.com/furkandogmus/kuberag"
   },
   {
     "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
@@ -43,15 +70,6 @@
     "stars": 40,
     "updated_at": "2026-06-20T04:51:56Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -135,6 +153,15 @@
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
+    "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
+    "id": "ZemResearch/FiktarDB.jl",
+    "language": "Julia",
+    "name": "ZemResearch/FiktarDB.jl",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:03:35Z",
+    "url": "https://github.com/ZemResearch/FiktarDB.jl"
+  },
+  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -211,7 +238,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32476,
+    "stars": 32477,
     "updated_at": "2026-06-20T01:53:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T00:27:07Z",
     "url": "https://github.com/sirben01/RagDemo"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:17:50Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
-    "id": "tanguykonan/pocket-rag-cli",
-    "language": "Python",
-    "name": "tanguykonan/pocket-rag-cli",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:14:40Z",
-    "url": "https://github.com/tanguykonan/pocket-rag-cli"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:10:49Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
