@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T15:15:19Z",
+    "updated_at": "2026-06-20T15:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-06-20T15:30:01Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 208,
+    "updated_at": "2026-06-20T15:29:22Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:27:43Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 24,
+    "updated_at": "2026-06-20T15:24:59Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "A AI native event driven code reviewer for your multi-language codebases",
+    "id": "pirjademl/vento-bot",
+    "language": "Go",
+    "name": "pirjademl/vento-bot",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:22:04Z",
+    "url": "https://github.com/pirjademl/vento-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -34,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T15:03:38Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 69,
-    "updated_at": "2026-06-20T14:45:12Z",
+    "updated_at": "2026-06-20T15:23:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T14:38:26Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-06-20T15:14:15Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
@@ -184,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18169,
+    "stars": 18176,
     "updated_at": "2026-06-20T14:15:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "AliZahiri/ai-rag-platform-blueprint",
     "stars": 0,
-    "updated_at": "2026-06-20T13:50:09Z",
+    "updated_at": "2026-06-20T15:25:36Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
@@ -265,7 +301,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32486,
+    "stars": 32487,
     "updated_at": "2026-06-20T13:34:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T13:34:33Z",
     "url": "https://github.com/huzaifa620/rag-f1gpt-chatbot-nextjs"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-20T13:23:00Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Desktop GUI client for Turbopuffer vector database",
@@ -304,15 +331,6 @@
     "stars": 6,
     "updated_at": "2026-06-20T13:06:00Z",
     "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "A AI native event driven code reviewer for your multi-language codebases",
-    "id": "pirjademl/vento-bot",
-    "language": "Go",
-    "name": "pirjademl/vento-bot",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:03:00Z",
-    "url": "https://github.com/pirjademl/vento-bot"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -430,23 +448,5 @@
     "stars": 40,
     "updated_at": "2026-06-20T12:05:31Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:02:37Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "A graph-first, embedded multi-model database engine",
-    "id": "insanalamin/sekejap",
-    "language": "Rust",
-    "name": "insanalamin/sekejap",
-    "stars": 5,
-    "updated_at": "2026-06-20T11:44:41Z",
-    "url": "https://github.com/insanalamin/sekejap"
   }
 ]
