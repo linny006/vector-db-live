@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 208,
+    "updated_at": "2026-06-20T15:59:31Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-20T15:57:34Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18191,
+    "updated_at": "2026-06-20T15:59:50Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -14,8 +32,44 @@
     "language": "Rust",
     "name": "perforate-org/gleaph",
     "stars": 1,
-    "updated_at": "2026-06-20T15:45:10Z",
+    "updated_at": "2026-06-20T15:49:33Z",
     "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T15:51:13Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
+    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "language": "Python",
+    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:45:32Z",
+    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T16:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -54,15 +108,6 @@
     "url": "https://github.com/marinoalfonso/open-pertosa"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18185,
-    "updated_at": "2026-06-20T15:34:26Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -90,24 +135,6 @@
     "url": "https://github.com/MRupam202005/rag-codebase-explainer"
   },
   {
-    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
-    "id": "AlayaDB-AI/AlayaLite",
-    "language": "C++",
-    "name": "AlayaDB-AI/AlayaLite",
-    "stars": 208,
-    "updated_at": "2026-06-20T15:32:10Z",
-    "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:22:04Z",
     "url": "https://github.com/pirjademl/vento-bot"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-06-20T15:12:01Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T14:51:05Z",
     "url": "https://github.com/Chemini-Gamage/AI-Research-Assistant"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T15:23:39Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
@@ -337,7 +346,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32487,
+    "stars": 32488,
     "updated_at": "2026-06-20T13:34:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -400,7 +409,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6964,
+    "stars": 6965,
     "updated_at": "2026-06-20T12:55:21Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:11:20Z",
     "url": "https://github.com/derinworks/penr-oz-agent-memory-rust"
-  },
-  {
-    "description": "Resume-grounded AI career coach \u2014 multi-agent RAG with a preregistered, falsifiable LLM-as-judge eval benchmark and adve",
-    "id": "theo-ai-lab/ai-career-coach",
-    "language": "TypeScript",
-    "name": "theo-ai-lab/ai-career-coach",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:15:51Z",
-    "url": "https://github.com/theo-ai-lab/ai-career-coach"
   }
 ]
