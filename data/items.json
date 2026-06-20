@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T21:15:19Z",
+    "updated_at": "2026-06-20T21:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,15 +14,51 @@
     "language": "Elixir",
     "name": "iksnerd/code-nexus",
     "stars": 1,
-    "updated_at": "2026-06-20T21:13:50Z",
+    "updated_at": "2026-06-20T21:28:58Z",
     "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18290,
+    "updated_at": "2026-06-20T21:27:43Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1359,
+    "updated_at": "2026-06-20T21:27:15Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-20T21:17:35Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 282,
+    "stars": 281,
     "updated_at": "2026-06-20T21:11:51Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -32,7 +68,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6159,
-    "updated_at": "2026-06-20T21:08:17Z",
+    "updated_at": "2026-06-20T21:25:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T21:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
     "id": "ParthSharma-2/Finsight-AI",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:55:00Z",
     "url": "https://github.com/ParthSharma-2/Finsight-AI"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18288,
-    "updated_at": "2026-06-20T20:49:49Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A LangGraph agent that researches a topic on a schedule, remembers what it found last time, and reports only what's actu",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-20T18:19:37Z",
+    "updated_at": "2026-06-20T21:23:58Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-20T21:13:02Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
     "id": "vishwajitvm/PolicyBot",
     "language": "Python",
@@ -403,15 +412,6 @@
     "stars": 953,
     "updated_at": "2026-06-20T16:39:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1359,
-    "updated_at": "2026-06-20T18:54:03Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
