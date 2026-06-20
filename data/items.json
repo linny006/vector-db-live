@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T23:30:18Z",
+    "updated_at": "2026-06-20T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-20T23:44:58Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 371,
+    "updated_at": "2026-06-20T23:43:32Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:43:32Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T23:45:19Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -14,17 +50,26 @@
     "language": "Rust",
     "name": "perforate-org/gleaph",
     "stars": 1,
-    "updated_at": "2026-06-20T23:27:38Z",
+    "updated_at": "2026-06-20T23:40:36Z",
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-20T23:24:37Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
+    "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
+    "id": "schwabauerbriantomas-gif/m2m-vector-search",
+    "language": "Python",
+    "name": "schwabauerbriantomas-gif/m2m-vector-search",
+    "stars": 24,
+    "updated_at": "2026-06-20T23:37:13Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:33:01Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +77,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-20T23:15:23Z",
+    "updated_at": "2026-06-20T23:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18296,
+    "updated_at": "2026-06-20T23:29:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-20T23:39:32Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Text embeddings and reranking for Swift \u2014 one protocol, providers for Voyage, Jina, Cohere, and OpenAI. No dependencies,",
@@ -45,21 +108,12 @@
     "url": "https://github.com/Dean151/swift-embeddings"
   },
   {
-    "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
-    "id": "schwabauerbriantomas-gif/m2m-vector-search",
-    "language": "Python",
-    "name": "schwabauerbriantomas-gif/m2m-vector-search",
-    "stars": 24,
-    "updated_at": "2026-06-20T23:02:51Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-20T23:02:35Z",
+    "updated_at": "2026-06-20T23:42:05Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 281,
     "updated_at": "2026-06-20T23:00:14Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18295,
-    "updated_at": "2026-06-20T23:29:04Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -95,17 +140,8 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-20T23:03:21Z",
+    "updated_at": "2026-06-20T23:30:58Z",
     "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 371,
-    "updated_at": "2026-06-20T22:49:37Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Large document Q&A agent using RAG",
@@ -115,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-06-20T22:37:56Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-20T23:28:36Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
@@ -238,7 +265,7 @@
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
-    "stars": 18,
+    "stars": 19,
     "updated_at": "2026-06-20T20:36:47Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:00:53Z",
     "url": "https://github.com/Anujzdv/RAG-PDF-ChatBot"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-06-20T18:30:46Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
-    "id": "heybeaux/engram",
-    "language": "TypeScript",
-    "name": "heybeaux/engram",
-    "stars": 3,
-    "updated_at": "2026-06-20T17:43:35Z",
-    "url": "https://github.com/heybeaux/engram"
-  },
-  {
-    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs,",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1972,
-    "updated_at": "2026-06-20T17:39:02Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
