@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
+    "id": "snehitha30/document-qa-bot",
+    "language": "Python",
+    "name": "snehitha30/document-qa-bot",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:59:55Z",
+    "url": "https://github.com/snehitha30/document-qa-bot"
+  },
+  {
+    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
+    "id": "shlokkvaishnav/Distributed-Nano-DB",
+    "language": "C++",
+    "name": "shlokkvaishnav/Distributed-Nano-DB",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:57:39Z",
+    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:56:45Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T11:52:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T11:50:26Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T11:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
     "id": "hejun789/docintel",
     "language": "Python",
@@ -16,42 +79,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T11:44:41Z",
     "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
-    "id": "snehitha30/document-qa-bot",
-    "language": "Python",
-    "name": "snehitha30/document-qa-bot",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:42:17Z",
-    "url": "https://github.com/snehitha30/document-qa-bot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:34:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/Distributed-Nano-DB",
-    "language": "C++",
-    "name": "shlokkvaishnav/Distributed-Nano-DB",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:31:55Z",
-    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -211,7 +238,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18050,
+    "stars": 18058,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -252,15 +279,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:56:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -279,15 +297,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T11:30:13Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
     "id": "Vaibhav170216/llm-zoomcamp-2026",
     "language": "Jupyter Notebook",
@@ -301,7 +310,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16374,
+    "stars": 16375,
     "updated_at": "2026-06-20T09:35:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:18:22Z",
     "url": "https://github.com/Deekshitha-Gajjala/agentic-rag-assistant-Rag-pipeline-"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:17:39Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
