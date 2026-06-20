@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:14:56Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17956,
+    "updated_at": "2026-06-20T09:10:51Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Open source, all-in-one semantic search engine for AI and humans",
+    "id": "tanaos/cognitor",
+    "language": "Python",
+    "name": "tanaos/cognitor",
+    "stars": 11,
+    "updated_at": "2026-06-20T09:06:39Z",
+    "url": "https://github.com/tanaos/cognitor"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T09:15:13Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The ultimate contextual AI engine. Blazing-fast RAG pipelines, generative UI, and multi-model fallback routing built on ",
     "id": "Nav33dCodes/smartLearn-AI",
     "language": "JavaScript",
@@ -18,24 +72,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 808,
     "updated_at": "2026-06-20T08:37:36Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T08:35:42Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -70,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T08:22:38Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
-    "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:20:38Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32479,
-    "updated_at": "2026-06-20T08:46:28Z",
+    "updated_at": "2026-06-20T09:15:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 950,
-    "updated_at": "2026-06-20T08:48:14Z",
+    "updated_at": "2026-06-20T09:04:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T03:27:11Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44851,
-    "updated_at": "2026-06-20T03:27:11Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
-    "id": "Buffden/rag-document-engine",
-    "language": "Python",
-    "name": "Buffden/rag-document-engine",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:23:05Z",
-    "url": "https://github.com/Buffden/rag-document-engine"
   }
 ]
