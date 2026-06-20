@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T00:00:19Z",
+    "updated_at": "2026-06-20T00:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 778,
+    "updated_at": "2026-06-20T00:14:36Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:10:49Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-20T00:11:11Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:03:17Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:01:20Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -34,15 +88,6 @@
     "stars": 239,
     "updated_at": "2026-06-19T23:53:18Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 68,
-    "updated_at": "2026-06-19T23:28:40Z",
+    "updated_at": "2026-06-20T00:11:16Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T22:58:50Z",
     "url": "https://github.com/PWDevens/fedacq-rag-chatbot"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:56:21Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T23:56:58Z",
+    "updated_at": "2026-06-20T00:11:46Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -207,6 +243,15 @@
     "url": "https://github.com/samarthkashyap03/lumen"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32469,
+    "updated_at": "2026-06-19T21:31:05Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Production-grade agentic RAG system \u2014 FastAPI \u00b7 LangGraph \u00b7 ChromaDB \u00b7 OpenRouter \u00b7 Prometheus \u00b7 Grafana",
     "id": "SeydinaBANE/enterprise-rag-agent",
     "language": "Python",
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-19T23:47:55Z",
+    "updated_at": "2026-06-20T00:05:18Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T23:37:20Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 778,
-    "updated_at": "2026-06-19T20:16:41Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
@@ -387,15 +423,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:49:32Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 31,
     "updated_at": "2026-06-19T19:12:10Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "A multi-agent RAG pipeline for enterprise data with MCP integration and human-in-the-loop validation.",
-    "id": "Melce-AI/agentic-rag",
-    "language": "Python",
-    "name": "Melce-AI/agentic-rag",
-    "stars": 3,
-    "updated_at": "2026-06-19T19:07:24Z",
-    "url": "https://github.com/Melce-AI/agentic-rag"
-  },
-  {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, private by default",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 7,
-    "updated_at": "2026-06-19T19:02:18Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16369,
-    "updated_at": "2026-06-19T18:57:04Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
