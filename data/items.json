@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-19T23:57:46Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-06-19T23:55:51Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
     "id": "AleksNeStu/ai-real-estate-assistant",
     "language": "Python",
     "name": "AleksNeStu/ai-real-estate-assistant",
     "stars": 239,
-    "updated_at": "2026-06-19T23:34:10Z",
+    "updated_at": "2026-06-19T23:53:18Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-19T23:30:23Z",
+    "updated_at": "2026-06-19T23:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T23:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -34,15 +52,6 @@
     "stars": 40,
     "updated_at": "2026-06-19T23:21:07Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-06-19T23:45:03Z",
-    "url": "https://github.com/marco-spagn/pcmi"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -61,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:06:50Z",
     "url": "https://github.com/nakul85/DocumentGPT-Pro"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 950,
+    "updated_at": "2026-06-19T23:06:02Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 22,
-    "updated_at": "2026-06-19T23:33:38Z",
+    "updated_at": "2026-06-19T23:56:58Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T22:31:24Z",
     "url": "https://github.com/furkandogmus/kuberag"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:03:21Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "CLI, SDK, and gateway for Qdrant \u2014 SQL-like queries, score shaping, retrieval diagnostics, and stable JSON output for sc",
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-19T21:19:44Z",
+    "updated_at": "2026-06-19T23:47:55Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-06-19T19:32:41Z",
+    "updated_at": "2026-06-19T23:49:32Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 16369,
     "updated_at": "2026-06-19T18:57:04Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-19T18:55:22Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
