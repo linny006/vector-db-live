@@ -1,5 +1,68 @@
 [
   {
+    "description": "RAG service for intelligent bug analysis with multi-LLM support",
+    "id": "apex-bridge/bugspotter-intelligence",
+    "language": "Python",
+    "name": "apex-bridge/bugspotter-intelligence",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:14:00Z",
+    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
+  },
+  {
+    "description": "Side-by-side evaluation of a RAG pipeline across three model and retrieval configurations (GPT-5, Claude Sonnet/Haiku; n",
+    "id": "winderai/winder-demos-eval-comparison",
+    "language": "Python",
+    "name": "winderai/winder-demos-eval-comparison",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:12:12Z",
+    "url": "https://github.com/winderai/winder-demos-eval-comparison"
+  },
+  {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:07:05Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
+    "id": "snehitha30/document-qa-bot",
+    "language": "Python",
+    "name": "snehitha30/document-qa-bot",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:03:46Z",
+    "url": "https://github.com/snehitha30/document-qa-bot"
+  },
+  {
+    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
+    "id": "utkarsh0885/Docmind-AI",
+    "language": "Python",
+    "name": "utkarsh0885/Docmind-AI",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:02:18Z",
+    "url": "https://github.com/utkarsh0885/Docmind-AI"
+  },
+  {
+    "description": "Markdown-first semantic search CLI for your documentation, powered by vector embeddings and Qdrant or pgvector.",
+    "id": "NeonSalamander/waagh",
+    "language": "Rust",
+    "name": "NeonSalamander/waagh",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:01:54Z",
+    "url": "https://github.com/NeonSalamander/waagh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:57:17Z",
     "url": "https://github.com/AK-Jeevan/production-rag-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "DocMind AI \u2013 Enterprise Knowledge Assistant powered by Google Gemini, ChromaDB, FastAPI and React. Features RAG-based do",
-    "id": "utkarsh0885/Docmind-AI",
-    "language": "Python",
-    "name": "utkarsh0885/Docmind-AI",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:39:50Z",
-    "url": "https://github.com/utkarsh0885/Docmind-AI"
   },
   {
     "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
@@ -76,7 +121,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 563,
+    "stars": 564,
     "updated_at": "2026-06-20T07:12:56Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T02:37:12Z",
     "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
-  },
-  {
-    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
-    "id": "barateza/mcp-plesk-dev-docs",
-    "language": "Python",
-    "name": "barateza/mcp-plesk-dev-docs",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:34:23Z",
-    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6132,
-    "updated_at": "2026-06-20T02:04:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-20T01:58:20Z",
-    "url": "https://github.com/konjoai/vectro"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32478,
-    "updated_at": "2026-06-20T07:41:59Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:41:00Z",
-    "url": "https://github.com/edheltzel/Recall"
   }
 ]
