@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T22:30:18Z",
+    "updated_at": "2026-06-20T22:45:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-06-20T22:37:56Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:42:12Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-20T22:37:04Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T22:24:18Z",
     "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
@@ -77,17 +104,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 18291,
-    "updated_at": "2026-06-20T22:18:06Z",
+    "updated_at": "2026-06-20T22:32:54Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-20T22:30:17Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -351,15 +369,6 @@
     "url": "https://github.com/nakul85/DocumentGPT-Pro"
   },
   {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-20T22:28:47Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
     "id": "shlokkvaishnav/Distributed-Nano-DB",
     "language": "C++",
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-20T18:27:25Z",
+    "updated_at": "2026-06-20T22:44:51Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:20:22Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
-    "id": "vishwajitvm/PolicyBot",
-    "language": "Python",
-    "name": "vishwajitvm/PolicyBot",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:40:40Z",
-    "url": "https://github.com/vishwajitvm/PolicyBot"
   }
 ]
