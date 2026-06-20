@@ -1,12 +1,21 @@
 [
   {
-    "description": "Plan and Track Future and Growth - Ocean Mind Intelligence engine version 1.0",
-    "id": "XaveriaCave/arshMind",
-    "language": "TypeScript",
-    "name": "XaveriaCave/arshMind",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:59:44Z",
-    "url": "https://github.com/XaveriaCave/arshMind"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 6,
+    "updated_at": "2026-06-20T19:15:05Z",
+    "url": "https://github.com/feather-store/feather"
   },
   {
     "description": "Local-first AI agent workspace to cowork with AI on coding, tasks & docs \u2014 self-hosted, privacy-first, one-command Docke",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "thanhdp1305/171305-cowork",
     "stars": 0,
-    "updated_at": "2026-06-20T18:56:16Z",
+    "updated_at": "2026-06-20T19:12:40Z",
     "url": "https://github.com/thanhdp1305/171305-cowork"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32491,
+    "updated_at": "2026-06-20T19:09:53Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:06:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:03:36Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 69,
+    "updated_at": "2026-06-20T19:05:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Plan and Track Future and Growth - Ocean Mind Intelligence engine version 1.0",
+    "id": "XaveriaCave/arshMind",
+    "language": "TypeScript",
+    "name": "XaveriaCave/arshMind",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:59:44Z",
+    "url": "https://github.com/XaveriaCave/arshMind"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -40,27 +103,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18259,
+    "stars": 18263,
     "updated_at": "2026-06-20T18:49:33Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
@@ -225,15 +270,6 @@
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-20T17:13:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
@@ -304,15 +340,6 @@
     "stars": 208,
     "updated_at": "2026-06-20T16:22:20Z",
     "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T18:37:36Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T14:55:06Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:55:02Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
-    "id": "Project-Navi/ordvec",
-    "language": "Rust",
-    "name": "Project-Navi/ordvec",
-    "stars": 22,
-    "updated_at": "2026-06-20T14:55:11Z",
-    "url": "https://github.com/Project-Navi/ordvec"
-  },
-  {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
-    "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:38:26Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
   }
 ]
