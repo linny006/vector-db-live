@@ -1,5 +1,23 @@
 [
   {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 371,
+    "updated_at": "2026-06-20T01:30:35Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 778,
     "updated_at": "2026-06-20T01:16:38Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
@@ -403,15 +412,6 @@
     "stars": 6964,
     "updated_at": "2026-06-19T22:10:14Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 371,
-    "updated_at": "2026-06-19T21:18:00Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": " Memory library for building stateful agents",
