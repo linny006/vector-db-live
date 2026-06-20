@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 5,
+    "updated_at": "2026-06-20T08:22:38Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:20:38Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 70,
+    "updated_at": "2026-06-20T08:18:57Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "A from-scratch vector database with a hand-written HNSW index, atomic on-disk persistence, and a REST API. No faiss/hnsw",
+    "id": "Vansh4195/vectro",
+    "language": "Python",
+    "name": "Vansh4195/vectro",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:18:09Z",
+    "url": "https://github.com/Vansh4195/vectro"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG service for intelligent bug analysis with multi-LLM support",
     "id": "apex-bridge/bugspotter-intelligence",
     "language": "Python",
@@ -18,13 +72,13 @@
     "url": "https://github.com/winderai/winder-demos-eval-comparison"
   },
   {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
+    "description": "Build a conversational chatbot that can remember context and retrieve external information during conversations.",
+    "id": "Danish08654/AI-Powered-Context-Aware-Chatbot",
     "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:07:05Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+    "name": "Danish08654/AI-Powered-Context-Aware-Chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-20T08:05:16Z",
+    "url": "https://github.com/Danish08654/AI-Powered-Context-Aware-Chatbot"
   },
   {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
@@ -54,24 +108,6 @@
     "url": "https://github.com/NeonSalamander/waagh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
     "id": "pragathijp/DocQuest_AI",
     "language": "Python",
@@ -88,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:57:17Z",
     "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32479,
+    "updated_at": "2026-06-20T07:41:59Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T03:03:35Z",
     "url": "https://github.com/ZemResearch/FiktarDB.jl"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:53:34Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-20T07:29:07Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-06-20T02:41:05Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:40:23Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Ollama, and Python.",
-    "id": "kanikapitaliya/rag-data-engineering-assistant",
-    "language": "Python",
-    "name": "kanikapitaliya/rag-data-engineering-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:37:12Z",
-    "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
   }
 ]
