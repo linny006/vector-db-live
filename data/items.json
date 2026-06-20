@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T04:00:19Z",
+    "updated_at": "2026-06-20T04:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 371,
-    "updated_at": "2026-06-20T03:59:31Z",
+    "updated_at": "2026-06-20T04:13:20Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:11:24Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 779,
+    "updated_at": "2026-06-20T04:10:17Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-06-20T04:08:23Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc",
+    "id": "yuliu625/Yu-RAG-Toolkit",
+    "language": "Python",
+    "name": "yuliu625/Yu-RAG-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:01:14Z",
+    "url": "https://github.com/yuliu625/Yu-RAG-Toolkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Ruby bindings for the Lance columnar data format. Built on the Lance Rust crate, Lancelot brings high-performance vector",
@@ -25,24 +70,6 @@
     "stars": 7,
     "updated_at": "2026-06-20T03:58:45Z",
     "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 779,
-    "updated_at": "2026-06-20T03:57:27Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T03:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -90,15 +117,6 @@
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T03:05:58Z",
-    "url": "https://github.com/furkandogmus/kuberag"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-20T02:43:34Z",
+    "updated_at": "2026-06-20T04:12:51Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -184,7 +202,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32474,
+    "stars": 32475,
     "updated_at": "2026-06-20T01:53:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -369,15 +387,6 @@
     "url": "https://github.com/api-evangelist/aerospike"
   },
   {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-06-20T01:01:12Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 50229,
     "updated_at": "2026-06-20T00:09:30Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-20T00:30:20Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
