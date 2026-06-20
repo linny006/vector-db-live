@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
+    "id": "pragathijp/DocQuest_AI",
+    "language": "Python",
+    "name": "pragathijp/DocQuest_AI",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:41:08Z",
+    "url": "https://github.com/pragathijp/DocQuest_AI"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T09:30:18Z",
+    "updated_at": "2026-06-20T09:39:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
+    "id": "AK-Jeevan/production-rag-system",
+    "language": "Python",
+    "name": "AK-Jeevan/production-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:38:18Z",
+    "url": "https://github.com/AK-Jeevan/production-rag-system"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 5,
+    "updated_at": "2026-06-20T09:40:09Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16373,
+    "updated_at": "2026-06-20T09:35:23Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI Chatbot with RAG (LangChain + Groq + FAISS + Streamlit). Supports PDF upload, contextual Q&A, and real-time streaming",
+    "id": "bharathkumargorre/ai-chatbot-langchain",
+    "language": "Python",
+    "name": "bharathkumargorre/ai-chatbot-langchain",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:33:19Z",
+    "url": "https://github.com/bharathkumargorre/ai-chatbot-langchain"
+  },
+  {
+    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
+    "id": "zhijunio/spring-ai-chat-rag-samples",
+    "language": "Java",
+    "name": "zhijunio/spring-ai-chat-rag-samples",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:32:59Z",
+    "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
+  },
+  {
+    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
+    "id": "Vaibhav170216/llm-zoomcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "Vaibhav170216/llm-zoomcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:32:40Z",
+    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T09:29:01Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
-    "id": "AK-Jeevan/production-rag-system",
-    "language": "Python",
-    "name": "AK-Jeevan/production-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:23:40Z",
-    "url": "https://github.com/AK-Jeevan/production-rag-system"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -63,15 +126,6 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A RAG-powered Flipkart shopping assistant built with LangChain, AstraDB, Groq LLaMA 3.3 70B, and Flask. Ask natural lang",
     "id": "Nikkiraj4/flipkart-chatbot",
     "language": "Python",
@@ -85,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 17971,
+    "stars": 17977,
     "updated_at": "2026-06-20T09:10:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/NeonSalamander/waagh"
   },
   {
-    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
-    "id": "pragathijp/DocQuest_AI",
-    "language": "Python",
-    "name": "pragathijp/DocQuest_AI",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:57:33Z",
-    "url": "https://github.com/pragathijp/DocQuest_AI"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -324,15 +369,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 5,
-    "updated_at": "2026-06-20T06:49:07Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Vector Knowledge Base - ingest what matters to you and provide it to your models via MCP",
     "id": "inkiebeard/galactic-vkb",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 950,
     "updated_at": "2026-06-20T09:04:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
-    "id": "Ardem2025/mem0-temporal-hygiene",
-    "language": "Python",
-    "name": "Ardem2025/mem0-temporal-hygiene",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:19:20Z",
-    "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
-  },
-  {
-    "description": "From-scratch HNSW approximate-nearest-neighbor index in pure Python + NumPy \u2014 the algorithm behind vector databases, wit",
-    "id": "Hritikd/warren",
-    "language": "Python",
-    "name": "Hritikd/warren",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:14:49Z",
-    "url": "https://github.com/Hritikd/warren"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 371,
-    "updated_at": "2026-06-20T04:38:56Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 780,
-    "updated_at": "2026-06-20T04:20:35Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
