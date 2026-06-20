@@ -1,11 +1,38 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:13:41Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "NLP + RAG technique for requirements engineering.",
+    "id": "Semillero-GIDSYC/NLP4RE",
+    "language": "Jupyter Notebook",
+    "name": "Semillero-GIDSYC/NLP4RE",
+    "stars": 4,
+    "updated_at": "2026-06-20T20:14:17Z",
+    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-06-20T20:08:40Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-20T20:00:23Z",
+    "updated_at": "2026-06-20T20:03:40Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T20:00:20Z",
+    "updated_at": "2026-06-20T20:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:47:01Z",
-    "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -67,7 +85,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18275,
+    "stars": 18279,
     "updated_at": "2026-06-20T19:44:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:12:53Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:09:48Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Production-grade RAG PDF Chatbot built with FastAPI, LangChain, OpenAI GPT-4o, and ChromaDB.",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-20T15:43:52Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 24,
-    "updated_at": "2026-06-20T15:35:22Z",
-    "url": "https://github.com/hivellm/vectorizer"
   }
 ]
