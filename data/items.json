@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T06:30:19Z",
+    "updated_at": "2026-06-21T06:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 73,
+    "updated_at": "2026-06-21T06:44:44Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-21T06:44:33Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
+    "id": "sochdb/sochdb-python-sdk",
+    "language": "Python",
+    "name": "sochdb/sochdb-python-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:44:33Z",
+    "url": "https://github.com/sochdb/sochdb-python-sdk"
+  },
+  {
+    "description": "BCATS is a sophisticated, automated attendance management solution designed to replace traditional, manual attendance-ta",
+    "id": "AKATWIJUKA-ELIA/biometric-attendance-management_system",
+    "language": "TypeScript",
+    "name": "AKATWIJUKA-ELIA/biometric-attendance-management_system",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:42:52Z",
+    "url": "https://github.com/AKATWIJUKA-ELIA/biometric-attendance-management_system"
+  },
+  {
+    "description": "End-to-end Retrieval-Augmented Generation (RAG) Question Answering System using LangChain, Qdrant, Sentence Transformers",
+    "id": "rakshanda-qasim/rag-question-answering-system",
+    "language": "Python",
+    "name": "rakshanda-qasim/rag-question-answering-system",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:36:13Z",
+    "url": "https://github.com/rakshanda-qasim/rag-question-answering-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T06:29:42Z",
     "url": "https://github.com/Sakushi-Dev/nexus_memory"
-  },
-  {
-    "description": "End-to-end Retrieval-Augmented Generation (RAG) Question Answering System using LangChain, Qdrant, Sentence Transformers",
-    "id": "rakshanda-qasim/rag-question-answering-system",
-    "language": "Python",
-    "name": "rakshanda-qasim/rag-question-answering-system",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:29:34Z",
-    "url": "https://github.com/rakshanda-qasim/rag-question-answering-system"
   },
   {
     "description": "Benchmark chunking strategies for your RAG corpus. Get a recommended config. CLI, Python library, and MCP server.",
@@ -43,24 +88,6 @@
     "stars": 12454,
     "updated_at": "2026-06-21T06:18:24Z",
     "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
-    "id": "sochdb/sochdb-python-sdk",
-    "language": "Python",
-    "name": "sochdb/sochdb-python-sdk",
-    "stars": 2,
-    "updated_at": "2026-06-21T06:16:01Z",
-    "url": "https://github.com/sochdb/sochdb-python-sdk"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-21T04:17:17Z",
+    "updated_at": "2026-06-21T06:39:15Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 73,
-    "updated_at": "2026-06-21T03:21:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
     "id": "konjoai/vectro",
     "language": "Rust",
@@ -328,7 +346,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18330,
+    "stars": 18332,
     "updated_at": "2026-06-21T03:16:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T06:29:59Z",
+    "updated_at": "2026-06-21T06:43:40Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-06-20T22:37:56Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
-    "id": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "language": "HTML",
-    "name": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-06-20T22:26:12Z",
-    "url": "https://github.com/abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence"
   }
 ]
