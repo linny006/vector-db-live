@@ -1,11 +1,29 @@
 [
   {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-06-21T02:38:59Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T02:30:19Z",
+    "updated_at": "2026-06-21T02:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T02:26:45Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-21T01:11:10Z",
+    "updated_at": "2026-06-21T02:38:45Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T01:56:23Z",
+    "updated_at": "2026-06-21T02:39:32Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T23:26:06Z",
+    "updated_at": "2026-06-21T02:39:16Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 92,
     "updated_at": "2026-06-20T19:16:19Z",
     "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "Local-first AI agent workspace to cowork with AI on coding, tasks & docs \u2014 self-hosted, privacy-first, one-command Docke",
-    "id": "thanhdp1305/171305-cowork",
-    "language": "TypeScript",
-    "name": "thanhdp1305/171305-cowork",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:12:40Z",
-    "url": "https://github.com/thanhdp1305/171305-cowork"
   }
 ]
