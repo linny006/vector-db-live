@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 11:55 UTC
+> ⏰ Last updated: 2026-06-21 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [wzhongyou/flux](https://github.com/wzhongyou/flux) | 0 | Go | 2026-06-21 | Proximia — 纯 Go 实现的向量数据库，零外部依赖。  HNSW / IVF / BruteForce 索引  余弦 / L2 / 内积距离  元数据过滤（eq、range、in、geo）  混合搜索（向量 + BM25 全文）  |
-| 2 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-06-21 |  |
-| 3 | [nuclide-research/AI-LLM-Infrastructure-OSINT](https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT) | 1 | Python | 2026-06-21 | Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1 |
-| 4 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-06-21 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
-| 5 | [Ardem2025/mem0-temporal-hygiene](https://github.com/Ardem2025/mem0-temporal-hygiene) | 1 | Python | 2026-06-21 | Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol |
-| 6 | [MostafaRastegar/mr-rag](https://github.com/MostafaRastegar/mr-rag) | 0 | Python | 2026-06-21 | Retrieval-Augmented Generation for intelligent question-answering over scraped data. |
-| 7 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-06-21 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
-| 8 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 2 | Python | 2026-06-21 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
-| 9 | [shiyao222333-afk/citrinitas](https://github.com/shiyao222333-afk/citrinitas) | 0 | Python | 2026-06-21 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [wzhongyou/flux](https://github.com/wzhongyou/flux) | 0 | Go | 2026-06-21 | Proximia — 纯 Go 实现的向量数据库，零外部依赖。  HNSW / IVF / BruteForce 索引  余弦 / L2 / 内积距离  元数据过滤（eq、range、in、geo）  混合搜索（向量 + BM25 全文）  |
+| 3 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-06-21 |  |
+| 4 | [nuclide-research/AI-LLM-Infrastructure-OSINT](https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT) | 1 | Python | 2026-06-21 | Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1 |
+| 5 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-06-21 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
+| 6 | [Ardem2025/mem0-temporal-hygiene](https://github.com/Ardem2025/mem0-temporal-hygiene) | 1 | Python | 2026-06-21 | Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol |
+| 7 | [MostafaRastegar/mr-rag](https://github.com/MostafaRastegar/mr-rag) | 0 | Python | 2026-06-21 | Retrieval-Augmented Generation for intelligent question-answering over scraped data. |
+| 8 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-06-21 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
+| 9 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 2 | Python | 2026-06-21 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
+| 10 | [shiyao222333-afk/citrinitas](https://github.com/shiyao222333-afk/citrinitas) | 0 | Python | 2026-06-21 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
 | 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 12 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-06-21 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
 | 13 | [Sakushi-Dev/nexus_memory](https://github.com/Sakushi-Dev/nexus_memory) | 0 | Python | 2026-06-21 | A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [ermermermermidk/mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory) | 1 | TypeScript | 2026-06-21 | 🧠 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y |
 | 27 | [konjoai/vectro](https://github.com/konjoai/vectro) | 11 | Rust | 2026-06-21 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
 | 28 | [techdomegh/ai-news-scraper](https://github.com/techdomegh/ai-news-scraper) | 8 | Python | 2026-06-21 | AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and |
-| 29 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 18401 | Python | 2026-06-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 29 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 18404 | Python | 2026-06-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 30 | [hfgwygey/yu-ai-agent](https://github.com/hfgwygey/yu-ai-agent) | 89 | Java | 2026-06-21 | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI |
 | 31 | [zmwzmo11130/neuraldocs](https://github.com/zmwzmo11130/neuraldocs) | 1 | Python | 2026-06-21 | Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod |
 | 32 | [Maurellone/TySVA](https://github.com/Maurellone/TySVA) | 1 | Python | 2026-06-21 | Learn TypeScript chatting effortlessly with AI |
