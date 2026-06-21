@@ -1,12 +1,12 @@
 [
   {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
     "language": "Rust",
-    "name": "perforate-org/gleaph",
+    "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-21T00:22:01Z",
-    "url": "https://github.com/perforate-org/gleaph"
+    "updated_at": "2026-06-21T00:37:25Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-21T00:15:24Z",
+    "updated_at": "2026-06-21T00:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T00:15:18Z",
+    "updated_at": "2026-06-21T00:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:22:01Z",
+    "url": "https://github.com/perforate-org/gleaph"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:04:47Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-21T00:02:27Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 18296,
-    "updated_at": "2026-06-21T00:26:49Z",
+    "updated_at": "2026-06-21T00:41:30Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
