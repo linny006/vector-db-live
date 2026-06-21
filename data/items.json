@@ -1,5 +1,41 @@
 [
   {
+    "description": "Ask your documents anything \u2014 RAG chatbot with transparent source attribution, free local embeddings",
+    "id": "Dharunmd/rag-document-chatbot",
+    "language": "Python",
+    "name": "Dharunmd/rag-document-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:12:38Z",
+    "url": "https://github.com/Dharunmd/rag-document-chatbot"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:10:10Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
+    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "language": "Python",
+    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:09:08Z",
+    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T05:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Ask your documents anything \u2014 RAG chatbot with transparent source attribution, free local embeddings",
-    "id": "Dharunmd/rag-document-chatbot",
-    "language": "Python",
-    "name": "Dharunmd/rag-document-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:59:13Z",
-    "url": "https://github.com/Dharunmd/rag-document-chatbot"
   },
   {
     "description": "Behavioral analysis layer for DShield logs. A pipeline that refracts raw honeypot logs into behavioral fingerprints; clu",
@@ -34,24 +61,6 @@
     "stars": 371,
     "updated_at": "2026-06-21T04:57:57Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
-    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "language": "Python",
-    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "stars": 1,
-    "updated_at": "2026-06-21T04:37:36Z",
-    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -220,18 +229,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18317,
+    "stars": 18318,
     "updated_at": "2026-06-21T03:16:38Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:15:44Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -374,7 +374,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T03:50:22Z",
+    "updated_at": "2026-06-21T05:14:06Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -418,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32498,
+    "stars": 32500,
     "updated_at": "2026-06-20T21:43:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
