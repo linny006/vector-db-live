@@ -1,12 +1,48 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44858,
+    "updated_at": "2026-06-20T23:57:33Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:55:57Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 781,
+    "updated_at": "2026-06-20T23:51:41Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-20T23:45:20Z",
+    "updated_at": "2026-06-20T23:49:33Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
@@ -27,21 +63,12 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:43:32Z",
-    "url": "https://github.com/furkandogmus/kuberag"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-20T23:45:19Z",
+    "updated_at": "2026-06-20T23:45:22Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -72,21 +99,12 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 18296,
-    "updated_at": "2026-06-20T23:29:04Z",
+    "updated_at": "2026-06-20T23:47:17Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-20T23:39:32Z",
+    "updated_at": "2026-06-20T23:55:44Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-20T23:30:58Z",
+    "updated_at": "2026-06-20T23:47:12Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-06-20T20:36:47Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:31:32Z",
     "url": "https://github.com/nakul85/DocumentGPT-Pro"
-  },
-  {
-    "description": "Persistent Vector Search Engine built from scratch featuring disk-based HNSW indexing, AVX2 optimization, multi-threaded",
-    "id": "shlokkvaishnav/Distributed-Nano-DB",
-    "language": "C++",
-    "name": "shlokkvaishnav/Distributed-Nano-DB",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:17:32Z",
-    "url": "https://github.com/shlokkvaishnav/Distributed-Nano-DB"
-  },
-  {
-    "description": "Production-grade RAG PDF Chatbot built with FastAPI, LangChain, OpenAI GPT-4o, and ChromaDB.",
-    "id": "Anujzdv/RAG-PDF-ChatBot",
-    "language": "Python",
-    "name": "Anujzdv/RAG-PDF-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:00:53Z",
-    "url": "https://github.com/Anujzdv/RAG-PDF-ChatBot"
   }
 ]
