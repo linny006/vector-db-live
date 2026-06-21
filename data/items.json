@@ -1,5 +1,68 @@
 [
   {
+    "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
+    "id": "tanguykonan/pocket-rag-cli",
+    "language": "Python",
+    "name": "tanguykonan/pocket-rag-cli",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:43:31Z",
+    "url": "https://github.com/tanguykonan/pocket-rag-cli"
+  },
+  {
+    "description": "AI-Powered Educational Learning Platform using RAG, Vector Databases, LLMs, Adaptive Learning, Quiz Generation, Flashcar",
+    "id": "prachetagajbhiye-wq/u2u-internship-project",
+    "language": "\u2014",
+    "name": "prachetagajbhiye-wq/u2u-internship-project",
+    "stars": 1,
+    "updated_at": "2026-06-21T18:39:05Z",
+    "url": "https://github.com/prachetagajbhiye-wq/u2u-internship-project"
+  },
+  {
+    "description": "Co-Op is local-first business management software for company planning, research, files, customer work, and operational ",
+    "id": "Afnanksalal/co-op",
+    "language": "TypeScript",
+    "name": "Afnanksalal/co-op",
+    "stars": 4,
+    "updated_at": "2026-06-21T18:36:22Z",
+    "url": "https://github.com/Afnanksalal/co-op"
+  },
+  {
+    "description": "AI-powered Document Question Answering Bot using RAG, ChromaDB, Sentence Transformers, and Google Gemini API.",
+    "id": "Hemanths7/document-qa-bot-rag",
+    "language": "Python",
+    "name": "Hemanths7/document-qa-bot-rag",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:33:03Z",
+    "url": "https://github.com/Hemanths7/document-qa-bot-rag"
+  },
+  {
+    "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
+    "id": "ma2za/docqa-stream",
+    "language": "Python",
+    "name": "ma2za/docqa-stream",
+    "stars": 9,
+    "updated_at": "2026-06-21T18:31:21Z",
+    "url": "https://github.com/ma2za/docqa-stream"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T18:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -13,7 +76,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18547,
+    "stars": 18554,
     "updated_at": "2026-06-21T18:25:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -133,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T18:15:53Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
@@ -306,6 +351,15 @@
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   },
   {
+    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, private by default",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 22,
+    "updated_at": "2026-06-21T18:01:51Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
     "id": "cornellebivalved856/example-multimodal-rag",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
-    "description": "AI-powered Document Question Answering Bot using RAG, ChromaDB, Sentence Transformers, and Google Gemini API.",
-    "id": "Hemanths7/document-qa-bot-rag",
-    "language": "Python",
-    "name": "Hemanths7/document-qa-bot-rag",
-    "stars": 0,
-    "updated_at": "2026-06-21T17:57:57Z",
-    "url": "https://github.com/Hemanths7/document-qa-bot-rag"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T17:54:39Z",
     "url": "https://github.com/gperdrizet/nixx"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-21T17:52:39Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 2,
-    "updated_at": "2026-06-21T17:51:33Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
-    "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "language": "JavaScript",
-    "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "stars": 12,
-    "updated_at": "2026-06-21T17:50:20Z",
-    "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-21T17:49:03Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-06-21T17:48:48Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
