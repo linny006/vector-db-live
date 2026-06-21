@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T13:30:23Z",
+    "updated_at": "2026-06-21T13:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "My reading notes following \" AI-Powered Search\" by Doug Turnbull, Max Irwin, and Trey Grainger",
+    "id": "Ishaan-Ansari/AI-Powered-Search",
+    "language": "Jupyter Notebook",
+    "name": "Ishaan-Ansari/AI-Powered-Search",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:44:39Z",
+    "url": "https://github.com/Ishaan-Ansari/AI-Powered-Search"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 16,
+    "updated_at": "2026-06-21T13:38:29Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7ea7\u5411\u91cf\u6570\u636e\u5e93\u53ec\u56de\u5f15\u64ce\u3002C++17 \u5b9e\u73b0\uff0c\u81ea\u7814 HNSW / IVF / BM25\uff0c\u5355\u4e8c\u8fdb\u5236\u90e8\u7f72\uff0cHTTP API \u5373\u5f00\u5373\u7528\u3002",
+    "id": "wzhongyou/flux",
+    "language": "C++",
+    "name": "wzhongyou/flux",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:36:34Z",
+    "url": "https://github.com/wzhongyou/flux"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 7,
+    "updated_at": "2026-06-21T13:35:00Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 373,
+    "updated_at": "2026-06-21T13:32:11Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T13:20:34Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 16,
-    "updated_at": "2026-06-21T13:28:20Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T13:15:50Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
@@ -279,15 +315,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "\u8f7b\u91cf\u7ea7\u5411\u91cf\u6570\u636e\u5e93\u53ec\u56de\u5f15\u64ce\u3002C++17 \u5b9e\u73b0\uff0c\u81ea\u7814 HNSW / IVF / BM25\uff0c\u5355\u4e8c\u8fdb\u5236\u90e8\u7f72\uff0cHTTP API \u5373\u5f00\u5373\u7528\u3002",
-    "id": "wzhongyou/flux",
-    "language": "C++",
-    "name": "wzhongyou/flux",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:05:52Z",
-    "url": "https://github.com/wzhongyou/flux"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T12:51:15Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 7,
-    "updated_at": "2026-06-21T12:59:48Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-21T12:46:51Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
-    "id": "Sakushi-Dev/nexus_memory",
-    "language": "Python",
-    "name": "Sakushi-Dev/nexus_memory",
-    "stars": 0,
-    "updated_at": "2026-06-21T12:47:25Z",
-    "url": "https://github.com/Sakushi-Dev/nexus_memory"
   }
 ]
