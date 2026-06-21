@@ -1,5 +1,41 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 781,
+    "updated_at": "2026-06-21T05:22:22Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
+    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "language": "Python",
+    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:19:10Z",
+    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9346,
+    "updated_at": "2026-06-21T05:19:04Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:18:04Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
     "id": "Sakushi-Dev/nexus_memory",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/Sakushi-Dev/nexus_memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T05:15:21Z",
+    "updated_at": "2026-06-21T05:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T05:10:10Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
-    "id": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "language": "Python",
-    "name": "nuclide-research/AI-LLM-Infrastructure-OSINT",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:09:08Z",
-    "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
   },
   {
     "description": "Behavioral analysis layer for DShield logs. A pipeline that refracts raw honeypot logs into behavioral fingerprints; clu",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "sochdb/sochdb",
     "stars": 34,
-    "updated_at": "2026-06-21T04:59:28Z",
+    "updated_at": "2026-06-21T05:29:51Z",
     "url": "https://github.com/sochdb/sochdb"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9346,
-    "updated_at": "2026-06-21T03:31:35Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -238,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18318,
+    "stars": 18321,
     "updated_at": "2026-06-21T03:16:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -259,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T02:29:20Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 781,
-    "updated_at": "2026-06-21T02:26:54Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T05:14:06Z",
+    "updated_at": "2026-06-21T05:21:45Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -427,7 +427,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32500,
+    "stars": 32501,
     "updated_at": "2026-06-20T21:43:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
