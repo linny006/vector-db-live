@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-06-21T02:57:23Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:57:18Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
+    "id": "schwabauerbriantomas-gif/m2m-vector-search",
+    "language": "Python",
+    "name": "schwabauerbriantomas-gif/m2m-vector-search",
+    "stars": 24,
+    "updated_at": "2026-06-21T02:56:10Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 34,
+    "updated_at": "2026-06-21T02:56:02Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
     "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
     "id": "mattmre/CHELATEDAI",
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-06-21T02:38:59Z",
+    "updated_at": "2026-06-21T02:55:32Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 18302,
+    "updated_at": "2026-06-21T02:48:19Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 5,
+    "updated_at": "2026-06-21T02:59:03Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "RAG document Q&A with two-stage retrieval (bi-encoder + cross-encoder re-ranking) \u2014 grounded answers with page-level cit",
+    "id": "hejun789/docintel",
+    "language": "Python",
+    "name": "hejun789/docintel",
+    "stars": 1,
+    "updated_at": "2026-06-21T02:46:13Z",
+    "url": "https://github.com/hejun789/docintel"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-21T02:30:23Z",
+    "updated_at": "2026-06-21T02:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -45,24 +108,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:26:45Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 18299,
-    "updated_at": "2026-06-21T02:14:35Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T02:11:15Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-21T02:17:13Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -115,15 +151,6 @@
     "stars": 281,
     "updated_at": "2026-06-21T01:25:39Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
-    "id": "schwabauerbriantomas-gif/m2m-vector-search",
-    "language": "Python",
-    "name": "schwabauerbriantomas-gif/m2m-vector-search",
-    "stars": 24,
-    "updated_at": "2026-06-21T01:23:37Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
   },
   {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
@@ -175,7 +202,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44859,
+    "stars": 44860,
     "updated_at": "2026-06-20T23:57:33Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T19:29:29Z",
     "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
-  },
-  {
-    "description": "Experiment framework testing how shared vector memory causes recall failures (belief asymmetry, authority collapse, memo",
-    "id": "ebaadraheem/shared-memory-failures",
-    "language": "Python",
-    "name": "ebaadraheem/shared-memory-failures",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:29:01Z",
-    "url": "https://github.com/ebaadraheem/shared-memory-failures"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T19:29:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 92,
-    "updated_at": "2026-06-20T19:16:19Z",
-    "url": "https://github.com/qdrant/java-client"
   }
 ]
