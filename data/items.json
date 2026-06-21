@@ -1,12 +1,30 @@
 [
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T00:37:25Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
+    "updated_at": "2026-06-21T01:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-21T01:00:06Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 371,
+    "updated_at": "2026-06-21T00:54:10Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-21T00:30:22Z",
+    "updated_at": "2026-06-21T00:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-21T00:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-21T00:37:25Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 18296,
-    "updated_at": "2026-06-21T00:41:30Z",
+    "updated_at": "2026-06-21T01:00:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 15,
     "updated_at": "2026-06-20T23:44:58Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 371,
-    "updated_at": "2026-06-20T23:43:32Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -167,17 +176,8 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 281,
-    "updated_at": "2026-06-20T23:00:14Z",
+    "updated_at": "2026-06-21T00:50:30Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
-    "id": "konjoai/vectro",
-    "language": "Rust",
-    "name": "konjoai/vectro",
-    "stars": 11,
-    "updated_at": "2026-06-20T23:47:12Z",
-    "url": "https://github.com/konjoai/vectro"
   },
   {
     "description": "Large document Q&A agent using RAG",
