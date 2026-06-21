@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 04:15 UTC
+> ⏰ Last updated: 2026-06-21 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-21 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
-| 2 | [schwabauerbriantomas-gif/m2m-vector-search](https://github.com/schwabauerbriantomas-gif/m2m-vector-search) | 24 | Python | 2026-06-21 | Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration.  |
-| 3 | [hejun789/docintel](https://github.com/hejun789/docintel) | 1 | Python | 2026-06-21 | Agentic RAG document Q&A — a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations |
-| 4 | [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) | 82 | Python | 2026-06-21 | Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. |
-| 5 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-21 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 1 | Rust | 2026-06-21 |  |
-| 9 | [mattmre/CHELATEDAI](https://github.com/mattmre/CHELATEDAI) | 2 | Python | 2026-06-21 | Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d |
-| 10 | [gautam2101/Multi-Modal-RAG-System-with-Hybrid-Retrieval-Reranking](https://github.com/gautam2101/Multi-Modal-RAG-System-with-Hybrid-Retrieval-Reranking) | 0 | Jupyter Notebook | 2026-06-21 | Production-style Multi-Modal RAG pipeline supporting PDF, DOCX, CSV, Excel, JSON, Images, Audio, Video, and Web data wit |
-| 11 | [Dharunmd/rag-document-chatbot](https://github.com/Dharunmd/rag-document-chatbot) | 0 | Python | 2026-06-21 | Ask your documents anything — RAG chatbot with transparent source attribution, free local embeddings |
-| 12 | [shiyao222333-afk/citrinitas](https://github.com/shiyao222333-afk/citrinitas) | 0 | Python | 2026-06-21 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
-| 13 | [pavanbadempet/Movie-Recommendation-System](https://github.com/pavanbadempet/Movie-Recommendation-System) | 8 | Python | 2026-06-21 | Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F |
-| 14 | [diazaeric1-droid/agentic-rag-patterns](https://github.com/diazaeric1-droid/agentic-rag-patterns) | 0 | Python | 2026-06-21 | Runnable reference patterns for AI/LLM engineering: RAG over pgvector, agentic LangGraph flows, a multi-provider LLM lay |
-| 15 | [SheikhSarvar/pyrag-core](https://github.com/SheikhSarvar/pyrag-core) | 0 | Python | 2026-06-21 | Open-source, Python-first RAG platform with FastAPI APIs, LangGraph-native agents, pluggable vector stores (Qdrant/Weavi |
-| 16 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 5 | PHP | 2026-06-21 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
-| 17 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
-| 18 | [konjoai/vectro](https://github.com/konjoai/vectro) | 11 | Rust | 2026-06-21 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
-| 19 | [sochdb/sochdb](https://github.com/sochdb/sochdb) | 34 | Rust | 2026-06-21 | SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory |
-| 20 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 18309 | Python | 2026-06-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 1 | [mattmre/CHELATEDAI](https://github.com/mattmre/CHELATEDAI) | 2 | Python | 2026-06-21 | Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d |
+| 2 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 15 | TypeScript | 2026-06-21 | Deterministic, file-anchored toolkit for AI-agent work — context you can query, rules you can enforce, state you can der |
+| 3 | [sochdb/sochdb](https://github.com/sochdb/sochdb) | 34 | Rust | 2026-06-21 | SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-21 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
+| 7 | [schwabauerbriantomas-gif/m2m-vector-search](https://github.com/schwabauerbriantomas-gif/m2m-vector-search) | 24 | Python | 2026-06-21 | Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration.  |
+| 8 | [hejun789/docintel](https://github.com/hejun789/docintel) | 1 | Python | 2026-06-21 | Agentic RAG document Q&A — a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations |
+| 9 | [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) | 82 | Python | 2026-06-21 | Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. |
+| 10 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 1 | Rust | 2026-06-21 |  |
+| 11 | [gautam2101/Multi-Modal-RAG-System-with-Hybrid-Retrieval-Reranking](https://github.com/gautam2101/Multi-Modal-RAG-System-with-Hybrid-Retrieval-Reranking) | 0 | Jupyter Notebook | 2026-06-21 | Production-style Multi-Modal RAG pipeline supporting PDF, DOCX, CSV, Excel, JSON, Images, Audio, Video, and Web data wit |
+| 12 | [Dharunmd/rag-document-chatbot](https://github.com/Dharunmd/rag-document-chatbot) | 0 | Python | 2026-06-21 | Ask your documents anything — RAG chatbot with transparent source attribution, free local embeddings |
+| 13 | [shiyao222333-afk/citrinitas](https://github.com/shiyao222333-afk/citrinitas) | 0 | Python | 2026-06-21 | Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG |
+| 14 | [pavanbadempet/Movie-Recommendation-System](https://github.com/pavanbadempet/Movie-Recommendation-System) | 8 | Python | 2026-06-21 | Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F |
+| 15 | [diazaeric1-droid/agentic-rag-patterns](https://github.com/diazaeric1-droid/agentic-rag-patterns) | 0 | Python | 2026-06-21 | Runnable reference patterns for AI/LLM engineering: RAG over pgvector, agentic LangGraph flows, a multi-provider LLM lay |
+| 16 | [SheikhSarvar/pyrag-core](https://github.com/SheikhSarvar/pyrag-core) | 0 | Python | 2026-06-21 | Open-source, Python-first RAG platform with FastAPI APIs, LangGraph-native agents, pluggable vector stores (Qdrant/Weavi |
+| 17 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 5 | PHP | 2026-06-21 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
+| 18 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 73 | Python | 2026-06-21 | Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run  |
+| 19 | [konjoai/vectro](https://github.com/konjoai/vectro) | 11 | Rust | 2026-06-21 | ⚡ Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85× faster than FAISS C++) while drastical |
+| 20 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 18310 | Python | 2026-06-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 21 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 1 | Rust | 2026-06-21 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
 | 22 | [nram-ai/nram](https://github.com/nram-ai/nram) | 7 | Go | 2026-06-21 | The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE |
 | 23 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-06-21 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
