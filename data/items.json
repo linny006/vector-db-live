@@ -1,12 +1,30 @@
 [
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T01:43:13Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
+    "updated_at": "2026-06-21T02:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:59:00Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-21T01:58:22Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +32,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-21T01:30:22Z",
+    "updated_at": "2026-06-21T01:45:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Healthcare RAG AI Assistant built with FastAPI, LangChain, OpenAI, and FAISS for document-based question answering.",
+    "id": "surekhabodapati789/healthcare-rag-ai-assistant",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "surekhabodapati789/healthcare-rag-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:44:17Z",
+    "url": "https://github.com/surekhabodapati789/healthcare-rag-ai-assistant"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-21T01:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-21T01:43:13Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 18296,
-    "updated_at": "2026-06-21T01:02:57Z",
+    "updated_at": "2026-06-21T01:57:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T01:25:08Z",
+    "updated_at": "2026-06-21T01:56:23Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:33:46Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
     "id": "pavanbadempet/Movie-Recommendation-System",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:59:44Z",
     "url": "https://github.com/XaveriaCave/arshMind"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-06-20T18:32:36Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) document assistant built with Ollama, LangChain, ChromaDB, Sentence Tran",
-    "id": "nakul85/DocumentGPT-Pro",
-    "language": "Python",
-    "name": "nakul85/DocumentGPT-Pro",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:31:32Z",
-    "url": "https://github.com/nakul85/DocumentGPT-Pro"
   }
 ]
