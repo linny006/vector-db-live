@@ -1,11 +1,47 @@
 [
   {
+    "description": "A local RAG assistant that answers from your own documents \u2014 Chroma vector store, source citations, CLI + FastAPI (Pytho",
+    "id": "haideraliafzal/rag-chatbot-starter",
+    "language": "Python",
+    "name": "haideraliafzal/rag-chatbot-starter",
+    "stars": 0,
+    "updated_at": "2026-06-21T23:47:33Z",
+    "url": "https://github.com/haideraliafzal/rag-chatbot-starter"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 11958,
+    "updated_at": "2026-06-21T23:45:46Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T23:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T23:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 16,
-    "updated_at": "2026-06-21T23:37:43Z",
+    "updated_at": "2026-06-21T23:45:48Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -27,30 +63,12 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T23:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T23:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-21T23:28:50Z",
+    "updated_at": "2026-06-21T23:47:47Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -266,7 +284,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 5,
-    "updated_at": "2026-06-21T23:44:39Z",
+    "updated_at": "2026-06-21T23:45:29Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T22:55:39Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-21T22:55:32Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-21T22:55:10Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
