@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T03:45:19Z",
+    "updated_at": "2026-06-21T04:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:55:21Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-06-21T03:52:17Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Ask your documents anything \u2014 RAG chatbot with transparent source attribution, free local embeddings",
+    "id": "Dharunmd/rag-document-chatbot",
+    "language": "Python",
+    "name": "Dharunmd/rag-document-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:47:28Z",
+    "url": "https://github.com/Dharunmd/rag-document-chatbot"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:45:45Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-06-21T03:30:47Z",
+    "updated_at": "2026-06-21T03:56:41Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -70,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T03:30:28Z",
     "url": "https://github.com/hejun789/docintel"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:29:45Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -121,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18304,
+    "stars": 18308,
     "updated_at": "2026-06-21T03:16:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -151,15 +178,6 @@
     "stars": 44,
     "updated_at": "2026-06-21T02:57:23Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:55:32Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T01:44:17Z",
     "url": "https://github.com/surekhabodapati789/healthcare-rag-ai-assistant"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 1,
-    "updated_at": "2026-06-21T01:43:13Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-06-21T03:10:46Z",
+    "updated_at": "2026-06-21T03:53:52Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T03:06:32Z",
+    "updated_at": "2026-06-21T03:50:22Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-20T20:29:22Z",
     "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-06-20T20:14:17Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
   }
 ]
