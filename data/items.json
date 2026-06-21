@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T06:00:21Z",
+    "updated_at": "2026-06-21T06:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
+    "id": "sochdb/sochdb-python-sdk",
+    "language": "Python",
+    "name": "sochdb/sochdb-python-sdk",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:15:11Z",
+    "url": "https://github.com/sochdb/sochdb-python-sdk"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:03:31Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 781,
+    "updated_at": "2026-06-21T06:01:45Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -36,15 +72,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
     "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
     "language": "JavaScript",
@@ -61,15 +88,6 @@
     "stars": 34,
     "updated_at": "2026-06-21T05:59:29Z",
     "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 781,
-    "updated_at": "2026-06-21T05:22:22Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Population-scale exposed-AI-infrastructure surveys. 33 platform categories, 376 case studies, 88 methodology insights, 1",
@@ -283,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18323,
+    "stars": 18329,
     "updated_at": "2026-06-21T03:16:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -331,15 +349,6 @@
     "stars": 281,
     "updated_at": "2026-06-21T01:25:39Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:08:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 1,
-    "updated_at": "2026-06-21T05:59:41Z",
+    "updated_at": "2026-06-21T06:13:39Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32502,
     "updated_at": "2026-06-20T21:43:10Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1359,
-    "updated_at": "2026-06-21T02:39:16Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   }
 ]
