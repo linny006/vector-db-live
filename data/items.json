@@ -1,5 +1,32 @@
 [
   {
+    "description": "A local-first, dependency-light agent-memory library for Python. It gives an LLM application a persistent, self-managing",
+    "id": "Sakushi-Dev/nexus_memory",
+    "language": "Python",
+    "name": "Sakushi-Dev/nexus_memory",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:16:48Z",
+    "url": "https://github.com/Sakushi-Dev/nexus_memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ask your documents anything \u2014 RAG chatbot with transparent source attribution, free local embeddings",
     "id": "Dharunmd/rag-document-chatbot",
     "language": "Python",
@@ -25,24 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T05:09:08Z",
     "url": "https://github.com/nuclide-research/AI-LLM-Infrastructure-OSINT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Behavioral analysis layer for DShield logs. A pipeline that refracts raw honeypot logs into behavioral fingerprints; clu",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-06-21T04:17:31Z",
+    "updated_at": "2026-06-21T05:15:23Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T21:28:58Z",
     "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-21T01:25:28Z",
-    "url": "https://github.com/edheltzel/Recall"
   }
 ]
