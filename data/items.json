@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:41:15Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:38:47Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:38:18Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:34:44Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:34:38Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:32:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -126,15 +198,6 @@
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T09:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
     "id": "ermermermermidk/mcp-ai-memory",
     "language": "TypeScript",
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T09:15:21Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T09:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise Agent Orchestration Platform \u2014 22 AI agents, 6 swarm topologies, 3-tier memory, self-healing, RAG, Terraform,",
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32505,
-    "updated_at": "2026-06-21T08:25:32Z",
+    "updated_at": "2026-06-21T09:33:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
   },
   {
-    "description": "AI-powered, resume-based job matching pipeline that scrapes, analyzes, and scores jobs to find the jobs that aligns with",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-06-21T07:47:23Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "This repository is a fun weekend project that builds a lightweight vector database from scratch and explores embedding-b",
     "id": "RijoSLal/Build-Your-Own-VectorDB",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T07:26:46Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "Local RAG agent that indexes your markdown notes and answers questions across them. Runs entirely on your machine with O",
-    "id": "vkondi/knowledge-onboarding-agent",
-    "language": "Python",
-    "name": "vkondi/knowledge-onboarding-agent",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:23:43Z",
-    "url": "https://github.com/vkondi/knowledge-onboarding-agent"
-  },
-  {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "HTML",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:21:58Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
-  },
-  {
-    "description": "BCATS is a sophisticated, automated attendance management solution designed to replace traditional, manual attendance-ta",
-    "id": "AKATWIJUKA-ELIA/biometric-attendance-management_system",
-    "language": "TypeScript",
-    "name": "AKATWIJUKA-ELIA/biometric-attendance-management_system",
-    "stars": 1,
-    "updated_at": "2026-06-21T07:12:17Z",
-    "url": "https://github.com/AKATWIJUKA-ELIA/biometric-attendance-management_system"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:08:52Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Self hosted AI workstation: a native desktop app that runs language models on your own hardware, answers questions about",
-    "id": "daveshenal/outpost",
-    "language": "JavaScript",
-    "name": "daveshenal/outpost",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:04:53Z",
-    "url": "https://github.com/daveshenal/outpost"
   }
 ]
