@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T08:15:20Z",
+    "updated_at": "2026-06-21T08:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 5,
+    "updated_at": "2026-06-21T08:30:08Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "",
+    "id": "Nyx-abu/nori",
+    "language": "TypeScript",
+    "name": "Nyx-abu/nori",
+    "stars": 1,
+    "updated_at": "2026-06-21T08:29:12Z",
+    "url": "https://github.com/Nyx-abu/nori"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -18,31 +45,13 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 5,
-    "updated_at": "2026-06-21T08:04:59Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18350,
+    "stars": 18352,
     "updated_at": "2026-06-21T08:01:26Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "sochdb/sochdb",
     "stars": 34,
-    "updated_at": "2026-06-21T07:26:57Z",
+    "updated_at": "2026-06-21T08:30:16Z",
     "url": "https://github.com/sochdb/sochdb"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
     "stars": 2086,
-    "updated_at": "2026-06-21T08:05:47Z",
+    "updated_at": "2026-06-21T08:26:54Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:38:46Z",
     "url": "https://github.com/diazaeric1-droid/agentic-rag-patterns"
-  },
-  {
-    "description": "Open-source, Python-first RAG platform with FastAPI APIs, LangGraph-native agents, pluggable vector stores (Qdrant/Weavi",
-    "id": "SheikhSarvar/pyrag-core",
-    "language": "Python",
-    "name": "SheikhSarvar/pyrag-core",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:37:56Z",
-    "url": "https://github.com/SheikhSarvar/pyrag-core"
   }
 ]
