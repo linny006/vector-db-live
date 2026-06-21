@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-21T08:30:19Z",
+    "updated_at": "2026-06-21T08:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,35 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 5,
-    "updated_at": "2026-06-21T08:30:08Z",
+    "updated_at": "2026-06-21T08:42:51Z",
     "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:41:10Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-06-21T08:41:52Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T08:29:12Z",
     "url": "https://github.com/Nyx-abu/nori"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -49,7 +67,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18352,
+    "stars": 18353,
     "updated_at": "2026-06-21T08:01:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:48:00Z",
     "url": "https://github.com/gautam2101/Multi-Modal-RAG-System-with-Hybrid-Retrieval-Reranking"
-  },
-  {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-21T03:45:09Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Runnable reference patterns for AI/LLM engineering: RAG over pgvector, agentic LangGraph flows, a multi-provider LLM lay",
-    "id": "diazaeric1-droid/agentic-rag-patterns",
-    "language": "Python",
-    "name": "diazaeric1-droid/agentic-rag-patterns",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:38:46Z",
-    "url": "https://github.com/diazaeric1-droid/agentic-rag-patterns"
   }
 ]
