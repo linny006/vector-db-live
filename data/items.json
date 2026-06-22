@@ -1,10 +1,82 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:45:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:41:26Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 7,
+    "updated_at": "2026-06-22T14:40:25Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-22T14:40:23Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 16,
+    "updated_at": "2026-06-22T14:39:00Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:35:08Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
+    "id": "yoyobeverage/cardinal",
+    "language": "TypeScript",
+    "name": "yoyobeverage/cardinal",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:31:35Z",
+    "url": "https://github.com/yoyobeverage/cardinal"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 13 MCP tools, 20 format parsers, hybrid search + rerank",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
-    "stars": 100,
+    "stars": 101,
     "updated_at": "2026-06-22T14:25:26Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
@@ -36,15 +108,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
-    "id": "yoyobeverage/cardinal",
-    "language": "TypeScript",
-    "name": "yoyobeverage/cardinal",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:19:22Z",
-    "url": "https://github.com/yoyobeverage/cardinal"
-  },
-  {
     "description": "WASM implementation of sqlite, with vector database support; written in Rust.",
     "id": "Brainwires/rsqlite-wasm",
     "language": "Rust",
@@ -63,30 +126,12 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6160,
-    "updated_at": "2026-06-22T14:27:11Z",
+    "updated_at": "2026-06-22T14:39:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -108,20 +153,11 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-22T14:10:36Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 19103,
+    "stars": 19121,
     "updated_at": "2026-06-22T14:10:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16394,
-    "updated_at": "2026-06-22T14:13:38Z",
+    "updated_at": "2026-06-22T14:31:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T14:05:48Z",
     "url": "https://github.com/OpenPj/spring-manifold-next-gen"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 16,
-    "updated_at": "2026-06-22T14:28:35Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -374,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7762,
-    "updated_at": "2026-06-22T14:29:35Z",
+    "updated_at": "2026-06-22T14:32:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6968,
-    "updated_at": "2026-06-22T13:18:48Z",
+    "updated_at": "2026-06-22T14:32:29Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-22T12:51:35Z",
     "url": "https://github.com/Melce-AI/agentic-rag"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:48:20Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-22T12:46:43Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing 6\ubd80\uc791 \uc778\ub371\uc2a4 (PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-private-ai-series",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-private-ai-series",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:45:34Z",
-    "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
   }
 ]
