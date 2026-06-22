@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-22T21:00:22Z",
+    "updated_at": "2026-06-22T21:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 283,
+    "updated_at": "2026-06-22T21:15:11Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:13:36Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:13:09Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:12:59Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:12:49Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:10:47Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-06-22T21:10:52Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-06-22T21:09:07Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:05:01Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-22T21:04:27Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS ",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-06-22T21:04:10Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:00:34Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -14,8 +122,26 @@
     "language": "Python",
     "name": "Faraz6180/Insightpilot-ai",
     "stars": 0,
-    "updated_at": "2026-06-22T21:00:15Z",
+    "updated_at": "2026-06-22T21:00:29Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T21:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-22T21:00:24Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -122,7 +248,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-22T20:56:58Z",
+    "updated_at": "2026-06-22T21:00:51Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -151,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T20:47:02Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T20:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -230,17 +347,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 957,
-    "updated_at": "2026-06-22T20:36:23Z",
+    "updated_at": "2026-06-22T21:10:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 283,
-    "updated_at": "2026-06-22T20:35:58Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T20:26:25Z",
     "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-06-22T20:25:38Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Vector_DB_with_LLM",
-    "id": "euiyounghwang/Vector_DB_with_LLM",
-    "language": "Jupyter Notebook",
-    "name": "euiyounghwang/Vector_DB_with_LLM",
-    "stars": 2,
-    "updated_at": "2026-06-22T20:23:00Z",
-    "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
-  },
-  {
-    "description": "An intelligent multi-agent platform designed to act as a virtual founding team. Powered by LangGraph, FastAPI, and Next.",
-    "id": "sarabera/ai-co-founder",
-    "language": "Python",
-    "name": "sarabera/ai-co-founder",
-    "stars": 0,
-    "updated_at": "2026-06-22T20:21:19Z",
-    "url": "https://github.com/sarabera/ai-co-founder"
-  },
-  {
-    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
-    "id": "DivyanshuVortex/vortex",
-    "language": "TypeScript",
-    "name": "DivyanshuVortex/vortex",
-    "stars": 0,
-    "updated_at": "2026-06-22T20:19:17Z",
-    "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 8,
-    "updated_at": "2026-06-22T20:18:06Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 89,
-    "updated_at": "2026-06-22T20:17:14Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-06-22T20:16:15Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "A dynamic Agentic RAG platform for real-time news analysis, bias detection, and timeline synthesis. Built with Pathway, ",
-    "id": "OptimusPrime-hub/NewsLens",
-    "language": "Python",
-    "name": "OptimusPrime-hub/NewsLens",
-    "stars": 1,
-    "updated_at": "2026-06-22T20:15:33Z",
-    "url": "https://github.com/OptimusPrime-hub/NewsLens"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-22T20:14:58Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-22T20:14:54Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-06-22T20:25:05Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-06-22T20:52:31Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
