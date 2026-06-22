@@ -5,26 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-22T11:45:22Z",
+    "updated_at": "2026-06-22T12:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1850,
-    "updated_at": "2026-06-22T11:45:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:57:44Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
   },
   {
-    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
-    "id": "rahimahgilani/pdf-chatbot",
-    "language": "Python",
-    "name": "rahimahgilani/pdf-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-22T11:45:11Z",
-    "url": "https://github.com/rahimahgilani/pdf-chatbot"
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-22T11:57:29Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
@@ -32,8 +32,125 @@
     "language": "Rust",
     "name": "BaseMyAI/basemyai",
     "stars": 0,
-    "updated_at": "2026-06-22T11:44:45Z",
+    "updated_at": "2026-06-22T11:58:10Z",
     "url": "https://github.com/BaseMyAI/basemyai"
+  },
+  {
+    "description": "Shotit is a screenshot-to-video search engine tailored for TV & Film, blazing-fast and compute-efficient.",
+    "id": "shotit/shotit",
+    "language": "\u2014",
+    "name": "shotit/shotit",
+    "stars": 24,
+    "updated_at": "2026-06-22T11:56:33Z",
+    "url": "https://github.com/shotit/shotit"
+  },
+  {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 13 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 100,
+    "updated_at": "2026-06-22T11:55:50Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
+    "id": "Snow17s/spank",
+    "language": "Go",
+    "name": "Snow17s/spank",
+    "stars": 2,
+    "updated_at": "2026-06-22T11:53:15Z",
+    "url": "https://github.com/Snow17s/spank"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6968,
+    "updated_at": "2026-06-22T11:55:30Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 2,
+    "updated_at": "2026-06-22T11:50:59Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44889,
+    "updated_at": "2026-06-22T11:50:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "6 production-grade AI projects: LangGraph multi-agent, OPA policy-as-code, self-correcting RAG, Kubernetes/Helm, RBAC, a",
+    "id": "SeydinaBANE/senior-ml-portfolio",
+    "language": "Python",
+    "name": "SeydinaBANE/senior-ml-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:49:00Z",
+    "url": "https://github.com/SeydinaBANE/senior-ml-portfolio"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 15,
+    "updated_at": "2026-06-22T11:48:48Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:47:08Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 2,
+    "updated_at": "2026-06-22T11:46:43Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Buil",
+    "id": "rahimahgilani/pdf-chatbot",
+    "language": "Python",
+    "name": "rahimahgilani/pdf-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:46:17Z",
+    "url": "https://github.com/rahimahgilani/pdf-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1850,
+    "updated_at": "2026-06-22T11:58:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
@@ -49,7 +166,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 12101,
+    "stars": 12103,
     "updated_at": "2026-06-22T11:41:06Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -59,7 +176,7 @@
     "language": "C++",
     "name": "thustorage/PipeANN",
     "stars": 139,
-    "updated_at": "2026-06-22T11:40:10Z",
+    "updated_at": "2026-06-22T11:47:14Z",
     "url": "https://github.com/thustorage/PipeANN"
   },
   {
@@ -112,18 +229,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18993,
+    "stars": 19000,
     "updated_at": "2026-06-22T11:35:33Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44889,
-    "updated_at": "2026-06-22T11:34:25Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
@@ -142,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T11:31:18Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T11:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -275,7 +374,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4412,
-    "updated_at": "2026-06-22T11:11:03Z",
+    "updated_at": "2026-06-22T11:47:07Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -283,7 +382,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 586,
+    "stars": 587,
     "updated_at": "2026-06-22T11:09:38Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T11:04:20Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-06-22T11:04:09Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "Fast, SQL powered, in-process vector search for any language with an SQLite driver",
-    "id": "1yefuwang1/vectorlite",
-    "language": "C++",
-    "name": "1yefuwang1/vectorlite",
-    "stars": 362,
-    "updated_at": "2026-06-22T11:02:27Z",
-    "url": "https://github.com/1yefuwang1/vectorlite"
-  },
-  {
-    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
-    "id": "leekkk2/transcendence-memory-server",
-    "language": "Python",
-    "name": "leekkk2/transcendence-memory-server",
-    "stars": 6,
-    "updated_at": "2026-06-22T10:59:43Z",
-    "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4577,
-    "updated_at": "2026-06-22T10:59:28Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-06-22T10:59:21Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
-    "id": "voytas75/brainos",
-    "language": "Python",
-    "name": "voytas75/brainos",
-    "stars": 0,
-    "updated_at": "2026-06-22T10:58:37Z",
-    "url": "https://github.com/voytas75/brainos"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-06-22T10:55:28Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 16,
-    "updated_at": "2026-06-22T10:58:49Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6968,
-    "updated_at": "2026-06-22T10:54:19Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 498,
-    "updated_at": "2026-06-22T10:49:14Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-22T10:49:40Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
