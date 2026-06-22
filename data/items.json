@@ -1,5 +1,158 @@
 [
   {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 252,
+    "updated_at": "2026-06-22T15:14:29Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-22T15:14:07Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:12:15Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:12:04Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 13 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 101,
+    "updated_at": "2026-06-22T15:11:26Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "News Intelligence RAG API using NewsAPI, Gemini Embeddings, Pinecone, LangChain, and FastAPI.",
+    "id": "satrialfata/news-rag-pipeline",
+    "language": "Python",
+    "name": "satrialfata/news-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:10:19Z",
+    "url": "https://github.com/satrialfata/news-rag-pipeline"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 5,
+    "updated_at": "2026-06-22T15:10:06Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-06-22T15:09:30Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:05:42Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:05:15Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-22T15:04:57Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32557,
+    "updated_at": "2026-06-22T15:04:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 19141,
+    "updated_at": "2026-06-22T15:04:10Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6968,
+    "updated_at": "2026-06-22T15:01:15Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:59:15Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
     "id": "Mehdi138534/ai-news-scraper",
     "language": "HTML",
@@ -50,7 +203,7 @@
     "language": "Rust",
     "name": "slothflowlabs/duckle",
     "stars": 588,
-    "updated_at": "2026-06-22T14:54:15Z",
+    "updated_at": "2026-06-22T15:15:20Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
   {
@@ -126,24 +279,6 @@
     "url": "https://github.com/DivyanshuVortex/vortex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:45:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -162,21 +297,12 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-06-22T14:40:23Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 16,
-    "updated_at": "2026-06-22T14:39:00Z",
+    "updated_at": "2026-06-22T15:13:16Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -207,13 +333,13 @@
     "url": "https://github.com/yoyobeverage/cardinal"
   },
   {
-    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 13 MCP tools, 20 format parsers, hybrid search + rerank",
-    "id": "lyonzin/knowledge-rag",
+    "description": "Production-style RAG assistant for policy & compliance docs \u2014 hybrid retrieval, reranking, citations, and a live demo.",
+    "id": "oa07610/atlas-rag",
     "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 101,
-    "updated_at": "2026-06-22T14:25:26Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
+    "name": "oa07610/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:25:21Z",
+    "url": "https://github.com/oa07610/atlas-rag"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -257,7 +383,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6160,
-    "updated_at": "2026-06-22T14:52:36Z",
+    "updated_at": "2026-06-22T15:13:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -270,39 +396,12 @@
     "url": "https://github.com/Cyning12/ai-ink-brain"
   },
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-06-22T14:12:14Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 19131,
-    "updated_at": "2026-06-22T14:10:33Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32556,
-    "updated_at": "2026-06-22T14:17:36Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16394,
-    "updated_at": "2026-06-22T14:31:46Z",
+    "updated_at": "2026-06-22T15:11:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T14:03:38Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 88,
-    "updated_at": "2026-06-22T14:02:15Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "ETL pipeline: chunk local SEC EDGAR filings, embed with BGE-M3, and store in PostgreSQL (pgvector + pg_search BM25) via ",
-    "id": "sanjuthomas/sec-edgar-filings-to-pgvector",
-    "language": "Python",
-    "name": "sanjuthomas/sec-edgar-filings-to-pgvector",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:01:09Z",
-    "url": "https://github.com/sanjuthomas/sec-edgar-filings-to-pgvector"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1850,
-    "updated_at": "2026-06-22T14:00:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44890,
-    "updated_at": "2026-06-22T13:58:27Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 252,
-    "updated_at": "2026-06-22T13:55:28Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
-    "id": "hillzeealex/vektoria",
-    "language": "Python",
-    "name": "hillzeealex/vektoria",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:53:07Z",
-    "url": "https://github.com/hillzeealex/vektoria"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:51:46Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
-    "id": "sameerthawait/adaptive_sementic_chunking",
-    "language": "Python",
-    "name": "sameerthawait/adaptive_sementic_chunking",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:51:22Z",
-    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
-  },
-  {
-    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
-    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:48:07Z",
-    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1894,
-    "updated_at": "2026-06-22T13:53:06Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-rag-reference-architecture",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-rag-reference-architecture",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:43:59Z",
-    "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
   }
 ]
