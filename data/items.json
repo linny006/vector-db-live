@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-22T13:45:28Z",
+    "updated_at": "2026-06-22T14:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44890,
+    "updated_at": "2026-06-22T13:58:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6160,
+    "updated_at": "2026-06-22T13:59:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 252,
+    "updated_at": "2026-06-22T13:55:28Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
+    "id": "hillzeealex/vektoria",
+    "language": "Python",
+    "name": "hillzeealex/vektoria",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:53:07Z",
+    "url": "https://github.com/hillzeealex/vektoria"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-06-22T13:51:46Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
+    "id": "sameerthawait/adaptive_sementic_chunking",
+    "language": "Python",
+    "name": "sameerthawait/adaptive_sementic_chunking",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:51:22Z",
+    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
+  },
+  {
+    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
+    "id": "yoyobeverage/cardinal",
+    "language": "TypeScript",
+    "name": "yoyobeverage/cardinal",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:49:43Z",
+    "url": "https://github.com/yoyobeverage/cardinal"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 19086,
+    "updated_at": "2026-06-22T13:48:53Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
+    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:48:07Z",
+    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 588,
+    "updated_at": "2026-06-22T13:47:59Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1894,
+    "updated_at": "2026-06-22T13:53:06Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
@@ -16,42 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:43:59Z",
     "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
-  },
-  {
-    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
-    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:43:47Z",
-    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6160,
-    "updated_at": "2026-06-22T13:43:25Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
-    "id": "sameerthawait/adaptive_sementic_chunking",
-    "language": "Python",
-    "name": "sameerthawait/adaptive_sementic_chunking",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:39:31Z",
-    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1894,
-    "updated_at": "2026-06-22T13:38:38Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
     "description": "\ud83d\udd0d A Semantic Search and RAG engine built entirely from scratch\u2014no LangChain or LlamaIndex. It features custom chunking e",
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 16,
-    "updated_at": "2026-06-22T13:37:28Z",
+    "updated_at": "2026-06-22T13:57:54Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32555,
-    "updated_at": "2026-06-22T13:33:28Z",
+    "updated_at": "2026-06-22T13:52:29Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/OpenPj/spring-manifold-next-gen"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 588,
-    "updated_at": "2026-06-22T13:31:12Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
     "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
     "id": "BaseMyAI/basemyai",
     "language": "Rust",
@@ -133,15 +196,6 @@
     "stars": 231,
     "updated_at": "2026-06-22T13:30:55Z",
     "url": "https://github.com/coder/hnsw"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -212,7 +266,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-06-22T13:13:28Z",
+    "updated_at": "2026-06-22T13:59:58Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 8,
     "updated_at": "2026-06-22T13:09:01Z",
     "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
-    "id": "hillzeealex/vektoria",
-    "language": "Python",
-    "name": "hillzeealex/vektoria",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:05:55Z",
-    "url": "https://github.com/hillzeealex/vektoria"
   },
   {
     "description": "",
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 2,
-    "updated_at": "2026-06-22T12:41:54Z",
+    "updated_at": "2026-06-22T13:57:04Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T12:31:40Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 19069,
-    "updated_at": "2026-06-22T12:31:19Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:30:37Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:30:32Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 252,
-    "updated_at": "2026-06-22T13:03:22Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-06-22T12:28:10Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
   }
 ]
