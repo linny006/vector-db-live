@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 23:50 UTC
+> ⏰ Last updated: 2026-06-22 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [haideraliafzal/rag-chatbot-starter](https://github.com/haideraliafzal/rag-chatbot-starter) | 0 | Python | 2026-06-21 | A local RAG assistant that answers from your own documents — Chroma vector store, source citations, CLI + FastAPI (Pytho |
-| 2 | [alibaba/zvec](https://github.com/alibaba/zvec) | 11958 | C++ | 2026-06-21 | A lightweight, lightning-fast, in-process vector database |
+| 1 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 373 | TypeScript | 2026-06-21 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 16 | Rust | 2026-06-21 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
 | 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 16 | Rust | 2026-06-21 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 6 | [schmitech/orbit](https://github.com/schmitech/orbit) | 281 | Python | 2026-06-21 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
-| 7 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 2 | Python | 2026-06-21 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
-| 8 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 1 | Rust | 2026-06-21 |  |
-| 9 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-21 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
-| 10 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-06-21 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 11 | [Dakera-AI/dakera-rs](https://github.com/Dakera-AI/dakera-rs) | 6 | Rust | 2026-06-21 | Rust SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se |
-| 12 | [Dakera-AI/dakera-py](https://github.com/Dakera-AI/dakera-py) | 3 | Python | 2026-06-21 | Python SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions. |
-| 13 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-21 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 14 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 15 | JavaScript | 2026-06-21 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
-| 15 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 117 | Python | 2026-06-21 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
-| 16 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 373 | TypeScript | 2026-06-21 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 4 | [haideraliafzal/rag-chatbot-starter](https://github.com/haideraliafzal/rag-chatbot-starter) | 0 | Python | 2026-06-21 | A local RAG assistant that answers from your own documents — Chroma vector store, source citations, CLI + FastAPI (Pytho |
+| 5 | [alibaba/zvec](https://github.com/alibaba/zvec) | 11958 | C++ | 2026-06-21 | A lightweight, lightning-fast, in-process vector database |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | 281 | Python | 2026-06-21 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
+| 8 | [dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | 2 | Python | 2026-06-21 | LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP.  |
+| 9 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 1 | Rust | 2026-06-21 |  |
+| 10 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-21 | Atlas — self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM |
+| 11 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-06-21 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
+| 12 | [Dakera-AI/dakera-rs](https://github.com/Dakera-AI/dakera-rs) | 6 | Rust | 2026-06-21 | Rust SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se |
+| 13 | [Dakera-AI/dakera-py](https://github.com/Dakera-AI/dakera-py) | 3 | Python | 2026-06-21 | Python SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions. |
+| 14 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-06-21 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
+| 15 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 15 | JavaScript | 2026-06-21 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
+| 16 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 117 | Python | 2026-06-21 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
 | 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-21 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 18 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-06-21 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 19 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-06-21 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
