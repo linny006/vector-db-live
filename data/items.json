@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-22T14:00:25Z",
+    "updated_at": "2026-06-22T14:15:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-06-22T14:12:14Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-22T14:10:36Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 19095,
+    "updated_at": "2026-06-22T14:10:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32556,
+    "updated_at": "2026-06-22T14:08:56Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16394,
+    "updated_at": "2026-06-22T14:13:38Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
+    "id": "BaseMyAI/basemyai",
+    "language": "Rust",
+    "name": "BaseMyAI/basemyai",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:07:30Z",
+    "url": "https://github.com/BaseMyAI/basemyai"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-06-22T14:06:35Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-06-22T14:06:18Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "Spring-Manifold Next-Gen is an enterprise data integration and ingestion platform modeled after Apache ManifoldCF. It le",
+    "id": "OpenPj/spring-manifold-next-gen",
+    "language": "Java",
+    "name": "OpenPj/spring-manifold-next-gen",
+    "stars": 2,
+    "updated_at": "2026-06-22T14:05:48Z",
+    "url": "https://github.com/OpenPj/spring-manifold-next-gen"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 16,
+    "updated_at": "2026-06-22T14:04:08Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-22T14:03:38Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 8,
+    "updated_at": "2026-06-22T14:15:27Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 88,
+    "updated_at": "2026-06-22T14:02:15Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "ETL pipeline: chunk local SEC EDGAR filings, embed with BGE-M3, and store in PostgreSQL (pgvector + pg_search BM25) via ",
+    "id": "sanjuthomas/sec-edgar-filings-to-pgvector",
+    "language": "Python",
+    "name": "sanjuthomas/sec-edgar-filings-to-pgvector",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:01:09Z",
+    "url": "https://github.com/sanjuthomas/sec-edgar-filings-to-pgvector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1850,
+    "updated_at": "2026-06-22T14:00:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -23,7 +167,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6160,
-    "updated_at": "2026-06-22T13:59:07Z",
+    "updated_at": "2026-06-22T14:15:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -72,15 +216,6 @@
     "url": "https://github.com/yoyobeverage/cardinal"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 19086,
-    "updated_at": "2026-06-22T13:48:53Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
     "id": "JaeHoYun/vcf-dsm-vectordb-guide",
     "language": "\u2014",
@@ -108,15 +243,6 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
     "id": "JaeHoYun/vcf-rag-reference-architecture",
     "language": "\u2014",
@@ -135,15 +261,6 @@
     "url": "https://github.com/MelihOrel/Semantic-Search-RAG-Engine-Built-From-Scratch"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 16,
-    "updated_at": "2026-06-22T13:57:54Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "RAG-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u043f\u043e \u043d\u0430\u0443\u0447\u043d\u044b\u043c \u0441\u0442\u0430\u0442\u044c\u044f\u043c arXiv (NLP): \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u0442 \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438. \u0421\u0442\u0435\u043a: Qdrant, Qwen, FastAPI.",
     "id": "ConstDemi/ragarxiv",
     "language": "Jupyter Notebook",
@@ -153,15 +270,6 @@
     "url": "https://github.com/ConstDemi/ragarxiv"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32555,
-    "updated_at": "2026-06-22T13:52:29Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
     "id": "hejun789/docintel",
     "language": "Python",
@@ -169,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T13:32:53Z",
     "url": "https://github.com/hejun789/docintel"
-  },
-  {
-    "description": "Spring-Manifold Next-Gen is an enterprise data integration and ingestion platform modeled after Apache ManifoldCF. It le",
-    "id": "OpenPj/spring-manifold-next-gen",
-    "language": "Java",
-    "name": "OpenPj/spring-manifold-next-gen",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:32:30Z",
-    "url": "https://github.com/OpenPj/spring-manifold-next-gen"
-  },
-  {
-    "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
-    "id": "BaseMyAI/basemyai",
-    "language": "Rust",
-    "name": "BaseMyAI/basemyai",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:34:12Z",
-    "url": "https://github.com/BaseMyAI/basemyai"
   },
   {
     "description": "In-memory vector index for Go",
@@ -225,21 +315,12 @@
     "url": "https://github.com/DivyanshuVortex/vortex"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16394,
-    "updated_at": "2026-06-22T13:23:38Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7762,
-    "updated_at": "2026-06-22T13:40:42Z",
+    "updated_at": "2026-06-22T14:14:56Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -261,15 +342,6 @@
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-06-22T13:59:58Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
     "id": "zilliztech/mfs",
     "language": "Python",
@@ -284,7 +356,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 1,
-    "updated_at": "2026-06-22T12:54:27Z",
+    "updated_at": "2026-06-22T14:04:20Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -310,7 +382,7 @@
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 281,
+    "stars": 282,
     "updated_at": "2026-06-22T12:46:43Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -340,15 +412,6 @@
     "stars": 809,
     "updated_at": "2026-06-22T12:44:57Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:57:04Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T12:38:25Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Search a Python codebase with natural language using semantic embeddings",
-    "id": "Rachel-Mathew25/semantic-code-search",
-    "language": "Python",
-    "name": "Rachel-Mathew25/semantic-code-search",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:56Z",
-    "url": "https://github.com/Rachel-Mathew25/semantic-code-search"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:34:46Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:33:13Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:33:04Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:32:51Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:32:07Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:31:40Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
