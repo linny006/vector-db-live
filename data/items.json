@@ -1,11 +1,92 @@
 [
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 33291,
+    "updated_at": "2026-06-22T17:11:30Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
+    "id": "dejan3dejan/langgraph-travel-agent",
+    "language": "Python",
+    "name": "dejan3dejan/langgraph-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:10:52Z",
+    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:10:20Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 0,
+    "updated_at": "2026-06-22T17:10:06Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:07:55Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 588,
+    "updated_at": "2026-06-22T17:05:42Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 22,
+    "updated_at": "2026-06-22T17:01:56Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T17:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12674,
-    "updated_at": "2026-06-22T16:59:22Z",
+    "updated_at": "2026-06-22T17:06:32Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -27,21 +108,12 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
-    "id": "kherrera6219/theFactory",
-    "language": "Python",
-    "name": "kherrera6219/theFactory",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:55:11Z",
-    "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-22T16:54:57Z",
+    "updated_at": "2026-06-22T17:05:36Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T16:49:27Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 588,
-    "updated_at": "2026-06-22T16:48:33Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
@@ -169,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T16:46:22Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:45:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T17:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
@@ -265,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 19222,
+    "stars": 19234,
     "updated_at": "2026-06-22T16:39:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T16:38:47Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Multi-agent AI system for travel planning. Built with LangGraph, semantic caching (pgvector), and automated LLM-as-a-Jud",
-    "id": "dejan3dejan/langgraph-travel-agent",
-    "language": "Python",
-    "name": "dejan3dejan/langgraph-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:38:42Z",
-    "url": "https://github.com/dejan3dejan/langgraph-travel-agent"
   },
   {
     "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
@@ -322,15 +358,6 @@
     "stars": 785,
     "updated_at": "2026-06-22T16:36:27Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 22,
-    "updated_at": "2026-06-22T16:55:47Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
     "description": "AI-powered PDF Question Answering Chatbot using RAG and Mistral AI",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T16:30:31Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:30:08Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:26:05Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-22T16:23:12Z",
-    "url": "https://github.com/Snow17s/spank"
   }
 ]
