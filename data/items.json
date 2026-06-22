@@ -1,11 +1,83 @@
 [
   {
+    "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
+    "id": "BaseMyAI/basemyai",
+    "language": "Rust",
+    "name": "BaseMyAI/basemyai",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:14:19Z",
+    "url": "https://github.com/BaseMyAI/basemyai"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-06-22T13:13:28Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 16,
+    "updated_at": "2026-06-22T13:09:32Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 8,
+    "updated_at": "2026-06-22T13:09:01Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1894,
+    "updated_at": "2026-06-22T13:06:21Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Sovereign, self-hosted vector database for Europe. Exact + hybrid search, PDF ingestion, GDPR-native.",
+    "id": "hillzeealex/vektoria",
+    "language": "Python",
+    "name": "hillzeealex/vektoria",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:05:55Z",
+    "url": "https://github.com/hillzeealex/vektoria"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6160,
-    "updated_at": "2026-06-22T12:58:17Z",
+    "updated_at": "2026-06-22T13:11:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Local memory engine for AI agents \u2014 privacy-first, 100% local, single libSQL file",
-    "id": "BaseMyAI/basemyai",
-    "language": "Rust",
-    "name": "BaseMyAI/basemyai",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:00:26Z",
-    "url": "https://github.com/BaseMyAI/basemyai"
-  },
-  {
     "description": "A multi-agent RAG pipeline for enterprise data with MCP integration and human-in-the-loop validation.",
     "id": "Melce-AI/agentic-rag",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-06-22T12:51:35Z",
     "url": "https://github.com/Melce-AI/agentic-rag"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 8,
-    "updated_at": "2026-06-22T12:49:15Z",
-    "url": "https://github.com/zilliztech/mfs"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -72,15 +126,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 16,
-    "updated_at": "2026-06-22T12:45:49Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
     "id": "JaeHoYun/vcf-rag-reference-architecture",
     "language": "\u2014",
@@ -97,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:45:34Z",
     "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
@@ -256,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 19039,
+    "stars": 19051,
     "updated_at": "2026-06-22T12:31:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "AleksNeStu/ai-real-estate-assistant",
     "stars": 252,
-    "updated_at": "2026-06-22T12:29:22Z",
+    "updated_at": "2026-06-22T13:03:22Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:18:46Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "A graph-first, embedded multi-model database engine",
-    "id": "insanalamin/sekejap",
-    "language": "Rust",
-    "name": "insanalamin/sekejap",
-    "stars": 5,
-    "updated_at": "2026-06-22T12:18:43Z",
-    "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:17:50Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:17:14Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
