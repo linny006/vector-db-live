@@ -1,5 +1,149 @@
 [
   {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:44:17Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:43:38Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6160,
+    "updated_at": "2026-06-22T15:43:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 588,
+    "updated_at": "2026-06-22T15:41:46Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:39:50Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-22T15:39:48Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-22T15:39:33Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:38:43Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:38:03Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:37:46Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:37:30Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 252,
+    "updated_at": "2026-06-22T15:36:36Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:34:47Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 34,
+    "updated_at": "2026-06-22T15:34:34Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:34:19Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-22T15:34:10Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -9,30 +153,12 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6160,
-    "updated_at": "2026-06-22T15:32:07Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T15:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-22T15:30:25Z",
+    "updated_at": "2026-06-22T15:45:27Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -86,7 +212,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 16,
-    "updated_at": "2026-06-22T15:20:18Z",
+    "updated_at": "2026-06-22T15:42:58Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -115,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T15:18:01Z",
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 588,
-    "updated_at": "2026-06-22T15:15:20Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 252,
-    "updated_at": "2026-06-22T15:33:47Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -166,7 +274,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16395,
+    "stars": 16396,
     "updated_at": "2026-06-22T15:11:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -238,7 +346,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 19157,
+    "stars": 19165,
     "updated_at": "2026-06-22T15:04:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -248,7 +356,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6968,
-    "updated_at": "2026-06-22T15:01:15Z",
+    "updated_at": "2026-06-22T15:43:48Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T14:47:00Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:45:46Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-22T14:45:42Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
-    "id": "DivyanshuVortex/vortex",
-    "language": "TypeScript",
-    "name": "DivyanshuVortex/vortex",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:45:41Z",
-    "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted engineering platform for gen-AI, ML, and data work. 30+ OSS Docker Compose services (Ollama, LiteLLM",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:41:26Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 7,
-    "updated_at": "2026-06-22T14:40:25Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:35:08Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58230,
-    "updated_at": "2026-06-22T14:34:30Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
-    "id": "yoyobeverage/cardinal",
-    "language": "TypeScript",
-    "name": "yoyobeverage/cardinal",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:31:35Z",
-    "url": "https://github.com/yoyobeverage/cardinal"
-  },
-  {
-    "description": "Production-style RAG assistant for policy & compliance docs \u2014 hybrid retrieval, reranking, citations, and a live demo.",
-    "id": "oa07610/atlas-rag",
-    "language": "Python",
-    "name": "oa07610/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:25:21Z",
-    "url": "https://github.com/oa07610/atlas-rag"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 8,
-    "updated_at": "2026-06-22T14:22:48Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-06-22T14:21:09Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6136,
-    "updated_at": "2026-06-22T14:57:25Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
