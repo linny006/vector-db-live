@@ -1,5 +1,77 @@
 [
   {
+    "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code \u2014 13 MCP tools, 20 format parsers, hybrid search + rerank",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 100,
+    "updated_at": "2026-06-22T14:25:26Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 8,
+    "updated_at": "2026-06-22T14:22:48Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-22T14:21:09Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6136,
+    "updated_at": "2026-06-22T14:19:48Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
+    "id": "yoyobeverage/cardinal",
+    "language": "TypeScript",
+    "name": "yoyobeverage/cardinal",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:19:22Z",
+    "url": "https://github.com/yoyobeverage/cardinal"
+  },
+  {
+    "description": "WASM implementation of sqlite, with vector database support; written in Rust.",
+    "id": "Brainwires/rsqlite-wasm",
+    "language": "Rust",
+    "name": "Brainwires/rsqlite-wasm",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:17:37Z",
+    "url": "https://github.com/Brainwires/rsqlite-wasm"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12391,
+    "updated_at": "2026-06-22T14:17:23Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +79,24 @@
     "stars": 1,
     "updated_at": "2026-06-22T14:15:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6160,
+    "updated_at": "2026-06-22T14:27:11Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
+    "id": "Cyning12/ai-ink-brain",
+    "language": "TypeScript",
+    "name": "Cyning12/ai-ink-brain",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:14:34Z",
+    "url": "https://github.com/Cyning12/ai-ink-brain"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -31,7 +121,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 19095,
+    "stars": 19103,
     "updated_at": "2026-06-22T14:10:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -41,7 +131,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32556,
-    "updated_at": "2026-06-22T14:08:56Z",
+    "updated_at": "2026-06-22T14:17:36Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-22T14:06:35Z",
+    "updated_at": "2026-06-22T14:23:54Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 16,
-    "updated_at": "2026-06-22T14:04:08Z",
+    "updated_at": "2026-06-22T14:28:35Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T14:03:38Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 8,
-    "updated_at": "2026-06-22T14:15:27Z",
-    "url": "https://github.com/lancedb/docs"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -135,15 +216,6 @@
     "url": "https://github.com/sanjuthomas/sec-edgar-filings-to-pgvector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T14:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -160,15 +232,6 @@
     "stars": 44890,
     "updated_at": "2026-06-22T13:58:27Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6160,
-    "updated_at": "2026-06-22T14:15:13Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:51:22Z",
     "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
-  },
-  {
-    "description": "Vector-native yield discovery for crypto investors. Built on Qdrant with 6 named-vector lenses, multi-vector prefetch+RR",
-    "id": "yoyobeverage/cardinal",
-    "language": "TypeScript",
-    "name": "yoyobeverage/cardinal",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:49:43Z",
-    "url": "https://github.com/yoyobeverage/cardinal"
   },
   {
     "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
@@ -320,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7762,
-    "updated_at": "2026-06-22T14:14:56Z",
+    "updated_at": "2026-06-22T14:29:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:45:34Z",
     "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:45:11Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 809,
-    "updated_at": "2026-06-22T12:44:57Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:41:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:39:41Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:38:54Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:38:25Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   }
 ]
