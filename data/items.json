@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-06-22T09:13:54Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12389,
+    "updated_at": "2026-06-22T09:12:45Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Spring-Manifold Next-Gen is an enterprise data integration and ingestion platform modeled after Apache ManifoldCF. It le",
+    "id": "OpenPj/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "OpenPj/spring-manifold-next-gen",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:07:42Z",
+    "url": "https://github.com/OpenPj/spring-manifold-next-gen"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6967,
+    "updated_at": "2026-06-22T09:13:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-06-22T09:08:13Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6159,
-    "updated_at": "2026-06-22T08:57:19Z",
+    "updated_at": "2026-06-22T09:14:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4412,
-    "updated_at": "2026-06-22T08:59:42Z",
+    "updated_at": "2026-06-22T09:04:41Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
     "id": "sarcosomebankcheck694/coordinode",
     "language": "Rust",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T09:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
     "id": "Rippledirham767/LongParser",
     "language": "Python",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58225,
-    "updated_at": "2026-06-22T08:45:08Z",
+    "updated_at": "2026-06-22T09:11:58Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16391,
-    "updated_at": "2026-06-22T08:47:47Z",
+    "updated_at": "2026-06-22T09:06:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6967,
-    "updated_at": "2026-06-22T08:51:01Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
     "id": "younismahmoud1234/gitsage",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T08:20:44Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:18:29Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-06-22T08:44:16Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:18:16Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:15:58Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
