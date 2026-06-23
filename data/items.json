@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T06:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
+    "id": "Ardem2025/mem0-temporal-hygiene",
+    "language": "Python",
+    "name": "Ardem2025/mem0-temporal-hygiene",
+    "stars": 2,
+    "updated_at": "2026-06-23T05:58:57Z",
+    "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 70,
+    "updated_at": "2026-06-23T05:58:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "SecAI is a fully local AI assistant with Retrieval-Augmented Generation (RAG), built using FastAPI, React, PostgreSQL, C",
+    "id": "LordSpudnik/SecAI",
+    "language": "Python",
+    "name": "LordSpudnik/SecAI",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:58:03Z",
+    "url": "https://github.com/LordSpudnik/SecAI"
+  },
+  {
+    "description": "RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st",
+    "id": "LucasM4r/RepoMind",
+    "language": "Go",
+    "name": "LucasM4r/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:56:46Z",
+    "url": "https://github.com/LucasM4r/RepoMind"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
     "stars": 597,
-    "updated_at": "2026-06-23T05:44:30Z",
+    "updated_at": "2026-06-23T05:56:03Z",
     "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6968,
+    "updated_at": "2026-06-23T05:55:45Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:52:00Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4413,
+    "updated_at": "2026-06-23T05:51:37Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "An AI-powered full-stack web application that allows users to chat with their PDF documents using Google Gemini, ChromaD",
+    "id": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "language": "JavaScript",
+    "name": "Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-06-23T05:47:51Z",
+    "url": "https://github.com/Amit-akm-22/AI-Powered-PDF-Question-Answering-System-using-RAG"
   },
   {
     "description": "AI agent skill synthesizer \u0393\u00c7\u00f6 local-first, air-gappable, graph+vector+causal retrieval over a community catalog. Rust C",
@@ -14,8 +95,26 @@
     "language": "Rust",
     "name": "Vellixia/Glia",
     "stars": 0,
-    "updated_at": "2026-06-23T05:41:50Z",
+    "updated_at": "2026-06-23T05:47:00Z",
     "url": "https://github.com/Vellixia/Glia"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 19399,
+    "updated_at": "2026-06-23T05:45:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A developer tool that answers technical questions by ingesting open-source documentation. Built with a Corrective RAG (C",
@@ -27,31 +126,13 @@
     "url": "https://github.com/NukaNarendra/DocuSense"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:39:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1361,
-    "updated_at": "2026-06-23T05:45:11Z",
+    "updated_at": "2026-06-23T05:55:48Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4413,
-    "updated_at": "2026-06-23T05:35:16Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "A production-grade RAG chatbot built with LangChain, FAISS, Groq & Streamlit \u2014 supports PDF/DOCX/web scraping, hybrid se",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:33:30Z",
     "url": "https://github.com/ronitgulia/RAG-Chatbot"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T04:48:27Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
-    "id": "tryAGI/LangChain.Databases",
-    "language": "C#",
-    "name": "tryAGI/LangChain.Databases",
-    "stars": 12,
-    "updated_at": "2026-06-23T04:47:48Z",
-    "url": "https://github.com/tryAGI/LangChain.Databases"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-23T04:47:43Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-23T04:47:02Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:46:58Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:46:38Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:46:17Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:45:56Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-23T04:42:00Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
