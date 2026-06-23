@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 810,
-    "updated_at": "2026-06-23T08:37:13Z",
+    "updated_at": "2026-06-23T08:46:41Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T08:33:12Z",
     "url": "https://github.com/himelds/MediQuery"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T08:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
