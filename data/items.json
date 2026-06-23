@@ -1,5 +1,131 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 810,
+    "updated_at": "2026-06-23T11:45:16Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Fast, SQL powered, in-process vector search for any language with an SQLite driver",
+    "id": "1yefuwang1/vectorlite",
+    "language": "C++",
+    "name": "1yefuwang1/vectorlite",
+    "stars": 362,
+    "updated_at": "2026-06-23T11:42:02Z",
+    "url": "https://github.com/1yefuwang1/vectorlite"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:41:12Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:41:02Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 411,
+    "updated_at": "2026-06-23T11:40:52Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6968,
+    "updated_at": "2026-06-23T11:38:59Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:36:55Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Curated vector databases, vector search engines, and embedding storage systems for AI.",
+    "id": "Enterprise-AI-Atlas/awesome-vector-databases",
+    "language": "Shell",
+    "name": "Enterprise-AI-Atlas/awesome-vector-databases",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:36:25Z",
+    "url": "https://github.com/Enterprise-AI-Atlas/awesome-vector-databases"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 602,
+    "updated_at": "2026-06-23T11:36:14Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Windows + Docker + Python \u57fa\u4e8e Milvus + MySQL + Redis + \u5927\u6a21\u578b\u7684\u79c1\u6709\u5316 RAG \u95ee\u7b54\u7cfb\u7edf",
+    "id": "KerroKapple/Zhujian",
+    "language": "Python",
+    "name": "KerroKapple/Zhujian",
+    "stars": 23,
+    "updated_at": "2026-06-23T11:32:42Z",
+    "url": "https://github.com/KerroKapple/Zhujian"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:32:06Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:31:53Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -18,49 +144,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 602,
-    "updated_at": "2026-06-23T11:29:20Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
+    "description": "Retrieval-Augmented Generation (RAG) application for PDF-based question answering using LangChain, ChromaDB, and Hugging",
+    "id": "SanthoshGopi-B/rag-document-assistant",
     "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 411,
-    "updated_at": "2026-06-23T11:29:16Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 810,
-    "updated_at": "2026-06-23T11:30:12Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Windows + Docker + Python \u57fa\u4e8e Milvus + MySQL + Redis + \u5927\u6a21\u578b\u7684\u79c1\u6709\u5316 RAG \u95ee\u7b54\u7cfb\u7edf",
-    "id": "KerroKapple/Zhujian",
-    "language": "Python",
-    "name": "KerroKapple/Zhujian",
-    "stars": 23,
-    "updated_at": "2026-06-23T11:28:28Z",
-    "url": "https://github.com/KerroKapple/Zhujian"
-  },
-  {
-    "description": "Curated vector databases, vector search engines, and embedding storage systems for AI.",
-    "id": "Enterprise-AI-Atlas/awesome-vector-databases",
-    "language": "Shell",
-    "name": "Enterprise-AI-Atlas/awesome-vector-databases",
+    "name": "SanthoshGopi-B/rag-document-assistant",
     "stars": 0,
-    "updated_at": "2026-06-23T11:28:09Z",
-    "url": "https://github.com/Enterprise-AI-Atlas/awesome-vector-databases"
+    "updated_at": "2026-06-23T11:28:36Z",
+    "url": "https://github.com/SanthoshGopi-B/rag-document-assistant"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -153,24 +243,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T11:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "6 production-grade AI projects: LangGraph multi-agent, OPA policy-as-code, self-correcting RAG, Kubernetes/Helm, RBAC, a",
     "id": "SeydinaBANE/senior-ml-portfolio",
     "language": "Python",
@@ -184,8 +256,8 @@
     "id": "AleksNeStu/ai-real-estate-assistant",
     "language": "Python",
     "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 257,
-    "updated_at": "2026-06-23T11:11:26Z",
+    "stars": 258,
+    "updated_at": "2026-06-23T11:43:15Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6968,
-    "updated_at": "2026-06-23T11:19:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -302,7 +365,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-23T11:26:53Z",
+    "updated_at": "2026-06-23T11:43:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16412,
-    "updated_at": "2026-06-23T11:20:45Z",
+    "updated_at": "2026-06-23T11:44:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1363,
-    "updated_at": "2026-06-23T11:13:14Z",
+    "updated_at": "2026-06-23T11:37:32Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4413,
-    "updated_at": "2026-06-23T11:28:11Z",
+    "updated_at": "2026-06-23T11:42:52Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T10:07:56Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:07:32Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-06-23T10:07:09Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-06-23T10:03:50Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:03:44Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:03:35Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:03:16Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-06-23T10:02:58Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
