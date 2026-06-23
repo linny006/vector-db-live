@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 21:00 UTC
+> ⏰ Last updated: 2026-06-23 21:14 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 285 | Python | 2026-06-23 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
-| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 20150 | Python | 2026-06-23 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 4 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5472 | Python | 2026-06-23 |  Memory library for building stateful agents |
-| 5 | [cyborginc/cyborgdb-py](https://github.com/cyborginc/cyborgdb-py) | 8 | Python | 2026-06-23 | Python Client SDK for CyborgDB: The Encrypted Vector Database |
-| 6 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 23 | Python | 2026-06-23 | Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def |
-| 7 | [ace-Shelby/Semantic-Code-Search-Engine](https://github.com/ace-Shelby/Semantic-Code-Search-Engine) | 0 | TypeScript | 2026-06-23 | An AI-powered Semantic Code Search Engine that lets you query codebases using natural language instead of exact keywords |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 23 | Python | 2026-06-23 | Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def |
+| 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 20162 | Python | 2026-06-23 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 285 | Python | 2026-06-23 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
+| 6 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5472 | Python | 2026-06-23 |  Memory library for building stateful agents |
+| 7 | [cyborginc/cyborgdb-py](https://github.com/cyborginc/cyborgdb-py) | 8 | Python | 2026-06-23 | Python Client SDK for CyborgDB: The Encrypted Vector Database |
+| 8 | [ace-Shelby/Semantic-Code-Search-Engine](https://github.com/ace-Shelby/Semantic-Code-Search-Engine) | 0 | TypeScript | 2026-06-23 | An AI-powered Semantic Code Search Engine that lets you query codebases using natural language instead of exact keywords |
 | 9 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-06-23 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
 | 10 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10700 | HTML | 2026-06-23 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 11 | [yielab/adapta](https://github.com/yielab/adapta) | 0 | Python | 2026-06-23 | Self-hosted platform to specialize and serve private LLMs — Knowledge (RAG) + Fine-tuning (LoRA/QLoRA), including image- |

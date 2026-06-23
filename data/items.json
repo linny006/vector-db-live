@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 23,
+    "updated_at": "2026-06-23T21:13:40Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 20162,
+    "updated_at": "2026-06-23T21:10:29Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 285,
     "updated_at": "2026-06-23T20:57:17Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 20150,
-    "updated_at": "2026-06-23T20:49:41Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -45,15 +63,6 @@
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 23,
-    "updated_at": "2026-06-23T21:00:09Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
     "description": "An AI-powered Semantic Code Search Engine that lets you query codebases using natural language instead of exact keywords",
     "id": "ace-Shelby/Semantic-Code-Search-Engine",
     "language": "TypeScript",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T20:45:39Z",
     "url": "https://github.com/ace-Shelby/Semantic-Code-Search-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6137,
-    "updated_at": "2026-06-23T20:58:41Z",
+    "updated_at": "2026-06-23T21:01:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
