@@ -1,12 +1,21 @@
 [
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1361,
-    "updated_at": "2026-06-23T05:39:46Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 597,
+    "updated_at": "2026-06-23T05:44:30Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "AI agent skill synthesizer \u0393\u00c7\u00f6 local-first, air-gappable, graph+vector+causal retrieval over a community catalog. Rust C",
+    "id": "Vellixia/Glia",
+    "language": "Rust",
+    "name": "Vellixia/Glia",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:41:50Z",
+    "url": "https://github.com/Vellixia/Glia"
   },
   {
     "description": "A developer tool that answers technical questions by ingesting open-source documentation. Built with a Corrective RAG (C",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "NukaNarendra/DocuSense",
     "stars": 0,
-    "updated_at": "2026-06-23T05:35:58Z",
+    "updated_at": "2026-06-23T05:40:10Z",
     "url": "https://github.com/NukaNarendra/DocuSense"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:39:57Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1361,
+    "updated_at": "2026-06-23T05:45:11Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -27,15 +54,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "AI agent skill synthesizer \u0393\u00c7\u00f6 local-first, air-gappable, graph+vector+causal retrieval over a community catalog. Rust C",
-    "id": "Vellixia/Glia",
-    "language": "Rust",
-    "name": "Vellixia/Glia",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:33:35Z",
-    "url": "https://github.com/Vellixia/Glia"
-  },
-  {
     "description": "A production-grade RAG chatbot built with LangChain, FAISS, Groq & Streamlit \u2014 supports PDF/DOCX/web scraping, hybrid se",
     "id": "ronitgulia/RAG-Chatbot",
     "language": "Python",
@@ -45,21 +63,12 @@
     "url": "https://github.com/ronitgulia/RAG-Chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-23T05:30:18Z",
+    "updated_at": "2026-06-23T05:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:10:13Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 597,
-    "updated_at": "2026-06-23T05:07:16Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
