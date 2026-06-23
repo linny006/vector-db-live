@@ -1,12 +1,156 @@
 [
   {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:45:01Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:44:52Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "A graph-first, embedded multi-model database engine",
+    "id": "insanalamin/sekejap",
+    "language": "Rust",
+    "name": "insanalamin/sekejap",
+    "stars": 5,
+    "updated_at": "2026-06-23T21:44:49Z",
+    "url": "https://github.com/insanalamin/sekejap"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-06-23T21:43:55Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Generative AI Engineering Portfolio \u2014 RAG, Memory, Agents, LangChain, LangGraph",
+    "id": "chandra-vv/genai_portfolio",
+    "language": "Python",
+    "name": "chandra-vv/genai_portfolio",
+    "stars": 2,
+    "updated_at": "2026-06-23T21:43:17Z",
+    "url": "https://github.com/chandra-vv/genai_portfolio"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-06-23T21:40:31Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 8,
+    "updated_at": "2026-06-23T21:36:24Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-23T21:35:22Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-23T21:34:31Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-23T21:33:18Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-23T21:33:16Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "This repository contains notes and captures my learning journey of the course on Coursera by IBM on RAG and Agentic AI.",
+    "id": "vastavikadi/IBM-RAG-and-Agentic-AI",
+    "language": "Python",
+    "name": "vastavikadi/IBM-RAG-and-Agentic-AI",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:30:51Z",
+    "url": "https://github.com/vastavikadi/IBM-RAG-and-Agentic-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T21:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered  schedule assistant that uses RAG, vector search, and a local LLM to answer questions about uploaded CSV time",
+    "id": "vinayakdon/RAG_Shedular",
+    "language": "JavaScript",
+    "name": "vinayakdon/RAG_Shedular",
+    "stars": 1,
+    "updated_at": "2026-06-23T21:28:13Z",
+    "url": "https://github.com/vinayakdon/RAG_Shedular"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 20171,
+    "stars": 20180,
     "updated_at": "2026-06-23T21:27:23Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7763,
+    "updated_at": "2026-06-23T21:25:10Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -43,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T21:18:29Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T21:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T21:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
@@ -284,7 +410,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6137,
-    "updated_at": "2026-06-23T21:26:35Z",
+    "updated_at": "2026-06-23T21:38:01Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-23T20:24:32Z",
     "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:23:40Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-23T20:23:10Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:22:48Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:18:10Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-23T20:18:03Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:17:56Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:17:19Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:16:33Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:16:26Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:16:25Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:16:13Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:16:12Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:15:53Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-23T20:15:45Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
