@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-23T19:30:11Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-23T19:29:53Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-06-23T19:27:49Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-23T19:27:45Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
     "name": "Dakera-AI/dakera-cli",
     "stars": 9,
-    "updated_at": "2026-06-23T19:25:18Z",
+    "updated_at": "2026-06-23T19:26:55Z",
     "url": "https://github.com/Dakera-AI/dakera-cli"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-06-23T19:26:44Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T19:26:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -63,15 +117,6 @@
     "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T19:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -86,8 +131,17 @@
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
     "stars": 22,
-    "updated_at": "2026-06-23T19:20:48Z",
+    "updated_at": "2026-06-23T19:26:47Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44917,
+    "updated_at": "2026-06-23T19:14:28Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -392,61 +446,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-06-23T19:16:02Z",
+    "updated_at": "2026-06-23T19:30:22Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-06-23T18:26:12Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-23T18:22:34Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-06-23T18:22:01Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-06-23T18:21:49Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a coll",
-    "id": "Aaryav1130/rag-chatbot",
-    "language": "Python",
-    "name": "Aaryav1130/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-23T18:21:48Z",
-    "url": "https://github.com/Aaryav1130/rag-chatbot"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6161,
-    "updated_at": "2026-06-23T18:38:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
