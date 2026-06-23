@@ -1,5 +1,32 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6968,
+    "updated_at": "2026-06-23T10:59:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 602,
+    "updated_at": "2026-06-23T11:00:22Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "SeydinaBANE/senior-ml-portfolio",
     "stars": 0,
-    "updated_at": "2026-06-23T10:40:02Z",
+    "updated_at": "2026-06-23T10:46:19Z",
     "url": "https://github.com/SeydinaBANE/senior-ml-portfolio"
   },
   {
@@ -63,30 +90,12 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 602,
-    "updated_at": "2026-06-23T10:28:34Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-23T10:43:36Z",
+    "updated_at": "2026-06-23T10:58:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16412,
-    "updated_at": "2026-06-23T10:40:08Z",
+    "updated_at": "2026-06-23T11:00:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 91,
-    "updated_at": "2026-06-23T10:22:46Z",
+    "updated_at": "2026-06-23T10:53:10Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T09:47:04Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-23T09:46:38Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
