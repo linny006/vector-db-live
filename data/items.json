@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-23T00:45:19Z",
+    "updated_at": "2026-06-23T01:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-23T00:59:29Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-23T00:58:52Z",
+    "url": "https://github.com/konjoai/vectro"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-23T00:30:25Z",
+    "updated_at": "2026-06-23T00:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-23T00:21:43Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -76,7 +85,7 @@
     "id": "JakubDras/vechealth",
     "language": "Python",
     "name": "JakubDras/vechealth",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-23T00:17:11Z",
     "url": "https://github.com/JakubDras/vechealth"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T23:44:06Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-06-22T23:43:53Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
