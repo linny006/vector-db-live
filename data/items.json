@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-23T10:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 2,
+    "updated_at": "2026-06-23T10:40:52Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "6 production-grade AI projects: LangGraph multi-agent, OPA policy-as-code, self-correcting RAG, Kubernetes/Helm, RBAC, a",
+    "id": "SeydinaBANE/senior-ml-portfolio",
+    "language": "Python",
+    "name": "SeydinaBANE/senior-ml-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:40:02Z",
+    "url": "https://github.com/SeydinaBANE/senior-ml-portfolio"
+  },
+  {
+    "description": "Persistent AI \u2014 A conversational assistant with semantic memory, affect-weighted recall, and trace-based reconstruction.",
+    "id": "Aryanthakur7/PersistentAI",
+    "language": "Jupyter Notebook",
+    "name": "Aryanthakur7/PersistentAI",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:39:31Z",
+    "url": "https://github.com/Aryanthakur7/PersistentAI"
+  },
+  {
+    "description": "Retrieval-Augmented Generation for intelligent question-answering over scraped data.",
+    "id": "MostafaRastegar/mr-rag",
+    "language": "Python",
+    "name": "MostafaRastegar/mr-rag",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:39:25Z",
+    "url": "https://github.com/MostafaRastegar/mr-rag"
+  },
+  {
+    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
+    "id": "Cyning12/ai-ink-brain",
+    "language": "TypeScript",
+    "name": "Cyning12/ai-ink-brain",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:33:07Z",
+    "url": "https://github.com/Cyning12/ai-ink-brain"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-06-23T10:32:47Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-23T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
     "id": "slothflowlabs/duckle",
     "language": "Rust",
@@ -14,7 +86,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-23T10:28:26Z",
+    "updated_at": "2026-06-23T10:43:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16412,
-    "updated_at": "2026-06-23T10:23:05Z",
+    "updated_at": "2026-06-23T10:40:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 4413,
     "updated_at": "2026-06-23T10:19:31Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-23T10:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -252,15 +306,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
-    "id": "Cyning12/ai-ink-brain",
-    "language": "TypeScript",
-    "name": "Cyning12/ai-ink-brain",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:00:14Z",
-    "url": "https://github.com/Cyning12/ai-ink-brain"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -319,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 32572,
+    "stars": 32573,
     "updated_at": "2026-06-23T09:50:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T09:46:38Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-23T09:46:20Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 0,
-    "updated_at": "2026-06-23T09:44:38Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-23T09:42:16Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-23T09:41:53Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-23T09:41:09Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   }
 ]
