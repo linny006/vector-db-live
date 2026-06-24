@@ -1,5 +1,50 @@
 [
   {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-24T02:28:38Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 11,
+    "updated_at": "2026-06-24T02:25:03Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "Production-style Agentic Multimodal RAG platform with Hybrid Retrieval, LangGraph-style orchestration, Qdrant, Ollama, F",
+    "id": "madhukargoli1992G/lodestar-veritas",
+    "language": "Python",
+    "name": "madhukargoli1992G/lodestar-veritas",
+    "stars": 0,
+    "updated_at": "2026-06-24T02:24:57Z",
+    "url": "https://github.com/madhukargoli1992G/lodestar-veritas"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 376,
+    "updated_at": "2026-06-24T02:17:44Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,27 +58,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 12303,
+    "stars": 12306,
     "updated_at": "2026-06-24T02:12:39Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-06-24T02:10:23Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Production-style Agentic Multimodal RAG platform with Hybrid Retrieval, LangGraph-style orchestration, Qdrant, Ollama, F",
-    "id": "madhukargoli1992G/lodestar-veritas",
-    "language": "Python",
-    "name": "madhukargoli1992G/lodestar-veritas",
-    "stars": 0,
-    "updated_at": "2026-06-24T02:08:52Z",
-    "url": "https://github.com/madhukargoli1992G/lodestar-veritas"
   },
   {
     "description": "RAG evaluation & debugging platform with trace capture, failure taxonomy, config comparison, and LLM/heuristic scoring",
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44919,
-    "updated_at": "2026-06-24T02:09:09Z",
+    "updated_at": "2026-06-24T02:24:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -108,15 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T02:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG system that indexes GitHub repositories. Go orchestrator, gRPC-integrated Python AI services, PostgreSQL/pgvector st",
     "id": "LucasM4r/RepoMind",
     "language": "Go",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9351,
-    "updated_at": "2026-06-24T02:09:50Z",
+    "updated_at": "2026-06-24T02:28:58Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 376,
-    "updated_at": "2026-06-24T01:52:03Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6137,
-    "updated_at": "2026-06-24T02:15:07Z",
+    "updated_at": "2026-06-24T02:24:32Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T01:19:34Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-24T01:19:31Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
