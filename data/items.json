@@ -1,5 +1,41 @@
 [
   {
+    "description": "",
+    "id": "Mearnab01/End-to-End-Medical_chatbot",
+    "language": "Jupyter Notebook",
+    "name": "Mearnab01/End-to-End-Medical_chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-24T12:10:31Z",
+    "url": "https://github.com/Mearnab01/End-to-End-Medical_chatbot"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 71,
+    "updated_at": "2026-06-24T12:09:59Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4583,
+    "updated_at": "2026-06-24T12:06:30Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T12:06:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Minimal RAG pipeline from scratch \u2014 upload a PDF, ask questions, get cited answers. FastAPI + FAISS + sentence-transform",
     "id": "santanu2908/chat-with-pdf-rag",
     "language": "Python",
@@ -18,21 +54,12 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-24T12:00:24Z",
+    "updated_at": "2026-06-24T12:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-24T12:03:01Z",
+    "updated_at": "2026-06-24T12:10:41Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 44931,
-    "updated_at": "2026-06-24T11:20:27Z",
+    "updated_at": "2026-06-24T12:10:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -374,7 +401,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-24T11:59:47Z",
+    "updated_at": "2026-06-24T12:13:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T11:10:03Z",
     "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 2,
-    "updated_at": "2026-06-24T11:08:43Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-24T11:06:21Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-06-24T11:06:07Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
