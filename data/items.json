@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-24T22:30:19Z",
+    "updated_at": "2026-06-24T22:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A high-performance CLI tool that semantically indexes a code repository using AST parsing and local vector embeddings, e",
-    "id": "HimanshuGupta2512/codebase-contextualizer-CLI-tool-",
-    "language": "JavaScript",
-    "name": "HimanshuGupta2512/codebase-contextualizer-CLI-tool-",
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 394,
+    "updated_at": "2026-06-24T22:44:02Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-24T22:30:07Z",
-    "url": "https://github.com/HimanshuGupta2512/codebase-contextualizer-CLI-tool-"
+    "updated_at": "2026-06-24T22:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -23,7 +32,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10711,
-    "updated_at": "2026-06-24T22:30:02Z",
+    "updated_at": "2026-06-24T22:34:08Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1437,
-    "updated_at": "2026-06-24T22:25:57Z",
+    "updated_at": "2026-06-24T22:34:43Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T22:23:13Z",
     "url": "https://github.com/euiyounghwang/Vector_DB_with_LLM"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:18:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
