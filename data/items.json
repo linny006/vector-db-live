@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T07:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12413,
+    "updated_at": "2026-06-24T07:23:39Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44925,
+    "updated_at": "2026-06-24T07:22:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-24T07:18:53Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9352,
-    "updated_at": "2026-06-24T07:13:09Z",
+    "updated_at": "2026-06-24T07:29:57Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -40,7 +85,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 611,
+    "stars": 614,
     "updated_at": "2026-06-24T07:07:12Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -52,33 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-24T07:06:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12412,
-    "updated_at": "2026-06-24T07:02:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T07:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T07:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A self-learning AI research system that autonomously crawls knowledge, conducts research, writes reports, and improves i",
@@ -99,21 +117,12 @@
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
-    "description": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-24T06:54:39Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-24T07:14:06Z",
+    "updated_at": "2026-06-24T07:19:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -149,17 +158,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16417,
-    "updated_at": "2026-06-24T07:04:25Z",
+    "updated_at": "2026-06-24T07:25:52Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44925,
-    "updated_at": "2026-06-24T06:44:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library. ",
