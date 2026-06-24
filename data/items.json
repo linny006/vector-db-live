@@ -1,11 +1,83 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9352,
+    "updated_at": "2026-06-24T07:13:09Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Enterprise Knowledge Unified & Understood, Operations Brain for Industrial Teams. The Platform ingests code repositories",
+    "id": "CXLD10/spec-atlas-ki-platform",
+    "language": "Python",
+    "name": "CXLD10/spec-atlas-ki-platform",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:10:09Z",
+    "url": "https://github.com/CXLD10/spec-atlas-ki-platform"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-24T07:09:45Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
+    "id": "tanguykonan/pocket-rag-cli",
+    "language": "Python",
+    "name": "tanguykonan/pocket-rag-cli",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:08:09Z",
+    "url": "https://github.com/tanguykonan/pocket-rag-cli"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 611,
+    "updated_at": "2026-06-24T07:07:12Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-24T07:06:39Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12412,
+    "updated_at": "2026-06-24T07:02:54Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-24T07:00:20Z",
+    "updated_at": "2026-06-24T07:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -41,15 +113,24 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-24T06:54:10Z",
+    "updated_at": "2026-06-24T07:14:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 61999,
+    "updated_at": "2026-06-24T06:49:12Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 12341,
+    "stars": 12343,
     "updated_at": "2026-06-24T06:47:03Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -63,21 +144,12 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16417,
-    "updated_at": "2026-06-24T06:44:53Z",
+    "updated_at": "2026-06-24T07:04:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:33:52Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 610,
-    "updated_at": "2026-06-24T06:33:47Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
     "stars": 27,
-    "updated_at": "2026-06-24T06:19:07Z",
+    "updated_at": "2026-06-24T07:05:01Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-24T06:16:10Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:15:52Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:15:20Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Enterprise Knowledge Unified & Understood, Operations Brain for Industrial Teams. The Platform ingests code repositories",
-    "id": "CXLD10/spec-atlas-ki-platform",
-    "language": "Python",
-    "name": "CXLD10/spec-atlas-ki-platform",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:14:34Z",
-    "url": "https://github.com/CXLD10/spec-atlas-ki-platform"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:14:30Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:14:30Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:14:04Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:13:47Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
