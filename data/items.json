@@ -1,12 +1,30 @@
 [
   {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 0,
-    "updated_at": "2026-06-24T17:29:36Z",
-    "url": "https://github.com/tryAGI/Chroma"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-24T17:43:25Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 285,
+    "updated_at": "2026-06-24T17:39:00Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "kherrera6219/theFactory",
     "stars": 1,
-    "updated_at": "2026-06-24T17:28:39Z",
+    "updated_at": "2026-06-24T17:34:07Z",
     "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T17:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 0,
+    "updated_at": "2026-06-24T17:29:36Z",
+    "url": "https://github.com/tryAGI/Chroma"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -27,15 +63,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T17:18:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Enterprise Knowledge Unified & Understood, Operations Brain for Industrial Teams. The Platform ingests code repositories",
     "id": "CXLD10/spec-atlas-ki-platform",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T17:15:51Z",
     "url": "https://github.com/CXLD10/spec-atlas-ki-platform"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6138,
-    "updated_at": "2026-06-24T17:28:36Z",
+    "updated_at": "2026-06-24T17:43:54Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 285,
-    "updated_at": "2026-06-24T16:49:07Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -324,12 +333,21 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5504,
+    "updated_at": "2026-06-24T16:45:39Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
     "id": "konjoai/vectro",
     "language": "Rust",
     "name": "konjoai/vectro",
     "stars": 11,
-    "updated_at": "2026-06-24T16:45:01Z",
+    "updated_at": "2026-06-24T17:32:38Z",
     "url": "https://github.com/konjoai/vectro"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-06-24T16:44:27Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5503,
-    "updated_at": "2026-06-24T16:45:39Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T16:37:30Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:37:08Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
