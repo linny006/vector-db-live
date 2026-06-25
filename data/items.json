@@ -1,5 +1,68 @@
 [
   {
+    "description": "Hands-on GenAI and LangChain experiments with retrievers, vector stores, and RAG pipelines.",
+    "id": "Narendersingh007/genai-langchain-dump",
+    "language": "Jupyter Notebook",
+    "name": "Narendersingh007/genai-langchain-dump",
+    "stars": 1,
+    "updated_at": "2026-06-25T03:56:02Z",
+    "url": "https://github.com/Narendersingh007/genai-langchain-dump"
+  },
+  {
+    "description": "The vector database that fits in your pocket. Rust-powered, Python-native, hybrid search built-in.",
+    "id": "getmykhan/vxdb",
+    "language": "Rust",
+    "name": "getmykhan/vxdb",
+    "stars": 0,
+    "updated_at": "2026-06-25T03:55:02Z",
+    "url": "https://github.com/getmykhan/vxdb"
+  },
+  {
+    "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
+    "id": "liaoyu1992/claude-smart",
+    "language": "Python",
+    "name": "liaoyu1992/claude-smart",
+    "stars": 1,
+    "updated_at": "2026-06-25T03:53:41Z",
+    "url": "https://github.com/liaoyu1992/claude-smart"
+  },
+  {
+    "description": "A production-ready RAG application that allows users to upload documents, retrieve relevant context, and chat with their",
+    "id": "Sudhanshu-Roy/KnowledgeBase-AI",
+    "language": "Python",
+    "name": "Sudhanshu-Roy/KnowledgeBase-AI",
+    "stars": 0,
+    "updated_at": "2026-06-25T03:52:52Z",
+    "url": "https://github.com/Sudhanshu-Roy/KnowledgeBase-AI"
+  },
+  {
+    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 34,
+    "updated_at": "2026-06-25T03:48:59Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-25T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T03:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-oriented Retrieval-Augmented Generation (RAG) system over AI research papers -> semantic search, source citat",
     "id": "HarshaKoushikTeja/rag-research-assistant",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "Cyning12/ai-ink-brain",
     "stars": 0,
-    "updated_at": "2026-06-25T03:42:28Z",
+    "updated_at": "2026-06-25T03:55:46Z",
     "url": "https://github.com/Cyning12/ai-ink-brain"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/konjoai/vectro"
   },
   {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, concurrency-safe, private by def",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 33,
-    "updated_at": "2026-06-25T03:36:26Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -79,33 +133,6 @@
     "stars": 4,
     "updated_at": "2026-06-25T03:30:41Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-25T03:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T03:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The vector database that fits in your pocket. Rust-powered, Python-native, hybrid search built-in.",
-    "id": "getmykhan/vxdb",
-    "language": "Rust",
-    "name": "getmykhan/vxdb",
-    "stars": 0,
-    "updated_at": "2026-06-25T03:16:43Z",
-    "url": "https://github.com/getmykhan/vxdb"
   },
   {
     "description": "Federal Acquisition Regulation Retrieval-Augmented Generation (RAG) Chatbot",
@@ -158,7 +185,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 118,
-    "updated_at": "2026-06-25T03:44:54Z",
+    "updated_at": "2026-06-25T03:53:13Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T02:46:07Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-25T02:45:34Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-25T02:45:18Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-25T02:44:58Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
