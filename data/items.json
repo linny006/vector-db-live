@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:10:42Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:09:38Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6161,
+    "updated_at": "2026-06-25T15:06:28Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:01:31Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-06-25T15:01:06Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Markdown \u77e5\u8bc6\u56fe\u8c31 + \u5411\u91cf\u53cc\u5f15\u64ce\u68c0\u7d22\uff1a\u628a .md \u7d22\u5f15\u6210\u56fe\u8c31\u4e0e\u5411\u91cf\u5e93\uff0cvector recall \u00d7 graph expand \u00d7 \u52a0\u6743 RRF \u878d\u5408\u3002CLI + FastAPI/React Web \u5e73\u53f0\uff0c\u7eaf\u79bb\u7ebf\u96f6\u51ed\u8bc1\u3002",
+    "id": "Jouryjc/markdown-graph",
+    "language": "Python",
+    "name": "Jouryjc/markdown-graph",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:00:47Z",
+    "url": "https://github.com/Jouryjc/markdown-graph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing.",
     "id": "MostafaSensei106/Waffle-DB",
     "language": "Dart",
@@ -50,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16432,
-    "updated_at": "2026-06-25T14:57:06Z",
+    "updated_at": "2026-06-25T15:06:52Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-25T14:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T14:45:28Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
@@ -193,7 +247,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 44952,
+    "stars": 44954,
     "updated_at": "2026-06-25T14:30:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -306,15 +360,6 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6161,
-    "updated_at": "2026-06-25T14:51:50Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Spring Boot 3 + Spring AI RAG app: PDF Q&A and summarization with ChromaDB vector store, PostgreSQL metadata, OpenAI/Oll",
     "id": "konradxmalinowski/spring-boot-rag-pdf-summarizer",
     "language": "Java",
@@ -322,6 +367,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T13:53:24Z",
     "url": "https://github.com/konradxmalinowski/spring-boot-rag-pdf-summarizer"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6974,
+    "updated_at": "2026-06-25T13:53:17Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T13:25:48Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 8,
-    "updated_at": "2026-06-25T13:25:15Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32645,
-    "updated_at": "2026-06-25T13:25:12Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TeX",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:24:55Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "TeX",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 1,
-    "updated_at": "2026-06-25T13:24:52Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 647,
-    "updated_at": "2026-06-25T13:23:15Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:22:08Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
