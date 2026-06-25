@@ -1,5 +1,140 @@
 [
   {
+    "description": "Production-grade autonomous AI shopping agent built with FastAPI, LangChain ReAct, Hybrid Search (PostgreSQL + Pinecone)",
+    "id": "YadavAkhileshh/CartPilot",
+    "language": "Python",
+    "name": "YadavAkhileshh/CartPilot",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:28:07Z",
+    "url": "https://github.com/YadavAkhileshh/CartPilot"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-06-25T15:27:25Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
+    "id": "andreiramani/pgvector_pgsql_windows",
+    "language": "\u2014",
+    "name": "andreiramani/pgvector_pgsql_windows",
+    "stars": 164,
+    "updated_at": "2026-06-25T15:27:11Z",
+    "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
+  },
+  {
+    "description": "An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:26:25Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "The audit and verification layer for AI agents - verified procedural memory with compliance reports (SOC 2, EU AI Act, N",
+    "id": "rossbuckley1990-hash/Howdex",
+    "language": "Python",
+    "name": "rossbuckley1990-hash/Howdex",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:25:40Z",
+    "url": "https://github.com/rossbuckley1990-hash/Howdex"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-06-25T15:25:29Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 219,
+    "updated_at": "2026-06-25T15:22:15Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:21:38Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-25T15:20:41Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 812,
+    "updated_at": "2026-06-25T15:29:04Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-25T15:20:10Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 22183,
+    "updated_at": "2026-06-25T15:20:09Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:15:39Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-25T15:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-25T15:15:26Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,21 +180,12 @@
     "url": "https://github.com/rein98/PsyChat"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-25T15:12:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
     "id": "diegoglozano/revector",
     "language": "Rust",
     "name": "diegoglozano/revector",
     "stars": 1,
-    "updated_at": "2026-06-25T15:12:12Z",
+    "updated_at": "2026-06-25T15:27:51Z",
     "url": "https://github.com/diegoglozano/revector"
   },
   {
@@ -86,7 +212,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6161,
-    "updated_at": "2026-06-25T15:06:28Z",
+    "updated_at": "2026-06-25T15:26:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -115,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T15:00:47Z",
     "url": "https://github.com/Jouryjc/markdown-graph"
-  },
-  {
-    "description": "An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing.",
-    "id": "MostafaSensei106/Waffle-DB",
-    "language": "Dart",
-    "name": "MostafaSensei106/Waffle-DB",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:59:42Z",
-    "url": "https://github.com/MostafaSensei106/Waffle-DB"
   },
   {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
@@ -284,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9355,
-    "updated_at": "2026-06-25T14:34:21Z",
+    "updated_at": "2026-06-25T15:24:35Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-25T14:26:56Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 89,
-    "updated_at": "2026-06-25T14:26:36Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:25:33Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:23:58Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-25T14:23:50Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 2,
-    "updated_at": "2026-06-25T14:20:58Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "AI-powered educational assistant that lets users upload videos, documents, or authorized course links to chat with learn",
-    "id": "MakwanaOm1615/LearnLens-AI-Community-Edition",
-    "language": "Python",
-    "name": "MakwanaOm1615/LearnLens-AI-Community-Edition",
-    "stars": 1,
-    "updated_at": "2026-06-25T14:17:58Z",
-    "url": "https://github.com/MakwanaOm1615/LearnLens-AI-Community-Edition"
-  },
-  {
-    "description": "Candidate ranking system for the Redrob India Runs Data & AI Challenge. 7-signal scoring pipeline, CPU-only, fully offli",
-    "id": "SaumitraBata/intelligent-candidate-discovery",
-    "language": "Python",
-    "name": "SaumitraBata/intelligent-candidate-discovery",
-    "stars": 0,
-    "updated_at": "2026-06-25T14:09:47Z",
-    "url": "https://github.com/SaumitraBata/intelligent-candidate-discovery"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 7,
-    "updated_at": "2026-06-25T13:57:44Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Spring Boot 3 + Spring AI RAG app: PDF Q&A and summarization with ChromaDB vector store, PostgreSQL metadata, OpenAI/Oll",
-    "id": "konradxmalinowski/spring-boot-rag-pdf-summarizer",
-    "language": "Java",
-    "name": "konradxmalinowski/spring-boot-rag-pdf-summarizer",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:53:24Z",
-    "url": "https://github.com/konradxmalinowski/spring-boot-rag-pdf-summarizer"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6974,
-    "updated_at": "2026-06-25T13:53:17Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:52:38Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12430,
-    "updated_at": "2026-06-25T13:52:33Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-06-25T13:31:51Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
