@@ -1,5 +1,77 @@
 [
   {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-25T19:58:56Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-25T19:58:54Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 4,
+    "updated_at": "2026-06-25T19:57:16Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-06-25T19:55:51Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 22415,
+    "updated_at": "2026-06-25T19:52:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1437,
+    "updated_at": "2026-06-25T19:48:04Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T20:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -54,24 +126,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-25T19:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0\ud83d\udcda It's a repository of ML - Machine Learning models and time series for training and improvements with MLOps.",
     "id": "IsaacAlves7/machine-learning",
     "language": "\u2014",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6139,
-    "updated_at": "2026-06-25T19:34:25Z",
+    "updated_at": "2026-06-25T19:55:37Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T18:51:13Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 22409,
-    "updated_at": "2026-06-25T18:51:08Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T18:41:01Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9356,
-    "updated_at": "2026-06-25T18:39:45Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A PDF Question-Answering App built with RAG (Retrieval-Augmented Generation), allowing users to upload PDFs and ask cont",
-    "id": "FireFistisDead/pdf-qa-bot",
-    "language": "JavaScript",
-    "name": "FireFistisDead/pdf-qa-bot",
-    "stars": 18,
-    "updated_at": "2026-06-25T18:38:59Z",
-    "url": "https://github.com/FireFistisDead/pdf-qa-bot"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32648,
-    "updated_at": "2026-06-25T18:38:52Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-06-25T18:37:49Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-25T18:36:09Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
