@@ -1,5 +1,77 @@
 [
   {
+    "description": "The audit and verification layer for AI agents - verified procedural memory with compliance reports (SOC 2, EU AI Act, N",
+    "id": "rossbuckley1990-hash/Howdex",
+    "language": "Python",
+    "name": "rossbuckley1990-hash/Howdex",
+    "stars": 1,
+    "updated_at": "2026-06-25T12:06:56Z",
+    "url": "https://github.com/rossbuckley1990-hash/Howdex"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-06-25T12:04:02Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (418 questions & 29 RAG types), system design scenarios, archi",
+    "id": "ather-techie/rag-interview-system",
+    "language": "\u2014",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 72,
+    "updated_at": "2026-06-25T12:03:38Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6161,
+    "updated_at": "2026-06-25T12:07:09Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-25T12:00:43Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-25T12:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-25T12:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-06-25T12:00:18Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -81,24 +153,6 @@
     "url": "https://github.com/SKeditz42/Vec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-25T11:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
     "id": "zoepranataksm/Mind_Vault_AI",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T11:41:19Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "The audit and verification layer for AI agents - verified procedural memory with compliance reports (SOC 2, EU AI Act, N",
-    "id": "rossbuckley1990-hash/Howdex",
-    "language": "Python",
-    "name": "rossbuckley1990-hash/Howdex",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:40:05Z",
-    "url": "https://github.com/rossbuckley1990-hash/Howdex"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16429,
-    "updated_at": "2026-06-25T11:48:42Z",
+    "updated_at": "2026-06-25T12:02:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -274,7 +319,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 12431,
+    "stars": 12432,
     "updated_at": "2026-06-25T11:25:14Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T11:24:31Z",
     "url": "https://github.com/yt314/rag-llamaindex-project"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6161,
-    "updated_at": "2026-06-25T11:44:56Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library. ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T11:01:37Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:01:15Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-06-25T10:59:00Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
-    "id": "ry-ops/commit-relay",
-    "language": "Shell",
-    "name": "ry-ops/commit-relay",
-    "stars": 2,
-    "updated_at": "2026-06-25T10:58:13Z",
-    "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-06-25T10:58:03Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   }
 ]
