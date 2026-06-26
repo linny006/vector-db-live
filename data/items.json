@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-26T13:30:18Z",
+    "updated_at": "2026-06-26T13:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 813,
+    "updated_at": "2026-06-26T13:44:51Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 22847,
+    "updated_at": "2026-06-26T13:45:07Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The audit and verification layer for AI agents - verified procedural memory with compliance reports (SOC 2, EU AI Act, N",
+    "id": "rossbuckley1990-hash/Howdex",
+    "language": "Python",
+    "name": "rossbuckley1990-hash/Howdex",
+    "stars": 1,
+    "updated_at": "2026-06-26T13:42:25Z",
+    "url": "https://github.com/rossbuckley1990-hash/Howdex"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 7,
+    "updated_at": "2026-06-26T13:42:07Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Streaming RAG chatbot for international student visa questions \u2014 FastAPI + LangChain + ChromaDB + Groq Llama",
+    "id": "yuvraaj1110/intchat",
+    "language": "Python",
+    "name": "yuvraaj1110/intchat",
+    "stars": 1,
+    "updated_at": "2026-06-26T13:39:49Z",
+    "url": "https://github.com/yuvraaj1110/intchat"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 658,
+    "updated_at": "2026-06-26T13:39:11Z",
+    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-26T13:28:40Z",
+    "updated_at": "2026-06-26T13:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 813,
-    "updated_at": "2026-06-26T13:28:38Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "A NodeJS RAG framework to easily work with LLMs and embeddings",
     "id": "llm-tools/embedJs",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 604,
     "updated_at": "2026-06-26T13:23:18Z",
     "url": "https://github.com/llm-tools/embedJs"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 22836,
-    "updated_at": "2026-06-26T13:28:51Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
@@ -97,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-06-26T13:03:28Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "The audit and verification layer for AI agents - verified procedural memory with compliance reports (SOC 2, EU AI Act, N",
-    "id": "rossbuckley1990-hash/Howdex",
-    "language": "Python",
-    "name": "rossbuckley1990-hash/Howdex",
-    "stars": 1,
-    "updated_at": "2026-06-26T13:28:27Z",
-    "url": "https://github.com/rossbuckley1990-hash/Howdex"
   },
   {
     "description": "AI-powered PDF Chat Application built using Streamlit, LangChain, Google Gemini, FAISS, and RAG for document-based quest",
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T12:25:47Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 7,
-    "updated_at": "2026-06-26T13:25:37Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T12:10:03Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-26T12:08:25Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-26T12:08:23Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
