@@ -1,5 +1,95 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16437,
+    "updated_at": "2026-06-26T08:29:57Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-06-26T08:29:29Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Semantic Search Engine built with PostgreSQL, pgvector, and Sentence-Transformers (all-MiniLM-L6-v2). Features HNSW vect",
+    "id": "idrissziadi/pgvector-semantic-search",
+    "language": "TeX",
+    "name": "idrissziadi/pgvector-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:27:33Z",
+    "url": "https://github.com/idrissziadi/pgvector-semantic-search"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12437,
+    "updated_at": "2026-06-26T08:27:58Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:26:57Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:25:54Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:25:12Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-26T08:24:57Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:24:31Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:19:58Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -54,15 +144,6 @@
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12437,
-    "updated_at": "2026-06-26T08:17:40Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "A minimalist RAG-driven personal blog built with Next.js, Supabase, and SiliconFlow. \ud83c\udfa8+\ud83e\udd16",
     "id": "Cyning12/ai-ink-brain",
     "language": "TypeScript",
@@ -79,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T08:16:46Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-26T08:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-06-26T08:07:33Z",
+    "updated_at": "2026-06-26T08:26:05Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -193,9 +265,18 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 22658,
+    "stars": 22668,
     "updated_at": "2026-06-26T07:57:34Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Production-ready RAG platform built with LangChain. Features advanced document processing, chunking, and semantic search",
+    "id": "pravinghuge97-boop/unistacksolutions-rag-langchain-complete-platform",
+    "language": "\u2014",
+    "name": "pravinghuge97-boop/unistacksolutions-rag-langchain-complete-platform",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:55:22Z",
+    "url": "https://github.com/pravinghuge97-boop/unistacksolutions-rag-langchain-complete-platform"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -214,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T07:54:29Z",
     "url": "https://github.com/aditya-jha033/autopilot"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16436,
-    "updated_at": "2026-06-26T08:03:56Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
@@ -293,7 +365,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 813,
-    "updated_at": "2026-06-26T08:10:23Z",
+    "updated_at": "2026-06-26T08:29:38Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -319,7 +391,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58300,
+    "stars": 58301,
     "updated_at": "2026-06-26T06:54:06Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-06-26T06:38:38Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-26T08:09:02Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 1,
-    "updated_at": "2026-06-26T06:34:54Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-06-26T06:34:20Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-06-26T06:34:06Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-06-26T06:28:50Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "\ud83e\uddec \u57fa\u4e8e Claude Code Hooks \u7684\u81ea\u6211\u8fdb\u5316\u4e0e\u6301\u4e45\u5316\u8bb0\u5fc6\u7cfb\u7edf \u2014\u2014 \u884c\u4e3a\u89c2\u6d4b \u2192 \u6a21\u5f0f\u63d0\u70bc \u2192 \u89c4\u5219\u6ce8\u5165\uff0c\u8ba9 AI \u52a9\u624b\u62e5\u6709\u8de8\u4f1a\u8bdd\u5b66\u4e60\u80fd\u529b",
-    "id": "liaoyu1992/claude-smart",
-    "language": "Python",
-    "name": "liaoyu1992/claude-smart",
-    "stars": 1,
-    "updated_at": "2026-06-26T06:25:24Z",
-    "url": "https://github.com/liaoyu1992/claude-smart"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-26T06:21:19Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1336,
-    "updated_at": "2026-06-26T06:17:54Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
