@@ -1,5 +1,95 @@
 [
   {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-06-26T21:44:24Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "MCP memory server for AI coding assistants. Works with Claude Code, Cursor, Codex, Gemini CLI, Cline, Continue, Cherry S",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 306,
+    "updated_at": "2026-06-26T21:44:18Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32662,
+    "updated_at": "2026-06-26T21:35:36Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-06-26T21:34:19Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-06-26T21:33:48Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-26T21:33:40Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:31:57Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Automated multi-project codebase indexer for Qdrant. Real-time monitoring and seamless sync for AI agent context.",
+    "id": "neco001/Qdrant_Sentinel",
+    "language": "Python",
+    "name": "neco001/Qdrant_Sentinel",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:31:29Z",
+    "url": "https://github.com/neco001/Qdrant_Sentinel"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T21:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l",
     "id": "backblaze-b2-samples/lance-multimodal-search",
     "language": "TypeScript",
@@ -77,17 +167,8 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5566,
-    "updated_at": "2026-06-26T21:19:57Z",
+    "updated_at": "2026-06-26T21:31:06Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-06-26T21:19:34Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -144,15 +225,6 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Learn TypeScript chatting effortlessly with AI",
     "id": "Maurellone/TySVA",
     "language": "Python",
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T21:15:21Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T21:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
@@ -189,15 +252,6 @@
     "url": "https://github.com/Kr1mson/ForknFetch"
   },
   {
-    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:24:17Z",
-    "url": "https://github.com/88plug/total-recall"
-  },
-  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -211,7 +265,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62150,
+    "stars": 62151,
     "updated_at": "2026-06-26T20:57:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -295,33 +349,6 @@
     "stars": 1336,
     "updated_at": "2026-06-26T20:43:59Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 1,
-    "updated_at": "2026-06-26T20:38:51Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-06-26T20:38:20Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-06-26T20:38:01Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -421,32 +448,5 @@
     "stars": 6141,
     "updated_at": "2026-06-26T20:41:34Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-06-26T19:57:12Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
-    "id": "tryAGI/Pinecone",
-    "language": "C#",
-    "name": "tryAGI/Pinecone",
-    "stars": 8,
-    "updated_at": "2026-06-26T19:46:35Z",
-    "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "The AI-Powered Financial Operating System for Stellar",
-    "id": "aditya-jha033/autopilot",
-    "language": "TypeScript",
-    "name": "aditya-jha033/autopilot",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:38:08Z",
-    "url": "https://github.com/aditya-jha033/autopilot"
   }
 ]
