@@ -1,11 +1,137 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:44:39Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:44:22Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-26T14:44:02Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 88,
+    "updated_at": "2026-06-26T14:43:34Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
+    "id": "JaeHoYun/vcf-rag-reference-architecture",
+    "language": "\u2014",
+    "name": "JaeHoYun/vcf-rag-reference-architecture",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:41:51Z",
+    "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
+  },
+  {
+    "description": "Production-grade agentic AI orchestration platform \u2014 RAG, LLM inference, and multi-agent workflows with FastAPI, Ollama,",
+    "id": "AliSajadian/agentica",
+    "language": "Python",
+    "name": "AliSajadian/agentica",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:41:27Z",
+    "url": "https://github.com/AliSajadian/agentica"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:41:22Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Production-grade RAG chatbot with a FastAPI + LangGraph backend (Pinecone vector search + Groq LLM + Tavily web fallback",
+    "id": "brej-29/rag-agent-workbench",
+    "language": "Python",
+    "name": "brej-29/rag-agent-workbench",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:40:35Z",
+    "url": "https://github.com/brej-29/rag-agent-workbench"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:40:15Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-06-26T14:36:21Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 72,
+    "updated_at": "2026-06-26T14:37:10Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:32:01Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-06-26T14:31:33Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-26T14:30:20Z",
+    "updated_at": "2026-06-26T14:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,6 +142,15 @@
     "stars": 8,
     "updated_at": "2026-06-26T14:29:49Z",
     "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "A production-ready Retrieval-Augmented Generation (RAG) system enabling intelligent, context-aware document Q&A. Built w",
+    "id": "Anisca-hub/Document-QA-System-RAG",
+    "language": "Python",
+    "name": "Anisca-hub/Document-QA-System-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:27:47Z",
+    "url": "https://github.com/Anisca-hub/Document-QA-System-RAG"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -50,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16440,
-    "updated_at": "2026-06-26T14:24:56Z",
+    "updated_at": "2026-06-26T14:42:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -97,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-06-26T14:19:17Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-26T14:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -171,15 +297,6 @@
     "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   },
   {
-    "description": "VCF 9.1 Private AI \uc5d4\ub4dc\ud22c\uc5d4\ub4dc RAG \ub808\ud37c\ub7f0\uc2a4 \uc544\ud0a4\ud14d\ucc98 (VectorDB\u2192\uc11c\ube59\u2192\uc571 \ud1b5\ud569 / PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-rag-reference-architecture",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-rag-reference-architecture",
-    "stars": 0,
-    "updated_at": "2026-06-26T14:07:20Z",
-    "url": "https://github.com/JaeHoYun/vcf-rag-reference-architecture"
-  },
-  {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
     "id": "Mehdi138534/ai-news-scraper",
     "language": "HTML",
@@ -230,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9356,
-    "updated_at": "2026-06-26T14:05:24Z",
+    "updated_at": "2026-06-26T14:32:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -292,18 +409,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 22876,
+    "stars": 22888,
     "updated_at": "2026-06-26T13:53:47Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 72,
-    "updated_at": "2026-06-26T14:11:34Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T13:42:25Z",
     "url": "https://github.com/rossbuckley1990-hash/Howdex"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 7,
-    "updated_at": "2026-06-26T13:42:07Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Streaming RAG chatbot for international student visa questions \u2014 FastAPI + LangChain + ChromaDB + Groq Llama",
-    "id": "yuvraaj1110/intchat",
-    "language": "Python",
-    "name": "yuvraaj1110/intchat",
-    "stars": 1,
-    "updated_at": "2026-06-26T13:39:49Z",
-    "url": "https://github.com/yuvraaj1110/intchat"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 658,
-    "updated_at": "2026-06-26T13:39:11Z",
-    "url": "https://github.com/slothflowlabs/duckle"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1852,
-    "updated_at": "2026-06-26T13:26:01Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12438,
-    "updated_at": "2026-06-26T13:24:12Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A NodeJS RAG framework to easily work with LLMs and embeddings",
-    "id": "llm-tools/embedJs",
-    "language": "TypeScript",
-    "name": "llm-tools/embedJs",
-    "stars": 604,
-    "updated_at": "2026-06-26T13:23:18Z",
-    "url": "https://github.com/llm-tools/embedJs"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-26T13:13:04Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32664,
-    "updated_at": "2026-06-26T14:30:11Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI-powered PDF Chat Application built using Streamlit, LangChain, Google Gemini, FAISS, and RAG for document-based quest",
-    "id": "Krish6891/PDF-Chat-Using-RAG",
-    "language": "Python",
-    "name": "Krish6891/PDF-Chat-Using-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-26T12:54:11Z",
-    "url": "https://github.com/Krish6891/PDF-Chat-Using-RAG"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "HTML",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 21,
-    "updated_at": "2026-06-26T12:51:15Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7773,
-    "updated_at": "2026-06-26T14:20:56Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 10,
-    "updated_at": "2026-06-26T12:47:27Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
