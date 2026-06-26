@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T20:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:59:30Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-26T19:59:20Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "RAG trust & regression lab \u2014 retrieval recall, grounding, prompt-injection following, and poisoned-doc exposure, compare",
+    "id": "chohyerinn/rag-trust-lab",
+    "language": "Python",
+    "name": "chohyerinn/rag-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:58:56Z",
+    "url": "https://github.com/chohyerinn/rag-trust-lab"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:57:12Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-06-26T19:46:35Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:45:28Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -45,24 +117,6 @@
     "url": "https://github.com/MRomeo99/fact-library"
   },
   {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-26T19:35:05Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-26T19:35:01Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -70,15 +124,6 @@
     "stars": 1852,
     "updated_at": "2026-06-26T19:33:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "RAG trust & regression lab \u2014 retrieval recall, grounding, prompt-injection following, and poisoned-doc exposure, compare",
-    "id": "chohyerinn/rag-trust-lab",
-    "language": "Python",
-    "name": "chohyerinn/rag-trust-lab",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:33:39Z",
-    "url": "https://github.com/chohyerinn/rag-trust-lab"
   },
   {
     "description": "My reading notes following \" AI-Powered Search\" by Doug Turnbull, Max Irwin, and Trey Grainger",
@@ -97,24 +142,6 @@
     "stars": 18,
     "updated_at": "2026-06-26T19:30:28Z",
     "url": "https://github.com/FireFistisDead/pdf-qa-bot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T19:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A Lucene codec for vector search and clustering on the GPU",
@@ -142,6 +169,15 @@
     "stars": 397,
     "updated_at": "2026-06-26T19:19:18Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32660,
+    "updated_at": "2026-06-26T19:17:56Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6141,
-    "updated_at": "2026-06-26T19:17:47Z",
+    "updated_at": "2026-06-26T19:53:05Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -205,6 +241,15 @@
     "stars": 2,
     "updated_at": "2026-06-26T19:09:48Z",
     "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16441,
+    "updated_at": "2026-06-26T19:09:38Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Vectorless agent memory. HTML storage + grep retrieval. LongMemEval-S R@5 = 98.9%. No embedding, no vector DB.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32659,
-    "updated_at": "2026-06-26T19:17:56Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-26T18:43:19Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, two-way local vo",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 8,
-    "updated_at": "2026-06-26T18:42:36Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:39:30Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-06-26T18:39:18Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-26T18:38:26Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
