@@ -1,11 +1,155 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12437,
+    "updated_at": "2026-06-26T08:59:39Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:58:41Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-26T08:58:07Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:54:18Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 813,
+    "updated_at": "2026-06-26T08:54:10Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-26T08:54:00Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:53:39Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:53:09Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:52:41Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-26T08:52:13Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:52:11Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:49:34Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:48:31Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:46:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T08:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 22675,
-    "updated_at": "2026-06-26T08:43:33Z",
+    "stars": 22680,
+    "updated_at": "2026-06-26T08:59:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -16,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T08:42:36Z",
     "url": "https://github.com/pravinghuge97-boop/unistacksolutions-rag-langchain-complete-platform"
-  },
-  {
-    "description": "An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing.",
-    "id": "MostafaSensei106/Waffle-DB",
-    "language": "Dart",
-    "name": "MostafaSensei106/Waffle-DB",
-    "stars": 1,
-    "updated_at": "2026-06-26T08:41:20Z",
-    "url": "https://github.com/MostafaSensei106/Waffle-DB"
   },
   {
     "description": "",
@@ -59,26 +194,8 @@
     "language": "TypeScript",
     "name": "Cyning12/ai-ink-brain",
     "stars": 0,
-    "updated_at": "2026-06-26T08:39:44Z",
+    "updated_at": "2026-06-26T08:54:11Z",
     "url": "https://github.com/Cyning12/ai-ink-brain"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-26T08:39:15Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12437,
-    "updated_at": "2026-06-26T08:38:07Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -97,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-26T08:36:33Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 813,
-    "updated_at": "2026-06-26T08:43:31Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Persistent semantic memory SDK for AI agents.",
@@ -162,30 +270,12 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-26T08:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-26T08:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16437,
-    "updated_at": "2026-06-26T08:31:45Z",
+    "updated_at": "2026-06-26T08:46:10Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T08:06:52Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-06-26T08:05:34Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-06-26T08:05:28Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32656,
-    "updated_at": "2026-06-26T08:12:37Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "VCF 9.1 Private AI \uac00\uc774\ub4dc \uc2dc\ub9ac\uc988 \ud5c8\ube0c \u2014 Infra\u00b7Data(VectorDB)\u00b7Serving\u00b7RAG\u00b7Security\u00b7Sizing \uac00\uc774\ub4dc (PAIF 9.1 / PAIS 2.1)",
-    "id": "JaeHoYun/vcf-private-ai-series",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-private-ai-series",
-    "stars": 0,
-    "updated_at": "2026-06-26T08:01:55Z",
-    "url": "https://github.com/JaeHoYun/vcf-private-ai-series"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:55:17Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The AI-Powered Financial Operating System for Stellar",
-    "id": "aditya-jha033/autopilot",
-    "language": "TypeScript",
-    "name": "aditya-jha033/autopilot",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:54:29Z",
-    "url": "https://github.com/aditya-jha033/autopilot"
-  },
-  {
-    "description": "A premium Retrieval-Augmented Generation (RAG) dashboard powered by Gemini 2.5 Flash. Features multimodal PDF ingestion,",
-    "id": "deepanshu-verma-codes/clarity-rag",
-    "language": "JavaScript",
-    "name": "deepanshu-verma-codes/clarity-rag",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:47:24Z",
-    "url": "https://github.com/deepanshu-verma-codes/clarity-rag"
-  },
-  {
-    "description": "VCF 9.1 Private AI\uc6a9 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubca1\ud130 DB \uac00\uc774\ub4dc \u2014 DSM PostgreSQL + pgvector (\uc2dc\ub9ac\uc988 \u2461 \ub370\uc774\ud130)",
-    "id": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "language": "\u2014",
-    "name": "JaeHoYun/vcf-dsm-vectordb-guide",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:45:18Z",
-    "url": "https://github.com/JaeHoYun/vcf-dsm-vectordb-guide"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9356,
-    "updated_at": "2026-06-26T07:43:00Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:38:04Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
   }
 ]
