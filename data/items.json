@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T05:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 9,
+    "updated_at": "2026-06-27T05:26:29Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-27T05:25:24Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-27T05:24:32Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-27T05:23:26Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-27T05:23:10Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-06-27T05:21:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A vendor-neutral Python SDK for transforming enterprise documents into a canonical AI-ready representation for Retrieval",
+    "id": "anubhavprk2802/universal-ai-document-ingestion-sdk",
+    "language": "Python",
+    "name": "anubhavprk2802/universal-ai-document-ingestion-sdk",
+    "stars": 0,
+    "updated_at": "2026-06-27T05:21:42Z",
+    "url": "https://github.com/anubhavprk2802/universal-ai-document-ingestion-sdk"
+  },
+  {
+    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+    "id": "CaviraOSS/OpenMemory",
+    "language": "TypeScript",
+    "name": "CaviraOSS/OpenMemory",
+    "stars": 4277,
+    "updated_at": "2026-06-27T05:17:02Z",
+    "url": "https://github.com/CaviraOSS/OpenMemory"
+  },
+  {
+    "description": "AI-powered ConstructionRetrieval-Augmented Generation system built with FastAPI, Streamlit, FAISS, and Groq LLMs.",
+    "id": "Danish08654/Construction-AI-Assistant",
+    "language": "Python",
+    "name": "Danish08654/Construction-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-06-27T05:15:51Z",
+    "url": "https://github.com/Danish08654/Construction-AI-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-27T05:15:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -18,15 +117,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "An AI-powered Construction RAG (Retrieval-Augmented Generation) system built with FastAPI, Streamlit, FAISS, and Groq LL",
-    "id": "Danish08654/Construction-AI-Assistant",
-    "language": "\u2014",
-    "name": "Danish08654/Construction-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-06-27T05:04:55Z",
-    "url": "https://github.com/Danish08654/Construction-AI-Assistant"
-  },
-  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T05:02:45Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-27T05:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T05:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -365,7 +437,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 222,
-    "updated_at": "2026-06-27T04:35:41Z",
+    "updated_at": "2026-06-27T05:15:47Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T04:35:06Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "A vendor-neutral Python SDK for transforming enterprise documents into a canonical AI-ready representation for Retrieval",
-    "id": "anubhavprk2802/universal-ai-document-ingestion-sdk",
-    "language": "Python",
-    "name": "anubhavprk2802/universal-ai-document-ingestion-sdk",
-    "stars": 0,
-    "updated_at": "2026-06-27T04:34:42Z",
-    "url": "https://github.com/anubhavprk2802/universal-ai-document-ingestion-sdk"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-27T04:32:22Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-06-27T04:31:00Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-27T04:28:51Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-06-27T04:28:32Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-06-27T04:26:25Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-06-27T04:25:11Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 2,
-    "updated_at": "2026-06-27T04:25:05Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
