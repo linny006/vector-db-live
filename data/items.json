@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T19:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI-Powered Financial Operating System for Stellar",
+    "id": "aditya-jha033/autopilot",
+    "language": "TypeScript",
+    "name": "aditya-jha033/autopilot",
+    "stars": 0,
+    "updated_at": "2026-06-27T19:44:54Z",
+    "url": "https://github.com/aditya-jha033/autopilot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-27T19:44:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -14,17 +41,8 @@
     "language": "TypeScript",
     "name": "hsc00/trust-vote-ai",
     "stars": 0,
-    "updated_at": "2026-06-27T19:44:17Z",
+    "updated_at": "2026-06-27T19:44:21Z",
     "url": "https://github.com/hsc00/trust-vote-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:40:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "**MATHIR: Memory-Augmented Transformer with Hierarchical Retention** ",
@@ -133,15 +151,6 @@
     "stars": 975,
     "updated_at": "2026-06-27T19:31:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-27T19:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T19:11:02Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-27T19:07:15Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
