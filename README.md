@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-27 20:15 UTC
+> ⏰ Last updated: 2026-06-27 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-06-27 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-27 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 3 | [harsh04/bm25](https://github.com/harsh04/bm25) | 0 | Go | 2026-06-27 | Go port of FastEmbed's Qdrant/bm25 sparse text encoder. Build BM25 sparse vectors in Go that exactly match a FastEmbed-i |
-| 4 | [sil3d/MATHIR](https://github.com/sil3d/MATHIR) | 2 | Python | 2026-06-27 | **MATHIR: Memory-Augmented Transformer with Hierarchical Retention**  |
-| 5 | [mudassirshahzad/project-eka](https://github.com/mudassirshahzad/project-eka) | 0 | Java | 2026-06-27 | Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture. |
-| 6 | [schmitech/orbit](https://github.com/schmitech/orbit) | 286 | Python | 2026-06-27 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [Azterix101/local-graphrag-pipeline](https://github.com/Azterix101/local-graphrag-pipeline) | 0 | Python | 2026-06-27 | Local GraphRAG pipeline utilizing Ollama, Neo4j, Qdrant, and LangExtract. |
-| 10 | [RushiK8626/DocMind](https://github.com/RushiK8626/DocMind) | 1 | Python | 2026-06-27 | An end-to-end platform for intelligent document ingestion, structural analysis, layout-aware OCR, and agentic retrieval- |
-| 11 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-27 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 12 | [kossakovsky/n8n-install](https://github.com/kossakovsky/n8n-install) | 890 | Shell | 2026-06-27 | 🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP |
-| 13 | [kherrera6219/theFactory](https://github.com/kherrera6219/theFactory) | 1 | Python | 2026-06-27 | theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v |
-| 14 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 36 | Rust | 2026-06-27 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 15 | [neco001/Qdrant_Sentinel](https://github.com/neco001/Qdrant_Sentinel) | 0 | Python | 2026-06-27 | Automated multi-project codebase indexer for Qdrant. Real-time monitoring and seamless sync for AI agent context. |
-| 16 | [aditya-jha033/autopilot](https://github.com/aditya-jha033/autopilot) | 0 | TypeScript | 2026-06-27 | The AI-Powered Financial Operating System for Stellar |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-06-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [kherrera6219/theFactory](https://github.com/kherrera6219/theFactory) | 1 | Python | 2026-06-27 | theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v |
+| 3 | [aditya-jha033/autopilot](https://github.com/aditya-jha033/autopilot) | 0 | TypeScript | 2026-06-27 | The AI-Powered Financial Operating System for Stellar |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-06-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-06-27 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-06-27 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 7 | [harsh04/bm25](https://github.com/harsh04/bm25) | 0 | Go | 2026-06-27 | Go port of FastEmbed's Qdrant/bm25 sparse text encoder. Build BM25 sparse vectors in Go that exactly match a FastEmbed-i |
+| 8 | [sil3d/MATHIR](https://github.com/sil3d/MATHIR) | 2 | Python | 2026-06-27 | **MATHIR: Memory-Augmented Transformer with Hierarchical Retention**  |
+| 9 | [mudassirshahzad/project-eka](https://github.com/mudassirshahzad/project-eka) | 0 | Java | 2026-06-27 | Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture. |
+| 10 | [schmitech/orbit](https://github.com/schmitech/orbit) | 286 | Python | 2026-06-27 | A self-hosted AI infrastructure for private RAG and multi-model applications. |
+| 11 | [Azterix101/local-graphrag-pipeline](https://github.com/Azterix101/local-graphrag-pipeline) | 0 | Python | 2026-06-27 | Local GraphRAG pipeline utilizing Ollama, Neo4j, Qdrant, and LangExtract. |
+| 12 | [RushiK8626/DocMind](https://github.com/RushiK8626/DocMind) | 1 | Python | 2026-06-27 | An end-to-end platform for intelligent document ingestion, structural analysis, layout-aware OCR, and agentic retrieval- |
+| 13 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 1 | Python | 2026-06-27 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 14 | [kossakovsky/n8n-install](https://github.com/kossakovsky/n8n-install) | 890 | Shell | 2026-06-27 | 🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP |
+| 15 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 36 | Rust | 2026-06-27 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 16 | [neco001/Qdrant_Sentinel](https://github.com/neco001/Qdrant_Sentinel) | 0 | Python | 2026-06-27 | Automated multi-project codebase indexer for Qdrant. Real-time monitoring and seamless sync for AI agent context. |
 | 17 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-06-27 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
 | 18 | [hsc00/trust-vote-ai](https://github.com/hsc00/trust-vote-ai) | 0 | TypeScript | 2026-06-27 | Secure legislative integrity and digital voting platform powered by RAG (AI) for document analysis. |
 | 19 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-06-27 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
