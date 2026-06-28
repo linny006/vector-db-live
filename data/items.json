@@ -1,5 +1,86 @@
 [
   {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 11,
+    "updated_at": "2026-06-28T16:30:11Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:29:43Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
+    "id": "sameerthawait/adaptive_sementic_chunking",
+    "language": "Python",
+    "name": "sameerthawait/adaptive_sementic_chunking",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:30:17Z",
+    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 4,
+    "updated_at": "2026-06-28T16:23:51Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "RAG (Retrieval-Augmented Generation) system that answers questions about my own projects using their source code and doc",
+    "id": "frissonitte/rag-project-assistant",
+    "language": "Python",
+    "name": "frissonitte/rag-project-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:23:28Z",
+    "url": "https://github.com/frissonitte/rag-project-assistant"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 72,
+    "updated_at": "2026-06-28T16:20:45Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:20:12Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -7,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:09:12Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 11,
-    "updated_at": "2026-06-28T16:08:31Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:01:29Z",
     "url": "https://github.com/engram-os/engram-os"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T15:54:44Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "RAG (Retrieval-Augmented Generation) system that answers questions about my own projects using their source code and doc",
-    "id": "frissonitte/rag-project-assistant",
-    "language": "Python",
-    "name": "frissonitte/rag-project-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:54:37Z",
-    "url": "https://github.com/frissonitte/rag-project-assistant"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T15:26:20Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:26:02Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:25:47Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:21:39Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": " Local RAG pipeline using Ollama, LangChain, and Chroma \u2014 fully offline document Q&A over PDFs",
-    "id": "Dharshiny5/local-rag-olama",
-    "language": "Python",
-    "name": "Dharshiny5/local-rag-olama",
-    "stars": 0,
-    "updated_at": "2026-06-28T15:20:44Z",
-    "url": "https://github.com/Dharshiny5/local-rag-olama"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-28T15:19:01Z",
-    "url": "https://github.com/Snow17s/spank"
   }
 ]
