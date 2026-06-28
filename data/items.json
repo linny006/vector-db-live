@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T14:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An institutional-grade, multi-agent AI platform built for automated financial due diligence. Powered by LangGraph, Groq ",
+    "id": "shubhamgupta407/Due-Diligence-Agent",
+    "language": "TypeScript",
+    "name": "shubhamgupta407/Due-Diligence-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-28T13:59:52Z",
+    "url": "https://github.com/shubhamgupta407/Due-Diligence-Agent"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 668,
+    "updated_at": "2026-06-28T13:59:10Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 11,
+    "updated_at": "2026-06-28T13:58:48Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 9,
+    "updated_at": "2026-06-28T13:57:32Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-28T13:56:29Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-28T13:55:39Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-06-28T13:54:21Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-06-28T13:54:18Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "",
+    "id": "kanu-priy/ClauseAI",
+    "language": "Python",
+    "name": "kanu-priy/ClauseAI",
+    "stars": 0,
+    "updated_at": "2026-06-28T13:54:11Z",
+    "url": "https://github.com/kanu-priy/ClauseAI"
+  },
+  {
+    "description": "SecAI is a fully local AI assistant with Retrieval-Augmented Generation (RAG), built using FastAPI, React, PostgreSQL, C",
+    "id": "LordSpudnik/SecAI",
+    "language": "Python",
+    "name": "LordSpudnik/SecAI",
+    "stars": 0,
+    "updated_at": "2026-06-28T13:52:35Z",
+    "url": "https://github.com/LordSpudnik/SecAI"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-28T13:49:12Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-28T13:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -18,15 +135,6 @@
     "url": "https://github.com/abhishek123pal/Exam-Prep_Ai"
   },
   {
-    "description": "An institutional-grade, multi-agent AI platform built for automated financial due diligence. Powered by LangGraph, Groq ",
-    "id": "shubhamgupta407/Due-Diligence-Agent",
-    "language": "TypeScript",
-    "name": "shubhamgupta407/Due-Diligence-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:42:08Z",
-    "url": "https://github.com/shubhamgupta407/Due-Diligence-Agent"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
@@ -34,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T13:39:40Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "SecAI is a fully local AI assistant with Retrieval-Augmented Generation (RAG), built using FastAPI, React, PostgreSQL, C",
-    "id": "LordSpudnik/SecAI",
-    "language": "Python",
-    "name": "LordSpudnik/SecAI",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:38:33Z",
-    "url": "https://github.com/LordSpudnik/SecAI"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -90,24 +189,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -151,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-06-28T13:25:28Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16452,
+    "updated_at": "2026-06-28T13:25:02Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T13:09:53Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:09:47Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:09:11Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:08:23Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:08:17Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:07:47Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:07:36Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:07:12Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "RAG backend for regulatory document Q&A \u2014 hybrid retrieval (ChromaDB + BM25 + Reciprocal Rank Fusion), LangGraph agentic",
-    "id": "Romi-s/Compliance-RAG-Agent",
-    "language": "Python",
-    "name": "Romi-s/Compliance-RAG-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:06:03Z",
-    "url": "https://github.com/Romi-s/Compliance-RAG-Agent"
-  },
-  {
-    "description": "HUMI is an AI Conversational Agent (Digital Concierge) for HMNS Perfume on Discord. Built with n8n, Google Gemini API, Q",
-    "id": "alfitranurr/hmns-humi-concierge",
-    "language": "JavaScript",
-    "name": "alfitranurr/hmns-humi-concierge",
-    "stars": 0,
-    "updated_at": "2026-06-28T13:05:22Z",
-    "url": "https://github.com/alfitranurr/hmns-humi-concierge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-28T13:03:07Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
