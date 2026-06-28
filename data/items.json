@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "ZeR020/opencode-mem0",
     "stars": 11,
-    "updated_at": "2026-06-28T16:30:11Z",
+    "updated_at": "2026-06-28T16:44:09Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-28T16:42:06Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:37:09Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\u26a1 World\u2019s Fastest Vector Database for AI & RAG ",
+    "id": "casper-vdb/Casper",
+    "language": "\u2014",
+    "name": "casper-vdb/Casper",
+    "stars": 17,
+    "updated_at": "2026-06-28T16:32:02Z",
+    "url": "https://github.com/casper-vdb/Casper"
+  },
+  {
+    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
+    "id": "sameerthawait/adaptive_sementic_chunking",
+    "language": "Python",
+    "name": "sameerthawait/adaptive_sementic_chunking",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:30:46Z",
+    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T16:29:43Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": " Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati",
-    "id": "sameerthawait/adaptive_sementic_chunking",
-    "language": "Python",
-    "name": "sameerthawait/adaptive_sementic_chunking",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:30:17Z",
-    "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
   },
   {
     "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
@@ -52,33 +97,6 @@
     "stars": 72,
     "updated_at": "2026-06-28T16:20:45Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:20:12Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T15:44:08Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-06-28T15:43:43Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -374,7 +383,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1852,
-    "updated_at": "2026-06-28T15:30:12Z",
+    "updated_at": "2026-06-28T16:30:59Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T15:26:45Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-06-28T15:26:20Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
