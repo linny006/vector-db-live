@@ -5,15 +5,69 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-29T14:15:23Z",
+    "updated_at": "2026-06-29T14:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-06-29T14:30:18Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32775,
+    "updated_at": "2026-06-29T14:27:27Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 503,
+    "updated_at": "2026-06-29T14:25:58Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
+    "id": "krishkumar4400/weights-to-prod",
+    "language": "Jupyter Notebook",
+    "name": "krishkumar4400/weights-to-prod",
+    "stars": 1,
+    "updated_at": "2026-06-29T14:28:18Z",
+    "url": "https://github.com/krishkumar4400/weights-to-prod"
+  },
+  {
+    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama L",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-29T14:23:26Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 25404,
+    "stars": 25414,
     "updated_at": "2026-06-29T14:15:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-06-29T14:13:43Z",
+    "updated_at": "2026-06-29T14:30:08Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32773,
-    "updated_at": "2026-06-29T14:10:07Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 72,
-    "updated_at": "2026-06-29T14:14:03Z",
+    "updated_at": "2026-06-29T14:17:55Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T14:05:21Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58340,
-    "updated_at": "2026-06-29T14:02:25Z",
+    "updated_at": "2026-06-29T14:20:57Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T13:24:12Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-29T13:24:05Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:23:54Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:23:19Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-29T13:22:31Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
