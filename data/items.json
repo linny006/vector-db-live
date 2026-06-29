@@ -1,5 +1,185 @@
 [
   {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:42:13Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:41:57Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-06-29T12:41:23Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 72,
+    "updated_at": "2026-06-29T12:40:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-06-29T12:40:43Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-06-29T12:39:07Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
+    "id": "kamuma03/Provenance",
+    "language": "Python",
+    "name": "kamuma03/Provenance",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:39:03Z",
+    "url": "https://github.com/kamuma03/Provenance"
+  },
+  {
+    "description": "Endee.io \u2013 A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering signific",
+    "id": "endee-io/endee",
+    "language": "C++",
+    "name": "endee-io/endee",
+    "stars": 1307,
+    "updated_at": "2026-06-29T12:37:56Z",
+    "url": "https://github.com/endee-io/endee"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:37:35Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-06-29T12:37:24Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:36:34Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:35:53Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:35:37Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-06-29T12:35:17Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:33:03Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:32:32Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:32:09Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-06-29T12:31:18Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Project-scoped Qdrant MCP server for workspace collections with scratchbook functionality. Python port of claude-qdrant-",
     "id": "ChrisGVE/workspace-qdrant-mcp",
     "language": "Rust",
@@ -7,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-06-29T12:30:12Z",
     "url": "https://github.com/ChrisGVE/workspace-qdrant-mcp"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32767,
+    "updated_at": "2026-06-29T12:25:51Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "",
@@ -32,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4414,
-    "updated_at": "2026-06-29T12:29:58Z",
+    "updated_at": "2026-06-29T12:41:07Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -43,6 +232,15 @@
     "stars": 2,
     "updated_at": "2026-06-29T12:23:51Z",
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "Containerized Multi-Agent AI medical assistant leveraging LangGraph's ReAct framework, local FAISS semantic RAG, and iso",
+    "id": "TechCeo/medibot-agentic-rag",
+    "language": "Python",
+    "name": "TechCeo/medibot-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-06-29T12:23:46Z",
+    "url": "https://github.com/TechCeo/medibot-agentic-rag"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -81,24 +279,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-29T12:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -124,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T12:10:23Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
-    "id": "kamuma03/Provenance",
-    "language": "Python",
-    "name": "kamuma03/Provenance",
-    "stars": 0,
-    "updated_at": "2026-06-29T12:10:19Z",
-    "url": "https://github.com/kamuma03/Provenance"
   },
   {
     "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
@@ -162,24 +333,6 @@
     "url": "https://github.com/Coriou/up-vector"
   },
   {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-06-29T12:08:11Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "Endee.io \u2013 A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering signific",
-    "id": "endee-io/endee",
-    "language": "C++",
-    "name": "endee-io/endee",
-    "stars": 1307,
-    "updated_at": "2026-06-29T12:12:43Z",
-    "url": "https://github.com/endee-io/endee"
-  },
-  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -187,6 +340,15 @@
     "stars": 0,
     "updated_at": "2026-06-29T12:04:07Z",
     "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16462,
+    "updated_at": "2026-06-29T12:44:14Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
@@ -286,167 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-29T11:50:54Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 287,
-    "updated_at": "2026-06-29T11:49:27Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58337,
-    "updated_at": "2026-06-29T11:48:29Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 11,
-    "updated_at": "2026-06-29T11:43:35Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Temporal context, CRUD tools, and automated deduplication for Mem0 OSS + Qdrant. Fixes time-blindness and conflict resol",
-    "id": "Ardem2025/mem0-temporal-hygiene",
-    "language": "Python",
-    "name": "Ardem2025/mem0-temporal-hygiene",
-    "stars": 3,
-    "updated_at": "2026-06-29T11:40:29Z",
-    "url": "https://github.com/Ardem2025/mem0-temporal-hygiene"
-  },
-  {
-    "description": "Smart recommendations for smarter viewers",
-    "id": "dheerajram13/FilmFind",
-    "language": "Python",
-    "name": "dheerajram13/FilmFind",
-    "stars": 1,
-    "updated_at": "2026-06-29T11:38:24Z",
-    "url": "https://github.com/dheerajram13/FilmFind"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45008,
-    "updated_at": "2026-06-29T11:36:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:33:44Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16461,
-    "updated_at": "2026-06-29T12:03:37Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Advanced RAG-based Question Answering System with LLMs and Vector Search",
-    "id": "johnsonnyabicha-alt/rag-qa-system",
-    "language": "\u2014",
-    "name": "johnsonnyabicha-alt/rag-qa-system",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:32:56Z",
-    "url": "https://github.com/johnsonnyabicha-alt/rag-qa-system"
-  },
-  {
-    "description": "Corporate AI knowledge assistant powered by RAG, FastAPI, LangChain and ChromaDB.",
-    "id": "KirillTomenko/ai-knowledge-assistant",
-    "language": "Python",
-    "name": "KirillTomenko/ai-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:32:49Z",
-    "url": "https://github.com/KirillTomenko/ai-knowledge-assistant"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:32:01Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:30:06Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
-    "id": "feather-store/feather",
-    "language": "Python",
-    "name": "feather-store/feather",
-    "stars": 6,
-    "updated_at": "2026-06-29T11:28:47Z",
-    "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:28:08Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Retrieval-first healthcare RAG evaluation framework with ChromaDB, BGE embeddings, FastAPI, Docker, audit logging, and H",
-    "id": "mahrufa-binta-ali/clinical-rag-evaluation-framework",
-    "language": "Python",
-    "name": "mahrufa-binta-ali/clinical-rag-evaluation-framework",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:27:12Z",
-    "url": "https://github.com/mahrufa-binta-ali/clinical-rag-evaluation-framework"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-06-29T11:26:26Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "\u533b\u5b66\u4f20\u64ad\u521b\u610f\u5411\u91cf\u77e5\u8bc6\u5e93 \u2014 \u8bed\u4e49\u68c0\u7d22 RAG + 52\u4e2a\u5168\u7403\u521b\u610f\u6848\u4f8b\u6df1\u5ea6\u62a5\u544a",
-    "id": "veawho/via54MedCreativeDB",
-    "language": "Python",
-    "name": "veawho/via54MedCreativeDB",
-    "stars": 1,
-    "updated_at": "2026-06-29T11:26:21Z",
-    "url": "https://github.com/veawho/via54MedCreativeDB"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-06-29T11:24:37Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
