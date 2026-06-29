@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-29T20:00:21Z",
+    "updated_at": "2026-06-29T20:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "**MATHIR: Memory-Augmented Transformer with Hierarchical Retention** ",
+    "id": "sil3d/MATHIR",
+    "language": "Python",
+    "name": "sil3d/MATHIR",
+    "stars": 4,
+    "updated_at": "2026-06-29T20:15:03Z",
+    "url": "https://github.com/sil3d/MATHIR"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-06-29T20:11:42Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 2,
+    "updated_at": "2026-06-29T20:10:00Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32793,
+    "updated_at": "2026-06-29T20:01:06Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -18,6 +63,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 982,
+    "updated_at": "2026-06-29T19:57:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T19:55:43Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-06-29T19:55:11Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
     "description": "LLM-free, layout-aware PDF chunking for RAG pipelines. Preserves document structure via regex and font heuristics. Writt",
@@ -58,7 +103,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2168,
+    "stars": 2169,
     "updated_at": "2026-06-29T19:46:22Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -72,15 +117,6 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-Powered Educational Learning Platform using RAG, Vector Databases, LLMs, Adaptive Learning, Quiz Generation, Flashcar",
     "id": "prachetagajbhiye-wq/u2u-internship-project",
     "language": "Python",
@@ -90,20 +126,11 @@
     "url": "https://github.com/prachetagajbhiye-wq/u2u-internship-project"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32792,
-    "updated_at": "2026-06-29T19:58:54Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10760,
+    "stars": 10761,
     "updated_at": "2026-06-29T19:36:37Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -135,20 +162,11 @@
     "url": "https://github.com/jafethsaenz-source/qdrant-semantic-search"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 981,
-    "updated_at": "2026-06-29T19:57:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
     "id": "christopherkarani/Wax",
     "language": "Swift",
     "name": "christopherkarani/Wax",
-    "stars": 766,
+    "stars": 767,
     "updated_at": "2026-06-29T19:20:58Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
@@ -211,7 +229,7 @@
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
-    "stars": 814,
+    "stars": 815,
     "updated_at": "2026-06-29T19:02:08Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
@@ -286,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-06-29T18:50:09Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6980,
+    "updated_at": "2026-06-29T18:49:53Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T18:33:12Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Self-hosted, GPU-split RAG pipeline \u2014 local LLM (Dolphin-8B/llama.cpp) + Qwen3 embeddings + hybrid Qdrant + marker PDF\u2192M",
-    "id": "CryptoJones/RAG-Pipeline-Example",
-    "language": "Python",
-    "name": "CryptoJones/RAG-Pipeline-Example",
-    "stars": 0,
-    "updated_at": "2026-06-29T18:32:47Z",
-    "url": "https://github.com/CryptoJones/RAG-Pipeline-Example"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:31:41Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:31:14Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
