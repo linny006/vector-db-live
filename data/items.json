@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI-Powered Educational Learning Platform using RAG, Vector Databases, LLMs, Adaptive Learning, Quiz Generation, Flashcar",
+    "id": "prachetagajbhiye-wq/u2u-internship-project",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "prachetagajbhiye-wq/u2u-internship-project",
     "stars": 1,
-    "updated_at": "2026-06-29T19:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-06-29T19:43:39Z",
+    "url": "https://github.com/prachetagajbhiye-wq/u2u-internship-project"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 981,
-    "updated_at": "2026-06-29T19:26:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2168,
+    "updated_at": "2026-06-29T19:43:33Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-06-29T19:30:22Z",
+    "updated_at": "2026-06-29T19:44:07Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10759,
+    "updated_at": "2026-06-29T19:36:37Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
@@ -32,8 +41,62 @@
     "language": "Python",
     "name": "vansharora156/nexus-rag",
     "stars": 0,
-    "updated_at": "2026-06-29T19:23:04Z",
+    "updated_at": "2026-06-29T19:36:10Z",
     "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32791,
+    "updated_at": "2026-06-29T19:41:39Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "\ud83e\udde0 Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, ",
+    "id": "timothywarner-org/context-engineering",
+    "language": "Python",
+    "name": "timothywarner-org/context-engineering",
+    "stars": 23,
+    "updated_at": "2026-06-29T19:34:58Z",
+    "url": "https://github.com/timothywarner-org/context-engineering"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T19:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Semantic search engine built with Python, Sentence Transformers and Qdrant vector database.",
+    "id": "jafethsaenz-source/qdrant-semantic-search",
+    "language": "Python",
+    "name": "jafethsaenz-source/qdrant-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:28:36Z",
+    "url": "https://github.com/jafethsaenz-source/qdrant-semantic-search"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 981,
+    "updated_at": "2026-06-29T19:44:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
@@ -54,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
     "id": "kamuma03/Provenance",
     "language": "Python",
@@ -72,21 +126,12 @@
     "url": "https://github.com/kamuma03/Provenance"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2168,
-    "updated_at": "2026-06-29T19:13:53Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
     "id": "heybeaux/engram",
     "language": "TypeScript",
     "name": "heybeaux/engram",
     "stars": 3,
-    "updated_at": "2026-06-29T19:22:28Z",
+    "updated_at": "2026-06-29T19:31:06Z",
     "url": "https://github.com/heybeaux/engram"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "akinekim529/contextOS",
     "stars": 0,
-    "updated_at": "2026-06-29T19:03:31Z",
+    "updated_at": "2026-06-29T19:37:10Z",
     "url": "https://github.com/akinekim529/contextOS"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 814,
     "updated_at": "2026-06-29T19:02:08Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "\ud83e\udde0 Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, ",
-    "id": "timothywarner-org/context-engineering",
-    "language": "Python",
-    "name": "timothywarner-org/context-engineering",
-    "stars": 23,
-    "updated_at": "2026-06-29T18:59:11Z",
-    "url": "https://github.com/timothywarner-org/context-engineering"
   },
   {
     "description": "Multi-agent enterprise market intelligence platform using LangGraph, OpenAI, Tavily, Qdrant, FastEmbed, and DeepEval.",
@@ -324,15 +360,6 @@
     "url": "https://github.com/FIRE-hub911/citation-assistant"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32790,
-    "updated_at": "2026-06-29T19:09:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
     "id": "K3Tamaa/Vector-Forge",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-29T18:29:13Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 62293,
-    "updated_at": "2026-06-29T18:28:53Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-06-29T18:28:19Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6979,
-    "updated_at": "2026-06-29T18:49:53Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
