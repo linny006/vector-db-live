@@ -1,11 +1,83 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 814,
+    "updated_at": "2026-06-30T07:11:00Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-06-30T07:10:29Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 1,
+    "updated_at": "2026-06-30T07:09:20Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama L",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-30T07:08:02Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "\ud83e\udde0 Chat with your documents using RAG \u2014 LlamaIndex + Qdrant + Ollama/Groq | Built for FOSS Club AI/ML role",
+    "id": "AnubhavKiroula/docmind-rag-chatbot",
+    "language": "Python",
+    "name": "AnubhavKiroula/docmind-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-06-30T07:07:55Z",
+    "url": "https://github.com/AnubhavKiroula/docmind-rag-chatbot"
+  },
+  {
+    "description": "ragfallback is a Python library that prevents silent RAG failures \u2014 chunk quality, retrieval fallback, adaptive querying",
+    "id": "irfanalidv/ragfallback",
+    "language": "Python",
+    "name": "irfanalidv/ragfallback",
+    "stars": 2,
+    "updated_at": "2026-06-30T07:06:37Z",
+    "url": "https://github.com/irfanalidv/ragfallback"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-30T07:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
+    "id": "kherrera6219/theFactory",
+    "language": "Python",
+    "name": "kherrera6219/theFactory",
+    "stars": 1,
+    "updated_at": "2026-06-30T07:03:43Z",
+    "url": "https://github.com/kherrera6219/theFactory"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-06-30T07:00:20Z",
+    "updated_at": "2026-06-30T07:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 72,
-    "updated_at": "2026-06-30T07:00:02Z",
+    "updated_at": "2026-06-30T07:12:14Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 6980,
     "updated_at": "2026-06-30T06:58:24Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "ragfallback is a Python library that prevents silent RAG failures \u2014 chunk quality, retrieval fallback, adaptive querying",
-    "id": "irfanalidv/ragfallback",
-    "language": "Python",
-    "name": "irfanalidv/ragfallback",
-    "stars": 2,
-    "updated_at": "2026-06-30T06:53:14Z",
-    "url": "https://github.com/irfanalidv/ragfallback"
   },
   {
     "description": "\u4e2a\u4eba AI \u804a\u5929\u5e94\u7528\uff0c\u57fa\u4e8e Next.js \u548c RAG \u6280\u672f\uff0c\u63d0\u4f9b\u4e2a\u6027\u5316\u5bf9\u8bdd\u4f53\u9a8c",
@@ -49,7 +112,7 @@
     "id": "slothflowlabs/duckle",
     "language": "Rust",
     "name": "slothflowlabs/duckle",
-    "stars": 679,
+    "stars": 680,
     "updated_at": "2026-06-30T06:49:10Z",
     "url": "https://github.com/slothflowlabs/duckle"
   },
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T06:47:46Z",
     "url": "https://github.com/gaurav2026-gt/rag-ai-assistant-with-qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-30T06:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -94,7 +148,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45021,
+    "stars": 45022,
     "updated_at": "2026-06-30T06:38:06Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -106,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-06-30T06:37:32Z",
     "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama L",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-30T06:36:51Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -140,7 +185,7 @@
     "language": "C++",
     "name": "ashishodu2023/TideVec",
     "stars": 0,
-    "updated_at": "2026-06-30T06:42:22Z",
+    "updated_at": "2026-06-30T07:02:40Z",
     "url": "https://github.com/ashishodu2023/TideVec"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4415,
-    "updated_at": "2026-06-30T06:30:07Z",
+    "updated_at": "2026-06-30T07:05:08Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "theFactory is a local-first, event-driven AI software factory for building, modernizing, debugging, securing, porting, v",
-    "id": "kherrera6219/theFactory",
-    "language": "Python",
-    "name": "kherrera6219/theFactory",
-    "stars": 1,
-    "updated_at": "2026-06-30T06:10:13Z",
-    "url": "https://github.com/kherrera6219/theFactory"
-  },
-  {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
     "id": "pavanbadempet/Movie-Recommendation-System",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-30T06:05:20Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-06-30T06:05:11Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Ruby bindings for the Lance columnar data format. Built on the Lance Rust crate, Lancelot brings high-performance vector",
-    "id": "scientist-labs/lancelot",
-    "language": "Ruby",
-    "name": "scientist-labs/lancelot",
-    "stars": 7,
-    "updated_at": "2026-06-30T06:04:42Z",
-    "url": "https://github.com/scientist-labs/lancelot"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-06-30T06:04:38Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 1,
-    "updated_at": "2026-06-30T06:03:40Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
