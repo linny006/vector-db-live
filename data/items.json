@@ -1,5 +1,68 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 816,
+    "updated_at": "2026-06-30T18:10:43Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Splinter cohabitates inference and semantic governance in L3 cache and memory lanes, while simultaneously providing stan",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 4,
+    "updated_at": "2026-06-30T18:09:21Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
+    "id": "Vansh-7/Vector-DB-RAG-pipeline",
+    "language": "TypeScript",
+    "name": "Vansh-7/Vector-DB-RAG-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:08:23Z",
+    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
+  },
+  {
+    "description": "Production-ready RAG system built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, and PGVector.",
+    "id": "mariiammaysara/Docsly",
+    "language": "Python",
+    "name": "mariiammaysara/Docsly",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:08:16Z",
+    "url": "https://github.com/mariiammaysara/Docsly"
+  },
+  {
+    "description": "RAG-powered financial advisor that analyzes bank statements and expense CSVs to deliver personalized spending insights v",
+    "id": "ShrutiPatel263/RAG-powered-Financial-Copilot",
+    "language": "Python",
+    "name": "ShrutiPatel263/RAG-powered-Financial-Copilot",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:08:06Z",
+    "url": "https://github.com/ShrutiPatel263/RAG-powered-Financial-Copilot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "RAG-powered financial advisor that analyzes bank statements and expense CSVs to deliver personalized spending insights v",
-    "id": "ShrutiPatel263/RAG-powered-Financial-Copilot",
+    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
+    "id": "kostas221/local-rag-assistant",
     "language": "Python",
-    "name": "ShrutiPatel263/RAG-powered-Financial-Copilot",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:56:28Z",
-    "url": "https://github.com/ShrutiPatel263/RAG-powered-Financial-Copilot"
+    "name": "kostas221/local-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-30T17:58:32Z",
+    "url": "https://github.com/kostas221/local-rag-assistant"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "heybeaux/engram",
     "stars": 3,
-    "updated_at": "2026-06-30T17:48:27Z",
+    "updated_at": "2026-06-30T18:09:25Z",
     "url": "https://github.com/heybeaux/engram"
   },
   {
@@ -122,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 0,
-    "updated_at": "2026-06-30T17:47:32Z",
+    "updated_at": "2026-06-30T18:03:26Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:46:47Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Encrypted-first embedded SQL database with a built-in memory engine",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:42:54Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 816,
-    "updated_at": "2026-06-30T17:42:48Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -351,6 +387,15 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16471,
+    "updated_at": "2026-06-30T17:30:57Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -367,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T17:30:32Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Production-ready RAG system built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, and PGVector.",
-    "id": "mariiammaysara/Docsly",
-    "language": "Python",
-    "name": "mariiammaysara/Docsly",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:29:08Z",
-    "url": "https://github.com/mariiammaysara/Docsly"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:25:37Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 17,
-    "updated_at": "2026-06-30T17:24:53Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:21:50Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-06-30T17:21:44Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Splinter cohabitates inference and semantic governance in L3 cache and memory lanes, while simultaneously providing stan",
-    "id": "splinterhq/libsplinter",
-    "language": "C",
-    "name": "splinterhq/libsplinter",
-    "stars": 4,
-    "updated_at": "2026-06-30T17:21:36Z",
-    "url": "https://github.com/splinterhq/libsplinter"
   }
 ]
