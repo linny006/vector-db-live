@@ -1,12 +1,93 @@
 [
   {
-    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
-    "id": "vansharora156/nexus-rag",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "vansharora156/nexus-rag",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-30T18:26:46Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 11,
+    "updated_at": "2026-06-30T18:23:56Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-30T18:23:18Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
+    "id": "heybeaux/engram",
+    "language": "TypeScript",
+    "name": "heybeaux/engram",
+    "stars": 3,
+    "updated_at": "2026-06-30T18:23:16Z",
+    "url": "https://github.com/heybeaux/engram"
+  },
+  {
+    "description": "Production-ready RAG system built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, and PGVector.",
+    "id": "mariiammaysara/Docsly",
+    "language": "Python",
+    "name": "mariiammaysara/Docsly",
     "stars": 0,
-    "updated_at": "2026-06-30T18:14:33Z",
-    "url": "https://github.com/vansharora156/nexus-rag"
+    "updated_at": "2026-06-30T18:22:48Z",
+    "url": "https://github.com/mariiammaysara/Docsly"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10765,
+    "updated_at": "2026-06-30T18:22:02Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 151,
+    "updated_at": "2026-06-30T18:21:16Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "RAG-based PDF AI Assistant built with LangChain, Gemini API, and Qdrant for semantic document search and question answer",
+    "id": "YashasviSharma10/pdf-ai-assistant",
+    "language": "Python",
+    "name": "YashasviSharma10/pdf-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:21:16Z",
+    "url": "https://github.com/YashasviSharma10/pdf-ai-assistant"
+  },
+  {
+    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama L",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 31,
+    "updated_at": "2026-06-30T18:17:19Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-06-30T18:14:14Z",
+    "updated_at": "2026-06-30T18:15:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
+    "id": "vansharora156/nexus-rag",
+    "language": "Python",
+    "name": "vansharora156/nexus-rag",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:14:33Z",
+    "url": "https://github.com/vansharora156/nexus-rag"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -45,15 +135,6 @@
     "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
   },
   {
-    "description": "Production-ready RAG system built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, and PGVector.",
-    "id": "mariiammaysara/Docsly",
-    "language": "Python",
-    "name": "mariiammaysara/Docsly",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:08:16Z",
-    "url": "https://github.com/mariiammaysara/Docsly"
-  },
-  {
     "description": "RAG-powered financial advisor that analyzes bank statements and expense CSVs to deliver personalized spending insights v",
     "id": "ShrutiPatel263/RAG-powered-Financial-Copilot",
     "language": "Python",
@@ -61,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T18:08:06Z",
     "url": "https://github.com/ShrutiPatel263/RAG-powered-Financial-Copilot"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T18:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:59:02Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:56:11Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 11,
-    "updated_at": "2026-06-30T17:55:48Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -162,15 +216,6 @@
     "url": "https://github.com/engram-os/engram-os"
   },
   {
-    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
-    "id": "heybeaux/engram",
-    "language": "TypeScript",
-    "name": "heybeaux/engram",
-    "stars": 3,
-    "updated_at": "2026-06-30T18:09:25Z",
-    "url": "https://github.com/heybeaux/engram"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -178,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-06-30T17:54:25Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Privacy-first clinical intelligence & EHR platform. React 19 Vite portal, FastAPI backend, LangGraph RAG, local Ollama L",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 31,
-    "updated_at": "2026-06-30T17:47:33Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "yp3y5akh0v/citadel",
     "stars": 3,
-    "updated_at": "2026-06-30T17:43:36Z",
+    "updated_at": "2026-06-30T18:24:42Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16471,
-    "updated_at": "2026-06-30T17:30:57Z",
+    "updated_at": "2026-06-30T18:16:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T17:30:51Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:30:32Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:28:16Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:27:40Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:27:20Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
