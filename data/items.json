@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-30T21:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-06-30T21:14:39Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -14,8 +14,71 @@
     "language": "TypeScript",
     "name": "Zizka-ai/ZizkaDB",
     "stars": 17,
-    "updated_at": "2026-06-30T21:00:04Z",
+    "updated_at": "2026-06-30T21:12:03Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 72,
+    "updated_at": "2026-06-30T21:10:47Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
+    "id": "kamuma03/Provenance",
+    "language": "Python",
+    "name": "kamuma03/Provenance",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:07:19Z",
+    "url": "https://github.com/kamuma03/Provenance"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:03:54Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "ChatGPT, embedding search, and retrieval-augmented generation for Squeak/Smalltalk",
+    "id": "hpi-swa-lab/Squeak-SemanticText",
+    "language": "Smalltalk",
+    "name": "hpi-swa-lab/Squeak-SemanticText",
+    "stars": 18,
+    "updated_at": "2026-06-30T21:03:04Z",
+    "url": "https://github.com/hpi-swa-lab/Squeak-SemanticText"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:02:06Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T20:57:57Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
-    "id": "kamuma03/Provenance",
-    "language": "Python",
-    "name": "kamuma03/Provenance",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:57:53Z",
-    "url": "https://github.com/kamuma03/Provenance"
   },
   {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32834,
-    "updated_at": "2026-06-30T20:48:27Z",
+    "updated_at": "2026-06-30T21:06:32Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:45:41Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:42:40Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:41:12Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-30T20:27:37Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:25:11Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-06-30T20:23:51Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
-    "id": "Vansh-7/Vector-DB-RAG-pipeline",
-    "language": "TypeScript",
-    "name": "Vansh-7/Vector-DB-RAG-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:23:43Z",
-    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:21:24Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
