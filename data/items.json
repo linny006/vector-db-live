@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-01T20:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-01T20:44:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 73,
+    "updated_at": "2026-07-01T20:43:07Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
+    "id": "qmmughal/langchain-supabase-ingestor",
+    "language": "Python",
+    "name": "qmmughal/langchain-supabase-ingestor",
+    "stars": 0,
+    "updated_at": "2026-07-01T20:38:21Z",
+    "url": "https://github.com/qmmughal/langchain-supabase-ingestor"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "ZeR020/opencode-mem0",
     "stars": 11,
-    "updated_at": "2026-07-01T20:21:49Z",
+    "updated_at": "2026-07-01T20:38:07Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 0,
+    "updated_at": "2026-07-01T20:37:07Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 402,
+    "updated_at": "2026-07-01T20:34:57Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 990,
+    "updated_at": "2026-07-01T20:32:18Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-07-01T20:15:23Z",
+    "updated_at": "2026-07-01T20:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T20:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -43,15 +97,6 @@
     "stars": 6162,
     "updated_at": "2026-07-01T20:17:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:11:20Z",
-    "url": "https://github.com/Aniket762/ragent"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -126,21 +171,12 @@
     "url": "https://github.com/MrLuciano/kb-rag-mcp"
   },
   {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 73,
-    "updated_at": "2026-07-01T20:14:38Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Document-first sqlite3+faiss vector database",
     "id": "thomas-villani/localvectordb",
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 1,
-    "updated_at": "2026-07-01T19:53:41Z",
+    "updated_at": "2026-07-01T20:34:36Z",
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "achref-soua/quiver",
     "stars": 1,
-    "updated_at": "2026-07-01T20:29:13Z",
+    "updated_at": "2026-07-01T20:40:11Z",
     "url": "https://github.com/achref-soua/quiver"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
     "stars": 56,
-    "updated_at": "2026-07-01T19:48:50Z",
+    "updated_at": "2026-07-01T20:34:25Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "hsc00/trust-vote-ai",
     "stars": 0,
-    "updated_at": "2026-07-01T19:49:55Z",
+    "updated_at": "2026-07-01T20:45:06Z",
     "url": "https://github.com/hsc00/trust-vote-ai"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T19:29:36Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-01T19:29:15Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:27:15Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12693,
-    "updated_at": "2026-07-01T19:33:39Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-01T19:26:35Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
