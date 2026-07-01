@@ -1,5 +1,104 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1380,
+    "updated_at": "2026-07-01T12:42:32Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
+    "id": "ZemResearch/FiktarDB.jl",
+    "language": "Julia",
+    "name": "ZemResearch/FiktarDB.jl",
+    "stars": 1,
+    "updated_at": "2026-07-01T12:40:58Z",
+    "url": "https://github.com/ZemResearch/FiktarDB.jl"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:39:30Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 688,
+    "updated_at": "2026-07-01T12:38:39Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:37:35Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:35:25Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:34:08Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:33:25Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-07-01T12:30:38Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-01T12:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -43,15 +142,6 @@
     "stars": 4415,
     "updated_at": "2026-07-01T12:26:13Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A lightweight, 100% pure Julia native vector database designed as long-term memory for local LLMs and RAG systems.",
-    "id": "ZemResearch/FiktarDB.jl",
-    "language": "Julia",
-    "name": "ZemResearch/FiktarDB.jl",
-    "stars": 1,
-    "updated_at": "2026-07-01T12:25:43Z",
-    "url": "https://github.com/ZemResearch/FiktarDB.jl"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -225,24 +315,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-01T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-01T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -270,21 +342,12 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-07-01T12:13:22Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
     "description": "BRUNELLA AGENT SYSTEM (BAS) \u2013 A J\u00d6V\u0150 DIGIT\u00c1LIS SZERVEZETE",
     "id": "pohi99999/mcp-brunella-core",
     "language": "C++",
     "name": "pohi99999/mcp-brunella-core",
     "stars": 1,
-    "updated_at": "2026-07-01T12:16:36Z",
+    "updated_at": "2026-07-01T12:38:15Z",
     "url": "https://github.com/pohi99999/mcp-brunella-core"
   },
   {
@@ -297,7 +360,7 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Cognitive memory for AI agents \u2014 learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fu",
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T12:06:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-01T12:06:10Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-01T12:05:49Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32854,
-    "updated_at": "2026-07-01T12:05:36Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 26262,
-    "updated_at": "2026-07-01T12:05:11Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-01T12:01:18Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-01T11:58:29Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 989,
-    "updated_at": "2026-07-01T11:57:39Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
