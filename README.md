@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 10:13 UTC
+> ⏰ Last updated: 2026-07-01 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-07-01 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
-| 2 | [decided-indication109/AI-Engineer-in-90-Days](https://github.com/decided-indication109/AI-Engineer-in-90-Days) | 1 | Mermaid | 2026-07-01 | Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI  |
-| 3 | [Boney-massiveness357/ragscope](https://github.com/Boney-massiveness357/ragscope) | 0 | Python | 2026-07-01 | Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua |
-| 4 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32849 | Rust | 2026-07-01 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 5 | [eastythenob8-svg/graph-memory](https://github.com/eastythenob8-svg/graph-memory) | 1 | TypeScript | 2026-07-01 | Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses |
-| 6 | [conceited-watergillyflower311/meilisearch-desktop](https://github.com/conceited-watergillyflower311/meilisearch-desktop) | 1 | TypeScript | 2026-07-01 | Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat |
-| 7 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-07-01 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
-| 8 | [hivellm/vectorizer](https://github.com/hivellm/vectorizer) | 25 | Rust | 2026-07-01 | A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q |
-| 9 | [younismahmoud1234/gitsage](https://github.com/younismahmoud1234/gitsage) | 1 | Java | 2026-07-01 | Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas |
-| 10 | [Snow17s/spank](https://github.com/Snow17s/spank) | 2 | Go | 2026-07-01 | Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary. |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 12 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-07-01 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
+| 4 | [decided-indication109/AI-Engineer-in-90-Days](https://github.com/decided-indication109/AI-Engineer-in-90-Days) | 1 | Mermaid | 2026-07-01 | Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI  |
+| 5 | [Boney-massiveness357/ragscope](https://github.com/Boney-massiveness357/ragscope) | 0 | Python | 2026-07-01 | Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua |
+| 6 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32849 | Rust | 2026-07-01 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 7 | [eastythenob8-svg/graph-memory](https://github.com/eastythenob8-svg/graph-memory) | 1 | TypeScript | 2026-07-01 | Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses |
+| 8 | [conceited-watergillyflower311/meilisearch-desktop](https://github.com/conceited-watergillyflower311/meilisearch-desktop) | 1 | TypeScript | 2026-07-01 | Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat |
+| 9 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-07-01 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
+| 10 | [hivellm/vectorizer](https://github.com/hivellm/vectorizer) | 25 | Rust | 2026-07-01 | A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q |
+| 11 | [younismahmoud1234/gitsage](https://github.com/younismahmoud1234/gitsage) | 1 | Java | 2026-07-01 | Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas |
+| 12 | [Snow17s/spank](https://github.com/Snow17s/spank) | 2 | Go | 2026-07-01 | Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary. |
 | 13 | [FIRE-hub911/citation-assistant](https://github.com/FIRE-hub911/citation-assistant) | 3 | Shell | 2026-07-01 | Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem |
 | 14 | [K3Tamaa/Vector-Forge](https://github.com/K3Tamaa/Vector-Forge) | 0 | — | 2026-07-01 | Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm |
 | 15 | [iqiipo-dev/PS-HK19_MindForge_MindForge](https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge) | 2 | JavaScript | 2026-07-01 | Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff |
