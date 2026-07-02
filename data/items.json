@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 402,
+    "updated_at": "2026-07-02T15:59:17Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 106,
+    "updated_at": "2026-07-02T15:52:39Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Embedding API Provider: RAG-Ready Vector Search API \u2014 Compare embedding models, pricing, dimensions, and retrieval accur",
+    "id": "aitoken-hub/embedding-api-provider",
+    "language": "\u2014",
+    "name": "aitoken-hub/embedding-api-provider",
     "stars": 0,
-    "updated_at": "2026-07-02T15:43:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "updated_at": "2026-07-02T15:49:55Z",
+    "url": "https://github.com/aitoken-hub/embedding-api-provider"
+  },
+  {
+    "description": "Encrypted-first embedded SQL database with a built-in memory engine",
+    "id": "yp3y5akh0v/citadel",
+    "language": "Rust",
+    "name": "yp3y5akh0v/citadel",
+    "stars": 3,
+    "updated_at": "2026-07-02T15:49:49Z",
+    "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 814,
-    "updated_at": "2026-07-02T15:44:21Z",
+    "updated_at": "2026-07-02T15:59:04Z",
     "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T15:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T15:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 0,
+    "updated_at": "2026-07-02T15:43:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enterprise AI Knowledge Assistant using RAG, LangChain, Ollama & ChromaDB for intelligent document search and Q&A.",
@@ -32,17 +86,17 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6164,
-    "updated_at": "2026-07-02T15:39:27Z",
+    "updated_at": "2026-07-02T15:58:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:39:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "run-llama/llama_index",
+    "stars": 50597,
+    "updated_at": "2026-07-02T15:37:13Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
@@ -70,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-02T15:40:40Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "API platform info for machine-learning",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32892,
-    "updated_at": "2026-07-02T15:41:15Z",
+    "updated_at": "2026-07-02T15:47:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -212,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7799,
-    "updated_at": "2026-07-02T15:21:23Z",
+    "updated_at": "2026-07-02T15:50:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T15:03:13Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50596,
-    "updated_at": "2026-07-02T15:37:13Z",
-    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -329,17 +365,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16480,
-    "updated_at": "2026-07-02T14:59:18Z",
+    "updated_at": "2026-07-02T15:47:21Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Encrypted-first embedded SQL database with a built-in memory engine",
-    "id": "yp3y5akh0v/citadel",
-    "language": "Rust",
-    "name": "yp3y5akh0v/citadel",
-    "stars": 3,
-    "updated_at": "2026-07-02T14:58:36Z",
-    "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T14:51:56Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-02T14:51:38Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
-    "id": "heybeaux/engram",
-    "language": "TypeScript",
-    "name": "heybeaux/engram",
-    "stars": 3,
-    "updated_at": "2026-07-02T15:43:15Z",
-    "url": "https://github.com/heybeaux/engram"
-  },
-  {
-    "description": "One-page cooking & bakery training center landing page with a customer-service RAG chatbot, plus 20 mock course brochure",
-    "id": "alfredang/n8n-ragdemo2",
-    "language": "JavaScript",
-    "name": "alfredang/n8n-ragdemo2",
-    "stars": 1,
-    "updated_at": "2026-07-02T14:50:07Z",
-    "url": "https://github.com/alfredang/n8n-ragdemo2"
   }
 ]
