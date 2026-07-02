@@ -1,5 +1,158 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready Financial RAG platform with FastAPI, React, ChromaDB, Gemini, Docker, AWS EC2, Prometheus, Grafana and ",
+    "id": "aadi090204/financial-rag-platform",
+    "language": "Python",
+    "name": "aadi090204/financial-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:13:23Z",
+    "url": "https://github.com/aadi090204/financial-rag-platform"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 402,
+    "updated_at": "2026-07-02T17:13:20Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-07-02T17:12:42Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:10:22Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "\ud83c\udf0d AI-powered Multilingual Retrieval-Augmented Generation (RAG) System using FastAPI, ChromaDB, Sentence Transformers, Gr",
+    "id": "SatyamKushwaha3232/Multilingual_RAG",
+    "language": "CSS",
+    "name": "SatyamKushwaha3232/Multilingual_RAG",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:10:12Z",
+    "url": "https://github.com/SatyamKushwaha3232/Multilingual_RAG"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-02T17:09:49Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:08:35Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-02T17:07:51Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
+    "id": "syzayd/recall",
+    "language": "Python",
+    "name": "syzayd/recall",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:05:03Z",
+    "url": "https://github.com/syzayd/recall"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:04:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:03:54Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-02T17:03:19Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-02T17:03:01Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 814,
+    "updated_at": "2026-07-02T17:02:50Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5700,
+    "updated_at": "2026-07-02T17:08:06Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T17:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Explore history through AI. Planet Atlas combines semantic search, vector embeddings, and large language models to deliv",
     "id": "Soham170205/planet-atlas",
     "language": "JavaScript",
@@ -90,15 +243,6 @@
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
-    "description": "Production-ready Financial RAG platform with FastAPI, React, ChromaDB, Gemini, Docker, AWS EC2, Prometheus, Grafana and ",
-    "id": "aadi090204/financial-rag-platform",
-    "language": "Python",
-    "name": "aadi090204/financial-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-07-02T16:55:18Z",
-    "url": "https://github.com/aadi090204/financial-rag-platform"
-  },
-  {
     "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
     "id": "ermermermermidk/mcp-ai-memory",
     "language": "TypeScript",
@@ -106,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T16:54:23Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 1,
-    "updated_at": "2026-07-02T16:52:48Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
     "description": "An AI OS architecture emphasizing edge computing with privacy-by-design principles.",
@@ -180,24 +315,6 @@
     "url": "https://github.com/techdomegh/ai-news-scraper"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-02T16:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T17:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
     "id": "hfgwygey/yu-ai-agent",
     "language": "Java",
@@ -225,15 +342,6 @@
     "url": "https://github.com/daveshenal/outpost"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5700,
-    "updated_at": "2026-07-02T17:00:14Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "Learn TypeScript chatting effortlessly with AI",
     "id": "Maurellone/TySVA",
     "language": "Python",
@@ -250,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-07-02T16:40:30Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 814,
-    "updated_at": "2026-07-02T16:59:47Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Encrypted-first embedded SQL database with a built-in memory engine",
@@ -284,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7799,
-    "updated_at": "2026-07-02T16:59:16Z",
+    "updated_at": "2026-07-02T17:10:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 6164,
     "updated_at": "2026-07-02T16:41:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 106,
-    "updated_at": "2026-07-02T16:17:53Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 0,
-    "updated_at": "2026-07-02T16:13:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Local RAG pipeline with TUI",
-    "id": "jotalac/rag-app",
-    "language": "Python",
-    "name": "jotalac/rag-app",
-    "stars": 0,
-    "updated_at": "2026-07-02T16:11:22Z",
-    "url": "https://github.com/jotalac/rag-app"
-  },
-  {
-    "description": "Agentic resume-tailoring & gap-analysis tool \u2014 LangGraph, RAG (pgvector), and LangSmith observability",
-    "id": "davidcjw/career-copilot",
-    "language": "Python",
-    "name": "davidcjw/career-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-02T16:11:18Z",
-    "url": "https://github.com/davidcjw/career-copilot"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "HTML",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 27,
-    "updated_at": "2026-07-02T16:10:48Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 411,
-    "updated_at": "2026-07-02T16:05:43Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 402,
-    "updated_at": "2026-07-02T15:59:17Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Embedding API Provider: RAG-Ready Vector Search API \u2014 Compare embedding models, pricing, dimensions, and retrieval accur",
-    "id": "aitoken-hub/embedding-api-provider",
-    "language": "\u2014",
-    "name": "aitoken-hub/embedding-api-provider",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:49:55Z",
-    "url": "https://github.com/aitoken-hub/embedding-api-provider"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32893,
-    "updated_at": "2026-07-02T15:47:53Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enterprise AI Knowledge Assistant using RAG, LangChain, Ollama & ChromaDB for intelligent document search and Q&A.",
-    "id": "MautikPatel/Enterprise-AI-Knowledge-Assistant",
-    "language": "Python",
-    "name": "MautikPatel/Enterprise-AI-Knowledge-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:40:17Z",
-    "url": "https://github.com/MautikPatel/Enterprise-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50596,
-    "updated_at": "2026-07-02T15:37:13Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
