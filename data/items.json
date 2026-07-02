@@ -1,12 +1,30 @@
 [
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45040,
-    "updated_at": "2026-07-02T02:14:29Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-07-02T02:25:44Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-02T02:26:06Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50573,
+    "updated_at": "2026-07-02T02:21:38Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
@@ -14,35 +32,17 @@
     "language": "Python",
     "name": "vpeetla-ai/enterprise_rag_platform",
     "stars": 1,
-    "updated_at": "2026-07-02T02:12:37Z",
+    "updated_at": "2026-07-02T02:19:31Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
     "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50572,
-    "updated_at": "2026-07-02T02:12:28Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
+    "name": "TAIPANBOX/engram",
     "stars": 1,
-    "updated_at": "2026-07-02T02:09:36Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "An access-controlled enterprise knowledge RAG platform where every answer is evidence-gated by org structure, permission",
-    "id": "localrun-ai/wikore",
-    "language": "C++",
-    "name": "localrun-ai/wikore",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:13:17Z",
-    "url": "https://github.com/localrun-ai/wikore"
+    "updated_at": "2026-07-02T02:17:47Z",
+    "url": "https://github.com/TAIPANBOX/engram"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-07-02T02:00:22Z",
+    "updated_at": "2026-07-02T02:15:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -61,6 +61,33 @@
     "stars": 1,
     "updated_at": "2026-07-02T02:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45040,
+    "updated_at": "2026-07-02T02:14:29Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 1,
+    "updated_at": "2026-07-02T02:18:05Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "An access-controlled enterprise knowledge RAG platform where every answer is evidence-gated by org structure, permission",
+    "id": "localrun-ai/wikore",
+    "language": "C++",
+    "name": "localrun-ai/wikore",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:13:17Z",
+    "url": "https://github.com/localrun-ai/wikore"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -162,21 +189,12 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-02T01:40:59Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 119,
-    "updated_at": "2026-07-02T01:40:23Z",
+    "updated_at": "2026-07-02T02:16:22Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-07-02T02:08:53Z",
+    "updated_at": "2026-07-02T02:26:49Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T01:17:57Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-02T01:17:46Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-02T01:17:16Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
