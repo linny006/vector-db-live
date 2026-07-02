@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:15:11Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-02T11:14:48Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-02T11:12:24Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:11:29Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:10:58Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-02T11:10:51Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "BrowserVec - GPU-accelerated vector search engine for browser AI. Build private, offline RAG, semantic search, and recom",
+    "id": "sharma-open-source/browservec",
+    "language": "TypeScript",
+    "name": "sharma-open-source/browservec",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:09:39Z",
+    "url": "https://github.com/sharma-open-source/browservec"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-02T11:08:23Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:06:13Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-02T11:05:37Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2173,
+    "updated_at": "2026-07-02T11:05:08Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-02T11:03:36Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Jupyter Notebook",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:02:50Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-07-02T11:00:28Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T11:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -27,22 +171,22 @@
     "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Jupyter Notebook",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:58:07Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 225,
-    "updated_at": "2026-07-02T10:56:11Z",
+    "updated_at": "2026-07-02T11:05:58Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "AI-powered PDF chatbot built with FastAPI, Streamlit, ChromaDB, Sentence Transformers, and Groq using Retrieval-Augmente",
+    "id": "Divagaran-M/pdf-rag-chatbot",
+    "language": "Python",
+    "name": "Divagaran-M/pdf-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:53:54Z",
+    "url": "https://github.com/Divagaran-M/pdf-rag-chatbot"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -126,33 +270,6 @@
     "url": "https://github.com/ragloom/ragloom"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-02T10:54:36Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -160,15 +277,6 @@
     "stars": 9,
     "updated_at": "2026-07-02T10:42:12Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "BrowserVec - GPU-accelerated vector search engine for browser AI. Build private, offline RAG, semantic search, and recom",
-    "id": "sharma-open-source/browservec",
-    "language": "TypeScript",
-    "name": "sharma-open-source/browservec",
-    "stars": 0,
-    "updated_at": "2026-07-02T10:41:45Z",
-    "url": "https://github.com/sharma-open-source/browservec"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -187,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T10:40:13Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2173,
-    "updated_at": "2026-07-02T10:39:07Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Learn TypeScript chatting effortlessly with AI",
@@ -257,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32885,
-    "updated_at": "2026-07-02T10:34:20Z",
+    "updated_at": "2026-07-02T11:14:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +401,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6162,
-    "updated_at": "2026-07-02T10:58:38Z",
+    "updated_at": "2026-07-02T11:10:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -310,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 26503,
+    "stars": 26507,
     "updated_at": "2026-07-02T10:07:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:54:30Z",
     "url": "https://github.com/FantasyLu/neupen"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 369,
-    "updated_at": "2026-07-02T09:54:24Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1130,
-    "updated_at": "2026-07-02T09:52:18Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "Spring-Manifold Next-Gen is an enterprise data integration and ingestion platform modeled after Apache ManifoldCF. It le",
-    "id": "OpenPj/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "OpenPj/spring-manifold-next-gen",
-    "stars": 3,
-    "updated_at": "2026-07-02T09:43:24Z",
-    "url": "https://github.com/OpenPj/spring-manifold-next-gen"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1854,
-    "updated_at": "2026-07-02T09:33:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83e\udde0 DevBrain \u2014 The persistent memory layer for software development, powered by Cognee and Open source models",
-    "id": "imashu-del/Devbrain",
-    "language": "Python",
-    "name": "imashu-del/Devbrain",
-    "stars": 1,
-    "updated_at": "2026-07-02T09:28:48Z",
-    "url": "https://github.com/imashu-del/Devbrain"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:26:49Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:24:55Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:22:50Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:20:05Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Production-grade RAG document Q&A system \u2014 upload a PDF, ask questions, get cited answers using semantic search and Goog",
-    "id": "Aryan1358-ai/docmind",
-    "language": "Python",
-    "name": "Aryan1358-ai/docmind",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:14:15Z",
-    "url": "https://github.com/Aryan1358-ai/docmind"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 17,
-    "updated_at": "2026-07-02T09:11:15Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
