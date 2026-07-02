@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T07:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-02T06:59:33Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 3,
+    "updated_at": "2026-07-02T06:56:26Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T06:56:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "13 RAG architectures (naive/hybrid/rerank/HyDE/fusion/chunking/GraphRAG/RAPTOR/corrective/adaptive/agentic) benchmarked ",
     "id": "tkarim45/rag-architectures",
     "language": "Python",
@@ -27,15 +63,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 3,
-    "updated_at": "2026-07-02T06:53:17Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -61,24 +88,6 @@
     "stars": 75,
     "updated_at": "2026-07-02T06:49:17Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-02T06:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-02T06:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1592,
-    "updated_at": "2026-07-02T06:26:24Z",
+    "updated_at": "2026-07-02T06:59:21Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T05:55:43Z",
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "RAG Engineer interview questions & answers for 2026 \u2014 retrieval, embeddings, chunking, re-ranking, eval, production & se",
-    "id": "landedjobs/rag-engineer-interview-questions",
-    "language": "\u2014",
-    "name": "landedjobs/rag-engineer-interview-questions",
-    "stars": 1,
-    "updated_at": "2026-07-02T05:54:54Z",
-    "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   }
 ]
