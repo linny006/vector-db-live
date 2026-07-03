@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local RAG pipeline with TUI",
+    "id": "jotalac/rag-app",
+    "language": "Python",
+    "name": "jotalac/rag-app",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:40:31Z",
+    "url": "https://github.com/jotalac/rag-app"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-07-03T14:40:24Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 1996,
+    "updated_at": "2026-07-03T14:40:17Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T14:39:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-07-03T14:34:23Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1438,
+    "updated_at": "2026-07-03T14:34:40Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Jupyter Notebook",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-07-03T14:29:18Z",
+    "updated_at": "2026-07-03T14:32:00Z",
     "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32909,
+    "updated_at": "2026-07-03T14:27:13Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -43,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-07-03T14:25:26Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 1996,
-    "updated_at": "2026-07-03T14:24:43Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -142,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T14:15:45Z",
     "url": "https://github.com/kostas221/local-rag-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T14:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -396,15 +441,6 @@
     "url": "https://github.com/okeidontlike/Awareness-Local"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 32908,
-    "updated_at": "2026-07-03T14:27:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
     "id": "ahmahmahm/pdf-rag-assistant",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T13:59:33Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "The embedded database for local-first JavaScript apps.",
-    "id": "thinkgrid-labs/taladb",
-    "language": "Rust",
-    "name": "thinkgrid-labs/taladb",
-    "stars": 4,
-    "updated_at": "2026-07-03T13:58:00Z",
-    "url": "https://github.com/thinkgrid-labs/taladb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 993,
-    "updated_at": "2026-07-03T13:55:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-03T13:54:29Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-03T13:54:22Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
