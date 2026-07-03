@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-03T07:13:31Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-03T07:13:23Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-03T07:12:30Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-03T07:11:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-03T07:11:28Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-03T07:11:19Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "Python",
     "name": "qtuanph/chatbot-rag",
     "stars": 1,
-    "updated_at": "2026-07-03T07:00:08Z",
+    "updated_at": "2026-07-03T07:10:56Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-03T07:08:52Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 698,
+    "updated_at": "2026-07-03T07:08:19Z",
+    "url": "https://github.com/slothflowlabs/duckle"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-03T07:07:51Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1130,
+    "updated_at": "2026-07-03T07:05:57Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-03T07:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T07:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-03T07:00:20Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   },
   {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
@@ -52,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-03T06:56:03Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
-    "id": "slothflowlabs/duckle",
-    "language": "Rust",
-    "name": "slothflowlabs/duckle",
-    "stars": 698,
-    "updated_at": "2026-07-03T06:53:36Z",
-    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
@@ -151,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T06:47:55Z",
     "url": "https://github.com/Jeyceo21/Enterprise-RAG-Platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T07:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -275,7 +365,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-07-03T06:38:42Z",
+    "updated_at": "2026-07-03T07:06:24Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-03T06:24:40Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-07-03T06:14:02Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:13:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 93,
-    "updated_at": "2026-07-03T06:08:13Z",
-    "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:06:58Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:05:06Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:03:11Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-07-03T06:01:12Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
-    "id": "BMC-INC/Iron-mem",
-    "language": "Rust",
-    "name": "BMC-INC/Iron-mem",
-    "stars": 5,
-    "updated_at": "2026-07-03T05:59:58Z",
-    "url": "https://github.com/BMC-INC/Iron-mem"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 1,
-    "updated_at": "2026-07-03T06:37:44Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-03T05:57:41Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
