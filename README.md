@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 21:44 UTC
+> ⏰ Last updated: 2026-07-03 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [lancedb/docs](https://github.com/lancedb/docs) | 9 | Python | 2026-07-03 | Documentation for LanceDB, the Multimodal Lakehouse for AI |
-| 3 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 41 | Rust | 2026-07-03 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
-| 4 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62531 | JavaScript | 2026-07-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62531 | JavaScript | 2026-07-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [lancedb/docs](https://github.com/lancedb/docs) | 9 | Python | 2026-07-03 | Documentation for LanceDB, the Multimodal Lakehouse for AI |
+| 5 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 41 | Rust | 2026-07-03 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
 | 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 0 | HTML | 2026-07-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 7 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 32912 | Rust | 2026-07-03 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 8 | [giuliano0s/ifrs-canoas-rag](https://github.com/giuliano0s/ifrs-canoas-rag) | 0 | Jupyter Notebook | 2026-07-03 |  |
