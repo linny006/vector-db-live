@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 15:45 UTC
+> ⏰ Last updated: 2026-07-04 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Alexreye/advance-nlp-generative-ai](https://github.com/Alexreye/advance-nlp-generative-ai) | 1 | — | 2026-07-04 | 🤖 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding  |
-| 3 | [ELSAKKK/mnemos-mcp](https://github.com/ELSAKKK/mnemos-mcp) | 4 | Python | 2026-07-04 | 🧠 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s |
-| 4 | [persona-net/rag-pipeline-dashboard](https://github.com/persona-net/rag-pipeline-dashboard) | 0 | TypeScript | 2026-07-04 | 📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d |
-| 5 | [eliasepro/groq-pdf-chat](https://github.com/eliasepro/groq-pdf-chat) | 0 | Python | 2026-07-04 | 📄 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti |
-| 6 | [BiggerCap/agentops-hub](https://github.com/BiggerCap/agentops-hub) | 2 | TypeScript | 2026-07-04 | 🤖 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe |
-| 7 | [hankamarvanova/unified-db](https://github.com/hankamarvanova/unified-db) | 2 | Swift | 2026-07-04 | 🌟 Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme |
-| 8 | [Atumkezie/Kharagpur-Data-Science-Hackathon](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon) | 1 | Python | 2026-07-04 | 🔍 Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt |
-| 9 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-04 |  |
-| 10 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-07-04 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
-| 11 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-04 | The Ultimate Vectors Library for Java |
-| 12 | [regabbb22/Flipkart-Product-Recommender-RAG](https://github.com/regabbb22/Flipkart-Product-Recommender-RAG) | 3 | Python | 2026-07-04 | 🛒 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de |
-| 13 | [devhatchlabs/agentic-ai-operations-plateform](https://github.com/devhatchlabs/agentic-ai-operations-plateform) | 0 | — | 2026-07-04 | An enterprise-grade multi-agent AI plateform that automates business operations through intelligent AI Agents ,workflow  |
-| 14 | [Aashutosh31/arc-ai-project](https://github.com/Aashutosh31/arc-ai-project) | 1 | JavaScript | 2026-07-04 | Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows |
-| 15 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-07-04 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
-| 16 | [humanhady/DocMine](https://github.com/humanhady/DocMine) | 2 | Python | 2026-07-04 | 📄 Transform documents into queryable knowledge with exact recall and entity extraction for research insights. |
-| 17 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 18 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 74 | Rust | 2026-07-04 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
-| 19 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 104 | Go | 2026-07-04 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
-| 20 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-04 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
-| 21 | [Edublackk/self-correcting-rag-chatbot](https://github.com/Edublackk/self-correcting-rag-chatbot) | 3 | — | 2026-07-04 | 🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo |
-| 22 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 1 | HTML | 2026-07-04 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
-| 23 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 24 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-07-04 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 25 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-07-04 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
-| 26 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-07-04 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
-| 27 | [abusufiyan7518/rag-enterprise-knowledge-assistant](https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant) | 0 | JavaScript | 2026-07-04 | AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with  |
-| 28 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 996 | Java | 2026-07-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 29 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-07-04 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
-| 30 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-07-04 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
-| 31 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-07-04 |  |
-| 32 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-07-04 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
-| 33 | [naveed-data/finagent-ai](https://github.com/naveed-data/finagent-ai) | 0 | TypeScript | 2026-07-04 | Enterprise AI-powered banking document intelligence platform leveraging FastAPI, React, Ollama, ChromaDB, and Retrieval- |
-| 34 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-07-04 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
-| 35 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 3 | Python | 2026-07-04 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
-| 36 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-04 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 37 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-07-04 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
-| 38 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-07-04 |  |
-| 39 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 6 | Python | 2026-07-04 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
-| 40 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10793 | HTML | 2026-07-04 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 41 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 1 | C | 2026-07-04 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
-| 42 | [roberto729a/OllamaRAG](https://github.com/roberto729a/OllamaRAG) | 6 | Python | 2026-07-04 | 🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo |
-| 43 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-07-04 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
-| 44 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-04 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 45 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 0 | Python | 2026-07-04 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 46 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 33706 | Python | 2026-07-04 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 47 | [Shajo777/SupaAI-Framework-Template](https://github.com/Shajo777/SupaAI-Framework-Template) | 0 | — | 2026-07-04 | 🤖 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl |
-| 48 | [Mehdi138534/ai-news-scraper](https://github.com/Mehdi138534/ai-news-scraper) | 0 | HTML | 2026-07-04 | 📰 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un |
-| 49 | [zubairporag/yu-ai-agent](https://github.com/zubairporag/yu-ai-agent) | 0 | Java | 2026-07-04 | 🤖 Develop cutting-edge AI applications with the "yu-ai-agent" project, enhancing your skills and boosting your job prosp |
-| 50 | [SAHIXXX12/AI-Search-Engine](https://github.com/SAHIXXX12/AI-Search-Engine) | 0 | TypeScript | 2026-07-04 | 🔍 Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop |
+| 1 | [a258huit58/claude-memory](https://github.com/a258huit58/claude-memory) | 1 | JavaScript | 2026-07-04 | Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ |
+| 2 | [leo2007960216/deeprecall](https://github.com/leo2007960216/deeprecall) | 2 | Python | 2026-07-04 | 🔍 Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor |
+| 3 | [sshisto/mnemo-mcp](https://github.com/sshisto/mnemo-mcp) | 1 | Python | 2026-07-04 | 🧠 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access. |
+| 4 | [sen-igga/IndexGPT](https://github.com/sen-igga/IndexGPT) | 2 | JavaScript | 2026-07-04 | 🤖 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch |
+| 5 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 104 | Go | 2026-07-04 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-04 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [Zopze/TV-Show-Recommender-AI](https://github.com/Zopze/TV-Show-Recommender-AI) | 1 | Python | 2026-07-04 | 🤖 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect |
+| 8 | [Anonymousforareason111/hybrid-orchestrator](https://github.com/Anonymousforareason111/hybrid-orchestrator) | 3 | Python | 2026-07-04 | 🤖 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI |
+| 9 | [bachtiarpanjaitan/ihandai-go](https://github.com/bachtiarpanjaitan/ihandai-go) | 0 | Go | 2026-07-04 | Provider-agnostic Go AI framework for building RAG, agents, and AI-powered applications. Swap LLM providers without code |
+| 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 996 | Java | 2026-07-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 11 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 0 | Python | 2026-07-04 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 12 | [kirill2911/awesome-vector-search](https://github.com/kirill2911/awesome-vector-search) | 1 | — | 2026-07-04 | 🔍 Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and |
+| 13 | [buitoan112233/EleutherIA](https://github.com/buitoan112233/EleutherIA) | 2 | Shell | 2026-07-04 | 🧠 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr |
+| 14 | [schmitech/orbit](https://github.com/schmitech/orbit) | 287 | Python | 2026-07-04 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 16 | [Ojcalzada/pulsepoint-RAG](https://github.com/Ojcalzada/pulsepoint-RAG) | 0 | Python | 2026-07-04 | 🩺 Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati |
+| 17 | [Dangamuwagedilshan/x0](https://github.com/Dangamuwagedilshan/x0) | 1 | — | 2026-07-04 |  |
+| 18 | [yp3y5akh0v/citadel](https://github.com/yp3y5akh0v/citadel) | 3 | Rust | 2026-07-04 | Local-first encrypted AI memory engine for agents, built on an embedded SQL/vector database with zero-LLM ingest, MCP, a |
+| 19 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1855 | Go | 2026-07-04 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 20 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 21 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 22 | [Alexreye/advance-nlp-generative-ai](https://github.com/Alexreye/advance-nlp-generative-ai) | 1 | — | 2026-07-04 | 🤖 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding  |
+| 23 | [ELSAKKK/mnemos-mcp](https://github.com/ELSAKKK/mnemos-mcp) | 4 | Python | 2026-07-04 | 🧠 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s |
+| 24 | [persona-net/rag-pipeline-dashboard](https://github.com/persona-net/rag-pipeline-dashboard) | 0 | TypeScript | 2026-07-04 | 📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d |
+| 25 | [eliasepro/groq-pdf-chat](https://github.com/eliasepro/groq-pdf-chat) | 0 | Python | 2026-07-04 | 📄 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti |
+| 26 | [BiggerCap/agentops-hub](https://github.com/BiggerCap/agentops-hub) | 2 | TypeScript | 2026-07-04 | 🤖 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe |
+| 27 | [hankamarvanova/unified-db](https://github.com/hankamarvanova/unified-db) | 2 | Swift | 2026-07-04 | 🌟 Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme |
+| 28 | [Atumkezie/Kharagpur-Data-Science-Hackathon](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon) | 1 | Python | 2026-07-04 | 🔍 Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt |
+| 29 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-04 |  |
+| 30 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-07-04 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
+| 31 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-04 | The Ultimate Vectors Library for Java |
+| 32 | [regabbb22/Flipkart-Product-Recommender-RAG](https://github.com/regabbb22/Flipkart-Product-Recommender-RAG) | 3 | Python | 2026-07-04 | 🛒 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de |
+| 33 | [devhatchlabs/agentic-ai-operations-plateform](https://github.com/devhatchlabs/agentic-ai-operations-plateform) | 0 | — | 2026-07-04 | An enterprise-grade multi-agent AI plateform that automates business operations through intelligent AI Agents ,workflow  |
+| 34 | [Aashutosh31/arc-ai-project](https://github.com/Aashutosh31/arc-ai-project) | 1 | JavaScript | 2026-07-04 | Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows |
+| 35 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-07-04 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
+| 36 | [humanhady/DocMine](https://github.com/humanhady/DocMine) | 2 | Python | 2026-07-04 | 📄 Transform documents into queryable knowledge with exact recall and entity extraction for research insights. |
+| 37 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 74 | Rust | 2026-07-04 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
+| 38 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-04 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 39 | [Edublackk/self-correcting-rag-chatbot](https://github.com/Edublackk/self-correcting-rag-chatbot) | 3 | — | 2026-07-04 | 🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo |
+| 40 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 1 | HTML | 2026-07-04 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
+| 41 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-07-04 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 42 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-07-04 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
+| 43 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-07-04 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
+| 44 | [abusufiyan7518/rag-enterprise-knowledge-assistant](https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant) | 0 | JavaScript | 2026-07-04 | AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with  |
+| 45 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-07-04 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
+| 46 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-07-04 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
+| 47 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-07-04 |  |
+| 48 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-07-04 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
+| 49 | [naveed-data/finagent-ai](https://github.com/naveed-data/finagent-ai) | 0 | TypeScript | 2026-07-04 | Enterprise AI-powered banking document intelligence platform leveraging FastAPI, React, Ollama, ChromaDB, and Retrieval- |
+| 50 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-07-04 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
 <!-- TRACKER_TABLE_END -->
 
 ---
