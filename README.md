@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 14:00 UTC
+> ⏰ Last updated: 2026-07-04 14:08 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [abusufiyan7518/rag-enterprise-knowledge-assistant](https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant) | 0 | JavaScript | 2026-07-04 | AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with  |
-| 3 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 403 | TypeScript | 2026-07-04 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [abusufiyan7518/rag-enterprise-knowledge-assistant](https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant) | 0 | JavaScript | 2026-07-04 | AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with  |
+| 4 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 403 | TypeScript | 2026-07-04 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
 | 5 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-04 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 6 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-04 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
 | 7 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-04 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
