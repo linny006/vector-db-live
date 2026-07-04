@@ -1,5 +1,113 @@
 [
   {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 227,
+    "updated_at": "2026-07-04T12:14:18Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-04T12:14:10Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-04T12:13:04Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-07-04T12:08:44Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-04T12:07:21Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-04T12:05:39Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-04T12:05:17Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T12:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-07-04T12:02:35Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-04T12:01:21Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-04T12:01:14Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-04T12:00:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -72,15 +180,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-07-04T11:52:43Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -124,33 +223,6 @@
     "stars": 6,
     "updated_at": "2026-07-04T11:49:38Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:54:07Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-04T11:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T11:03:43Z",
     "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-04T11:02:10Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-04T11:01:40Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-04T11:01:17Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-04T10:58:54Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-07-04T10:57:53Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:57:50Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:57:40Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "A production-grade RAG chatbot built with LangChain, FAISS, Groq & Streamlit \u2014 supports PDF/DOCX/web scraping, hybrid se",
-    "id": "ronitgulia/RAG-Chatbot",
-    "language": "Python",
-    "name": "ronitgulia/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-04T10:57:25Z",
-    "url": "https://github.com/ronitgulia/RAG-Chatbot"
   }
 ]
