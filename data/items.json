@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with ",
+    "id": "abusufiyan7518/rag-enterprise-knowledge-assistant",
+    "language": "JavaScript",
+    "name": "abusufiyan7518/rag-enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-04T14:11:36Z",
+    "url": "https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-07-04T14:00:19Z",
+    "updated_at": "2026-07-04T14:08:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T14:00:16Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with ",
-    "id": "abusufiyan7518/rag-enterprise-knowledge-assistant",
-    "language": "JavaScript",
-    "name": "abusufiyan7518/rag-enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:50:56Z",
-    "url": "https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -212,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 996,
-    "updated_at": "2026-07-04T14:08:06Z",
+    "updated_at": "2026-07-04T14:11:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -304,6 +304,15 @@
     "stars": 1,
     "updated_at": "2026-07-04T13:15:47Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 32926,
+    "updated_at": "2026-07-04T13:15:36Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Major project",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T13:05:17Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:04:55Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
