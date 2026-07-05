@@ -1,12 +1,156 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 813,
+    "updated_at": "2026-07-05T07:43:28Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:43:16Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-05T07:43:07Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-05T07:30:20Z",
+    "updated_at": "2026-07-05T07:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-05T07:42:13Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:41:40Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-05T07:41:14Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-05T07:41:13Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:38:37Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system for chatting with PDF/DOCX documents \u2014 featuring dual chunking strategies,",
+    "id": "MajidFQ/documind-rag",
+    "language": "Python",
+    "name": "MajidFQ/documind-rag",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:38:12Z",
+    "url": "https://github.com/MajidFQ/documind-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-05T07:38:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-05T07:37:39Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:37:14Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Business Memory AI \u2014 An AI-powered organizational memory system built with Cognee that remembers business decisions, cus",
+    "id": "KabiththananParan/business-memory-ai",
+    "language": "Python",
+    "name": "KabiththananParan/business-memory-ai",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:35:47Z",
+    "url": "https://github.com/KabiththananParan/business-memory-ai"
+  },
+  {
+    "description": "Industrial RAG POC using Milvus for semantic search, metadata filtering, traceable retrieval, and guarded answer generat",
+    "id": "sourabha-h/milvus-industrial-rag",
+    "language": "Python",
+    "name": "sourabha-h/milvus-industrial-rag",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:33:34Z",
+    "url": "https://github.com/sourabha-h/milvus-industrial-rag"
+  },
+  {
+    "description": "ChromaDB RAG Gradio application shell with PWA installation, offline interface and Hugging Face integration.",
+    "id": "st3325228228-cpu/chromadb-rag-gradio-pwa",
+    "language": "HTML",
+    "name": "st3325228228-cpu/chromadb-rag-gradio-pwa",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:30:25Z",
+    "url": "https://github.com/st3325228228-cpu/chromadb-rag-gradio-pwa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T07:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -63,15 +207,6 @@
     "url": "https://github.com/chohyerinn/rag-trust-lab"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 813,
-    "updated_at": "2026-07-05T07:24:05Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -99,21 +234,12 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "https://github.com/sourabha-h/milvus-industrial-rag",
-    "id": "sourabha-h/milvus-industrial-rag",
-    "language": "Python",
-    "name": "sourabha-h/milvus-industrial-rag",
-    "stars": 0,
-    "updated_at": "2026-07-05T07:17:45Z",
-    "url": "https://github.com/sourabha-h/milvus-industrial-rag"
-  },
-  {
     "description": "An access-controlled enterprise knowledge RAG platform where every answer is evidence-gated by org structure, permission",
     "id": "localrun-ai/wikore",
     "language": "C++",
     "name": "localrun-ai/wikore",
     "stars": 0,
-    "updated_at": "2026-07-05T07:27:01Z",
+    "updated_at": "2026-07-05T07:39:23Z",
     "url": "https://github.com/localrun-ai/wikore"
   },
   {
@@ -124,24 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-05T07:16:35Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-05T07:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-05T07:14:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -171,13 +279,13 @@
     "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-05T07:12:56Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16502,
+    "updated_at": "2026-07-05T07:13:17Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -230,7 +338,7 @@
     "language": "Go",
     "name": "agenvoy/ToriiDB",
     "stars": 4,
-    "updated_at": "2026-07-05T07:06:54Z",
+    "updated_at": "2026-07-05T07:42:59Z",
     "url": "https://github.com/agenvoy/ToriiDB"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T06:47:33Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 228,
-    "updated_at": "2026-07-05T06:47:00Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "A fully local AI chat assistant with RAG, semantic memory, and web search. Built with FastAPI + React + Ollama + ChromaD",
-    "id": "HelloWorld-Open/AI-Intelligent-Assistant",
-    "language": "Python",
-    "name": "HelloWorld-Open/AI-Intelligent-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:43:03Z",
-    "url": "https://github.com/HelloWorld-Open/AI-Intelligent-Assistant"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 89,
-    "updated_at": "2026-07-05T06:41:05Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:36:39Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
-    "id": "Rohit-Dnath/RAMen",
-    "language": "Go",
-    "name": "Rohit-Dnath/RAMen",
-    "stars": 29,
-    "updated_at": "2026-07-05T06:30:06Z",
-    "url": "https://github.com/Rohit-Dnath/RAMen"
-  },
-  {
-    "description": "Smart recommendations for smarter viewers",
-    "id": "dheerajram13/FilmFind",
-    "language": "Python",
-    "name": "dheerajram13/FilmFind",
-    "stars": 1,
-    "updated_at": "2026-07-05T06:23:29Z",
-    "url": "https://github.com/dheerajram13/FilmFind"
-  },
-  {
-    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
-    "id": "Project-Navi/ordinaldb",
-    "language": "Rust",
-    "name": "Project-Navi/ordinaldb",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:23:23Z",
-    "url": "https://github.com/Project-Navi/ordinaldb"
-  },
-  {
-    "description": "Self-Evolving RAG System with ChromaDB for continuous knowledge updates (6x daily), designed to overcome Large Language ",
-    "id": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
-    "language": "Python",
-    "name": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
-    "stars": 6,
-    "updated_at": "2026-07-05T06:19:23Z",
-    "url": "https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation"
-  },
-  {
-    "description": "Management tool for ChromaDB",
-    "id": "probaku1234/chromamind",
-    "language": "TypeScript",
-    "name": "probaku1234/chromamind",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:18:07Z",
-    "url": "https://github.com/probaku1234/chromamind"
-  },
-  {
-    "description": "Business Memory AI \u2014 An AI-powered organizational memory system built with Cognee that remembers business decisions, cus",
-    "id": "KabiththananParan/business-memory-ai",
-    "language": "Python",
-    "name": "KabiththananParan/business-memory-ai",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:07:41Z",
-    "url": "https://github.com/KabiththananParan/business-memory-ai"
-  },
-  {
-    "description": "End-to-end LLM implementations using RAG, Vector Stores, and Text-to-SQL techniques. Includes full-stack projects like A",
-    "id": "zer-art/LLM-Projects",
-    "language": "Python",
-    "name": "zer-art/LLM-Projects",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:06:52Z",
-    "url": "https://github.com/zer-art/LLM-Projects"
-  },
-  {
-    "description": "A production-grade multi-agent AI platform that transforms research papers into implementation-ready projects using LLMs",
-    "id": "maheshchandr26/ResearchOS",
-    "language": "\u2014",
-    "name": "maheshchandr26/ResearchOS",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:17:40Z",
-    "url": "https://github.com/maheshchandr26/ResearchOS"
   }
 ]
