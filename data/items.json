@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-05T20:29:37Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:28:39Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:27:24Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-05T20:27:12Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-05T20:25:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T20:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1385,
-    "updated_at": "2026-07-05T20:09:02Z",
+    "updated_at": "2026-07-05T20:30:13Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -94,27 +157,9 @@
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-05T20:00:32Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-05T20:00:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-05T20:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T19:36:17Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:35:59Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 287,
-    "updated_at": "2026-07-05T19:33:11Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:32:13Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16511,
-    "updated_at": "2026-07-05T20:12:39Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-05T19:30:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
