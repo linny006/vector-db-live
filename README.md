@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-05 01:00 UTC
+> ⏰ Last updated: 2026-07-05 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-05 |  |
-| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 996 | Java | 2026-07-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 4 | [AasthaPJoshi/RetrievalLab](https://github.com/AasthaPJoshi/RetrievalLab) | 0 | Python | 2026-07-05 | Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan |
-| 5 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2177 | JavaScript | 2026-07-05 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-05 |  |
+| 4 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 996 | Java | 2026-07-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 5 | [AasthaPJoshi/RetrievalLab](https://github.com/AasthaPJoshi/RetrievalLab) | 0 | Python | 2026-07-05 | Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan |
+| 6 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2177 | JavaScript | 2026-07-05 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
 | 7 | [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) | 84 | Python | 2026-07-05 | Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. |
 | 8 | [schmitech/orbit](https://github.com/schmitech/orbit) | 287 | Python | 2026-07-05 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 9 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 60 | Python | 2026-07-05 | World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate |
