@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 2 | [AleksNeStu/ai-news-scraper](https://github.com/AleksNeStu/ai-news-scraper) | 2 | Python | 2026-07-05 | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD |
-| 3 | [blackeagle686/vec_db](https://github.com/blackeagle686/vec_db) | 1 | Rust | 2026-07-05 | VecDB is a highly optimized vector database engine built entirely from scratch in Rust. Designed with strict systems arc |
-| 4 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 813 | TypeScript | 2026-07-05 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 5 | [kirankumarjmeshram/Generative-AI](https://github.com/kirankumarjmeshram/Generative-AI) | 0 | Python | 2026-07-05 | Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin |
-| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 74 | Rust | 2026-07-05 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 3 | [AleksNeStu/ai-news-scraper](https://github.com/AleksNeStu/ai-news-scraper) | 2 | Python | 2026-07-05 | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD |
+| 4 | [blackeagle686/vec_db](https://github.com/blackeagle686/vec_db) | 1 | Rust | 2026-07-05 | VecDB is a highly optimized vector database engine built entirely from scratch in Rust. Designed with strict systems arc |
+| 5 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 813 | TypeScript | 2026-07-05 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 6 | [kirankumarjmeshram/Generative-AI](https://github.com/kirankumarjmeshram/Generative-AI) | 0 | Python | 2026-07-05 | Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin |
+| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 74 | Rust | 2026-07-05 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
 | 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 9 | [imashu-del/Devbrain](https://github.com/imashu-del/Devbrain) | 1 | Python | 2026-07-05 | 🧠 DevBrain — The persistent memory layer for software development, powered by Cognee and Open source models |
 | 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
