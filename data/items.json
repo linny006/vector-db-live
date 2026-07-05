@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-Evolving RAG System with ChromaDB for continuous knowledge updates (6x daily), designed to overcome Large Language ",
-    "id": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
+    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
+    "id": "Rohit-Dnath/RAMen",
+    "language": "Go",
+    "name": "Rohit-Dnath/RAMen",
+    "stars": 29,
+    "updated_at": "2026-07-05T06:30:06Z",
+    "url": "https://github.com/Rohit-Dnath/RAMen"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/automem",
     "language": "Python",
-    "name": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
-    "stars": 6,
-    "updated_at": "2026-07-05T06:15:15Z",
-    "url": "https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation"
+    "name": "verygoodplugins/automem",
+    "stars": 763,
+    "updated_at": "2026-07-05T06:28:24Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:27:16Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny deskt",
+    "id": "slothflowlabs/duckle",
+    "language": "Rust",
+    "name": "slothflowlabs/duckle",
+    "stars": 716,
+    "updated_at": "2026-07-05T06:25:54Z",
+    "url": "https://github.com/slothflowlabs/duckle"
   },
   {
     "description": "A fully local AI chat assistant with RAG, semantic memory, and web search. Built with FastAPI + React + Ollama + ChromaD",
@@ -14,17 +41,44 @@
     "language": "Python",
     "name": "HelloWorld-Open/AI-Intelligent-Assistant",
     "stars": 0,
-    "updated_at": "2026-07-05T06:14:14Z",
+    "updated_at": "2026-07-05T06:24:22Z",
     "url": "https://github.com/HelloWorld-Open/AI-Intelligent-Assistant"
   },
   {
-    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
-    "id": "Rohit-Dnath/RAMen",
-    "language": "Go",
-    "name": "Rohit-Dnath/RAMen",
-    "stars": 29,
-    "updated_at": "2026-07-05T06:12:00Z",
-    "url": "https://github.com/Rohit-Dnath/RAMen"
+    "description": "Smart recommendations for smarter viewers",
+    "id": "dheerajram13/FilmFind",
+    "language": "Python",
+    "name": "dheerajram13/FilmFind",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:23:29Z",
+    "url": "https://github.com/dheerajram13/FilmFind"
+  },
+  {
+    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
+    "id": "Project-Navi/ordinaldb",
+    "language": "Rust",
+    "name": "Project-Navi/ordinaldb",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:23:23Z",
+    "url": "https://github.com/Project-Navi/ordinaldb"
+  },
+  {
+    "description": "Self-Evolving RAG System with ChromaDB for continuous knowledge updates (6x daily), designed to overcome Large Language ",
+    "id": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
+    "language": "Python",
+    "name": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
+    "stars": 6,
+    "updated_at": "2026-07-05T06:19:23Z",
+    "url": "https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:19:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Management tool for ChromaDB",
@@ -32,8 +86,26 @@
     "language": "TypeScript",
     "name": "probaku1234/chromamind",
     "stars": 0,
-    "updated_at": "2026-07-05T06:09:20Z",
+    "updated_at": "2026-07-05T06:18:07Z",
     "url": "https://github.com/probaku1234/chromamind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Business Memory AI \u2014 An AI-powered organizational memory system built with Cognee that remembers business decisions, cus",
@@ -59,7 +131,7 @@
     "language": "\u2014",
     "name": "maheshchandr26/ResearchOS",
     "stars": 0,
-    "updated_at": "2026-07-05T06:12:38Z",
+    "updated_at": "2026-07-05T06:17:40Z",
     "url": "https://github.com/maheshchandr26/ResearchOS"
   },
   {
@@ -79,24 +151,6 @@
     "stars": 813,
     "updated_at": "2026-07-05T06:04:35Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:00:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-05T06:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:53:02Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 1,
-    "updated_at": "2026-07-05T06:05:00Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -324,15 +369,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
-    "id": "Project-Navi/ordinaldb",
-    "language": "Rust",
-    "name": "Project-Navi/ordinaldb",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:52:45Z",
-    "url": "https://github.com/Project-Navi/ordinaldb"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:26:48Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:26:45Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:26:17Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:26:02Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:25:38Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
