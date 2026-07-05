@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-05T18:15:10Z",
+    "updated_at": "2026-07-05T18:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 193,
+    "updated_at": "2026-07-05T18:28:41Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:28:31Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-05T18:28:22Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
+    "id": "seferogluemre/personal-assistant-platform",
+    "language": "TypeScript",
+    "name": "seferogluemre/personal-assistant-platform",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:27:33Z",
+    "url": "https://github.com/seferogluemre/personal-assistant-platform"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 3,
+    "updated_at": "2026-07-05T18:28:20Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-05T18:26:19Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-05T18:24:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-05T18:22:38Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-05T18:22:03Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-05T18:21:49Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Major project",
+    "id": "harveenkaur282-web/PAPERMIND",
+    "language": "Python",
+    "name": "harveenkaur282-web/PAPERMIND",
+    "stars": 1,
+    "updated_at": "2026-07-05T18:21:18Z",
+    "url": "https://github.com/harveenkaur282-web/PAPERMIND"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 17,
+    "updated_at": "2026-07-05T18:20:38Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "An Intelligent Retrieval-Augmented Generation (RAG) Chatbot built using LangChain, Groq Llama 3.3, ChromaDB, HuggingFace",
+    "id": "sundar66kalyan/Intelligent-RAG-Chatbot",
+    "language": "\u2014",
+    "name": "sundar66kalyan/Intelligent-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:18:59Z",
+    "url": "https://github.com/sundar66kalyan/Intelligent-RAG-Chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:16:03Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:15:26Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
@@ -81,15 +225,6 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 17,
-    "updated_at": "2026-07-05T18:01:42Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
     "description": "Learn TypeScript chatting effortlessly with AI",
     "id": "Maurellone/TySVA",
     "language": "Python",
@@ -106,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-07-05T18:00:56Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-05T18:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
@@ -144,15 +270,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-05T17:52:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
     "id": "zentrix-innovative-labs/galaxdb",
     "language": "Rust",
@@ -167,26 +284,8 @@
     "language": "JavaScript",
     "name": "amcaaron/rag-document-assistant",
     "stars": 0,
-    "updated_at": "2026-07-05T17:32:18Z",
+    "updated_at": "2026-07-05T18:24:58Z",
     "url": "https://github.com/amcaaron/rag-document-assistant"
-  },
-  {
-    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
-    "id": "seferogluemre/personal-assistant-platform",
-    "language": "TypeScript",
-    "name": "seferogluemre/personal-assistant-platform",
-    "stars": 0,
-    "updated_at": "2026-07-05T17:31:29Z",
-    "url": "https://github.com/seferogluemre/personal-assistant-platform"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 3,
-    "updated_at": "2026-07-05T17:48:37Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "Business Memory AI \u2014 An AI-powered organizational memory system built with Cognee that remembers business decisions, cus",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T16:46:22Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:46:02Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:45:19Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:45:03Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-05T16:43:45Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:42:36Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-05T16:42:17Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-05T16:41:45Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:40:34Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:39:59Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-05T16:39:42Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-05T16:37:38Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
