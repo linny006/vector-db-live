@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:10:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:08:09Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "VecDB is a highly optimized vector database engine built entirely from scratch in Rust. Designed with strict systems arc",
+    "id": "blackeagle686/vec_db",
+    "language": "Rust",
+    "name": "blackeagle686/vec_db",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:07:13Z",
+    "url": "https://github.com/blackeagle686/vec_db"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 813,
+    "updated_at": "2026-07-05T12:06:08Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
+    "id": "kirankumarjmeshram/Generative-AI",
+    "language": "Python",
+    "name": "kirankumarjmeshram/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:04:20Z",
+    "url": "https://github.com/kirankumarjmeshram/Generative-AI"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 74,
+    "updated_at": "2026-07-05T12:02:55Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -43,24 +106,6 @@
     "stars": 7,
     "updated_at": "2026-07-05T11:50:24Z",
     "url": "https://github.com/sovseal/core"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 2,
-    "updated_at": "2026-07-05T11:49:31Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T11:19:28Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 813,
-    "updated_at": "2026-07-05T11:18:45Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16506,
-    "updated_at": "2026-07-05T11:07:31Z",
+    "updated_at": "2026-07-05T12:13:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-05T10:56:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T10:56:33Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-05T10:56:26Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T10:56:18Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-05T10:55:37Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
