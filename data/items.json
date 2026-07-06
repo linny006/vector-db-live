@@ -1,12 +1,147 @@
 [
   {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:27:49Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:27:37Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 62687,
+    "updated_at": "2026-07-06T18:27:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:26:45Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6171,
+    "updated_at": "2026-07-06T18:26:04Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
     "id": "carlwelchdesign/supraconscious-avatar-ai",
     "language": "TypeScript",
     "name": "carlwelchdesign/supraconscious-avatar-ai",
     "stars": 0,
-    "updated_at": "2026-07-06T18:15:05Z",
+    "updated_at": "2026-07-06T18:23:18Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-07-06T18:23:16Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-07-06T18:22:50Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-07-06T18:22:31Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "HTML",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 31,
+    "updated_at": "2026-07-06T18:21:41Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:18:59Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-06T18:18:37Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:18:24Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 1,
+    "updated_at": "2026-07-06T18:18:16Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T18:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
@@ -108,24 +243,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T18:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -194,7 +311,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6192,
-    "updated_at": "2026-07-06T17:59:31Z",
+    "updated_at": "2026-07-06T18:27:57Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -225,15 +342,6 @@
     "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6171,
-    "updated_at": "2026-07-06T17:53:03Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -243,13 +351,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "HTML",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 31,
-    "updated_at": "2026-07-06T17:46:03Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45096,
+    "updated_at": "2026-07-06T17:46:19Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T17:36:46Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45095,
-    "updated_at": "2026-07-06T17:46:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-06T17:32:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Embeddable vector database for Rust and Python. HNSW indexing, metadata filtering, hybrid search, and snapshots. The SQL",
-    "id": "PhilipJohnBasile/vecstore",
-    "language": "Rust",
-    "name": "PhilipJohnBasile/vecstore",
-    "stars": 15,
-    "updated_at": "2026-07-06T17:30:54Z",
-    "url": "https://github.com/PhilipJohnBasile/vecstore"
-  },
-  {
-    "description": "Enterprise AI Testing Framework covering Oracle, PostgreSQL, ETL, Apache NiFi, Kafka, Data Quality, RAG, LLM Evaluation,",
-    "id": "PradhanCVG/Enterprise-AI-Testing-CoE",
-    "language": "\u2014",
-    "name": "PradhanCVG/Enterprise-AI-Testing-CoE",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:26:31Z",
-    "url": "https://github.com/PradhanCVG/Enterprise-AI-Testing-CoE"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-06T17:17:43Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "fast, efficient, redis-compatible database",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 2,
-    "updated_at": "2026-07-06T17:04:22Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Projeto de busca sem\u00e2ntica de filmes utilizando Qdrant como banco de dados vetorial e Sentence Transformers para gera\u00e7\u00e3o",
-    "id": "diovanibmotta/qdrant-movie-semantic-search",
-    "language": "Python",
-    "name": "diovanibmotta/qdrant-movie-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:01:45Z",
-    "url": "https://github.com/diovanibmotta/qdrant-movie-semantic-search"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:53:42Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Official repository of the Seismic library.",
-    "id": "TusKANNy/seismic",
-    "language": "Rust",
-    "name": "TusKANNy/seismic",
-    "stars": 134,
-    "updated_at": "2026-07-06T16:46:45Z",
-    "url": "https://github.com/TusKANNy/seismic"
-  },
-  {
-    "description": "Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings.",
-    "id": "chirpephippiorhynchus804/claude-memory-mcp",
-    "language": "TypeScript",
-    "name": "chirpephippiorhynchus804/claude-memory-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:45:43Z",
-    "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
-  },
-  {
-    "description": "RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Gemini and Python.",
-    "id": "kanikapitaliya/rag-data-engineering-assistant",
-    "language": "Python",
-    "name": "kanikapitaliya/rag-data-engineering-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:45:39Z",
-    "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7818,
-    "updated_at": "2026-07-06T17:39:12Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
