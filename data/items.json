@@ -1,12 +1,120 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:26:40Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-06T11:26:17Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "End-to-end Retrieval-Augmented Generation (RAG) application using LangChain, FAISS, Hugging Face embeddings, Groq LLM, a",
+    "id": "imarpitajaiswal/enterprise-doc-intelligence",
+    "language": "Python",
+    "name": "imarpitajaiswal/enterprise-doc-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-06T11:25:50Z",
+    "url": "https://github.com/imarpitajaiswal/enterprise-doc-intelligence"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1338,
+    "updated_at": "2026-07-06T11:25:03Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:22:26Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-06T11:22:21Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-07-06T11:20:45Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-06T11:20:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Retrieval-Augmented Generation service in Spring AI. Upload documents, ask questions, get grounded answers with source c",
     "id": "SNagarjuna07/spring-ai-rag-service",
     "language": "Java",
     "name": "SNagarjuna07/spring-ai-rag-service",
     "stars": 1,
-    "updated_at": "2026-07-06T11:15:09Z",
+    "updated_at": "2026-07-06T11:19:05Z",
     "url": "https://github.com/SNagarjuna07/spring-ai-rag-service"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-06T11:17:18Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-06T11:17:04Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T11:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
@@ -77,7 +185,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-06T11:09:45Z",
+    "updated_at": "2026-07-06T11:17:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -133,33 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T11:02:05Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1338,
-    "updated_at": "2026-07-06T10:57:50Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Chat RAG local sobre tus documentos (PDF, DOCX, XLSX, EPUB, TXT, CSV) con citas de fuentes. Backend FastAPI + ChromaDB +",
@@ -230,7 +311,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6190,
-    "updated_at": "2026-07-06T10:49:31Z",
+    "updated_at": "2026-07-06T11:26:44Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -248,7 +329,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 32973,
-    "updated_at": "2026-07-06T10:41:29Z",
+    "updated_at": "2026-07-06T11:22:28Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -257,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16517,
-    "updated_at": "2026-07-06T11:02:06Z",
+    "updated_at": "2026-07-06T11:24:43Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +347,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 6991,
-    "updated_at": "2026-07-06T11:13:49Z",
+    "updated_at": "2026-07-06T11:15:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1000,
-    "updated_at": "2026-07-06T10:46:38Z",
+    "updated_at": "2026-07-06T11:18:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -311,7 +392,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6170,
-    "updated_at": "2026-07-06T11:12:34Z",
+    "updated_at": "2026-07-06T11:24:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -356,7 +437,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9376,
-    "updated_at": "2026-07-06T11:01:29Z",
+    "updated_at": "2026-07-06T11:22:54Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-06T10:15:49Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4414,
-    "updated_at": "2026-07-06T10:41:06Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
-    "id": "seferogluemre/personal-assistant-platform",
-    "language": "TypeScript",
-    "name": "seferogluemre/personal-assistant-platform",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:04:24Z",
-    "url": "https://github.com/seferogluemre/personal-assistant-platform"
-  },
-  {
-    "description": "Enterprise AI Knowledge Assistant using RAG, LangChain, Ollama & ChromaDB for intelligent document search and Q&A.",
-    "id": "MautikPatel/Enterprise-AI-Knowledge-Assistant",
-    "language": "Python",
-    "name": "MautikPatel/Enterprise-AI-Knowledge-Assistant",
-    "stars": 3,
-    "updated_at": "2026-07-06T09:54:50Z",
-    "url": "https://github.com/MautikPatel/Enterprise-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7813,
-    "updated_at": "2026-07-06T10:45:26Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12530,
-    "updated_at": "2026-07-06T09:51:28Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 37,
-    "updated_at": "2026-07-06T09:49:14Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:46:08Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:44:17Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:42:20Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
