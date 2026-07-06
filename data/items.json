@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI Testing Framework covering Oracle, PostgreSQL, ETL, Apache NiFi, Kafka, Data Quality, RAG, LLM Evaluation,",
+    "id": "PradhanCVG/Enterprise-AI-Testing-CoE",
+    "language": "\u2014",
+    "name": "PradhanCVG/Enterprise-AI-Testing-CoE",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:14:40Z",
+    "url": "https://github.com/PradhanCVG/Enterprise-AI-Testing-CoE"
+  },
+  {
+    "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
+    "id": "Rishabh150102/DocMind-AI",
+    "language": "TypeScript",
+    "name": "Rishabh150102/DocMind-AI",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:13:04Z",
+    "url": "https://github.com/Rishabh150102/DocMind-AI"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 102,
+    "updated_at": "2026-07-06T17:12:37Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
     "description": "fast, efficient, redis-compatible database",
     "id": "frogdb/frogdb",
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 2,
-    "updated_at": "2026-07-06T16:58:04Z",
+    "updated_at": "2026-07-06T17:04:22Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Projeto de busca sem\u00e2ntica de filmes utilizando Qdrant como banco de dados vetorial e Sentence Transformers para gera\u00e7\u00e3o",
+    "id": "diovanibmotta/qdrant-movie-semantic-search",
+    "language": "Python",
+    "name": "diovanibmotta/qdrant-movie-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:01:45Z",
+    "url": "https://github.com/diovanibmotta/qdrant-movie-semantic-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
@@ -63,31 +117,13 @@
     "url": "https://github.com/kanikapitaliya/rag-data-engineering-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 102,
-    "updated_at": "2026-07-06T16:52:38Z",
-    "url": "https://github.com/nambok/mentedb"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7818,
+    "updated_at": "2026-07-06T16:41:34Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16519,
-    "updated_at": "2026-07-06T16:27:44Z",
+    "updated_at": "2026-07-06T17:11:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6192,
-    "updated_at": "2026-07-06T16:56:26Z",
+    "updated_at": "2026-07-06T17:13:25Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "salman-telecomAI/telecom-ai-noc-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-07-06T16:17:00Z",
+    "updated_at": "2026-07-06T17:04:58Z",
     "url": "https://github.com/salman-telecomAI/telecom-ai-noc-rag-assistant"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:11:29Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Self-hosted, privacy-first RAG system built in Go \u2014 combines local LLMs, vector search, and streaming inference to deliv",
-    "id": "ABDELRAHMAN-ELRAYES/Vaira",
-    "language": "Go",
-    "name": "ABDELRAHMAN-ELRAYES/Vaira",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:10:34Z",
-    "url": "https://github.com/ABDELRAHMAN-ELRAYES/Vaira"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:09:40Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-06T16:09:37Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:09:20Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
