@@ -1,20 +1,11 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T17:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Enterprise AI Testing Framework covering Oracle, PostgreSQL, ETL, Apache NiFi, Kafka, Data Quality, RAG, LLM Evaluation,",
     "id": "PradhanCVG/Enterprise-AI-Testing-CoE",
     "language": "\u2014",
     "name": "PradhanCVG/Enterprise-AI-Testing-CoE",
     "stars": 0,
-    "updated_at": "2026-07-06T17:14:40Z",
+    "updated_at": "2026-07-06T17:19:13Z",
     "url": "https://github.com/PradhanCVG/Enterprise-AI-Testing-CoE"
   },
   {
@@ -23,8 +14,17 @@
     "language": "TypeScript",
     "name": "Rishabh150102/DocMind-AI",
     "stars": 0,
-    "updated_at": "2026-07-06T17:13:04Z",
+    "updated_at": "2026-07-06T17:18:46Z",
     "url": "https://github.com/Rishabh150102/DocMind-AI"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:17:43Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -32,8 +32,26 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 102,
-    "updated_at": "2026-07-06T17:12:37Z",
+    "updated_at": "2026-07-06T17:18:33Z",
     "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "fast, efficient, redis-compatible database",
@@ -54,15 +72,6 @@
     "url": "https://github.com/diovanibmotta/qdrant-movie-semantic-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:49:56Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-06T16:47:23Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "Official repository of the Seismic library.",
@@ -230,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16519,
-    "updated_at": "2026-07-06T17:11:55Z",
+    "updated_at": "2026-07-06T17:16:45Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
