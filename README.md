@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 22:30 UTC
+> ⏰ Last updated: 2026-07-06 22:37 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [chirpephippiorhynchus804/claude-memory-mcp](https://github.com/chirpephippiorhynchus804/claude-memory-mcp) | 0 | TypeScript | 2026-07-06 | Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings. |
-| 4 | [MauricioPerera/js-base](https://github.com/MauricioPerera/js-base) | 0 | JavaScript | 2026-07-06 | Backend embebido estilo PocketBase con búsqueda semántica nativa (vectorial + híbrida BM25), auth JWT, reglas por colecc |
-| 5 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-06 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 6 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62697 | JavaScript | 2026-07-06 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 7 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-06 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
-| 8 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-07-06 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 9 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-07-06 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 10 | [ppossanzini/Jigen](https://github.com/ppossanzini/Jigen) | 7 | C# | 2026-07-06 | Jigen DB is vector database written from scratch in c# |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [chirpephippiorhynchus804/claude-memory-mcp](https://github.com/chirpephippiorhynchus804/claude-memory-mcp) | 0 | TypeScript | 2026-07-06 | Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings. |
+| 5 | [MauricioPerera/js-base](https://github.com/MauricioPerera/js-base) | 0 | JavaScript | 2026-07-06 | Backend embebido estilo PocketBase con búsqueda semántica nativa (vectorial + híbrida BM25), auth JWT, reglas por colecc |
+| 6 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-06 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
+| 7 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62697 | JavaScript | 2026-07-06 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 8 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-06 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
+| 9 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-07-06 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
+| 10 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-07-06 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
+| 11 | [ppossanzini/Jigen](https://github.com/ppossanzini/Jigen) | 7 | C# | 2026-07-06 | Jigen DB is vector database written from scratch in c# |
 | 12 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-07-06 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 13 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-07-06 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 14 | [constancywoodsy286/agentic-rag-for-practice](https://github.com/constancywoodsy286/agentic-rag-for-practice) | 1 | Python | 2026-07-06 | Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo |
-| 15 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6193 | TypeScript | 2026-07-06 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
+| 15 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6194 | TypeScript | 2026-07-06 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 16 | [jefffergunson118-beep/smara](https://github.com/jefffergunson118-beep/smara) | 1 | — | 2026-07-06 | Sync persistent memory across your AI tools and agents using a unified MCP server. |
 | 17 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-07-06 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
 | 18 | [sarcosomebankcheck694/coordinode](https://github.com/sarcosomebankcheck694/coordinode) | 0 | Rust | 2026-07-06 | Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC |
