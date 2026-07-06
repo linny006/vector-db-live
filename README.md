@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 22:37 UTC
+> ⏰ Last updated: 2026-07-06 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [chirpephippiorhynchus804/claude-memory-mcp](https://github.com/chirpephippiorhynchus804/claude-memory-mcp) | 0 | TypeScript | 2026-07-06 | Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings. |
-| 5 | [MauricioPerera/js-base](https://github.com/MauricioPerera/js-base) | 0 | JavaScript | 2026-07-06 | Backend embebido estilo PocketBase con búsqueda semántica nativa (vectorial + híbrida BM25), auth JWT, reglas por colecc |
+| 1 | [MauricioPerera/js-base](https://github.com/MauricioPerera/js-base) | 0 | JavaScript | 2026-07-06 | Backend embebido estilo PocketBase con búsqueda semántica nativa (vectorial + híbrida BM25), auth JWT, reglas por colecc |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [chirpephippiorhynchus804/claude-memory-mcp](https://github.com/chirpephippiorhynchus804/claude-memory-mcp) | 0 | TypeScript | 2026-07-06 | Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings. |
 | 6 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-06 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
 | 7 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62697 | JavaScript | 2026-07-06 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 8 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-06 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |

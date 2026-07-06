@@ -1,11 +1,20 @@
 [
   {
+    "description": "Backend embebido estilo PocketBase con b\u00fasqueda sem\u00e1ntica nativa (vectorial + h\u00edbrida BM25), auth JWT, reglas por colecc",
+    "id": "MauricioPerera/js-base",
+    "language": "JavaScript",
+    "name": "MauricioPerera/js-base",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:40:01Z",
+    "url": "https://github.com/MauricioPerera/js-base"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-07-06T22:30:25Z",
+    "updated_at": "2026-07-06T22:37:35Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-06T22:30:17Z",
+    "updated_at": "2026-07-06T22:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +45,6 @@
     "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
   },
   {
-    "description": "Backend embebido estilo PocketBase con b\u00fasqueda sem\u00e1ntica nativa (vectorial + h\u00edbrida BM25), auth JWT, reglas por colecc",
-    "id": "MauricioPerera/js-base",
-    "language": "JavaScript",
-    "name": "MauricioPerera/js-base",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:25:08Z",
-    "url": "https://github.com/MauricioPerera/js-base"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -59,7 +59,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 62697,
-    "updated_at": "2026-07-06T22:29:09Z",
+    "updated_at": "2026-07-06T22:40:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
