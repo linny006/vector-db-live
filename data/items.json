@@ -1,5 +1,59 @@
 [
   {
+    "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
+    "id": "puffball1567/rochedb",
+    "language": "Nim",
+    "name": "puffball1567/rochedb",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:44:34Z",
+    "url": "https://github.com/puffball1567/rochedb"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 409,
+    "updated_at": "2026-07-06T04:43:29Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:41:38Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 15,
+    "updated_at": "2026-07-06T04:41:44Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T04:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/88plug/total-recall"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:23:35Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -25,24 +70,6 @@
     "stars": 32,
     "updated_at": "2026-07-06T04:15:36Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:15:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T04:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T04:08:47Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
-    "id": "puffball1567/rochedb",
-    "language": "Nim",
-    "name": "puffball1567/rochedb",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:10:08Z",
-    "url": "https://github.com/puffball1567/rochedb"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-06T03:32:45Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:30:24Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-06T03:30:09Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
