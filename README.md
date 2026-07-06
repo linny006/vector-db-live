@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 17:20 UTC
+> ⏰ Last updated: 2026-07-06 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [PradhanCVG/Enterprise-AI-Testing-CoE](https://github.com/PradhanCVG/Enterprise-AI-Testing-CoE) | 0 | — | 2026-07-06 | Enterprise AI Testing Framework covering Oracle, PostgreSQL, ETL, Apache NiFi, Kafka, Data Quality, RAG, LLM Evaluation, |
-| 2 | [Rishabh150102/DocMind-AI](https://github.com/Rishabh150102/DocMind-AI) | 0 | TypeScript | 2026-07-06 | AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou |
-| 3 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-07-06 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
-| 4 | [nambok/mentedb](https://github.com/nambok/mentedb) | 102 | Rust | 2026-07-06 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [Rishabh150102/DocMind-AI](https://github.com/Rishabh150102/DocMind-AI) | 0 | TypeScript | 2026-07-06 | AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou |
+| 4 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-07-06 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
+| 5 | [nambok/mentedb](https://github.com/nambok/mentedb) | 102 | Rust | 2026-07-06 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
 | 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 7 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 2 | Rust | 2026-07-06 | fast, efficient, redis-compatible database |
 | 8 | [diovanibmotta/qdrant-movie-semantic-search](https://github.com/diovanibmotta/qdrant-movie-semantic-search) | 0 | Python | 2026-07-06 | Projeto de busca semântica de filmes utilizando Qdrant como banco de dados vetorial e Sentence Transformers para geração |

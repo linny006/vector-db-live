@@ -5,8 +5,17 @@
     "language": "\u2014",
     "name": "PradhanCVG/Enterprise-AI-Testing-CoE",
     "stars": 0,
-    "updated_at": "2026-07-06T17:19:13Z",
+    "updated_at": "2026-07-06T17:26:31Z",
     "url": "https://github.com/PradhanCVG/Enterprise-AI-Testing-CoE"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:20:57Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
@@ -32,17 +41,8 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 102,
-    "updated_at": "2026-07-06T17:18:33Z",
+    "updated_at": "2026-07-06T17:23:10Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -230,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16519,
-    "updated_at": "2026-07-06T17:16:45Z",
+    "updated_at": "2026-07-06T17:28:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -239,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6192,
-    "updated_at": "2026-07-06T17:13:25Z",
+    "updated_at": "2026-07-06T17:22:54Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
