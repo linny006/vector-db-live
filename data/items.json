@@ -1,5 +1,176 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12528,
+    "updated_at": "2026-07-06T08:27:36Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:27:19Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 102,
+    "updated_at": "2026-07-06T08:27:10Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-06T08:27:04Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "Local RAG pipeline with TUI",
+    "id": "jotalac/rag-app",
+    "language": "Python",
+    "name": "jotalac/rag-app",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:26:45Z",
+    "url": "https://github.com/jotalac/rag-app"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:26:16Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:25:32Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2181,
+    "updated_at": "2026-07-06T08:25:32Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:25:23Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:27:25Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-06T08:24:57Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "An enterprise-grade GraphRAG knowledge platform combining semantic retrieval, knowledge graphs, and LLM reasoning to del",
+    "id": "aayaancoder1/CodeSmiths",
+    "language": "Python",
+    "name": "aayaancoder1/CodeSmiths",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:24:32Z",
+    "url": "https://github.com/aayaancoder1/CodeSmiths"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 3,
+    "updated_at": "2026-07-06T08:23:32Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:22:46Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:21:34Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "KI-Engineering 2026 Vom Software-Entwickler zum AI Engineer. Basierend auf roadmap.sh. Mit Docker-Build, 22 Kapiteln und",
+    "id": "amariwan/Become-an-AI-engineer",
+    "language": "HTML",
+    "name": "amariwan/Become-an-AI-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:17:50Z",
+    "url": "https://github.com/amariwan/Become-an-AI-engineer"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 36,
+    "updated_at": "2026-07-06T08:19:05Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -14,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4414,
-    "updated_at": "2026-07-06T08:14:52Z",
+    "updated_at": "2026-07-06T08:20:08Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -31,18 +202,9 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6188,
+    "stars": 6189,
     "updated_at": "2026-07-06T08:13:13Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 102,
-    "updated_at": "2026-07-06T08:09:50Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -117,15 +279,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12528,
-    "updated_at": "2026-07-06T08:03:49Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "An access-controlled enterprise knowledge RAG platform where every answer is evidence-gated by org structure, permission",
     "id": "localrun-ai/wikore",
     "language": "C++",
@@ -158,26 +311,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16515,
-    "updated_at": "2026-07-06T08:11:00Z",
+    "updated_at": "2026-07-06T08:17:36Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-06T08:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -214,15 +349,6 @@
     "stars": 1856,
     "updated_at": "2026-07-06T07:56:49Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "KI-Engineering 2026 Vom Software-Entwickler zum AI Engineer. Basierend auf roadmap.sh. Mit Docker-Build, 22 Kapiteln und",
-    "id": "amariwan/Become-an-AI-engineer",
-    "language": "HTML",
-    "name": "amariwan/Become-an-AI-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:56:45Z",
-    "url": "https://github.com/amariwan/Become-an-AI-engineer"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-06T07:37:50Z",
     "url": "https://github.com/MautikPatel/Enterprise-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:37:45Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-06T07:37:34Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system for chatting with PDF/DOCX documents \u2014 featuring dual chunking strategies,",
-    "id": "MajidFQ/documind-rag",
-    "language": "Python",
-    "name": "MajidFQ/documind-rag",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:37:11Z",
-    "url": "https://github.com/MajidFQ/documind-rag"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 91,
-    "updated_at": "2026-07-06T07:35:54Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 9,
-    "updated_at": "2026-07-06T07:33:44Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": ".NET client for Meilisearch",
-    "id": "meilisearch/meilisearch-dotnet",
-    "language": "C#",
-    "name": "meilisearch/meilisearch-dotnet",
-    "stars": 341,
-    "updated_at": "2026-07-06T07:33:15Z",
-    "url": "https://github.com/meilisearch/meilisearch-dotnet"
-  },
-  {
-    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
-    "id": "seferogluemre/personal-assistant-platform",
-    "language": "TypeScript",
-    "name": "seferogluemre/personal-assistant-platform",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:29:56Z",
-    "url": "https://github.com/seferogluemre/personal-assistant-platform"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7814,
-    "updated_at": "2026-07-06T07:29:04Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 4,
-    "updated_at": "2026-07-06T07:25:47Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-06T07:20:34Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:17:32Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-06T07:16:47Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
-    "id": "zentrix-innovative-labs/galaxdb",
-    "language": "Rust",
-    "name": "zentrix-innovative-labs/galaxdb",
-    "stars": 9,
-    "updated_at": "2026-07-06T07:16:00Z",
-    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:15:48Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
