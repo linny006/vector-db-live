@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1002,
+    "updated_at": "2026-07-07T10:14:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:12:06Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
+    "id": "puffball1567/rochedb",
+    "language": "Nim",
+    "name": "puffball1567/rochedb",
+    "stars": 0,
+    "updated_at": "2026-07-07T10:11:55Z",
+    "url": "https://github.com/puffball1567/rochedb"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-07T10:07:38Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "A hands-on LangChain course with 100+ runnable labs \u2014 RAG, tools, agents, MCP, structured outputs, and multi-provider LL",
+    "id": "zainulabidin1/langchain-masterclass",
+    "language": "Python",
+    "name": "zainulabidin1/langchain-masterclass",
+    "stars": 4,
+    "updated_at": "2026-07-07T10:03:05Z",
+    "url": "https://github.com/zainulabidin1/langchain-masterclass"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2185,
+    "updated_at": "2026-07-07T10:02:15Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -45,6 +117,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58441,
+    "updated_at": "2026-07-07T09:47:45Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
     "id": "mayankanup/commerce-ai-platform",
     "language": "Go",
@@ -54,31 +135,13 @@
     "url": "https://github.com/mayankanup/commerce-ai-platform"
   },
   {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-07T09:46:13Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33001,
+    "updated_at": "2026-07-07T10:14:08Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -95,7 +158,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4414,
-    "updated_at": "2026-07-07T09:58:32Z",
+    "updated_at": "2026-07-07T10:11:54Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33000,
-    "updated_at": "2026-07-07T09:45:58Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -144,21 +198,12 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58441,
-    "updated_at": "2026-07-07T09:47:45Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-07T09:34:27Z",
+    "updated_at": "2026-07-07T10:04:32Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -176,7 +221,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6169,
-    "updated_at": "2026-07-07T09:57:22Z",
+    "updated_at": "2026-07-07T10:14:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27284,
-    "updated_at": "2026-07-07T09:24:18Z",
+    "updated_at": "2026-07-07T10:07:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1002,
-    "updated_at": "2026-07-07T09:58:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -265,7 +301,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 13760,
+    "stars": 13768,
     "updated_at": "2026-07-07T09:15:12Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:06:51Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45116,
-    "updated_at": "2026-07-07T09:06:29Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:06:26Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-07T09:05:48Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Local-first AI error diagnostics using RAG, local LLMs (Ollama), and pgvector to match stack traces by meaning and sugge",
-    "id": "govindarajan2003/error-radar",
-    "language": "Python",
-    "name": "govindarajan2003/error-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:05:08Z",
-    "url": "https://github.com/govindarajan2003/error-radar"
   }
 ]
