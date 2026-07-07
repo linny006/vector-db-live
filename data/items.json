@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-07T21:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A fully local Retrieval-Augmented Generation (RAG) pipeline built with Qdrant and Ollama",
+    "id": "sanchit0496/vectordb-rag",
+    "language": "JavaScript",
+    "name": "sanchit0496/vectordb-rag",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:13:54Z",
+    "url": "https://github.com/sanchit0496/vectordb-rag"
+  },
+  {
+    "description": "Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings.",
+    "id": "chirpephippiorhynchus804/claude-memory-mcp",
+    "language": "TypeScript",
+    "name": "chirpephippiorhynchus804/claude-memory-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:13:25Z",
+    "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 62781,
+    "updated_at": "2026-07-07T21:14:17Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:08:48Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:06:53Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Windows-first MemPalace + pgvector CLI for local or external PostgreSQL usage.",
+    "id": "gsag/mempalace-pgv",
+    "language": "\u2014",
+    "name": "gsag/mempalace-pgv",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:05:34Z",
+    "url": "https://github.com/gsag/mempalace-pgv"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:04:54Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-07-07T21:04:45Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:02:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:02:51Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
     "id": "Faraz6180/Insightpilot-ai",
     "language": "Python",
@@ -36,13 +144,13 @@
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "RAG app that answers questions about a resume and job description using OpenAI + ChromaDB",
+    "id": "vineethaponugoti7-cpu/RAG-Resume-Matcher",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "vineethaponugoti7-cpu/RAG-Resume-Matcher",
     "stars": 0,
-    "updated_at": "2026-07-07T20:58:04Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-07T20:57:58Z",
+    "url": "https://github.com/vineethaponugoti7-cpu/RAG-Resume-Matcher"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -189,15 +297,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 62778,
-    "updated_at": "2026-07-07T20:46:49Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -205,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:45:43Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-07T21:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
@@ -358,95 +448,5 @@
     "stars": 371,
     "updated_at": "2026-07-07T20:30:29Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:29:52Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-07T20:28:32Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:26:04Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:25:42Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:23:18Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1003,
-    "updated_at": "2026-07-07T20:53:20Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-07T20:22:03Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:21:55Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-07T20:21:22Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-07-07T20:21:18Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
   }
 ]
