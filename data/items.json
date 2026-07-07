@@ -5,35 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-07T21:15:18Z",
+    "updated_at": "2026-07-07T21:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A fully local Retrieval-Augmented Generation (RAG) pipeline built with Qdrant and Ollama",
-    "id": "sanchit0496/vectordb-rag",
-    "language": "JavaScript",
-    "name": "sanchit0496/vectordb-rag",
+    "description": "A reproducible, Windows-first operational layer for MemPalace, built to turn PostgreSQL + pgvector memory workflows into",
+    "id": "gsag/mempalace-pgvector",
+    "language": "\u2014",
+    "name": "gsag/mempalace-pgvector",
     "stars": 0,
-    "updated_at": "2026-07-07T21:13:54Z",
-    "url": "https://github.com/sanchit0496/vectordb-rag"
+    "updated_at": "2026-07-07T21:30:16Z",
+    "url": "https://github.com/gsag/mempalace-pgvector"
   },
   {
-    "description": "Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings.",
-    "id": "chirpephippiorhynchus804/claude-memory-mcp",
-    "language": "TypeScript",
-    "name": "chirpephippiorhynchus804/claude-memory-mcp",
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
     "stars": 0,
-    "updated_at": "2026-07-07T21:13:25Z",
-    "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
+    "updated_at": "2026-07-07T21:25:25Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:22:22Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33010,
+    "updated_at": "2026-07-07T21:14:23Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62781,
+    "stars": 62783,
     "updated_at": "2026-07-07T21:14:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "A fully local Retrieval-Augmented Generation (RAG) pipeline built with Ollama (nomic-embed-text and llama3.1), and Qdran",
+    "id": "sanchit0496/vectordb-rag",
+    "language": "JavaScript",
+    "name": "sanchit0496/vectordb-rag",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:13:54Z",
+    "url": "https://github.com/sanchit0496/vectordb-rag"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T21:06:53Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Windows-first MemPalace + pgvector CLI for local or external PostgreSQL usage.",
-    "id": "gsag/mempalace-pgv",
-    "language": "\u2014",
-    "name": "gsag/mempalace-pgv",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:05:34Z",
-    "url": "https://github.com/gsag/mempalace-pgv"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T21:02:51Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T20:32:36Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 290,
-    "updated_at": "2026-07-07T20:32:16Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 371,
-    "updated_at": "2026-07-07T20:30:29Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
