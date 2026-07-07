@@ -1,12 +1,84 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "VecDB is a highly optimized vector database engine built entirely from scratch in Rust. Designed with strict systems arc",
+    "id": "blackeagle686/vec_db",
+    "language": "Rust",
+    "name": "blackeagle686/vec_db",
     "stars": 1,
-    "updated_at": "2026-07-07T11:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-07T11:15:14Z",
+    "url": "https://github.com/blackeagle686/vec_db"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:15:06Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:14:38Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:12:20Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "A small, readable vector database in Rust, built from scratch: HNSW ANN index with an exact baseline and a recall harnes",
+    "id": "shazilkhan/velo",
+    "language": "Rust",
+    "name": "shazilkhan/velo",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:11:42Z",
+    "url": "https://github.com/shazilkhan/velo"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:11:10Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "RAG chatbot over Variety's 'Directors on Directors' interviews + Wikipedia \u2014 answers questions about how filmmakers work",
+    "id": "aaushik/directors-on-directors",
+    "language": "Python",
+    "name": "aaushik/directors-on-directors",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:09:24Z",
+    "url": "https://github.com/aaushik/directors-on-directors"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:03:31Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:03:09Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
     "description": "AI PDF Chatbot using RAG, LangChain, FAISS and Google Gemini",
@@ -14,8 +86,35 @@
     "language": "Python",
     "name": "mickie2025/AI-PDF-Chatbot-RAG",
     "stars": 0,
-    "updated_at": "2026-07-07T10:59:35Z",
+    "updated_at": "2026-07-07T11:02:44Z",
     "url": "https://github.com/mickie2025/AI-PDF-Chatbot-RAG"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6169,
+    "updated_at": "2026-07-07T11:00:50Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -34,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-07T10:59:15Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "VecDB is a highly optimized vector database engine built entirely from scratch in Rust. Designed with strict systems arc",
-    "id": "blackeagle686/vec_db",
-    "language": "Rust",
-    "name": "blackeagle686/vec_db",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:58:41Z",
-    "url": "https://github.com/blackeagle686/vec_db"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -99,15 +189,6 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "A small, readable vector database in Rust, built from scratch: HNSW ANN index with an exact baseline and a recall harnes",
-    "id": "shazilkhan/velo",
-    "language": "Rust",
-    "name": "shazilkhan/velo",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:49:39Z",
-    "url": "https://github.com/shazilkhan/velo"
-  },
-  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -158,17 +239,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4414,
-    "updated_at": "2026-07-07T10:47:14Z",
+    "updated_at": "2026-07-07T11:00:37Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
@@ -261,6 +333,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 202,
+    "updated_at": "2026-07-07T10:34:35Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -268,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T10:32:31Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 201,
-    "updated_at": "2026-07-07T10:34:35Z",
-    "url": "https://github.com/deven96/ahnlich"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T10:24:47Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "This is the repo tracking the development of a RAG-based model named as - \"ScholarSync - AI STUDY BUDDY\".",
-    "id": "AnshulKumar79/ScholarSync-AI_Study_assistant",
-    "language": "Python",
-    "name": "AnshulKumar79/ScholarSync-AI_Study_assistant",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:23:49Z",
-    "url": "https://github.com/AnshulKumar79/ScholarSync-AI_Study_assistant"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-07T10:22:34Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:16:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33002,
-    "updated_at": "2026-07-07T10:14:08Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:12:06Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27287,
-    "updated_at": "2026-07-07T10:46:40Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "A hands-on LangChain course with 100+ runnable labs \u2014 RAG, tools, agents, MCP, structured outputs, and multi-provider LL",
-    "id": "zainulabidin1/langchain-masterclass",
-    "language": "Python",
-    "name": "zainulabidin1/langchain-masterclass",
-    "stars": 4,
-    "updated_at": "2026-07-07T10:03:05Z",
-    "url": "https://github.com/zainulabidin1/langchain-masterclass"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2185,
-    "updated_at": "2026-07-07T10:02:15Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
