@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:48:50Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:48:10Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:48:07Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:46:32Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-07T11:46:25Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6169,
+    "updated_at": "2026-07-07T11:49:27Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T11:39:37Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6169,
-    "updated_at": "2026-07-07T11:45:21Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "",
@@ -124,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T11:30:30Z",
     "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T11:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T11:02:44Z",
     "url": "https://github.com/mickie2025/AI-PDF-Chatbot-RAG"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:59:21Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-07-07T10:59:15Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:58:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-Powered Digital Library & Research Assistant for Gandhian Literature",
-    "id": "kanetiyahet/Knowledge-Assistant",
-    "language": "Python",
-    "name": "kanetiyahet/Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:56:22Z",
-    "url": "https://github.com/kanetiyahet/Knowledge-Assistant"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 816,
-    "updated_at": "2026-07-07T10:56:13Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   }
 ]
