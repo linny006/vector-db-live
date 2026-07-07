@@ -1,12 +1,30 @@
 [
   {
-    "description": "Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings.",
-    "id": "chirpephippiorhynchus804/claude-memory-mcp",
-    "language": "TypeScript",
-    "name": "chirpephippiorhynchus804/claude-memory-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:59:32Z",
-    "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-07-07T04:09:06Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 34,
+    "updated_at": "2026-07-07T04:08:45Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +32,26 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1001,
-    "updated_at": "2026-07-07T03:57:50Z",
+    "updated_at": "2026-07-07T04:08:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Add persistent long-term memory to Claude and other MCP clients using local SQLite and local embeddings.",
+    "id": "chirpephippiorhynchus804/claude-memory-mcp",
+    "language": "TypeScript",
+    "name": "chirpephippiorhynchus804/claude-memory-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-07T03:59:32Z",
+    "url": "https://github.com/chirpephippiorhynchus804/claude-memory-mcp"
   },
   {
     "description": "An AI-powered book publication workflow that automates chapter collection, content refinement, review, and version manag",
@@ -77,26 +113,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1857,
-    "updated_at": "2026-07-07T03:47:02Z",
+    "updated_at": "2026-07-07T04:00:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -112,7 +130,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27270,
+    "stars": 27271,
     "updated_at": "2026-07-07T03:44:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 33826,
-    "updated_at": "2026-07-07T03:43:36Z",
+    "updated_at": "2026-07-07T04:07:47Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:13:35Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:13:10Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:10:52Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
