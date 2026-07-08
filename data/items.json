@@ -1,12 +1,129 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:42:37Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
     "description": "Production-minded launchpacks for popular self-hosted OSS apps",
     "id": "shreyas-shinde/oss-launchpack",
     "language": "TypeScript",
     "name": "shreyas-shinde/oss-launchpack",
     "stars": 1,
-    "updated_at": "2026-07-08T19:30:09Z",
+    "updated_at": "2026-07-08T19:39:32Z",
     "url": "https://github.com/shreyas-shinde/oss-launchpack"
+  },
+  {
+    "description": "A browser app presenting data from the Georgia Project. ",
+    "id": "KatherineMossDeveloper/Midnight-Train",
+    "language": "TypeScript",
+    "name": "KatherineMossDeveloper/Midnight-Train",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:39:02Z",
+    "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:38:22Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 290,
+    "updated_at": "2026-07-08T19:37:37Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
+    "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
+    "language": "JavaScript",
+    "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
+    "stars": 12,
+    "updated_at": "2026-07-08T19:37:34Z",
+    "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
+  },
+  {
+    "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
+    "id": "PerinbaBuilds/Semantic-RAG-Search",
+    "language": "Python",
+    "name": "PerinbaBuilds/Semantic-RAG-Search",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:35:52Z",
+    "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:35:27Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Autonomous AI Customer Support Platform powered by LLMs, RAG, and Workflow Automation.",
+    "id": "mukeshkumarjha01/supportagent-ai",
+    "language": "\u2014",
+    "name": "mukeshkumarjha01/supportagent-ai",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:33:09Z",
+    "url": "https://github.com/mukeshkumarjha01/supportagent-ai"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:32:47Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:31:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:31:05Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -58,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62928,
+    "stars": 62929,
     "updated_at": "2026-07-08T19:23:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -97,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T19:20:15Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Autonomous AI Customer Support Platform powered by LLMs, RAG, and Workflow Automation.",
-    "id": "mukeshkumarjha01/supportagent-ai",
-    "language": "\u2014",
-    "name": "mukeshkumarjha01/supportagent-ai",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:20:03Z",
-    "url": "https://github.com/mukeshkumarjha01/supportagent-ai"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -178,24 +286,6 @@
     "stars": 3,
     "updated_at": "2026-07-08T19:16:19Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -284,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1007,
-    "updated_at": "2026-07-08T19:07:46Z",
+    "updated_at": "2026-07-08T19:44:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -333,6 +423,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7826,
+    "updated_at": "2026-07-08T19:03:07Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
     "id": "cornellebivalved856/example-multimodal-rag",
     "language": "Python",
@@ -342,15 +441,6 @@
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7827,
-    "updated_at": "2026-07-08T19:03:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
     "id": "decided-indication109/AI-Engineer-in-90-Days",
     "language": "Mermaid",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-08T19:02:09Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:01:58Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:01:31Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:01:17Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:00:56Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6169,
-    "updated_at": "2026-07-08T18:57:46Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-07-08T18:57:43Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-08T18:56:41Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
-    "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "language": "JavaScript",
-    "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "stars": 12,
-    "updated_at": "2026-07-08T18:55:26Z",
-    "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-08T18:53:52Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 2,
-    "updated_at": "2026-07-08T19:11:45Z",
-    "url": "https://github.com/thekaveh/atlas"
   }
 ]
