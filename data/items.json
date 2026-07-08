@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-08T09:45:20Z",
+    "updated_at": "2026-07-08T10:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4414,
+    "updated_at": "2026-07-08T09:58:42Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS ",
+    "id": "Veeresh-Hanni/DBDuck",
+    "language": "Python",
+    "name": "Veeresh-Hanni/DBDuck",
+    "stars": 2,
+    "updated_at": "2026-07-08T09:58:24Z",
+    "url": "https://github.com/Veeresh-Hanni/DBDuck"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:57:52Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:57:45Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-08T09:57:38Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:56:43Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:56:08Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:55:42Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-08T09:55:22Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-08T09:55:19Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
+    "id": "treygrainger/ai-powered-search",
+    "language": "Jupyter Notebook",
+    "name": "treygrainger/ai-powered-search",
+    "stars": 397,
+    "updated_at": "2026-07-08T09:53:14Z",
+    "url": "https://github.com/treygrainger/ai-powered-search"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:53:05Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45135,
+    "updated_at": "2026-07-08T09:52:56Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:51:58Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6997,
+    "updated_at": "2026-07-08T09:47:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -45,24 +189,6 @@
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T09:39:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-08T09:39:47Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -73,12 +199,12 @@
   },
   {
     "description": "End-to-end Retrieval-Augmented Generation (RAG) service for job hunting. Ingest job postings, upload your resume, then a",
-    "id": "MohitSutharOfficial/JobHunter-RAG",
+    "id": "MohitSutharOfficial/JobScope-RAG",
     "language": "HTML",
-    "name": "MohitSutharOfficial/JobHunter-RAG",
+    "name": "MohitSutharOfficial/JobScope-RAG",
     "stars": 0,
     "updated_at": "2026-07-08T09:34:35Z",
-    "url": "https://github.com/MohitSutharOfficial/JobHunter-RAG"
+    "url": "https://github.com/MohitSutharOfficial/JobScope-RAG"
   },
   {
     "description": "",
@@ -149,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33028,
-    "updated_at": "2026-07-08T09:38:05Z",
+    "updated_at": "2026-07-08T09:54:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -169,15 +295,6 @@
     "stars": 27331,
     "updated_at": "2026-07-08T09:31:34Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS ",
-    "id": "Veeresh-Hanni/DBDuck",
-    "language": "Python",
-    "name": "Veeresh-Hanni/DBDuck",
-    "stars": 2,
-    "updated_at": "2026-07-08T09:22:46Z",
-    "url": "https://github.com/Veeresh-Hanni/DBDuck"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -205,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T09:20:51Z",
     "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45135,
-    "updated_at": "2026-07-08T09:31:20Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
@@ -257,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6207,
-    "updated_at": "2026-07-08T09:17:51Z",
+    "updated_at": "2026-07-08T09:49:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -311,7 +419,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6171,
-    "updated_at": "2026-07-08T09:36:31Z",
+    "updated_at": "2026-07-08T09:55:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T08:50:37Z",
     "url": "https://github.com/NegiSushant/second-brain"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1006,
-    "updated_at": "2026-07-08T09:41:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
-    "id": "OpenPj/opencrawling",
-    "language": "TypeScript",
-    "name": "OpenPj/opencrawling",
-    "stars": 3,
-    "updated_at": "2026-07-08T08:45:34Z",
-    "url": "https://github.com/OpenPj/opencrawling"
-  },
-  {
-    "description": "Multimodal RAG pipeline for financial PDF analysis \u2014 extracts text, tables, and chart descriptions via GPT-4V, stores em",
-    "id": "Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis",
-    "language": "Jupyter Notebook",
-    "name": "Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:44:58Z",
-    "url": "https://github.com/Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis"
-  },
-  {
-    "description": "Agentic RAG System",
-    "id": "akarauser/nexus-query",
-    "language": "Python",
-    "name": "akarauser/nexus-query",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:44:12Z",
-    "url": "https://github.com/akarauser/nexus-query"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9377,
-    "updated_at": "2026-07-08T09:37:38Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:30:30Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:29:42Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4414,
-    "updated_at": "2026-07-08T09:42:29Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Production-grade AI Website Support Assistant using LangChain, OpenAI, ChromaDB and Retrieval-Augmented Generation (RAG)",
-    "id": "ShraddhaBaid104/stanford-ai-website-assistant",
-    "language": "Python",
-    "name": "ShraddhaBaid104/stanford-ai-website-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:25:51Z",
-    "url": "https://github.com/ShraddhaBaid104/stanford-ai-website-assistant"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16537,
-    "updated_at": "2026-07-08T09:43:47Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:07:18Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:05:31Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
