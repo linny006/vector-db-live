@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-08 09:39 UTC
+> ⏰ Last updated: 2026-07-08 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-07-08 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
-| 2 | [MohitSutharOfficial/JobHunter-RAG](https://github.com/MohitSutharOfficial/JobHunter-RAG) | 0 | HTML | 2026-07-08 | End-to-end Retrieval-Augmented Generation (RAG) service for job hunting. Ingest job postings, upload your resume, then a |
-| 3 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-07-08 |  |
-| 4 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 6 | Python | 2026-07-08 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [nubster-opensources/eidosdb](https://github.com/nubster-opensources/eidosdb) | 0 | Rust | 2026-07-08 | A pure-Rust vector database: HNSW index, hybrid lexical and vector search, persistent storage. |
-| 8 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 1 | C | 2026-07-08 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
-| 9 | [ogunekiz/Retriva](https://github.com/ogunekiz/Retriva) | 0 | C# | 2026-07-08 | .NET 8 & Angular 20 tabanlı, Postgres (pgvector) kurumsal RAG asistanı. Docker (Ollama/Llama3) ve Gemini entegrasyonu, ç |
-| 10 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-07-08 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
-| 11 | [roberto729a/OllamaRAG](https://github.com/roberto729a/OllamaRAG) | 6 | Python | 2026-07-08 | 🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo |
-| 12 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-07-08 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
-| 13 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33028 | Rust | 2026-07-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 14 | [puffball1567/rochedb](https://github.com/puffball1567/rochedb) | 1 | Nim | 2026-07-08 | RocheDB PoC - ephemeris-based distributed document/vector store |
-| 15 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 27331 | Python | 2026-07-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 16 | [Veeresh-Hanni/DBDuck](https://github.com/Veeresh-Hanni/DBDuck) | 2 | Python | 2026-07-08 | Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS  |
-| 17 | [Shajo777/SupaAI-Framework-Template](https://github.com/Shajo777/SupaAI-Framework-Template) | 0 | — | 2026-07-08 | 🤖 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl |
-| 18 | [Mehdi138534/ai-news-scraper](https://github.com/Mehdi138534/ai-news-scraper) | 0 | HTML | 2026-07-08 | 📰 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un |
-| 19 | [zubairporag/yu-ai-agent](https://github.com/zubairporag/yu-ai-agent) | 0 | Java | 2026-07-08 | 🤖 Develop cutting-edge AI applications with the "yu-ai-agent" project, enhancing your skills and boosting your job prosp |
-| 20 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45135 | Go | 2026-07-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 21 | [DanieldfMedina/GenAI-Course-Repo](https://github.com/DanieldfMedina/GenAI-Course-Repo) | 0 | C++ | 2026-07-08 | 🚀 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b |
-| 22 | [SAHIXXX12/AI-Search-Engine](https://github.com/SAHIXXX12/AI-Search-Engine) | 0 | TypeScript | 2026-07-08 | 🔍 Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop |
-| 23 | [ermermermermidk/mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory) | 1 | TypeScript | 2026-07-08 | 🧠 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y |
-| 24 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 25 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6207 | TypeScript | 2026-07-08 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 26 | [techdomegh/ai-news-scraper](https://github.com/techdomegh/ai-news-scraper) | 10 | Python | 2026-07-08 | AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and |
-| 27 | [hfgwygey/yu-ai-agent](https://github.com/hfgwygey/yu-ai-agent) | 90 | Java | 2026-07-08 | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI |
-| 28 | [zmwzmo11130/neuraldocs](https://github.com/zmwzmo11130/neuraldocs) | 1 | Python | 2026-07-08 | Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod |
-| 29 | [Maurellone/TySVA](https://github.com/Maurellone/TySVA) | 1 | Python | 2026-07-08 | Learn TypeScript chatting effortlessly with AI |
-| 30 | [clizardyy/unbody](https://github.com/clizardyy/unbody) | 5 | TypeScript | 2026-07-08 | The modular, open-source backend for building AI-native software — powered by knowledge, not static data. |
-| 31 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6171 | C | 2026-07-08 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 32 | [TheAli711/zvec-server](https://github.com/TheAli711/zvec-server) | 3 | Python | 2026-07-08 | A lightweight standalone HTTP server for Zvec, bringing client-server deployment to the embedded vector database. |
-| 33 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1856 | Go | 2026-07-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 34 | [NegiSushant/second-brain](https://github.com/NegiSushant/second-brain) | 1 | TypeScript | 2026-07-08 | MindVault is a full-stack Second Brain application to store and organize knowledge—tweets, YouTube, Notion docs, documen |
-| 35 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1006 | Java | 2026-07-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 36 | [OpenPj/opencrawling](https://github.com/OpenPj/opencrawling) | 3 | TypeScript | 2026-07-08 | OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search. |
-| 37 | [Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis](https://github.com/Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis) | 0 | Jupyter Notebook | 2026-07-08 | Multimodal RAG pipeline for financial PDF analysis — extracts text, tables, and chart descriptions via GPT-4V, stores em |
-| 38 | [akarauser/nexus-query](https://github.com/akarauser/nexus-query) | 0 | Python | 2026-07-08 | Agentic RAG System |
-| 39 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9377 | Rust | 2026-07-08 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 40 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 41 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-07-08 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
-| 42 | [crate/crate](https://github.com/crate/crate) | 4414 | Java | 2026-07-08 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 43 | [ShraddhaBaid104/stanford-ai-website-assistant](https://github.com/ShraddhaBaid104/stanford-ai-website-assistant) | 0 | Python | 2026-07-08 | Production-grade AI Website Support Assistant using LangChain, OpenAI, ChromaDB and Retrieval-Augmented Generation (RAG) |
-| 44 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16537 | Go | 2026-07-08 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 45 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-08 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 46 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-08 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
-| 47 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-07-08 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 48 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-07-08 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 49 | [Hudsonmathew1910/Hero-s-AI](https://github.com/Hudsonmathew1910/Hero-s-AI) | 2 | JavaScript | 2026-07-08 | Hero’s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B |
-| 50 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-07-08 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-07-08 |  |
+| 3 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-07-08 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
+| 4 | [hesamaria/rag-chatbot](https://github.com/hesamaria/rag-chatbot) | 3 | Python | 2026-07-08 | 🧠 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt |
+| 5 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-07-08 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-07-08 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
+| 8 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-07-08 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
+| 9 | [MohitSutharOfficial/JobHunter-RAG](https://github.com/MohitSutharOfficial/JobHunter-RAG) | 0 | HTML | 2026-07-08 | End-to-end Retrieval-Augmented Generation (RAG) service for job hunting. Ingest job postings, upload your resume, then a |
+| 10 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-07-08 |  |
+| 11 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 6 | Python | 2026-07-08 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
+| 12 | [nubster-opensources/eidosdb](https://github.com/nubster-opensources/eidosdb) | 0 | Rust | 2026-07-08 | A pure-Rust vector database: HNSW index, hybrid lexical and vector search, persistent storage. |
+| 13 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 1 | C | 2026-07-08 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
+| 14 | [ogunekiz/Retriva](https://github.com/ogunekiz/Retriva) | 0 | C# | 2026-07-08 | .NET 8 & Angular 20 tabanlı, Postgres (pgvector) kurumsal RAG asistanı. Docker (Ollama/Llama3) ve Gemini entegrasyonu, ç |
+| 15 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-07-08 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
+| 16 | [roberto729a/OllamaRAG](https://github.com/roberto729a/OllamaRAG) | 6 | Python | 2026-07-08 | 🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo |
+| 17 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33028 | Rust | 2026-07-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 18 | [puffball1567/rochedb](https://github.com/puffball1567/rochedb) | 1 | Nim | 2026-07-08 | RocheDB PoC - ephemeris-based distributed document/vector store |
+| 19 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 27331 | Python | 2026-07-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 20 | [Veeresh-Hanni/DBDuck](https://github.com/Veeresh-Hanni/DBDuck) | 2 | Python | 2026-07-08 | Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS  |
+| 21 | [Shajo777/SupaAI-Framework-Template](https://github.com/Shajo777/SupaAI-Framework-Template) | 0 | — | 2026-07-08 | 🤖 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl |
+| 22 | [Mehdi138534/ai-news-scraper](https://github.com/Mehdi138534/ai-news-scraper) | 0 | HTML | 2026-07-08 | 📰 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un |
+| 23 | [zubairporag/yu-ai-agent](https://github.com/zubairporag/yu-ai-agent) | 0 | Java | 2026-07-08 | 🤖 Develop cutting-edge AI applications with the "yu-ai-agent" project, enhancing your skills and boosting your job prosp |
+| 24 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45135 | Go | 2026-07-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 25 | [DanieldfMedina/GenAI-Course-Repo](https://github.com/DanieldfMedina/GenAI-Course-Repo) | 0 | C++ | 2026-07-08 | 🚀 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b |
+| 26 | [SAHIXXX12/AI-Search-Engine](https://github.com/SAHIXXX12/AI-Search-Engine) | 0 | TypeScript | 2026-07-08 | 🔍 Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop |
+| 27 | [ermermermermidk/mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory) | 1 | TypeScript | 2026-07-08 | 🧠 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y |
+| 28 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 29 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6207 | TypeScript | 2026-07-08 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
+| 30 | [techdomegh/ai-news-scraper](https://github.com/techdomegh/ai-news-scraper) | 10 | Python | 2026-07-08 | AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and |
+| 31 | [hfgwygey/yu-ai-agent](https://github.com/hfgwygey/yu-ai-agent) | 90 | Java | 2026-07-08 | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI |
+| 32 | [zmwzmo11130/neuraldocs](https://github.com/zmwzmo11130/neuraldocs) | 1 | Python | 2026-07-08 | Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod |
+| 33 | [Maurellone/TySVA](https://github.com/Maurellone/TySVA) | 1 | Python | 2026-07-08 | Learn TypeScript chatting effortlessly with AI |
+| 34 | [clizardyy/unbody](https://github.com/clizardyy/unbody) | 5 | TypeScript | 2026-07-08 | The modular, open-source backend for building AI-native software — powered by knowledge, not static data. |
+| 35 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6171 | C | 2026-07-08 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 36 | [TheAli711/zvec-server](https://github.com/TheAli711/zvec-server) | 3 | Python | 2026-07-08 | A lightweight standalone HTTP server for Zvec, bringing client-server deployment to the embedded vector database. |
+| 37 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1856 | Go | 2026-07-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 38 | [NegiSushant/second-brain](https://github.com/NegiSushant/second-brain) | 1 | TypeScript | 2026-07-08 | MindVault is a full-stack Second Brain application to store and organize knowledge—tweets, YouTube, Notion docs, documen |
+| 39 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1006 | Java | 2026-07-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 40 | [OpenPj/opencrawling](https://github.com/OpenPj/opencrawling) | 3 | TypeScript | 2026-07-08 | OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search. |
+| 41 | [Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis](https://github.com/Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis) | 0 | Jupyter Notebook | 2026-07-08 | Multimodal RAG pipeline for financial PDF analysis — extracts text, tables, and chart descriptions via GPT-4V, stores em |
+| 42 | [akarauser/nexus-query](https://github.com/akarauser/nexus-query) | 0 | Python | 2026-07-08 | Agentic RAG System |
+| 43 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9377 | Rust | 2026-07-08 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 44 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 45 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-07-08 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
+| 46 | [crate/crate](https://github.com/crate/crate) | 4414 | Java | 2026-07-08 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 47 | [ShraddhaBaid104/stanford-ai-website-assistant](https://github.com/ShraddhaBaid104/stanford-ai-website-assistant) | 0 | Python | 2026-07-08 | Production-grade AI Website Support Assistant using LangChain, OpenAI, ChromaDB and Retrieval-Augmented Generation (RAG) |
+| 48 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16537 | Go | 2026-07-08 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 49 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-08 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
+| 50 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-08 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
 <!-- TRACKER_TABLE_END -->
 
 ---
