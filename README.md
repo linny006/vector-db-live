@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-08 20:11 UTC
+> ⏰ Last updated: 2026-07-08 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Ghost-141/AskPDF-AI](https://github.com/Ghost-141/AskPDF-AI) | 1 | Python | 2026-07-08 | RAG Based System to chat with PDF Files including support for complex equations and code formatting |
+| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1007 | Java | 2026-07-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-07-08 | Identity and Authorization Service with Vector and AI Integration |
-| 5 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3025 | Jupyter Notebook | 2026-07-08 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
-| 6 | [shreyas-shinde/oss-launchpack](https://github.com/shreyas-shinde/oss-launchpack) | 1 | TypeScript | 2026-07-08 | Production-minded launchpacks for popular self-hosted OSS apps |
-| 7 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5856 | Python | 2026-07-08 |  Memory library for building stateful agents |
-| 8 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1007 | Java | 2026-07-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 4 | [Ghost-141/AskPDF-AI](https://github.com/Ghost-141/AskPDF-AI) | 1 | Python | 2026-07-08 | RAG Based System to chat with PDF Files including support for complex equations and code formatting |
+| 5 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-07-08 | Identity and Authorization Service with Vector and AI Integration |
+| 6 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3025 | Jupyter Notebook | 2026-07-08 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
+| 7 | [shreyas-shinde/oss-launchpack](https://github.com/shreyas-shinde/oss-launchpack) | 1 | TypeScript | 2026-07-08 | Production-minded launchpacks for popular self-hosted OSS apps |
+| 8 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5856 | Python | 2026-07-08 |  Memory library for building stateful agents |
 | 9 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 1 | — | 2026-07-08 | Profile README |
 | 10 | [KatherineMossDeveloper/Midnight-Train](https://github.com/KatherineMossDeveloper/Midnight-Train) | 1 | TypeScript | 2026-07-08 | A browser app presenting data from the Georgia Project.  |
 | 11 | [carlwelchdesign/supraconscious-avatar-ai](https://github.com/carlwelchdesign/supraconscious-avatar-ai) | 0 | TypeScript | 2026-07-08 | Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 3 | TypeScript | 2026-07-08 | A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid |
 | 23 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-07-08 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 24 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 25 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62930 | JavaScript | 2026-07-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 25 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 62931 | JavaScript | 2026-07-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 26 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-07-08 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 27 | [constancywoodsy286/agentic-rag-for-practice](https://github.com/constancywoodsy286/agentic-rag-for-practice) | 1 | Python | 2026-07-08 | Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo |
 | 28 | [mrpandafr/domu](https://github.com/mrpandafr/domu) | 0 | Python | 2026-07-08 | Domu — Wired memory engine for Hermes agents |

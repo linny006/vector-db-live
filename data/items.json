@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-08T20:10:24Z",
+    "updated_at": "2026-07-08T20:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1007,
+    "updated_at": "2026-07-08T20:14:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:11:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG Based System to chat with PDF Files including support for complex equations and code formatting",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T20:05:35Z",
     "url": "https://github.com/Ghost-141/AskPDF-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T20:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -61,15 +70,6 @@
     "stars": 5856,
     "updated_at": "2026-07-08T19:49:30Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1007,
-    "updated_at": "2026-07-08T20:09:45Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Profile README",
@@ -220,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62930,
+    "stars": 62931,
     "updated_at": "2026-07-08T19:23:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
