@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-08T20:00:21Z",
+    "updated_at": "2026-07-08T20:10:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG Based System to chat with PDF Files including support for complex equations and code formatting",
+    "id": "Ghost-141/AskPDF-AI",
+    "language": "Python",
+    "name": "Ghost-141/AskPDF-AI",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:05:35Z",
+    "url": "https://github.com/Ghost-141/AskPDF-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -50,17 +68,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1007,
-    "updated_at": "2026-07-08T19:58:24Z",
+    "updated_at": "2026-07-08T20:09:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:03:41Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:03:07Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
