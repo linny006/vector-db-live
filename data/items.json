@@ -1,5 +1,23 @@
 [
   {
+    "description": "SQLite for vectors \u2014 an embedded vector database. One binary, one file, zero config. Runs anywhere.",
+    "id": "Mengxun326/embeddb",
+    "language": "Rust",
+    "name": "Mengxun326/embeddb",
+    "stars": 1,
+    "updated_at": "2026-07-08T22:44:00Z",
+    "url": "https://github.com/Mengxun326/embeddb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T22:43:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T22:42:55Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "SQLite for vectors \u2014 an embedded vector database. One binary, one file, zero config. Runs anywhere.",
-    "id": "Mengxun326/embeddb",
-    "language": "Rust",
-    "name": "Mengxun326/embeddb",
-    "stars": 1,
-    "updated_at": "2026-07-08T22:41:29Z",
-    "url": "https://github.com/Mengxun326/embeddb"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T22:31:24Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
