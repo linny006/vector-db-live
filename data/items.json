@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T17:06:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Splinter cohabitates inference and semantic governance in L3 cache and memory lanes, while simultaneously providing stan",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 4,
+    "updated_at": "2026-07-08T17:05:55Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:05:12Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
+    "id": "vansharora156/nexus-rag",
+    "language": "Python",
+    "name": "vansharora156/nexus-rag",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:03:20Z",
+    "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:03:15Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:01:22Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 3,
-    "updated_at": "2026-07-08T16:56:54Z",
+    "updated_at": "2026-07-08T17:01:01Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "somoore/terraform-provider-tpuf",
     "stars": 1,
-    "updated_at": "2026-07-08T16:51:50Z",
+    "updated_at": "2026-07-08T17:06:01Z",
     "url": "https://github.com/somoore/terraform-provider-tpuf"
   },
   {
@@ -187,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T16:46:01Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
@@ -319,7 +364,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62921,
+    "stars": 62922,
     "updated_at": "2026-07-08T16:36:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -328,8 +373,8 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6208,
-    "updated_at": "2026-07-08T16:35:45Z",
+    "stars": 6209,
+    "updated_at": "2026-07-08T17:07:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T16:32:27Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:32:06Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "An AI OS architecture emphasizing edge computing with privacy-by-design principles.",
-    "id": "engram-os/engram-os",
-    "language": "Python",
-    "name": "engram-os/engram-os",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:29:50Z",
-    "url": "https://github.com/engram-os/engram-os"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1007,
-    "updated_at": "2026-07-08T16:28:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
-    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "language": "Python",
-    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:28:39Z",
-    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:27:46Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
