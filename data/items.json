@@ -1,5 +1,77 @@
 [
   {
+    "description": "Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS ",
+    "id": "Veeresh-Hanni/DBDuck",
+    "language": "Python",
+    "name": "Veeresh-Hanni/DBDuck",
+    "stars": 2,
+    "updated_at": "2026-07-08T08:59:36Z",
+    "url": "https://github.com/Veeresh-Hanni/DBDuck"
+  },
+  {
+    "description": "A lightweight standalone HTTP server for Zvec, bringing client-server deployment to the embedded vector database.",
+    "id": "TheAli711/zvec-server",
+    "language": "Python",
+    "name": "TheAli711/zvec-server",
+    "stars": 3,
+    "updated_at": "2026-07-08T08:56:54Z",
+    "url": "https://github.com/TheAli711/zvec-server"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1856,
+    "updated_at": "2026-07-08T08:55:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "MindVault is a full-stack Second Brain application to store and organize knowledge\u2014tweets, YouTube, Notion docs, documen",
+    "id": "NegiSushant/second-brain",
+    "language": "TypeScript",
+    "name": "NegiSushant/second-brain",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:50:37Z",
+    "url": "https://github.com/NegiSushant/second-brain"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1006,
+    "updated_at": "2026-07-08T08:46:37Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
+    "id": "OpenPj/opencrawling",
+    "language": "TypeScript",
+    "name": "OpenPj/opencrawling",
+    "stars": 3,
+    "updated_at": "2026-07-08T08:45:34Z",
+    "url": "https://github.com/OpenPj/opencrawling"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-08T09:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multimodal RAG pipeline for financial PDF analysis \u2014 extracts text, tables, and chart descriptions via GPT-4V, stores em",
     "id": "Harsimran-Dalal/Multimodal-RAG-Financial-Document-Analysis",
     "language": "Jupyter Notebook",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27331,
-    "updated_at": "2026-07-08T08:44:08Z",
+    "updated_at": "2026-07-08T08:55:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T08:30:30Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-08T08:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16537,
-    "updated_at": "2026-07-08T08:41:46Z",
+    "updated_at": "2026-07-08T08:51:45Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -220,7 +274,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62864,
+    "stars": 62867,
     "updated_at": "2026-07-08T07:54:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:43:10Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Production-ready AI infrastructure: RAG with smart reindexing, persistent memory, browser automation, and MCP integratio",
-    "id": "MasihMoafi/A-Modular-Kingdom",
-    "language": "Python",
-    "name": "MasihMoafi/A-Modular-Kingdom",
-    "stars": 29,
-    "updated_at": "2026-07-08T07:41:03Z",
-    "url": "https://github.com/MasihMoafi/A-Modular-Kingdom"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:38:13Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-08T07:38:02Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:37:52Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:37:10Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-08T07:36:22Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
