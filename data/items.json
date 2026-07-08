@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:34:50Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "End-to-end Retrieval-Augmented Generation (RAG) service for job hunting. Ingest job postings, upload your resume, then a",
+    "id": "MohitSutharOfficial/JobHunter-RAG",
+    "language": "HTML",
+    "name": "MohitSutharOfficial/JobHunter-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:34:35Z",
+    "url": "https://github.com/MohitSutharOfficial/JobHunter-RAG"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-08T09:34:31Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-08T09:32:26Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33028,
-    "updated_at": "2026-07-08T09:25:01Z",
+    "updated_at": "2026-07-08T09:38:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27331,
-    "updated_at": "2026-07-08T09:23:48Z",
+    "updated_at": "2026-07-08T09:31:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45135,
-    "updated_at": "2026-07-08T09:30:17Z",
+    "updated_at": "2026-07-08T09:31:20Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "End-to-end Retrieval-Augmented Generation (RAG) service for job hunting. Ingest job postings, upload your resume, then a",
-    "id": "MohitSutharOfficial/JobHunter-RAG",
-    "language": "HTML",
-    "name": "MohitSutharOfficial/JobHunter-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-08T09:18:51Z",
-    "url": "https://github.com/MohitSutharOfficial/JobHunter-RAG"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -180,13 +216,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6207,
+    "updated_at": "2026-07-08T09:17:51Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -239,7 +275,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6171,
-    "updated_at": "2026-07-08T09:03:21Z",
+    "updated_at": "2026-07-08T09:36:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1006,
-    "updated_at": "2026-07-08T09:22:27Z",
+    "updated_at": "2026-07-08T09:33:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9377,
-    "updated_at": "2026-07-08T08:36:53Z",
+    "updated_at": "2026-07-08T09:37:38Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16537,
-    "updated_at": "2026-07-08T09:30:12Z",
+    "updated_at": "2026-07-08T09:33:13Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:57:44Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:57:34Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:56:52Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6997,
-    "updated_at": "2026-07-08T09:15:15Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 62876,
-    "updated_at": "2026-07-08T07:54:40Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
