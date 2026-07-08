@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-08T02:45:19Z",
+    "updated_at": "2026-07-08T03:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-08T02:58:41Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
+    "id": "amcaaron/rag-document-assistant",
+    "language": "JavaScript",
+    "name": "amcaaron/rag-document-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:53:45Z",
+    "url": "https://github.com/amcaaron/rag-document-assistant"
+  },
+  {
+    "description": "Clinical document intelligence platform: OCR + LLM extraction + validation + RAG, with an evaluation harness, data linea",
+    "id": "AkhilReddyJ7/clinical-ai-platform",
+    "language": "Python",
+    "name": "AkhilReddyJ7/clinical-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:53:38Z",
+    "url": "https://github.com/AkhilReddyJ7/clinical-ai-platform"
+  },
+  {
+    "description": "a lightweight experimental database written in modern C++",
+    "id": "Icingworld/litedb",
+    "language": "C++",
+    "name": "Icingworld/litedb",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:50:41Z",
+    "url": "https://github.com/Icingworld/litedb"
+  },
+  {
+    "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
+    "id": "kyzodb/kyzo",
+    "language": "Rust",
+    "name": "kyzodb/kyzo",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:49:15Z",
+    "url": "https://github.com/kyzodb/kyzo"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:48:01Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -14,7 +77,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 119,
-    "updated_at": "2026-07-08T02:41:59Z",
+    "updated_at": "2026-07-08T02:54:50Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -63,13 +126,13 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45126,
+    "updated_at": "2026-07-08T02:30:33Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T02:24:49Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45125,
-    "updated_at": "2026-07-08T02:30:33Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
@@ -283,7 +337,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 14079,
+    "stars": 14087,
     "updated_at": "2026-07-08T02:14:42Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -342,15 +396,6 @@
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-08T02:38:33Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
     "id": "decided-indication109/AI-Engineer-in-90-Days",
     "language": "Mermaid",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T02:03:32Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-08T02:00:49Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-08T01:59:37Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-08T01:57:03Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-08T01:56:40Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-08T01:54:22Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
