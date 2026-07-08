@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 1,
-    "updated_at": "2026-07-08T19:45:21Z",
+    "updated_at": "2026-07-08T20:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-07-08T19:59:58Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+    "id": "pinecone-io/examples",
+    "language": "Jupyter Notebook",
+    "name": "pinecone-io/examples",
+    "stars": 3025,
+    "updated_at": "2026-07-08T19:55:42Z",
+    "url": "https://github.com/pinecone-io/examples"
+  },
+  {
+    "description": "Production-minded launchpacks for popular self-hosted OSS apps",
+    "id": "shreyas-shinde/oss-launchpack",
+    "language": "TypeScript",
+    "name": "shreyas-shinde/oss-launchpack",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:50:11Z",
+    "url": "https://github.com/shreyas-shinde/oss-launchpack"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5856,
+    "updated_at": "2026-07-08T19:49:30Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1007,
+    "updated_at": "2026-07-08T19:58:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T19:42:37Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Production-minded launchpacks for popular self-hosted OSS apps",
-    "id": "shreyas-shinde/oss-launchpack",
-    "language": "TypeScript",
-    "name": "shreyas-shinde/oss-launchpack",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:39:32Z",
-    "url": "https://github.com/shreyas-shinde/oss-launchpack"
   },
   {
     "description": "A browser app presenting data from the Georgia Project. ",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "PerinbaBuilds/Semantic-RAG-Search",
     "stars": 0,
-    "updated_at": "2026-07-08T19:35:52Z",
+    "updated_at": "2026-07-08T19:48:27Z",
     "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:31:05Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -175,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 62929,
+    "stars": 62930,
     "updated_at": "2026-07-08T19:23:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -369,15 +405,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1007,
-    "updated_at": "2026-07-08T19:44:48Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T19:03:07Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7826,
-    "updated_at": "2026-07-08T19:03:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:02:54Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-08T19:02:09Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
