@@ -1,12 +1,75 @@
 [
   {
+    "description": "Vexra \u2014 SQLite for vectors. An embedded vector database. One binary, one file, zero config.",
+    "id": "Mengxun326/Vexra",
+    "language": "Rust",
+    "name": "Mengxun326/Vexra",
+    "stars": 1,
+    "updated_at": "2026-07-09T14:42:56Z",
+    "url": "https://github.com/Mengxun326/Vexra"
+  },
+  {
+    "description": "Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems",
+    "id": "neerazz/embedguard",
+    "language": "Python",
+    "name": "neerazz/embedguard",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:42:27Z",
+    "url": "https://github.com/neerazz/embedguard"
+  },
+  {
+    "description": "Production-grade AI Forward Deployed Engineer (FDE) platform that integrates an LLM-powered assistant into an existing e",
+    "id": "Mohan006007/ai-forward-deployment-platform",
+    "language": "\u2014",
+    "name": "Mohan006007/ai-forward-deployment-platform",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:41:33Z",
+    "url": "https://github.com/Mohan006007/ai-forward-deployment-platform"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6996,
+    "updated_at": "2026-07-09T14:39:18Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Deka \u2014 Aligning Human Intuition with Semantic Space",
+    "id": "tmasjc/deka-oss",
+    "language": "Python",
+    "name": "tmasjc/deka-oss",
+    "stars": 55,
+    "updated_at": "2026-07-09T14:34:35Z",
+    "url": "https://github.com/tmasjc/deka-oss"
+  },
+  {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
     "id": "AleksNeStu/ai-news-scraper",
     "language": "Python",
     "name": "AleksNeStu/ai-news-scraper",
     "stars": 3,
-    "updated_at": "2026-07-09T14:29:08Z",
+    "updated_at": "2026-07-09T14:32:58Z",
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-09T14:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -50,7 +113,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6169,
-    "updated_at": "2026-07-09T14:27:29Z",
+    "updated_at": "2026-07-09T14:34:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/younismahmoud1234/gitsage"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local RAG pipeline with TUI",
     "id": "jotalac/rag-app",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27404,
-    "updated_at": "2026-07-09T14:13:55Z",
+    "updated_at": "2026-07-09T14:39:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -178,24 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T14:09:01Z",
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6996,
-    "updated_at": "2026-07-09T14:15:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems",
-    "id": "neerazz/embedguard",
-    "language": "Python",
-    "name": "neerazz/embedguard",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:07:51Z",
-    "url": "https://github.com/neerazz/embedguard"
   },
   {
     "description": "An AI-native vector search engine built from scratch to explore semantic retrieval, ANN indexing, FAISS benchmarking, an",
@@ -275,7 +302,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10838,
-    "updated_at": "2026-07-09T14:00:55Z",
+    "updated_at": "2026-07-09T14:38:52Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33096,
-    "updated_at": "2026-07-09T14:23:33Z",
+    "updated_at": "2026-07-09T14:39:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T13:44:01Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
-    "id": "seferogluemre/personal-assistant-platform",
-    "language": "TypeScript",
-    "name": "seferogluemre/personal-assistant-platform",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:42:31Z",
-    "url": "https://github.com/seferogluemre/personal-assistant-platform"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-07-09T13:42:13Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:50:50Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
   }
 ]
