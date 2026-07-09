@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:44:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 1,
-    "updated_at": "2026-07-09T19:41:51Z",
+    "updated_at": "2026-07-09T19:44:58Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T19:40:28Z",
+    "updated_at": "2026-07-09T19:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1438,
     "updated_at": "2026-07-09T19:38:32Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",

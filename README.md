@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 19:44 UTC
+> ⏰ Last updated: 2026-07-09 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1596 | Python | 2026-07-09 | Unified multimodal backend for AI data apps |
-| 2 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 1 | Rust | 2026-07-09 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 3 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 415 | TypeScript | 2026-07-09 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [yp3y5akh0v/citadel](https://github.com/yp3y5akh0v/citadel) | 3 | Rust | 2026-07-09 | Local-first encrypted memory engine for AI agents, built on an embedded SQL/vector database with zero-LLM ingest, MCP, a |
-| 6 | [AleksNeStu/ai-news-scraper](https://github.com/AleksNeStu/ai-news-scraper) | 3 | Python | 2026-07-09 | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD |
-| 7 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10844 | HTML | 2026-07-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 8 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1438 | Clojure | 2026-07-09 | A simple, fast and versatile Datalog database |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1596 | Python | 2026-07-09 | Unified multimodal backend for AI data apps |
+| 3 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 1 | Rust | 2026-07-09 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
+| 4 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 415 | TypeScript | 2026-07-09 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [yp3y5akh0v/citadel](https://github.com/yp3y5akh0v/citadel) | 3 | Rust | 2026-07-09 | Local-first encrypted memory engine for AI agents, built on an embedded SQL/vector database with zero-LLM ingest, MCP, a |
+| 7 | [AleksNeStu/ai-news-scraper](https://github.com/AleksNeStu/ai-news-scraper) | 3 | Python | 2026-07-09 | AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD |
+| 8 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10844 | HTML | 2026-07-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 9 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1438 | Clojure | 2026-07-09 | A simple, fast and versatile Datalog database |
 | 10 | [MariaDB/server](https://github.com/MariaDB/server) | 7836 | C++ | 2026-07-09 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 11 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-07-09 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
 | 12 | [schmitech/orbit](https://github.com/schmitech/orbit) | 291 | Python | 2026-07-09 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
