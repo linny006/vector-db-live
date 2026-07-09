@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T18:30:18Z",
+    "updated_at": "2026-07-09T18:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7001,
+    "updated_at": "2026-07-09T18:44:22Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6217,
+    "updated_at": "2026-07-09T18:35:33Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Public data structures and system architecture logic for agentic workflows.",
@@ -126,15 +153,6 @@
     "url": "https://github.com/pierreolivierbonin/Canada-Labour-Research-Assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T18:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
     "id": "kyzodb/kyzo",
     "language": "Rust",
@@ -166,8 +184,8 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10841,
-    "updated_at": "2026-07-09T18:07:26Z",
+    "stars": 10842,
+    "updated_at": "2026-07-09T18:42:54Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -275,7 +293,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7834,
-    "updated_at": "2026-07-09T18:27:48Z",
+    "updated_at": "2026-07-09T18:32:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T17:10:04Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6216,
-    "updated_at": "2026-07-09T17:59:24Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:48:40Z",
     "url": "https://github.com/vansharora156/nexus-rag"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:48:36Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
