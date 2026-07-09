@@ -5,8 +5,134 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T18:15:20Z",
+    "updated_at": "2026-07-09T18:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Public data structures and system architecture logic for agentic workflows.",
+    "id": "SingularityHorizon/enterprise-schemas",
+    "language": "\u2014",
+    "name": "SingularityHorizon/enterprise-schemas",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:29:08Z",
+    "url": "https://github.com/SingularityHorizon/enterprise-schemas"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 826,
+    "updated_at": "2026-07-09T18:28:39Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "HTML",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 36,
+    "updated_at": "2026-07-09T18:25:36Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "WSQ courseware and hands-on labs for Building AI Agents for Work Automation (SF): five importable n8n AI-agent workflows",
+    "id": "tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation",
+    "language": "JavaScript",
+    "name": "tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:22:05Z",
+    "url": "https://github.com/tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 10,
+    "updated_at": "2026-07-09T18:22:01Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-09T18:20:59Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:20:04Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:23:00Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "The local-first inspector & retrieval debugger for ChromaDB.",
+    "id": "azhkyaw/chunklens",
+    "language": "TypeScript",
+    "name": "azhkyaw/chunklens",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:18:49Z",
+    "url": "https://github.com/azhkyaw/chunklens"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:18:44Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-09T18:18:37Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "",
+    "id": "cc1a2b/LF-Intelligence",
+    "language": "TypeScript",
+    "name": "cc1a2b/LF-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:18:37Z",
+    "url": "https://github.com/cc1a2b/LF-Intelligence"
+  },
+  {
+    "description": "The Canada Labour Research Assistant (CLaRA) is a privacy-first LLM-powered RAG AI assistant proposing Easily Verifiable",
+    "id": "pierreolivierbonin/Canada-Labour-Research-Assistant",
+    "language": "Python",
+    "name": "pierreolivierbonin/Canada-Labour-Research-Assistant",
+    "stars": 8,
+    "updated_at": "2026-07-09T18:18:03Z",
+    "url": "https://github.com/pierreolivierbonin/Canada-Labour-Research-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
@@ -23,17 +149,8 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 2,
-    "updated_at": "2026-07-09T18:14:24Z",
+    "updated_at": "2026-07-09T18:26:28Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "HTML",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 36,
-    "updated_at": "2026-07-09T18:10:23Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -49,27 +166,9 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10840,
+    "stars": 10841,
     "updated_at": "2026-07-09T18:07:26Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 1,
-    "updated_at": "2026-07-09T18:06:39Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T18:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -81,33 +180,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 10,
-    "updated_at": "2026-07-09T17:59:31Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 90,
-    "updated_at": "2026-07-09T17:58:29Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:57:31Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
     "description": "Self-hosted personal intelligence platform. Aggregates 15+ data sources with RAG-powered insights and autonomous content",
     "id": "JiwaniZakir/aegis",
     "language": "Python",
@@ -115,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T17:57:25Z",
     "url": "https://github.com/JiwaniZakir/aegis"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:56:23Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:56:06Z",
-    "url": "https://github.com/clizardyy/unbody"
   },
   {
     "description": "The holographic core for leOS",
@@ -198,15 +252,6 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "WSQ courseware and hands-on labs for Building AI Agents for Work Automation (SF): five importable n8n AI-agent workflows",
-    "id": "tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation",
-    "language": "JavaScript",
-    "name": "tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:36:53Z",
-    "url": "https://github.com/tertiarycourses/LHUB---Building-AI-Agents-for-Work-Automation"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -230,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7834,
-    "updated_at": "2026-07-09T18:15:17Z",
+    "updated_at": "2026-07-09T18:27:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T17:10:04Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 826,
-    "updated_at": "2026-07-09T18:09:54Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1596,
-    "updated_at": "2026-07-09T16:54:33Z",
+    "updated_at": "2026-07-09T18:19:48Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:48:36Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:48:29Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:48:04Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27420,
-    "updated_at": "2026-07-09T16:46:15Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:43:37Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
