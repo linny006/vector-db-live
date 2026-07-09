@@ -1,11 +1,65 @@
 [
   {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 5,
+    "updated_at": "2026-07-09T17:54:13Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:52:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unofficial Terraform provider for turbopuffer \u2014 manage vector database namespaces, attribute schemas, and pinning declar",
+    "id": "somoore/terraform-provider-tpuf",
+    "language": "Go",
+    "name": "somoore/terraform-provider-tpuf",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:50:41Z",
+    "url": "https://github.com/somoore/terraform-provider-tpuf"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-07-09T17:49:44Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
+    "id": "kossakovsky/n8n-install",
+    "language": "Shell",
+    "name": "kossakovsky/n8n-install",
+    "stars": 896,
+    "updated_at": "2026-07-09T17:49:36Z",
+    "url": "https://github.com/kossakovsky/n8n-install"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A comprehensive, multiprocessing-isolated benchmark for evaluating vector database performance and quality. Measures ins",
     "id": "M4iKZ/Vector-Arena",
     "language": "Python",
     "name": "M4iKZ/Vector-Arena",
     "stars": 1,
-    "updated_at": "2026-07-09T17:43:05Z",
+    "updated_at": "2026-07-09T17:49:49Z",
     "url": "https://github.com/M4iKZ/Vector-Arena"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 291,
     "updated_at": "2026-07-09T17:31:57Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 2,
-    "updated_at": "2026-07-09T17:39:20Z",
+    "updated_at": "2026-07-09T17:51:33Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -337,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27417,
+    "stars": 27418,
     "updated_at": "2026-07-09T16:46:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:38:20Z",
     "url": "https://github.com/cc1a2b/LF-Intelligence"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:36:51Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:36:32Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-07-09T16:36:00Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:33:48Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
