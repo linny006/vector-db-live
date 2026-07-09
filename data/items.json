@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-07-09T18:59:04Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "An Agentic RAG system built on the Model Context Protocol (MCP). Dynamically orchestrates semantic vector context retrie",
+    "id": "HopeyCodeDS/MCP-powered-Agentic-RAG",
+    "language": "Jupyter Notebook",
+    "name": "HopeyCodeDS/MCP-powered-Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:55:13Z",
+    "url": "https://github.com/HopeyCodeDS/MCP-powered-Agentic-RAG"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27423,
+    "updated_at": "2026-07-09T18:55:05Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 1,
+    "updated_at": "2026-07-09T18:56:47Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 826,
+    "updated_at": "2026-07-09T18:49:58Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:49:17Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,17 +86,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6217,
-    "updated_at": "2026-07-09T18:35:33Z",
+    "updated_at": "2026-07-09T18:51:20Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T18:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Public data structures and system architecture logic for agentic workflows.",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T18:29:08Z",
     "url": "https://github.com/SingularityHorizon/enterprise-schemas"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 826,
-    "updated_at": "2026-07-09T18:28:39Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T18:20:04Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 1,
-    "updated_at": "2026-07-09T18:23:00Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "The local-first inspector & retrieval debugger for ChromaDB.",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 2,
-    "updated_at": "2026-07-09T18:26:28Z",
+    "updated_at": "2026-07-09T18:54:23Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T17:50:41Z",
     "url": "https://github.com/somoore/terraform-provider-tpuf"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-07-09T17:49:44Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
     "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
@@ -293,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7834,
-    "updated_at": "2026-07-09T18:32:09Z",
+    "updated_at": "2026-07-09T18:46:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:50:07Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:49:18Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:49:11Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
-    "id": "vansharora156/nexus-rag",
-    "language": "Python",
-    "name": "vansharora156/nexus-rag",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:48:40Z",
-    "url": "https://github.com/vansharora156/nexus-rag"
   }
 ]
