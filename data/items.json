@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 10,
+    "updated_at": "2026-07-09T17:59:31Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10840,
+    "updated_at": "2026-07-09T17:58:42Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-09T17:58:29Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:57:31Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Self-hosted personal intelligence platform. Aggregates 15+ data sources with RAG-powered insights and autonomous content",
+    "id": "JiwaniZakir/aegis",
+    "language": "Python",
+    "name": "JiwaniZakir/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:57:25Z",
+    "url": "https://github.com/JiwaniZakir/aegis"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:56:23Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-09T17:56:06Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:54:47Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The holographic core for leOS",
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T17:52:43Z",
+    "updated_at": "2026-07-09T18:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 896,
     "updated_at": "2026-07-09T17:49:36Z",
     "url": "https://github.com/kossakovsky/n8n-install"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A comprehensive, multiprocessing-isolated benchmark for evaluating vector database performance and quality. Measures ins",
@@ -113,44 +176,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7834,
-    "updated_at": "2026-07-09T17:27:36Z",
+    "updated_at": "2026-07-09T18:00:00Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 90,
-    "updated_at": "2026-07-09T17:26:16Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:25:16Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:23:54Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:23:48Z",
-    "url": "https://github.com/clizardyy/unbody"
   },
   {
     "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6216,
-    "updated_at": "2026-07-09T17:15:13Z",
+    "updated_at": "2026-07-09T17:59:24Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-09T16:39:30Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Agentic AI Portfolio Chatbot An intelligent chatbot that represents me on this portfolio. Built with LLM, RAG via Pineco",
-    "id": "GuptaSandip/sandip-portfolio",
-    "language": "TypeScript",
-    "name": "GuptaSandip/sandip-portfolio",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:38:24Z",
-    "url": "https://github.com/GuptaSandip/sandip-portfolio"
-  },
-  {
-    "description": "A local RAG (Retrieval Augmented Generation) app that allows users to upload documents (PDF, txt or markdown) and ask qu",
-    "id": "NiharikaHari/cosc-ask-your-documents",
-    "language": "Python",
-    "name": "NiharikaHari/cosc-ask-your-documents",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:38:23Z",
-    "url": "https://github.com/NiharikaHari/cosc-ask-your-documents"
-  },
-  {
-    "description": "",
-    "id": "cc1a2b/LF-Intelligence",
-    "language": "TypeScript",
-    "name": "cc1a2b/LF-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:38:20Z",
-    "url": "https://github.com/cc1a2b/LF-Intelligence"
   }
 ]
