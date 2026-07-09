@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-09T15:45:20Z",
+    "updated_at": "2026-07-09T15:47:01Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-07-09T15:43:32Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
     "description": "",
@@ -68,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1010,
-    "updated_at": "2026-07-09T15:36:46Z",
+    "updated_at": "2026-07-09T15:47:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T15:31:53Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T15:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6215,
-    "updated_at": "2026-07-09T15:17:06Z",
+    "updated_at": "2026-07-09T15:46:36Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -247,7 +256,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 14622,
+    "stars": 14623,
     "updated_at": "2026-07-09T15:14:35Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -439,14 +448,5 @@
     "stars": 55,
     "updated_at": "2026-07-09T14:34:35Z",
     "url": "https://github.com/tmasjc/deka-oss"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-07-09T15:43:32Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   }
 ]
