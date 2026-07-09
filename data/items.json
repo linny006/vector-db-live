@@ -1,11 +1,92 @@
 [
   {
+    "description": "AI-powered Enterprise Knowledge Assistant using FastAPI, React, ChromaDB, Sentence Transformers, and Google Gemini with ",
+    "id": "abusufiyan7518/rag-enterprise-knowledge-assistant",
+    "language": "JavaScript",
+    "name": "abusufiyan7518/rag-enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:58:53Z",
+    "url": "https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 81,
+    "updated_at": "2026-07-09T14:54:29Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27405,
+    "updated_at": "2026-07-09T14:53:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 111,
+    "updated_at": "2026-07-09T14:47:30Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 62987,
+    "updated_at": "2026-07-09T14:46:13Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:46:10Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-09T14:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5872,
+    "updated_at": "2026-07-09T14:43:01Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "Vexra \u2014 SQLite for vectors. An embedded vector database. One binary, one file, zero config.",
     "id": "Mengxun326/Vexra",
     "language": "Rust",
     "name": "Mengxun326/Vexra",
     "stars": 1,
-    "updated_at": "2026-07-09T14:42:56Z",
+    "updated_at": "2026-07-09T14:53:00Z",
     "url": "https://github.com/Mengxun326/Vexra"
   },
   {
@@ -18,7 +99,7 @@
     "url": "https://github.com/neerazz/embedguard"
   },
   {
-    "description": "Production-grade AI Forward Deployed Engineer (FDE) platform that integrates an LLM-powered assistant into an existing e",
+    "description": "Production-grade AI Forward Deployed Engineering (FDE) platform that integrates an LLM-powered assistant into an existin",
     "id": "Mohan006007/ai-forward-deployment-platform",
     "language": "\u2014",
     "name": "Mohan006007/ai-forward-deployment-platform",
@@ -31,7 +112,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 6996,
+    "stars": 6997,
     "updated_at": "2026-07-09T14:39:18Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -54,24 +135,6 @@
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T14:25:42Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:22:44Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
@@ -113,7 +167,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6169,
-    "updated_at": "2026-07-09T14:34:16Z",
+    "updated_at": "2026-07-09T14:55:19Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T14:14:36Z",
     "url": "https://github.com/jotalac/rag-app"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27404,
-    "updated_at": "2026-07-09T14:39:07Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33096,
-    "updated_at": "2026-07-09T14:39:10Z",
+    "updated_at": "2026-07-09T14:54:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T13:48:48Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:47:18Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:46:38Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:46:36Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:46:34Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:44:01Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
