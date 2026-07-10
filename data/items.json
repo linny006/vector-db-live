@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-10T12:44:53Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-10T12:42:41Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-10T12:42:29Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:40:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-10T12:36:33Z",
+    "updated_at": "2026-07-10T12:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T12:31:22Z",
     "url": "https://github.com/seferogluemre/personal-assistant-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T11:23:56Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-10T11:23:45Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-10T11:23:30Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:21:33Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
