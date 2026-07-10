@@ -1,11 +1,101 @@
 [
   {
+    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
+    "id": "oceanbase/pyobvector",
+    "language": "Python",
+    "name": "oceanbase/pyobvector",
+    "stars": 19,
+    "updated_at": "2026-07-10T06:58:27Z",
+    "url": "https://github.com/oceanbase/pyobvector"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-10T06:56:28Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27453,
+    "updated_at": "2026-07-10T06:56:22Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "An AI code review system that analyzes code for bugs, security issues",
+    "id": "Danish08654/AI-Code-Reviewer",
+    "language": "Python",
+    "name": "Danish08654/AI-Code-Reviewer",
+    "stars": 2,
+    "updated_at": "2026-07-10T06:53:07Z",
+    "url": "https://github.com/Danish08654/AI-Code-Reviewer"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-10T06:51:43Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1596,
+    "updated_at": "2026-07-10T06:51:36Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1396,
+    "updated_at": "2026-07-10T06:51:12Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A Java SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014supports b",
+    "id": "oceanbase/obvector4j",
+    "language": "Java",
+    "name": "oceanbase/obvector4j",
+    "stars": 2,
+    "updated_at": "2026-07-10T06:50:49Z",
+    "url": "https://github.com/oceanbase/obvector4j"
+  },
+  {
+    "description": "Local-first inspector and retrieval debugger for ChromaDB. Runs entirely on your machine, no telemetry.",
+    "id": "azhkyaw/chunklens",
+    "language": "TypeScript",
+    "name": "azhkyaw/chunklens",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:49:28Z",
+    "url": "https://github.com/azhkyaw/chunklens"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:48:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1012,
-    "updated_at": "2026-07-10T06:48:47Z",
+    "updated_at": "2026-07-10T06:48:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,24 +117,6 @@
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-10T06:45:39Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -52,33 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T06:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27446,
-    "updated_at": "2026-07-10T06:41:15Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-10T06:43:36Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "An AI code review system that analyzes code for bugs, security issues",
-    "id": "Danish08654/AI-Code-Reviewer",
-    "language": "Python",
-    "name": "Danish08654/AI-Code-Reviewer",
-    "stars": 2,
-    "updated_at": "2026-07-10T06:39:07Z",
-    "url": "https://github.com/Danish08654/AI-Code-Reviewer"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -106,15 +151,6 @@
     "stars": 14674,
     "updated_at": "2026-07-10T06:35:31Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Local-first inspector and retrieval debugger for ChromaDB. Runs entirely on your machine, no telemetry.",
-    "id": "azhkyaw/chunklens",
-    "language": "TypeScript",
-    "name": "azhkyaw/chunklens",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:35:23Z",
-    "url": "https://github.com/azhkyaw/chunklens"
   },
   {
     "description": "A vector database that automatically switches from slow-but-accurate search to fast-but-approximate search as your data ",
@@ -324,15 +360,6 @@
     "url": "https://github.com/cornelablastular720/dbdb-index"
   },
   {
-    "description": "A Java SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014supports b",
-    "id": "oceanbase/obvector4j",
-    "language": "Java",
-    "name": "oceanbase/obvector4j",
-    "stars": 2,
-    "updated_at": "2026-07-10T06:00:32Z",
-    "url": "https://github.com/oceanbase/obvector4j"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T05:55:08Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-10T05:54:47Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-10T05:54:21Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-10T05:52:47Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
