@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-10T21:40:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-10T21:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-10T21:39:49Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-10T21:38:50Z",
+    "url": "https://github.com/ribagolx10/crossvector"
   },
   {
     "description": "A Windows-first CLI for bootstrapping, configuring, and managing MemPalace written in Go.",
@@ -14,8 +32,53 @@
     "language": "Go",
     "name": "gsag/mempalace-cli",
     "stars": 0,
-    "updated_at": "2026-07-10T21:29:53Z",
+    "updated_at": "2026-07-10T21:38:40Z",
     "url": "https://github.com/gsag/mempalace-cli"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T21:34:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask legal contracts questions in plain English and get answers with exact source citations and page numbers \u2014 RAG over P",
+    "id": "NifraWahaj/rag-document-intelligence",
+    "language": "JavaScript",
+    "name": "NifraWahaj/rag-document-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-10T21:33:05Z",
+    "url": "https://github.com/NifraWahaj/rag-document-intelligence"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-10T21:31:29Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-10T21:31:10Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-10T21:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
@@ -54,15 +117,6 @@
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-10T21:28:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
     "id": "vansharora156/nexus-rag",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "StarlightSearch/EmbedAnything",
     "stars": 1278,
-    "updated_at": "2026-07-10T21:25:08Z",
+    "updated_at": "2026-07-10T21:34:43Z",
     "url": "https://github.com/StarlightSearch/EmbedAnything"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-10T21:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5895,
-    "updated_at": "2026-07-10T21:02:21Z",
+    "updated_at": "2026-07-10T21:33:21Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33136,
-    "updated_at": "2026-07-10T21:29:16Z",
+    "updated_at": "2026-07-10T21:39:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T20:27:05Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-10T20:26:31Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27544,
-    "updated_at": "2026-07-10T20:26:16Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-10T20:26:09Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-10T20:24:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-10T20:23:53Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
   }
 ]
