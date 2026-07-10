@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:59:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
     "id": "voytas75/brainos",
     "language": "Python",
@@ -106,15 +115,6 @@
     "stars": 63068,
     "updated_at": "2026-07-10T18:46:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
