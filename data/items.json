@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-10T19:15:19Z",
+    "updated_at": "2026-07-10T19:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-07-10T19:29:50Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-10T19:27:34Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "A vector database that automatically switches from slow-but-accurate search to fast-but-approximate search as your data ",
+    "id": "speedyk-005/vinkra",
+    "language": "Python",
+    "name": "speedyk-005/vinkra",
+    "stars": 1,
+    "updated_at": "2026-07-10T19:25:10Z",
+    "url": "https://github.com/speedyk-005/vinkra"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-10T19:23:05Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-07-10T19:22:40Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-10T19:18:37Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-10T19:18:19Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-10T19:17:51Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "A Windows-first CLI for bootstrapping, configuring, and managing MemPalace written in Go.",
+    "id": "gsag/mempalace-cli",
+    "language": "Go",
+    "name": "gsag/mempalace-cli",
+    "stars": 0,
+    "updated_at": "2026-07-10T19:17:04Z",
+    "url": "https://github.com/gsag/mempalace-cli"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-10T19:16:50Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-10T19:16:30Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-10T19:16:13Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-10T19:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
@@ -25,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-07-10T19:12:47Z",
     "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27542,
+    "updated_at": "2026-07-10T19:12:33Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -70,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-10T19:00:40Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 1,
-    "updated_at": "2026-07-10T19:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
@@ -167,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1012,
-    "updated_at": "2026-07-10T19:11:30Z",
+    "updated_at": "2026-07-10T19:20:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -175,7 +292,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63068,
+    "stars": 63069,
     "updated_at": "2026-07-10T18:46:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -248,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33132,
-    "updated_at": "2026-07-10T19:06:49Z",
+    "updated_at": "2026-07-10T19:25:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T18:22:09Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "GalaxDB is designed for AI and ML workloads that need more than a traditional database. Instead of stitching together a ",
-    "id": "zentrix-innovative-labs/galaxdb",
-    "language": "Rust",
-    "name": "zentrix-innovative-labs/galaxdb",
-    "stars": 10,
-    "updated_at": "2026-07-10T18:20:41Z",
-    "url": "https://github.com/zentrix-innovative-labs/galaxdb"
-  },
-  {
-    "description": "A Temporal-Causal GraphRAG architecture for Advanced Persistent Threat (APT) Next-TTP prediction using actor-aware knowl",
-    "id": "YEsh-DEV/Next-TTP-Prediction",
-    "language": "Python",
-    "name": "YEsh-DEV/Next-TTP-Prediction",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:20:28Z",
-    "url": "https://github.com/YEsh-DEV/Next-TTP-Prediction"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 417,
-    "updated_at": "2026-07-10T18:16:09Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:15:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
-    "id": "abhijitdeshpande83/RAGen",
-    "language": "HTML",
-    "name": "abhijitdeshpande83/RAGen",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:13:54Z",
-    "url": "https://github.com/abhijitdeshpande83/RAGen"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 298,
-    "updated_at": "2026-07-10T18:12:25Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16556,
-    "updated_at": "2026-07-10T18:53:56Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Lightweight, single-file vector database for experiments and small projects.",
-    "id": "chataize/semantic-index",
-    "language": "C#",
-    "name": "chataize/semantic-index",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:04:33Z",
-    "url": "https://github.com/chataize/semantic-index"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-10T18:02:52Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6169,
-    "updated_at": "2026-07-10T18:47:38Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 20,
-    "updated_at": "2026-07-10T18:03:11Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 15,
-    "updated_at": "2026-07-10T17:48:27Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "AI/GenAI engineering portfolio (.NET, C#): RAG, agentic AI workflows, LLM integration, vector search, and prompt enginee",
-    "id": "meghanan266/AI-Engineering-Projects",
-    "language": "C#",
-    "name": "meghanan266/AI-Engineering-Projects",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:45:41Z",
-    "url": "https://github.com/meghanan266/AI-Engineering-Projects"
   }
 ]
