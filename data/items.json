@@ -1,12 +1,75 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
+    "id": "StarlightSearch/EmbedAnything",
+    "language": "Rust",
+    "name": "StarlightSearch/EmbedAnything",
+    "stars": 1278,
+    "updated_at": "2026-07-10T17:28:22Z",
+    "url": "https://github.com/StarlightSearch/EmbedAnything"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:24:21Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1012,
+    "updated_at": "2026-07-10T17:22:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:22:23Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
+    "id": "vansharora156/nexus-rag",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-10T17:16:38Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "vansharora156/nexus-rag",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:21:39Z",
+    "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:20:20Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:19:44Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:18:20Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 0,
-    "updated_at": "2026-07-10T17:15:23Z",
+    "updated_at": "2026-07-10T17:17:50Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T17:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -306,15 +378,6 @@
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   },
   {
-    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
-    "id": "StarlightSearch/EmbedAnything",
-    "language": "Rust",
-    "name": "StarlightSearch/EmbedAnything",
-    "stars": 1278,
-    "updated_at": "2026-07-10T16:53:27Z",
-    "url": "https://github.com/StarlightSearch/EmbedAnything"
-  },
-  {
     "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
     "id": "decided-indication109/AI-Engineer-in-90-Days",
     "language": "Mermaid",
@@ -346,7 +409,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63058,
+    "stars": 63059,
     "updated_at": "2026-07-10T16:52:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T16:47:20Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1012,
-    "updated_at": "2026-07-10T17:17:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-10T16:44:30Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-10T16:43:10Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:40:47Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-10T16:40:28Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-10T16:38:13Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "RAG Pipeline for the LPA MTech project using BERT model+Chroma DB & Streamlit for embedding and retrieval alognside Gemi",
-    "id": "RehanFargose/LPA_Pipeline",
-    "language": "Jupyter Notebook",
-    "name": "RehanFargose/LPA_Pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:37:39Z",
-    "url": "https://github.com/RehanFargose/LPA_Pipeline"
   }
 ]
