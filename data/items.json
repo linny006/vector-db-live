@@ -1,5 +1,23 @@
 [
   {
+    "description": "RAG ingestion pipeline: mixed-file loading, per-type chunking (measured vs fixed-window), FAISS + Pinecone behind one in",
+    "id": "foundry-ai-dev/vector-pipeline-kit",
+    "language": "Python",
+    "name": "foundry-ai-dev/vector-pipeline-kit",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:08:29Z",
+    "url": "https://github.com/foundry-ai-dev/vector-pipeline-kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-10T23:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -52,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-10T22:53:17Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 63080,
+    "updated_at": "2026-07-10T22:51:48Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -130,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27550,
+    "stars": 27551,
     "updated_at": "2026-07-10T22:45:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T22:45:31Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-10T22:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -214,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-10T22:42:44Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63078,
-    "updated_at": "2026-07-10T22:51:48Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T22:19:50Z",
     "url": "https://github.com/gsag/mempalace-cli"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:18:15Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
