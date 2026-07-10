@@ -1,5 +1,59 @@
 [
   {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:36:25Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "This is a MCP service for generating and maintaing a private knowledge base using RAG",
+    "id": "MrLuciano/kb-rag-mcp",
+    "language": "Python",
+    "name": "MrLuciano/kb-rag-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-10T20:36:04Z",
+    "url": "https://github.com/MrLuciano/kb-rag-mcp"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:34:33Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:32:33Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:30:38Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-10T20:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -61,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-07-10T20:23:53Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "AWS three-tier architecture provisioned with Terraform, running a containerized Go RAG microservice that returns grounde",
+    "id": "Go-Santiago-Go/go-rag-api",
+    "language": "Go",
+    "name": "Go-Santiago-Go/go-rag-api",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:23:11Z",
+    "url": "https://github.com/Go-Santiago-Go/go-rag-api"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -207,15 +270,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-10T20:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
     "id": "kyzodb/kyzo",
     "language": "Rust",
@@ -250,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-07-10T20:12:46Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33136,
+    "updated_at": "2026-07-10T20:11:45Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 5896,
-    "updated_at": "2026-07-10T20:06:52Z",
+    "updated_at": "2026-07-10T20:38:19Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-10T19:56:34Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Knowledge base and portfolio for Oracle Database Engineering, Artificial Intelligence, Data Engineering, automation, clo",
-    "id": "douglasmitsue/oracle-ai-database-engineer",
-    "language": "\u2014",
-    "name": "douglasmitsue/oracle-ai-database-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-10T19:54:19Z",
-    "url": "https://github.com/douglasmitsue/oracle-ai-database-engineer"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10855,
-    "updated_at": "2026-07-10T19:54:16Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-10T19:54:10Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-10T19:53:50Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-10T19:51:17Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 298,
-    "updated_at": "2026-07-10T19:50:04Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 2,
-    "updated_at": "2026-07-10T19:49:53Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
