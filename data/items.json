@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-10T23:38:13Z",
+    "updated_at": "2026-07-10T23:45:16Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered job matching for UK graduates who need visa sponsorship. Cross-references live job postings against the Home ",
+    "id": "adilh333/Sponsor-Radar",
+    "language": "Python",
+    "name": "adilh333/Sponsor-Radar",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:44:40Z",
+    "url": "https://github.com/adilh333/Sponsor-Radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-10T23:42:58Z",
+    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-10T23:30:24Z",
+    "updated_at": "2026-07-10T23:39:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 1858,
     "updated_at": "2026-07-10T23:23:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI-powered job matching for UK graduates who need visa sponsorship. Cross-references live job postings against the Home ",
-    "id": "adilh333/Sponsor-Radar",
-    "language": "Python",
-    "name": "adilh333/Sponsor-Radar",
-    "stars": 0,
-    "updated_at": "2026-07-10T23:23:28Z",
-    "url": "https://github.com/adilh333/Sponsor-Radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -439,14 +448,5 @@
     "stars": 33137,
     "updated_at": "2026-07-10T22:26:05Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-10T22:24:23Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
