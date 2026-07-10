@@ -1,5 +1,122 @@
 [
   {
+    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
+    "id": "voytas75/brainos",
+    "language": "Python",
+    "name": "voytas75/brainos",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:59:12Z",
+    "url": "https://github.com/voytas75/brainos"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1858,
+    "updated_at": "2026-07-10T18:58:23Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T18:58:03Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:56:43Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:55:38Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-10T18:55:20Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-10T18:53:16Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:48:58Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:48:17Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-10T18:47:59Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1012,
+    "updated_at": "2026-07-10T18:47:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 63068,
+    "updated_at": "2026-07-10T18:46:41Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -63,13 +180,13 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63068,
-    "updated_at": "2026-07-10T18:40:17Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33132,
+    "updated_at": "2026-07-10T18:57:20Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
@@ -88,24 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-10T18:30:48Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-10T18:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -180,15 +279,6 @@
     "url": "https://github.com/zentrix-innovative-labs/galaxdb"
   },
   {
-    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
-    "id": "voytas75/brainos",
-    "language": "Python",
-    "name": "voytas75/brainos",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:20:29Z",
-    "url": "https://github.com/voytas75/brainos"
-  },
-  {
     "description": "A Temporal-Causal GraphRAG architecture for Advanced Persistent Threat (APT) Next-TTP prediction using actor-aware knowl",
     "id": "YEsh-DEV/Next-TTP-Prediction",
     "language": "Python",
@@ -216,15 +306,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33131,
-    "updated_at": "2026-07-10T18:34:56Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
     "id": "abhijitdeshpande83/RAGen",
     "language": "HTML",
@@ -248,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16556,
-    "updated_at": "2026-07-10T18:42:16Z",
+    "updated_at": "2026-07-10T18:53:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -284,7 +365,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6169,
-    "updated_at": "2026-07-10T17:50:21Z",
+    "updated_at": "2026-07-10T18:47:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -313,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T17:45:41Z",
     "url": "https://github.com/meghanan266/AI-Engineering-Projects"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1012,
-    "updated_at": "2026-07-10T17:36:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T17:18:20Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:14:45Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:14:10Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-10T17:13:44Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-10T17:11:16Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-07-10T17:10:13Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:10:07Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-07-10T17:09:55Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:09:28Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
