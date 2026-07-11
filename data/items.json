@@ -1,12 +1,30 @@
 [
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 43,
-    "updated_at": "2026-07-11T09:59:58Z",
-    "url": "https://github.com/infino-ai/infino"
+    "description": "Benchmark harness for RAG retrieval backends: same corpus, same queries, same metrics \u2014 swap the database.",
+    "id": "kenimo49/rag-retriever-bench",
+    "language": "Python",
+    "name": "kenimo49/rag-retriever-bench",
+    "stars": 0,
+    "updated_at": "2026-07-11T10:01:09Z",
+    "url": "https://github.com/kenimo49/rag-retriever-bench"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-11T10:00:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T10:00:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -16,6 +34,15 @@
     "stars": 2,
     "updated_at": "2026-07-11T10:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 43,
+    "updated_at": "2026-07-11T09:59:58Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -45,15 +72,6 @@
     "url": "https://github.com/voytas75/brainos"
   },
   {
-    "description": "Benchmark harness for RAG retrieval backends: same corpus, same queries, same metrics \u2014 swap the database.",
-    "id": "kenimo49/rag-retriever-bench",
-    "language": "Python",
-    "name": "kenimo49/rag-retriever-bench",
-    "stars": 0,
-    "updated_at": "2026-07-11T09:50:57Z",
-    "url": "https://github.com/kenimo49/rag-retriever-bench"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T09:53:49Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T09:45:19Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise Agentic KMS \u2014 an AI-powered orchestrator that classifies queries, retrieves policy documents, synthesizes gro",
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T09:03:46Z",
     "url": "https://github.com/MandarGavali/SecondBrain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-11T09:03:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
