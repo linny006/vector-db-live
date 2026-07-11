@@ -1,5 +1,41 @@
 [
   {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:13:45Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "AWS three-tier architecture provisioned with Terraform, running a containerized Go RAG microservice that returns grounde",
+    "id": "Go-Santiago-Go/go-rag-api",
+    "language": "Go",
+    "name": "Go-Santiago-Go/go-rag-api",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:13:27Z",
+    "url": "https://github.com/Go-Santiago-Go/go-rag-api"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:12:03Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T20:10:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T20:01:23Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T20:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "pinecone-io/python-sdk",
     "stars": 446,
-    "updated_at": "2026-07-11T19:57:27Z",
+    "updated_at": "2026-07-11T20:14:04Z",
     "url": "https://github.com/pinecone-io/python-sdk"
   },
   {
@@ -268,6 +295,15 @@
     "stars": 68,
     "updated_at": "2026-07-11T20:06:02Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27579,
+    "updated_at": "2026-07-11T19:51:01Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -405,15 +441,6 @@
     "url": "https://github.com/hadiaamir0/ResearchNavigator-AI"
   },
   {
-    "description": "AWS three-tier architecture provisioned with Terraform, running a containerized Go RAG microservice that returns grounde",
-    "id": "Go-Santiago-Go/go-rag-api",
-    "language": "Go",
-    "name": "Go-Santiago-Go/go-rag-api",
-    "stars": 0,
-    "updated_at": "2026-07-11T19:40:12Z",
-    "url": "https://github.com/Go-Santiago-Go/go-rag-api"
-  },
-  {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
     "id": "younismahmoud1234/gitsage",
     "language": "Java",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T19:38:10Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-11T19:35:35Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Agentic RAG for ophthalmology: retinal disease insights grounded in global clinical guidelines and evidence based retrie",
-    "id": "hemant-kothari/Agentic-RAG-for-Ophthalmology",
-    "language": "Python",
-    "name": "hemant-kothari/Agentic-RAG-for-Ophthalmology",
-    "stars": 0,
-    "updated_at": "2026-07-11T19:34:35Z",
-    "url": "https://github.com/hemant-kothari/Agentic-RAG-for-Ophthalmology"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-11T19:34:18Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
