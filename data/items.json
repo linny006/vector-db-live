@@ -1,5 +1,77 @@
 [
   {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:25:51Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:23:53Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "AI-powered hotel front desk assistant with n8n automation, chat widget UI, and hotel data retrieval for rooms, rates, am",
+    "id": "kamrankhanorakzai/hospitality-rag-agent",
+    "language": "HTML",
+    "name": "kamrankhanorakzai/hospitality-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:23:02Z",
+    "url": "https://github.com/kamrankhanorakzai/hospitality-rag-agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-11T17:21:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1013,
+    "updated_at": "2026-07-11T17:21:40Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:20:53Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T17:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-11T17:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
     "id": "SunMe1977/HermesClawZero-ConfigSidecar",
     "language": "Python",
@@ -14,17 +86,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-11T17:14:28Z",
+    "updated_at": "2026-07-11T17:15:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1013,
-    "updated_at": "2026-07-11T17:10:16Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27573,
-    "updated_at": "2026-07-11T17:13:19Z",
+    "updated_at": "2026-07-11T17:26:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "nubster-opensources/eidosdb",
     "stars": 0,
-    "updated_at": "2026-07-11T17:07:56Z",
+    "updated_at": "2026-07-11T17:21:58Z",
     "url": "https://github.com/nubster-opensources/eidosdb"
   },
   {
@@ -88,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T17:01:42Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -270,15 +315,6 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-11T16:47:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
     "id": "Ac3v3d0/semafold",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 417,
     "updated_at": "2026-07-11T17:09:10Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-07-11T17:07:55Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:33:53Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-11T16:33:38Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:33:33Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
