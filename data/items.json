@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-11T12:15:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The embedded database for local-first JavaScript apps.",
+    "id": "thinkgrid-labs/taladb",
+    "language": "Rust",
+    "name": "thinkgrid-labs/taladb",
+    "stars": 4,
+    "updated_at": "2026-07-11T12:13:33Z",
+    "url": "https://github.com/thinkgrid-labs/taladb"
+  },
+  {
+    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
+    "id": "seferogluemre/personal-assistant-platform",
+    "language": "TypeScript",
+    "name": "seferogluemre/personal-assistant-platform",
+    "stars": 0,
+    "updated_at": "2026-07-11T12:13:12Z",
+    "url": "https://github.com/seferogluemre/personal-assistant-platform"
+  },
+  {
+    "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
+    "id": "skegdb/skeg",
+    "language": "Rust",
+    "name": "skegdb/skeg",
+    "stars": 27,
+    "updated_at": "2026-07-11T12:13:01Z",
+    "url": "https://github.com/skegdb/skeg"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T12:12:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -36,15 +81,6 @@
     "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-11T12:04:58Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Developed an end-to-end RAG application using Python, ChromaDB, sentence-transformers, Streamlit, and Gemini API to answ",
     "id": "Rahul9672/AgroRAG",
     "language": "Python",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Rahul9672/AgroRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -70,15 +97,6 @@
     "stars": 2186,
     "updated_at": "2026-07-11T11:59:35Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
-    "id": "skegdb/skeg",
-    "language": "Rust",
-    "name": "skegdb/skeg",
-    "stars": 27,
-    "updated_at": "2026-07-11T12:06:40Z",
-    "url": "https://github.com/skegdb/skeg"
   },
   {
     "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T10:44:21Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-11T10:44:12Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-11T10:44:02Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
