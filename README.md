@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 08:28 UTC
+> ⏰ Last updated: 2026-07-11 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-11 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
-| 3 | [Edublackk/self-correcting-rag-chatbot](https://github.com/Edublackk/self-correcting-rag-chatbot) | 3 | — | 2026-07-11 | 🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo |
-| 4 | [MandarGavali/SecondBrain](https://github.com/MandarGavali/SecondBrain) | 0 | Python | 2026-07-11 | Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker. |
-| 5 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 1 | HTML | 2026-07-11 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
-| 6 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-07-11 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 7 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-07-11 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
-| 8 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-07-11 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
-| 9 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-07-11 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
-| 10 | [thinkgrid-labs/taladb](https://github.com/thinkgrid-labs/taladb) | 4 | Rust | 2026-07-11 | The embedded database for local-first JavaScript apps. |
-| 11 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-07-11 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
-| 12 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 2 | Rust | 2026-07-11 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 13 | [carlwelchdesign/supraconscious-avatar-ai](https://github.com/carlwelchdesign/supraconscious-avatar-ai) | 0 | TypeScript | 2026-07-11 | Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure |
-| 14 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [MandarGavali/SecondBrain](https://github.com/MandarGavali/SecondBrain) | 0 | Python | 2026-07-11 | Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-11 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 5 | [Edublackk/self-correcting-rag-chatbot](https://github.com/Edublackk/self-correcting-rag-chatbot) | 3 | — | 2026-07-11 | 🤖 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo |
+| 6 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 1 | HTML | 2026-07-11 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
+| 7 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-07-11 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 8 | [leitoooatr/PythonVectorDB](https://github.com/leitoooatr/PythonVectorDB) | 1 | Python | 2026-07-11 | 🗄️ Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization |
+| 9 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 2 | Python | 2026-07-11 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
+| 10 | [Jeroflo88/Self-Corrective-RAG](https://github.com/Jeroflo88/Self-Corrective-RAG) | 0 | Python | 2026-07-11 | 🔍 Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using |
+| 11 | [thinkgrid-labs/taladb](https://github.com/thinkgrid-labs/taladb) | 4 | Rust | 2026-07-11 | The embedded database for local-first JavaScript apps. |
+| 12 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-07-11 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
+| 13 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 2 | Rust | 2026-07-11 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
+| 14 | [carlwelchdesign/supraconscious-avatar-ai](https://github.com/carlwelchdesign/supraconscious-avatar-ai) | 0 | TypeScript | 2026-07-11 | Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure |
 | 15 | [juliusadroit905/RAG-vs-Fine-Tuning](https://github.com/juliusadroit905/RAG-vs-Fine-Tuning) | 1 | — | 2026-07-11 |  |
 | 16 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-07-11 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
 | 17 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |

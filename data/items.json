@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-11T08:27:08Z",
+    "updated_at": "2026-07-11T08:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker.",
+    "id": "MandarGavali/SecondBrain",
+    "language": "Python",
+    "name": "MandarGavali/SecondBrain",
+    "stars": 0,
+    "updated_at": "2026-07-11T08:29:40Z",
+    "url": "https://github.com/MandarGavali/SecondBrain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T08:28:18Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
@@ -25,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T08:26:06Z",
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker.",
-    "id": "MandarGavali/SecondBrain",
-    "language": "Python",
-    "name": "MandarGavali/SecondBrain",
-    "stars": 0,
-    "updated_at": "2026-07-11T08:25:44Z",
-    "url": "https://github.com/MandarGavali/SecondBrain"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -113,17 +122,8 @@
     "language": "TypeScript",
     "name": "carlwelchdesign/supraconscious-avatar-ai",
     "stars": 0,
-    "updated_at": "2026-07-11T08:23:32Z",
+    "updated_at": "2026-07-11T08:29:32Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T08:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
