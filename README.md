@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 05:15 UTC
+> ⏰ Last updated: 2026-07-12 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-12 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-12 |  |
-| 4 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 5 | Python | 2026-07-12 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 5 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45198 | Go | 2026-07-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 6 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-12 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 5 | Python | 2026-07-12 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-12 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 5 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-12 |  |
+| 6 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45198 | Go | 2026-07-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 7 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-12 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 8 | [Ishu070303/askmydocs](https://github.com/Ishu070303/askmydocs) | 0 | TypeScript | 2026-07-12 |  |
 | 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 10 | [bankyresearch/duxxdb](https://github.com/bankyresearch/duxxdb) | 0 | Rust | 2026-07-12 | The database built for AI agents - hybrid vector + BM25 + structured, durable, with RESP / MCP / gRPC servers. Apache 2. |
