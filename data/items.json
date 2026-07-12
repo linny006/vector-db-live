@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-12T00:15:19Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-12T00:15:16Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
+    "id": "kyzodb/kyzo",
+    "language": "Rust",
+    "name": "kyzodb/kyzo",
+    "stars": 0,
+    "updated_at": "2026-07-12T00:14:22Z",
+    "url": "https://github.com/kyzodb/kyzo"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1013,
+    "updated_at": "2026-07-12T00:11:37Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T00:10:48Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-07-12T00:04:06Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -162,15 +198,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1013,
-    "updated_at": "2026-07-11T23:50:57Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-11T23:35:47Z",
     "url": "https://github.com/os-tack/ostk-recall"
-  },
-  {
-    "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
-    "id": "kyzodb/kyzo",
-    "language": "Rust",
-    "name": "kyzodb/kyzo",
-    "stars": 0,
-    "updated_at": "2026-07-11T23:35:42Z",
-    "url": "https://github.com/kyzodb/kyzo"
   },
   {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T22:27:03Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-07-11T22:26:36Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-11T22:26:17Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
