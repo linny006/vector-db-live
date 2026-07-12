@@ -1,11 +1,155 @@
 [
   {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:59:58Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:58:08Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:57:24Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:57:24Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:57:14Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "A hardened, memory-augmented AI assistant living on the edge - streaming chat, RAG knowledge, persistent memory, and bat",
+    "id": "tusharbeckham/alfred-ai",
+    "language": "JavaScript",
+    "name": "tusharbeckham/alfred-ai",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:55:08Z",
+    "url": "https://github.com/tusharbeckham/alfred-ai"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:54:56Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
+    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "language": "Python",
+    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:53:41Z",
+    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-12T12:53:06Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-12T12:50:40Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
+    "id": "geckse/markdown-vdb",
+    "language": "Rust",
+    "name": "geckse/markdown-vdb",
+    "stars": 15,
+    "updated_at": "2026-07-12T12:49:51Z",
+    "url": "https://github.com/geckse/markdown-vdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-12T12:48:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-12T12:48:34Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:48:00Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
+    "id": "kirankumarjmeshram/Generative-AI",
+    "language": "Python",
+    "name": "kirankumarjmeshram/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-07-12T12:47:09Z",
+    "url": "https://github.com/kirankumarjmeshram/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T12:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-12T12:45:21Z",
+    "updated_at": "2026-07-12T13:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-12T12:43:46Z",
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "A hardened, memory-augmented AI assistant on Cloudflare's edge - streaming chat, RAG knowledge base, KV memory, abuse-re",
-    "id": "tusharbeckham/alfred-ai",
-    "language": "JavaScript",
-    "name": "tusharbeckham/alfred-ai",
-    "stars": 0,
-    "updated_at": "2026-07-12T12:43:38Z",
-    "url": "https://github.com/tusharbeckham/alfred-ai"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -79,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T12:39:02Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T12:38:00Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
@@ -178,24 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T12:20:32Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:19:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
-    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "language": "Python",
-    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "stars": 0,
-    "updated_at": "2026-07-12T12:18:51Z",
-    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
   },
   {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
@@ -324,13 +432,13 @@
     "url": "https://github.com/memo-fs/memofs"
   },
   {
-    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
-    "id": "geckse/markdown-vdb",
-    "language": "Rust",
-    "name": "geckse/markdown-vdb",
-    "stars": 15,
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "C",
+    "name": "RediSearch/RediSearch",
+    "stars": 6170,
     "updated_at": "2026-07-12T12:01:26Z",
-    "url": "https://github.com/geckse/markdown-vdb"
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T11:58:24Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 11,
-    "updated_at": "2026-07-12T11:57:07Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-12T11:56:10Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 90,
-    "updated_at": "2026-07-12T11:55:59Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-12T11:55:06Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-12T11:53:49Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-12T11:53:39Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-07-12T11:49:48Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "Provider-agnostic RAG-based SOP Validation Agent using FastAPI, Qdrant, Sentence Transformers, and multiple LLMs (Groq, ",
-    "id": "varunvijayababu/sop-validation-agent",
-    "language": "Python",
-    "name": "varunvijayababu/sop-validation-agent",
-    "stars": 0,
-    "updated_at": "2026-07-12T11:49:47Z",
-    "url": "https://github.com/varunvijayababu/sop-validation-agent"
-  },
-  {
-    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
-    "id": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "language": "\u2014",
-    "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "stars": 0,
-    "updated_at": "2026-07-12T11:49:19Z",
-    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-12T11:42:46Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12578,
-    "updated_at": "2026-07-12T11:30:40Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
-    "updated_at": "2026-07-12T11:16:42Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
   }
 ]
