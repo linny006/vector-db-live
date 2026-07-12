@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1858,
+    "updated_at": "2026-07-12T01:53:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:53:13Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:53:00Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:51:12Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:48:44Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:46:21Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-12T01:53:21Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:45:48Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T01:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-12T01:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source cloud-native vector database.",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-07-12T01:45:18Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -198,24 +297,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T01:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-12T01:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T01:17:10Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-12T01:16:51Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-12T01:39:42Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-12T01:12:23Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-12T01:15:31Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1013,
-    "updated_at": "2026-07-12T01:10:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-12T01:09:39Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-12T01:08:20Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-12T01:06:02Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-12T01:05:48Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
