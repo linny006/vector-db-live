@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-12T14:13:22Z",
+    "updated_at": "2026-07-12T14:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "memo-fs/memofs",
     "stars": 1,
-    "updated_at": "2026-07-12T14:07:01Z",
+    "updated_at": "2026-07-12T14:14:22Z",
     "url": "https://github.com/memo-fs/memofs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:14:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T14:03:32Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T14:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vexra \u2014 SQLite for vectors. An embedded vector database. One binary, one file, zero config.",
