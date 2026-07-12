@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-12T14:00:19Z",
+    "updated_at": "2026-07-12T14:13:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
+    "id": "memo-fs/memofs",
+    "language": "TypeScript",
+    "name": "memo-fs/memofs",
+    "stars": 1,
+    "updated_at": "2026-07-12T14:07:01Z",
+    "url": "https://github.com/memo-fs/memofs"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -14,8 +23,26 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-12T13:58:48Z",
+    "updated_at": "2026-07-12T14:06:44Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:03:32Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vexra \u2014 SQLite for vectors. An embedded vector database. One binary, one file, zero config.",
@@ -43,15 +70,6 @@
     "stars": 278,
     "updated_at": "2026-07-12T13:48:38Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T13:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -90,6 +108,15 @@
     "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
   },
   {
+    "description": "The embedded database for local-first JavaScript apps.",
+    "id": "thinkgrid-labs/taladb",
+    "language": "Rust",
+    "name": "thinkgrid-labs/taladb",
+    "stars": 4,
+    "updated_at": "2026-07-12T13:38:11Z",
+    "url": "https://github.com/thinkgrid-labs/taladb"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -108,21 +135,12 @@
     "url": "https://github.com/Kimosabey/neuro-vault"
   },
   {
-    "description": "The embedded database for local-first JavaScript apps.",
-    "id": "thinkgrid-labs/taladb",
-    "language": "Rust",
-    "name": "thinkgrid-labs/taladb",
-    "stars": 4,
-    "updated_at": "2026-07-12T13:38:11Z",
-    "url": "https://github.com/thinkgrid-labs/taladb"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-12T13:29:43Z",
+    "updated_at": "2026-07-12T14:12:56Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T12:43:55Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-07-12T12:43:46Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:42:50Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
