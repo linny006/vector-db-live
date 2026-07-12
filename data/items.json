@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "Ishu070303/askmydocs",
+    "language": "TypeScript",
+    "name": "Ishu070303/askmydocs",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:55:42Z",
+    "url": "https://github.com/Ishu070303/askmydocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "kyzodb/kyzo",
     "stars": 0,
-    "updated_at": "2026-07-12T04:35:10Z",
+    "updated_at": "2026-07-12T04:49:18Z",
     "url": "https://github.com/kyzodb/kyzo"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T04:39:18Z",
     "url": "https://github.com/suresh-vutukuri/ai-agent-portfolio"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T04:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T03:55:45Z",
     "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-12T03:54:21Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
