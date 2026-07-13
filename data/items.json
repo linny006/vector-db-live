@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-13T18:58:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-13T18:58:17Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T18:58:03Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -81,15 +108,6 @@
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T18:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
     "id": "ermermermermidk/mcp-ai-memory",
     "language": "TypeScript",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-13T18:45:18Z",
+    "updated_at": "2026-07-13T19:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -139,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27754,
+    "stars": 27755,
     "updated_at": "2026-07-13T18:39:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -315,15 +333,6 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-13T18:08:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "API and integration profile for Aerospike.",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-13T18:52:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
-    "id": "mayankanup/commerce-ai-platform",
-    "language": "Go",
-    "name": "mayankanup/commerce-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:40:13Z",
-    "url": "https://github.com/mayankanup/commerce-ai-platform"
   }
 ]
