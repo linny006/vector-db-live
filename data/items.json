@@ -1,5 +1,122 @@
 [
   {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-07-13T19:14:33Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
+    "id": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
+    "language": "Python",
+    "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:14:23Z",
+    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 83,
+    "updated_at": "2026-07-13T19:12:47Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:09:44Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-13T19:09:23Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:05:31Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-13T19:05:29Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-13T19:02:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The database built for AI agents - hybrid vector + BM25 + structured, durable, with RESP / MCP / gRPC servers. Apache 2.",
+    "id": "bankyresearch/duxxdb",
+    "language": "Rust",
+    "name": "bankyresearch/duxxdb",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:01:21Z",
+    "url": "https://github.com/bankyresearch/duxxdb"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:00:26Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T19:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T19:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-13T19:00:12Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -16,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-07-13T18:58:17Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T18:58:03Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -117,15 +225,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-13T19:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -157,7 +256,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27755,
+    "stars": 27756,
     "updated_at": "2026-07-13T18:39:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -223,24 +322,6 @@
     "stars": 1898,
     "updated_at": "2026-07-13T18:32:23Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "The database built for AI agents - hybrid vector + BM25 + structured, durable, with RESP / MCP / gRPC servers. Apache 2.",
-    "id": "bankyresearch/duxxdb",
-    "language": "Rust",
-    "name": "bankyresearch/duxxdb",
-    "stars": 1,
-    "updated_at": "2026-07-13T18:29:39Z",
-    "url": "https://github.com/bankyresearch/duxxdb"
-  },
-  {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 27,
-    "updated_at": "2026-07-13T18:45:24Z",
-    "url": "https://github.com/hivellm/vectorizer"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T18:01:52Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
-    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "language": "Python",
-    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "stars": 1,
-    "updated_at": "2026-07-13T18:01:31Z",
-    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
-  },
-  {
-    "description": "A vector database that automatically switches from slow-but-accurate search to fast-but-approximate search as your data ",
-    "id": "speedyk-005/vinkra",
-    "language": "Python",
-    "name": "speedyk-005/vinkra",
-    "stars": 1,
-    "updated_at": "2026-07-13T18:00:15Z",
-    "url": "https://github.com/speedyk-005/vinkra"
-  },
-  {
-    "description": "Open-source big-data serving engine for search and recommendations.",
-    "id": "api-evangelist/vespa",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:58:26Z",
-    "url": "https://github.com/api-evangelist/vespa"
-  },
-  {
-    "description": "SurrealDB APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:56:45Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "API and integration profile for Azure Cosmos DB.",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:55:36Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
-    "id": "amcaaron/rag-document-assistant",
-    "language": "JavaScript",
-    "name": "amcaaron/rag-document-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:54:55Z",
-    "url": "https://github.com/amcaaron/rag-document-assistant"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-07-13T17:51:42Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1859,
-    "updated_at": "2026-07-13T17:48:18Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-13T18:52:11Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
