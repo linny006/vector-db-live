@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open-source cloud-native vector database.",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:14:31Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Vector search engine with end-to-end embedding and reranking.",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:14:04Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:13:06Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-07-13T18:13:04Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "The database built for AI agents - hybrid vector + BM25 + structured, durable, with RESP / MCP / gRPC servers. Apache 2.",
+    "id": "bankyresearch/duxxdb",
+    "language": "Rust",
+    "name": "bankyresearch/duxxdb",
+    "stars": 1,
+    "updated_at": "2026-07-13T18:12:11Z",
+    "url": "https://github.com/bankyresearch/duxxdb"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:09:54Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-13T18:09:17Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-13T18:08:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "API and integration profile for Aerospike.",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:07:26Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:07:25Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-13T18:05:13Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "MVP d'un assistant RAG de recommandation d'\u00e9v\u00e9nements culturels (OpenAgenda). Architecture scalable : Qdrant Cloud, API ",
+    "id": "Dudukun1871/ocr-projet13-rag-mvp",
+    "language": "Python",
+    "name": "Dudukun1871/ocr-projet13-rag-mvp",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:02:23Z",
+    "url": "https://github.com/Dudukun1871/ocr-projet13-rag-mvp"
+  },
+  {
+    "description": "API Evangelist profile of Vespa \u2014 AI search engine and vector database",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:01:52Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
+    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "language": "Python",
+    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "stars": 1,
+    "updated_at": "2026-07-13T18:01:31Z",
+    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T18:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +153,6 @@
     "url": "https://github.com/speedyk-005/vinkra"
   },
   {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-13T17:59:32Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Open-source big-data serving engine for search and recommendations.",
     "id": "api-evangelist/vespa",
     "language": "\u2014",
@@ -36,15 +162,6 @@
     "url": "https://github.com/api-evangelist/vespa"
   },
   {
-    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
-    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "language": "Python",
-    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:57:45Z",
-    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
-  },
-  {
     "description": "SurrealDB APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -52,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T17:56:45Z",
     "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-13T17:55:42Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "API and integration profile for Azure Cosmos DB.",
@@ -81,6 +189,15 @@
     "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33237,
+    "updated_at": "2026-07-13T18:09:55Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
     "id": "is-leeroy-jenkins/Boo",
     "language": "Jupyter Notebook",
@@ -88,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-13T17:51:42Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "The database built for AI agents - hybrid vector + BM25 + structured, durable, with RESP / MCP / gRPC servers. Apache 2.",
-    "id": "bankyresearch/duxxdb",
-    "language": "Rust",
-    "name": "bankyresearch/duxxdb",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:49:51Z",
-    "url": "https://github.com/bankyresearch/duxxdb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -108,21 +216,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-13T17:53:03Z",
+    "updated_at": "2026-07-13T18:06:02Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -133,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-07-13T17:40:13Z",
     "url": "https://github.com/mayankanup/commerce-ai-platform"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6239,
+    "updated_at": "2026-07-13T17:36:26Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -252,15 +360,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:15:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T17:10:58Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 96,
-    "updated_at": "2026-07-13T17:18:43Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-13T17:10:19Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:09:13Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:08:44Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:08:16Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63230,
-    "updated_at": "2026-07-13T17:07:18Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:06:19Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-13T17:05:53Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:05:25Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:00:24Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-13T17:00:10Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
