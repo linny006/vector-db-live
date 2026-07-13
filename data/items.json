@@ -1,12 +1,138 @@
 [
   {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-13T10:30:00Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-07-13T10:28:14Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-13T10:27:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-13T10:26:24Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-13T10:24:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-13T10:21:55Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-07-13T10:21:38Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-13T10:17:15Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-13T10:17:06Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-13T10:16:10Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T10:15:35Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T10:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-13T10:15:19Z",
+    "updated_at": "2026-07-13T10:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-13T10:15:14Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
+    "id": "IvayloP0709/langchain-pdf-rag",
+    "language": "Python",
+    "name": "IvayloP0709/langchain-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-07-13T10:15:07Z",
+    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
     "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
@@ -45,6 +171,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45205,
+    "updated_at": "2026-07-13T10:06:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -72,15 +207,6 @@
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T10:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -103,7 +229,7 @@
     "id": "SunMe1977/HermesClawZero-ConfigSidecar",
     "language": "Python",
     "name": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-13T09:58:50Z",
     "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
   },
@@ -151,15 +277,6 @@
     "stars": 6,
     "updated_at": "2026-07-13T09:51:54Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45207,
-    "updated_at": "2026-07-13T10:06:36Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Retrieval-augmented conversational AI on Cloudflare's edge: SSE streaming, Vectorize RAG, KV-backed memory, and an in-wo",
@@ -212,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16590,
-    "updated_at": "2026-07-13T10:10:52Z",
+    "updated_at": "2026-07-13T10:25:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -306,15 +423,6 @@
     "url": "https://github.com/techdomegh/ai-news-scraper"
   },
   {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-13T10:15:07Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
-  },
-  {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
     "id": "hfgwygey/yu-ai-agent",
     "language": "Java",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T09:28:19Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-13T09:27:00Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-13T09:26:52Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 12,
-    "updated_at": "2026-07-13T09:22:59Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "A hands-on sandbox for mastering production-grade Retrieval-Augmented Generation (RAG) and the Model Context Protocol (M",
-    "id": "faizzmi/RAG---MCP-Fundementals",
-    "language": "Python",
-    "name": "faizzmi/RAG---MCP-Fundementals",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:20:59Z",
-    "url": "https://github.com/faizzmi/RAG---MCP-Fundementals"
-  },
-  {
-    "description": "Smart recommendations for smarter viewers",
-    "id": "dheerajram13/FilmFind",
-    "language": "Python",
-    "name": "dheerajram13/FilmFind",
-    "stars": 1,
-    "updated_at": "2026-07-13T09:15:44Z",
-    "url": "https://github.com/dheerajram13/FilmFind"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58542,
-    "updated_at": "2026-07-13T09:12:48Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Memory patterns, context strategies, and persistence recipes for AI agents. Sliding window, vector recall, hybrid memory",
-    "id": "FreeAutomation-Tech/agent-memory-kit",
-    "language": "Python",
-    "name": "FreeAutomation-Tech/agent-memory-kit",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:12:10Z",
-    "url": "https://github.com/FreeAutomation-Tech/agent-memory-kit"
-  },
-  {
-    "description": "Agentic RAG over enterprise docs with a Researcher + Critic multi-agent pipeline (LangGraph \u00b7 LangChain \u00b7 Pinecone \u00b7 GPT",
-    "id": "henry-hai/SentryQuery-AI",
-    "language": "Python",
-    "name": "henry-hai/SentryQuery-AI",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:53:03Z",
-    "url": "https://github.com/henry-hai/SentryQuery-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-13T09:06:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:06:37Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
-    "id": "superlinked/VectorHub",
-    "language": "Jupyter Notebook",
-    "name": "superlinked/VectorHub",
-    "stars": 524,
-    "updated_at": "2026-07-13T09:06:16Z",
-    "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:04:38Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
