@@ -1,5 +1,167 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1859,
+    "updated_at": "2026-07-13T13:43:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 304,
+    "updated_at": "2026-07-13T13:41:44Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Jupyter Notebook",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:41:43Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-07-13T13:41:31Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
+    "id": "kamuma03/Provenance",
+    "language": "Python",
+    "name": "kamuma03/Provenance",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:41:28Z",
+    "url": "https://github.com/kamuma03/Provenance"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-13T13:40:22Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-07-13T13:39:49Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
+    "id": "mayankanup/commerce-ai-platform",
+    "language": "Go",
+    "name": "mayankanup/commerce-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:37:28Z",
+    "url": "https://github.com/mayankanup/commerce-ai-platform"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:35:26Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-13T13:35:13Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-13T13:34:32Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:33:40Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58548,
+    "updated_at": "2026-07-13T13:33:34Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 1,
+    "updated_at": "2026-07-13T13:33:21Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 2,
+    "updated_at": "2026-07-13T13:33:02Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:30:37Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T13:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T13:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -18,6 +180,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33234,
+    "updated_at": "2026-07-13T13:22:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -34,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T13:21:18Z",
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1859,
-    "updated_at": "2026-07-13T13:20:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,24 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-13T13:17:17Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T13:17:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-13T13:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -275,7 +419,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6170,
-    "updated_at": "2026-07-13T13:26:32Z",
+    "updated_at": "2026-07-13T13:43:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 90,
     "updated_at": "2026-07-13T12:46:45Z",
     "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-07-13T12:45:54Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:45:50Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:44:37Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-13T12:44:24Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6236,
-    "updated_at": "2026-07-13T12:41:34Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A secondary brain for Humans, which remembers your digital knowledge. It captures and remembers everything you wish it t",
-    "id": "KowshikGarapati/Memoria",
-    "language": "Java",
-    "name": "KowshikGarapati/Memoria",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:34:04Z",
-    "url": "https://github.com/KowshikGarapati/Memoria"
-  },
-  {
-    "description": "An intelligent research assistant that searches, analyzes, and writes academic papers using a Retrieval-Augmented Genera",
-    "id": "ameeta18/AI-Research-Assistant",
-    "language": "Python",
-    "name": "ameeta18/AI-Research-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:33:27Z",
-    "url": "https://github.com/ameeta18/AI-Research-Assistant"
-  },
-  {
-    "description": "Multimodal, multi-project knowledge-graph RAG as a service. Ingest PDFs, Office docs, images & audio into a queryable gr",
-    "id": "oleksandr-kushnir/polygraphrag",
-    "language": "Python",
-    "name": "oleksandr-kushnir/polygraphrag",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:23:34Z",
-    "url": "https://github.com/oleksandr-kushnir/polygraphrag"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 14847,
-    "updated_at": "2026-07-13T12:22:07Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
-    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "language": "Python",
-    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:20:47Z",
-    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
-  },
-  {
-    "description": "On-device RAG (retrieval-augmented generation) consumer layer for a documentation-corpus search app, written in Swift",
-    "id": "carlosypunto/SearchKit",
-    "language": "Swift",
-    "name": "carlosypunto/SearchKit",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:10:15Z",
-    "url": "https://github.com/carlosypunto/SearchKit"
-  },
-  {
-    "description": "Advanced RAG chatbot powered by LangGraph and FastAPI. Features multi-threaded conversations, a React frontend, persiste",
-    "id": "GenAIwithMS/LangGraph-Chatbot",
-    "language": "Python",
-    "name": "GenAIwithMS/LangGraph-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:04:36Z",
-    "url": "https://github.com/GenAIwithMS/LangGraph-Chatbot"
-  },
-  {
-    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-13T11:57:18Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-07-13T12:00:19Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "CLI research agent that searches, ingests and summarizes scientific literature using RAG. Built with Python, Anthropic C",
-    "id": "lgarbayo/jeicob",
-    "language": "Python",
-    "name": "lgarbayo/jeicob",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:51:54Z",
-    "url": "https://github.com/lgarbayo/jeicob"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-13T11:48:31Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
