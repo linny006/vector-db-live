@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-13T12:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:25:38Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Multimodal, multi-project knowledge-graph RAG as a service. Ingest PDFs, Office docs, images & audio into a queryable gr",
+    "id": "oleksandr-kushnir/polygraphrag",
+    "language": "Python",
+    "name": "oleksandr-kushnir/polygraphrag",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:23:34Z",
+    "url": "https://github.com/oleksandr-kushnir/polygraphrag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1859,
+    "updated_at": "2026-07-13T12:23:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 14847,
+    "updated_at": "2026-07-13T12:22:07Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
+    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "language": "Python",
+    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:20:47Z",
+    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-13T12:15:23Z",
+    "updated_at": "2026-07-13T12:19:56Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:19:26Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T12:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -41,7 +77,7 @@
     "language": "C",
     "name": "RediSearch/RediSearch",
     "stars": 6170,
-    "updated_at": "2026-07-13T12:18:10Z",
+    "updated_at": "2026-07-13T12:24:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -202,7 +238,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 33987,
+    "stars": 33988,
     "updated_at": "2026-07-13T11:28:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -238,7 +274,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27714,
+    "stars": 27715,
     "updated_at": "2026-07-13T11:25:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T11:24:16Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1859,
-    "updated_at": "2026-07-13T11:23:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-13T11:12:43Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:12:23Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-13T11:07:46Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:07:15Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
