@@ -1,11 +1,182 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-14T12:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:14:21Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:13:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-07-14T12:12:15Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:10:36Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Retrieval Augmented Generation (RAG) system designed for \"Ingenier\u00eda y Calidad Sostenible S.L.\" (INGECA S.L.)",
+    "id": "diegotamargo/NormaINGECA",
+    "language": "Python",
+    "name": "diegotamargo/NormaINGECA",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:10:00Z",
+    "url": "https://github.com/diegotamargo/NormaINGECA"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:08:46Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
+    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "language": "\u2014",
+    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:08:35Z",
+    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 3,
+    "updated_at": "2026-07-14T12:08:32Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-14T12:07:32Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:07:26Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 2,
+    "updated_at": "2026-07-14T12:06:32Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:06:24Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
+    "id": "eastythenob8-svg/graph-memory",
+    "language": "TypeScript",
+    "name": "eastythenob8-svg/graph-memory",
+    "stars": 1,
+    "updated_at": "2026-07-14T12:05:50Z",
+    "url": "https://github.com/eastythenob8-svg/graph-memory"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-07-14T12:05:34Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-07-14T12:05:17Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33259,
+    "updated_at": "2026-07-14T12:06:15Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
+    "id": "pragathijp/DocQuest_AI",
+    "language": "Python",
+    "name": "pragathijp/DocQuest_AI",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:03:12Z",
+    "url": "https://github.com/pragathijp/DocQuest_AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T12:02:14Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7852,
-    "updated_at": "2026-07-14T12:00:57Z",
+    "updated_at": "2026-07-14T12:11:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -25,24 +196,6 @@
     "stars": 108,
     "updated_at": "2026-07-14T12:00:28Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-14T12:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T12:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -68,7 +221,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45222,
-    "updated_at": "2026-07-14T11:58:37Z",
+    "updated_at": "2026-07-14T12:02:36Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -79,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T11:57:02Z",
     "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
-    "id": "pragathijp/DocQuest_AI",
-    "language": "Python",
-    "name": "pragathijp/DocQuest_AI",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:56:57Z",
-    "url": "https://github.com/pragathijp/DocQuest_AI"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -140,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6172,
-    "updated_at": "2026-07-14T11:51:21Z",
+    "updated_at": "2026-07-14T12:10:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -275,7 +419,7 @@
     "language": "Rust",
     "name": "MassivDash/ai_tools",
     "stars": 0,
-    "updated_at": "2026-07-14T11:35:43Z",
+    "updated_at": "2026-07-14T12:04:49Z",
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-14T11:31:33Z",
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:31:32Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:28:53Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:28:10Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:28:02Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:27:54Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:27:48Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:25:33Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-07-14T11:23:18Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1019,
-    "updated_at": "2026-07-14T11:20:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-14T11:18:07Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:17:29Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Backend for movies recomendations for groups ",
-    "id": "Biccamor/Moovy",
-    "language": "Python",
-    "name": "Biccamor/Moovy",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:15:46Z",
-    "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-14T11:15:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 279,
-    "updated_at": "2026-07-14T11:13:58Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:12:42Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-07-14T11:12:30Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
