@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-14T10:00:20Z",
+    "updated_at": "2026-07-14T10:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:14:48Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:13:13Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-14T10:13:06Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "A sample application providing a HR assistant chatbot. It leverages RavenDB database and RavenDB AI.",
+    "id": "ravendb/samples-hr",
+    "language": "C#",
+    "name": "ravendb/samples-hr",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:12:27Z",
+    "url": "https://github.com/ravendb/samples-hr"
+  },
+  {
+    "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
+    "id": "puffball1567/rochedb",
+    "language": "Nim",
+    "name": "puffball1567/rochedb",
+    "stars": 5,
+    "updated_at": "2026-07-14T10:13:17Z",
+    "url": "https://github.com/puffball1567/rochedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:09:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1401,
+    "updated_at": "2026-07-14T10:10:30Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 45,
+    "updated_at": "2026-07-14T10:04:56Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27820,
+    "updated_at": "2026-07-14T10:00:12Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 106,
-    "updated_at": "2026-07-14T09:59:53Z",
+    "updated_at": "2026-07-14T10:11:17Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -23,7 +113,7 @@
     "language": "HTML",
     "name": "Ravikalakoti/AI-Document-Chat-App",
     "stars": 1,
-    "updated_at": "2026-07-14T09:58:14Z",
+    "updated_at": "2026-07-14T10:04:54Z",
     "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
   },
   {
@@ -85,7 +175,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34015,
+    "stars": 34016,
     "updated_at": "2026-07-14T09:50:07Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -104,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-14T09:59:14Z",
+    "updated_at": "2026-07-14T10:01:08Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 12130,
     "updated_at": "2026-07-14T09:45:50Z",
     "url": "https://github.com/zilliztech/claude-context"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -239,17 +320,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16593,
-    "updated_at": "2026-07-14T09:56:59Z",
+    "updated_at": "2026-07-14T10:10:32Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 45,
-    "updated_at": "2026-07-14T09:33:57Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
@@ -259,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T09:33:07Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27819,
-    "updated_at": "2026-07-14T10:00:12Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) Assistant built with Python, ChromaDB, Streamlit and an Experiment",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:18:18Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:18:00Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:17:27Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "C",
-    "name": "RediSearch/RediSearch",
-    "stars": 6172,
-    "updated_at": "2026-07-14T09:42:58Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "RocheDB PoC - ephemeris-based distributed document/vector store",
-    "id": "puffball1567/rochedb",
-    "language": "Nim",
-    "name": "puffball1567/rochedb",
-    "stars": 5,
-    "updated_at": "2026-07-14T09:16:51Z",
-    "url": "https://github.com/puffball1567/rochedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33253,
-    "updated_at": "2026-07-14T09:39:15Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:13:53Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "An asynchronous full-stack RAG application built with an Express.js API gateway, Redis task runner, and a Python LangCha",
-    "id": "MRupam202005/rag-codebase-explainer",
-    "language": "JavaScript",
-    "name": "MRupam202005/rag-codebase-explainer",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:13:33Z",
-    "url": "https://github.com/MRupam202005/rag-codebase-explainer"
   }
 ]
