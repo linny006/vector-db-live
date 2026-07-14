@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T14:13:19Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-14T14:12:46Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-14T14:12:40Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
+    "id": "kamuma03/Provenance",
+    "language": "Python",
+    "name": "kamuma03/Provenance",
+    "stars": 0,
+    "updated_at": "2026-07-14T14:11:02Z",
+    "url": "https://github.com/kamuma03/Provenance"
+  },
+  {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
     "id": "eliasepro/groq-pdf-chat",
     "language": "Python",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-14T14:08:33Z",
     "url": "https://github.com/bhavanikurra/llm-evaluation-agent"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16595,
+    "updated_at": "2026-07-14T14:07:21Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -113,17 +158,8 @@
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 9,
-    "updated_at": "2026-07-14T14:00:31Z",
+    "updated_at": "2026-07-14T14:14:57Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-14T14:00:22Z",
+    "updated_at": "2026-07-14T14:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -151,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-07-14T13:58:33Z",
     "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27833,
+    "updated_at": "2026-07-14T13:58:09Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -252,15 +297,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27832,
-    "updated_at": "2026-07-14T13:58:09Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -342,15 +378,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
-    "id": "kamuma03/Provenance",
-    "language": "Python",
-    "name": "kamuma03/Provenance",
-    "stars": 0,
-    "updated_at": "2026-07-14T14:11:02Z",
-    "url": "https://github.com/kamuma03/Provenance"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-14T13:19:44Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12595,
-    "updated_at": "2026-07-14T13:18:19Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Next.js chatbot example backed by Pinecone and the OpenAI API, deployable to Vercel.",
-    "id": "pinecone-io/vercel-chatbot-template",
-    "language": "TypeScript",
-    "name": "pinecone-io/vercel-chatbot-template",
-    "stars": 15,
-    "updated_at": "2026-07-14T13:17:52Z",
-    "url": "https://github.com/pinecone-io/vercel-chatbot-template"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 279,
-    "updated_at": "2026-07-14T13:43:41Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   }
 ]
