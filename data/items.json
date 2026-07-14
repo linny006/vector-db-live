@@ -5,8 +5,134 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-14T09:45:19Z",
+    "updated_at": "2026-07-14T10:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 106,
+    "updated_at": "2026-07-14T09:59:53Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to ",
+    "id": "Ravikalakoti/AI-Document-Chat-App",
+    "language": "HTML",
+    "name": "Ravikalakoti/AI-Document-Chat-App",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:58:14Z",
+    "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:56:55Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "MVP d'un assistant RAG de recommandation d'\u00e9v\u00e9nements culturels (OpenAgenda). Interface web Streamlit, API FastAPI state",
+    "id": "Dudukun1871/ocr-projet13-rag-mvp",
+    "language": "Python",
+    "name": "Dudukun1871/ocr-projet13-rag-mvp",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:56:35Z",
+    "url": "https://github.com/Dudukun1871/ocr-projet13-rag-mvp"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45221,
+    "updated_at": "2026-07-14T09:53:58Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
+    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "language": "Python",
+    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:52:57Z",
+    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-07-14T09:52:17Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "Production-ready RAG platform built with LangChain. Features advanced document processing, chunking, and semantic search",
+    "id": "pravinghuge97-boop/rag-document-chat-langchain",
+    "language": "JavaScript",
+    "name": "pravinghuge97-boop/rag-document-chat-langchain",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:52:10Z",
+    "url": "https://github.com/pravinghuge97-boop/rag-document-chat-langchain"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34015,
+    "updated_at": "2026-07-14T09:50:07Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:49:23Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-14T09:59:14Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:47:29Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "id": "zilliztech/claude-context",
+    "language": "TypeScript",
+    "name": "zilliztech/claude-context",
+    "stars": 12130,
+    "updated_at": "2026-07-14T09:45:50Z",
+    "url": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T09:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -113,7 +239,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16593,
-    "updated_at": "2026-07-14T09:44:04Z",
+    "updated_at": "2026-07-14T09:56:59Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -139,9 +265,18 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27818,
-    "updated_at": "2026-07-14T09:31:30Z",
+    "stars": 27819,
+    "updated_at": "2026-07-14T10:00:12Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) Assistant built with Python, ChromaDB, Streamlit and an Experiment",
+    "id": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+    "language": "Python",
+    "name": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:51:33Z",
+    "url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0"
   },
   {
     "description": "Provenance-aware RAG + Knowledge Graph system: microservices, multi-hop graph reasoning, citation-grounded answers with ",
@@ -160,15 +295,6 @@
     "stars": 8,
     "updated_at": "2026-07-14T09:30:50Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
@@ -223,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:21:25Z",
     "url": "https://github.com/OOMEcho/rag-knowledge-system"
-  },
-  {
-    "description": "MVP d'un assistant RAG de recommandation d'\u00e9v\u00e9nements culturels (OpenAgenda). Interface web Streamlit, API FastAPI state",
-    "id": "Dudukun1871/ocr-projet13-rag-mvp",
-    "language": "Python",
-    "name": "Dudukun1871/ocr-projet13-rag-mvp",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:21:03Z",
-    "url": "https://github.com/Dudukun1871/ocr-projet13-rag-mvp"
   },
   {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T09:13:33Z",
     "url": "https://github.com/MRupam202005/rag-codebase-explainer"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:13:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:12:36Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r",
-    "id": "ODO-TECH/MCPulse-RAG",
-    "language": "Python",
-    "name": "ODO-TECH/MCPulse-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:08:45Z",
-    "url": "https://github.com/ODO-TECH/MCPulse-RAG"
-  },
-  {
-    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
-    "id": "mayankanup/commerce-ai-platform",
-    "language": "Go",
-    "name": "mayankanup/commerce-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:06:29Z",
-    "url": "https://github.com/mayankanup/commerce-ai-platform"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 230,
-    "updated_at": "2026-07-14T09:21:45Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:04:47Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:04:01Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "AI Document Chat App is a Retrieval-Augmented Generation (RAG) system built using Django and Ollama. It allows users to ",
-    "id": "Ravikalakoti/AI-Document-Chat-App",
-    "language": "Python",
-    "name": "Ravikalakoti/AI-Document-Chat-App",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:01:31Z",
-    "url": "https://github.com/Ravikalakoti/AI-Document-Chat-App"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12592,
-    "updated_at": "2026-07-14T09:00:31Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-07-14T08:59:59Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-07-14T08:59:56Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:54:16Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-14T08:53:57Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
