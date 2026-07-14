@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-14T02:24:06Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-14T02:17:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T02:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-14T02:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 21,
-    "updated_at": "2026-07-14T02:15:00Z",
+    "updated_at": "2026-07-14T02:22:28Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -97,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T02:01:09Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T02:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-14T02:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "kyzodb/kyzo",
     "stars": 0,
-    "updated_at": "2026-07-14T02:05:39Z",
+    "updated_at": "2026-07-14T02:26:41Z",
     "url": "https://github.com/kyzodb/kyzo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14861,
     "updated_at": "2026-07-14T01:38:02Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1439,
-    "updated_at": "2026-07-14T01:37:48Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 39,
-    "updated_at": "2026-07-14T01:37:45Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   }
 ]
