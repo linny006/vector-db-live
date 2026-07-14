@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-13T23:45:17Z",
+    "updated_at": "2026-07-14T00:00:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 304,
+    "updated_at": "2026-07-13T23:57:34Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-07-13T23:54:16Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:53:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-13T23:47:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12721,
+    "updated_at": "2026-07-13T23:53:43Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T23:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
@@ -36,15 +90,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-13T23:36:02Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 340,
     "updated_at": "2026-07-13T23:29:04Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:20:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T22:55:42Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:54:58Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -421,32 +448,5 @@
     "stars": 197,
     "updated_at": "2026-07-13T22:37:52Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-13T22:37:38Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:37:33Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-13T22:37:05Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
