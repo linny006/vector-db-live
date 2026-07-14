@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:44:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:44:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -72,21 +90,12 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T10:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-14T10:30:20Z",
+    "updated_at": "2026-07-14T10:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-14T09:40:43Z",
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "Enterprise-grade, event-driven multi-agent orchestration platform with visual workflow builder, LLM integration, semanti",
-    "id": "Brijes987/OmniAgent",
-    "language": "TypeScript",
-    "name": "Brijes987/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:40:08Z",
-    "url": "https://github.com/Brijes987/OmniAgent"
   }
 ]
