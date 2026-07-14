@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Private RAG platform with local LLM. Deploy your own AI in approximately 15 minutes. No external API call, no data shari",
+    "id": "psadigh91/PrivateRAGForMidMarket",
+    "language": "Python",
+    "name": "psadigh91/PrivateRAGForMidMarket",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:14:19Z",
+    "url": "https://github.com/psadigh91/PrivateRAGForMidMarket"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:10:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "TypeScript",
@@ -16,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:03:56Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-14T23:03:14Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T23:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -187,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T22:39:50Z",
     "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "Private RAG platform with local LLM. Deploy your own AI in approximately 15 minutes. No external API call, no data shari",
-    "id": "psadigh91/PrivateRAGForMidMarket",
-    "language": "Python",
-    "name": "psadigh91/PrivateRAGForMidMarket",
-    "stars": 0,
-    "updated_at": "2026-07-14T22:39:41Z",
-    "url": "https://github.com/psadigh91/PrivateRAGForMidMarket"
   },
   {
     "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
