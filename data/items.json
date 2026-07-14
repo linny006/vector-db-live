@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-07-14T17:13:58Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-14T17:13:53Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T17:13:12Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first RAG platform for technical document libraries. Features FastAPI, ChromaDB, and active retrieval (FLARE) powe",
+    "id": "cdtalley/DocuMind",
+    "language": "Python",
+    "name": "cdtalley/DocuMind",
+    "stars": 5,
+    "updated_at": "2026-07-14T17:13:11Z",
+    "url": "https://github.com/cdtalley/DocuMind"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 691,
+    "updated_at": "2026-07-14T17:12:33Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -81,21 +126,12 @@
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-14T17:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-14T17:00:24Z",
+    "updated_at": "2026-07-14T17:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "Supersynergy/synapse",
     "stars": 0,
-    "updated_at": "2026-07-14T16:59:48Z",
+    "updated_at": "2026-07-14T17:14:11Z",
     "url": "https://github.com/Supersynergy/synapse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1698,
     "updated_at": "2026-07-14T16:21:32Z",
     "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 691,
-    "updated_at": "2026-07-14T17:12:33Z",
-    "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-07-14T16:19:03Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-07-14T16:19:03Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1859,
-    "updated_at": "2026-07-14T16:53:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
