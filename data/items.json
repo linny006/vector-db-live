@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:38:03Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "In this project we learned how to use Retrieval-Augmented Generation (RAG) to improve AI-powered applications to provide",
+    "id": "rukaiah-edhah/RateMyProf",
+    "language": "JavaScript",
+    "name": "rukaiah-edhah/RateMyProf",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:37:47Z",
+    "url": "https://github.com/rukaiah-edhah/RateMyProf"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 42,
+    "updated_at": "2026-07-15T18:36:48Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "Open-source big-data serving engine for search and recommendations.",
+    "id": "api-evangelist/vespa",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:35:54Z",
+    "url": "https://github.com/api-evangelist/vespa"
+  },
+  {
+    "description": "API Evangelist profile of Vespa \u2014 AI search engine and vector database",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:35:53Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "This is a MCP service for generating and maintaing a private knowledge base using RAG",
+    "id": "MrLuciano/kb-rag-mcp",
+    "language": "Python",
+    "name": "MrLuciano/kb-rag-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:35:30Z",
+    "url": "https://github.com/MrLuciano/kb-rag-mcp"
+  },
+  {
+    "description": "API and integration profile for Upstash.",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:33:30Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:32:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
+    "id": "IhabAltekreeti/vaultify",
+    "language": "Jupyter Notebook",
+    "name": "IhabAltekreeti/vaultify",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:28:03Z",
+    "url": "https://github.com/IhabAltekreeti/vaultify"
+  },
+  {
     "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
     "id": "CariBosio/mentis-rag-agent",
     "language": "TypeScript",
@@ -14,8 +113,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-15T18:23:51Z",
+    "updated_at": "2026-07-15T18:43:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27942,
+    "updated_at": "2026-07-15T18:22:55Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1021,
-    "updated_at": "2026-07-15T18:25:16Z",
+    "updated_at": "2026-07-15T18:36:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:15:53Z",
     "url": "https://github.com/lll178/kfp-sidecar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:59:04Z",
     "url": "https://github.com/Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:57:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -270,13 +351,13 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 42,
-    "updated_at": "2026-07-15T17:25:58Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33300,
+    "updated_at": "2026-07-15T17:28:58Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -320,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16599,
-    "updated_at": "2026-07-15T18:28:01Z",
+    "updated_at": "2026-07-15T18:36:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:02:54Z",
     "url": "https://github.com/jawahar-java/ai-workspace"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:02:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:02:11Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Build your own offline domain-specific AI from your knowledge.",
-    "id": "VivekDahariya/PriAI",
-    "language": "\u2014",
-    "name": "VivekDahariya/PriAI",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:00:29Z",
-    "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-15T16:52:56Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6244,
-    "updated_at": "2026-07-15T17:30:30Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 39,
-    "updated_at": "2026-07-15T16:48:01Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "API and integration profile for Azure Cosmos DB.",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:46:44Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "API and integration profile for Aerospike.",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:29:48Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Zenith Logic Foundry \u89e3\u7b54\u4e16\u95f4\u4e07\u7269",
-    "id": "kimmywork/zlf",
-    "language": "Rust",
-    "name": "kimmywork/zlf",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:26:46Z",
-    "url": "https://github.com/kimmywork/zlf"
   }
 ]
