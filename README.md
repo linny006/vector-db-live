@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 16:30 UTC
+> ⏰ Last updated: 2026-07-15 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-07-15 | API and integration profile for Aerospike. |
-| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1020 | Java | 2026-07-15 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 4 | [kimmywork/zlf](https://github.com/kimmywork/zlf) | 0 | Rust | 2026-07-15 | Zenith Logic Foundry 解答世间万物 |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 39 | Rust | 2026-07-15 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 7 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-15 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 8 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6174 | Rust | 2026-07-15 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 9 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 238 | C++ | 2026-07-15 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-15 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
-| 12 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6244 | TypeScript | 2026-07-15 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 13 | [NVIDIA/cuvs-lucene](https://github.com/NVIDIA/cuvs-lucene) | 8 | Java | 2026-07-15 | A Lucene codec for vector search and clustering on the GPU |
-| 14 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-15 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 15 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5979 | Python | 2026-07-15 |  Memory library for building stateful agents |
-| 16 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 442 | TypeScript | 2026-07-15 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 17 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 200 | Python | 2026-07-15 | 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 |
-| 18 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2190 | JavaScript | 2026-07-15 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 19 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 0 | Python | 2026-07-15 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
-| 20 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 39 | Rust | 2026-07-15 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 2 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-15 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-07-15 | API and integration profile for Aerospike. |
+| 7 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1020 | Java | 2026-07-15 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 8 | [kimmywork/zlf](https://github.com/kimmywork/zlf) | 0 | Rust | 2026-07-15 | Zenith Logic Foundry 解答世间万物 |
+| 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-15 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6174 | Rust | 2026-07-15 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 12 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 238 | C++ | 2026-07-15 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
+| 13 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6244 | TypeScript | 2026-07-15 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
+| 14 | [NVIDIA/cuvs-lucene](https://github.com/NVIDIA/cuvs-lucene) | 8 | Java | 2026-07-15 | A Lucene codec for vector search and clustering on the GPU |
+| 15 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-15 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 16 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5979 | Python | 2026-07-15 |  Memory library for building stateful agents |
+| 17 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 442 | TypeScript | 2026-07-15 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 18 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 200 | Python | 2026-07-15 | 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 |
+| 19 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2190 | JavaScript | 2026-07-15 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 20 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 0 | Python | 2026-07-15 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
 | 21 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33299 | Rust | 2026-07-15 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 22 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-07-15 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
 | 23 | [SitanshuA091/VectorBench](https://github.com/SitanshuA091/VectorBench) | 0 | Python | 2026-07-15 | A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev |
