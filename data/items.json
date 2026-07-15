@@ -1,11 +1,137 @@
 [
   {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-15T22:14:18Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 4,
+    "updated_at": "2026-07-15T22:14:18Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-07-15T22:11:54Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:11:24Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:11:11Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:11:02Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "raiyanyahya/llmaker",
+    "language": "Go",
+    "name": "raiyanyahya/llmaker",
+    "stars": 96,
+    "updated_at": "2026-07-15T22:09:27Z",
+    "url": "https://github.com/raiyanyahya/llmaker"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:08:58Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-07-15T22:07:18Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:05:31Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:03:09Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:02:42Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-15T22:01:45Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-15T22:00:19Z",
+    "updated_at": "2026-07-15T22:15:17Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -108,15 +234,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "raiyanyahya/llmaker",
-    "language": "Go",
-    "name": "raiyanyahya/llmaker",
-    "stars": 96,
-    "updated_at": "2026-07-15T21:50:58Z",
-    "url": "https://github.com/raiyanyahya/llmaker"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -142,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T21:45:26Z",
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T21:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T21:12:21Z",
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-07-15T21:12:07Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-15T21:11:43Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-15T21:10:30Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-15T21:10:28Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 68,
-    "updated_at": "2026-07-15T21:07:49Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 29,
-    "updated_at": "2026-07-15T21:05:46Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-15T21:01:46Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
-    "id": "jushayden/claude-code-memory-cache",
-    "language": "Python",
-    "name": "jushayden/claude-code-memory-cache",
-    "stars": 2,
-    "updated_at": "2026-07-15T20:56:59Z",
-    "url": "https://github.com/jushayden/claude-code-memory-cache"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10903,
-    "updated_at": "2026-07-15T20:54:26Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6244,
-    "updated_at": "2026-07-15T20:49:27Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-15T21:41:22Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "AI cold email generator using LangChain, Groq & ChromaDB - extracts job details, matches your portfolio via RAG, and dra",
-    "id": "Dominionai/Zexamail",
-    "language": "Jupyter Notebook",
-    "name": "Dominionai/Zexamail",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:46:48Z",
-    "url": "https://github.com/Dominionai/Zexamail"
   }
 ]
