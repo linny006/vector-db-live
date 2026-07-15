@@ -1,11 +1,56 @@
 [
   {
+    "description": "AI memory that actually learns. Zero API keys, zero GPU, zero cloud. ~800 lines of Python.",
+    "id": "rocky007cn/vector-as-memory",
+    "language": "Python",
+    "name": "rocky007cn/vector-as-memory",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:10:50Z",
+    "url": "https://github.com/rocky007cn/vector-as-memory"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:08:33Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:06:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:06:15Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1021,
+    "updated_at": "2026-07-15T18:05:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-07-15T18:04:55Z",
+    "updated_at": "2026-07-15T18:14:50Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -27,13 +72,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45239,
+    "updated_at": "2026-07-15T18:00:36Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -90,15 +135,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45238,
-    "updated_at": "2026-07-15T18:00:36Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "",
     "id": "sohamdas01/NuroDesk",
     "language": "JavaScript",
@@ -149,7 +185,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10902,
-    "updated_at": "2026-07-15T17:42:31Z",
+    "updated_at": "2026-07-15T18:07:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -229,7 +265,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5979,
+    "stars": 5980,
     "updated_at": "2026-07-15T17:23:30Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16599,
-    "updated_at": "2026-07-15T17:56:18Z",
+    "updated_at": "2026-07-15T18:11:21Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 95,
-    "updated_at": "2026-07-15T17:18:42Z",
+    "updated_at": "2026-07-15T18:08:13Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:02:11Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1020,
-    "updated_at": "2026-07-15T18:05:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Build your own offline domain-specific AI from your knowledge.",
@@ -396,24 +423,6 @@
     "url": "https://github.com/kimmywork/zlf"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:22:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:06:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-15T16:07:24Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:05:17Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   }
 ]
