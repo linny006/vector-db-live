@@ -1,11 +1,65 @@
 [
   {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-15T16:13:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6244,
+    "updated_at": "2026-07-15T16:13:04Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "A Lucene codec for vector search and clustering on the GPU",
+    "id": "NVIDIA/cuvs-lucene",
+    "language": "Java",
+    "name": "NVIDIA/cuvs-lucene",
+    "stars": 8,
+    "updated_at": "2026-07-15T16:07:24Z",
+    "url": "https://github.com/NVIDIA/cuvs-lucene"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-15T16:05:17Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T16:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T16:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 39,
-    "updated_at": "2026-07-15T15:50:31Z",
+    "updated_at": "2026-07-15T16:13:43Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -25,24 +79,6 @@
     "stars": 5978,
     "updated_at": "2026-07-15T15:52:49Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
@@ -72,15 +108,6 @@
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
   {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-15T15:44:34Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -95,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1020,
-    "updated_at": "2026-07-15T15:30:29Z",
+    "updated_at": "2026-07-15T16:06:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6174,
-    "updated_at": "2026-07-15T15:50:42Z",
+    "updated_at": "2026-07-15T16:14:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1859,
-    "updated_at": "2026-07-15T14:52:54Z",
+    "updated_at": "2026-07-15T16:09:21Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:51:32Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:49:08Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:48:02Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:47:56Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
