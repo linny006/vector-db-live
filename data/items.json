@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-15T09:45:21Z",
+    "updated_at": "2026-07-15T10:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-07-15T09:45:01Z",
-    "url": "https://github.com/crate/crate"
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-15T09:57:45Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -23,8 +23,71 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 230,
-    "updated_at": "2026-07-15T09:44:14Z",
+    "updated_at": "2026-07-15T09:53:04Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4609,
+    "updated_at": "2026-07-15T09:53:05Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "Advanced RAG chatbot powered by LangGraph and FastAPI. Features multi-threaded conversations, a React frontend, persiste",
+    "id": "GenAIwithMS/LangGraph-Chatbot",
+    "language": "Python",
+    "name": "GenAIwithMS/LangGraph-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-15T09:51:02Z",
+    "url": "https://github.com/GenAIwithMS/LangGraph-Chatbot"
+  },
+  {
+    "description": "Deterministic, file-anchored toolkit for AI-agent work \u2014 context you can query, rules you can enforce, state you can der",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-15T09:52:07Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27927,
+    "updated_at": "2026-07-15T09:47:27Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-15T09:47:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T09:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-15T09:51:01Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -76,7 +139,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58598,
+    "stars": 58599,
     "updated_at": "2026-07-15T09:33:41Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -99,21 +162,12 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 83,
-    "updated_at": "2026-07-15T09:34:16Z",
+    "updated_at": "2026-07-15T09:58:23Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45232,
-    "updated_at": "2026-07-15T09:20:37Z",
+    "updated_at": "2026-07-15T09:56:37Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-15T09:44:42Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
     "id": "oracle/ai-optimizer",
     "language": "Python",
@@ -329,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7853,
-    "updated_at": "2026-07-15T09:06:47Z",
+    "updated_at": "2026-07-15T09:48:58Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T09:03:13Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:02:41Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:02:17Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:00:09Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Semantic search engine for Gears of War lore ",
-    "id": "anav5704/gears-ai",
-    "language": "\u2014",
-    "name": "anav5704/gears-ai",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:59:44Z",
-    "url": "https://github.com/anav5704/gears-ai"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-15T08:59:34Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
