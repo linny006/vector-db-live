@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 19:00 UTC
+> ⏰ Last updated: 2026-07-15 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 21 | Python | 2026-07-15 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-15 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 42 | JavaScript | 2026-07-15 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
-| 4 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1439 | Clojure | 2026-07-15 | A simple, fast and versatile Datalog database |
-| 5 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 95 | Python | 2026-07-15 | Self improving agents through iterations |
-| 6 | [IhabAltekreeti/vaultify](https://github.com/IhabAltekreeti/vaultify) | 0 | Jupyter Notebook | 2026-07-15 | Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [Varshith019/rag-from-scratch](https://github.com/Varshith019/rag-from-scratch) | 0 | Python | 2026-07-15 | A project built to understand Retrieval-Augmented Generation (RAG), including document loading, chunking, embeddings, ve |
-| 10 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-07-15 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
-| 11 | [rukaiah-edhah/RateMyProf](https://github.com/rukaiah-edhah/RateMyProf) | 2 | JavaScript | 2026-07-15 | In this project we learned how to use Retrieval-Augmented Generation (RAG) to improve AI-powered applications to provide |
-| 12 | [api-evangelist/vespa](https://github.com/api-evangelist/vespa) | 0 | — | 2026-07-15 | Open-source big-data serving engine for search and recommendations. |
-| 13 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-07-15 | API Evangelist profile of Vespa — AI search engine and vector database |
-| 14 | [MrLuciano/kb-rag-mcp](https://github.com/MrLuciano/kb-rag-mcp) | 1 | Python | 2026-07-15 | This is a MCP service for generating and maintaing a private knowledge base using RAG |
-| 15 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-07-15 | API and integration profile for Upstash. |
-| 16 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 17 | [CariBosio/mentis-rag-agent](https://github.com/CariBosio/mentis-rag-agent) | 0 | TypeScript | 2026-07-15 | Agente de IA autónomo (RAG) omnicanal (React + Telegram) para el encuadre clínico. Orquestado en n8n con embeddings de C |
-| 18 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-15 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
+| 1 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-15 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 21 | Python | 2026-07-15 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-15 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 42 | JavaScript | 2026-07-15 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
+| 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1439 | Clojure | 2026-07-15 | A simple, fast and versatile Datalog database |
+| 8 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 95 | Python | 2026-07-15 | Self improving agents through iterations |
+| 9 | [IhabAltekreeti/vaultify](https://github.com/IhabAltekreeti/vaultify) | 0 | Jupyter Notebook | 2026-07-15 | Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro |
+| 10 | [Varshith019/rag-from-scratch](https://github.com/Varshith019/rag-from-scratch) | 0 | Python | 2026-07-15 | A project built to understand Retrieval-Augmented Generation (RAG), including document loading, chunking, embeddings, ve |
+| 11 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-07-15 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
+| 12 | [rukaiah-edhah/RateMyProf](https://github.com/rukaiah-edhah/RateMyProf) | 2 | JavaScript | 2026-07-15 | In this project we learned how to use Retrieval-Augmented Generation (RAG) to improve AI-powered applications to provide |
+| 13 | [api-evangelist/vespa](https://github.com/api-evangelist/vespa) | 0 | — | 2026-07-15 | Open-source big-data serving engine for search and recommendations. |
+| 14 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-07-15 | API Evangelist profile of Vespa — AI search engine and vector database |
+| 15 | [MrLuciano/kb-rag-mcp](https://github.com/MrLuciano/kb-rag-mcp) | 1 | Python | 2026-07-15 | This is a MCP service for generating and maintaing a private knowledge base using RAG |
+| 16 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-07-15 | API and integration profile for Upstash. |
+| 17 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 1 | HTML | 2026-07-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 18 | [CariBosio/mentis-rag-agent](https://github.com/CariBosio/mentis-rag-agent) | 0 | TypeScript | 2026-07-15 | Agente de IA autónomo (RAG) omnicanal (React + Telegram) para el encuadre clínico. Orquestado en n8n con embeddings de C |
 | 19 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 27943 | Python | 2026-07-15 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 20 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1021 | Java | 2026-07-15 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 21 | [lll178/kfp-sidecar](https://github.com/lll178/kfp-sidecar) | 0 | Python | 2026-07-15 | Tamper-evident .kfp sidecars for RAG chunks, AI memory, vector records, and object storage. |
@@ -88,7 +88,7 @@ expired items removed — so you can rely on what you see being current.
 | 44 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-15 | The Ultimate Vectors Library for Java |
 | 45 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33300 | Rust | 2026-07-15 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 46 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 63349 | JavaScript | 2026-07-15 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 47 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5981 | Python | 2026-07-15 |  Memory library for building stateful agents |
+| 47 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5983 | Python | 2026-07-15 |  Memory library for building stateful agents |
 | 48 | [Soumiya-33/Rag-core](https://github.com/Soumiya-33/Rag-core) | 0 | — | 2026-07-15 |  from-scratch implementation of Retrieval-Augmented Generation — chunking, embeddings, similarity search, and evaluation |
 | 49 | [Yash-Raj-Ravi/industrial-knowledge-intelligence](https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence) | 0 | Python | 2026-07-15 | Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights. |
 | 50 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16599 | Go | 2026-07-15 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |

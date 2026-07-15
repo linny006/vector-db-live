@@ -1,5 +1,32 @@
 [
   {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-15T19:10:06Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1439,
-    "updated_at": "2026-07-15T18:49:53Z",
+    "updated_at": "2026-07-15T19:07:07Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -52,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:47:21Z",
     "url": "https://github.com/IhabAltekreeti/vaultify"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A project built to understand Retrieval-Augmented Generation (RAG), including document loading, chunking, embeddings, ve",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:26:07Z",
     "url": "https://github.com/CariBosio/mentis-rag-agent"
-  },
-  {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-15T18:43:30Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -418,7 +418,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5981,
+    "stars": 5983,
     "updated_at": "2026-07-15T17:23:30Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
