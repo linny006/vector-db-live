@@ -1,12 +1,21 @@
 [
   {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-15T06:43:00Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T07:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9388,
+    "updated_at": "2026-07-15T06:59:41Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -14,8 +23,152 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-15T06:42:51Z",
+    "updated_at": "2026-07-15T06:59:24Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 9,
+    "updated_at": "2026-07-15T06:56:36Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 111,
+    "updated_at": "2026-07-15T06:56:06Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:55:34Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+    "id": "BloomLabsInc/genkit-plugins",
+    "language": "TypeScript",
+    "name": "BloomLabsInc/genkit-plugins",
+    "stars": 182,
+    "updated_at": "2026-07-15T06:54:08Z",
+    "url": "https://github.com/BloomLabsInc/genkit-plugins"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:53:50Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:52:06Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 107,
+    "updated_at": "2026-07-15T06:56:27Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 3,
+    "updated_at": "2026-07-15T06:50:32Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Smart recommendations for smarter viewers",
+    "id": "dheerajram13/FilmFind",
+    "language": "Python",
+    "name": "dheerajram13/FilmFind",
+    "stars": 1,
+    "updated_at": "2026-07-15T06:50:01Z",
+    "url": "https://github.com/dheerajram13/FilmFind"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:49:54Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-15T06:59:17Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:46:13Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-07-15T06:45:55Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T06:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 1,
+    "updated_at": "2026-07-15T06:45:22Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
+    "id": "jefffergunson118-beep/smara",
+    "language": "\u2014",
+    "name": "jefffergunson118-beep/smara",
+    "stars": 1,
+    "updated_at": "2026-07-15T06:43:00Z",
+    "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -81,6 +234,15 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33285,
+    "updated_at": "2026-07-15T06:39:19Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
     "id": "Ac3v3d0/semafold",
     "language": "Python",
@@ -88,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T06:38:41Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 3,
-    "updated_at": "2026-07-15T06:37:42Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -180,24 +333,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
-    "id": "BloomLabsInc/genkit-plugins",
-    "language": "TypeScript",
-    "name": "BloomLabsInc/genkit-plugins",
-    "stars": 182,
-    "updated_at": "2026-07-15T06:31:35Z",
-    "url": "https://github.com/BloomLabsInc/genkit-plugins"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 111,
-    "updated_at": "2026-07-15T06:31:20Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
     "id": "jushayden/claude-code-memory-cache",
     "language": "Python",
@@ -205,24 +340,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T06:31:17Z",
     "url": "https://github.com/jushayden/claude-code-memory-cache"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:30:16Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -320,7 +437,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 39,
-    "updated_at": "2026-07-15T06:43:26Z",
+    "updated_at": "2026-07-15T06:46:25Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T06:19:41Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 4,
-    "updated_at": "2026-07-15T06:19:40Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Detect physical hits on your laptop and play audio responses using sensors in a lightweight, cross-platform binary.",
-    "id": "Snow17s/spank",
-    "language": "Go",
-    "name": "Snow17s/spank",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:17:06Z",
-    "url": "https://github.com/Snow17s/spank"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-15T06:16:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-15T06:15:50Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1600,
-    "updated_at": "2026-07-15T06:15:44Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-15T06:13:25Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:13:08Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33284,
-    "updated_at": "2026-07-15T06:39:19Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-15T06:10:47Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:09:18Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:08:49Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-07-15T06:08:39Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-07-15T06:07:12Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   }
 ]
