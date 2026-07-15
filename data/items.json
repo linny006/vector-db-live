@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1859,
+    "updated_at": "2026-07-15T12:00:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:58:48Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 2,
+    "updated_at": "2026-07-15T11:58:26Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T11:57:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:57:33Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6173,
-    "updated_at": "2026-07-15T11:53:13Z",
+    "updated_at": "2026-07-15T11:59:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -153,13 +198,13 @@
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T11:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": " RAG pipeline built in Langflow \u2014 local Ollama + Astra DB.",
+    "id": "junejakaurharleen-spec/langflow-rag-pipeline",
+    "language": "\u2014",
+    "name": "junejakaurharleen-spec/langflow-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:44:26Z",
+    "url": "https://github.com/junejakaurharleen-spec/langflow-rag-pipeline"
   },
   {
     "description": "",
@@ -196,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-07-15T11:39:25Z",
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-15T11:57:33Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T11:16:34Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-15T11:31:16Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 111,
-    "updated_at": "2026-07-15T11:29:47Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Context you can query, rules you can enforce, state you can derive: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-15T11:10:22Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-07-15T11:08:52Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   }
 ]
