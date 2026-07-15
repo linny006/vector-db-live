@@ -1,10 +1,73 @@
 [
   {
+    "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
+    "id": "CariBosio/mentis-rag-agent",
+    "language": "TypeScript",
+    "name": "CariBosio/mentis-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:26:07Z",
+    "url": "https://github.com/CariBosio/mentis-rag-agent"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-15T18:23:51Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1021,
+    "updated_at": "2026-07-15T18:25:16Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Tamper-evident .kfp sidecars for RAG chunks, AI memory, vector records, and object storage.",
+    "id": "lll178/kfp-sidecar",
+    "language": "Python",
+    "name": "lll178/kfp-sidecar",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:15:53Z",
+    "url": "https://github.com/lll178/kfp-sidecar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:14:50Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
     "description": "AI memory that actually learns. Zero API keys, zero GPU, zero cloud. ~800 lines of Python.",
     "id": "rocky007cn/vector-as-memory",
     "language": "Python",
     "name": "rocky007cn/vector-as-memory",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-15T18:10:50Z",
     "url": "https://github.com/rocky007cn/vector-as-memory"
   },
@@ -18,15 +81,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:06:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:06:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1021,
-    "updated_at": "2026-07-15T18:05:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-15T18:14:50Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -63,15 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:03:14Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -79,6 +106,15 @@
     "stars": 45239,
     "updated_at": "2026-07-15T18:00:36Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Production Metadata-Aware Cross-Lingual RAG for Dubai Real Estate | n8n + Gemini 2.5 + Supabase pgvector | AR/EN | Day 5",
+    "id": "Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae",
+    "language": "\u2014",
+    "name": "Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:59:04Z",
+    "url": "https://github.com/Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -99,21 +135,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-15T17:53:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 107,
-    "updated_at": "2026-07-15T17:59:37Z",
+    "updated_at": "2026-07-15T18:21:13Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -256,7 +283,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63345,
+    "stars": 63348,
     "updated_at": "2026-07-15T17:24:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -265,7 +292,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 5980,
+    "stars": 5981,
     "updated_at": "2026-07-15T17:23:30Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16599,
-    "updated_at": "2026-07-15T18:11:21Z",
+    "updated_at": "2026-07-15T18:28:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T16:26:46Z",
     "url": "https://github.com/kimmywork/zlf"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6174,
-    "updated_at": "2026-07-15T16:37:44Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 238,
-    "updated_at": "2026-07-15T16:15:34Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-15T16:07:24Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
   }
 ]
