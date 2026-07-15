@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-15T10:00:22Z",
+    "updated_at": "2026-07-15T10:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 3,
+    "updated_at": "2026-07-15T10:12:23Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:12:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2011,
+    "updated_at": "2026-07-15T10:11:29Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:11:07Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-15T10:11:40Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 230,
+    "updated_at": "2026-07-15T10:06:05Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27928,
+    "updated_at": "2026-07-15T10:09:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:03:49Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6173,
+    "updated_at": "2026-07-15T10:12:13Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
@@ -16,15 +106,6 @@
     "stars": 10,
     "updated_at": "2026-07-15T09:57:45Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 230,
-    "updated_at": "2026-07-15T09:53:04Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-15T09:52:07Z",
+    "updated_at": "2026-07-15T10:13:19Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27927,
-    "updated_at": "2026-07-15T09:47:27Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -70,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T09:47:13Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T09:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-07-15T09:51:01Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -117,24 +171,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6172,
-    "updated_at": "2026-07-15T09:37:21Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 3,
-    "updated_at": "2026-07-15T09:33:43Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -142,6 +178,15 @@
     "stars": 58599,
     "updated_at": "2026-07-15T09:33:41Z",
     "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI-powered travel assistant using LangGraph, LangChain, and LLMs for flight search, hotel recommendations, and itinerary",
+    "id": "saeidrznr/travel_bot",
+    "language": "Jupyter Notebook",
+    "name": "saeidrznr/travel_bot",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:32:20Z",
+    "url": "https://github.com/saeidrznr/travel_bot"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -169,15 +214,6 @@
     "stars": 83,
     "updated_at": "2026-07-15T09:58:23Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:27:19Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T09:17:45Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:15:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T09:05:01Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-15T09:04:20Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "A privacy-first Slack bot that integrates local LLMs (Ollama/vLLM/LM Studio) with advanced tools like ComfyUI image gene",
-    "id": "RafiBG/L.A.M.S.",
-    "language": "Python",
-    "name": "RafiBG/L.A.M.S.",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:03:41Z",
-    "url": "https://github.com/RafiBG/L.A.M.S."
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:03:13Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
