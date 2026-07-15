@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:45:16Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "AI cold email generator using LangChain, Groq & ChromaDB - extracts job details, matches your portfolio via RAG, and dra",
+    "id": "Dominionai/Zexamail",
+    "language": "Jupyter Notebook",
+    "name": "Dominionai/Zexamail",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:44:19Z",
+    "url": "https://github.com/Dominionai/Zexamail"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:44:07Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T20:41:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T20:39:48Z",
     "url": "https://github.com/amariwan/Become-an-AI-engineer"
-  },
-  {
-    "description": "AI cold email generator using LangChain, Groq & ChromaDB \u2014 extracts job details, matches your portfolio via RAG, and dra",
-    "id": "Dominionai/Zexamail",
-    "language": "Jupyter Notebook",
-    "name": "Dominionai/Zexamail",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:36:37Z",
-    "url": "https://github.com/Dominionai/Zexamail"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -70,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-07-15T20:30:44Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-15T18:10:50Z",
     "url": "https://github.com/rocky007cn/vector-as-memory"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1859,
-    "updated_at": "2026-07-15T18:04:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45239,
-    "updated_at": "2026-07-15T18:00:36Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
