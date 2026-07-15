@@ -1,5 +1,95 @@
 [
   {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 95,
+    "updated_at": "2026-07-15T17:12:43Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 42,
+    "updated_at": "2026-07-15T17:07:01Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:05:51Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
+  },
+  {
+    "description": "A production-grade AI workspace built with Spring Boot, Spring AI, Ollama, RAG, Agentic AI, and Local LLMs.",
+    "id": "jawahar-java/ai-workspace",
+    "language": "\u2014",
+    "name": "jawahar-java/ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:02:54Z",
+    "url": "https://github.com/jawahar-java/ai-workspace"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:02:19Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:02:11Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "A self-learning AI personal assistant built with Next.js, Elysia, and Mastra. Features a modular skill system, persisten",
+    "id": "seferogluemre/personal-assistant-platform",
+    "language": "TypeScript",
+    "name": "seferogluemre/personal-assistant-platform",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:02:10Z",
+    "url": "https://github.com/seferogluemre/personal-assistant-platform"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1020,
+    "updated_at": "2026-07-15T17:00:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Build your own offline domain-specific AI from your knowledge.",
+    "id": "VivekDahariya/PriAI",
+    "language": "\u2014",
+    "name": "VivekDahariya/PriAI",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:00:29Z",
+    "url": "https://github.com/VivekDahariya/PriAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T17:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 42,
-    "updated_at": "2026-07-15T16:53:03Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -43,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T16:52:56Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T16:51:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T16:29:48Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1020,
-    "updated_at": "2026-07-15T16:28:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Zenith Logic Foundry \u89e3\u7b54\u4e16\u95f4\u4e07\u7269",
@@ -221,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33299,
-    "updated_at": "2026-07-15T16:34:15Z",
+    "updated_at": "2026-07-15T17:06:50Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -270,15 +333,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:16:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
     "id": "LangModule/ingestlib",
     "language": "Python",
@@ -292,7 +346,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58604,
+    "stars": 58603,
     "updated_at": "2026-07-15T15:14:45Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T15:03:17Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:02:58Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:02:17Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:02:01Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-15T15:00:35Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-15T14:59:25Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:59:05Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
