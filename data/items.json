@@ -1,19 +1,136 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:57:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 307,
+    "updated_at": "2026-07-15T17:56:35Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-15T17:53:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 107,
+    "updated_at": "2026-07-15T17:59:37Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:50:58Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 442,
+    "updated_at": "2026-07-15T17:50:51Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45238,
-    "updated_at": "2026-07-15T17:44:37Z",
+    "updated_at": "2026-07-15T17:50:39Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "",
+    "id": "sohamdas01/NuroDesk",
+    "language": "JavaScript",
+    "name": "sohamdas01/NuroDesk",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:48:49Z",
+    "url": "https://github.com/sohamdas01/NuroDesk"
+  },
+  {
+    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
+    "id": "vansharora156/nexus-rag",
+    "language": "Python",
+    "name": "vansharora156/nexus-rag",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:48:21Z",
+    "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:46:40Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Open-source cloud-native vector database.",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:46:23Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
+    "id": "langchain-ai/langchain-milvus",
+    "language": "Python",
+    "name": "langchain-ai/langchain-milvus",
+    "stars": 56,
+    "updated_at": "2026-07-15T17:46:10Z",
+    "url": "https://github.com/langchain-ai/langchain-milvus"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T17:45:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T17:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10901,
+    "stars": 10902,
     "updated_at": "2026-07-15T17:42:31Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -63,24 +180,6 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -90,21 +189,12 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:29:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-07-15T17:27:27Z",
+    "updated_at": "2026-07-15T17:54:32Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 63345,
     "updated_at": "2026-07-15T17:24:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-15T17:29:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -160,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:18:11Z",
     "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16599,
+    "updated_at": "2026-07-15T17:56:18Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -241,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:00:29Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 307,
-    "updated_at": "2026-07-15T16:54:14Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "",
@@ -360,15 +441,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 442,
-    "updated_at": "2026-07-15T15:50:03Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 200,
     "updated_at": "2026-07-15T15:44:55Z",
     "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2190,
-    "updated_at": "2026-07-15T15:40:28Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:36:59Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33299,
-    "updated_at": "2026-07-15T17:28:58Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:26:18Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
-    "id": "SitanshuA091/VectorBench",
-    "language": "Python",
-    "name": "SitanshuA091/VectorBench",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:22:06Z",
-    "url": "https://github.com/SitanshuA091/VectorBench"
-  },
-  {
-    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
-    "id": "nnadir35/rag-vector-db-benchmark",
-    "language": "Python",
-    "name": "nnadir35/rag-vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:19:27Z",
-    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
-    "description": "FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i",
-    "id": "ManojMareedu/finsight-ai",
-    "language": "Python",
-    "name": "ManojMareedu/finsight-ai",
-    "stars": 3,
-    "updated_at": "2026-07-15T15:17:08Z",
-    "url": "https://github.com/ManojMareedu/finsight-ai"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:16:40Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
