@@ -1,5 +1,41 @@
 [
   {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 39,
+    "updated_at": "2026-07-15T15:50:31Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 442,
+    "updated_at": "2026-07-15T15:50:03Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 5978,
+    "updated_at": "2026-07-15T15:52:49Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T15:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,21 +99,12 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6174,
-    "updated_at": "2026-07-15T15:30:23Z",
+    "updated_at": "2026-07-15T15:50:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-07-15T15:19:27Z",
     "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
+  },
+  {
+    "description": "FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i",
+    "id": "ManojMareedu/finsight-ai",
+    "language": "Python",
+    "name": "ManojMareedu/finsight-ai",
+    "stars": 3,
+    "updated_at": "2026-07-15T15:17:08Z",
+    "url": "https://github.com/ManojMareedu/finsight-ai"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T15:03:45Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i",
-    "id": "ManojMareedu/finsight-ai",
-    "language": "Python",
-    "name": "ManojMareedu/finsight-ai",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:17:08Z",
-    "url": "https://github.com/ManojMareedu/finsight-ai"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:47:56Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-15T14:47:46Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:47:43Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:46:53Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
