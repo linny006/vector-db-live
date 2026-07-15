@@ -1,5 +1,68 @@
 [
   {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-07-15T18:52:43Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:51:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 42,
+    "updated_at": "2026-07-15T18:50:22Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1439,
+    "updated_at": "2026-07-15T18:49:53Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 95,
+    "updated_at": "2026-07-15T18:53:53Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
+    "id": "IhabAltekreeti/vaultify",
+    "language": "Jupyter Notebook",
+    "name": "IhabAltekreeti/vaultify",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:47:21Z",
+    "url": "https://github.com/IhabAltekreeti/vaultify"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-07-15T18:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A project built to understand Retrieval-Augmented Generation (RAG), including document loading, chunking, embeddings, ve",
+    "id": "Varshith019/rag-from-scratch",
+    "language": "Python",
+    "name": "Varshith019/rag-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:39:07Z",
+    "url": "https://github.com/Varshith019/rag-from-scratch"
   },
   {
     "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
@@ -25,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T18:37:47Z",
     "url": "https://github.com/rukaiah-edhah/RateMyProf"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 42,
-    "updated_at": "2026-07-15T18:36:48Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
   },
   {
     "description": "Open-source big-data serving engine for search and recommendations.",
@@ -81,24 +144,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
-    "id": "IhabAltekreeti/vaultify",
-    "language": "Jupyter Notebook",
-    "name": "IhabAltekreeti/vaultify",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:28:03Z",
-    "url": "https://github.com/IhabAltekreeti/vaultify"
-  },
-  {
     "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
     "id": "CariBosio/mentis-rag-agent",
     "language": "TypeScript",
@@ -121,7 +166,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27942,
+    "stars": 27943,
     "updated_at": "2026-07-15T18:22:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -364,7 +409,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63348,
+    "stars": 63349,
     "updated_at": "2026-07-15T17:24:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -401,52 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16599,
-    "updated_at": "2026-07-15T18:36:31Z",
+    "updated_at": "2026-07-15T18:58:20Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1339,
-    "updated_at": "2026-07-15T18:06:24Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "VS Code extension for Pinecone (Database and Assistant)",
-    "id": "pinecone-io/pinecone-vscode",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-vscode",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:16:13Z",
-    "url": "https://github.com/pinecone-io/pinecone-vscode"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 95,
-    "updated_at": "2026-07-15T18:08:13Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:05:51Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "A production-grade AI workspace built with Spring Boot, Spring AI, Ollama, RAG, Agentic AI, and Local LLMs.",
-    "id": "jawahar-java/ai-workspace",
-    "language": "\u2014",
-    "name": "jawahar-java/ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:02:54Z",
-    "url": "https://github.com/jawahar-java/ai-workspace"
   }
 ]
