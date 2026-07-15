@@ -1,12 +1,102 @@
 [
   {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T21:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
+    "id": "jushayden/claude-code-memory-cache",
+    "language": "Python",
+    "name": "jushayden/claude-code-memory-cache",
+    "stars": 2,
+    "updated_at": "2026-07-15T20:56:59Z",
+    "url": "https://github.com/jushayden/claude-code-memory-cache"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10904,
+    "updated_at": "2026-07-15T20:54:26Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:54:01Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:53:21Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-15T20:53:08Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 29,
+    "updated_at": "2026-07-15T20:52:01Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6244,
+    "updated_at": "2026-07-15T20:49:27Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:48:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-15T20:45:16Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+    "updated_at": "2026-07-15T20:47:53Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:47:18Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   },
   {
     "description": "AI cold email generator using LangChain, Groq & ChromaDB - extracts job details, matches your portfolio via RAG, and dra",
@@ -14,8 +104,53 @@
     "language": "Jupyter Notebook",
     "name": "Dominionai/Zexamail",
     "stars": 0,
-    "updated_at": "2026-07-15T20:44:19Z",
+    "updated_at": "2026-07-15T20:46:48Z",
     "url": "https://github.com/Dominionai/Zexamail"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:46:31Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:46:04Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T20:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:45:23Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:45:16Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
     "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
@@ -27,22 +162,13 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Hybrid RAG legal assistant for Indian cyber law \u2014 BM25 + dense retrieval, cross-encoder reranking, and Groq/Gemini gener",
+    "id": "Yuvrajpawar45/Indian-Legal-Assistant",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T20:41:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T20:40:58Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Yuvrajpawar45/Indian-Legal-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:41:32Z",
+    "url": "https://github.com/Yuvrajpawar45/Indian-Legal-Assistant"
   },
   {
     "description": "KI-Engineering 2026 Vom Software-Entwickler zum AI Engineer. Basierend auf roadmap.sh. Mit Docker-Build, 22 Kapiteln und",
@@ -115,15 +241,6 @@
     "stars": 12604,
     "updated_at": "2026-07-15T20:25:14Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 1,
-    "updated_at": "2026-07-15T20:25:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -207,15 +324,6 @@
     "url": "https://github.com/Slake-Design/slakedesign-rag"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10904,
-    "updated_at": "2026-07-15T19:49:49Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
     "id": "TAIPANBOX/engram",
     "language": "Python",
@@ -232,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T19:35:56Z",
     "url": "https://github.com/Nishant-art27/NotebookLM_RAG"
-  },
-  {
-    "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
-    "id": "jushayden/claude-code-memory-cache",
-    "language": "Python",
-    "name": "jushayden/claude-code-memory-cache",
-    "stars": 2,
-    "updated_at": "2026-07-15T19:35:10Z",
-    "url": "https://github.com/jushayden/claude-code-memory-cache"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -342,111 +441,12 @@
     "url": "https://github.com/Varshith019/rag-from-scratch"
   },
   {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:38:03Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "In this project we learned how to use Retrieval-Augmented Generation (RAG) to improve AI-powered applications to provide",
-    "id": "rukaiah-edhah/RateMyProf",
-    "language": "JavaScript",
-    "name": "rukaiah-edhah/RateMyProf",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:37:47Z",
-    "url": "https://github.com/rukaiah-edhah/RateMyProf"
-  },
-  {
-    "description": "Open-source big-data serving engine for search and recommendations.",
-    "id": "api-evangelist/vespa",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:35:54Z",
-    "url": "https://github.com/api-evangelist/vespa"
-  },
-  {
-    "description": "API Evangelist profile of Vespa \u2014 AI search engine and vector database",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:35:53Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "This is a MCP service for generating and maintaing a private knowledge base using RAG",
-    "id": "MrLuciano/kb-rag-mcp",
-    "language": "Python",
-    "name": "MrLuciano/kb-rag-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-15T20:32:25Z",
-    "url": "https://github.com/MrLuciano/kb-rag-mcp"
-  },
-  {
-    "description": "API and integration profile for Upstash.",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:33:30Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34043,
-    "updated_at": "2026-07-15T18:24:54Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27947,
-    "updated_at": "2026-07-15T18:22:55Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1021,
-    "updated_at": "2026-07-15T19:28:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Tamper-evident .kfp sidecars for RAG chunks, AI memory, vector records, and object storage.",
-    "id": "lll178/kfp-sidecar",
-    "language": "Python",
-    "name": "lll178/kfp-sidecar",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:15:53Z",
-    "url": "https://github.com/lll178/kfp-sidecar"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-15T18:14:50Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "AI memory that actually learns. Zero API keys, zero GPU, zero cloud. ~800 lines of Python.",
-    "id": "rocky007cn/vector-as-memory",
-    "language": "Python",
-    "name": "rocky007cn/vector-as-memory",
-    "stars": 4,
-    "updated_at": "2026-07-15T18:10:50Z",
-    "url": "https://github.com/rocky007cn/vector-as-memory"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7855,
+    "updated_at": "2026-07-15T20:55:16Z",
+    "url": "https://github.com/MariaDB/server"
   }
 ]
