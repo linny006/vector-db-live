@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-15T04:00:19Z",
+    "updated_at": "2026-07-15T04:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:13:51Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 107,
+    "updated_at": "2026-07-15T04:12:37Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1020,
+    "updated_at": "2026-07-15T04:08:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
+    "id": "NextLevelManagementAdvisors/rag-mcp",
+    "language": "Python",
+    "name": "NextLevelManagementAdvisors/rag-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:05:55Z",
+    "url": "https://github.com/NextLevelManagementAdvisors/rag-mcp"
+  },
+  {
+    "description": "An AI OS architecture emphasizing edge computing with privacy-by-design principles.",
+    "id": "engram-os/engram-os",
+    "language": "Python",
+    "name": "engram-os/engram-os",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:01:18Z",
+    "url": "https://github.com/engram-os/engram-os"
   },
   {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "gorigesravani288-cmd/RepoMind",
     "stars": 0,
-    "updated_at": "2026-07-15T03:59:32Z",
+    "updated_at": "2026-07-15T04:00:57Z",
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T04:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-15T03:54:24Z",
+    "updated_at": "2026-07-15T04:14:36Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T03:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T03:44:36Z",
     "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1020,
-    "updated_at": "2026-07-15T03:43:48Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T03:34:39Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 107,
-    "updated_at": "2026-07-15T03:41:45Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 441,
-    "updated_at": "2026-07-15T03:22:41Z",
+    "updated_at": "2026-07-15T04:09:07Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T03:16:39Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:16:23Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:12:17Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Multi-agent LangGraph system: a supervisor plans and delegates to tool-using specialists, a reviewer validates every out",
-    "id": "AlirezaAbedinii/agent-orchestration-system",
-    "language": "Python",
-    "name": "AlirezaAbedinii/agent-orchestration-system",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:09:46Z",
-    "url": "https://github.com/AlirezaAbedinii/agent-orchestration-system"
   }
 ]
