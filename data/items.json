@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-15T20:30:19Z",
+    "updated_at": "2026-07-15T20:40:58Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "KI-Engineering 2026 Vom Software-Entwickler zum AI Engineer. Basierend auf roadmap.sh. Mit Docker-Build, 22 Kapiteln und",
+    "id": "amariwan/Become-an-AI-engineer",
+    "language": "HTML",
+    "name": "amariwan/Become-an-AI-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:39:48Z",
+    "url": "https://github.com/amariwan/Become-an-AI-engineer"
+  },
+  {
+    "description": "AI cold email generator using LangChain, Groq & ChromaDB \u2014 extracts job details, matches your portfolio via RAG, and dra",
+    "id": "Dominionai/Zexamail",
+    "language": "Jupyter Notebook",
+    "name": "Dominionai/Zexamail",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:36:37Z",
+    "url": "https://github.com/Dominionai/Zexamail"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-15T20:35:02Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-15T20:33:37Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:32:31Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-15T20:30:50Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-15T20:30:44Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T20:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agente de IA aut\u00f3nomo (RAG) omnicanal (React + Telegram) para el encuadre cl\u00ednico. Orquestado en n8n con embeddings de C",
@@ -54,15 +126,6 @@
     "url": "https://github.com/bachtiarpanjaitan/ihandai-go"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T20:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-15T20:05:05Z",
+    "updated_at": "2026-07-15T20:33:34Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16601,
-    "updated_at": "2026-07-15T20:15:37Z",
+    "updated_at": "2026-07-15T20:33:37Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "MrLuciano/kb-rag-mcp",
     "stars": 1,
-    "updated_at": "2026-07-15T18:35:30Z",
+    "updated_at": "2026-07-15T20:32:25Z",
     "url": "https://github.com/MrLuciano/kb-rag-mcp"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 45239,
     "updated_at": "2026-07-15T18:00:36Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Production Metadata-Aware Cross-Lingual RAG for Dubai Real Estate | n8n + Gemini 2.5 + Supabase pgvector | AR/EN | Day 5",
-    "id": "Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae",
-    "language": "\u2014",
-    "name": "Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:59:04Z",
-    "url": "https://github.com/Toqeer-Ahmad-ops/enterprise-rag-real-estate-assistant-uae"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 307,
-    "updated_at": "2026-07-15T17:56:35Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 107,
-    "updated_at": "2026-07-15T20:02:53Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:50:58Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 442,
-    "updated_at": "2026-07-15T17:50:51Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "",
-    "id": "sohamdas01/NuroDesk",
-    "language": "JavaScript",
-    "name": "sohamdas01/NuroDesk",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:48:49Z",
-    "url": "https://github.com/sohamdas01/NuroDesk"
-  },
-  {
-    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
-    "id": "vansharora156/nexus-rag",
-    "language": "Python",
-    "name": "vansharora156/nexus-rag",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:48:21Z",
-    "url": "https://github.com/vansharora156/nexus-rag"
   }
 ]
