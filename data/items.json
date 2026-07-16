@@ -1,12 +1,174 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-16T17:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:44:55Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-16T17:44:41Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 90,
+    "updated_at": "2026-07-16T17:44:07Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-16T17:43:57Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
     "description": "Production-grade RAG application for intelligent PDF question answering using FastAPI, Streamlit, Qdrant, LlamaIndex & O",
     "id": "shreya-jain123/ProductionGradeRAGPythonApp",
     "language": "Python",
     "name": "shreya-jain123/ProductionGradeRAGPythonApp",
     "stars": 0,
-    "updated_at": "2026-07-16T17:29:39Z",
+    "updated_at": "2026-07-16T17:43:57Z",
     "url": "https://github.com/shreya-jain123/ProductionGradeRAGPythonApp"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-16T17:43:50Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-16T17:42:39Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-07-16T17:42:18Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-16T17:41:11Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-16T17:41:06Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "A unified vector and structured-filter database engine in Rust, a hybrid similarity and filter search without the overfe",
+    "id": "njokdan/neurastore",
+    "language": "Rust",
+    "name": "njokdan/neurastore",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:39:11Z",
+    "url": "https://github.com/njokdan/neurastore"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-16T17:37:02Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1860,
+    "updated_at": "2026-07-16T17:36:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10911,
+    "updated_at": "2026-07-16T17:31:32Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrobjects",
+    "language": "Rust",
+    "name": "EonsofStupid/rrobjects",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:31:03Z",
+    "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-16T17:30:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T17:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6249,
+    "updated_at": "2026-07-16T17:36:36Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
@@ -18,15 +180,6 @@
     "url": "https://github.com/vansharora156/nexus-rag"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-16T17:28:02Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -34,15 +187,6 @@
     "stars": 1023,
     "updated_at": "2026-07-16T17:27:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:26:31Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
@@ -90,24 +234,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T17:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-16T17:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -124,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T17:13:47Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6249,
-    "updated_at": "2026-07-16T17:30:14Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-16T16:59:12Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-16T16:58:07Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-16T16:57:31Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-16T16:57:06Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 2,
-    "updated_at": "2026-07-16T16:57:05Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-16T17:15:32Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A lightweight, local document assistant that uses Retrieval-Augmented Generation (RAG) to chat with your PDFs, DOCX, TXT",
-    "id": "shibiliCM/rag-chatbot-free-tier",
-    "language": "JavaScript",
-    "name": "shibiliCM/rag-chatbot-free-tier",
-    "stars": 0,
-    "updated_at": "2026-07-16T16:55:04Z",
-    "url": "https://github.com/shibiliCM/rag-chatbot-free-tier"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-16T16:54:59Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrobjects",
-    "language": "Rust",
-    "name": "EonsofStupid/rrobjects",
-    "stars": 0,
-    "updated_at": "2026-07-16T16:54:55Z",
-    "url": "https://github.com/EonsofStupid/rrobjects"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-16T16:54:30Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-07-16T16:54:09Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-16T16:54:04Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-16T16:48:49Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-16T16:48:38Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
