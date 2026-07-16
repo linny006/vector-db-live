@@ -1,5 +1,50 @@
 [
   {
+    "description": "Enterprise AI Automation project featuring a bilingual RAG API with n8n, Gemini 2.5 Flash, Supabase pgvector, semantic s",
+    "id": "Toqeer-Ahmad-ops/enterprise-rag-api-bilingual-hr-assistant-",
+    "language": "\u2014",
+    "name": "Toqeer-Ahmad-ops/enterprise-rag-api-bilingual-hr-assistant-",
+    "stars": 1,
+    "updated_at": "2026-07-16T09:03:13Z",
+    "url": "https://github.com/Toqeer-Ahmad-ops/enterprise-rag-api-bilingual-hr-assistant-"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 4,
+    "updated_at": "2026-07-16T09:02:09Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-16T09:01:47Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T09:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-16T09:00:16Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
     "id": "hfgwygey/yu-ai-agent",
     "language": "Java",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-16T08:59:19Z",
+    "updated_at": "2026-07-16T09:03:02Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 33313,
     "updated_at": "2026-07-16T08:48:47Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T08:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-16T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -133,15 +160,6 @@
     "stars": 202,
     "updated_at": "2026-07-16T08:54:31Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 4,
-    "updated_at": "2026-07-16T08:34:56Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
@@ -306,15 +324,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 11,
-    "updated_at": "2026-07-16T09:00:16Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
     "description": "A filter aware vector search engine written in Julia",
     "id": "53n90ku/Sen.jl",
     "language": "Julia",
@@ -439,14 +448,5 @@
     "stars": 1023,
     "updated_at": "2026-07-16T08:17:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "GauzMem: traceable memory service for AI agents with semantic, graph, and temporal recall. Self-hosted with MySQL, Qdran",
-    "id": "fightheyyy/gauzmem",
-    "language": "Python",
-    "name": "fightheyyy/gauzmem",
-    "stars": 0,
-    "updated_at": "2026-07-16T07:38:17Z",
-    "url": "https://github.com/fightheyyy/gauzmem"
   }
 ]
