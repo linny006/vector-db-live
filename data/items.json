@@ -1,11 +1,110 @@
 [
   {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 4,
+    "updated_at": "2026-07-16T22:14:42Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-07-16T22:13:06Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrobjects",
+    "language": "Rust",
+    "name": "EonsofStupid/rrobjects",
+    "stars": 0,
+    "updated_at": "2026-07-16T22:12:31Z",
+    "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27926,
+    "updated_at": "2026-07-16T22:11:00Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Corporate AI Assistant using RAG, LangChain, Ollama and FAISS",
+    "id": "RCarmelaVO/corporate-ai-agent",
+    "language": "Python",
+    "name": "RCarmelaVO/corporate-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-07-16T22:10:57Z",
+    "url": "https://github.com/RCarmelaVO/corporate-ai-agent"
+  },
+  {
+    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
+    "id": "BMC-INC/Iron-mem",
+    "language": "Rust",
+    "name": "BMC-INC/Iron-mem",
+    "stars": 5,
+    "updated_at": "2026-07-16T22:04:28Z",
+    "url": "https://github.com/BMC-INC/Iron-mem"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-16T22:03:14Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-07-16T22:02:05Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-16T22:13:11Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-16T22:14:47Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T22:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-16T22:00:21Z",
+    "updated_at": "2026-07-16T22:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +115,6 @@
     "stars": 15,
     "updated_at": "2026-07-16T21:57:27Z",
     "url": "https://github.com/remembra-ai/remembra"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 4,
-    "updated_at": "2026-07-16T21:57:06Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -117,24 +207,6 @@
     "url": "https://github.com/chrisipanaque/mcp-pdf-to-pgvector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T21:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Corporate AI Assistant using RAG, LangChain, Ollama and FAISS",
-    "id": "RCarmelaVO/corporate-ai-agent",
-    "language": "Python",
-    "name": "RCarmelaVO/corporate-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-16T21:45:21Z",
-    "url": "https://github.com/RCarmelaVO/corporate-ai-agent"
-  },
-  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T21:44:45Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
-    "id": "BMC-INC/Iron-mem",
-    "language": "Rust",
-    "name": "BMC-INC/Iron-mem",
-    "stars": 5,
-    "updated_at": "2026-07-16T21:59:50Z",
-    "url": "https://github.com/BMC-INC/Iron-mem"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -261,15 +324,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-16T21:57:49Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
     "id": "aziz5971/TalentLens",
     "language": "Python",
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T21:37:37Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-07-16T22:00:03Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T21:27:10Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:26:46Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:26:31Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:26:07Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:22:16Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 7,
-    "updated_at": "2026-07-16T21:22:02Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   }
 ]
