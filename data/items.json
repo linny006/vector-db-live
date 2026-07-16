@@ -1,5 +1,50 @@
 [
   {
+    "description": "Production-grade RAG application for intelligent PDF question answering using FastAPI, Streamlit, Qdrant, LlamaIndex & O",
+    "id": "shreya-jain123/ProductionGradeRAGPythonApp",
+    "language": "Python",
+    "name": "shreya-jain123/ProductionGradeRAGPythonApp",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:50:38Z",
+    "url": "https://github.com/shreya-jain123/ProductionGradeRAGPythonApp"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6249,
+    "updated_at": "2026-07-16T17:47:24Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-16T17:46:55Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-powered semantic movie recommendation system using Sentence Transformers, Milvus Vector Database, Docker, and Streaml",
+    "id": "Prachaith24/CineMatch-AI",
+    "language": "Python",
+    "name": "Prachaith24/CineMatch-AI",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:46:42Z",
+    "url": "https://github.com/Prachaith24/CineMatch-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T17:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 30,
     "updated_at": "2026-07-16T17:43:57Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Production-grade RAG application for intelligent PDF question answering using FastAPI, Streamlit, Qdrant, LlamaIndex & O",
-    "id": "shreya-jain123/ProductionGradeRAGPythonApp",
-    "language": "Python",
-    "name": "shreya-jain123/ProductionGradeRAGPythonApp",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:43:57Z",
-    "url": "https://github.com/shreya-jain123/ProductionGradeRAGPythonApp"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -131,7 +167,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10911,
-    "updated_at": "2026-07-16T17:31:32Z",
+    "updated_at": "2026-07-16T17:51:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -151,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-16T17:30:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T17:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6249,
-    "updated_at": "2026-07-16T17:36:36Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T16:59:47Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 68,
-    "updated_at": "2026-07-16T16:59:42Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-16T16:59:12Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
