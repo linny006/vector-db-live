@@ -1,5 +1,41 @@
 [
   {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrf",
+    "language": "Rust",
+    "name": "EonsofStupid/rrf",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:13:52Z",
+    "url": "https://github.com/EonsofStupid/rrf"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:00:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7856,
+    "updated_at": "2026-07-16T01:56:52Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -25,42 +61,6 @@
     "stars": 399,
     "updated_at": "2026-07-16T01:51:32Z",
     "url": "https://github.com/treygrainger/ai-powered-search"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrf",
-    "language": "Rust",
-    "name": "EonsofStupid/rrf",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:49:25Z",
-    "url": "https://github.com/EonsofStupid/rrf"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7855,
-    "updated_at": "2026-07-16T01:56:52Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-16T01:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-16T01:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",

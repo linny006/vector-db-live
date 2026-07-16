@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-16 02:00 UTC
+> ⏰ Last updated: 2026-07-16 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-07-16 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
-| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 307 | Python | 2026-07-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 3 | [treygrainger/ai-powered-search](https://github.com/treygrainger/ai-powered-search) | 399 | Jupyter Notebook | 2026-07-16 | The codebase for the book "AI-Powered Search" (Manning Publications, 2025) and associated "AI-Powered Search: Modern Ret |
-| 4 | [EonsofStupid/rrf](https://github.com/EonsofStupid/rrf) | 0 | Rust | 2026-07-16 | Reason Ready Flow — not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f |
-| 5 | [MariaDB/server](https://github.com/MariaDB/server) | 7855 | C++ | 2026-07-16 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [EonsofStupid/rrf](https://github.com/EonsofStupid/rrf) | 0 | Rust | 2026-07-16 | Reason Ready Flow — not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [MariaDB/server](https://github.com/MariaDB/server) | 7856 | C++ | 2026-07-16 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 5 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-07-16 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
+| 6 | [schmitech/orbit](https://github.com/schmitech/orbit) | 307 | Python | 2026-07-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 7 | [treygrainger/ai-powered-search](https://github.com/treygrainger/ai-powered-search) | 399 | Jupyter Notebook | 2026-07-16 | The codebase for the book "AI-Powered Search" (Manning Publications, 2025) and associated "AI-Powered Search: Modern Ret |
 | 8 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-16 | The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remembe |
 | 9 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-16 | The Ultimate Vectors Library for Java |
 | 10 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 112 | Rust | 2026-07-16 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
