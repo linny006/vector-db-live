@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-16T07:30:22Z",
+    "updated_at": "2026-07-16T07:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 27963,
+    "updated_at": "2026-07-16T07:41:11Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1023,
+    "updated_at": "2026-07-16T07:38:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "GauzMem: traceable memory service for AI agents with semantic, graph, and temporal recall. Self-hosted with MySQL, Qdran",
+    "id": "fightheyyy/gauzmem",
+    "language": "Python",
+    "name": "fightheyyy/gauzmem",
+    "stars": 0,
+    "updated_at": "2026-07-16T07:38:17Z",
+    "url": "https://github.com/fightheyyy/gauzmem"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 107,
+    "updated_at": "2026-07-16T07:42:51Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1859,
+    "updated_at": "2026-07-16T07:40:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-16T07:37:18Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "CiteRight: A full-stack AI app built with React, FastAPI, Groq, and Supabase that grounds LLM generation in your real do",
+    "id": "sadvik-asus/CiteRight",
+    "language": "Python",
+    "name": "sadvik-asus/CiteRight",
+    "stars": 0,
+    "updated_at": "2026-07-16T07:32:51Z",
+    "url": "https://github.com/sadvik-asus/CiteRight"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 7,
+    "updated_at": "2026-07-16T07:31:13Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T07:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A hands-on sandbox for mastering production-grade Retrieval-Augmented Generation (RAG) and the Model Context Protocol (M",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T07:27:50Z",
     "url": "https://github.com/faizzmi/RAG---MCP-Fundementals"
-  },
-  {
-    "description": "CiteRight: A full-stack AI app built with React, FastAPI, Groq, and Supabase that grounds LLM generation in your real do",
-    "id": "sadvik-asus/CiteRight",
-    "language": "Python",
-    "name": "sadvik-asus/CiteRight",
-    "stars": 0,
-    "updated_at": "2026-07-16T07:25:33Z",
-    "url": "https://github.com/sadvik-asus/CiteRight"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -81,31 +153,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27964,
-    "updated_at": "2026-07-16T07:26:27Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-16T07:16:52Z",
+    "updated_at": "2026-07-16T07:42:35Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T07:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T07:14:48Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 107,
-    "updated_at": "2026-07-16T07:15:42Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T07:12:08Z",
     "url": "https://github.com/Shikhar-code/memcoder"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-16T07:10:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T06:46:32Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-16T06:45:08Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-16T06:44:32Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-16T06:44:11Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "An automated Vector ETL pipeline built in n8n that monitors YouTube channels, extracts raw video caption files via the Y",
-    "id": "raghad595/n8n-YouTube-Transcript-Semantic-Ingestion-Engine",
-    "language": "\u2014",
-    "name": "raghad595/n8n-YouTube-Transcript-Semantic-Ingestion-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-16T06:43:56Z",
-    "url": "https://github.com/raghad595/n8n-YouTube-Transcript-Semantic-Ingestion-Engine"
   }
 ]
