@@ -1,11 +1,83 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7020,
+    "updated_at": "2026-07-16T13:58:32Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Production RAG pipeline for arXiv ML papers: nightly Airflow ingestion, pgvector HNSW search, LLM-as-judge evaluation wi",
+    "id": "dingzehu/arxiv-rag",
+    "language": "Python",
+    "name": "dingzehu/arxiv-rag",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:57:21Z",
+    "url": "https://github.com/dingzehu/arxiv-rag"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-16T13:54:41Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:53:37Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16602,
+    "updated_at": "2026-07-16T13:55:01Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33325,
+    "updated_at": "2026-07-16T13:57:46Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-16T13:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Powerful VS Code extension for managing and querying Weaviate vector databases with an intuitive GraphQL UI. Supports bo",
     "id": "muleyprasad/weaviate-studio",
     "language": "TypeScript",
     "name": "muleyprasad/weaviate-studio",
     "stars": 18,
-    "updated_at": "2026-07-16T13:41:55Z",
+    "updated_at": "2026-07-16T13:50:34Z",
     "url": "https://github.com/muleyprasad/weaviate-studio"
   },
   {
@@ -49,8 +121,8 @@
     "id": "sil3d/MATHIR",
     "language": "Python",
     "name": "sil3d/MATHIR",
-    "stars": 4,
-    "updated_at": "2026-07-16T13:36:17Z",
+    "stars": 2,
+    "updated_at": "2026-07-16T13:56:44Z",
     "url": "https://github.com/sil3d/MATHIR"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-16T13:35:55Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-16T13:45:21Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -106,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T13:30:44Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T13:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-16T13:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -324,6 +369,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "A high-performance in-memory vector database in Java with sun.misc.Unsafe off-heap storage and SIMD-accelerated math.",
+    "id": "UltimateProdigy/velodb",
+    "language": "Java",
+    "name": "UltimateProdigy/velodb",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:13:47Z",
+    "url": "https://github.com/UltimateProdigy/velodb"
+  },
+  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-16T13:07:09Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:07:04Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "A vector database built from first principles in Rust \u2014 HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre",
-    "id": "MaheshBhushan/vektordb",
-    "language": "Rust",
-    "name": "MaheshBhushan/vektordb",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:06:55Z",
-    "url": "https://github.com/MaheshBhushan/vektordb"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:06:17Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 30,
-    "updated_at": "2026-07-16T13:10:50Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12613,
-    "updated_at": "2026-07-16T13:05:42Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:05:32Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
