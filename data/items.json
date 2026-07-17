@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 47,
+    "updated_at": "2026-07-17T10:15:00Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-17T10:14:38Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 372,
+    "updated_at": "2026-07-17T10:14:58Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "AI-powered company knowledge assistant using OpenAI, RAG, Supabase Vector Store, PostgreSQL, and n8n to answer business ",
+    "id": "tamdwin23-ux/ai-company-knowledge-assistant-rag",
+    "language": "\u2014",
+    "name": "tamdwin23-ux/ai-company-knowledge-assistant-rag",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:10:51Z",
+    "url": "https://github.com/tamdwin23-ux/ai-company-knowledge-assistant-rag"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
+    "id": "IvayloP0709/langchain-pdf-rag",
+    "language": "Python",
+    "name": "IvayloP0709/langchain-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:10:28Z",
+    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7020,
+    "updated_at": "2026-07-17T10:09:40Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "DocuMind: An intelligent RAG web app that lets you chat with your private documents using Llama 3.",
+    "id": "Manindra-babu/Knowledge-Base-RAG",
+    "language": "JavaScript",
+    "name": "Manindra-babu/Knowledge-Base-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:03:24Z",
+    "url": "https://github.com/Manindra-babu/Knowledge-Base-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-17T10:00:15Z",
+    "updated_at": "2026-07-17T10:12:26Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:58:03Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 47,
-    "updated_at": "2026-07-17T09:57:57Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -77,17 +149,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45251,
-    "updated_at": "2026-07-17T09:50:40Z",
+    "updated_at": "2026-07-17T10:08:40Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:49:20Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
     "description": "TPT Keystone DB \u2014 a multi-engine data platform. One core engine for relational, geospatial, graph, vector/AI, time-serie",
@@ -106,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T09:45:40Z",
     "url": "https://github.com/mienetic/mnema"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T10:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
@@ -270,15 +315,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "DocuMind: An intelligent RAG web app that lets you chat with your private documents using Llama 3.",
-    "id": "Manindra-babu/Knowledge-Base-RAG",
-    "language": "JavaScript",
-    "name": "Manindra-babu/Knowledge-Base-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:07:49Z",
-    "url": "https://github.com/Manindra-babu/Knowledge-Base-RAG"
-  },
-  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T08:57:21Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15007,
-    "updated_at": "2026-07-17T08:56:22Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-17T08:56:05Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:54:57Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "RAG-powered legal assistant for Indian laws, rights, and procedures using Qdrant, Groq, Firebase, and local embeddings.",
-    "id": "Hrithik875/JustiBot",
-    "language": "Python",
-    "name": "Hrithik875/JustiBot",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:54:38Z",
-    "url": "https://github.com/Hrithik875/JustiBot"
   }
 ]
