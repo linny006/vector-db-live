@@ -1,12 +1,93 @@
 [
   {
-    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 7,
-    "updated_at": "2026-07-17T09:45:08Z",
-    "url": "https://github.com/opencrawling/opencrawling"
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:00:10Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Provider-independent persistent cognition layer for AI agents.",
+    "id": "Shikhar-code/memcoder",
+    "language": "Python",
+    "name": "Shikhar-code/memcoder",
+    "stars": 1,
+    "updated_at": "2026-07-17T09:59:40Z",
+    "url": "https://github.com/Shikhar-code/memcoder"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-17T10:00:15Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:58:03Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 47,
+    "updated_at": "2026-07-17T09:57:57Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-17T09:57:23Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
+    "id": "Sasireddy001/rag-document-qa",
+    "language": "Python",
+    "name": "Sasireddy001/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:55:32Z",
+    "url": "https://github.com/Sasireddy001/rag-document-qa"
+  },
+  {
+    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
+    "id": "muonroi/experience-engine",
+    "language": "JavaScript",
+    "name": "muonroi/experience-engine",
+    "stars": 1,
+    "updated_at": "2026-07-17T09:57:55Z",
+    "url": "https://github.com/muonroi/experience-engine"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45251,
+    "updated_at": "2026-07-17T09:50:40Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
+    "id": "IvayloP0709/langchain-pdf-rag",
+    "language": "Python",
+    "name": "IvayloP0709/langchain-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-07-17T09:49:20Z",
+    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
     "description": "TPT Keystone DB \u2014 a multi-engine data platform. One core engine for relational, geospatial, graph, vector/AI, time-serie",
@@ -14,8 +95,44 @@
     "language": "Rust",
     "name": "tpt-solutions/tpt-keystone-db",
     "stars": 0,
-    "updated_at": "2026-07-17T09:44:53Z",
+    "updated_at": "2026-07-17T09:46:23Z",
     "url": "https://github.com/tpt-solutions/tpt-keystone-db"
+  },
+  {
+    "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Solves the context-window problem with pluggable vector backends ",
+    "id": "mienetic/mnema",
+    "language": "Python",
+    "name": "mienetic/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-17T09:45:40Z",
+    "url": "https://github.com/mienetic/mnema"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T09:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 7,
+    "updated_at": "2026-07-17T09:45:08Z",
+    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -36,33 +153,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "AI agents that learn from mistakes \u2014 not just store facts. Memory shrinks as capability grows.",
-    "id": "muonroi/experience-engine",
-    "language": "JavaScript",
-    "name": "muonroi/experience-engine",
-    "stars": 1,
-    "updated_at": "2026-07-17T09:43:05Z",
-    "url": "https://github.com/muonroi/experience-engine"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45250,
-    "updated_at": "2026-07-17T09:38:40Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:44:30Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -70,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T09:35:26Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Provider-independent persistent cognition layer for AI agents.",
-    "id": "Shikhar-code/memcoder",
-    "language": "Python",
-    "name": "Shikhar-code/memcoder",
-    "stars": 1,
-    "updated_at": "2026-07-17T09:34:57Z",
-    "url": "https://github.com/Shikhar-code/memcoder"
   },
   {
     "description": "Backend for movies recomendations for groups ",
@@ -106,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:32:30Z",
     "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:12:00Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
-    "id": "Sasireddy001/rag-document-qa",
-    "language": "Python",
-    "name": "Sasireddy001/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:10:29Z",
-    "url": "https://github.com/Sasireddy001/rag-document-qa"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -364,7 +418,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15005,
+    "stars": 15007,
     "updated_at": "2026-07-17T08:56:22Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T08:54:38Z",
     "url": "https://github.com/Hrithik875/JustiBot"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:54:30Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-17T08:53:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:53:51Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-17T08:53:50Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:52:44Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:52:08Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
