@@ -1,5 +1,176 @@
 [
   {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-17T00:30:17Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1440,
+    "updated_at": "2026-07-17T00:29:46Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-07-17T00:28:21Z",
+    "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 2,
+    "updated_at": "2026-07-17T00:27:06Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 113,
+    "updated_at": "2026-07-17T00:28:29Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-17T00:26:34Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 2,
+    "updated_at": "2026-07-17T00:26:27Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "Universal memory layer for AI applications. Self-host in minutes. Open source.",
+    "id": "remembra-ai/remembra",
+    "language": "HTML",
+    "name": "remembra-ai/remembra",
+    "stars": 15,
+    "updated_at": "2026-07-17T00:26:21Z",
+    "url": "https://github.com/remembra-ai/remembra"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-07-17T00:25:03Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-17T00:25:00Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "A unified vector and structured-filter database engine in Rust, a hybrid similarity and filter search without the overfe",
+    "id": "njokdan/neurastore",
+    "language": "Rust",
+    "name": "njokdan/neurastore",
+    "stars": 0,
+    "updated_at": "2026-07-17T00:23:09Z",
+    "url": "https://github.com/njokdan/neurastore"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-07-17T00:22:50Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "TPT Keystone DB \u2014 a multi-engine data platform. One core engine for relational, geospatial, graph, vector/AI, time-serie",
+    "id": "tpt-solutions/tpt-keystone-db",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-keystone-db",
+    "stars": 0,
+    "updated_at": "2026-07-17T00:22:45Z",
+    "url": "https://github.com/tpt-solutions/tpt-keystone-db"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-07-17T00:20:17Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-17T00:18:37Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-07-17T00:17:13Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 7,
+    "updated_at": "2026-07-17T00:15:48Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T00:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T00:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
     "id": "yantrikos/yantrikdb-server",
     "language": "Rust",
@@ -7,6 +178,15 @@
     "stars": 164,
     "updated_at": "2026-07-17T00:14:52Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "Multi-language AI visa assistant using RAG over embassy rules and company policy \u2014 explains *why* a document is missing,",
+    "id": "10div10/visa-assistant",
+    "language": "Python",
+    "name": "10div10/visa-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-17T00:14:40Z",
+    "url": "https://github.com/10div10/visa-assistant"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -34,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T00:13:00Z",
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Universal memory layer for AI applications. Self-host in minutes. Open source.",
-    "id": "remembra-ai/remembra",
-    "language": "HTML",
-    "name": "remembra-ai/remembra",
-    "stars": 15,
-    "updated_at": "2026-07-17T00:11:02Z",
-    "url": "https://github.com/remembra-ai/remembra"
   },
   {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
@@ -124,24 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T00:01:11Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T00:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T00:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -265,7 +418,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16603,
+    "stars": 16604,
     "updated_at": "2026-07-16T23:45:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -295,158 +448,5 @@
     "stars": 308,
     "updated_at": "2026-07-16T23:21:06Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2190,
-    "updated_at": "2026-07-16T23:14:27Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Corporate AI Assistant using RAG, LangChain, Ollama and FAISS",
-    "id": "RCarmelaVO/corporate-ai-agent",
-    "language": "Python",
-    "name": "RCarmelaVO/corporate-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-16T23:14:24Z",
-    "url": "https://github.com/RCarmelaVO/corporate-ai-agent"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-07-16T23:24:52Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 39,
-    "updated_at": "2026-07-16T23:06:26Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-16T23:03:36Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 27934,
-    "updated_at": "2026-07-16T23:02:04Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Backend for movies recomendations for groups ",
-    "id": "Biccamor/Moovy",
-    "language": "Python",
-    "name": "Biccamor/Moovy",
-    "stars": 0,
-    "updated_at": "2026-07-16T23:00:30Z",
-    "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 7,
-    "updated_at": "2026-07-17T00:15:07Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6250,
-    "updated_at": "2026-07-16T22:48:11Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-16T22:35:15Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
-    "id": "Rohit-Dnath/RAMen",
-    "language": "Go",
-    "name": "Rohit-Dnath/RAMen",
-    "stars": 32,
-    "updated_at": "2026-07-16T22:31:56Z",
-    "url": "https://github.com/Rohit-Dnath/RAMen"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrobjects",
-    "language": "Rust",
-    "name": "EonsofStupid/rrobjects",
-    "stars": 0,
-    "updated_at": "2026-07-17T00:06:15Z",
-    "url": "https://github.com/EonsofStupid/rrobjects"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 90,
-    "updated_at": "2026-07-16T22:21:08Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 1,
-    "updated_at": "2026-07-16T22:20:15Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-07-16T22:19:01Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-07-16T22:18:57Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 4,
-    "updated_at": "2026-07-16T22:14:42Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   }
 ]
