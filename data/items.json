@@ -1,5 +1,59 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-17T04:23:41Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Universal memory layer for AI applications. Self-host in minutes. Open source.",
+    "id": "remembra-ai/remembra",
+    "language": "HTML",
+    "name": "remembra-ai/remembra",
+    "stars": 15,
+    "updated_at": "2026-07-17T04:23:35Z",
+    "url": "https://github.com/remembra-ai/remembra"
+  },
+  {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrobjects",
+    "language": "Rust",
+    "name": "EonsofStupid/rrobjects",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:19:48Z",
+    "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 43,
+    "updated_at": "2026-07-17T04:19:46Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-17T04:24:50Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T04:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 40,
-    "updated_at": "2026-07-17T04:10:15Z",
+    "updated_at": "2026-07-17T04:15:39Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T04:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -72,15 +117,6 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 43,
-    "updated_at": "2026-07-17T03:55:59Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -88,24 +124,6 @@
     "stars": 5,
     "updated_at": "2026-07-17T03:54:59Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrobjects",
-    "language": "Rust",
-    "name": "EonsofStupid/rrobjects",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:54:06Z",
-    "url": "https://github.com/EonsofStupid/rrobjects"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-17T04:08:24Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "System framework and architecture docs for a hybrid RAG and rule-based enrollment chatbot with human-in-the-loop fallbac",
@@ -124,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T03:38:58Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Universal memory layer for AI applications. Self-host in minutes. Open source.",
-    "id": "remembra-ai/remembra",
-    "language": "HTML",
-    "name": "remembra-ai/remembra",
-    "stars": 15,
-    "updated_at": "2026-07-17T03:37:53Z",
-    "url": "https://github.com/remembra-ai/remembra"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -157,7 +166,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33338,
+    "stars": 33339,
     "updated_at": "2026-07-17T03:33:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:12:01Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-17T03:08:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
