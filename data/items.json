@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1860,
+    "updated_at": "2026-07-17T10:51:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:50:49Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-17T10:49:34Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-07-17T10:49:13Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 101,
+    "updated_at": "2026-07-17T10:47:54Z",
+    "url": "https://github.com/weaviate/typescript-client"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:47:34Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:45:52Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:45:17Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
     "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
     "id": "roberto729a/OllamaRAG",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "Hrithik875/JustiBot",
     "stars": 1,
-    "updated_at": "2026-07-17T10:39:24Z",
+    "updated_at": "2026-07-17T10:47:43Z",
     "url": "https://github.com/Hrithik875/JustiBot"
   },
   {
@@ -117,15 +207,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1860,
-    "updated_at": "2026-07-17T10:33:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -133,24 +214,6 @@
     "stars": 33348,
     "updated_at": "2026-07-17T10:32:15Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T10:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T10:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -293,7 +356,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-17T10:43:28Z",
+    "updated_at": "2026-07-17T10:50:22Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:34:48Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
-    "id": "dasu07988/Enterprise-AI-Incident-Resolution-System",
-    "language": "Python",
-    "name": "dasu07988/Enterprise-AI-Incident-Resolution-System",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:32:30Z",
-    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12627,
-    "updated_at": "2026-07-17T09:27:04Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
-    "id": "thustorage/PipeANN",
-    "language": "C++",
-    "name": "thustorage/PipeANN",
-    "stars": 143,
-    "updated_at": "2026-07-17T09:22:57Z",
-    "url": "https://github.com/thustorage/PipeANN"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1024,
-    "updated_at": "2026-07-17T09:15:59Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:13:58Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:12:00Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:09:45Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
