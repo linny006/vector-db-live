@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 91,
+    "updated_at": "2026-07-17T12:58:42Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:58:31Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
+    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:58:22Z",
+    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:57:50Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:56:31Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-17T12:56:20Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 47,
+    "updated_at": "2026-07-17T12:56:14Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 310,
+    "updated_at": "2026-07-17T12:52:45Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "About AI-powered Document Intelligence Platform built with FastAPI, React, Gemini AI, ChromaDB, and Redis. Supports mult",
+    "id": "Subhadeep-pan/RAG_Based_Document_Assistant",
+    "language": "Python",
+    "name": "Subhadeep-pan/RAG_Based_Document_Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:48:43Z",
+    "url": "https://github.com/Subhadeep-pan/RAG_Based_Document_Assistant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12627,
+    "updated_at": "2026-07-17T12:48:34Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33350,
+    "updated_at": "2026-07-17T12:46:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T12:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "Go",
     "name": "mayankanup/commerce-ai-platform",
     "stars": 0,
-    "updated_at": "2026-07-17T12:43:48Z",
+    "updated_at": "2026-07-17T13:00:14Z",
     "url": "https://github.com/mayankanup/commerce-ai-platform"
-  },
-  {
-    "description": "About AI-powered Document Intelligence Platform built with FastAPI, React, Gemini AI, ChromaDB, and Redis. Supports mult",
-    "id": "Subhadeep-pan/RAG_Based_Document_Assistant",
-    "language": "Python",
-    "name": "Subhadeep-pan/RAG_Based_Document_Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:43:24Z",
-    "url": "https://github.com/Subhadeep-pan/RAG_Based_Document_Assistant"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -32,7 +131,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 108,
-    "updated_at": "2026-07-17T12:44:23Z",
+    "updated_at": "2026-07-17T12:50:32Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16606,
-    "updated_at": "2026-07-17T12:38:01Z",
+    "updated_at": "2026-07-17T12:59:30Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T12:35:50Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12627,
-    "updated_at": "2026-07-17T12:34:48Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:30:24Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T12:23:43Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
-    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "language": "Python",
-    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:22:28Z",
-    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -329,7 +401,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7020,
-    "updated_at": "2026-07-17T12:12:36Z",
+    "updated_at": "2026-07-17T12:59:24Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -340,6 +412,15 @@
     "stars": 75,
     "updated_at": "2026-07-17T12:40:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6016,
+    "updated_at": "2026-07-17T12:11:36Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:09:34Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
-    "id": "GenAIwithMS/OpenGPT",
-    "language": "Python",
-    "name": "GenAIwithMS/OpenGPT",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:06:10Z",
-    "url": "https://github.com/GenAIwithMS/OpenGPT"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:04:32Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:04:32Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:04:18Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1860,
-    "updated_at": "2026-07-17T12:04:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:03:36Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-17T12:03:28Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-17T12:02:45Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:02:04Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
