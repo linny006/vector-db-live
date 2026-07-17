@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
+    "id": "mayankanup/commerce-ai-platform",
+    "language": "Go",
+    "name": "mayankanup/commerce-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:43:48Z",
+    "url": "https://github.com/mayankanup/commerce-ai-platform"
+  },
+  {
+    "description": "About AI-powered Document Intelligence Platform built with FastAPI, React, Gemini AI, ChromaDB, and Redis. Supports mult",
+    "id": "Subhadeep-pan/RAG_Based_Document_Assistant",
+    "language": "Python",
+    "name": "Subhadeep-pan/RAG_Based_Document_Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:43:24Z",
+    "url": "https://github.com/Subhadeep-pan/RAG_Based_Document_Assistant"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 108,
+    "updated_at": "2026-07-17T12:44:23Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16606,
+    "updated_at": "2026-07-17T12:38:01Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-17T12:35:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12627,
+    "updated_at": "2026-07-17T12:34:48Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:34:13Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:32:16Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 448,
+    "updated_at": "2026-07-17T12:31:54Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-17T12:30:24Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T12:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -52,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-07-17T12:23:43Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
+    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-17T12:22:28Z",
+    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -162,24 +279,6 @@
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T12:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
     "id": "aziz5971/TalentLens",
     "language": "Python",
@@ -194,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27973,
-    "updated_at": "2026-07-17T12:13:35Z",
+    "updated_at": "2026-07-17T12:43:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,7 +338,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-17T12:12:26Z",
+    "updated_at": "2026-07-17T12:40:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -268,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T12:09:34Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 108,
-    "updated_at": "2026-07-17T12:17:14Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T12:02:04Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:01:52Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-17T12:01:37Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-17T11:59:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
-    "id": "mienetic/mnema",
-    "language": "Python",
-    "name": "mienetic/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-17T11:57:15Z",
-    "url": "https://github.com/mienetic/mnema"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-17T11:57:11Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-17T11:53:12Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45251,
-    "updated_at": "2026-07-17T11:52:40Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-17T11:52:27Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-17T11:50:38Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-17T11:50:31Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
