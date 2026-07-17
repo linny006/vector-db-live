@@ -1,5 +1,59 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12625,
+    "updated_at": "2026-07-17T09:27:04Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1860,
+    "updated_at": "2026-07-17T09:28:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45250,
+    "updated_at": "2026-07-17T09:26:40Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
+    "id": "thustorage/PipeANN",
+    "language": "C++",
+    "name": "thustorage/PipeANN",
+    "stars": 143,
+    "updated_at": "2026-07-17T09:22:57Z",
+    "url": "https://github.com/thustorage/PipeANN"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 3,
+    "updated_at": "2026-07-17T09:20:20Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1024,
-    "updated_at": "2026-07-17T09:14:40Z",
+    "updated_at": "2026-07-17T09:15:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:13:02Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T09:12:00Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12625,
-    "updated_at": "2026-07-17T09:11:10Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-17T09:09:37Z",
+    "updated_at": "2026-07-17T09:29:36Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T09:00:28Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T09:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-Powered Code Comprehension",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T08:43:44Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-17T08:43:34Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:43:27Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-17T08:43:02Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
