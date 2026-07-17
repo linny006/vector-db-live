@@ -5,7 +5,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-17T04:23:41Z",
+    "updated_at": "2026-07-17T04:30:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -14,7 +14,7 @@
     "language": "HTML",
     "name": "remembra-ai/remembra",
     "stars": 15,
-    "updated_at": "2026-07-17T04:23:35Z",
+    "updated_at": "2026-07-17T04:28:20Z",
     "url": "https://github.com/remembra-ai/remembra"
   },
   {
@@ -23,8 +23,26 @@
     "language": "Rust",
     "name": "EonsofStupid/rrobjects",
     "stars": 0,
-    "updated_at": "2026-07-17T04:19:48Z",
+    "updated_at": "2026-07-17T04:27:58Z",
     "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T04:24:58Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Chat with your own documents and get answers grounded in them, with inline citations to the source file and page. FastAP",
+    "id": "Shivansh9307/rag-Chatbot-llm",
+    "language": "TypeScript",
+    "name": "Shivansh9307/rag-Chatbot-llm",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:24:56Z",
+    "url": "https://github.com/Shivansh9307/rag-Chatbot-llm"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -43,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-07-17T04:24:50Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T04:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -79,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-17T04:10:52Z",
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1399,
+    "updated_at": "2026-07-17T04:08:56Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:12:50Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-17T03:12:20Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-17T03:12:01Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
