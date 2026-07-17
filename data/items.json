@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
+    "id": "Coriou/up-vector",
+    "language": "TypeScript",
+    "name": "Coriou/up-vector",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:41:30Z",
+    "url": "https://github.com/Coriou/up-vector"
+  },
+  {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrobjects",
+    "language": "Rust",
+    "name": "EonsofStupid/rrobjects",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:40:34Z",
+    "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T15:39:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -13,7 +40,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 27977,
+    "stars": 27978,
     "updated_at": "2026-07-17T15:34:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:31:59Z",
     "url": "https://github.com/akshay-genai/enterprise-rag-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T15:30:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -212,17 +230,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16606,
-    "updated_at": "2026-07-17T15:34:38Z",
+    "updated_at": "2026-07-17T15:39:56Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrobjects",
-    "language": "Rust",
-    "name": "EonsofStupid/rrobjects",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:36:04Z",
-    "url": "https://github.com/EonsofStupid/rrobjects"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T14:36:37Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:35:47Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
