@@ -1,12 +1,84 @@
 [
   {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:03:35Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-07-17T18:03:27Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
     "name": "giuliano0s/ifrs-canoas-rag",
     "stars": 0,
-    "updated_at": "2026-07-17T17:58:31Z",
+    "updated_at": "2026-07-17T18:03:13Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
+    "id": "dasu07988/Enterprise-AI-Incident-Resolution-System",
+    "language": "Python",
+    "name": "dasu07988/Enterprise-AI-Incident-Resolution-System",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:02:48Z",
+    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:02:37Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-17T18:01:54Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
+    "id": "vansharora156/nexus-rag",
+    "language": "Python",
+    "name": "vansharora156/nexus-rag",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:01:39Z",
+    "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T18:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T18:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "EonsofStupid/rrobjects",
     "stars": 0,
-    "updated_at": "2026-07-17T17:56:46Z",
+    "updated_at": "2026-07-17T18:01:41Z",
     "url": "https://github.com/EonsofStupid/rrobjects"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 108,
-    "updated_at": "2026-07-17T17:53:24Z",
+    "updated_at": "2026-07-17T18:01:42Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -178,24 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-17T17:46:03Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-17T17:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-17T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
@@ -288,15 +342,6 @@
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-17T17:36:09Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27982,
-    "updated_at": "2026-07-17T17:59:48Z",
+    "updated_at": "2026-07-17T18:02:08Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "zd87pl/loci-db",
     "stars": 3,
-    "updated_at": "2026-07-17T17:30:53Z",
+    "updated_at": "2026-07-17T18:03:11Z",
     "url": "https://github.com/zd87pl/loci-db"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T17:23:59Z",
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
-    "id": "mayankanup/commerce-ai-platform",
-    "language": "Go",
-    "name": "mayankanup/commerce-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-17T17:23:45Z",
-    "url": "https://github.com/mayankanup/commerce-ai-platform"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-07-17T17:21:21Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-07-17T17:20:41Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-07-17T17:20:36Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-07-17T17:20:27Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
   }
 ]
