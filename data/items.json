@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T15:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-18T15:13:48Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 91,
+    "updated_at": "2026-07-18T15:12:31Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-07-18T15:11:39Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-18T15:10:19Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-18T15:10:06Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28120,
+    "updated_at": "2026-07-18T15:04:15Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2193,
+    "updated_at": "2026-07-18T15:01:23Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-07-18T15:01:00Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T15:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 310,
+    "updated_at": "2026-07-18T15:00:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T14:51:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -59,7 +149,7 @@
     "language": "\u2014",
     "name": "Adelsheded/AI-Knowledge-Base-Assistant-RAG",
     "stars": 0,
-    "updated_at": "2026-07-18T14:48:50Z",
+    "updated_at": "2026-07-18T15:04:17Z",
     "url": "https://github.com/Adelsheded/AI-Knowledge-Base-Assistant-RAG"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/veawho/via54ADIdeahub"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T14:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "Python",
@@ -117,15 +198,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 310,
-    "updated_at": "2026-07-18T15:00:20Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
     "id": "EonsofStupid/rrobjects",
     "language": "Rust",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:39:37Z",
     "url": "https://github.com/EonsofStupid/rrobjects"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28119,
-    "updated_at": "2026-07-18T14:28:22Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -202,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33371,
+    "stars": 33372,
     "updated_at": "2026-07-18T14:09:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -230,7 +293,7 @@
     "language": "TypeScript",
     "name": "EVEDensity/AgentHub",
     "stars": 13,
-    "updated_at": "2026-07-18T14:58:49Z",
+    "updated_at": "2026-07-18T15:03:42Z",
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T13:47:14Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:47:00Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-18T13:45:37Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:44:42Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:44:33Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:44:14Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:43:26Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:42:22Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
