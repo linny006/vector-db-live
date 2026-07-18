@@ -1,11 +1,146 @@
 [
   {
+    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
+    "id": "Faraz6180/Insightpilot-ai",
+    "language": "Python",
+    "name": "Faraz6180/Insightpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:59:04Z",
+    "url": "https://github.com/Faraz6180/Insightpilot-ai"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:57:13Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-18T19:57:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:55:35Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
+    "id": "234194027-cpu/aion-memory-nexus",
+    "language": "Python",
+    "name": "234194027-cpu/aion-memory-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:54:43Z",
+    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
+  },
+  {
+    "description": "AI-powered conversational RAG system for chatting with PDF documents using LangChain, ChromaDB, Hugging Face embeddings,",
+    "id": "jalasamir21/Conversational-RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "jalasamir21/Conversational-RAG-PDF-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:53:59Z",
+    "url": "https://github.com/jalasamir21/Conversational-RAG-PDF-Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-18T19:53:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:53:32Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Production-ready RAG + AI Agent platform. Hybrid retrieval (dense + BM25 + RRF), multi-step ReAct agents with LangGraph,",
+    "id": "SeydinaBANE/rag-agent",
+    "language": "Python",
+    "name": "SeydinaBANE/rag-agent",
+    "stars": 1,
+    "updated_at": "2026-07-18T19:52:48Z",
+    "url": "https://github.com/SeydinaBANE/rag-agent"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:51:32Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:47:57Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:47:23Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 1,
+    "updated_at": "2026-07-18T19:47:06Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "AI-powered ATS Resume Checker built with RAG, LangChain, FAISS, Groq LLMs, Hugging Face embeddings, and Streamlit.",
+    "id": "jalasamir21/AI-ATS-Resume-Checker",
+    "language": "Python",
+    "name": "jalasamir21/AI-ATS-Resume-Checker",
+    "stars": 0,
+    "updated_at": "2026-07-18T19:46:25Z",
+    "url": "https://github.com/jalasamir21/AI-ATS-Resume-Checker"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T19:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-18T19:45:19Z",
+    "updated_at": "2026-07-18T20:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -81,15 +216,6 @@
     "url": "https://github.com/cornelablastular720/dbdb-index"
   },
   {
-    "description": "Production-ready RAG + AI Agent platform. Hybrid retrieval (dense + BM25 + RRF), multi-step ReAct agents with LangGraph,",
-    "id": "SeydinaBANE/rag-agent",
-    "language": "Python",
-    "name": "SeydinaBANE/rag-agent",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:42:12Z",
-    "url": "https://github.com/SeydinaBANE/rag-agent"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -106,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-07-18T19:41:43Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33380,
+    "updated_at": "2026-07-18T19:41:27Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
@@ -225,15 +360,6 @@
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -288,15 +414,6 @@
     "url": "https://github.com/Boney-massiveness357/ragscope"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-18T19:25:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
     "id": "eastythenob8-svg/graph-memory",
     "language": "TypeScript",
@@ -331,122 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-18T19:24:31Z",
     "url": "https://github.com/puffball1567/rochedb"
-  },
-  {
-    "description": "My reading notes following \" AI-Powered Search\" by Doug Turnbull, Max Irwin, and Trey Grainger",
-    "id": "Ishaan-Ansari/AI-Powered-Search",
-    "language": "Jupyter Notebook",
-    "name": "Ishaan-Ansari/AI-Powered-Search",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:23:24Z",
-    "url": "https://github.com/Ishaan-Ansari/AI-Powered-Search"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:37:32Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 3,
-    "updated_at": "2026-07-18T19:21:21Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:20:33Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:16:36Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-18T19:16:15Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:14:05Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:14:01Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-07-18T19:13:27Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-18T19:24:04Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:10:40Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-07-18T19:09:22Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-18T19:08:47Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
