@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-18T20:44:34Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-18T20:44:08Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-18T20:39:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1027,
+    "updated_at": "2026-07-18T20:41:32Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "My reading notes following \" AI-Powered Search\" by Doug Turnbull, Max Irwin, and Trey Grainger",
+    "id": "Ishaan-Ansari/AI-Powered-Search",
+    "language": "Jupyter Notebook",
+    "name": "Ishaan-Ansari/AI-Powered-Search",
+    "stars": 0,
+    "updated_at": "2026-07-18T20:34:48Z",
+    "url": "https://github.com/Ishaan-Ansari/AI-Powered-Search"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-18T20:31:01Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-18T20:27:39Z",
+    "updated_at": "2026-07-18T20:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-18T20:22:52Z",
+    "updated_at": "2026-07-18T20:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -85,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28158,
+    "stars": 28160,
     "updated_at": "2026-07-18T19:59:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T19:57:13Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:57:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -214,6 +259,15 @@
     "stars": 1,
     "updated_at": "2026-07-18T19:44:46Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16609,
+    "updated_at": "2026-07-18T19:43:47Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Object storage for the AI age",
@@ -378,15 +432,6 @@
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-18T20:17:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
     "id": "Bielrezende/WMB-100K",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-18T19:33:32Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:33:09Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:28:03Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-18T19:27:50Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:27:44Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-18T19:27:07Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
