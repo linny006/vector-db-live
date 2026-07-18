@@ -1,5 +1,95 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45269,
+    "updated_at": "2026-07-18T14:26:40Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-18T14:26:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u533b\u5b66\u4f20\u64ad\u521b\u610f\u5411\u91cf\u77e5\u8bc6\u5e93 \u2014 \u8bed\u4e49\u68c0\u7d22 RAG + 52\u4e2a\u5168\u7403\u521b\u610f\u6848\u4f8b\u6df1\u5ea6\u62a5\u544a",
+    "id": "veawho/via54ADIdeahub",
+    "language": "Python",
+    "name": "veawho/via54ADIdeahub",
+    "stars": 1,
+    "updated_at": "2026-07-18T14:25:29Z",
+    "url": "https://github.com/veawho/via54ADIdeahub"
+  },
+  {
+    "description": "AI-powered RAG Knowledge Base Assistant built with n8n, Supabase, OpenRouter, and HuggingFace Embeddings.Version 1 of an",
+    "id": "Adelsheded/AI-Knowledge-Base-Assistant-RAG",
+    "language": "\u2014",
+    "name": "Adelsheded/AI-Knowledge-Base-Assistant-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:21:54Z",
+    "url": "https://github.com/Adelsheded/AI-Knowledge-Base-Assistant-RAG"
+  },
+  {
+    "description": "A reusable HeiSD and RT-Cache retrieval-augmented experience-memory toolkit for embodied agents.",
+    "id": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
+    "language": "Python",
+    "name": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:21:40Z",
+    "url": "https://github.com/lusunn111/RoboNix-Retrieval-Augmented-Toolkit"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 310,
+    "updated_at": "2026-07-18T14:21:07Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:19:48Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
+    "id": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "language": "Python",
+    "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "stars": 7,
+    "updated_at": "2026-07-18T14:16:18Z",
+    "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T14:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T14:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:10:26Z",
     "url": "https://github.com/prerna-m01/Multi-Agent-Research-Assistant"
-  },
-  {
-    "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
-    "id": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
-    "language": "Python",
-    "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
-    "stars": 7,
-    "updated_at": "2026-07-18T14:10:03Z",
-    "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "EVEDensity/AgentHub",
     "stars": 13,
-    "updated_at": "2026-07-18T14:10:12Z",
+    "updated_at": "2026-07-18T14:24:59Z",
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
@@ -61,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:01:05Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T14:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T14:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -329,7 +392,7 @@
     "language": "Rust",
     "name": "EonsofStupid/rrobjects",
     "stars": 0,
-    "updated_at": "2026-07-18T13:39:33Z",
+    "updated_at": "2026-07-18T14:28:11Z",
     "url": "https://github.com/EonsofStupid/rrobjects"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 114,
-    "updated_at": "2026-07-18T13:38:16Z",
+    "updated_at": "2026-07-18T14:18:01Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -364,18 +427,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28110,
-    "updated_at": "2026-07-18T13:34:12Z",
+    "stars": 28111,
+    "updated_at": "2026-07-18T14:28:22Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:33:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-18T13:33:26Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:33:19Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:32:38Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:31:50Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:31:45Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:31:17Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:31:13Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
