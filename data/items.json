@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-18T17:44:37Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) Assistant built with Python, ChromaDB, Streamlit and an Experiment",
+    "id": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+    "language": "Python",
+    "name": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+    "stars": 0,
+    "updated_at": "2026-07-18T17:43:40Z",
+    "url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 2,
+    "updated_at": "2026-07-18T17:42:39Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
+    "stars": 0,
+    "updated_at": "2026-07-18T17:37:44Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T17:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T17:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG assistant over the official IFAB Laws of the Game & FIFA World Cup 2026 regulations - cited answers or an honest \"I ",
     "id": "potluriarun/FIFA-RAG-ASSISTANT",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-18T17:29:44Z",
     "url": "https://github.com/potluriarun/FIFA-RAG-ASSISTANT"
+  },
+  {
+    "description": "A production-style Retrieval-Augmented Generation (RAG) system using OpenAI LLMs, embeddings, ChromaDB vector database, ",
+    "id": "mohamed00112200/Production-RAG-System-with-Guardrails",
+    "language": "JavaScript",
+    "name": "mohamed00112200/Production-RAG-System-with-Guardrails",
+    "stars": 0,
+    "updated_at": "2026-07-18T17:27:44Z",
+    "url": "https://github.com/mohamed00112200/Production-RAG-System-with-Guardrails"
   },
   {
     "description": "AI powered crime documentation legal intelligence platform",
@@ -70,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T17:16:45Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T17:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T17:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-18T16:50:45Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-07-18T16:50:37Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-18T16:50:06Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-18T16:50:00Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-18T16:49:29Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-18T16:45:01Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
