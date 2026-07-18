@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u57fa\u4e8e Spring Boot 3.4\u3001Spring AI \u4e0e PgVector \u6784\u5efa\u7684\u8f7b\u91cf\u7ea7 RAG \u667a\u80fd\u77e5\u8bc6\u5e93\u7cfb\u7edf\u3002\u652f\u6301\u6587\u6863\u6bb5\u843d\u81ea\u52a8\u5206\u7247\u3001\u5411\u91cf\u5316\u5b58\u50a8\u3001\u7cbe\u51c6\u76f8\u4f3c\u5ea6\u68c0\u7d22\u4ee5\u53ca SSE \u6d41\u5f0f\u5bf9\u8bdd\u5e94\u7b54\u3002",
+    "id": "pineapple-chuixue/smart-knowledge-base",
+    "language": "Java",
+    "name": "pineapple-chuixue/smart-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:55:49Z",
+    "url": "https://github.com/pineapple-chuixue/smart-knowledge-base"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-07-18T09:52:20Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-18T09:52:12Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) assistant for Telecom Network Operations Centers (NOC) using FastAPI, Ch",
+    "id": "salman-telecomAI/telecom-ai-noc-rag-assistant",
+    "language": "Python",
+    "name": "salman-telecomAI/telecom-ai-noc-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:51:54Z",
+    "url": "https://github.com/salman-telecomAI/telecom-ai-noc-rag-assistant"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 224,
+    "updated_at": "2026-07-18T09:48:39Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:47:59Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:46:56Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-18T09:46:46Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T09:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-07-18T09:40:07Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-07-18T09:44:14Z",
-    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -144,15 +216,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T09:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -178,15 +241,6 @@
     "stars": 11,
     "updated_at": "2026-07-18T09:23:23Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 224,
-    "updated_at": "2026-07-18T09:22:35Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -239,7 +293,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-18T09:11:59Z",
+    "updated_at": "2026-07-18T09:51:14Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-18T09:28:16Z",
+    "updated_at": "2026-07-18T09:51:28Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/Vektor-Memory/Vektor-memory"
   },
   {
-    "description": "\u57fa\u4e8e Spring Boot 3.4\u3001Spring AI \u4e0e PgVector \u6784\u5efa\u7684\u8f7b\u91cf\u7ea7 RAG \u667a\u80fd\u77e5\u8bc6\u5e93\u7cfb\u7edf\u3002\u652f\u6301\u6587\u6863\u6bb5\u843d\u81ea\u52a8\u5206\u7247\u3001\u5411\u91cf\u5316\u5b58\u50a8\u3001\u7cbe\u51c6\u76f8\u4f3c\u5ea6\u68c0\u7d22\u4ee5\u53ca SSE \u6d41\u5f0f\u5bf9\u8bdd\u5e94\u7b54\u3002",
-    "id": "pineapple-chuixue/smart-knowledge-base",
-    "language": "Java",
-    "name": "pineapple-chuixue/smart-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:20:44Z",
-    "url": "https://github.com/pineapple-chuixue/smart-knowledge-base"
-  },
-  {
     "description": "Distributed vector search for AI-native applications",
     "id": "vearch/vearch",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-18T08:14:56Z",
     "url": "https://github.com/BMC-INC/Iron-mem"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:12:00Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Context-Gated Memory Daemon and CRDT 80/20 Compactor for Antigravity.",
-    "id": "axtontc/AntiMem",
-    "language": "Python",
-    "name": "axtontc/AntiMem",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:10:52Z",
-    "url": "https://github.com/axtontc/AntiMem"
-  },
-  {
-    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
-    "id": "syalia-srl/beaver",
-    "language": "Python",
-    "name": "syalia-srl/beaver",
-    "stars": 36,
-    "updated_at": "2026-07-18T08:10:49Z",
-    "url": "https://github.com/syalia-srl/beaver"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:10:14Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58632,
-    "updated_at": "2026-07-18T08:10:14Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
