@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T06:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28058,
+    "updated_at": "2026-07-18T06:30:13Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
+    "id": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "language": "Python",
+    "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "stars": 7,
+    "updated_at": "2026-07-18T06:29:59Z",
+    "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-18T06:29:10Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:25:16Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-18T06:24:46Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-18T06:24:31Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-18T06:24:24Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T06:21:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
     "id": "Shr9vaniii/Onboarding_rag_engine",
     "language": "Python",
@@ -61,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T06:16:15Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T06:15:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T06:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -167,7 +230,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45262,
-    "updated_at": "2026-07-18T05:48:41Z",
+    "updated_at": "2026-07-18T06:24:40Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:30:46Z",
-    "url": "https://github.com/88plug/total-recall"
-  },
-  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T05:27:49Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63466,
-    "updated_at": "2026-07-18T05:27:31Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "A beginner-friendly Vector Search Demo using Python and ChromaDB to perform semantic search with automatic embeddings an",
-    "id": "chaitanyaramisetti4589-gif/vector_search_demo",
-    "language": "Python",
-    "name": "chaitanyaramisetti4589-gif/vector_search_demo",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:27:23Z",
-    "url": "https://github.com/chaitanyaramisetti4589-gif/vector_search_demo"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:26:59Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:26:49Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-18T05:25:25Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:24:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
