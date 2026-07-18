@@ -1,5 +1,41 @@
 [
   {
+    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
+    "id": "EonsofStupid/rrobjects",
+    "language": "Rust",
+    "name": "EonsofStupid/rrobjects",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:13:01Z",
+    "url": "https://github.com/EonsofStupid/rrobjects"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:12:37Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-18T03:15:14Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-18T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-18T03:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
-    "id": "EonsofStupid/rrobjects",
-    "language": "Rust",
-    "name": "EonsofStupid/rrobjects",
-    "stars": 0,
-    "updated_at": "2026-07-18T02:59:27Z",
-    "url": "https://github.com/EonsofStupid/rrobjects"
   },
   {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
@@ -27,15 +54,6 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-18T02:59:34Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "raiyanyahya/llmaker",
     "language": "Go",
@@ -43,15 +61,6 @@
     "stars": 97,
     "updated_at": "2026-07-18T02:48:51Z",
     "url": "https://github.com/raiyanyahya/llmaker"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-18T02:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T01:56:22Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-18T01:52:31Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
