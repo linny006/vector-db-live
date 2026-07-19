@@ -1,5 +1,50 @@
 [
   {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:54:44Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-19T09:56:15Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "A RoboNix Skill for experience-memory retrieval and verified action reuse across OpenVLA and \u03c00.",
+    "id": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
+    "language": "Python",
+    "name": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:49:51Z",
+    "url": "https://github.com/lusunn111/RoboNix-Retrieval-Augmented-Toolkit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T09:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T09:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A comprehensive, practical, beginner-to-advanced guide focused on the Google Agent Development Kit (ADK). It is intended",
     "id": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
     "language": "\u2014",
@@ -27,15 +72,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A reusable HeiSD and RT-Cache retrieval-augmented experience-memory toolkit for embodied agents.",
-    "id": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
-    "language": "Python",
-    "name": "lusunn111/RoboNix-Retrieval-Augmented-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:40:04Z",
-    "url": "https://github.com/lusunn111/RoboNix-Retrieval-Augmented-Toolkit"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -43,33 +79,6 @@
     "stars": 75,
     "updated_at": "2026-07-19T09:37:14Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-19T09:35:32Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T09:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
@@ -148,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28311,
+    "stars": 28319,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:08:01Z",
     "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:02:59Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
