@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T09:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
+    "id": "syzayd/recall",
+    "language": "Python",
+    "name": "syzayd/recall",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:26:22Z",
+    "url": "https://github.com/syzayd/recall"
+  },
+  {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
     "id": "gorigesravani288-cmd/RepoMind",
     "language": "Python",
     "name": "gorigesravani288-cmd/RepoMind",
     "stars": 0,
-    "updated_at": "2026-07-19T09:18:53Z",
+    "updated_at": "2026-07-19T09:26:08Z",
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
+    "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
+    "language": "TypeScript",
+    "name": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:22:54Z",
+    "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-19T09:22:07Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 53,
+    "updated_at": "2026-07-19T09:20:28Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T09:19:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A local, open-source stack for building conversational data agents and semantic reasoning workflows over an Iceberg Lake",
@@ -36,29 +90,11 @@
     "url": "https://github.com/amariwan/Become-an-AI-engineer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T09:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28304,
+    "stars": 28307,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-19T09:12:14Z",
+    "updated_at": "2026-07-19T09:28:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
   },
   {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 53,
-    "updated_at": "2026-07-19T09:10:45Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
     "id": "Mr-DS-ML-85/StrikeDB",
     "language": "Rust",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:02:59Z",
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-19T08:59:26Z",
-    "url": "https://github.com/fthsrbst/mnema"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-19T08:41:15Z",
+    "updated_at": "2026-07-19T09:27:56Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:15:51Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Shell",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:14:46Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:07:48Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
