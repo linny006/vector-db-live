@@ -1,5 +1,86 @@
 [
   {
+    "description": "An AI-powered query system integrating Google Gemini, Hugging Face embeddings, ChromaDB, MySQL, and LangChain to transfo",
+    "id": "SamarjitDebnath/IntelligentQueryEngine",
+    "language": "Jupyter Notebook",
+    "name": "SamarjitDebnath/IntelligentQueryEngine",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:15:01Z",
+    "url": "https://github.com/SamarjitDebnath/IntelligentQueryEngine"
+  },
+  {
+    "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
+    "id": "GenAIwithMS/OpenGPT",
+    "language": "Python",
+    "name": "GenAIwithMS/OpenGPT",
+    "stars": 3,
+    "updated_at": "2026-07-19T18:13:23Z",
+    "url": "https://github.com/GenAIwithMS/OpenGPT"
+  },
+  {
+    "description": "fast, efficient, redis-compatible database",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-19T18:12:04Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 4,
+    "updated_at": "2026-07-19T18:09:52Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
+    "id": "sashikumar6/Legal-RAG",
+    "language": "Python",
+    "name": "sashikumar6/Legal-RAG",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:08:57Z",
+    "url": "https://github.com/sashikumar6/Legal-RAG"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28438,
+    "updated_at": "2026-07-19T18:07:39Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-19T18:15:18Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T18:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T18:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
     "id": "nidhitk/RAG-",
     "language": "Python",
@@ -27,24 +108,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 4,
-    "updated_at": "2026-07-19T17:56:04Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-19T17:56:49Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -63,30 +126,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T17:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T17:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 109,
-    "updated_at": "2026-07-19T17:43:02Z",
+    "updated_at": "2026-07-19T18:08:25Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -97,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T17:35:37Z",
     "url": "https://github.com/JakubDras/vechealth"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28437,
-    "updated_at": "2026-07-19T17:31:08Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "fast, efficient, redis-compatible database",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 5,
-    "updated_at": "2026-07-19T17:32:04Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "An AI-powered Multi-Agent orchestration system that generates grounded, real-time multiple-choice sports quizzes using a",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-19T17:58:21Z",
+    "updated_at": "2026-07-19T18:04:42Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-19T17:18:10Z",
+    "updated_at": "2026-07-19T18:14:03Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-19T16:58:45Z",
+    "updated_at": "2026-07-19T18:09:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:15:15Z",
     "url": "https://github.com/prerna-m01/Multi-Agent-Research-Assistant"
-  },
-  {
-    "description": "A sports quiz generator powered by RAG technology that combines ChromaDB vector search with live DuckDuckGo results, fea",
-    "id": "LEKKALAGANESH/sports-quiz-rag-agent",
-    "language": "Python",
-    "name": "LEKKALAGANESH/sports-quiz-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:07:37Z",
-    "url": "https://github.com/LEKKALAGANESH/sports-quiz-rag-agent"
-  },
-  {
-    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
-    "id": "context-graph-ai/contextdb",
-    "language": "Rust",
-    "name": "context-graph-ai/contextdb",
-    "stars": 19,
-    "updated_at": "2026-07-19T14:01:50Z",
-    "url": "https://github.com/context-graph-ai/contextdb"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-07-19T13:56:26Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
