@@ -1,5 +1,41 @@
 [
   {
+    "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
+    "id": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "language": "Python",
+    "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
+    "stars": 7,
+    "updated_at": "2026-07-19T14:43:08Z",
+    "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-19T14:43:30Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:41:19Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T14:38:14Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -9,21 +45,12 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T14:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T14:30:17Z",
+    "updated_at": "2026-07-19T14:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T14:35:11Z",
+    "updated_at": "2026-07-19T14:40:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-19T14:26:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-powered multilingual RAG assistant helping Meesho users discover products using Hinglish natural language search.",
-    "id": "shayanaupadhyay/saakhi-ai",
-    "language": "TypeScript",
-    "name": "shayanaupadhyay/saakhi-ai",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:59:20Z",
-    "url": "https://github.com/shayanaupadhyay/saakhi-ai"
-  },
-  {
-    "description": "A comprehensive, practical, beginner-to-advanced guide focused on the Google Agent Development Kit (ADK). It is intended",
-    "id": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
-    "language": "\u2014",
-    "name": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
-    "stars": 1,
-    "updated_at": "2026-07-19T10:57:01Z",
-    "url": "https://github.com/iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:54:42Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   }
 ]
