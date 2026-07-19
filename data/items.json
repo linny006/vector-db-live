@@ -5,15 +5,42 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T21:30:17Z",
+    "updated_at": "2026-07-19T21:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T21:39:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-19T21:38:42Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T21:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28477,
+    "stars": 28478,
     "updated_at": "2026-07-19T21:20:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T21:17:53Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T21:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep",
@@ -135,15 +153,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T20:00:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -160,15 +169,6 @@
     "stars": 30,
     "updated_at": "2026-07-19T20:24:31Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-19T21:14:26Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
     "description": "An intelligent customer support assistant that simulates a real-world music store support workflow. ",
