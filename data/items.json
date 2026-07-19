@@ -1,11 +1,92 @@
 [
   {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 4,
+    "updated_at": "2026-07-19T17:29:15Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "fast, efficient, redis-compatible database",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-19T17:28:41Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-19T17:25:52Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
+    "id": "JakubDras/vechealth",
+    "language": "Python",
+    "name": "JakubDras/vechealth",
+    "stars": 3,
+    "updated_at": "2026-07-19T17:22:43Z",
+    "url": "https://github.com/JakubDras/vechealth"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T17:22:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1030,
+    "updated_at": "2026-07-19T17:20:32Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-19T17:18:10Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T17:16:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T17:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 109,
-    "updated_at": "2026-07-19T17:10:23Z",
+    "updated_at": "2026-07-19T17:16:39Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -16,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T17:03:26Z",
     "url": "https://github.com/kamrankhanorakzai/hospitality-rag-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T17:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T17:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -63,15 +126,6 @@
     "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T16:47:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -95,7 +149,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-19T16:38:42Z",
+    "updated_at": "2026-07-19T17:26:27Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "monaccode/astromesh",
     "stars": 30,
-    "updated_at": "2026-07-19T16:40:03Z",
+    "updated_at": "2026-07-19T17:18:32Z",
     "url": "https://github.com/monaccode/astromesh"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/234194027-cpu/aion-memory-nexus"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-19T17:13:57Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:01:13Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1030,
-    "updated_at": "2026-07-19T16:05:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A browser app presenting data from the Georgia Project. ",
@@ -239,17 +275,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T17:08:52Z",
+    "updated_at": "2026-07-19T17:29:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 4,
-    "updated_at": "2026-07-19T15:31:53Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "An AI-powered multi-agent financial research platform that combines market data, sentiment analysis, forecasting, RAG, a",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T13:41:13Z",
     "url": "https://github.com/yassinSedki/pet_care_assistant"
-  },
-  {
-    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
-    "id": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "language": "Python",
-    "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:55:22Z",
-    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-19T16:55:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "An AI-powered multi-document RAG chatbot that answers questions from uploaded PDFs using FAISS, HuggingFace embeddings, ",
-    "id": "Prabhleen11/Enterprise-Document-Assistant",
-    "language": "Python",
-    "name": "Prabhleen11/Enterprise-Document-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:14:24Z",
-    "url": "https://github.com/Prabhleen11/Enterprise-Document-Assistant"
   }
 ]
