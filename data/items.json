@@ -1,11 +1,74 @@
 [
   {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-19T16:30:07Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-19T16:28:25Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
+    "id": "234194027-cpu/aion-memory-nexus",
+    "language": "Python",
+    "name": "234194027-cpu/aion-memory-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:27:01Z",
+    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-19T16:24:24Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45274,
+    "updated_at": "2026-07-19T16:22:41Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T16:20:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T16:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T16:15:18Z",
+    "updated_at": "2026-07-19T16:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:01:13Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T16:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -99,15 +153,6 @@
     "url": "https://github.com/anmolsharma152/PsyRAG"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T15:47:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
     "id": "mienetic/mnema",
     "language": "Python",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T15:50:45Z",
+    "updated_at": "2026-07-19T16:26:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 75,
     "updated_at": "2026-07-19T15:51:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-19T15:23:31Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Distributed vector search for AI-native applications",
@@ -239,7 +275,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-19T14:47:14Z",
+    "updated_at": "2026-07-19T16:16:15Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -259,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:41:19Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-19T14:33:10Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45274,
-    "updated_at": "2026-07-19T14:32:37Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -428,25 +446,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-19T16:11:13Z",
+    "updated_at": "2026-07-19T16:25:14Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
-    "id": "Shr9vaniii/Onboarding_rag_engine",
-    "language": "Python",
-    "name": "Shr9vaniii/Onboarding_rag_engine",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:53:48Z",
-    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:51:00Z",
-    "url": "https://github.com/88plug/total-recall"
   }
 ]
