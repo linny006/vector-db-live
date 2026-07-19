@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T16:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:56:21Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1030,
+    "updated_at": "2026-07-19T15:55:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A browser app presenting data from the Georgia Project. ",
+    "id": "KatherineMossDeveloper/Midnight-Train",
+    "language": "TypeScript",
+    "name": "KatherineMossDeveloper/Midnight-Train",
+    "stars": 1,
+    "updated_at": "2026-07-19T15:54:23Z",
+    "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
+  },
+  {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:54:11Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-19T15:55:26Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Domain-adapted RAG over cognitive psychology literature \u2014 query expansion, parallel retrieval, and FAISS vector search p",
+    "id": "anmolsharma152/PsyRAG",
+    "language": "Python",
+    "name": "anmolsharma152/PsyRAG",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:52:41Z",
+    "url": "https://github.com/anmolsharma152/PsyRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T15:47:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
+    "id": "nidhitk/RAG-",
+    "language": "Python",
+    "name": "nidhitk/RAG-",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:48:43Z",
+    "url": "https://github.com/nidhitk/RAG-"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T15:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
     "id": "mienetic/mnema",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T15:44:05Z",
+    "updated_at": "2026-07-19T15:50:45Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -36,24 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T15:37:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 109,
-    "updated_at": "2026-07-19T15:44:59Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -61,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T15:31:53Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T15:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI-powered multi-agent financial research platform that combines market data, sentiment analysis, forecasting, RAG, a",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-19T15:28:20Z",
+    "updated_at": "2026-07-19T15:51:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 30,
     "updated_at": "2026-07-19T15:23:31Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T15:22:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Distributed vector search for AI-native applications",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:56:46Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:54:05Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
@@ -270,6 +315,15 @@
     "url": "https://github.com/prerna-m01/Multi-Agent-Research-Assistant"
   },
   {
+    "description": "A sports quiz generator powered by RAG technology that combines ChromaDB vector search with live DuckDuckGo results, fea",
+    "id": "LEKKALAGANESH/sports-quiz-rag-agent",
+    "language": "Python",
+    "name": "LEKKALAGANESH/sports-quiz-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:07:37Z",
+    "url": "https://github.com/LEKKALAGANESH/sports-quiz-rag-agent"
+  },
+  {
     "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
     "id": "context-graph-ai/contextdb",
     "language": "Rust",
@@ -329,7 +383,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-19T13:25:28Z",
+    "updated_at": "2026-07-19T15:50:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T12:48:41Z",
     "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
-  },
-  {
-    "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
-    "id": "thanhphuong080199/docmind-mcp",
-    "language": "Java",
-    "name": "thanhphuong080199/docmind-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:58:27Z",
-    "url": "https://github.com/thanhphuong080199/docmind-mcp"
-  },
-  {
-    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
-    "id": "234194027-cpu/aion-memory-nexus",
-    "language": "Python",
-    "name": "234194027-cpu/aion-memory-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:36:29Z",
-    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
-  },
-  {
-    "description": "Production-ready Multimodal RAG system built with FastAPI, Streamlit, ChromaDB, Docker, Prometheus, Grafana, GitHub Acti",
-    "id": "Abdullahalam379/Multimodal-Rag-System",
-    "language": "Python",
-    "name": "Abdullahalam379/Multimodal-Rag-System",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:30:14Z",
-    "url": "https://github.com/Abdullahalam379/Multimodal-Rag-System"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3123,
-    "updated_at": "2026-07-19T12:12:42Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:12:07Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 239,
-    "updated_at": "2026-07-19T12:08:46Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   }
 ]
