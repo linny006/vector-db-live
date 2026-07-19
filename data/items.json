@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T11:30:19Z",
+    "updated_at": "2026-07-19T11:35:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready AI Assistant backend built with Node.js, Express, MongoDB, Socket.IO, JWT authentication, Google Gemini",
+    "id": "iharshkaran/ai-assistant",
+    "language": "JavaScript",
+    "name": "iharshkaran/ai-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-19T11:33:14Z",
+    "url": "https://github.com/iharshkaran/ai-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T11:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T11:19:00Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T11:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance distributed vector database with high-dimensional vector support",
@@ -104,7 +113,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-19T11:28:37Z",
+    "updated_at": "2026-07-19T11:44:06Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -112,7 +121,7 @@
     "id": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
     "language": "\u2014",
     "name": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-19T10:57:01Z",
     "url": "https://github.com/iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem"
   },
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
     "stars": 0,
-    "updated_at": "2026-07-19T10:29:10Z",
+    "updated_at": "2026-07-19T11:43:09Z",
     "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
   },
   {
@@ -292,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28346,
+    "stars": 28350,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-19T08:19:54Z",
     "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:19:29Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   }
 ]
