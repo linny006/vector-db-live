@@ -1,11 +1,47 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:56:39Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "TypeScript",
+    "name": "EVEDensity/AgentHub",
+    "stars": 13,
+    "updated_at": "2026-07-19T11:54:18Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T11:51:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T11:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T11:35:31Z",
+    "updated_at": "2026-07-19T11:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +54,6 @@
     "url": "https://github.com/iharshkaran/ai-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T11:28:31Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T11:27:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Evals framework for Information Retrieval Systems",
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-19T11:20:27Z",
+    "updated_at": "2026-07-19T11:48:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 22,
     "updated_at": "2026-07-19T10:27:43Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:26:30Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -301,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28350,
+    "stars": 28353,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 229,
     "updated_at": "2026-07-19T08:24:25Z",
     "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 16,
-    "updated_at": "2026-07-19T08:19:54Z",
-    "url": "https://github.com/10xHub/Agentflow"
   }
 ]
