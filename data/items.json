@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T12:15:19Z",
+    "updated_at": "2026-07-19T12:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:29:45Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-19T12:28:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T12:19:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:16:22Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T12:11:55Z",
+    "updated_at": "2026-07-19T12:28:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 239,
     "updated_at": "2026-07-19T12:08:46Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:08:27Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -97,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T12:01:41Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T12:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -151,15 +178,6 @@
     "stars": 13,
     "updated_at": "2026-07-19T11:54:18Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T11:51:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production-ready AI Assistant backend built with Node.js, Express, MongoDB, Socket.IO, JWT authentication, Google Gemini",
@@ -243,15 +261,6 @@
     "url": "https://github.com/shayanaupadhyay/saakhi-ai"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-19T12:08:43Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A comprehensive, practical, beginner-to-advanced guide focused on the Google Agent Development Kit (ADK). It is intended",
     "id": "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem",
     "language": "\u2014",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
     "stars": 0,
-    "updated_at": "2026-07-19T11:43:09Z",
+    "updated_at": "2026-07-19T12:28:57Z",
     "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:49:51Z",
     "url": "https://github.com/lusunn111/RoboNix-Retrieval-Augmented-Toolkit"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:44:08Z",
-    "url": "https://github.com/88plug/total-recall"
   },
   {
     "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
@@ -409,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28354,
+    "stars": 28357,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
