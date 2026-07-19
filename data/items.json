@@ -1,12 +1,48 @@
 [
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-19T08:59:26Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
     "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-19T08:44:33Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "name": "deven96/ahnlich",
+    "stars": 210,
+    "updated_at": "2026-07-19T08:59:42Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
+    "id": "Shr9vaniii/Onboarding_rag_engine",
+    "language": "Python",
+    "name": "Shr9vaniii/Onboarding_rag_engine",
+    "stars": 0,
+    "updated_at": "2026-07-19T08:56:57Z",
+    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
+  },
+  {
+    "description": "Authenticated dual-mode Qdrant MCP server for standalone and brokered deployments.",
+    "id": "MADPANDA3D/QDRANT-MCP",
+    "language": "Python",
+    "name": "MADPANDA3D/QDRANT-MCP",
+    "stars": 0,
+    "updated_at": "2026-07-19T08:51:57Z",
+    "url": "https://github.com/MADPANDA3D/QDRANT-MCP"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T08:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T08:42:50Z",
+    "updated_at": "2026-07-19T08:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-07-19T08:45:19Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-19T08:56:42Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -45,13 +99,13 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
-    "id": "Shr9vaniii/Onboarding_rag_engine",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "Shr9vaniii/Onboarding_rag_engine",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:37:59Z",
-    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
+    "name": "VectifyAI/PageIndex",
+    "stars": 34107,
+    "updated_at": "2026-07-19T08:33:00Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "A reusable HeiSD and RT-Cache retrieval-augmented experience-memory toolkit for embodied agents.",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:30:56Z",
     "url": "https://github.com/lusunn111/RoboNix-Retrieval-Augmented-Toolkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T08:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based PDF Processing & Semantic Search Pipeline using OCR, FastEmbed, and Qdrant Vector Database.",
@@ -158,17 +203,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1028,
-    "updated_at": "2026-07-19T08:24:21Z",
+    "updated_at": "2026-07-19T08:54:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:23:24Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -223,15 +259,6 @@
     "stars": 91,
     "updated_at": "2026-07-19T08:16:20Z",
     "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34106,
-    "updated_at": "2026-07-19T08:33:00Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:58:02Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf",
-    "id": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:57:53Z",
-    "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:57:38Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:55:21Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
   }
 ]
