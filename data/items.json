@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T21:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep",
+    "id": "anish-siv/codebase-rag",
+    "language": "HTML",
+    "name": "anish-siv/codebase-rag",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:03:22Z",
+    "url": "https://github.com/anish-siv/codebase-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T21:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat",
     "id": "opencrawling/open-ingestion-standard",
     "language": "\u2014",
@@ -34,24 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T20:46:29Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T20:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T20:45:13Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -94,7 +103,7 @@
     "id": "syedsaud15/RAG-Document-Chatbot",
     "language": "Python",
     "name": "syedsaud15/RAG-Document-Chatbot",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-07-19T20:21:43Z",
     "url": "https://github.com/syedsaud15/RAG-Document-Chatbot"
   },
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-19T20:02:48Z",
+    "updated_at": "2026-07-19T21:14:26Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -157,7 +166,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28474,
+    "stars": 28475,
     "updated_at": "2026-07-19T19:42:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -322,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T18:19:39Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep",
-    "id": "anish-siv/codebase-rag",
-    "language": "HTML",
-    "name": "anish-siv/codebase-rag",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:17:59Z",
-    "url": "https://github.com/anish-siv/codebase-rag"
   },
   {
     "description": "An AI-powered query system integrating Google Gemini, Hugging Face embeddings, ChromaDB, MySQL, and LangChain to transfo",
