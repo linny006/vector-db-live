@@ -1,5 +1,41 @@
 [
   {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-19T17:10:23Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "AI-powered hotel front desk assistant with n8n automation, chat widget UI, and hotel data retrieval for rooms, rates, am",
+    "id": "kamrankhanorakzai/hospitality-rag-agent",
+    "language": "HTML",
+    "name": "kamrankhanorakzai/hospitality-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:03:26Z",
+    "url": "https://github.com/kamrankhanorakzai/hospitality-rag-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T17:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -34,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T16:47:56Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T16:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-19T16:59:56Z",
+    "updated_at": "2026-07-19T17:13:57Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 109,
-    "updated_at": "2026-07-19T16:02:03Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "Domain-adapted RAG over cognitive psychology literature \u2014 query expansion, parallel retrieval, and FAISS vector search p",
     "id": "anmolsharma152/PsyRAG",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T16:26:44Z",
+    "updated_at": "2026-07-19T17:08:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground",
     "stars": 7,
-    "updated_at": "2026-07-19T14:43:08Z",
+    "updated_at": "2026-07-19T17:13:58Z",
     "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T13:14:24Z",
     "url": "https://github.com/Prabhleen11/Enterprise-Document-Assistant"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) chatbot built with Flowise, Ollama, Llama 3.2, and Qdrant for intelligent PDF-bas",
-    "id": "sharun131/Document-QA-Using-RAG",
-    "language": "\u2014",
-    "name": "sharun131/Document-QA-Using-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:11:12Z",
-    "url": "https://github.com/sharun131/Document-QA-Using-RAG"
   }
 ]
