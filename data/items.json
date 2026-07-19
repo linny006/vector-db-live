@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T19:30:18Z",
+    "updated_at": "2026-07-19T19:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-19T19:44:45Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
     "description": "An intelligent customer support assistant that simulates a real-world music store support workflow. ",
@@ -14,7 +23,7 @@
     "language": "Jupyter Notebook",
     "name": "jalasamir21/Music-Store-Customer-Support",
     "stars": 0,
-    "updated_at": "2026-07-19T19:29:26Z",
+    "updated_at": "2026-07-19T19:35:56Z",
     "url": "https://github.com/jalasamir21/Music-Store-Customer-Support"
   },
   {
@@ -23,8 +32,26 @@
     "language": "Python",
     "name": "vansharora156/nexus-rag",
     "stars": 0,
-    "updated_at": "2026-07-19T19:28:11Z",
+    "updated_at": "2026-07-19T19:33:27Z",
     "url": "https://github.com/vansharora156/nexus-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T19:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:28:21Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "MontyGovernance/montycat_python",
     "stars": 1,
-    "updated_at": "2026-07-19T19:23:06Z",
+    "updated_at": "2026-07-19T19:41:21Z",
     "url": "https://github.com/MontyGovernance/montycat_python"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Dart",
     "name": "MontyGovernance/montycat_dart",
     "stars": 3,
-    "updated_at": "2026-07-19T19:21:04Z",
+    "updated_at": "2026-07-19T19:45:12Z",
     "url": "https://github.com/MontyGovernance/montycat_dart"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "MontyGovernance/montycat_node",
     "stars": 2,
-    "updated_at": "2026-07-19T19:20:50Z",
+    "updated_at": "2026-07-19T19:43:48Z",
     "url": "https://github.com/MontyGovernance/montycat_node"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T19:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T19:11:07Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-19T19:09:43Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-19T19:26:04Z",
+    "updated_at": "2026-07-19T19:37:54Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -193,8 +202,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28459,
-    "updated_at": "2026-07-19T18:44:38Z",
+    "stars": 28461,
+    "updated_at": "2026-07-19T19:42:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -221,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-19T19:10:43Z",
+    "updated_at": "2026-07-19T19:42:18Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T15:52:41Z",
     "url": "https://github.com/anmolsharma152/PsyRAG"
-  },
-  {
-    "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
-    "id": "mienetic/mnema",
-    "language": "Python",
-    "name": "mienetic/mnema",
-    "stars": 3,
-    "updated_at": "2026-07-19T15:44:58Z",
-    "url": "https://github.com/mienetic/mnema"
   }
 ]
