@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T12:45:20Z",
+    "updated_at": "2026-07-19T13:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u4e94\u5c42\u8ba4\u77e5\u8bb0\u5fc6\u5f15\u64ce \u2014 \u611f\u77e5\u2192\u5185\u5316 + \u6df7\u5408\u68c0\u7d22 + \u9057\u5fd8\u66f2\u7ebf + \u77e5\u8bc6\u56fe\u8c31 + FSRS\u95f4\u9694\u91cd\u590d",
+    "id": "weksbwrx62862/omnimem",
+    "language": "Python",
+    "name": "weksbwrx62862/omnimem",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:59:57Z",
+    "url": "https://github.com/weksbwrx62862/omnimem"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-19T12:57:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
+    "id": "Shr9vaniii/Onboarding_rag_engine",
+    "language": "Python",
+    "name": "Shr9vaniii/Onboarding_rag_engine",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:53:48Z",
+    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
   },
   {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
@@ -14,8 +41,53 @@
     "language": "JavaScript",
     "name": "DeveloperChetram/Contextual_Chatbot_React",
     "stars": 0,
-    "updated_at": "2026-07-19T12:44:28Z",
+    "updated_at": "2026-07-19T12:53:34Z",
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:51:00Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Ingests any Git repo into a knowledge graph + vector index \u2014 plain-English code Q&A, architecture risk detection, and ch",
+    "id": "goyal-harshit/codebase-intelligence-platform",
+    "language": "Python",
+    "name": "goyal-harshit/codebase-intelligence-platform",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:48:41Z",
+    "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T12:48:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T12:47:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T12:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
@@ -32,7 +104,7 @@
     "language": "Java",
     "name": "thanhphuong080199/docmind-mcp",
     "stars": 0,
-    "updated_at": "2026-07-19T12:39:19Z",
+    "updated_at": "2026-07-19T12:58:27Z",
     "url": "https://github.com/thanhphuong080199/docmind-mcp"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/234194027-cpu/aion-memory-nexus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production-ready Multimodal RAG system built with FastAPI, Streamlit, ChromaDB, Docker, Prometheus, Grafana, GitHub Acti",
     "id": "Abdullahalam379/Multimodal-Rag-System",
     "language": "Python",
@@ -61,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T12:30:14Z",
     "url": "https://github.com/Abdullahalam379/Multimodal-Rag-System"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-19T12:40:04Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T12:19:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:16:22Z",
-    "url": "https://github.com/88plug/total-recall"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T12:36:02Z",
+    "updated_at": "2026-07-19T12:51:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -153,13 +189,13 @@
     "url": "https://github.com/johnsonnyabicha-alt/rag-qa-system"
   },
   {
-    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
-    "id": "Shr9vaniii/Onboarding_rag_engine",
-    "language": "Python",
-    "name": "Shr9vaniii/Onboarding_rag_engine",
+    "description": "A Retrieval-Augmented Generation (RAG) chatbot built with Flowise, Ollama, Llama 3.2, and Qdrant for intelligent PDF-bas",
+    "id": "sharun131/Document-QA-Using-RAG",
+    "language": "\u2014",
+    "name": "sharun131/Document-QA-Using-RAG",
     "stars": 0,
-    "updated_at": "2026-07-19T12:03:42Z",
-    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
+    "updated_at": "2026-07-19T12:02:45Z",
+    "url": "https://github.com/sharun131/Document-QA-Using-RAG"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -259,15 +295,6 @@
     "stars": 75,
     "updated_at": "2026-07-19T11:48:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T11:02:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "AI-powered multilingual RAG assistant helping Meesho users discover products using Hinglish natural language search.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:15:27Z",
     "url": "https://github.com/amariwan/Become-an-AI-engineer"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28359,
-    "updated_at": "2026-07-19T09:14:13Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 210,
-    "updated_at": "2026-07-19T09:01:16Z",
-    "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Authenticated dual-mode Qdrant MCP server for standalone and brokered deployments.",
-    "id": "MADPANDA3D/QDRANT-MCP",
-    "language": "Python",
-    "name": "MADPANDA3D/QDRANT-MCP",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:51:57Z",
-    "url": "https://github.com/MADPANDA3D/QDRANT-MCP"
   }
 ]
