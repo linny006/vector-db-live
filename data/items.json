@@ -1,5 +1,50 @@
 [
   {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-19T17:39:44Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
+    "id": "JakubDras/vechealth",
+    "language": "Rust",
+    "name": "JakubDras/vechealth",
+    "stars": 3,
+    "updated_at": "2026-07-19T17:35:37Z",
+    "url": "https://github.com/JakubDras/vechealth"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28432,
+    "updated_at": "2026-07-19T17:31:08Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T17:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T17:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -14,8 +59,17 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 5,
-    "updated_at": "2026-07-19T17:28:41Z",
+    "updated_at": "2026-07-19T17:32:04Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "An AI-powered Multi-Agent orchestration system that generates grounded, real-time multiple-choice sports quizzes using a",
+    "id": "vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR",
+    "language": "Python",
+    "name": "vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:28:31Z",
+    "url": "https://github.com/vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -23,17 +77,8 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-19T17:25:52Z",
+    "updated_at": "2026-07-19T17:37:47Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
-    "id": "JakubDras/vechealth",
-    "language": "Python",
-    "name": "JakubDras/vechealth",
-    "stars": 3,
-    "updated_at": "2026-07-19T17:22:43Z",
-    "url": "https://github.com/JakubDras/vechealth"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,33 +106,6 @@
     "stars": 7,
     "updated_at": "2026-07-19T17:18:10Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T17:16:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T17:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 109,
-    "updated_at": "2026-07-19T17:16:39Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "AI-powered hotel front desk assistant with n8n automation, chat widget UI, and hotel data retrieval for rooms, rates, am",
@@ -430,23 +448,5 @@
     "stars": 2193,
     "updated_at": "2026-07-19T13:55:27Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 1,
-    "updated_at": "2026-07-19T13:52:39Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Full-stack pet health platform with an AI vet assistant that queries your pets' real records and documents via LangGraph",
-    "id": "yassinSedki/pet_care_assistant",
-    "language": "TypeScript",
-    "name": "yassinSedki/pet_care_assistant",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:41:13Z",
-    "url": "https://github.com/yassinSedki/pet_care_assistant"
   }
 ]
