@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 17:41 UTC
+> ⏰ Last updated: 2026-07-19 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nambok/mentedb](https://github.com/nambok/mentedb) | 109 | Rust | 2026-07-19 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 2 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 3 | Rust | 2026-07-19 | Observability and diagnostic framework for embedding spaces and vector stores |
-| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28432 | Python | 2026-07-19 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 4 | Mojo | 2026-07-19 | Vector DB implementation in Mojo |
+| 1 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 4 | Mojo | 2026-07-19 | Vector DB implementation in Mojo |
+| 2 | [nambok/mentedb](https://github.com/nambok/mentedb) | 109 | Rust | 2026-07-19 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 3 | Rust | 2026-07-19 | Observability and diagnostic framework for embedding spaces and vector stores |
+| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28433 | Python | 2026-07-19 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 7 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 5 | Rust | 2026-07-19 | fast, efficient, redis-compatible database |
 | 8 | [vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR](https://github.com/vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR) | 0 | Python | 2026-07-19 | An AI-powered Multi-Agent orchestration system that generates grounded, real-time multiple-choice sports quizzes using a |
 | 9 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 30 | Rust | 2026-07-19 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-19 |  |
 | 23 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-19 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 24 | [234194027-cpu/aion-memory-nexus](https://github.com/234194027-cpu/aion-memory-nexus) | 0 | Python | 2026-07-19 | Predictive AI Agent Memory & Second Brain — trusted long-term memory, vector search, temporal knowledge graph, decision  |
-| 25 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45273 | Go | 2026-07-19 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 25 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45274 | Go | 2026-07-19 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 26 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 448 | TypeScript | 2026-07-19 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
 | 27 | [nidhitk/RAG-](https://github.com/nidhitk/RAG-) | 0 | Python | 2026-07-19 |  FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi |
 | 28 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
