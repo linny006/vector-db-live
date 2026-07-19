@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
+    "id": "mienetic/mnema",
+    "language": "Python",
+    "name": "mienetic/mnema",
+    "stars": 3,
+    "updated_at": "2026-07-19T15:14:31Z",
+    "url": "https://github.com/mienetic/mnema"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T15:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 3,
+    "updated_at": "2026-07-19T15:12:01Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 283,
+    "updated_at": "2026-07-19T15:05:52Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T15:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:47:14Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T14:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T15:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready Neuro-Symbolic AI & GraphRAG-powered Multi-domain Expert System. Hybrid forward/backward chaining infer",
@@ -252,24 +279,6 @@
     "url": "https://github.com/sharun131/Document-QA-Using-RAG"
   },
   {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 283,
-    "updated_at": "2026-07-19T13:08:29Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 3,
-    "updated_at": "2026-07-19T13:02:39Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "\u4e94\u5c42\u8ba4\u77e5\u8bb0\u5fc6\u5f15\u64ce \u2014 \u611f\u77e5\u2192\u5185\u5316 + \u6df7\u5408\u68c0\u7d22 + \u9057\u5fd8\u66f2\u7ebf + \u77e5\u8bc6\u56fe\u8c31 + FSRS\u95f4\u9694\u91cd\u590d",
     "id": "weksbwrx62862/omnimem",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T14:59:59Z",
+    "updated_at": "2026-07-19T15:06:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-19T11:24:04Z",
     "url": "https://github.com/kaivid-labs/evret"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Shell",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:19:00Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
