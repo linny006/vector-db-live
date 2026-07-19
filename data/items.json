@@ -1,12 +1,75 @@
 [
   {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 46,
+    "updated_at": "2026-07-19T07:28:28Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-19T07:27:11Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:25:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-19T07:23:17Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-19T07:18:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:15:51Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 4,
-    "updated_at": "2026-07-19T07:14:50Z",
+    "updated_at": "2026-07-19T07:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T07:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -23,17 +86,8 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 109,
-    "updated_at": "2026-07-19T07:09:55Z",
+    "updated_at": "2026-07-19T07:18:02Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-19T07:09:54Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -90,15 +144,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T07:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:00:18Z",
     "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-19T06:59:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-19T06:39:07Z",
+    "updated_at": "2026-07-19T07:21:18Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T06:37:03Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:36:55Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:36:36Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:32:20Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI-powered PDF Assistant using RAG, FastAPI, Qdrant, and DeepSeek to answer questions from uploaded documents with sourc",
-    "id": "Bhanu7665/Lumina-RAG_Application",
-    "language": "Python",
-    "name": "Bhanu7665/Lumina-RAG_Application",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:28:42Z",
-    "url": "https://github.com/Bhanu7665/Lumina-RAG_Application"
   }
 ]
