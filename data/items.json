@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Retrieval-Augmented Generation (RAG) chatbot built with Flowise, Ollama, Llama 3.2, and Qdrant for intelligent PDF-bas",
+    "id": "sharun131/Document-QA-Using-RAG",
+    "language": "\u2014",
+    "name": "sharun131/Document-QA-Using-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-19T13:11:12Z",
+    "url": "https://github.com/sharun131/Document-QA-Using-RAG"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-19T13:10:08Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 283,
+    "updated_at": "2026-07-19T13:08:29Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 3,
+    "updated_at": "2026-07-19T13:02:39Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T13:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
   },
   {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:53:34Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
-  },
-  {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -79,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T12:47:21Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 283,
-    "updated_at": "2026-07-19T12:42:20Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-19T12:51:41Z",
+    "updated_at": "2026-07-19T13:11:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -187,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T12:05:38Z",
     "url": "https://github.com/johnsonnyabicha-alt/rag-qa-system"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) chatbot built with Flowise, Ollama, Llama 3.2, and Qdrant for intelligent PDF-bas",
-    "id": "sharun131/Document-QA-Using-RAG",
-    "language": "\u2014",
-    "name": "sharun131/Document-QA-Using-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:02:45Z",
-    "url": "https://github.com/sharun131/Document-QA-Using-RAG"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 3,
-    "updated_at": "2026-07-19T12:01:41Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -238,7 +238,7 @@
     "id": "iharshkaran/ai-assistant",
     "language": "JavaScript",
     "name": "iharshkaran/ai-assistant",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-19T11:33:14Z",
     "url": "https://github.com/iharshkaran/ai-assistant"
   },
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
     "stars": 0,
-    "updated_at": "2026-07-19T12:28:57Z",
+    "updated_at": "2026-07-19T13:11:25Z",
     "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
   },
   {
