@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 20:45 UTC
+> ⏰ Last updated: 2026-07-19 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,55 +43,55 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [opencrawling/open-ingestion-standard](https://github.com/opencrawling/open-ingestion-standard) | 1 | — | 2026-07-19 | Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-19 |  |
-| 5 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1401 | Python | 2026-07-19 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 6 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 448 | TypeScript | 2026-07-19 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 7 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 11 | TypeScript | 2026-07-19 | OpenCode plugin that gives coding agents persistent memory using local vector database |
-| 8 | [syedsaud15/RAG-Document-Chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot) | 1 | Python | 2026-07-19 | AI-powered RAG Document Chatbot using LangChain, ChromaDB, Google Gemini Embeddings, Groq Llama 3.3 70B and Streamlit. |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-19 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 10 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-19 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 11 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-19 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-19 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 13 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 2 | TypeScript | 2026-07-19 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
-| 14 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 30 | Rust | 2026-07-19 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
-| 15 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 7 | Python | 2026-07-19 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
-| 16 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28471 | Python | 2026-07-19 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 17 | [jalasamir21/Music-Store-Customer-Support](https://github.com/jalasamir21/Music-Store-Customer-Support) | 0 | Jupyter Notebook | 2026-07-19 | An intelligent customer support assistant that simulates a real-world music store support workflow.  |
-| 18 | [vansharora156/nexus-rag](https://github.com/vansharora156/nexus-rag) | 0 | Python | 2026-07-19 | Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI. |
-| 19 | [MontyGovernance/montycat_python](https://github.com/MontyGovernance/montycat_python) | 1 | Python | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Python clien |
-| 20 | [MontyGovernance/montycat_rust](https://github.com/MontyGovernance/montycat_rust) | 1 | Rust | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Rust client. |
-| 21 | [MontyGovernance/montycat_dart](https://github.com/MontyGovernance/montycat_dart) | 3 | Dart | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents — the Dart & Flutter client. Self-ho |
-| 22 | [MontyGovernance/montycat_node](https://github.com/MontyGovernance/montycat_node) | 2 | TypeScript | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the Node.js & TypeScri |
-| 23 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 24 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 1 | — | 2026-07-19 | Profile README |
-| 25 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-19 | The Ultimate Vectors Library for Java |
-| 26 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-07-19 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 27 | [geckse/markdown-vdb](https://github.com/geckse/markdown-vdb) | 16 | Rust | 2026-07-19 | A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based, |
-| 28 | [tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications](https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications) | 0 | Python | 2026-07-19 | Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf |
-| 29 | [nambok/mentedb](https://github.com/nambok/mentedb) | 109 | Rust | 2026-07-19 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 30 | [rajathshttgr/zoro-db](https://github.com/rajathshttgr/zoro-db) | 8 | C++ | 2026-07-19 | Vector Search Engine for the next generation of AI applications |
-| 31 | [Sunnylabs-ai/docmind](https://github.com/Sunnylabs-ai/docmind) | 0 | Python | 2026-07-19 | AI customer-support assistant built on RAG from scratch — Python, Gemini, ChromaDB, Streamlit. Source-cited answers, eva |
-| 32 | [gorigesravani288-cmd/RepoMind](https://github.com/gorigesravani288-cmd/RepoMind) | 0 | Python | 2026-07-19 | 🧠 RepoMind — A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer |
-| 33 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-19 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 34 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1030 | Java | 2026-07-19 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 35 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 4 | Mojo | 2026-07-19 | Vector DB implementation in Mojo |
-| 36 | [anish-siv/codebase-rag](https://github.com/anish-siv/codebase-rag) | 0 | HTML | 2026-07-19 | Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep |
-| 37 | [SamarjitDebnath/IntelligentQueryEngine](https://github.com/SamarjitDebnath/IntelligentQueryEngine) | 0 | Jupyter Notebook | 2026-07-19 | An AI-powered query system integrating Google Gemini, Hugging Face embeddings, ChromaDB, MySQL, and LangChain to transfo |
-| 38 | [GenAIwithMS/OpenGPT](https://github.com/GenAIwithMS/OpenGPT) | 3 | Python | 2026-07-19 | OpenGPT, An open AI workspace for conversations, knowledge, and productivity. |
-| 39 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 5 | Rust | 2026-07-19 | fast, efficient, redis-compatible database |
-| 40 | [sashikumar6/Legal-RAG](https://github.com/sashikumar6/Legal-RAG) | 1 | Python | 2026-07-19 | Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid |
-| 41 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9391 | Rust | 2026-07-19 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 42 | [nidhitk/RAG-](https://github.com/nidhitk/RAG-) | 0 | Python | 2026-07-19 |  FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi |
-| 43 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 3 | Rust | 2026-07-19 | Observability and diagnostic framework for embedding spaces and vector stores |
-| 44 | [vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR](https://github.com/vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR) | 0 | Python | 2026-07-19 | An AI-powered Multi-Agent orchestration system that generates grounded, real-time multiple-choice sports quizzes using a |
-| 45 | [kamrankhanorakzai/hospitality-rag-agent](https://github.com/kamrankhanorakzai/hospitality-rag-agent) | 0 | HTML | 2026-07-19 | AI-powered hotel front desk assistant with n8n automation, chat widget UI, and hotel data retrieval for rooms, rates, am |
-| 46 | [goyal-harshit/codebase-intelligence-platform](https://github.com/goyal-harshit/codebase-intelligence-platform) | 0 | Python | 2026-07-19 | Ingests any Git repo into a knowledge graph + vector index — plain-English code Q&A, architecture risk detection, and ch |
-| 47 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-07-19 | GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
-| 48 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 30 | Python | 2026-07-19 | Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou |
-| 49 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 283 | Python | 2026-07-19 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
-| 50 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-19 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 2 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 0 | — | 2026-07-19 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
+| 3 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 0 | HTML | 2026-07-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-19 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-19 |  |
+| 8 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1401 | Python | 2026-07-19 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 9 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 448 | TypeScript | 2026-07-19 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 10 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 11 | TypeScript | 2026-07-19 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 11 | [syedsaud15/RAG-Document-Chatbot](https://github.com/syedsaud15/RAG-Document-Chatbot) | 1 | Python | 2026-07-19 | AI-powered RAG Document Chatbot using LangChain, ChromaDB, Google Gemini Embeddings, Groq Llama 3.3 70B and Streamlit. |
+| 12 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-19 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 13 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-19 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-19 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 15 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 2 | TypeScript | 2026-07-19 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
+| 16 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 30 | Rust | 2026-07-19 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
+| 17 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 7 | Python | 2026-07-19 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
+| 18 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28474 | Python | 2026-07-19 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 19 | [jalasamir21/Music-Store-Customer-Support](https://github.com/jalasamir21/Music-Store-Customer-Support) | 0 | Jupyter Notebook | 2026-07-19 | An intelligent customer support assistant that simulates a real-world music store support workflow.  |
+| 20 | [vansharora156/nexus-rag](https://github.com/vansharora156/nexus-rag) | 0 | Python | 2026-07-19 | Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI. |
+| 21 | [MontyGovernance/montycat_python](https://github.com/MontyGovernance/montycat_python) | 1 | Python | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Python clien |
+| 22 | [MontyGovernance/montycat_rust](https://github.com/MontyGovernance/montycat_rust) | 1 | Rust | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Rust client. |
+| 23 | [MontyGovernance/montycat_dart](https://github.com/MontyGovernance/montycat_dart) | 3 | Dart | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents — the Dart & Flutter client. Self-ho |
+| 24 | [MontyGovernance/montycat_node](https://github.com/MontyGovernance/montycat_node) | 2 | TypeScript | 2026-07-19 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the Node.js & TypeScri |
+| 25 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 1 | — | 2026-07-19 | Profile README |
+| 26 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-19 | The Ultimate Vectors Library for Java |
+| 27 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-07-19 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 28 | [geckse/markdown-vdb](https://github.com/geckse/markdown-vdb) | 16 | Rust | 2026-07-19 | A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based, |
+| 29 | [tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications](https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications) | 0 | Python | 2026-07-19 | Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf |
+| 30 | [nambok/mentedb](https://github.com/nambok/mentedb) | 109 | Rust | 2026-07-19 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 31 | [rajathshttgr/zoro-db](https://github.com/rajathshttgr/zoro-db) | 8 | C++ | 2026-07-19 | Vector Search Engine for the next generation of AI applications |
+| 32 | [Sunnylabs-ai/docmind](https://github.com/Sunnylabs-ai/docmind) | 0 | Python | 2026-07-19 | AI customer-support assistant built on RAG from scratch — Python, Gemini, ChromaDB, Streamlit. Source-cited answers, eva |
+| 33 | [gorigesravani288-cmd/RepoMind](https://github.com/gorigesravani288-cmd/RepoMind) | 0 | Python | 2026-07-19 | 🧠 RepoMind — A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer |
+| 34 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-19 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 35 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1030 | Java | 2026-07-19 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 36 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 4 | Mojo | 2026-07-19 | Vector DB implementation in Mojo |
+| 37 | [anish-siv/codebase-rag](https://github.com/anish-siv/codebase-rag) | 0 | HTML | 2026-07-19 | Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep |
+| 38 | [SamarjitDebnath/IntelligentQueryEngine](https://github.com/SamarjitDebnath/IntelligentQueryEngine) | 0 | Jupyter Notebook | 2026-07-19 | An AI-powered query system integrating Google Gemini, Hugging Face embeddings, ChromaDB, MySQL, and LangChain to transfo |
+| 39 | [GenAIwithMS/OpenGPT](https://github.com/GenAIwithMS/OpenGPT) | 3 | Python | 2026-07-19 | OpenGPT, An open AI workspace for conversations, knowledge, and productivity. |
+| 40 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 5 | Rust | 2026-07-19 | fast, efficient, redis-compatible database |
+| 41 | [sashikumar6/Legal-RAG](https://github.com/sashikumar6/Legal-RAG) | 1 | Python | 2026-07-19 | Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid |
+| 42 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9391 | Rust | 2026-07-19 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 43 | [nidhitk/RAG-](https://github.com/nidhitk/RAG-) | 0 | Python | 2026-07-19 |  FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi |
+| 44 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 3 | Rust | 2026-07-19 | Observability and diagnostic framework for embedding spaces and vector stores |
+| 45 | [vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR](https://github.com/vasanthgondrala-7/AI_SPORTS_QUIZ_GENERATOR) | 0 | Python | 2026-07-19 | An AI-powered Multi-Agent orchestration system that generates grounded, real-time multiple-choice sports quizzes using a |
+| 46 | [kamrankhanorakzai/hospitality-rag-agent](https://github.com/kamrankhanorakzai/hospitality-rag-agent) | 0 | HTML | 2026-07-19 | AI-powered hotel front desk assistant with n8n automation, chat widget UI, and hotel data retrieval for rooms, rates, am |
+| 47 | [goyal-harshit/codebase-intelligence-platform](https://github.com/goyal-harshit/codebase-intelligence-platform) | 0 | Python | 2026-07-19 | Ingests any Git repo into a knowledge graph + vector index — plain-English code Q&A, architecture risk detection, and ch |
+| 48 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-07-19 | GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
+| 49 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 30 | Python | 2026-07-19 | Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou |
+| 50 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 283 | Python | 2026-07-19 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
 <!-- TRACKER_TABLE_END -->
 
 ---
