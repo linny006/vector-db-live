@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T23:30:22Z",
+    "updated_at": "2026-07-19T23:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T23:44:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-19T23:44:18Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T23:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-19T23:16:49Z",
+    "updated_at": "2026-07-19T23:40:42Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -63,21 +90,12 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T23:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
     "id": "yantrikos/yantrikdb-server",
     "language": "Rust",
     "name": "yantrikos/yantrikdb-server",
     "stars": 166,
-    "updated_at": "2026-07-19T23:14:41Z",
+    "updated_at": "2026-07-19T23:41:51Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T22:50:25Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:39:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A hands-on Retrieval-Augmented Generation (RAG) chatbot built from scratch using LangChain, FAISS, HuggingFace embedding",
@@ -175,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28498,
+    "stars": 28502,
     "updated_at": "2026-07-19T21:20:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 9391,
     "updated_at": "2026-07-19T18:00:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
-    "id": "nidhitk/RAG-",
-    "language": "Python",
-    "name": "nidhitk/RAG-",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:58:57Z",
-    "url": "https://github.com/nidhitk/RAG-"
   }
 ]
