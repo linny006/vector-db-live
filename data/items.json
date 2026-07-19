@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-19T11:00:19Z",
+    "updated_at": "2026-07-19T11:15:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:11:40Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-19T11:11:08Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-19T11:07:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-19T11:02:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-19T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered multilingual RAG assistant helping Meesho users discover products using Hinglish natural language search.",
@@ -23,7 +68,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-19T10:57:52Z",
+    "updated_at": "2026-07-19T11:06:44Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -63,24 +108,6 @@
     "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-19T10:52:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-19T10:39:47Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T10:35:13Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 30,
-    "updated_at": "2026-07-19T10:33:42Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
@@ -124,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-07-19T10:26:30Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1030,
+    "updated_at": "2026-07-19T10:17:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:44:08Z",
     "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:42:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
@@ -247,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28339,
+    "stars": 28342,
     "updated_at": "2026-07-19T09:14:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -301,7 +319,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34108,
+    "stars": 34109,
     "updated_at": "2026-07-19T08:33:00Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1028,
-    "updated_at": "2026-07-19T10:17:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xHub/Agentflow",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T08:15:29Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:14:41Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   }
 ]
