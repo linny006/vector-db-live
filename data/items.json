@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:43:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45281,
+    "updated_at": "2026-07-20T15:40:43Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:34:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28649,
+    "updated_at": "2026-07-20T15:32:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
+    "id": "pinecone-io/pinecone-api",
+    "language": "\u2014",
+    "name": "pinecone-io/pinecone-api",
+    "stars": 9,
+    "updated_at": "2026-07-20T15:32:30Z",
+    "url": "https://github.com/pinecone-io/pinecone-api"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12649,
+    "updated_at": "2026-07-20T15:32:02Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,24 +81,6 @@
     "url": "https://github.com/guipmourao/rag-assistant-labs"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33427,
-    "updated_at": "2026-07-20T15:25:45Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6184,
-    "updated_at": "2026-07-20T15:23:52Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Production-ready AI Research Assistant using RAG, LangChain, FAISS, Groq LLM, Sentence Transformers, and Streamlit.",
     "id": "DiwakarNallappagari/AI-Research-Assistant",
     "language": "Python",
@@ -45,22 +90,31 @@
     "url": "https://github.com/DiwakarNallappagari/AI-Research-Assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "gupta29470/codewalk",
     "stars": 4,
-    "updated_at": "2026-07-20T15:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-20T15:32:03Z",
+    "url": "https://github.com/gupta29470/codewalk"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:15:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33427,
+    "updated_at": "2026-07-20T15:45:21Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6184,
+    "updated_at": "2026-07-20T15:45:14Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -72,20 +126,11 @@
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28646,
-    "updated_at": "2026-07-20T15:11:32Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
     "name": "qdrant/skills",
-    "stars": 203,
+    "stars": 204,
     "updated_at": "2026-07-20T15:10:00Z",
     "url": "https://github.com/qdrant/skills"
   },
@@ -169,15 +214,6 @@
     "stars": 1861,
     "updated_at": "2026-07-20T15:01:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45281,
-    "updated_at": "2026-07-20T14:40:45Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-20T15:12:19Z",
+    "updated_at": "2026-07-20T15:41:03Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:43:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
@@ -394,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:40:01Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
-  },
-  {
-    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
-    "id": "pinecone-io/pinecone-api",
-    "language": "\u2014",
-    "name": "pinecone-io/pinecone-api",
-    "stars": 9,
-    "updated_at": "2026-07-20T13:26:01Z",
-    "url": "https://github.com/pinecone-io/pinecone-api"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T13:07:23Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:04:25Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 2,
-    "updated_at": "2026-07-20T12:59:36Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   }
 ]
