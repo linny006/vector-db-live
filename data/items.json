@@ -1,5 +1,59 @@
 [
   {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1401,
+    "updated_at": "2026-07-20T02:54:35Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:54:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45274,
+    "updated_at": "2026-07-20T02:49:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-20T02:48:17Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T02:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T02:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -27,15 +81,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45274,
-    "updated_at": "2026-07-20T02:32:41Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -43,24 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T02:31:53Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T02:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T02:13:21Z",
     "url": "https://github.com/kyzodb/kyzo"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1401,
-    "updated_at": "2026-07-20T02:31:50Z",
-    "url": "https://github.com/milvus-io/pymilvus"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T23:58:35Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:55:27Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T19:15:13Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
-    "id": "geckse/markdown-vdb",
-    "language": "Rust",
-    "name": "geckse/markdown-vdb",
-    "stars": 16,
-    "updated_at": "2026-07-19T19:04:08Z",
-    "url": "https://github.com/geckse/markdown-vdb"
   }
 ]
