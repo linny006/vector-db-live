@@ -1,12 +1,39 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
     "id": "TarekMineRoyal/AcademicGateway-AI",
     "language": "Python",
     "name": "TarekMineRoyal/AcademicGateway-AI",
     "stars": 1,
-    "updated_at": "2026-07-20T20:04:50Z",
+    "updated_at": "2026-07-20T20:12:26Z",
     "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6077,
+    "updated_at": "2026-07-20T20:09:14Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:05:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
@@ -41,26 +68,8 @@
     "language": "Python",
     "name": "HorizonBrute/Horizon-Brain-Workshop",
     "stars": 0,
-    "updated_at": "2026-07-20T20:01:28Z",
+    "updated_at": "2026-07-20T20:15:13Z",
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16624,
-    "updated_at": "2026-07-20T19:57:58Z",
+    "updated_at": "2026-07-20T20:06:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T19:10:31Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6077,
-    "updated_at": "2026-07-20T19:51:50Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-20T19:46:52Z",
+    "updated_at": "2026-07-20T20:06:33Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -400,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28712,
+    "stars": 28714,
     "updated_at": "2026-07-20T17:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
