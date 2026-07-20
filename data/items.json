@@ -1,12 +1,48 @@
 [
   {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-20T22:09:37Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "A RAG-powered blood report analysis app. Upload a PDF blood report, and chat with it \u2014 ask about your abnormal markers, ",
+    "id": "shreyanshverma7/blood-report-analyser",
+    "language": "Python",
+    "name": "shreyanshverma7/blood-report-analyser",
+    "stars": 2,
+    "updated_at": "2026-07-20T22:03:27Z",
+    "url": "https://github.com/shreyanshverma7/blood-report-analyser"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T22:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T22:00:22Z",
+    "updated_at": "2026-07-20T22:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T22:00:18Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -81,15 +117,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T21:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "n8n RAG pipeline \u2014 PDF ingestion, OpenAI embeddings, Pinecone vector search, GPT-4o grounded answers, 0.75 confidence ga",
     "id": "Ahmad-Ali-121/rag-document-qa",
     "language": "\u2014",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:42:00Z",
     "url": "https://github.com/Ahmad-Ali-121/rag-document-qa"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:40:09Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
@@ -139,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28746,
+    "stars": 28753,
     "updated_at": "2026-07-20T21:28:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -252,15 +270,6 @@
     "url": "https://github.com/HorizonBrute/Light-Weight-Secure-Chroma-Proxy"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T22:00:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Reason Ready Flow \u2014 not just RAG. An embedded, tokio-native retrieval-and-reasoning engine that judges whether what it f",
     "id": "EonsofStupid/rrobjects",
     "language": "Rust",
@@ -283,7 +292,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6080,
+    "stars": 6081,
     "updated_at": "2026-07-20T20:09:14Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T18:29:00Z",
     "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-20T18:23:59Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
