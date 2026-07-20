@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 02:30 UTC
+> ⏰ Last updated: 2026-07-20 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9391 | Rust | 2026-07-20 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 2 | [Nikolay1994Kaz/storage_in_memory](https://github.com/Nikolay1994Kaz/storage_in_memory) | 5 | Go | 2026-07-20 | In-memory vector database with a Redis-compatible (RESP) API — HNSW + scalar quantization, multi-tenant filtered search, |
-| 3 | [thanhphuong080199/docmind-mcp](https://github.com/thanhphuong080199/docmind-mcp) | 0 | Java | 2026-07-20 | An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with  |
-| 4 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [AnOversizedMooseWithSocks/leCore](https://github.com/AnOversizedMooseWithSocks/leCore) | 7 | Python | 2026-07-20 | The holographic core for leOS |
-| 8 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-07-20 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
-| 9 | [kyzodb/kyzo](https://github.com/kyzodb/kyzo) | 0 | Rust | 2026-07-20 | A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in |
-| 10 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45274 | Go | 2026-07-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 11 | [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus) | 1401 | Python | 2026-07-20 | Python SDK for Milvus Vector Database |
-| 12 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-20 | The Ultimate Vectors Library for Java |
-| 13 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2194 | JavaScript | 2026-07-20 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 15 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 16 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 117 | Rust | 2026-07-20 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 17 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-20 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 18 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-07-20 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 19 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-20 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-20 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 3 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 75 | Python | 2026-07-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 4 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45274 | Go | 2026-07-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 5 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-07-20 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [Nikolay1994Kaz/storage_in_memory](https://github.com/Nikolay1994Kaz/storage_in_memory) | 5 | Go | 2026-07-20 | In-memory vector database with a Redis-compatible (RESP) API — HNSW + scalar quantization, multi-tenant filtered search, |
+| 9 | [thanhphuong080199/docmind-mcp](https://github.com/thanhphuong080199/docmind-mcp) | 0 | Java | 2026-07-20 | An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with  |
+| 10 | [AnOversizedMooseWithSocks/leCore](https://github.com/AnOversizedMooseWithSocks/leCore) | 7 | Python | 2026-07-20 | The holographic core for leOS |
+| 11 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-07-20 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
+| 12 | [kyzodb/kyzo](https://github.com/kyzodb/kyzo) | 0 | Rust | 2026-07-20 | A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in |
+| 13 | [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus) | 1401 | Python | 2026-07-20 | Python SDK for Milvus Vector Database |
+| 14 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-20 | The Ultimate Vectors Library for Java |
+| 15 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2194 | JavaScript | 2026-07-20 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 16 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 18 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 117 | Rust | 2026-07-20 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 19 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 75 | Rust | 2026-07-20 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 20 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1443 | Clojure | 2026-07-20 | A simple, fast and versatile Datalog database |
 | 21 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 119 | MDX | 2026-07-20 | The documentation for SurrealDB, powered by Astro |
 | 22 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-07-20 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |

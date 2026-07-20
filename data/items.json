@@ -5,8 +5,62 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T02:28:30Z",
+    "updated_at": "2026-07-20T02:41:34Z",
     "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T02:40:39Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T02:33:30Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45274,
+    "updated_at": "2026-07-20T02:32:41Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-20T02:31:53Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T02:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -25,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T02:27:27Z",
     "url": "https://github.com/thanhphuong080199/docmind-mcp"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T02:20:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T02:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T02:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The holographic core for leOS",
@@ -81,21 +108,12 @@
     "url": "https://github.com/kyzodb/kyzo"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45274,
-    "updated_at": "2026-07-20T02:20:42Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1401,
-    "updated_at": "2026-07-20T02:16:35Z",
+    "updated_at": "2026-07-20T02:31:50Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -151,24 +169,6 @@
     "stars": 75,
     "updated_at": "2026-07-20T01:28:07Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-20T01:57:50Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-20T01:18:59Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
