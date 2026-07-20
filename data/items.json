@@ -1,5 +1,50 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 30,
+    "updated_at": "2026-07-20T14:08:53Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "MCP server for MetaTrader MQL4/MQL5 documentation (4853 entries). Provides AI assistants with complete MQL reference for",
+    "id": "TheFractalyst/MetatraderMCP",
+    "language": "Python",
+    "name": "TheFractalyst/MetatraderMCP",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:04:46Z",
+    "url": "https://github.com/TheFractalyst/MetatraderMCP"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "Python",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:00:21Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
-    "id": "MaxFreedomPollard/engRAM",
-    "language": "Python",
-    "name": "MaxFreedomPollard/engRAM",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:00:21Z",
-    "url": "https://github.com/MaxFreedomPollard/engRAM"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T13:56:48Z",
+    "updated_at": "2026-07-20T14:08:56Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -40,7 +76,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28613,
+    "stars": 28621,
     "updated_at": "2026-07-20T13:55:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T13:59:10Z",
+    "updated_at": "2026-07-20T14:10:28Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T13:45:21Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -160,6 +178,15 @@
     "stars": 1861,
     "updated_at": "2026-07-20T13:35:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33427,
+    "updated_at": "2026-07-20T13:29:54Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
@@ -230,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-20T13:38:45Z",
+    "updated_at": "2026-07-20T14:13:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16623,
-    "updated_at": "2026-07-20T13:55:39Z",
+    "updated_at": "2026-07-20T14:14:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33425,
-    "updated_at": "2026-07-20T13:29:54Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 4416,
     "updated_at": "2026-07-20T10:40:27Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
-    "id": "gorigesravani288-cmd/RepoMind",
-    "language": "Python",
-    "name": "gorigesravani288-cmd/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:55:31Z",
-    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
-  },
-  {
-    "description": "Building reliable LLM knowledge systems with Retrieval-Augmented Generation (RAG), retrieval evaluation, semantic search",
-    "id": "zahta/llm-systems-lab",
-    "language": "Python",
-    "name": "zahta/llm-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:54:19Z",
-    "url": "https://github.com/zahta/llm-systems-lab"
   }
 ]
