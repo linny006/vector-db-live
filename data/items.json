@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T10:30:19Z",
+    "updated_at": "2026-07-20T10:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-20T10:44:31Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
+    "id": "ywqzzy/jude",
+    "language": "Python",
+    "name": "ywqzzy/jude",
+    "stars": 2,
+    "updated_at": "2026-07-20T10:36:53Z",
+    "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7876,
+    "updated_at": "2026-07-20T10:44:09Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
+    "id": "ldclabs/anda-db",
+    "language": "Rust",
+    "name": "ldclabs/anda-db",
+    "stars": 30,
+    "updated_at": "2026-07-20T10:34:42Z",
+    "url": "https://github.com/ldclabs/anda-db"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-20T10:33:53Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:43:14Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 2,
-    "updated_at": "2026-07-20T10:27:16Z",
-    "url": "https://github.com/ywqzzy/jude"
-  },
-  {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
     "id": "vansharora156/nexus-rag",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:26:16Z",
     "url": "https://github.com/vansharora156/nexus-rag"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7875,
-    "updated_at": "2026-07-20T10:23:00Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -63,31 +108,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-20T10:25:17Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-20T10:17:34Z",
+    "updated_at": "2026-07-20T10:40:27Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T09:55:16Z",
+    "updated_at": "2026-07-20T10:38:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16621,
-    "updated_at": "2026-07-20T10:25:54Z",
+    "updated_at": "2026-07-20T10:34:00Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1032,
-    "updated_at": "2026-07-20T10:29:15Z",
+    "updated_at": "2026-07-20T10:45:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 163,
     "updated_at": "2026-07-20T08:22:31Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 83,
-    "updated_at": "2026-07-20T09:59:18Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Rust driver for KoutenDB",
-    "id": "puffball1567/koutendb-rust",
-    "language": "Rust",
-    "name": "puffball1567/koutendb-rust",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:21:25Z",
-    "url": "https://github.com/puffball1567/koutendb-rust"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-20T08:06:33Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
