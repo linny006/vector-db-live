@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:58:44Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
+    "id": "ywqzzy/jude",
+    "language": "Python",
+    "name": "ywqzzy/jude",
+    "stars": 3,
+    "updated_at": "2026-07-20T11:58:34Z",
+    "url": "https://github.com/ywqzzy/jude"
+  },
+  {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 1,
-    "updated_at": "2026-07-20T11:44:42Z",
+    "updated_at": "2026-07-20T11:56:26Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28575,
+    "updated_at": "2026-07-20T11:53:01Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-20T11:39:20Z",
+    "updated_at": "2026-07-20T11:52:48Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16622,
+    "updated_at": "2026-07-20T12:00:05Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
@@ -43,33 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T11:33:27Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T11:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 2,
-    "updated_at": "2026-07-20T11:29:20Z",
-    "url": "https://github.com/ywqzzy/jude"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -108,15 +135,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16621,
-    "updated_at": "2026-07-20T11:35:18Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -142,15 +160,6 @@
     "stars": 1033,
     "updated_at": "2026-07-20T11:31:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "High-performance distributed vector database with high-dimensional vector support",
-    "id": "JonathanBerhe/gvdb",
-    "language": "C++",
-    "name": "JonathanBerhe/gvdb",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:51:27Z",
-    "url": "https://github.com/JonathanBerhe/gvdb"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -185,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7876,
-    "updated_at": "2026-07-20T11:42:10Z",
+    "updated_at": "2026-07-20T11:55:37Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T11:30:04Z",
+    "updated_at": "2026-07-20T11:58:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T11:09:46Z",
+    "updated_at": "2026-07-20T11:59:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -387,15 +396,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28571,
-    "updated_at": "2026-07-20T09:15:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
     "id": "superlinked/VectorHub",
     "language": "Jupyter Notebook",
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58657,
-    "updated_at": "2026-07-20T08:54:39Z",
+    "updated_at": "2026-07-20T11:58:58Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
