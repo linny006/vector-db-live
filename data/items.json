@@ -1,5 +1,122 @@
 [
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:58:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "Python",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 1,
+    "updated_at": "2026-07-20T14:00:21Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9391,
+    "updated_at": "2026-07-20T13:56:48Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
+    "id": "nidhitk/RAG-",
+    "language": "Python",
+    "name": "nidhitk/RAG-",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:56:26Z",
+    "url": "https://github.com/nidhitk/RAG-"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28613,
+    "updated_at": "2026-07-20T13:55:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:53:46Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 9,
+    "updated_at": "2026-07-20T13:53:33Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Production-ready Multimodal RAG system built with FastAPI, Streamlit, ChromaDB, Docker, Prometheus, Grafana, GitHub Acti",
+    "id": "Abdullahalam379/Multimodal-Rag-System",
+    "language": "Python",
+    "name": "Abdullahalam379/Multimodal-Rag-System",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:53:05Z",
+    "url": "https://github.com/Abdullahalam379/Multimodal-Rag-System"
+  },
+  {
+    "description": "A pure-Rust knowledge database combining relational facts, graph traversal, vector similarity, and temporal reasoning in",
+    "id": "kyzodb/kyzo",
+    "language": "Rust",
+    "name": "kyzodb/kyzo",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:57:17Z",
+    "url": "https://github.com/kyzodb/kyzo"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6183,
+    "updated_at": "2026-07-20T13:59:10Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:49:10Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-20T13:45:21Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +126,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
-    "id": "MaxFreedomPollard/engRAM",
-    "language": "\u2014",
-    "name": "MaxFreedomPollard/engRAM",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:44:40Z",
-    "url": "https://github.com/MaxFreedomPollard/engRAM"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:43:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
@@ -45,15 +162,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
     "id": "pinecone-io/pinecone-api",
     "language": "\u2014",
@@ -81,15 +189,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:14:26Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -106,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:06:53Z",
     "url": "https://github.com/kirankumarjmeshram/Generative-AI"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28605,
-    "updated_at": "2026-07-20T13:06:37Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -162,15 +252,6 @@
     "url": "https://github.com/mienetic/mnema"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6183,
-    "updated_at": "2026-07-20T13:41:43Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
     "id": "onlyarnav/nimbus-db",
     "language": "Go",
@@ -203,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16623,
-    "updated_at": "2026-07-20T13:36:10Z",
+    "updated_at": "2026-07-20T13:55:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -265,7 +346,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58661,
+    "stars": 58662,
     "updated_at": "2026-07-20T11:58:58Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T13:44:42Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:43:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -360,24 +432,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:08:20Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9391,
-    "updated_at": "2026-07-20T13:38:17Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
     "id": "gorigesravani288-cmd/RepoMind",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T09:54:19Z",
     "url": "https://github.com/zahta/llm-systems-lab"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-20T09:56:36Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
-    "id": "zilliztech/vector-graph-rag",
-    "language": "Python",
-    "name": "zilliztech/vector-graph-rag",
-    "stars": 233,
-    "updated_at": "2026-07-20T09:50:00Z",
-    "url": "https://github.com/zilliztech/vector-graph-rag"
-  },
-  {
-    "description": "Production RAG pipeline for arXiv ML papers: nightly Airflow ingestion, pgvector HNSW search, LLM-as-judge evaluation wi",
-    "id": "dingzehu/arxiv-rag",
-    "language": "Python",
-    "name": "dingzehu/arxiv-rag",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:47:49Z",
-    "url": "https://github.com/dingzehu/arxiv-rag"
-  },
-  {
-    "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 9,
-    "updated_at": "2026-07-20T13:38:01Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15174,
-    "updated_at": "2026-07-20T09:29:23Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:18:50Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   }
 ]
