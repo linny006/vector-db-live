@@ -1,5 +1,86 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-20T19:30:03Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
+    "language": "Python",
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:27:30Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16624,
+    "updated_at": "2026-07-20T19:22:27Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:21:40Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
+    "id": "JakubDras/vechealth",
+    "language": "Rust",
+    "name": "JakubDras/vechealth",
+    "stars": 4,
+    "updated_at": "2026-07-20T19:20:49Z",
+    "url": "https://github.com/JakubDras/vechealth"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) chatbot built using LangChain, ChromaDB, Hugging Face Embeddings, and Groq.",
+    "id": "rayyanali44/rag-chatbot",
+    "language": "Python",
+    "name": "rayyanali44/rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:18:07Z",
+    "url": "https://github.com/rayyanali44/rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T19:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T19:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33436,
+    "updated_at": "2026-07-20T19:12:53Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -14,26 +95,8 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6077,
-    "updated_at": "2026-07-20T19:05:05Z",
+    "updated_at": "2026-07-20T19:19:01Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -68,7 +131,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 1,
-    "updated_at": "2026-07-20T18:56:55Z",
+    "updated_at": "2026-07-20T19:29:21Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T18:39:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33435,
-    "updated_at": "2026-07-20T19:12:53Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) system built with n8n, OpenAI, Pinecone, and Google Drive for automated ",
@@ -122,7 +176,7 @@
     "language": "Shell",
     "name": "kossakovsky/selfhost-ai",
     "stars": 902,
-    "updated_at": "2026-07-20T19:14:24Z",
+    "updated_at": "2026-07-20T19:28:55Z",
     "url": "https://github.com/kossakovsky/selfhost-ai"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-20T18:50:00Z",
+    "updated_at": "2026-07-20T19:20:06Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -265,7 +319,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28702,
+    "stars": 28705,
     "updated_at": "2026-07-20T17:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -315,15 +369,6 @@
     "url": "https://github.com/JonathanBerhe/gvdb"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:15:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -369,15 +414,6 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16624,
-    "updated_at": "2026-07-20T18:52:13Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
     "id": "redis-developer/redis-ai-resources",
     "language": "Jupyter Notebook",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:40:38Z",
     "url": "https://github.com/wooyakob/couchbase-ai-engineering"
-  },
-  {
-    "description": "A simple tool to manage any vector database",
-    "id": "aqora-io/vectorctl",
-    "language": "Rust",
-    "name": "aqora-io/vectorctl",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:39:12Z",
-    "url": "https://github.com/aqora-io/vectorctl"
-  },
-  {
-    "description": "An AI-powered document chatbot built with LangChain, ChromaDB, Hugging Face Embeddings, and Mistral AI using Retrieval-A",
-    "id": "Aryan-Diggal/DocuMind-AI-",
-    "language": "Python",
-    "name": "Aryan-Diggal/DocuMind-AI-",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:35:14Z",
-    "url": "https://github.com/Aryan-Diggal/DocuMind-AI-"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58665,
-    "updated_at": "2026-07-20T16:29:51Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 275,
-    "updated_at": "2026-07-20T18:55:52Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   }
 ]
