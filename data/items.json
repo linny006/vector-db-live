@@ -1,5 +1,68 @@
 [
   {
+    "description": "RAG- \u0438 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0439 AI-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 Python: Responses API, Qdrant, \u0430\u0433\u0435\u043d\u0442 \u0441 \u043b\u0438\u043c\u0438\u0442\u0430\u043c\u0438 \u0448\u0430\u0433\u043e\u0432, \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u044b\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430",
+    "id": "NataAntro/linked-ai-content-pipeline",
+    "language": "Python",
+    "name": "NataAntro/linked-ai-content-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:27:43Z",
+    "url": "https://github.com/NataAntro/linked-ai-content-pipeline"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:25:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:25:43Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-20T21:29:35Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 448,
+    "updated_at": "2026-07-20T21:20:42Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T21:17:22Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +72,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 2,
-    "updated_at": "2026-07-20T21:12:38Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T21:14:51Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T21:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33440,
+    "updated_at": "2026-07-20T21:03:31Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -61,42 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:54:23Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-20T20:51:05Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T21:14:51Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33439,
-    "updated_at": "2026-07-20T21:03:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:31:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "API platform info for machine-learning",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-20T20:48:07Z",
+    "updated_at": "2026-07-20T21:24:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "pinecone-io/pinecone-ts-client",
     "stars": 275,
-    "updated_at": "2026-07-20T19:34:02Z",
+    "updated_at": "2026-07-20T21:18:37Z",
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-20T20:26:57Z",
+    "updated_at": "2026-07-20T21:20:22Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-20T18:16:04Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
     "id": "cyborginc/cyborgdb-js",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 95,
     "updated_at": "2026-07-20T18:34:22Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-07-20T20:42:18Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-20T17:47:15Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
