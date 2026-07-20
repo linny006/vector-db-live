@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T13:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "\u2014",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:44:40Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
     "name": "KeiaiLab/qdrant-operator",
     "stars": 0,
-    "updated_at": "2026-07-20T13:28:19Z",
+    "updated_at": "2026-07-20T13:40:01Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T13:38:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-20T13:35:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T13:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
@@ -27,15 +72,6 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-20T13:16:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -45,24 +81,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T13:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
     "id": "kemalbsoylu/localRAGvault",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:14:26Z",
     "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T13:13:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -103,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28602,
+    "stars": 28605,
     "updated_at": "2026-07-20T13:06:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -131,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-20T13:25:23Z",
+    "updated_at": "2026-07-20T13:38:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T13:22:31Z",
+    "updated_at": "2026-07-20T13:41:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16623,
-    "updated_at": "2026-07-20T13:30:17Z",
+    "updated_at": "2026-07-20T13:36:10Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 1,
-    "updated_at": "2026-07-20T11:56:26Z",
+    "updated_at": "2026-07-20T13:44:42Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -275,7 +284,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-20T11:33:27Z",
+    "updated_at": "2026-07-20T13:43:48Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T12:13:04Z",
+    "updated_at": "2026-07-20T13:38:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 9,
-    "updated_at": "2026-07-20T10:12:33Z",
+    "updated_at": "2026-07-20T13:38:01Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T09:18:50Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 1,
-    "updated_at": "2026-07-20T09:17:59Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
   }
 ]
