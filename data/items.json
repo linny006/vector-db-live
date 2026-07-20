@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "FastAPI RAG backend - PDF upload, chunking, Chroma vector search, and OpenAI-powered Q&A/chat, with API key auth and rat",
+    "id": "guipmourao/rag-assistant-labs",
+    "language": "Python",
+    "name": "guipmourao/rag-assistant-labs",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:29:11Z",
+    "url": "https://github.com/guipmourao/rag-assistant-labs"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33427,
+    "updated_at": "2026-07-20T15:25:45Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6184,
+    "updated_at": "2026-07-20T15:23:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Production-ready AI Research Assistant using RAG, LangChain, FAISS, Groq LLM, Sentence Transformers, and Streamlit.",
+    "id": "DiwakarNallappagari/AI-Research-Assistant",
+    "language": "Python",
+    "name": "DiwakarNallappagari/AI-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:29:06Z",
+    "url": "https://github.com/DiwakarNallappagari/AI-Research-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:15:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -9,20 +72,11 @@
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33429,
-    "updated_at": "2026-07-20T15:11:36Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28639,
+    "stars": 28646,
     "updated_at": "2026-07-20T15:11:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -34,33 +88,6 @@
     "stars": 203,
     "updated_at": "2026-07-20T15:10:00Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6184,
-    "updated_at": "2026-07-20T15:03:36Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
@@ -99,15 +126,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "FastAPI RAG backend - PDF upload, chunking, Chroma vector search, and OpenAI-powered Q&A/chat, with API key auth and rat",
-    "id": "guipmourao/rag-assistant-labs",
-    "language": "Python",
-    "name": "guipmourao/rag-assistant-labs",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:52:24Z",
-    "url": "https://github.com/guipmourao/rag-assistant-labs"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6252,
-    "updated_at": "2026-07-20T14:59:20Z",
+    "updated_at": "2026-07-20T15:18:23Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 31,
     "updated_at": "2026-07-20T14:16:24Z",
     "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:15:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-20T12:59:36Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "\ud83e\udde0 Mnema \u2014 Long-term memory for AI via MCP \u00d7 Vector DB. Pluggable backends, hybrid search, Auto Dream consolidation, CLI ",
-    "id": "mienetic/mnema",
-    "language": "Python",
-    "name": "mienetic/mnema",
-    "stars": 4,
-    "updated_at": "2026-07-20T12:58:53Z",
-    "url": "https://github.com/mienetic/mnema"
   }
 ]
