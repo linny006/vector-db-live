@@ -1,12 +1,120 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A LanceDB-native memory and retrieval layer for AI agents.",
+    "id": "MoonAndEye/lancer-memory",
+    "language": "\u2014",
+    "name": "MoonAndEye/lancer-memory",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:54:02Z",
+    "url": "https://github.com/MoonAndEye/lancer-memory"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-20T14:53:09Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "FastAPI RAG backend - PDF upload, chunking, Chroma vector search, and OpenAI-powered Q&A/chat, with API key auth and rat",
+    "id": "guipmourao/rag-assistant-labs",
+    "language": "Python",
+    "name": "guipmourao/rag-assistant-labs",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:52:24Z",
+    "url": "https://github.com/guipmourao/rag-assistant-labs"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1033,
+    "updated_at": "2026-07-20T14:52:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:51:19Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6252,
+    "updated_at": "2026-07-20T14:59:20Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7879,
+    "updated_at": "2026-07-20T14:53:28Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
+    "id": "kirankumarjmeshram/Generative-AI",
+    "language": "Python",
+    "name": "kirankumarjmeshram/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:44:29Z",
+    "url": "https://github.com/kirankumarjmeshram/Generative-AI"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-20T14:42:48Z",
+    "updated_at": "2026-07-20T14:50:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33428,
+    "updated_at": "2026-07-20T14:57:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45281,
+    "updated_at": "2026-07-20T14:40:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:38:32Z",
     "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45280,
-    "updated_at": "2026-07-20T14:40:45Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T14:33:26Z",
+    "updated_at": "2026-07-20T14:57:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 7023,
     "updated_at": "2026-07-20T14:32:46Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:32:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T14:31:59Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -112,7 +193,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10937,
+    "stars": 10938,
     "updated_at": "2026-07-20T14:22:10Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -139,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28631,
+    "stars": 28632,
     "updated_at": "2026-07-20T14:21:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -288,15 +369,6 @@
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33427,
-    "updated_at": "2026-07-20T14:41:46Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
     "id": "pinecone-io/pinecone-api",
     "language": "\u2014",
@@ -324,15 +396,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7878,
-    "updated_at": "2026-07-20T14:43:44Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -342,15 +405,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
-    "id": "kirankumarjmeshram/Generative-AI",
-    "language": "Python",
-    "name": "kirankumarjmeshram/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:44:29Z",
-    "url": "https://github.com/kirankumarjmeshram/Generative-AI"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -358,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:04:25Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1033,
-    "updated_at": "2026-07-20T14:13:54Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T12:38:09Z",
     "url": "https://github.com/ywqzzy/jude"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-20T14:30:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16623,
-    "updated_at": "2026-07-20T14:14:50Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83e\udd48 2nd Place @ MariaDB Hackathon Malaysia 2026 \u2014 TOON-Native Auto-Embedding & RAG Toolkit for MariaDB | Docs & Judges' Gu",
-    "id": "SunflowersLwtech/seamless-rag",
-    "language": "Python",
-    "name": "SunflowersLwtech/seamless-rag",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:24:43Z",
-    "url": "https://github.com/SunflowersLwtech/seamless-rag"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 83,
-    "updated_at": "2026-07-20T12:23:14Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T12:15:37Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
