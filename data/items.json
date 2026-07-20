@@ -1,11 +1,38 @@
 [
   {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:28:31Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T05:26:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45276,
+    "updated_at": "2026-07-20T05:26:41Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
     "id": "Shr9vaniii/Onboarding_rag_engine",
     "language": "Python",
     "name": "Shr9vaniii/Onboarding_rag_engine",
     "stars": 0,
-    "updated_at": "2026-07-20T05:13:17Z",
+    "updated_at": "2026-07-20T05:24:52Z",
     "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
   },
   {
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-20T05:09:36Z",
+    "updated_at": "2026-07-20T05:23:06Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-20T05:28:34Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T05:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T05:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -25,24 +79,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T05:03:36Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T05:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T05:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-Powered Code Comprehension",
@@ -117,15 +153,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45275,
-    "updated_at": "2026-07-20T04:20:40Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
     "id": "pinecone-io/pinecone-ts-client",
     "language": "TypeScript",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-20T03:24:31Z",
+    "updated_at": "2026-07-20T05:22:25Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -238,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33414,
+    "stars": 33415,
     "updated_at": "2026-07-20T02:42:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -248,7 +275,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16617,
-    "updated_at": "2026-07-20T02:42:04Z",
+    "updated_at": "2026-07-20T05:18:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 2194,
     "updated_at": "2026-07-20T01:46:44Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:27:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -430,23 +448,5 @@
     "stars": 348,
     "updated_at": "2026-07-19T21:50:50Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28526,
-    "updated_at": "2026-07-19T21:20:48Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat",
-    "id": "opencrawling/open-ingestion-standard",
-    "language": "\u2014",
-    "name": "opencrawling/open-ingestion-standard",
-    "stars": 1,
-    "updated_at": "2026-07-19T20:55:10Z",
-    "url": "https://github.com/opencrawling/open-ingestion-standard"
   }
 ]
