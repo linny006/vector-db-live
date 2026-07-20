@@ -1,12 +1,12 @@
 [
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
     "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16623,
-    "updated_at": "2026-07-20T12:28:29Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:43:22Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
   },
   {
     "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "ywqzzy/jude",
     "stars": 3,
-    "updated_at": "2026-07-20T12:28:18Z",
+    "updated_at": "2026-07-20T12:38:09Z",
     "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28586,
+    "updated_at": "2026-07-20T12:35:51Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-20T12:33:13Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T12:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16623,
+    "updated_at": "2026-07-20T12:41:48Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83e\udd48 2nd Place @ MariaDB Hackathon Malaysia 2026 \u2014 TOON-Native Auto-Embedding & RAG Toolkit for MariaDB | Docs & Judges' Gu",
@@ -63,24 +108,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T12:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T12:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A full-stack Self-Reflective Agentic RAG system built with FastAPI, LangGraph, and React Flow. Features live pipeline vi",
     "id": "bablu456/self-reflective-rag-dashboard",
     "language": "Python",
@@ -126,15 +153,6 @@
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28582,
-    "updated_at": "2026-07-20T11:53:01Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
@@ -169,15 +187,6 @@
     "stars": 311,
     "updated_at": "2026-07-20T11:11:40Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-20T12:06:33Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T12:24:25Z",
+    "updated_at": "2026-07-20T12:43:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -364,7 +373,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15173,
+    "stars": 15174,
     "updated_at": "2026-07-20T09:29:23Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -418,7 +427,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12647,
+    "stars": 12648,
     "updated_at": "2026-07-20T09:15:50Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T09:01:04Z",
     "url": "https://github.com/agarwalvishal/mcp-rag-server"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:59:16Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   }
 ]
