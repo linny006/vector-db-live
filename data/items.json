@@ -1,11 +1,47 @@
 [
   {
+    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:13:58Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T11:11:40Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T11:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T11:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16621,
-    "updated_at": "2026-07-20T10:58:29Z",
+    "updated_at": "2026-07-20T11:12:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -18,21 +54,12 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:49:58Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-20T10:48:15Z",
+    "updated_at": "2026-07-20T11:12:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:51:27Z",
     "url": "https://github.com/JonathanBerhe/gvdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -72,6 +90,15 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
+    "description": "A RAG (Retrieval-Augmented Generation) chatbot that reads financial PDF reports, extracts text and tables separately, an",
+    "id": "Nischitha112/rag-financial-reader",
+    "language": "Python",
+    "name": "Nischitha112/rag-financial-reader",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:41:12Z",
+    "url": "https://github.com/Nischitha112/rag-financial-reader"
+  },
+  {
     "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
     "id": "ywqzzy/jude",
     "language": "Python",
@@ -86,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7876,
-    "updated_at": "2026-07-20T11:00:22Z",
+    "updated_at": "2026-07-20T11:14:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T10:46:15Z",
+    "updated_at": "2026-07-20T11:09:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 1,
-    "updated_at": "2026-07-20T09:50:15Z",
+    "updated_at": "2026-07-20T11:04:18Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -256,7 +283,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15171,
+    "stars": 15172,
     "updated_at": "2026-07-20T09:29:23Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-20T09:17:24Z",
+    "updated_at": "2026-07-20T11:11:00Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -328,7 +355,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28566,
+    "stars": 28567,
     "updated_at": "2026-07-20T09:15:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:35:51Z",
     "url": "https://github.com/bablu456/self-reflective-rag-dashboard"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:35:01Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A graph-first, embedded multi-model database engine",
-    "id": "insanalamin/sekejap",
-    "language": "Rust",
-    "name": "insanalamin/sekejap",
-    "stars": 6,
-    "updated_at": "2026-07-20T08:33:45Z",
-    "url": "https://github.com/insanalamin/sekejap"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:30:46Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   }
 ]
