@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-07-20T20:04:50Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
+    "id": "kossakovsky/selfhost-ai",
+    "language": "Shell",
+    "name": "kossakovsky/selfhost-ai",
+    "stars": 902,
+    "updated_at": "2026-07-20T20:04:25Z",
+    "url": "https://github.com/kossakovsky/selfhost-ai"
   },
   {
     "description": "The code behind dehyabi.com",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "dehyabi/dehyabi.com",
     "stars": 1,
-    "updated_at": "2026-07-20T19:58:57Z",
+    "updated_at": "2026-07-20T20:02:47Z",
     "url": "https://github.com/dehyabi/dehyabi.com"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-20T20:03:59Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Workshop",
+    "id": "HorizonBrute/Horizon-Brain-Workshop",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Workshop",
+    "stars": 0,
+    "updated_at": "2026-07-20T20:01:28Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33437,
-    "updated_at": "2026-07-20T19:50:03Z",
+    "updated_at": "2026-07-20T20:00:51Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T19:49:13Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
-    "id": "TarekMineRoyal/AcademicGateway-AI",
-    "language": "Python",
-    "name": "TarekMineRoyal/AcademicGateway-AI",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:00:10Z",
-    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
   },
   {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T19:40:27Z",
     "url": "https://github.com/rayyanali44/rag-chatbot"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Workshop",
-    "id": "HorizonBrute/Horizon-Brain-Workshop",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Workshop",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:37:53Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -241,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T18:40:25Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
-    "id": "kossakovsky/selfhost-ai",
-    "language": "Shell",
-    "name": "kossakovsky/selfhost-ai",
-    "stars": 902,
-    "updated_at": "2026-07-20T20:00:31Z",
-    "url": "https://github.com/kossakovsky/selfhost-ai"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -391,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28711,
+    "stars": 28712,
     "updated_at": "2026-07-20T17:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:16:53Z",
     "url": "https://github.com/JonathanBerhe/gvdb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1033,
-    "updated_at": "2026-07-20T17:14:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
