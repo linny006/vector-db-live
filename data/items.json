@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T21:00:22Z",
+    "updated_at": "2026-07-20T21:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:12:38Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T21:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1605,
-    "updated_at": "2026-07-20T20:57:22Z",
+    "updated_at": "2026-07-20T21:09:28Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "ANSHAM1/AI_Research_Assistant_Agent",
     "stars": 1,
-    "updated_at": "2026-07-20T20:46:22Z",
+    "updated_at": "2026-07-20T21:14:51Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33439,
-    "updated_at": "2026-07-20T20:40:08Z",
+    "updated_at": "2026-07-20T21:03:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -243,6 +252,15 @@
     "url": "https://github.com/rayyanali44/rag-chatbot"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6186,
+    "updated_at": "2026-07-20T19:37:22Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -360,15 +378,6 @@
     "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6185,
-    "updated_at": "2026-07-20T19:37:22Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 1861,
     "updated_at": "2026-07-20T17:47:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
-    "id": "nidhitk/RAG-",
-    "language": "Python",
-    "name": "nidhitk/RAG-",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:39:03Z",
-    "url": "https://github.com/nidhitk/RAG-"
   }
 ]
