@@ -4,9 +4,63 @@
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-20T00:45:37Z",
+    "stars": 4,
+    "updated_at": "2026-07-20T01:30:50Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:27:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 117,
+    "updated_at": "2026-07-20T01:24:13Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-20T01:28:07Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:19:23Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T01:18:59Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T01:14:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
@@ -14,8 +68,17 @@
     "language": "Java",
     "name": "thanhphuong080199/docmind-mcp",
     "stars": 0,
-    "updated_at": "2026-07-20T00:43:33Z",
+    "updated_at": "2026-07-20T01:05:03Z",
     "url": "https://github.com/thanhphuong080199/docmind-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T00:45:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -27,15 +90,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-20T00:35:03Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -43,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T00:33:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-20T00:19:50Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T00:16:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -90,33 +126,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-19T23:50:22Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:44:21Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-19T23:44:18Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-19T23:24:52Z",
+    "updated_at": "2026-07-20T01:00:55Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -220,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28506,
+    "stars": 28508,
     "updated_at": "2026-07-19T21:20:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -427,7 +436,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1030,
+    "stars": 1031,
     "updated_at": "2026-07-19T18:22:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-19T18:19:39Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "An AI-powered query system integrating Google Gemini, Hugging Face embeddings, ChromaDB, MySQL, and LangChain to transfo",
-    "id": "SamarjitDebnath/IntelligentQueryEngine",
-    "language": "Jupyter Notebook",
-    "name": "SamarjitDebnath/IntelligentQueryEngine",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:15:01Z",
-    "url": "https://github.com/SamarjitDebnath/IntelligentQueryEngine"
   }
 ]
