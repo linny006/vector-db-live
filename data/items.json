@@ -1,5 +1,68 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 830,
+    "updated_at": "2026-07-20T18:20:16Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-20T18:22:04Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T18:16:04Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-07-20T18:14:32Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-07-20T18:14:13Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 95,
-    "updated_at": "2026-07-20T18:02:13Z",
+    "updated_at": "2026-07-20T18:17:38Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T18:01:01Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T18:00:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T18:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
@@ -77,7 +122,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-20T18:03:26Z",
+    "updated_at": "2026-07-20T18:17:41Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -130,7 +175,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28692,
+    "stars": 28693,
     "updated_at": "2026-07-20T17:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -142,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T17:27:44Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 830,
-    "updated_at": "2026-07-20T17:27:24Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16624,
-    "updated_at": "2026-07-20T16:56:53Z",
+    "updated_at": "2026-07-20T18:18:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 30,
-    "updated_at": "2026-07-20T16:08:12Z",
+    "updated_at": "2026-07-20T18:21:04Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 83,
     "updated_at": "2026-07-20T15:54:39Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
-    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "language": "Python",
-    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:54:18Z",
-    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
-  },
-  {
-    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
-    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "language": "Python",
-    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:53:20Z",
-    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50963,
-    "updated_at": "2026-07-20T15:51:59Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "",
-    "id": "elastic/mcp-server-elasticsearch",
-    "language": "Rust",
-    "name": "elastic/mcp-server-elasticsearch",
-    "stars": 696,
-    "updated_at": "2026-07-20T15:49:17Z",
-    "url": "https://github.com/elastic/mcp-server-elasticsearch"
   }
 ]
