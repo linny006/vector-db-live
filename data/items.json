@@ -1,5 +1,68 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12643,
+    "updated_at": "2026-07-20T08:13:20Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-20T08:15:09Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6183,
+    "updated_at": "2026-07-20T08:13:11Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
+    "id": "ywqzzy/jude",
+    "language": "Python",
+    "name": "ywqzzy/jude",
+    "stars": 1,
+    "updated_at": "2026-07-20T08:15:04Z",
+    "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-20T08:06:33Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Rust driver for KoutenDB",
+    "id": "puffball1567/koutendb-rust",
+    "language": "Rust",
+    "name": "puffball1567/koutendb-rust",
+    "stars": 0,
+    "updated_at": "2026-07-20T08:01:06Z",
+    "url": "https://github.com/puffball1567/koutendb-rust"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T08:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T08:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12642,
-    "updated_at": "2026-07-20T07:59:30Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T07:56:04Z",
+    "updated_at": "2026-07-20T08:15:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -49,7 +103,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15165,
+    "stars": 15166,
     "updated_at": "2026-07-20T07:54:48Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -72,22 +126,22 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1032,
+    "updated_at": "2026-07-20T07:46:25Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28546,
-    "updated_at": "2026-07-20T07:45:39Z",
+    "stars": 28548,
+    "updated_at": "2026-07-20T08:07:20Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -117,15 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:34:41Z",
-    "url": "https://github.com/ywqzzy/jude"
-  },
-  {
     "description": "Reproducible ANN/vector-index benchmark: recall@k (vs exact ground truth), latency p50/p95, QPS, build time, memory acro",
     "id": "tkarim45/vector-db-benchmark",
     "language": "Python",
@@ -153,15 +198,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 5,
-    "updated_at": "2026-07-20T07:19:41Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16619,
-    "updated_at": "2026-07-20T07:55:32Z",
+    "updated_at": "2026-07-20T08:05:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/Nemo-captain/animas_suit"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1031,
-    "updated_at": "2026-07-20T07:46:25Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
     "id": "pinecone-io/pinecone-ts-client",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T02:58:58Z",
     "url": "https://github.com/thanhphuong080199/docmind-mcp"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-20T02:58:36Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-20T02:48:17Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33423,
-    "updated_at": "2026-07-20T02:42:09Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
