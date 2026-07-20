@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T08:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12642,
+    "updated_at": "2026-07-20T07:59:30Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 203,
+    "updated_at": "2026-07-20T07:57:20Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9391,
+    "updated_at": "2026-07-20T07:56:04Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T07:55:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15165,
+    "updated_at": "2026-07-20T07:54:48Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 9,
+    "updated_at": "2026-07-20T07:52:12Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-20T07:41:24Z",
+    "updated_at": "2026-07-20T07:59:02Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28546,
+    "updated_at": "2026-07-20T07:45:39Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T07:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -14,7 +95,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2020,
-    "updated_at": "2026-07-20T07:38:12Z",
+    "updated_at": "2026-07-20T07:52:20Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-20T07:37:41Z",
+    "updated_at": "2026-07-20T07:52:21Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -63,33 +144,6 @@
     "url": "https://github.com/tkarim45/rag-architectures"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T07:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T07:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T07:25:43Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -117,15 +171,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12642,
-    "updated_at": "2026-07-20T07:10:04Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "",
     "id": "Dullat/compliance-backend",
     "language": "JavaScript",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16619,
-    "updated_at": "2026-07-20T07:00:44Z",
+    "updated_at": "2026-07-20T07:55:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28547,
-    "updated_at": "2026-07-20T06:40:09Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
     "id": "yantrikos/yantrikdb-server",
     "language": "Rust",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 48,
-    "updated_at": "2026-07-20T07:44:50Z",
+    "updated_at": "2026-07-20T07:59:18Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1031,
-    "updated_at": "2026-07-20T07:11:04Z",
+    "updated_at": "2026-07-20T07:46:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -409,44 +445,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33421,
+    "stars": 33423,
     "updated_at": "2026-07-20T02:42:09Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9391,
-    "updated_at": "2026-07-20T07:34:36Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-20T02:40:39Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-20T02:28:01Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:07:19Z",
-    "url": "https://github.com/rmednitzer/core-graph"
   }
 ]
