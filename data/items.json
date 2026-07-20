@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-20T22:36:30Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "n8n RAG pipeline \u2014 PDF ingestion, OpenAI embeddings, Pinecone vector search, GPT-4o grounded answers, 0.75 confidence ga",
+    "id": "Ahmad-Ali-121/rag-document-qa",
+    "language": "\u2014",
+    "name": "Ahmad-Ali-121/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-07-20T22:35:04Z",
+    "url": "https://github.com/Ahmad-Ali-121/rag-document-qa"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-20T22:38:18Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T22:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-20T22:26:45Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "Synthetic research assistant",
     "id": "gperdrizet/nixx",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:18:03Z",
     "url": "https://github.com/gperdrizet/nixx"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T22:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
@@ -153,15 +171,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "n8n RAG pipeline \u2014 PDF ingestion, OpenAI embeddings, Pinecone vector search, GPT-4o grounded answers, 0.75 confidence ga",
-    "id": "Ahmad-Ali-121/rag-document-qa",
-    "language": "\u2014",
-    "name": "Ahmad-Ali-121/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:42:00Z",
-    "url": "https://github.com/Ahmad-Ali-121/rag-document-qa"
-  },
-  {
     "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
     "id": "pnoboesam/ghana-constitution-rag",
     "language": "Python",
@@ -193,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28758,
+    "stars": 28761,
     "updated_at": "2026-07-20T21:28:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -214,15 +223,6 @@
     "stars": 448,
     "updated_at": "2026-07-20T21:20:42Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-20T21:17:22Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -320,7 +320,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 63608,
-    "updated_at": "2026-07-20T20:17:23Z",
+    "updated_at": "2026-07-20T22:33:21Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
