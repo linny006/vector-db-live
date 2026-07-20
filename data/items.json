@@ -1,5 +1,104 @@
 [
   {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:43:27Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28666,
+    "updated_at": "2026-07-20T16:43:26Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-20T16:42:47Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-20T16:43:02Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "AI Engineering on Couchbase. Building AI and Agentic Apps with Foundation Models. Downloadable Book, Notebooks and Examp",
+    "id": "wooyakob/couchbase-ai-engineering",
+    "language": "Python",
+    "name": "wooyakob/couchbase-ai-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:40:38Z",
+    "url": "https://github.com/wooyakob/couchbase-ai-engineering"
+  },
+  {
+    "description": "A simple tool to manage any vector database",
+    "id": "aqora-io/vectorctl",
+    "language": "Rust",
+    "name": "aqora-io/vectorctl",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:39:12Z",
+    "url": "https://github.com/aqora-io/vectorctl"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:39:14Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "An AI-powered document chatbot built with LangChain, ChromaDB, Hugging Face Embeddings, and Mistral AI using Retrieval-A",
+    "id": "Aryan-Diggal/DocuMind-AI-",
+    "language": "Python",
+    "name": "Aryan-Diggal/DocuMind-AI-",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:35:14Z",
+    "url": "https://github.com/Aryan-Diggal/DocuMind-AI-"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-20T16:37:28Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
     "id": "Vansh-7/Vector-DB-RAG-pipeline",
     "language": "TypeScript",
@@ -14,17 +113,8 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-20T16:26:16Z",
+    "updated_at": "2026-07-20T16:31:05Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:26:02Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -45,22 +135,13 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "oracle/langchain-oracle",
+    "stars": 56,
+    "updated_at": "2026-07-20T16:16:24Z",
+    "url": "https://github.com/oracle/langchain-oracle"
   },
   {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
@@ -144,15 +225,6 @@
     "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28663,
-    "updated_at": "2026-07-20T15:52:08Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
@@ -203,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33430,
-    "updated_at": "2026-07-20T15:45:21Z",
+    "updated_at": "2026-07-20T16:42:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6184,
-    "updated_at": "2026-07-20T15:54:04Z",
+    "updated_at": "2026-07-20T16:41:35Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6252,
-    "updated_at": "2026-07-20T16:06:27Z",
+    "updated_at": "2026-07-20T16:40:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:34:40Z",
     "url": "https://github.com/SitanshuA091/VectorBench"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7023,
-    "updated_at": "2026-07-20T14:32:46Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 109,
-    "updated_at": "2026-07-20T14:40:23Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:31:59Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:25:48Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10938,
-    "updated_at": "2026-07-20T14:22:10Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-20T14:21:42Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:21:22Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system built with n8n, OpenAI, Google Drive, and Pinecone. Automatically",
-    "id": "Virajgosavi1810/n8n-pinecone-vector-database-rag-agent",
-    "language": "\u2014",
-    "name": "Virajgosavi1810/n8n-pinecone-vector-database-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:19:52Z",
-    "url": "https://github.com/Virajgosavi1810/n8n-pinecone-vector-database-rag-agent"
   }
 ]
