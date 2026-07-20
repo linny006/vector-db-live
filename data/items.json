@@ -1,5 +1,68 @@
 [
   {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 166,
+    "updated_at": "2026-07-20T23:10:08Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-20T23:07:45Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28768,
+    "updated_at": "2026-07-20T23:07:14Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:06:05Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:05:27Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T23:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T23:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
     "id": "Faraz6180/Insightpilot-ai",
     "language": "Python",
@@ -63,30 +126,12 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T22:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T23:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-20T22:40:47Z",
+    "updated_at": "2026-07-20T23:13:39Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -115,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:26:51Z",
     "url": "https://github.com/JCam98/langchain-rag-pipeline-demo"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10939,
+    "updated_at": "2026-07-20T22:23:32Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Synthetic research assistant",
@@ -153,31 +207,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:58:18Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33444,
-    "updated_at": "2026-07-20T22:55:04Z",
+    "updated_at": "2026-07-20T23:11:03Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-20T22:18:49Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -185,17 +221,8 @@
     "language": "TypeScript",
     "name": "pinecone-io/pinecone-ts-client",
     "stars": 275,
-    "updated_at": "2026-07-20T21:52:40Z",
+    "updated_at": "2026-07-20T23:06:22Z",
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
-  },
-  {
-    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:50:29Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
@@ -234,15 +261,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28767,
-    "updated_at": "2026-07-20T21:28:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "RAG- \u0438 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0439 AI-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 Python: Responses API, Qdrant, \u0430\u0433\u0435\u043d\u0442 \u0441 \u043b\u0438\u043c\u0438\u0442\u0430\u043c\u0438 \u0448\u0430\u0433\u043e\u0432, \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u044b\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430",
     "id": "NataAntro/linked-ai-content-pipeline",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-20T20:54:23Z",
+    "updated_at": "2026-07-20T23:13:28Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-20T19:20:49Z",
     "url": "https://github.com/JakubDras/vechealth"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:10:31Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50963,
-    "updated_at": "2026-07-20T18:59:31Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
