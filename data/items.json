@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The code behind dehyabi.com",
+    "id": "dehyabi/dehyabi.com",
+    "language": "TypeScript",
+    "name": "dehyabi/dehyabi.com",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:58:57Z",
+    "url": "https://github.com/dehyabi/dehyabi.com"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:53:43Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:51:56Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33437,
+    "updated_at": "2026-07-20T19:50:03Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-20T19:49:13Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
     "id": "TarekMineRoyal/AcademicGateway-AI",
     "language": "Python",
     "name": "TarekMineRoyal/AcademicGateway-AI",
     "stars": 1,
-    "updated_at": "2026-07-20T19:42:38Z",
+    "updated_at": "2026-07-20T20:00:10Z",
     "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
   },
   {
@@ -34,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T19:40:27Z",
     "url": "https://github.com/rayyanali44/rag-chatbot"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Workshop",
+    "id": "HorizonBrute/Horizon-Brain-Workshop",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Workshop",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:37:53Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -72,30 +144,12 @@
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T19:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-20T19:30:03Z",
+    "updated_at": "2026-07-20T19:52:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16624,
-    "updated_at": "2026-07-20T19:33:27Z",
+    "updated_at": "2026-07-20T19:57:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/JakubDras/vechealth"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33436,
-    "updated_at": "2026-07-20T19:12:53Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6077,
-    "updated_at": "2026-07-20T19:19:01Z",
+    "updated_at": "2026-07-20T19:51:50Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/vansharora156/nexus-rag"
   },
   {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:44:15Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) system built with n8n, OpenAI, Pinecone, and Google Drive for automated ",
     "id": "enas2004jadaa/AI-RAG-Knowledge-Assistant",
     "language": "\u2014",
@@ -212,7 +248,7 @@
     "language": "Shell",
     "name": "kossakovsky/selfhost-ai",
     "stars": 902,
-    "updated_at": "2026-07-20T19:32:05Z",
+    "updated_at": "2026-07-20T20:00:31Z",
     "url": "https://github.com/kossakovsky/selfhost-ai"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-20T19:20:06Z",
+    "updated_at": "2026-07-20T19:46:52Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -355,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28709,
+    "stars": 28711,
     "updated_at": "2026-07-20T17:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 1033,
     "updated_at": "2026-07-20T17:14:30Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6252,
-    "updated_at": "2026-07-20T18:51:38Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Implementation of Agent memory vector store proxy written in Rust",
-    "id": "derinworks/penr-oz-agent-memory-rust",
-    "language": "Rust",
-    "name": "derinworks/penr-oz-agent-memory-rust",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:05:54Z",
-    "url": "https://github.com/derinworks/penr-oz-agent-memory-rust"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 5,
-    "updated_at": "2026-07-20T17:04:25Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:02:09Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   }
 ]
