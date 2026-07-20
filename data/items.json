@@ -1,30 +1,75 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-20T14:42:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:38:32Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45280,
+    "updated_at": "2026-07-20T14:40:45Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
+    "id": "SitanshuA091/VectorBench",
+    "language": "Python",
+    "name": "SitanshuA091/VectorBench",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:34:40Z",
+    "url": "https://github.com/SitanshuA091/VectorBench"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6183,
+    "updated_at": "2026-07-20T14:33:26Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7023,
+    "updated_at": "2026-07-20T14:32:46Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 4,
-    "updated_at": "2026-07-20T14:30:35Z",
+    "updated_at": "2026-07-20T14:32:33Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 203,
-    "updated_at": "2026-07-20T14:29:18Z",
-    "url": "https://github.com/qdrant/skills"
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 109,
+    "updated_at": "2026-07-20T14:40:23Z",
+    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
@@ -36,13 +81,22 @@
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-20T14:28:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 203,
+    "updated_at": "2026-07-20T14:41:33Z",
+    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -85,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28627,
+    "stars": 28631,
     "updated_at": "2026-07-20T14:21:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:19:52Z",
     "url": "https://github.com/Virajgosavi1810/n8n-pinecone-vector-database-rag-agent"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45280,
-    "updated_at": "2026-07-20T14:18:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A curated list of awesome works related to high dimensional structure/vector search & database",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-20T14:26:57Z",
+    "updated_at": "2026-07-20T14:44:57Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -171,6 +216,15 @@
     "url": "https://github.com/MaxFreedomPollard/engRAM"
   },
   {
+    "description": "RAG- \u0438 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0439 AI-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 Python: Responses API, Qdrant, \u0430\u0433\u0435\u043d\u0442 \u0441 \u043b\u0438\u043c\u0438\u0442\u0430\u043c\u0438 \u0448\u0430\u0433\u043e\u0432, \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u044b\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430",
+    "id": "NataAntro/linked-ai-content-pipeline",
+    "language": "Python",
+    "name": "NataAntro/linked-ai-content-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:00:05Z",
+    "url": "https://github.com/NataAntro/linked-ai-content-pipeline"
+  },
+  {
     "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
     "id": "nidhitk/RAG-",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:56:26Z",
     "url": "https://github.com/nidhitk/RAG-"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-20T13:53:46Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
     "description": "OpenCrawling: High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:57:17Z",
     "url": "https://github.com/kyzodb/kyzo"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6183,
-    "updated_at": "2026-07-20T14:31:43Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33427,
-    "updated_at": "2026-07-20T14:18:18Z",
+    "updated_at": "2026-07-20T14:41:46Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -288,6 +324,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7878,
+    "updated_at": "2026-07-20T14:43:44Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -302,17 +347,8 @@
     "language": "Python",
     "name": "kirankumarjmeshram/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-07-20T13:06:53Z",
+    "updated_at": "2026-07-20T14:44:29Z",
     "url": "https://github.com/kirankumarjmeshram/Generative-AI"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7877,
-    "updated_at": "2026-07-20T13:13:02Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -412,41 +448,5 @@
     "stars": 75,
     "updated_at": "2026-07-20T12:15:37Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A full-stack Self-Reflective Agentic RAG system built with FastAPI, LangGraph, and React Flow. Features live pipeline vi",
-    "id": "bablu456/self-reflective-rag-dashboard",
-    "language": "Python",
-    "name": "bablu456/self-reflective-rag-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:13:06Z",
-    "url": "https://github.com/bablu456/self-reflective-rag-dashboard"
-  },
-  {
-    "description": "High-performance distributed vector database with high-dimensional vector support",
-    "id": "JonathanBerhe/gvdb",
-    "language": "C++",
-    "name": "JonathanBerhe/gvdb",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:50:38Z",
-    "url": "https://github.com/JonathanBerhe/gvdb"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58662,
-    "updated_at": "2026-07-20T11:58:58Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 1,
-    "updated_at": "2026-07-20T13:44:42Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
   }
 ]
