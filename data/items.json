@@ -1,5 +1,59 @@
 [
   {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:11:58Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33429,
+    "updated_at": "2026-07-20T15:11:36Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28639,
+    "updated_at": "2026-07-20T15:11:32Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 203,
+    "updated_at": "2026-07-20T15:10:00Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6184,
+    "updated_at": "2026-07-20T15:03:36Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +63,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
+    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "language": "Python",
+    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:59:22Z",
+    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
+  },
+  {
     "description": "A LanceDB-native memory and retrieval layer for AI agents.",
     "id": "MoonAndEye/lancer-memory",
     "language": "\u2014",
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:54:02Z",
     "url": "https://github.com/MoonAndEye/lancer-memory"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7880,
+    "updated_at": "2026-07-20T14:53:28Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -63,24 +135,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7879,
-    "updated_at": "2026-07-20T14:53:28Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
     "id": "kirankumarjmeshram/Generative-AI",
     "language": "Python",
@@ -95,17 +149,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-20T14:50:57Z",
+    "updated_at": "2026-07-20T15:01:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33428,
-    "updated_at": "2026-07-20T14:57:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -135,15 +180,6 @@
     "url": "https://github.com/SitanshuA091/VectorBench"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6183,
-    "updated_at": "2026-07-20T14:57:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T14:31:59Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 203,
-    "updated_at": "2026-07-20T14:41:33Z",
-    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:21:22Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28632,
-    "updated_at": "2026-07-20T14:21:20Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -266,7 +284,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-20T14:15:51Z",
+    "updated_at": "2026-07-20T15:15:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-20T14:44:57Z",
+    "updated_at": "2026-07-20T15:12:19Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-20T12:58:53Z",
     "url": "https://github.com/mienetic/mnema"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 1,
-    "updated_at": "2026-07-20T12:48:29Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 3,
-    "updated_at": "2026-07-20T12:38:09Z",
-    "url": "https://github.com/ywqzzy/jude"
   }
 ]
