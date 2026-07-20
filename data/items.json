@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T06:08:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-20T06:15:14Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16618,
+    "updated_at": "2026-07-20T06:03:56Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T06:03:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T06:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T06:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -9,31 +63,13 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "Fully local RAG chatbot for fashion aesthetics \u2014 LangChain + ChromaDB + Ollama (phi3), zero API cost at runtime",
+    "id": "pav4ni/rag-chatbot",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T05:45:28Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T05:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "pav4ni/rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:56:58Z",
+    "url": "https://github.com/pav4ni/rag-chatbot"
   },
   {
     "description": "AI-Powered Code Comprehension",
@@ -90,31 +126,13 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-20T05:59:20Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 5,
-    "updated_at": "2026-07-20T05:03:36Z",
+    "updated_at": "2026-07-20T06:03:48Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T04:44:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -274,18 +292,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33416,
+    "stars": 33417,
     "updated_at": "2026-07-20T02:42:09Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16617,
-    "updated_at": "2026-07-20T05:47:31Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-19T23:52:14Z",
+    "updated_at": "2026-07-20T06:14:41Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7872,
     "updated_at": "2026-07-20T04:22:52Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep",
-    "id": "anish-siv/codebase-rag",
-    "language": "HTML",
-    "name": "anish-siv/codebase-rag",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:51:06Z",
-    "url": "https://github.com/anish-siv/codebase-rag"
   }
 ]
