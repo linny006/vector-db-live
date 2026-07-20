@@ -1,12 +1,66 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16621,
+    "updated_at": "2026-07-20T10:58:29Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-20T10:56:08Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T10:45:18Z",
+    "updated_at": "2026-07-20T10:49:58Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1033,
+    "updated_at": "2026-07-20T10:48:15Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "High-performance distributed vector database with high-dimensional vector support",
+    "id": "JonathanBerhe/gvdb",
+    "language": "C++",
+    "name": "JonathanBerhe/gvdb",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:51:27Z",
+    "url": "https://github.com/JonathanBerhe/gvdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45276,
+    "updated_at": "2026-07-20T10:44:43Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-20T10:44:31Z",
+    "updated_at": "2026-07-20T10:49:24Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -32,7 +86,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7876,
-    "updated_at": "2026-07-20T10:44:09Z",
+    "updated_at": "2026-07-20T11:00:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T10:33:53Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "High-performance distributed vector database with high-dimensional vector support",
-    "id": "JonathanBerhe/gvdb",
-    "language": "C++",
-    "name": "JonathanBerhe/gvdb",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:43:14Z",
-    "url": "https://github.com/JonathanBerhe/gvdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -97,15 +133,6 @@
     "stars": 1861,
     "updated_at": "2026-07-20T10:21:49Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-20T10:28:40Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T10:38:54Z",
+    "updated_at": "2026-07-20T10:46:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16621,
-    "updated_at": "2026-07-20T10:34:00Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33423,
-    "updated_at": "2026-07-20T09:33:07Z",
+    "updated_at": "2026-07-20T10:54:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -310,7 +328,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28561,
+    "stars": 28566,
     "updated_at": "2026-07-20T09:15:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -378,15 +396,6 @@
     "url": "https://github.com/Yazhini-Jeyakumar/RAG-Based-PDF-Question-Answering-System"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1032,
-    "updated_at": "2026-07-20T10:45:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Cohere, Mistral, Moonshot, DeepSeek, and Zai model",
     "id": "DopamineDriven/slipstream",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:30:46Z",
     "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 163,
-    "updated_at": "2026-07-20T08:22:31Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   }
 ]
