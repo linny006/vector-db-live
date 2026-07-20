@@ -1,5 +1,41 @@
 [
   {
+    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
+    "id": "Shr9vaniii/Onboarding_rag_engine",
+    "language": "Python",
+    "name": "Shr9vaniii/Onboarding_rag_engine",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:13:17Z",
+    "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T05:09:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-20T05:03:36Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T05:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/priyanshu1405/CodebaseRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T04:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-20T04:54:37Z",
+    "updated_at": "2026-07-20T05:06:27Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:37:19Z",
     "url": "https://github.com/Manindra-babu/Knowledge-Base-RAG"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:37:59Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-20T04:31:22Z",
+    "updated_at": "2026-07-20T05:13:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -139,7 +157,7 @@
     "id": "stuinfla/Repo-Explainer",
     "language": "JavaScript",
     "name": "stuinfla/Repo-Explainer",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-07-20T03:59:21Z",
     "url": "https://github.com/stuinfla/Repo-Explainer"
   },
@@ -252,15 +270,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T02:33:30Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
     "id": "Nikolay1994Kaz/storage_in_memory",
     "language": "Go",
@@ -338,7 +347,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1443,
-    "updated_at": "2026-07-20T03:55:47Z",
+    "updated_at": "2026-07-20T05:08:17Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -427,7 +436,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28524,
+    "stars": 28526,
     "updated_at": "2026-07-19T21:20:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T20:55:10Z",
     "url": "https://github.com/opencrawling/open-ingestion-standard"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-19T20:28:51Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
