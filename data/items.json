@@ -1,5 +1,59 @@
 [
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6183,
+    "updated_at": "2026-07-20T09:40:09Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-20T09:40:01Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Production RAG pipeline for arXiv ML papers: nightly Airflow ingestion, pgvector HNSW search, LLM-as-judge evaluation wi",
+    "id": "dingzehu/arxiv-rag",
+    "language": "Python",
+    "name": "dingzehu/arxiv-rag",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:36:24Z",
+    "url": "https://github.com/dingzehu/arxiv-rag"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-20T09:33:52Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T09:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T09:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -9,21 +63,12 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 75,
-    "updated_at": "2026-07-20T09:28:22Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33423,
-    "updated_at": "2026-07-20T09:22:41Z",
+    "updated_at": "2026-07-20T09:33:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T09:21:15Z",
+    "updated_at": "2026-07-20T09:38:44Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -103,34 +148,16 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12645,
+    "stars": 12646,
     "updated_at": "2026-07-20T09:15:50Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T09:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28556,
+    "stars": 28557,
     "updated_at": "2026-07-20T09:15:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -202,7 +229,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58658,
+    "stars": 58657,
     "updated_at": "2026-07-20T08:54:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 83,
-    "updated_at": "2026-07-20T09:28:07Z",
+    "updated_at": "2026-07-20T09:38:24Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:21:25Z",
     "url": "https://github.com/puffball1567/koutendb-rust"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6183,
-    "updated_at": "2026-07-20T09:22:10Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-20T06:57:35Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf",
-    "id": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:53:17Z",
-    "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
-  },
-  {
-    "description": "AI Sales Agent cho Phong V\u0169 \u2014 Tr\u1ee3 l\u00fd t\u01b0 v\u1ea5n mua s\u1eafm b\u1eb1ng GenAI, t\u00edch h\u1ee3p real-time price/stock/promotion, so s\u00e1nh s\u1ea3n ph",
-    "id": "l3vu0ng/PhongVu-AI-Sales-Agent",
-    "language": "TypeScript",
-    "name": "l3vu0ng/PhongVu-AI-Sales-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:51:53Z",
-    "url": "https://github.com/l3vu0ng/PhongVu-AI-Sales-Agent"
   }
 ]
