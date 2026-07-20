@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T14:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "ANSHAM1/AI_Research_Assistant_Agent",
     "stars": 1,
-    "updated_at": "2026-07-20T14:28:49Z",
+    "updated_at": "2026-07-20T14:31:59Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-20T14:28:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -54,15 +72,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-20T14:28:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
     "id": "api-evangelist/nomic-ai",
     "language": "\u2014",
@@ -76,7 +85,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28626,
+    "stars": 28627,
     "updated_at": "2026-07-20T14:21:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -133,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T14:15:51Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T14:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T14:24:36Z",
+    "updated_at": "2026-07-20T14:31:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
