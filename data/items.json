@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T06:45:18Z",
+    "updated_at": "2026-07-20T07:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
+    "id": "ywqzzy/jude",
+    "language": "Python",
+    "name": "ywqzzy/jude",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:00:06Z",
+    "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:59:57Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
     "description": "The holographic core for leOS",
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 7,
-    "updated_at": "2026-07-20T06:42:20Z",
+    "updated_at": "2026-07-20T06:57:35Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf",
+    "id": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:53:17Z",
+    "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T06:53:15Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Sales Agent cho Phong V\u0169 \u2014 Tr\u1ee3 l\u00fd t\u01b0 v\u1ea5n mua s\u1eafm b\u1eb1ng GenAI, t\u00edch h\u1ee3p real-time price/stock/promotion, so s\u00e1nh s\u1ea3n ph",
+    "id": "l3vu0ng/PhongVu-AI-Sales-Agent",
+    "language": "TypeScript",
+    "name": "l3vu0ng/PhongVu-AI-Sales-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:51:53Z",
+    "url": "https://github.com/l3vu0ng/PhongVu-AI-Sales-Agent"
+  },
+  {
+    "description": "High-density streaming VDB. Built on Hnswlib. 100% memory-safe under extreme data bursts.",
+    "id": "CantorAI/Quanta",
+    "language": "C++",
+    "name": "CantorAI/Quanta",
+    "stars": 1,
+    "updated_at": "2026-07-20T06:50:00Z",
+    "url": "https://github.com/CantorAI/Quanta"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T06:47:43Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 3,
+    "updated_at": "2026-07-20T06:46:32Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T06:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28543,
+    "updated_at": "2026-07-20T06:40:09Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -34,15 +124,6 @@
     "stars": 1861,
     "updated_at": "2026-07-20T06:37:40Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:35:41Z",
-    "url": "https://github.com/ywqzzy/jude"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -72,21 +153,12 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-20T06:44:02Z",
+    "updated_at": "2026-07-20T06:49:58Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T06:08:37Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -135,15 +198,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 3,
-    "updated_at": "2026-07-20T05:58:57Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
     "description": "Fully local RAG chatbot for fashion aesthetics \u2014 LangChain + ChromaDB + Ollama (phi3), zero API cost at runtime",
     "id": "pav4ni/rag-chatbot",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T05:32:49Z",
     "url": "https://github.com/Shr9vaniii/Onboarding_rag_engine"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-07-20T05:28:31Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-20T04:14:42Z",
+    "updated_at": "2026-07-20T06:59:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 47,
     "updated_at": "2026-07-20T03:59:21Z",
     "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:53:33Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -338,7 +374,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T06:19:03Z",
+    "updated_at": "2026-07-20T06:53:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -400,7 +436,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 118,
+    "stars": 119,
     "updated_at": "2026-07-20T01:24:13Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -412,41 +448,5 @@
     "stars": 1443,
     "updated_at": "2026-07-20T05:08:17Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-20T00:41:36Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:13:08Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-20T06:14:41Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:14:02Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
