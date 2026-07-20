@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T07:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T07:12:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12640,
+    "updated_at": "2026-07-20T07:10:04Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
     "id": "ywqzzy/jude",
     "language": "Python",
     "name": "ywqzzy/jude",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:00:06Z",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:09:08Z",
     "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "",
+    "id": "Dullat/compliance-backend",
+    "language": "JavaScript",
+    "name": "Dullat/compliance-backend",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:02:02Z",
+    "url": "https://github.com/Dullat/compliance-backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T07:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T07:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T06:53:17Z",
     "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-20T06:53:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "AI Sales Agent cho Phong V\u0169 \u2014 Tr\u1ee3 l\u00fd t\u01b0 v\u1ea5n mua s\u1eafm b\u1eb1ng GenAI, t\u00edch h\u1ee3p real-time price/stock/promotion, so s\u00e1nh s\u1ea3n ph",
@@ -88,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T06:46:32Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T06:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16618,
-    "updated_at": "2026-07-20T06:03:56Z",
+    "updated_at": "2026-07-20T07:00:44Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1031,
-    "updated_at": "2026-07-20T04:20:43Z",
+    "updated_at": "2026-07-20T07:11:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 75,
-    "updated_at": "2026-07-20T06:59:21Z",
+    "updated_at": "2026-07-20T07:14:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-20T06:53:55Z",
+    "updated_at": "2026-07-20T07:10:14Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2194,
     "updated_at": "2026-07-20T01:46:44Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 119,
-    "updated_at": "2026-07-20T01:24:13Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1443,
-    "updated_at": "2026-07-20T05:08:17Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
