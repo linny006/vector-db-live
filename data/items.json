@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T21:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:42:08Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "n8n RAG pipeline \u2014 PDF ingestion, OpenAI embeddings, Pinecone vector search, GPT-4o grounded answers, 0.75 confidence ga",
+    "id": "Ahmad-Ali-121/rag-document-qa",
+    "language": "\u2014",
+    "name": "Ahmad-Ali-121/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:42:00Z",
+    "url": "https://github.com/Ahmad-Ali-121/rag-document-qa"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,8 +23,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T21:30:21Z",
+    "updated_at": "2026-07-20T21:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Workshop",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:40:09Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:38:21Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 1,
+    "updated_at": "2026-07-20T21:36:55Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-20T21:32:32Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T21:31:46Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28745,
+    "updated_at": "2026-07-20T21:28:02Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "RAG- \u0438 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0439 AI-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 Python: Responses API, Qdrant, \u0430\u0433\u0435\u043d\u0442 \u0441 \u043b\u0438\u043c\u0438\u0442\u0430\u043c\u0438 \u0448\u0430\u0433\u043e\u0432, \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u044b\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430",
@@ -36,24 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 2,
-    "updated_at": "2026-07-20T21:25:43Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-20T21:29:35Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -72,20 +117,11 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T21:14:51Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33441,
+    "stars": 33442,
     "updated_at": "2026-07-20T21:03:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -151,15 +187,6 @@
     "stars": 902,
     "updated_at": "2026-07-20T20:24:57Z",
     "url": "https://github.com/kossakovsky/selfhost-ai"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Workshop",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:24:17Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16624,
-    "updated_at": "2026-07-20T20:06:08Z",
+    "updated_at": "2026-07-20T21:36:03Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 50962,
     "updated_at": "2026-07-20T18:59:31Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
-    "id": "pnoboesam/ghana-constitution-rag",
-    "language": "Python",
-    "name": "pnoboesam/ghana-constitution-rag",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:58:38Z",
-    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
   },
   {
     "description": "Production-grade Enterprise Multi-Modal RAG system using Gemini, Qdrant, PaddleOCR, BM25, and FastAPI.",
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-20T21:20:22Z",
+    "updated_at": "2026-07-20T21:38:03Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-20T18:14:32Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-go",
-    "language": "Go",
-    "name": "cyborginc/cyborgdb-go",
-    "stars": 9,
-    "updated_at": "2026-07-20T18:14:13Z",
-    "url": "https://github.com/cyborginc/cyborgdb-go"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 95,
-    "updated_at": "2026-07-20T18:34:22Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   }
 ]
