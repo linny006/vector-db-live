@@ -1,21 +1,21 @@
 [
   {
-    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
-    "id": "krishkumar4400/weights-to-prod",
-    "language": "Jupyter Notebook",
-    "name": "krishkumar4400/weights-to-prod",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:14:20Z",
-    "url": "https://github.com/krishkumar4400/weights-to-prod"
+    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
+    "id": "Vansh-7/Vector-DB-RAG-pipeline",
+    "language": "TypeScript",
+    "name": "Vansh-7/Vector-DB-RAG-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:27:32Z",
+    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:14:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:26:16Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -23,8 +23,53 @@
     "language": "JavaScript",
     "name": "Senthilsivam41/kinegraph-v",
     "stars": 0,
-    "updated_at": "2026-07-20T16:13:46Z",
+    "updated_at": "2026-07-20T16:26:02Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 275,
+    "updated_at": "2026-07-20T16:25:55Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 830,
+    "updated_at": "2026-07-20T16:20:02Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T16:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
+    "id": "krishkumar4400/weights-to-prod",
+    "language": "Jupyter Notebook",
+    "name": "krishkumar4400/weights-to-prod",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:14:20Z",
+    "url": "https://github.com/krishkumar4400/weights-to-prod"
   },
   {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
@@ -72,15 +117,6 @@
     "url": "https://github.com/vearch/vearch"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -112,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28658,
+    "stars": 28663,
     "updated_at": "2026-07-20T15:52:08Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -166,7 +202,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33428,
+    "stars": 33430,
     "updated_at": "2026-07-20T15:45:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T14:19:52Z",
     "url": "https://github.com/Virajgosavi1810/n8n-pinecone-vector-database-rag-agent"
-  },
-  {
-    "description": "A curated list of awesome works related to high dimensional structure/vector search & database",
-    "id": "dangkhoasdc/awesome-vector-database",
-    "language": "\u2014",
-    "name": "dangkhoasdc/awesome-vector-database",
-    "stars": 355,
-    "updated_at": "2026-07-20T14:17:05Z",
-    "url": "https://github.com/dangkhoasdc/awesome-vector-database"
-  },
-  {
-    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
-    "id": "NTU-Siqiang-Group/AsterVec",
-    "language": "C++",
-    "name": "NTU-Siqiang-Group/AsterVec",
-    "stars": 31,
-    "updated_at": "2026-07-20T14:16:24Z",
-    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9392,
-    "updated_at": "2026-07-20T15:49:38Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "MCP server for MetaTrader MQL4/MQL5 documentation (4853 entries). Provides AI assistants with complete MQL reference for",
-    "id": "TheFractalyst/MetatraderMCP",
-    "language": "Python",
-    "name": "TheFractalyst/MetatraderMCP",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:04:46Z",
-    "url": "https://github.com/TheFractalyst/MetatraderMCP"
   }
 ]
