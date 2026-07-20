@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T22:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-20T22:44:55Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-20T22:40:47Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T22:38:42Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -16,33 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:35:04Z",
     "url": "https://github.com/Ahmad-Ali-121/rag-document-qa"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-20T22:38:18Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T22:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T22:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Build and run a local Pokemon Bulbapedia LangChain RAG Q&A agent.",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33444,
-    "updated_at": "2026-07-20T21:57:36Z",
+    "updated_at": "2026-07-20T22:38:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -202,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28761,
+    "stars": 28763,
     "updated_at": "2026-07-20T21:28:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -239,7 +248,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 1,
-    "updated_at": "2026-07-20T20:58:41Z",
+    "updated_at": "2026-07-20T22:42:40Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T18:57:47Z",
     "url": "https://github.com/vansharora156/nexus-rag"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system built with n8n, OpenAI, Pinecone, and Google Drive for automated ",
-    "id": "enas2004jadaa/AI-RAG-Knowledge-Assistant",
-    "language": "\u2014",
-    "name": "enas2004jadaa/AI-RAG-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:37:02Z",
-    "url": "https://github.com/enas2004jadaa/AI-RAG-Knowledge-Assistant"
   }
 ]
