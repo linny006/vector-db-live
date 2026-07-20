@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:07:23Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
+    "id": "kirankumarjmeshram/Generative-AI",
+    "language": "Python",
+    "name": "kirankumarjmeshram/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:06:53Z",
+    "url": "https://github.com/kirankumarjmeshram/Generative-AI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28595,
+    "updated_at": "2026-07-20T13:06:37Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7877,
+    "updated_at": "2026-07-20T13:13:02Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:04:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-20T13:00:26Z",
+    "updated_at": "2026-07-20T13:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T13:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1033,
+    "updated_at": "2026-07-20T13:00:03Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -27,24 +90,6 @@
     "url": "https://github.com/mienetic/mnema"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1033,
-    "updated_at": "2026-07-20T13:00:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28592,
-    "updated_at": "2026-07-20T12:55:04Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6183,
-    "updated_at": "2026-07-20T12:58:32Z",
+    "updated_at": "2026-07-20T13:11:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T12:48:29Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T12:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
@@ -131,7 +167,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-20T12:20:42Z",
+    "updated_at": "2026-07-20T13:14:06Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -140,7 +176,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-20T12:19:21Z",
+    "updated_at": "2026-07-20T13:13:09Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -184,7 +220,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58660,
+    "stars": 58661,
     "updated_at": "2026-07-20T11:58:58Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -229,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33424,
+    "stars": 33425,
     "updated_at": "2026-07-20T10:54:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -238,7 +274,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45278,
+    "stars": 45279,
     "updated_at": "2026-07-20T10:44:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:41:12Z",
     "url": "https://github.com/Nischitha112/rag-financial-reader"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7876,
-    "updated_at": "2026-07-20T12:25:18Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -295,24 +322,6 @@
     "stars": 4416,
     "updated_at": "2026-07-20T10:40:27Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:12:36Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:08:51Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T09:18:35Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12648,
-    "updated_at": "2026-07-20T09:15:50Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
