@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12741,
+    "updated_at": "2026-07-21T15:57:57Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 242,
+    "updated_at": "2026-07-21T15:55:57Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T15:54:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -7,15 +34,6 @@
     "stars": 89,
     "updated_at": "2026-07-21T15:52:53Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12741,
-    "updated_at": "2026-07-21T15:51:12Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
@@ -32,17 +50,8 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-21T15:46:44Z",
+    "updated_at": "2026-07-21T15:59:26Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T15:45:19Z",
+    "updated_at": "2026-07-21T16:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-21T15:46:44Z",
+    "updated_at": "2026-07-21T15:57:20Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58679,
-    "updated_at": "2026-07-21T15:44:01Z",
+    "updated_at": "2026-07-21T15:57:49Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-21T13:48:27Z",
     "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "An AI-powered RAG application that answers questions from uploaded PDF documents using ChromaDB, Sentence Transformers, ",
-    "id": "hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2",
-    "language": "Python",
-    "name": "hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:48:14Z",
-    "url": "https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2"
   }
 ]
