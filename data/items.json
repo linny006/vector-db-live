@@ -1,5 +1,50 @@
 [
   {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-21T01:57:50Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 84,
+    "updated_at": "2026-07-21T01:56:21Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1402,
+    "updated_at": "2026-07-21T01:53:10Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:46:38Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T01:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +59,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 121,
-    "updated_at": "2026-07-21T01:44:10Z",
+    "updated_at": "2026-07-21T01:51:44Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:39:39Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T01:33:35Z",
     "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T01:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -198,6 +225,15 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33445,
+    "updated_at": "2026-07-20T23:46:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T01:43:39Z",
+    "updated_at": "2026-07-21T01:55:24Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -274,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28807,
+    "stars": 28811,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -301,7 +337,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63609,
+    "stars": 63611,
     "updated_at": "2026-07-20T22:55:09Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -369,15 +405,6 @@
     "url": "https://github.com/shreyanshverma7/blood-report-analyser"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33444,
-    "updated_at": "2026-07-20T23:46:49Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 16625,
     "updated_at": "2026-07-20T21:36:03Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "RAG- \u0438 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0439 AI-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 Python: Responses API, Qdrant, \u0430\u0433\u0435\u043d\u0442 \u0441 \u043b\u0438\u043c\u0438\u0442\u0430\u043c\u0438 \u0448\u0430\u0433\u043e\u0432, \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043c\u044b\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u0438 \u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430",
-    "id": "NataAntro/linked-ai-content-pipeline",
-    "language": "Python",
-    "name": "NataAntro/linked-ai-content-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:27:43Z",
-    "url": "https://github.com/NataAntro/linked-ai-content-pipeline"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 448,
-    "updated_at": "2026-07-20T21:20:42Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 1,
-    "updated_at": "2026-07-20T22:42:40Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
   }
 ]
