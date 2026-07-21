@@ -1,12 +1,66 @@
 [
   {
+    "description": "Thin, stable Qdrant client for Crystal \u2014 a RAG-focused facade (ensure, upsert, search, count, delete) over qdrant-api.",
+    "id": "jbox-web/qdrant-client.cr",
+    "language": "Crystal",
+    "name": "jbox-web/qdrant-client.cr",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:55:20Z",
+    "url": "https://github.com/jbox-web/qdrant-client.cr"
+  },
+  {
     "description": "Pinecone.io Golang Client",
     "id": "pinecone-io/go-pinecone",
     "language": "Go",
     "name": "pinecone-io/go-pinecone",
     "stars": 68,
-    "updated_at": "2026-07-21T07:43:12Z",
+    "updated_at": "2026-07-21T07:55:18Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 7,
+    "updated_at": "2026-07-21T07:46:43Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Official n8n node for interfacing with Qdrant",
+    "id": "qdrant/n8n-nodes-qdrant",
+    "language": "TypeScript",
+    "name": "qdrant/n8n-nodes-qdrant",
+    "stars": 78,
+    "updated_at": "2026-07-21T07:46:32Z",
+    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-21T07:47:09Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
@@ -16,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-07-21T07:41:02Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45294,
+    "updated_at": "2026-07-21T07:58:53Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -31,7 +94,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12650,
+    "stars": 12651,
     "updated_at": "2026-07-21T07:33:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -52,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T07:30:37Z",
     "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 31,
-    "updated_at": "2026-07-21T06:46:31Z",
+    "updated_at": "2026-07-21T07:52:20Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/vearch/vearch"
   },
   {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:31:52Z",
-    "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T06:28:36Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45293,
-    "updated_at": "2026-07-21T07:39:28Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-21T04:58:14Z",
     "url": "https://github.com/MontyGovernance/montycat_dart"
-  },
-  {
-    "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
-    "id": "tryAGI/LangChain.Databases",
-    "language": "C#",
-    "name": "tryAGI/LangChain.Databases",
-    "stars": 12,
-    "updated_at": "2026-07-21T04:48:52Z",
-    "url": "https://github.com/tryAGI/LangChain.Databases"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:05:47Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "A full-stack RAG-based AI study platform \u2014 upload PDF notes and get cited doubt-solving, adaptive quizzes, spaced-repeti",
-    "id": "Akhileshkachhwaha26/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Akhileshkachhwaha26/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:40:24Z",
-    "url": "https://github.com/Akhileshkachhwaha26/notes-quiz-agent"
   }
 ]
