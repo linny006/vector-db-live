@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T00:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1443,
+    "updated_at": "2026-07-21T00:28:50Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 121,
+    "updated_at": "2026-07-21T00:27:20Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-07-21T00:27:19Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-21T00:18:38Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T00:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 50963,
-    "updated_at": "2026-07-21T00:13:38Z",
+    "updated_at": "2026-07-21T00:22:47Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -25,24 +79,6 @@
     "stars": 8,
     "updated_at": "2026-07-21T00:02:51Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T00:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-20T23:45:12Z",
+    "updated_at": "2026-07-21T00:24:09Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/pinecone-io/go-pinecone"
   },
   {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1443,
-    "updated_at": "2026-07-20T23:26:30Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
@@ -193,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28781,
+    "stars": 28785,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -211,7 +238,7 @@
     "id": "Faraz6180/Insightpilot-ai",
     "language": "Python",
     "name": "Faraz6180/Insightpilot-ai",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-20T22:58:16Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:20:13Z",
     "url": "https://github.com/EonsofStupid/rrobjects"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-20T20:10:29Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "The code behind dehyabi.com",
-    "id": "dehyabi/dehyabi.com",
-    "language": "TypeScript",
-    "name": "dehyabi/dehyabi.com",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:02:47Z",
-    "url": "https://github.com/dehyabi/dehyabi.com"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:51:56Z",
-    "url": "https://github.com/rehan243/rehan243"
   }
 ]
