@@ -1,5 +1,86 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T19:29:06Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
+    "id": "parinbajayebin/pdf-chatbot-rag",
+    "language": "Python",
+    "name": "parinbajayebin/pdf-chatbot-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:28:44Z",
+    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-21T19:28:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:24:11Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6255,
+    "updated_at": "2026-07-21T19:30:05Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T19:27:05Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:20:57Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:19:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-07-21T19:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50984,
+    "updated_at": "2026-07-21T19:14:57Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T19:13:03Z",
+    "updated_at": "2026-07-21T19:24:27Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -72,33 +162,6 @@
     "url": "https://github.com/fthsrbst/mnema"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T19:01:11Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:15:15Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -108,15 +171,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6255,
-    "updated_at": "2026-07-21T19:13:31Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
     "id": "tpt-solutions/tpt-ai-agents",
     "language": "Rust",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:52:09Z",
     "url": "https://github.com/tpt-solutions/tpt-ai-agents"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T19:14:06Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "Production-ready AI Assistant built with Spring Boot, React, Spring AI & Groq featuring multi-model support, document in",
@@ -148,7 +193,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29005,
+    "stars": 29006,
     "updated_at": "2026-07-21T18:37:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -169,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:37:29Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:37:12Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -234,15 +288,6 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-21T17:48:02Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
     "id": "lancedb/docs",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "qdrant/qdrant-client",
     "stars": 1329,
-    "updated_at": "2026-07-21T17:51:41Z",
+    "updated_at": "2026-07-21T19:17:20Z",
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:21:15Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "AI-powered PDF Question Answering using Google ADK, Gemini, ChromaDB, and Retrieval-Augmented Generation (RAG).",
     "id": "Sangeeth-dev-codes/document-rag-assistant",
     "language": "Python",
@@ -351,21 +387,12 @@
     "url": "https://github.com/Sangeeth-dev-codes/document-rag-assistant"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:17:14Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T18:20:48Z",
+    "updated_at": "2026-07-21T19:20:18Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -373,7 +400,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58684,
+    "stars": 58685,
     "updated_at": "2026-07-21T17:07:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -401,8 +428,17 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33470,
-    "updated_at": "2026-07-21T17:02:59Z",
+    "updated_at": "2026-07-21T19:28:19Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1444,
+    "updated_at": "2026-07-21T16:47:53Z",
+    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -412,41 +448,5 @@
     "stars": 45304,
     "updated_at": "2026-07-21T16:44:31Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
-    "id": "krish1925/AECP",
-    "language": "Python",
-    "name": "krish1925/AECP",
-    "stars": 3,
-    "updated_at": "2026-07-21T16:44:10Z",
-    "url": "https://github.com/krish1925/AECP"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10946,
-    "updated_at": "2026-07-21T17:27:49Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI-powered GitHub Repository Assistant using FastAPI, OpenAI Embeddings, RAG, Qdrant and React.",
-    "id": "rahujha04/codepilot-ai",
-    "language": "Python",
-    "name": "rahujha04/codepilot-ai",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:40:55Z",
-    "url": "https://github.com/rahujha04/codepilot-ai"
-  },
-  {
-    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
-    "id": "gorigesravani288-cmd/RepoMind",
-    "language": "Python",
-    "name": "gorigesravani288-cmd/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:37:18Z",
-    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
   }
 ]
