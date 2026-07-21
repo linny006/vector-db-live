@@ -1,5 +1,50 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:53:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 210,
+    "updated_at": "2026-07-21T14:55:00Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33463,
+    "updated_at": "2026-07-21T14:52:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T14:51:29Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T14:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,13 +63,13 @@
     "url": "https://github.com/skegdb/skeg"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33460,
-    "updated_at": "2026-07-21T14:38:56Z",
-    "url": "https://github.com/qdrant/qdrant"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:42:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-21T14:36:56Z",
+    "updated_at": "2026-07-21T14:59:11Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45304,
-    "updated_at": "2026-07-21T14:36:43Z",
+    "updated_at": "2026-07-21T14:50:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 821,
     "updated_at": "2026-07-21T14:31:29Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T14:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
@@ -149,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T14:23:17Z",
+    "updated_at": "2026-07-21T14:54:18Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:41:15Z",
     "url": "https://github.com/marinoalfonso/open-pertosa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:42:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -396,6 +423,15 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 49,
+    "updated_at": "2026-07-21T12:36:20Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-21T12:35:42Z",
     "url": "https://github.com/ModernOps888/infinity-Security-stack"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7882,
-    "updated_at": "2026-07-21T14:42:16Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T12:17:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1403,
-    "updated_at": "2026-07-21T12:14:25Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:13:27Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   }
 ]
