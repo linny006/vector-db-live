@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first RAG memory for LLMs: Node server with ONNX embeddings, OKF-structured chunks, portable vector bundles, and R",
+    "id": "MauricioPerera/rag-local",
+    "language": "JavaScript",
+    "name": "MauricioPerera/rag-local",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:29:15Z",
+    "url": "https://github.com/MauricioPerera/rag-local"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12741,
+    "updated_at": "2026-07-21T16:29:12Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 123,
+    "updated_at": "2026-07-21T16:25:00Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Semantic search engine for clinical cases: describe a patient in plain language, retrieve the most similar historical ca",
+    "id": "lamkhaifi0med/medsearch-ai",
+    "language": "Python",
+    "name": "lamkhaifi0med/medsearch-ai",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:21:05Z",
+    "url": "https://github.com/lamkhaifi0med/medsearch-ai"
+  },
+  {
+    "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
+    "id": "ma2za/docqa-stream",
+    "language": "Python",
+    "name": "ma2za/docqa-stream",
+    "stars": 9,
+    "updated_at": "2026-07-21T16:15:29Z",
+    "url": "https://github.com/ma2za/docqa-stream"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T16:14:38Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -7,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:13:27Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Agentic support triage: classify, retrieve, and respond \u2014 powered by LangGraph + MCP.",
+    "id": "10div10/support-intel-agent",
+    "language": "Python",
+    "name": "10div10/support-intel-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:12:56Z",
+    "url": "https://github.com/10div10/support-intel-agent"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -27,15 +108,6 @@
     "url": "https://github.com/treygrainger/ai-powered-search"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T16:14:38Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -43,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:02:45Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12741,
-    "updated_at": "2026-07-21T16:04:41Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:44:47Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Semantic search engine for clinical cases: describe a patient in plain language, retrieve the most similar historical ca",
-    "id": "lamkhaifi0med/medsearch-ai",
-    "language": "Python",
-    "name": "lamkhaifi0med/medsearch-ai",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:43:25Z",
-    "url": "https://github.com/lamkhaifi0med/medsearch-ai"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33466,
-    "updated_at": "2026-07-21T16:08:35Z",
+    "updated_at": "2026-07-21T16:26:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T16:02:11Z",
+    "updated_at": "2026-07-21T16:25:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 50,
-    "updated_at": "2026-07-21T15:50:20Z",
+    "updated_at": "2026-07-21T16:19:01Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1034,
-    "updated_at": "2026-07-21T15:36:24Z",
+    "updated_at": "2026-07-21T16:23:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 58679,
     "updated_at": "2026-07-21T15:57:49Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:22:17Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-07-21T16:07:56Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
-    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "language": "Python",
-    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:09:19Z",
-    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
-  },
-  {
-    "description": "\ud83d\udd0dNeuroMedIR is an intelligent medical information retrieval system that combines neural models and probabilistic inferen",
-    "id": "JosuSC/NeuroMedIR",
-    "language": "Python",
-    "name": "JosuSC/NeuroMedIR",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:02:31Z",
-    "url": "https://github.com/JosuSC/NeuroMedIR"
   }
 ]
