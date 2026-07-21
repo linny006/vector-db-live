@@ -1,12 +1,111 @@
 [
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-07-21T17:29:17Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-07-21T17:30:20Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T17:28:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) backend built with FastAPI, LangChain, pgvector, and OpenAI-compatible LLMs for int",
+    "id": "soumyasax3010/kb-rag-service",
+    "language": "Python",
+    "name": "soumyasax3010/kb-rag-service",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:27:03Z",
+    "url": "https://github.com/soumyasax3010/kb-rag-service"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T17:29:28Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "JavaScript",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 2,
+    "updated_at": "2026-07-21T17:26:04Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 50,
+    "updated_at": "2026-07-21T17:25:09Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12741,
+    "updated_at": "2026-07-21T17:24:31Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:21:15Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:20:42Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-07-21T17:17:14Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
+    "updated_at": "2026-07-21T17:29:59Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-powered PDF Question Answering using Google ADK, Gemini, ChromaDB, and Retrieval-Augmented Generation (RAG).",
+    "id": "Sangeeth-dev-codes/document-rag-assistant",
+    "language": "Python",
+    "name": "Sangeeth-dev-codes/document-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:18:10Z",
+    "url": "https://github.com/Sangeeth-dev-codes/document-rag-assistant"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-21T17:15:27Z",
+    "updated_at": "2026-07-21T17:17:57Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:17:14Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -36,29 +144,20 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12741,
-    "updated_at": "2026-07-21T17:11:06Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:10:21Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+    "name": "topoteretes/cognee",
+    "stars": 28990,
+    "updated_at": "2026-07-21T17:10:22Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58680,
+    "stars": 58681,
     "updated_at": "2026-07-21T17:07:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -90,15 +189,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:01:33Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -106,15 +196,6 @@
     "stars": 1861,
     "updated_at": "2026-07-21T16:59:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T16:58:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -126,30 +207,12 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T16:52:48Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28988,
-    "updated_at": "2026-07-21T17:10:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-21T16:47:50Z",
+    "updated_at": "2026-07-21T17:30:21Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -176,7 +239,7 @@
     "language": "HTML",
     "name": "lancedb/lancedb",
     "stars": 10946,
-    "updated_at": "2026-07-21T16:42:39Z",
+    "updated_at": "2026-07-21T17:27:49Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -185,7 +248,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2198,
-    "updated_at": "2026-07-21T17:15:28Z",
+    "updated_at": "2026-07-21T17:27:48Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:40:55Z",
     "url": "https://github.com/rahujha04/codepilot-ai"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) backend built with FastAPI, LangChain, pgvector, and OpenAI-compatible LLMs for int",
-    "id": "soumyasax3010/kb-rag-service",
-    "language": "Python",
-    "name": "soumyasax3010/kb-rag-service",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:40:19Z",
-    "url": "https://github.com/soumyasax3010/kb-rag-service"
   },
   {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
@@ -259,6 +313,15 @@
     "stars": 9,
     "updated_at": "2026-07-21T16:15:29Z",
     "url": "https://github.com/ma2za/docqa-stream"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6254,
+    "updated_at": "2026-07-21T16:15:26Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -333,15 +396,6 @@
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:44:47Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Vector search examples with ScyllaDB",
     "id": "scylladb/vector-search-examples",
     "language": "Python",
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T15:33:00Z",
+    "updated_at": "2026-07-21T17:25:59Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:26:34Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
-    "id": "puffball1567/koutendb",
-    "language": "Nim",
-    "name": "puffball1567/koutendb",
-    "stars": 11,
-    "updated_at": "2026-07-21T16:12:19Z",
-    "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "A LanceDB-native memory and retrieval layer for AI agents.",
-    "id": "MoonAndEye/lancer-memory",
-    "language": "Python",
-    "name": "MoonAndEye/lancer-memory",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:23:28Z",
-    "url": "https://github.com/MoonAndEye/lancer-memory"
-  },
-  {
-    "description": "The in-browser vector store that remembers \u2014 a Rust\u2192WASM HNSW engine that persists to OPFS and stays consistent across t",
-    "id": "singhpratech/ferrovec",
-    "language": "TypeScript",
-    "name": "singhpratech/ferrovec",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:22:15Z",
-    "url": "https://github.com/singhpratech/ferrovec"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 53,
-    "updated_at": "2026-07-21T15:18:34Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
-    "id": "SitanshuA091/VectorBench",
-    "language": "Python",
-    "name": "SitanshuA091/VectorBench",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:15:10Z",
-    "url": "https://github.com/SitanshuA091/VectorBench"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-21T17:11:38Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
