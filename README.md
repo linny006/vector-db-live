@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [weaviate/weaviate-io](https://github.com/weaviate/weaviate-io) | 89 | MDX | 2026-07-21 | Website for the Weaviate vector database |
-| 3 | [TheOrionGD/ScholarAI-AcademicAssistant](https://github.com/TheOrionGD/ScholarAI-AcademicAssistant) | 1 | TypeScript | 2026-07-21 | An Advanced AI-Powered Academic Research Assistant System using RAG, FastAPI, and React. |
-| 4 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28937 | Python | 2026-07-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 5 | [ModernOps888/infinity-stack](https://github.com/ModernOps888/infinity-stack) | 5 | Rust | 2026-07-21 | Open-source, Rust-native replacements for over-monetized SaaS. Flagship: Infinity ID - secure-by-design IAM (OIDC/OAuth2 |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [weaviate/weaviate-io](https://github.com/weaviate/weaviate-io) | 89 | MDX | 2026-07-21 | Website for the Weaviate vector database |
+| 4 | [TheOrionGD/ScholarAI-AcademicAssistant](https://github.com/TheOrionGD/ScholarAI-AcademicAssistant) | 1 | TypeScript | 2026-07-21 | An Advanced AI-Powered Academic Research Assistant System using RAG, FastAPI, and React. |
+| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28937 | Python | 2026-07-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 6 | [ModernOps888/infinity-stack](https://github.com/ModernOps888/infinity-stack) | 5 | Rust | 2026-07-21 | Open-source, Rust-native replacements for over-monetized SaaS. Flagship: Infinity ID - secure-by-design IAM (OIDC/OAuth2 |
 | 7 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 0 | C# | 2026-07-21 | C# SDK for the Chroma API -- open-source vector database |
 | 8 | [gorigesravani288-cmd/RepoMind](https://github.com/gorigesravani288-cmd/RepoMind) | 0 | Python | 2026-07-21 | 🧠 RepoMind — A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer |
 | 9 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 34149 | Python | 2026-07-21 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
