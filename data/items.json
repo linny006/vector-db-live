@@ -1,5 +1,59 @@
 [
   {
+    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
+    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "language": "Python",
+    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:09:19Z",
+    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58679,
+    "updated_at": "2026-07-21T14:07:37Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
+    "id": "SitanshuA091/VectorBench",
+    "language": "Python",
+    "name": "SitanshuA091/VectorBench",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:07:31Z",
+    "url": "https://github.com/SitanshuA091/VectorBench"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45304,
+    "updated_at": "2026-07-21T14:04:42Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83d\udd0dNeuroMedIR is an intelligent medical information retrieval system that combines neural models and probabilistic inferen",
+    "id": "JosuSC/NeuroMedIR",
+    "language": "Python",
+    "name": "JosuSC/NeuroMedIR",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:02:31Z",
+    "url": "https://github.com/JosuSC/NeuroMedIR"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T14:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,11 +63,29 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:59:44Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-21T13:58:21Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
     "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
     "id": "krish1925/AECP",
     "language": "Python",
     "name": "krish1925/AECP",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-21T13:57:38Z",
     "url": "https://github.com/krish1925/AECP"
   },
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T13:57:23Z",
+    "updated_at": "2026-07-21T14:13:12Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "skegdb/skeg",
     "stars": 27,
-    "updated_at": "2026-07-21T14:00:07Z",
+    "updated_at": "2026-07-21T14:11:07Z",
     "url": "https://github.com/skegdb/skeg"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T13:49:59Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-21T13:58:21Z",
-    "url": "https://github.com/fthsrbst/mnema"
   },
   {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
@@ -90,24 +153,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T13:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45303,
-    "updated_at": "2026-07-21T13:42:42Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -135,15 +180,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:59:44Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "TypeScript",
@@ -157,7 +193,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28964,
+    "stars": 28966,
     "updated_at": "2026-07-21T13:22:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -184,7 +220,7 @@
     "id": "oracle/ai-optimizer",
     "language": "Python",
     "name": "oracle/ai-optimizer",
-    "stars": 94,
+    "stars": 95,
     "updated_at": "2026-07-21T13:17:16Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-21T13:16:16Z",
+    "updated_at": "2026-07-21T14:11:36Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12741,
-    "updated_at": "2026-07-21T13:22:27Z",
+    "updated_at": "2026-07-21T14:11:17Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -266,17 +302,8 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 31,
-    "updated_at": "2026-07-21T12:56:42Z",
+    "updated_at": "2026-07-21T14:12:36Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58677,
-    "updated_at": "2026-07-21T13:58:50Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "RAG application: ask questions about your YouTube watch history, answered strictly from video transcripts. FastAPI \u00b7 Chr",
@@ -301,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33457,
+    "stars": 33459,
     "updated_at": "2026-07-21T12:36:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T11:53:09Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-21T13:56:32Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
-    "id": "achref-soua/quiver",
-    "language": "Rust",
-    "name": "achref-soua/quiver",
-    "stars": 1,
-    "updated_at": "2026-07-21T11:43:07Z",
-    "url": "https://github.com/achref-soua/quiver"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-21T11:30:35Z",
-    "url": "https://github.com/milvus-io/pymilvus"
   }
 ]
