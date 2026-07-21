@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:27:37Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene",
+    "id": "beingAnujChaudhary/ml-concepts-rag",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:19:00Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "beingAnujChaudhary/ml-concepts-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:27:32Z",
+    "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 275,
+    "updated_at": "2026-07-21T07:26:51Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33453,
+    "updated_at": "2026-07-21T07:25:07Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 48,
+    "updated_at": "2026-07-21T07:22:36Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 4,
-    "updated_at": "2026-07-21T07:15:22Z",
+    "updated_at": "2026-07-21T07:19:50Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive \u2014 full-text message search, recipient-graph filtering",
@@ -43,15 +88,6 @@
     "stars": 12649,
     "updated_at": "2026-07-21T07:05:19Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene",
-    "id": "beingAnujChaudhary/ml-concepts-rag",
-    "language": "Python",
-    "name": "beingAnujChaudhary/ml-concepts-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:04:04Z",
-    "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "pinecone-io/go-pinecone",
     "stars": 68,
-    "updated_at": "2026-07-21T06:01:15Z",
+    "updated_at": "2026-07-21T07:29:06Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/MontyGovernance/montycat_dart"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:56:07Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
     "id": "tryAGI/LangChain.Databases",
     "language": "C#",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T04:55:53Z",
     "url": "https://github.com/MontyGovernance/montycat_rust"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16628,
-    "updated_at": "2026-07-21T07:00:31Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1605,
-    "updated_at": "2026-07-21T04:36:08Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-07-21T04:32:31Z",
-    "url": "https://github.com/djleamen/doc-reader"
   }
 ]
