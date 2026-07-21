@@ -1,10 +1,55 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T11:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-21T10:55:03Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28948,
+    "updated_at": "2026-07-21T10:50:02Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-21T10:48:54Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Observability and diagnostic framework for embedding spaces and vector stores",
     "id": "JakubDras/vechealth",
     "language": "Rust",
     "name": "JakubDras/vechealth",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-07-21T10:43:50Z",
     "url": "https://github.com/JakubDras/vechealth"
   },
@@ -27,15 +72,6 @@
     "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28946,
-    "updated_at": "2026-07-21T10:43:36Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Scanner for RAG pipeline security issues: vector store access control gaps, data/embedding poisoning, retrieval injectio",
     "id": "eyemnv/rag-security-scanner",
     "language": "Python",
@@ -49,8 +85,8 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16627,
-    "updated_at": "2026-07-21T10:32:59Z",
+    "stars": 16628,
+    "updated_at": "2026-07-21T10:59:57Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -63,40 +99,13 @@
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T10:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T10:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33454,
+    "stars": 33455,
     "updated_at": "2026-07-21T10:27:20Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 3,
-    "updated_at": "2026-07-21T10:35:25Z",
-    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -184,7 +193,7 @@
     "id": "TheOrionGD/ScholarAI-AcademicAssistant",
     "language": "TypeScript",
     "name": "TheOrionGD/ScholarAI-AcademicAssistant",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-21T09:52:44Z",
     "url": "https://github.com/TheOrionGD/ScholarAI-AcademicAssistant"
   },
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34149,
-    "updated_at": "2026-07-21T10:06:04Z",
+    "updated_at": "2026-07-21T10:49:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T10:38:06Z",
+    "updated_at": "2026-07-21T10:53:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,21 +270,12 @@
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-21T09:42:29Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 48,
-    "updated_at": "2026-07-21T10:34:30Z",
+    "updated_at": "2026-07-21T10:51:44Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -346,7 +346,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12655,
+    "stars": 12656,
     "updated_at": "2026-07-21T08:26:35Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
