@@ -1,5 +1,50 @@
 [
   {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-07-21T15:52:53Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12741,
+    "updated_at": "2026-07-21T15:51:12Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:46:53Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T15:46:44Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T15:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,33 +63,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T15:42:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 31,
-    "updated_at": "2026-07-21T15:41:14Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12741,
-    "updated_at": "2026-07-21T15:40:43Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "Semantic search engine for clinical cases: describe a patient in plain language, retrieve the most similar historical ca",
     "id": "lamkhaifi0med/medsearch-ai",
     "language": "Python",
@@ -54,13 +72,31 @@
     "url": "https://github.com/lamkhaifi0med/medsearch-ai"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T15:42:23Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:41:52Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
     "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T15:43:31Z",
-    "url": "https://github.com/frogdb/frogdb"
+    "name": "MasihMoafi/Elpis",
+    "stars": 31,
+    "updated_at": "2026-07-21T15:41:14Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Vector search examples with ScyllaDB",
@@ -97,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T15:33:00Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic AI-powered Enterprise Knowledge Assistant using RAG, LangGraph, ChromaDB, Hugging Face embeddings, Groq/Ollama, ",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T15:40:02Z",
+    "updated_at": "2026-07-21T15:52:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 50,
-    "updated_at": "2026-07-21T15:07:42Z",
+    "updated_at": "2026-07-21T15:50:20Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16629,
-    "updated_at": "2026-07-21T15:05:19Z",
+    "updated_at": "2026-07-21T15:47:57Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-21T14:55:33Z",
+    "updated_at": "2026-07-21T15:46:44Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:48:14Z",
     "url": "https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:41:52Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-21T13:41:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Sistema RAG per la consultazione in linguaggio naturale di documenti amministrativi pubblici. Sviluppato per il Comune d",
-    "id": "marinoalfonso/open-pertosa",
-    "language": "Python",
-    "name": "marinoalfonso/open-pertosa",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:41:15Z",
-    "url": "https://github.com/marinoalfonso/open-pertosa"
   }
 ]
