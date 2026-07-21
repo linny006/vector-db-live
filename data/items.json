@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-21T18:15:19Z",
+    "updated_at": "2026-07-21T18:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:29:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:27:52Z",
+    "url": "https://github.com/fthsrbst/mnema"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +32,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-21T18:11:45Z",
+    "updated_at": "2026-07-21T18:27:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
@@ -61,15 +88,6 @@
     "stars": 1861,
     "updated_at": "2026-07-21T18:05:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A full-stack RAG chatbot with conversational memory \u2014 FastAPI + Next.js, bge-m3 embeddings, Qdrant vector DB, Groq LLM, ",
@@ -194,17 +212,8 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12742,
-    "updated_at": "2026-07-21T17:30:59Z",
+    "updated_at": "2026-07-21T18:29:27Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:30:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
@@ -284,7 +293,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T17:14:28Z",
+    "updated_at": "2026-07-21T18:20:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -292,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28999,
+    "stars": 29000,
     "updated_at": "2026-07-21T17:10:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -328,7 +337,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33467,
+    "stars": 33468,
     "updated_at": "2026-07-21T17:02:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T16:11:31Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
-    "id": "treygrainger/ai-powered-search",
-    "language": "Jupyter Notebook",
-    "name": "treygrainger/ai-powered-search",
-    "stars": 399,
-    "updated_at": "2026-07-21T16:10:13Z",
-    "url": "https://github.com/treygrainger/ai-powered-search"
   }
 ]
