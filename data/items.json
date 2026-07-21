@@ -1,5 +1,50 @@
 [
   {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 110,
+    "updated_at": "2026-07-21T21:37:37Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:35:42Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-21T21:31:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
     "id": "parinbajayebin/pdf-chatbot-rag",
     "language": "Python",
@@ -54,24 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
     "id": "memo-fs/memofs",
     "language": "TypeScript",
@@ -108,6 +135,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33476,
+    "updated_at": "2026-07-21T21:09:48Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat",
     "id": "opencrawling/open-ingestion-standard",
     "language": "\u2014",
@@ -131,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-21T21:09:51Z",
+    "updated_at": "2026-07-21T21:33:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 125,
     "updated_at": "2026-07-21T21:00:32Z",
     "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:58:08Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "An embedded vector database backed by immutable Git snapshots",
@@ -180,13 +207,13 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-21T20:53:43Z",
-    "url": "https://github.com/schmitech/orbit"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58689,
+    "updated_at": "2026-07-21T20:54:24Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "\u26a1 World\u2019s Fastest Vector Database for AI & RAG ",
@@ -196,15 +223,6 @@
     "stars": 18,
     "updated_at": "2026-07-21T20:49:46Z",
     "url": "https://github.com/casper-vdb/Casper"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33474,
-    "updated_at": "2026-07-21T21:09:48Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -223,15 +241,6 @@
     "stars": 1445,
     "updated_at": "2026-07-21T20:33:56Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58688,
-    "updated_at": "2026-07-21T20:54:24Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -439,14 +448,5 @@
     "stars": 84,
     "updated_at": "2026-07-21T19:10:45Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "LogosDB is a fast semantic vector database for RAG written in C/C++ that provides approximate nearest-neighbor search ov",
-    "id": "jose-compu/logosdb",
-    "language": "C++",
-    "name": "jose-compu/logosdb",
-    "stars": 13,
-    "updated_at": "2026-07-21T19:07:43Z",
-    "url": "https://github.com/jose-compu/logosdb"
   }
 ]
