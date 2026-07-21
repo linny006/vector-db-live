@@ -1,5 +1,68 @@
 [
   {
+    "description": "v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive \u2014 full-text message search, recipient-graph filtering",
+    "id": "eqramul01/GLOBAL-email-RAG-MCP",
+    "language": "Python",
+    "name": "eqramul01/GLOBAL-email-RAG-MCP",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:11:49Z",
+    "url": "https://github.com/eqramul01/GLOBAL-email-RAG-MCP"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-21T07:09:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12649,
+    "updated_at": "2026-07-21T07:05:19Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene",
+    "id": "beingAnujChaudhary/ml-concepts-rag",
+    "language": "Python",
+    "name": "beingAnujChaudhary/ml-concepts-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:04:04Z",
+    "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T07:03:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 18,
+    "updated_at": "2026-07-21T07:02:54Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 10940,
     "updated_at": "2026-07-21T06:57:09Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 18,
-    "updated_at": "2026-07-21T06:57:23Z",
-    "url": "https://github.com/10xHub/Agentflow"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -45,15 +99,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12648,
-    "updated_at": "2026-07-21T06:48:52Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -70,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-07-21T06:47:02Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T06:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -178,15 +214,6 @@
     "stars": 68,
     "updated_at": "2026-07-21T06:01:15Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:00:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Infrastructure for persistent cognitive entities and modular AI architectures.",
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T06:59:54Z",
+    "updated_at": "2026-07-21T07:00:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-21T04:32:31Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-21T04:22:15Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:18:25Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 166,
-    "updated_at": "2026-07-21T04:08:31Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
   }
 ]
