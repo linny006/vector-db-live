@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T20:16:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T20:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T20:27:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:24:48Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:23:18Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:22:47Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +50,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-21T20:15:26Z",
+    "updated_at": "2026-07-21T20:17:57Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T20:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33471,
+    "updated_at": "2026-07-21T20:17:25Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T20:16:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -36,15 +81,6 @@
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:11:45Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T20:11:34Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:08:48Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T20:05:26Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33470,
-    "updated_at": "2026-07-21T20:17:25Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -180,15 +198,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T19:35:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Secure Document Q&A with RAG + LLM Guardrails \u2014 3-layer AI security for enterprise document search",
     "id": "jashwanthnagveepuri/guardrag",
     "language": "Python",
@@ -203,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-21T20:09:02Z",
+    "updated_at": "2026-07-21T20:21:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -238,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29008,
+    "stars": 29009,
     "updated_at": "2026-07-21T19:30:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:32:49Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
-    "updated_at": "2026-07-21T17:31:00Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
   }
 ]
