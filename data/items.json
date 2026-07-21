@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T00:45:19Z",
+    "updated_at": "2026-07-21T01:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
+    "id": "yusufornek/rag-knowledge-ledger",
+    "language": "Python",
+    "name": "yusufornek/rag-knowledge-ledger",
+    "stars": 0,
+    "updated_at": "2026-07-21T00:58:23Z",
+    "url": "https://github.com/yusufornek/rag-knowledge-ledger"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-21T00:52:14Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T00:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 121,
-    "updated_at": "2026-07-21T00:45:03Z",
+    "updated_at": "2026-07-21T01:00:27Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T00:31:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T00:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 50963,
-    "updated_at": "2026-07-21T00:22:47Z",
+    "updated_at": "2026-07-21T00:53:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T23:47:35Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-21T00:24:09Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -220,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28788,
+    "stars": 28794,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T20:24:02Z",
     "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
-  },
-  {
-    "description": "A simple framework for implementations of securing chroma with RBAC  -EXTERNAL- to  the chroma DB by leveraging Chroma's",
-    "id": "HorizonBrute/Light-Weight-Secure-Chroma-Proxy",
-    "language": "\u2014",
-    "name": "HorizonBrute/Light-Weight-Secure-Chroma-Proxy",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:23:12Z",
-    "url": "https://github.com/HorizonBrute/Light-Weight-Secure-Chroma-Proxy"
   }
 ]
