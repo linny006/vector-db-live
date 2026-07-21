@@ -1,11 +1,74 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:13:27Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 9,
+    "updated_at": "2026-07-21T16:11:31Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
+    "id": "treygrainger/ai-powered-search",
+    "language": "Jupyter Notebook",
+    "name": "treygrainger/ai-powered-search",
+    "stars": 399,
+    "updated_at": "2026-07-21T16:10:13Z",
+    "url": "https://github.com/treygrainger/ai-powered-search"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T16:14:38Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:02:45Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12741,
-    "updated_at": "2026-07-21T15:57:57Z",
+    "updated_at": "2026-07-21T16:04:41Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 242,
     "updated_at": "2026-07-21T15:55:57Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:54:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -43,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:46:53Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T15:59:26Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -117,6 +153,15 @@
     "url": "https://github.com/scylladb/vector-search-examples"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12658,
+    "updated_at": "2026-07-21T15:36:00Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33466,
-    "updated_at": "2026-07-21T15:26:12Z",
+    "updated_at": "2026-07-21T16:08:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Nim",
     "name": "puffball1567/koutendb",
     "stars": 11,
-    "updated_at": "2026-07-21T15:25:47Z",
+    "updated_at": "2026-07-21T16:12:19Z",
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T15:52:08Z",
+    "updated_at": "2026-07-21T16:02:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -241,6 +286,15 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:12:20Z",
     "url": "https://github.com/rishabhBudhouliya/gutenberg-project"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6104,
+    "updated_at": "2026-07-21T15:07:45Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -261,15 +315,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 9,
-    "updated_at": "2026-07-21T15:34:55Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -279,15 +324,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:57:20Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "Multi-source RAG support assistant \u2014 retrieves across FAQ (CSV), resolved tickets (SQLite), and a PDF guide, each in its",
     "id": "saivigneshpandian/rag-telecom-support",
     "language": "Jupyter Notebook",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T14:54:51Z",
     "url": "https://github.com/saivigneshpandian/rag-telecom-support"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:53:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -401,7 +428,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T14:54:18Z",
+    "updated_at": "2026-07-21T16:07:56Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T14:02:31Z",
     "url": "https://github.com/JosuSC/NeuroMedIR"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:59:44Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
-    "id": "krish1925/AECP",
-    "language": "Python",
-    "name": "krish1925/AECP",
-    "stars": 2,
-    "updated_at": "2026-07-21T13:57:38Z",
-    "url": "https://github.com/krish1925/AECP"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 18,
-    "updated_at": "2026-07-21T13:48:27Z",
-    "url": "https://github.com/10xHub/Agentflow"
   }
 ]
