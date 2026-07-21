@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2](https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2) | 0 | Python | 2026-07-21 | An AI-powered RAG application that answers questions from uploaded PDF documents using ChromaDB, Sentence Transformers,  |
-| 2 | [nambok/mentedb](https://github.com/nambok/mentedb) | 110 | Rust | 2026-07-21 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 3 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2198 | JavaScript | 2026-07-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 4 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-21 | The Ultimate Vectors Library for Java |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [infino-ai/infino](https://github.com/infino-ai/infino) | 48 | Rust | 2026-07-21 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 7 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3129 | TypeScript | 2026-07-21 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
-| 8 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-21 |  |
-| 9 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 284 | Python | 2026-07-21 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
-| 10 | [vector-index-bench/vibe](https://github.com/vector-index-bench/vibe) | 43 | Python | 2026-07-21 |  Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods |
-| 11 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 76 | Rust | 2026-07-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 12 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-07-21 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 13 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 14 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28953 | Python | 2026-07-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2](https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2) | 0 | Python | 2026-07-21 | An AI-powered RAG application that answers questions from uploaded PDF documents using ChromaDB, Sentence Transformers,  |
+| 3 | [nambok/mentedb](https://github.com/nambok/mentedb) | 110 | Rust | 2026-07-21 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 4 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28954 | Python | 2026-07-21 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 5 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2198 | JavaScript | 2026-07-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 6 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-21 | The Ultimate Vectors Library for Java |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [infino-ai/infino](https://github.com/infino-ai/infino) | 48 | Rust | 2026-07-21 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 9 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3129 | TypeScript | 2026-07-21 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
+| 10 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-21 |  |
+| 11 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 284 | Python | 2026-07-21 | AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI  |
+| 12 | [vector-index-bench/vibe](https://github.com/vector-index-bench/vibe) | 43 | Python | 2026-07-21 |  Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods |
+| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 76 | Rust | 2026-07-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 14 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-07-21 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 15 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 4 | Python | 2026-07-21 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
 | 16 | [achref-soua/quiver](https://github.com/achref-soua/quiver) | 1 | Rust | 2026-07-21 | Security-first, memory-frugal vector database in Rust with a retro terminal cockpit. |
 | 17 | [crate/crate](https://github.com/crate/crate) | 4416 | Java | 2026-07-21 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
