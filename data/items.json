@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T11:30:25Z",
+    "updated_at": "2026-07-21T11:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2198,
+    "updated_at": "2026-07-21T11:44:38Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 110,
+    "updated_at": "2026-07-21T11:44:36Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-21T11:42:30Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
+    "id": "achref-soua/quiver",
+    "language": "Rust",
+    "name": "achref-soua/quiver",
+    "stars": 1,
+    "updated_at": "2026-07-21T11:43:07Z",
+    "url": "https://github.com/achref-soua/quiver"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-21T11:41:32Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "An AI-powered RAG application that answers questions from uploaded PDF documents using ChromaDB, Sentence Transformers, ",
+    "id": "hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2",
+    "language": "Python",
+    "name": "hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:37:09Z",
+    "url": "https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 28952,
-    "updated_at": "2026-07-21T11:27:53Z",
+    "updated_at": "2026-07-21T11:44:52Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T11:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1400,
-    "updated_at": "2026-07-21T11:26:36Z",
+    "updated_at": "2026-07-21T11:30:35Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-21T11:21:01Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
     "id": "diegoglozano/revector",
     "language": "Rust",
@@ -61,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T11:15:33Z",
     "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T11:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -81,31 +126,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-21T11:16:14Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T11:29:00Z",
+    "updated_at": "2026-07-21T11:41:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2198,
-    "updated_at": "2026-07-21T11:07:14Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 48,
-    "updated_at": "2026-07-21T11:22:13Z",
+    "updated_at": "2026-07-21T11:41:18Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -203,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7881,
-    "updated_at": "2026-07-21T11:24:25Z",
+    "updated_at": "2026-07-21T11:43:17Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -216,6 +243,15 @@
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45300,
+    "updated_at": "2026-07-21T10:31:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -223,15 +259,6 @@
     "stars": 33455,
     "updated_at": "2026-07-21T10:27:20Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45299,
-    "updated_at": "2026-07-21T10:31:27Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -373,7 +400,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15191,
+    "stars": 15193,
     "updated_at": "2026-07-21T08:54:03Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -421,32 +448,5 @@
     "stars": 12656,
     "updated_at": "2026-07-21T08:26:35Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "a lightweight experimental database written in modern C++",
-    "id": "Icingworld/litedb",
-    "language": "C++",
-    "name": "Icingworld/litedb",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:14:25Z",
-    "url": "https://github.com/Icingworld/litedb"
-  },
-  {
-    "description": "Thin, stable Qdrant client for Crystal \u2014 a RAG-focused facade (ensure, upsert, search, count, delete) over qdrant-api.",
-    "id": "jbox-web/qdrant-client.cr",
-    "language": "Crystal",
-    "name": "jbox-web/qdrant-client.cr",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:37:59Z",
-    "url": "https://github.com/jbox-web/qdrant-client.cr"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 7,
-    "updated_at": "2026-07-21T08:03:01Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   }
 ]
