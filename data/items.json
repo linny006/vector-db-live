@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T08:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "a lightweight experimental database written in modern C++",
+    "id": "Icingworld/litedb",
+    "language": "C++",
+    "name": "Icingworld/litedb",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:14:25Z",
+    "url": "https://github.com/Icingworld/litedb"
+  },
+  {
     "description": "Thin, stable Qdrant client for Crystal \u2014 a RAG-focused facade (ensure, upsert, search, count, delete) over qdrant-api.",
     "id": "jbox-web/qdrant-client.cr",
     "language": "Crystal",
     "name": "jbox-web/qdrant-client.cr",
     "stars": 0,
-    "updated_at": "2026-07-21T07:55:20Z",
+    "updated_at": "2026-07-21T08:14:05Z",
     "url": "https://github.com/jbox-web/qdrant-client.cr"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
+    "stars": 2,
+    "updated_at": "2026-07-21T08:06:56Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T08:05:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 7,
+    "updated_at": "2026-07-21T08:03:01Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28903,
+    "updated_at": "2026-07-21T08:08:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T08:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Pinecone.io Golang Client",
@@ -16,15 +79,6 @@
     "stars": 68,
     "updated_at": "2026-07-21T07:55:18Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 7,
-    "updated_at": "2026-07-21T07:46:43Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "Official n8n node for interfacing with Qdrant",
@@ -43,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T07:47:09Z",
     "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T07:41:02Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -94,7 +121,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12651,
+    "stars": 12653,
     "updated_at": "2026-07-21T07:33:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33453,
-    "updated_at": "2026-07-21T07:38:24Z",
+    "updated_at": "2026-07-21T08:04:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -193,18 +220,9 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10940,
+    "stars": 10941,
     "updated_at": "2026-07-21T06:57:09Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T06:50:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-21T07:41:37Z",
+    "updated_at": "2026-07-21T08:03:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T05:03:17Z",
     "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "",
-    "id": "nngochai2/loom",
-    "language": "Python",
-    "name": "nngochai2/loom",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:58:08Z",
-    "url": "https://github.com/nngochai2/loom"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
-    "id": "MontyGovernance/montycat_dart",
-    "language": "Dart",
-    "name": "MontyGovernance/montycat_dart",
-    "stars": 3,
-    "updated_at": "2026-07-21T04:58:14Z",
-    "url": "https://github.com/MontyGovernance/montycat_dart"
   }
 ]
