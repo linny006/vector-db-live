@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:38:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-21T21:37:37Z",
+    "updated_at": "2026-07-21T21:40:03Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 311,
     "updated_at": "2026-07-21T21:31:09Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
@@ -139,7 +139,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33476,
+    "stars": 33477,
     "updated_at": "2026-07-21T21:09:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -302,7 +302,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 52,
-    "updated_at": "2026-07-21T20:03:21Z",
+    "updated_at": "2026-07-21T21:43:43Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
