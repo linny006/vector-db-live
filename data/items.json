@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-21T23:15:18Z",
+    "updated_at": "2026-07-21T23:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
     "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 123,
-    "updated_at": "2026-07-21T23:15:13Z",
-    "url": "https://github.com/codecoradev/uteke"
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T23:30:02Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-21T23:13:16Z",
+    "updated_at": "2026-07-21T23:28:44Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:19:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
+    "id": "sil3d/MATHIR",
+    "language": "Python",
+    "name": "sil3d/MATHIR",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:18:23Z",
+    "url": "https://github.com/sil3d/MATHIR"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 50986,
+    "updated_at": "2026-07-21T23:15:32Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 123,
+    "updated_at": "2026-07-21T23:28:03Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T23:01:34Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -135,15 +171,6 @@
     "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:47:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T22:14:31Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T22:13:23Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T19:51:59Z",
     "url": "https://github.com/ModuleXAI/modulex-integrations"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:51:51Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50986,
-    "updated_at": "2026-07-21T19:41:14Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
