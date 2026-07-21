@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-21T19:00:26Z",
+    "updated_at": "2026-07-21T19:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T19:11:31Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 84,
+    "updated_at": "2026-07-21T19:10:45Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "LogosDB is a fast semantic vector database for RAG written in C/C++ that provides approximate nearest-neighbor search ov",
+    "id": "jose-compu/logosdb",
+    "language": "C++",
+    "name": "jose-compu/logosdb",
+    "stars": 13,
+    "updated_at": "2026-07-21T19:07:43Z",
+    "url": "https://github.com/jose-compu/logosdb"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-21T19:13:03Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-21T19:06:05Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T19:07:19Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:03:37Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T19:01:11Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 0,
-    "updated_at": "2026-07-21T19:00:04Z",
+    "updated_at": "2026-07-21T19:15:15Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -31,8 +112,8 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6254,
-    "updated_at": "2026-07-21T18:55:18Z",
+    "stars": 6255,
+    "updated_at": "2026-07-21T19:13:31Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-21T18:58:57Z",
+    "updated_at": "2026-07-21T19:14:06Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -61,42 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:50:26Z",
     "url": "https://github.com/prajwalkarajange/PrajwalGPT"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T18:50:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T18:50:25Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:48:58Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:39:27Z",
-    "url": "https://github.com/fthsrbst/mnema"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T18:07:04Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T18:05:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A full-stack RAG chatbot with conversational memory \u2014 FastAPI + Next.js, bge-m3 embeddings, Qdrant vector DB, Groq LLM, ",
@@ -225,21 +261,12 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-21T18:50:56Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2197,
-    "updated_at": "2026-07-21T18:45:17Z",
+    "updated_at": "2026-07-21T19:09:58Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -373,7 +400,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33469,
+    "stars": 33470,
     "updated_at": "2026-07-21T17:02:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:37:18Z",
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
-  },
-  {
-    "description": "Local-first RAG memory for LLMs: Node server with ONNX embeddings, OKF-structured chunks, portable vector bundles, and R",
-    "id": "MauricioPerera/rag-local",
-    "language": "JavaScript",
-    "name": "MauricioPerera/rag-local",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:29:15Z",
-    "url": "https://github.com/MauricioPerera/rag-local"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 123,
-    "updated_at": "2026-07-21T18:55:04Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Semantic search engine for clinical cases: describe a patient in plain language, retrieve the most similar historical ca",
-    "id": "lamkhaifi0med/medsearch-ai",
-    "language": "Python",
-    "name": "lamkhaifi0med/medsearch-ai",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:21:05Z",
-    "url": "https://github.com/lamkhaifi0med/medsearch-ai"
   }
 ]
