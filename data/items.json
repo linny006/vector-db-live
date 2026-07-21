@@ -1,5 +1,50 @@
 [
   {
+    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
+    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "language": "Python",
+    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:10:33Z",
+    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
+  },
+  {
+    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
+    "id": "ywqzzy/jude",
+    "language": "Python",
+    "name": "ywqzzy/jude",
+    "stars": 3,
+    "updated_at": "2026-07-21T06:01:41Z",
+    "url": "https://github.com/ywqzzy/jude"
+  },
+  {
+    "description": "Pinecone.io Golang Client",
+    "id": "pinecone-io/go-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/go-pinecone",
+    "stars": 68,
+    "updated_at": "2026-07-21T06:01:15Z",
+    "url": "https://github.com/pinecone-io/go-pinecone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T06:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T06:00:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +59,17 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T05:59:49Z",
+    "updated_at": "2026-07-21T06:14:40Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
-    "description": "Unified AI platform for industrial document intelligence, knowledge retrieval, and operational insights.",
-    "id": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "description": "Infrastructure for persistent cognitive entities and modular AI architectures.",
+    "id": "RamiroDVBarman/nucleo-umbral",
     "language": "Python",
-    "name": "Yash-Raj-Ravi/industrial-knowledge-intelligence",
+    "name": "RamiroDVBarman/nucleo-umbral",
     "stars": 0,
-    "updated_at": "2026-07-21T05:57:20Z",
-    "url": "https://github.com/Yash-Raj-Ravi/industrial-knowledge-intelligence"
+    "updated_at": "2026-07-21T05:54:02Z",
+    "url": "https://github.com/RamiroDVBarman/nucleo-umbral"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -45,15 +90,6 @@
     "url": "https://github.com/kirankumarjmeshram/Generative-AI"
   },
   {
-    "description": "A distributed data-processing engine for large-model (LLM) data \u2014 SQL, curation, vector/FTS retrieval, multimodal \u2014 on s",
-    "id": "ywqzzy/jude",
-    "language": "Python",
-    "name": "ywqzzy/jude",
-    "stars": 3,
-    "updated_at": "2026-07-21T05:49:32Z",
-    "url": "https://github.com/ywqzzy/jude"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -68,17 +104,8 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-21T05:51:19Z",
+    "updated_at": "2026-07-21T06:14:51Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T05:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-21T05:56:49Z",
+    "updated_at": "2026-07-21T06:09:17Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -124,6 +151,15 @@
     "stars": 2,
     "updated_at": "2026-07-21T05:30:59Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Research intelligence platform combining web scraping, vector search, and LLM workflows \u2014 FastAPI, Milvus, LangChain",
+    "id": "yousefhamdan/RAG-Research-Portal",
+    "language": "Python",
+    "name": "yousefhamdan/RAG-Research-Portal",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:30:42Z",
+    "url": "https://github.com/yousefhamdan/RAG-Research-Portal"
   },
   {
     "description": "Production-ready AI Personal Assistant with Long-Term Memory using FastAPI, OpenAI, PostgreSQL, Qdrant and Docker.",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-21T04:45:45Z",
+    "updated_at": "2026-07-21T06:05:47Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -275,17 +311,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T05:10:57Z",
+    "updated_at": "2026-07-21T06:11:29Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T06:00:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -378,6 +405,15 @@
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12648,
+    "updated_at": "2026-07-21T03:48:37Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "The holographic core for leOS",
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T03:31:31Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 50968,
-    "updated_at": "2026-07-21T03:30:55Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
-    "id": "aramradif/Enterprise-AI-Platform",
-    "language": "Python",
-    "name": "aramradif/Enterprise-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:26:07Z",
-    "url": "https://github.com/aramradif/Enterprise-AI-Platform"
-  },
-  {
-    "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
-    "id": "iharshkaran/ai-assistant",
-    "language": "JavaScript",
-    "name": "iharshkaran/ai-assistant",
-    "stars": 2,
-    "updated_at": "2026-07-21T03:24:17Z",
-    "url": "https://github.com/iharshkaran/ai-assistant"
-  },
-  {
-    "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
-    "id": "pratyushpad/Lumina",
-    "language": "Python",
-    "name": "pratyushpad/Lumina",
-    "stars": 1,
-    "updated_at": "2026-07-21T03:22:28Z",
-    "url": "https://github.com/pratyushpad/Lumina"
   }
 ]
