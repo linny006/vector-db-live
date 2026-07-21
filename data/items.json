@@ -1,5 +1,77 @@
 [
   {
+    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
+    "id": "JakubDras/vechealth",
+    "language": "Rust",
+    "name": "JakubDras/vechealth",
+    "stars": 4,
+    "updated_at": "2026-07-21T10:43:50Z",
+    "url": "https://github.com/JakubDras/vechealth"
+  },
+  {
+    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
+    "id": "NTU-Siqiang-Group/AsterVec",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/AsterVec",
+    "stars": 31,
+    "updated_at": "2026-07-21T10:42:47Z",
+    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-21T10:39:53Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28946,
+    "updated_at": "2026-07-21T10:43:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Scanner for RAG pipeline security issues: vector store access control gaps, data/embedding poisoning, retrieval injectio",
+    "id": "eyemnv/rag-security-scanner",
+    "language": "Python",
+    "name": "eyemnv/rag-security-scanner",
+    "stars": 0,
+    "updated_at": "2026-07-21T10:36:22Z",
+    "url": "https://github.com/eyemnv/rag-security-scanner"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16627,
+    "updated_at": "2026-07-21T10:32:59Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
+    "id": "MassivDash/ai_tools",
+    "language": "Rust",
+    "name": "MassivDash/ai_tools",
+    "stars": 0,
+    "updated_at": "2026-07-21T10:32:58Z",
+    "url": "https://github.com/MassivDash/ai_tools"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T10:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +81,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33454,
+    "updated_at": "2026-07-21T10:27:20Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 3,
-    "updated_at": "2026-07-21T10:27:56Z",
+    "updated_at": "2026-07-21T10:35:25Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -23,17 +104,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45299,
-    "updated_at": "2026-07-21T10:28:56Z",
+    "updated_at": "2026-07-21T10:31:27Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
-    "id": "NTU-Siqiang-Group/AsterVec",
-    "language": "C++",
-    "name": "NTU-Siqiang-Group/AsterVec",
-    "stars": 31,
-    "updated_at": "2026-07-21T10:21:00Z",
-    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,24 +124,6 @@
     "stars": 1861,
     "updated_at": "2026-07-21T10:17:25Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 28944,
-    "updated_at": "2026-07-21T10:26:40Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
@@ -117,21 +171,12 @@
     "url": "https://github.com/tpt-solutions/tpt-keystone-db"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33453,
-    "updated_at": "2026-07-21T10:27:20Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-07-21T10:08:27Z",
+    "updated_at": "2026-07-21T10:31:46Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -189,21 +234,12 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16626,
-    "updated_at": "2026-07-21T10:28:26Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T10:29:45Z",
+    "updated_at": "2026-07-21T10:38:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 48,
-    "updated_at": "2026-07-21T10:19:39Z",
+    "updated_at": "2026-07-21T10:34:30Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T08:43:07Z",
     "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-21T08:40:17Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -421,32 +448,5 @@
     "stars": 275,
     "updated_at": "2026-07-21T07:26:51Z",
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
-  },
-  {
-    "description": "v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive \u2014 full-text message search, recipient-graph filtering",
-    "id": "eqramul01/GLOBAL-email-RAG-MCP",
-    "language": "Python",
-    "name": "eqramul01/GLOBAL-email-RAG-MCP",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:11:49Z",
-    "url": "https://github.com/eqramul01/GLOBAL-email-RAG-MCP"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-21T08:24:25Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 18,
-    "updated_at": "2026-07-21T07:02:54Z",
-    "url": "https://github.com/10xHub/Agentflow"
   }
 ]
