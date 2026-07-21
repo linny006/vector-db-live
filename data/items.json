@@ -1,5 +1,86 @@
 [
   {
+    "description": "A full-stack RAG chatbot with conversational memory \u2014 FastAPI + Next.js, bge-m3 embeddings, Qdrant vector DB, Groq LLM, ",
+    "id": "alymaklad/RAG-based-AI-Knowledge-Assistant-with-Memory",
+    "language": "Python",
+    "name": "alymaklad/RAG-based-AI-Knowledge-Assistant-with-Memory",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:56:59Z",
+    "url": "https://github.com/alymaklad/RAG-based-AI-Knowledge-Assistant-with-Memory"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:56:38Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
+    "id": "memo-fs/memofs",
+    "language": "TypeScript",
+    "name": "memo-fs/memofs",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:52:16Z",
+    "url": "https://github.com/memo-fs/memofs"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:49:32Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-21T17:48:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:47:46Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 9,
+    "updated_at": "2026-07-21T17:47:14Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 2197,
     "updated_at": "2026-07-21T17:34:59Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:38:50Z",
-    "url": "https://github.com/kamilsj/vectors"
   },
   {
     "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
@@ -99,24 +171,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
     "id": "marco-spagn/pcmi",
     "language": "Go",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "qdrant/qdrant-client",
     "stars": 1329,
-    "updated_at": "2026-07-21T17:29:39Z",
+    "updated_at": "2026-07-21T17:51:41Z",
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
@@ -211,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28991,
+    "stars": 28995,
     "updated_at": "2026-07-21T17:10:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -220,7 +274,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58681,
+    "stars": 58682,
     "updated_at": "2026-07-21T17:07:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -241,15 +295,6 @@
     "stars": 8,
     "updated_at": "2026-07-21T17:04:16Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-21T17:03:05Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -356,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6254,
-    "updated_at": "2026-07-21T16:15:26Z",
+    "updated_at": "2026-07-21T17:47:33Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:02:45Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 242,
-    "updated_at": "2026-07-21T15:55:57Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-07-21T15:52:53Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:46:53Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Vector search examples with ScyllaDB",
-    "id": "scylladb/vector-search-examples",
-    "language": "Python",
-    "name": "scylladb/vector-search-examples",
-    "stars": 8,
-    "updated_at": "2026-07-21T15:36:03Z",
-    "url": "https://github.com/scylladb/vector-search-examples"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12658,
-    "updated_at": "2026-07-21T15:36:00Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
