@@ -1,12 +1,48 @@
 [
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
+    "description": "Pinecone.io Golang Client",
+    "id": "pinecone-io/go-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/go-pinecone",
+    "stars": 68,
+    "updated_at": "2026-07-21T07:43:12Z",
+    "url": "https://github.com/pinecone-io/go-pinecone"
+  },
+  {
+    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
+    "id": "ANSHAM1/AI_Research_Assistant_Agent",
+    "language": "Python",
+    "name": "ANSHAM1/AI_Research_Assistant_Agent",
     "stars": 1,
-    "updated_at": "2026-07-21T07:27:37Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "updated_at": "2026-07-21T07:41:02Z",
+    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-21T07:33:25Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12650,
+    "updated_at": "2026-07-21T07:33:15Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "Python",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:30:52Z",
+    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "beingAnujChaudhary/ml-concepts-rag",
     "stars": 0,
-    "updated_at": "2026-07-21T07:27:32Z",
+    "updated_at": "2026-07-21T07:30:37Z",
     "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:27:37Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33453,
-    "updated_at": "2026-07-21T07:25:07Z",
+    "updated_at": "2026-07-21T07:38:24Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 48,
     "updated_at": "2026-07-21T07:22:36Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:19:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive \u2014 full-text message search, recipient-graph filtering",
@@ -79,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T07:09:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12649,
-    "updated_at": "2026-07-21T07:05:19Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T06:57:04Z",
+    "updated_at": "2026-07-21T07:37:08Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45293,
-    "updated_at": "2026-07-21T06:26:42Z",
+    "updated_at": "2026-07-21T07:39:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-21T06:17:56Z",
+    "updated_at": "2026-07-21T07:41:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T06:01:41Z",
     "url": "https://github.com/ywqzzy/jude"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 68,
-    "updated_at": "2026-07-21T07:29:06Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
   },
   {
     "description": "Infrastructure for persistent cognitive entities and modular AI architectures.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T04:40:24Z",
     "url": "https://github.com/Akhileshkachhwaha26/notes-quiz-agent"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the Node.js & TypeScri",
-    "id": "MontyGovernance/montycat_node",
-    "language": "TypeScript",
-    "name": "MontyGovernance/montycat_node",
-    "stars": 2,
-    "updated_at": "2026-07-21T04:53:54Z",
-    "url": "https://github.com/MontyGovernance/montycat_node"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
-    "id": "MontyGovernance/montycat_python",
-    "language": "Python",
-    "name": "MontyGovernance/montycat_python",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:54:49Z",
-    "url": "https://github.com/MontyGovernance/montycat_python"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
-    "id": "MontyGovernance/montycat_rust",
-    "language": "Rust",
-    "name": "MontyGovernance/montycat_rust",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:55:53Z",
-    "url": "https://github.com/MontyGovernance/montycat_rust"
   }
 ]
