@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:59:08Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-20T23:56:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-07-20T23:54:55Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:47:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:47:35Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T23:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "KeiaiLab/qdrant-operator",
     "stars": 0,
-    "updated_at": "2026-07-20T23:44:11Z",
+    "updated_at": "2026-07-20T23:45:52Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
@@ -43,24 +97,6 @@
     "stars": 108,
     "updated_at": "2026-07-20T23:42:56Z",
     "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T23:40:12Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:39:11Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -88,15 +124,6 @@
     "stars": 1443,
     "updated_at": "2026-07-20T23:26:30Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:22:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -130,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28773,
+    "stars": 28774,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -243,21 +270,12 @@
     "url": "https://github.com/shreyanshverma7/blood-report-analyser"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-20T22:00:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33444,
-    "updated_at": "2026-07-20T23:11:03Z",
+    "updated_at": "2026-07-20T23:46:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T22:42:40Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:13:28Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-20T19:41:40Z",
     "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) chatbot built using LangChain, ChromaDB, Hugging Face Embeddings, and Groq.",
-    "id": "rayyanali44/rag-chatbot",
-    "language": "Python",
-    "name": "rayyanali44/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:40:27Z",
-    "url": "https://github.com/rayyanali44/rag-chatbot"
   }
 ]
