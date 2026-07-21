@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T12:00:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-21T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1403,
+    "updated_at": "2026-07-21T12:14:25Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:13:27Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6188,
+    "updated_at": "2026-07-21T12:15:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 48,
+    "updated_at": "2026-07-21T12:09:04Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 43,
+    "updated_at": "2026-07-21T12:05:04Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T12:04:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An AI-powered RAG application that answers questions from uploaded PDF documents using ChromaDB, Sentence Transformers, ",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2",
     "stars": 0,
-    "updated_at": "2026-07-21T11:55:06Z",
+    "updated_at": "2026-07-21T12:02:05Z",
     "url": "https://github.com/hassanzaidi6575-bit/Enterprise-Document-Intelligence-V2"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "Python",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-07-21T12:01:53Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-21T12:00:37Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T12:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-21T11:58:45Z",
+    "updated_at": "2026-07-21T12:06:49Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -31,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28954,
+    "stars": 28955,
     "updated_at": "2026-07-21T11:53:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -54,30 +135,12 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T11:53:06Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 48,
-    "updated_at": "2026-07-21T11:57:46Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3129,
-    "updated_at": "2026-07-21T11:51:55Z",
+    "updated_at": "2026-07-21T12:13:34Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -97,24 +160,6 @@
     "stars": 284,
     "updated_at": "2026-07-21T11:53:07Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 43,
-    "updated_at": "2026-07-21T11:50:27Z",
-    "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-21T11:56:00Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -189,24 +234,6 @@
     "url": "https://github.com/diegoglozano/revector"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T11:14:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-21T11:58:43Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T11:58:06Z",
+    "updated_at": "2026-07-21T12:03:49Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 1861,
     "updated_at": "2026-07-21T10:17:25Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-07-21T10:20:37Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T09:23:32Z",
     "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
-  },
-  {
-    "description": "Production-ready AI Research Assistant using RAG, LangChain, FAISS, Groq LLM, Sentence Transformers, and Streamlit.",
-    "id": "DiwakarNallappagari/AI-Research-Assistant",
-    "language": "Python",
-    "name": "DiwakarNallappagari/AI-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:03:34Z",
-    "url": "https://github.com/DiwakarNallappagari/AI-Research-Assistant"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15194,
-    "updated_at": "2026-07-21T08:54:03Z",
-    "url": "https://github.com/alibaba/zvec"
   }
 ]
