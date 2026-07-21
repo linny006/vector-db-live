@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
+    "id": "lianyinging/flowgame_python",
+    "language": "Python",
+    "name": "lianyinging/flowgame_python",
+    "stars": 2,
+    "updated_at": "2026-07-21T02:44:58Z",
+    "url": "https://github.com/lianyinging/flowgame_python"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1033,
+    "updated_at": "2026-07-21T02:41:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10940,
+    "updated_at": "2026-07-21T02:40:51Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 22,
+    "updated_at": "2026-07-21T02:40:42Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-21T02:40:16Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 121,
+    "updated_at": "2026-07-21T02:33:22Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:33:07Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 5,
+    "updated_at": "2026-07-21T02:36:13Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T02:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -52,24 +133,6 @@
     "stars": 33446,
     "updated_at": "2026-07-21T02:16:59Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 22,
-    "updated_at": "2026-07-21T02:17:37Z",
-    "url": "https://github.com/elchemista/vettore"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
@@ -126,15 +189,6 @@
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 121,
-    "updated_at": "2026-07-21T02:27:12Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T01:35:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 2,
-    "updated_at": "2026-07-21T01:33:35Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -220,7 +265,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50964,
+    "stars": 50965,
     "updated_at": "2026-07-21T00:53:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -297,15 +342,6 @@
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10940,
-    "updated_at": "2026-07-20T23:33:04Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
     "id": "pinecone-io/pinecone-ts-client",
     "language": "TypeScript",
@@ -337,18 +373,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28827,
+    "stars": 28829,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:06:05Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -364,7 +391,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63611,
+    "stars": 63612,
     "updated_at": "2026-07-20T22:55:09Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -391,7 +418,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6087,
+    "stars": 6088,
     "updated_at": "2026-07-20T22:47:03Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:18:03Z",
     "url": "https://github.com/gperdrizet/nixx"
-  },
-  {
-    "description": "A RAG-powered blood report analysis app. Upload a PDF blood report, and chat with it \u2014 ask about your abnormal markers, ",
-    "id": "shreyanshverma7/blood-report-analyser",
-    "language": "Python",
-    "name": "shreyanshverma7/blood-report-analyser",
-    "stars": 2,
-    "updated_at": "2026-07-20T22:03:27Z",
-    "url": "https://github.com/shreyanshverma7/blood-report-analyser"
-  },
-  {
-    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
-    "id": "nram-ai/nram",
-    "language": "Go",
-    "name": "nram-ai/nram",
-    "stars": 8,
-    "updated_at": "2026-07-20T21:45:39Z",
-    "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6253,
-    "updated_at": "2026-07-20T21:40:41Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
