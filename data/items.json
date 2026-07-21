@@ -1,11 +1,29 @@
 [
   {
+    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
+    "id": "chrisleekr/langchain-playground",
+    "language": "TypeScript",
+    "name": "chrisleekr/langchain-playground",
+    "stars": 5,
+    "updated_at": "2026-07-21T23:43:10Z",
+    "url": "https://github.com/chrisleekr/langchain-playground"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:40:55Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 123,
-    "updated_at": "2026-07-21T23:37:33Z",
+    "updated_at": "2026-07-21T23:43:24Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T23:32:25Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -212,7 +221,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-21T22:42:52Z",
+    "updated_at": "2026-07-21T23:45:12Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 52,
     "updated_at": "2026-07-21T21:58:31Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
-    "id": "sashikumar6/Legal-RAG",
-    "language": "Python",
-    "name": "sashikumar6/Legal-RAG",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:54:51Z",
-    "url": "https://github.com/sashikumar6/Legal-RAG"
   }
 ]
