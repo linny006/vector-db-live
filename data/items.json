@@ -1,5 +1,59 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1034,
+    "updated_at": "2026-07-21T16:58:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:53:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T16:52:48Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 28988,
+    "updated_at": "2026-07-21T16:57:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T16:47:50Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T16:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
     "id": "kamilsj/vectors",
     "language": "Rust",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12741,
-    "updated_at": "2026-07-21T16:41:06Z",
+    "updated_at": "2026-07-21T16:47:21Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -79,33 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T16:31:25Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1034,
-    "updated_at": "2026-07-21T16:30:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first RAG memory for LLMs: Node server with ONNX embeddings, OKF-structured chunks, portable vector bundles, and R",
@@ -151,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-07-21T16:15:29Z",
     "url": "https://github.com/ma2za/docqa-stream"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T16:14:38Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-21T15:42:23Z",
+    "updated_at": "2026-07-21T16:59:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33466,
-    "updated_at": "2026-07-21T16:26:53Z",
+    "updated_at": "2026-07-21T16:52:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -409,7 +427,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6107,
+    "stars": 6108,
     "updated_at": "2026-07-21T15:07:45Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16629,
-    "updated_at": "2026-07-21T15:47:57Z",
+    "updated_at": "2026-07-21T16:56:08Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:59:11Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Multi-source RAG support assistant \u2014 retrieves across FAQ (CSV), resolved tickets (SQLite), and a PDF guide, each in its",
-    "id": "saivigneshpandian/rag-telecom-support",
-    "language": "Jupyter Notebook",
-    "name": "saivigneshpandian/rag-telecom-support",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:54:51Z",
-    "url": "https://github.com/saivigneshpandian/rag-telecom-support"
   }
 ]
