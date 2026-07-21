@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T12:27:03Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T12:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-21T12:42:27Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "RAG application: ask questions about your YouTube watch history, answered strictly from video transcripts. FastAPI \u00b7 Chr",
+    "id": "DhakshanaS/my-youtube-guru",
+    "language": "Python",
+    "name": "DhakshanaS/my-youtube-guru",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:42:09Z",
+    "url": "https://github.com/DhakshanaS/my-youtube-guru"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58675,
+    "updated_at": "2026-07-21T12:43:25Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3129,
-    "updated_at": "2026-07-21T12:26:59Z",
+    "updated_at": "2026-07-21T12:34:33Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Open-source, Rust-native replacements for over-monetized SaaS. Flagship: Infinity ID - secure-by-design IAM (OIDC/OAuth2",
+    "id": "ModernOps888/infinity-Security-stack",
+    "language": "Rust",
+    "name": "ModernOps888/infinity-Security-stack",
+    "stars": 5,
+    "updated_at": "2026-07-21T12:35:42Z",
+    "url": "https://github.com/ModernOps888/infinity-Security-stack"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T12:27:03Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -27,13 +81,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Open-source, Rust-native replacements for over-monetized SaaS. Flagship: Infinity ID - secure-by-design IAM (OIDC/OAuth2",
-    "id": "ModernOps888/infinity-stack",
-    "language": "Rust",
-    "name": "ModernOps888/infinity-stack",
-    "stars": 5,
-    "updated_at": "2026-07-21T12:22:35Z",
-    "url": "https://github.com/ModernOps888/infinity-stack"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7882,
+    "updated_at": "2026-07-21T12:18:23Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -52,24 +106,6 @@
     "stars": 45301,
     "updated_at": "2026-07-21T12:16:43Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T12:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T12:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T12:29:33Z",
+    "updated_at": "2026-07-21T12:44:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 48,
-    "updated_at": "2026-07-21T12:09:04Z",
+    "updated_at": "2026-07-21T12:36:20Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-21T11:51:48Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
     "id": "AleksNeStu/ai-real-estate-assistant",
     "language": "Python",
@@ -196,6 +223,15 @@
     "stars": 284,
     "updated_at": "2026-07-21T11:53:07Z",
     "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-21T11:51:48Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -230,7 +266,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T12:29:37Z",
+    "updated_at": "2026-07-21T12:44:00Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -338,17 +374,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T12:25:22Z",
+    "updated_at": "2026-07-21T12:32:06Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7881,
-    "updated_at": "2026-07-21T12:18:23Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33456,
-    "updated_at": "2026-07-21T10:27:20Z",
+    "updated_at": "2026-07-21T12:36:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 821,
-    "updated_at": "2026-07-21T10:13:07Z",
+    "updated_at": "2026-07-21T12:44:21Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:45:17Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
-    "id": "gorigesravani288-cmd/RepoMind",
-    "language": "Python",
-    "name": "gorigesravani288-cmd/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:44:23Z",
-    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58674,
-    "updated_at": "2026-07-21T09:40:31Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 2,
-    "updated_at": "2026-07-21T09:23:32Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   }
 ]
