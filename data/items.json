@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:17:14Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 3,
     "updated_at": "2026-07-21T17:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-21T17:14:28Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T17:01:33Z",
     "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -167,7 +185,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2198,
-    "updated_at": "2026-07-21T17:05:48Z",
+    "updated_at": "2026-07-21T17:15:28Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:41:52Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Vector search examples with ScyllaDB",
     "id": "scylladb/vector-search-examples",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 6188,
     "updated_at": "2026-07-21T17:11:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Search any book in the historical Gutenberg project",
-    "id": "rishabhBudhouliya/gutenberg-project",
-    "language": "Python",
-    "name": "rishabhBudhouliya/gutenberg-project",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:12:20Z",
-    "url": "https://github.com/rishabhBudhouliya/gutenberg-project"
   }
 ]
