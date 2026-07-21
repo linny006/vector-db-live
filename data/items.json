@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-21T21:56:46Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T21:56:31Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Retrieval-Augmented Generation with LangChain, Voyage AI embeddings + reranking, Chroma, and Claude \u2014 a CLI and a Stream",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:55:26Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:54:48Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T21:52:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:52:18Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T21:53:19Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:38:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-21T21:40:03Z",
+    "updated_at": "2026-07-21T21:45:47Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T21:29:33Z",
     "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T21:27:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan",
@@ -115,15 +169,6 @@
     "stars": 517,
     "updated_at": "2026-07-21T21:13:53Z",
     "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
-    "id": "pnoboesam/ghana-constitution-rag",
-    "language": "Python",
-    "name": "pnoboesam/ghana-constitution-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:12:14Z",
-    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -211,7 +256,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58689,
+    "stars": 58690,
     "updated_at": "2026-07-21T20:54:24Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1604,
-    "updated_at": "2026-07-21T21:20:32Z",
+    "updated_at": "2026-07-21T21:54:20Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:11:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
     "id": "tpt-solutions/tpt-ai-agents",
     "language": "Rust",
@@ -302,17 +338,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 52,
-    "updated_at": "2026-07-21T21:43:43Z",
+    "updated_at": "2026-07-21T21:58:31Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T20:02:12Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
@@ -349,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T19:51:51Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T19:51:57Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -427,26 +445,8 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6114,
+    "stars": 6113,
     "updated_at": "2026-07-21T19:31:09Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29010,
-    "updated_at": "2026-07-21T19:30:50Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 84,
-    "updated_at": "2026-07-21T19:10:45Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   }
 ]
