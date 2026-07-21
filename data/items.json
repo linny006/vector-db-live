@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
+    "id": "sujal12344/AI-Companion-Builder",
+    "language": "TypeScript",
+    "name": "sujal12344/AI-Companion-Builder",
+    "stars": 6,
+    "updated_at": "2026-07-21T05:14:54Z",
+    "url": "https://github.com/sujal12344/AI-Companion-Builder"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-21T05:14:23Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
+    "id": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
+    "language": "Python",
+    "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:14:25Z",
+    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-21T05:08:48Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-21T05:08:14Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-21T05:04:45Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Smart document chunker for RAG pipelines \u2014 split text into overlapping, retrieval-optimized chunks with zero dependencie",
+    "id": "intruderfr/chunkit",
+    "language": "Python",
+    "name": "intruderfr/chunkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:03:59Z",
+    "url": "https://github.com/intruderfr/chunkit"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:03:17Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T05:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,21 +144,12 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T04:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1861,
-    "updated_at": "2026-07-21T04:42:53Z",
+    "updated_at": "2026-07-21T05:06:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -135,21 +207,12 @@
     "url": "https://github.com/MontyGovernance/montycat_rust"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-21T04:37:30Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T04:36:21Z",
+    "updated_at": "2026-07-21T05:10:57Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T04:32:31Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:22:25Z",
-    "url": "https://github.com/88plug/total-recall"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -394,59 +448,5 @@
     "stars": 22,
     "updated_at": "2026-07-21T02:59:35Z",
     "url": "https://github.com/elchemista/vettore"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-21T02:58:26Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15185,
-    "updated_at": "2026-07-21T02:56:26Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
-    "id": "krishkumar4400/weights-to-prod",
-    "language": "Jupyter Notebook",
-    "name": "krishkumar4400/weights-to-prod",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:55:24Z",
-    "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33450,
-    "updated_at": "2026-07-21T02:55:21Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45289,
-    "updated_at": "2026-07-21T02:50:42Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 2,
-    "updated_at": "2026-07-21T02:44:58Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
   }
 ]
