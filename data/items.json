@@ -1,12 +1,21 @@
 [
   {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-21T03:59:49Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T04:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-21T04:11:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "88plug/total-recall",
     "stars": 0,
-    "updated_at": "2026-07-21T03:59:15Z",
+    "updated_at": "2026-07-21T04:08:36Z",
     "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 166,
+    "updated_at": "2026-07-21T04:08:31Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,8 +41,62 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1033,
-    "updated_at": "2026-07-21T03:56:44Z",
+    "updated_at": "2026-07-21T04:08:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 821,
+    "updated_at": "2026-07-21T04:08:33Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
+    "id": "mayankanup/commerce-ai-platform",
+    "language": "Go",
+    "name": "mayankanup/commerce-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:05:18Z",
+    "url": "https://github.com/mayankanup/commerce-ai-platform"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16626,
+    "updated_at": "2026-07-21T04:13:36Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-21T04:02:05Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T04:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-21T03:59:49Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
@@ -54,24 +126,6 @@
     "url": "https://github.com/ywqzzy/jude"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T03:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T03:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The holographic core for leOS",
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T03:44:54Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 821,
-    "updated_at": "2026-07-21T03:44:41Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -225,6 +270,15 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15186,
+    "updated_at": "2026-07-21T02:56:26Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
@@ -247,7 +301,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33448,
+    "stars": 33449,
     "updated_at": "2026-07-21T02:55:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -324,15 +378,6 @@
     "url": "https://github.com/yusufornek/rag-knowledge-ledger"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-21T03:58:45Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -355,7 +400,7 @@
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1402,
+    "stars": 1403,
     "updated_at": "2026-07-21T01:53:10Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
@@ -403,50 +448,5 @@
     "stars": 119,
     "updated_at": "2026-07-21T01:08:15Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10213,
-    "updated_at": "2026-07-21T01:00:31Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-21T00:14:50Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-21T00:02:51Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:59:08Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
-    "id": "tryAGI/Pinecone",
-    "language": "C#",
-    "name": "tryAGI/Pinecone",
-    "stars": 8,
-    "updated_at": "2026-07-20T23:54:55Z",
-    "url": "https://github.com/tryAGI/Pinecone"
   }
 ]
