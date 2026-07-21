@@ -1,5 +1,68 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T18:44:32Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
+    "id": "tpt-solutions/tpt-ai-agents",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:40:35Z",
+    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:39:27Z",
+    "url": "https://github.com/fthsrbst/mnema"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29003,
+    "updated_at": "2026-07-21T18:37:42Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:42:58Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:37:29Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T18:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +72,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12742,
+    "updated_at": "2026-07-21T18:36:13Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -16,42 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T18:29:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:27:52Z",
-    "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T18:27:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:11:07Z",
-    "url": "https://github.com/kamilsj/vectors"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "memo-fs/memofs",
     "stars": 2,
-    "updated_at": "2026-07-21T17:52:16Z",
+    "updated_at": "2026-07-21T18:39:20Z",
     "url": "https://github.com/memo-fs/memofs"
   },
   {
@@ -158,17 +194,8 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T17:42:36Z",
+    "updated_at": "2026-07-21T18:44:13Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:36:20Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-21T17:35:53Z",
+    "updated_at": "2026-07-21T18:36:50Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -185,7 +212,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2197,
-    "updated_at": "2026-07-21T18:06:05Z",
+    "updated_at": "2026-07-21T18:45:17Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T17:31:00Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12742,
-    "updated_at": "2026-07-21T18:29:27Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
@@ -297,15 +315,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29000,
-    "updated_at": "2026-07-21T17:10:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -337,7 +346,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33468,
+    "stars": 33469,
     "updated_at": "2026-07-21T17:02:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:12:56Z",
     "url": "https://github.com/10div10/support-intel-agent"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 9,
-    "updated_at": "2026-07-21T16:11:31Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   }
 ]
