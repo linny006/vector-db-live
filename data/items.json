@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T14:13:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
     "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
     "language": "Python",
@@ -45,15 +54,6 @@
     "url": "https://github.com/JosuSC/NeuroMedIR"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T14:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -95,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T14:13:12Z",
+    "updated_at": "2026-07-21T14:14:09Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12741,
-    "updated_at": "2026-07-21T14:11:17Z",
+    "updated_at": "2026-07-21T14:13:57Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
