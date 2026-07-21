@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:00:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T18:57:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6254,
+    "updated_at": "2026-07-21T18:55:18Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
+    "id": "tpt-solutions/tpt-ai-agents",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:52:09Z",
+    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T18:58:57Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Production-ready AI Assistant built with Spring Boot, React, Spring AI & Groq featuring multi-model support, document in",
+    "id": "prajwalkarajange/PrajwalGPT",
+    "language": "JavaScript",
+    "name": "prajwalkarajange/PrajwalGPT",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:50:26Z",
+    "url": "https://github.com/prajwalkarajange/PrajwalGPT"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T18:50:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-21T18:48:33Z",
+    "updated_at": "2026-07-21T18:50:25Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -14,35 +86,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-21T18:45:24Z",
+    "updated_at": "2026-07-21T18:48:58Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T18:44:32Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
-    "id": "tpt-solutions/tpt-ai-agents",
-    "language": "Rust",
-    "name": "tpt-solutions/tpt-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:40:35Z",
-    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
   },
   {
     "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
@@ -58,7 +103,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29003,
+    "stars": 29005,
     "updated_at": "2026-07-21T18:37:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -90,31 +135,13 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T18:29:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-21T18:13:26Z",
+    "updated_at": "2026-07-21T18:49:11Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T18:47:54Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T18:44:13Z",
+    "updated_at": "2026-07-21T18:50:56Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -319,7 +346,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58683,
+    "stars": 58684,
     "updated_at": "2026-07-21T17:07:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 123,
-    "updated_at": "2026-07-21T16:25:00Z",
+    "updated_at": "2026-07-21T18:55:04Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:21:05Z",
     "url": "https://github.com/lamkhaifi0med/medsearch-ai"
-  },
-  {
-    "description": "Self-hosted PDF Q&A API with streaming answers, citations, Weaviate/pgvector, and Azure OpenAI, OpenAI-compatible, Verte",
-    "id": "ma2za/docqa-stream",
-    "language": "Python",
-    "name": "ma2za/docqa-stream",
-    "stars": 9,
-    "updated_at": "2026-07-21T16:15:29Z",
-    "url": "https://github.com/ma2za/docqa-stream"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6254,
-    "updated_at": "2026-07-21T17:47:33Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Agentic support triage: classify, retrieve, and respond \u2014 powered by LangGraph + MCP.",
-    "id": "10div10/support-intel-agent",
-    "language": "Python",
-    "name": "10div10/support-intel-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:12:56Z",
-    "url": "https://github.com/10div10/support-intel-agent"
   }
 ]
