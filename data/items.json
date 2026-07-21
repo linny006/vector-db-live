@@ -1,5 +1,86 @@
 [
   {
+    "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
+    "id": "sashikumar6/Legal-RAG",
+    "language": "Python",
+    "name": "sashikumar6/Legal-RAG",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:54:51Z",
+    "url": "https://github.com/sashikumar6/Legal-RAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:53:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 205,
+    "updated_at": "2026-07-21T19:53:08Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:55:39Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "175+ pip-installable tool integrations for the ModuleX runtime \u2014 one pydantic manifest contract, entry-point discovery, ",
+    "id": "ModuleXAI/modulex-integrations",
+    "language": "Python",
+    "name": "ModuleXAI/modulex-integrations",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:51:59Z",
+    "url": "https://github.com/ModuleXAI/modulex-integrations"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:51:51Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:47:11Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T19:51:57Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-21T19:36:52Z",
+    "updated_at": "2026-07-21T19:59:28Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -86,7 +167,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6255,
-    "updated_at": "2026-07-21T19:43:11Z",
+    "updated_at": "2026-07-21T19:59:52Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T19:45:16Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -115,24 +187,6 @@
     "stars": 29008,
     "updated_at": "2026-07-21T19:30:50Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T19:24:11Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:20:57Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-21T17:32:16Z",
     "url": "https://github.com/marco-spagn/pcmi"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1329,
-    "updated_at": "2026-07-21T19:17:20Z",
-    "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-07-21T17:29:17Z",
-    "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) backend built with FastAPI, LangChain, pgvector, and OpenAI-compatible LLMs for int",
-    "id": "soumyasax3010/kb-rag-service",
-    "language": "Python",
-    "name": "soumyasax3010/kb-rag-service",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:27:03Z",
-    "url": "https://github.com/soumyasax3010/kb-rag-service"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 51,
-    "updated_at": "2026-07-21T17:25:09Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI-powered PDF Question Answering using Google ADK, Gemini, ChromaDB, and Retrieval-Augmented Generation (RAG).",
-    "id": "Sangeeth-dev-codes/document-rag-assistant",
-    "language": "Python",
-    "name": "Sangeeth-dev-codes/document-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:18:10Z",
-    "url": "https://github.com/Sangeeth-dev-codes/document-rag-assistant"
   }
 ]
