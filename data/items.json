@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T18:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T18:11:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:11:07Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9389,
+    "updated_at": "2026-07-21T18:13:26Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T18:09:41Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:07:04Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T18:05:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A full-stack RAG chatbot with conversational memory \u2014 FastAPI + Next.js, bge-m3 embeddings, Qdrant vector DB, Groq LLM, ",
     "id": "alymaklad/RAG-based-AI-Knowledge-Assistant-with-Memory",
     "language": "Python",
@@ -22,7 +94,7 @@
     "id": "memo-fs/memofs",
     "language": "TypeScript",
     "name": "memo-fs/memofs",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-21T17:52:16Z",
     "url": "https://github.com/memo-fs/memofs"
   },
@@ -45,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:47:46Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
     "id": "lancedb/docs",
     "language": "Python",
@@ -61,24 +124,6 @@
     "stars": 9,
     "updated_at": "2026-07-21T17:47:14Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou",
@@ -122,7 +167,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2197,
-    "updated_at": "2026-07-21T17:34:59Z",
+    "updated_at": "2026-07-21T18:06:05Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:32:49Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T17:31:55Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
@@ -196,15 +232,6 @@
     "stars": 20,
     "updated_at": "2026-07-21T17:29:17Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T17:31:23Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) backend built with FastAPI, LangChain, pgvector, and OpenAI-compatible LLMs for int",
@@ -265,7 +292,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28995,
+    "stars": 28999,
     "updated_at": "2026-07-21T17:10:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -295,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-07-21T17:04:16Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T16:59:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -405,15 +423,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:13:27Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Agentic support triage: classify, retrieve, and respond \u2014 powered by LangGraph + MCP.",
     "id": "10div10/support-intel-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 399,
     "updated_at": "2026-07-21T16:10:13Z",
     "url": "https://github.com/treygrainger/ai-powered-search"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:02:45Z",
-    "url": "https://github.com/integrallis/vectors"
   }
 ]
