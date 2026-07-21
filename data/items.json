@@ -1,12 +1,30 @@
 [
   {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-07-21T01:08:15Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T01:00:21Z",
+    "updated_at": "2026-07-21T01:08:11Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "Python",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 3,
+    "updated_at": "2026-07-21T01:06:54Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
   },
   {
     "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "yusufornek/rag-knowledge-ledger",
     "stars": 0,
-    "updated_at": "2026-07-21T00:58:23Z",
+    "updated_at": "2026-07-21T01:06:18Z",
     "url": "https://github.com/yusufornek/rag-knowledge-ledger"
+  },
+  {
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10213,
+    "updated_at": "2026-07-21T01:00:31Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T01:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -27,21 +63,12 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T00:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 121,
-    "updated_at": "2026-07-21T01:00:27Z",
+    "updated_at": "2026-07-21T01:00:41Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 1443,
     "updated_at": "2026-07-21T00:28:50Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-21T00:27:19Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -229,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 28794,
+    "stars": 28797,
     "updated_at": "2026-07-20T23:07:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -283,7 +301,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6086,
+    "stars": 6087,
     "updated_at": "2026-07-20T22:47:03Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:25:19Z",
     "url": "https://github.com/api-evangelist/database"
-  },
-  {
-    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
-    "id": "kossakovsky/selfhost-ai",
-    "language": "Shell",
-    "name": "kossakovsky/selfhost-ai",
-    "stars": 902,
-    "updated_at": "2026-07-20T20:24:57Z",
-    "url": "https://github.com/kossakovsky/selfhost-ai"
-  },
-  {
-    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
-    "id": "TarekMineRoyal/AcademicGateway-AI",
-    "language": "Python",
-    "name": "TarekMineRoyal/AcademicGateway-AI",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:24:02Z",
-    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
   }
 ]
