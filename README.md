@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 07:15 UTC
+> ⏰ Last updated: 2026-07-21 07:19 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [eqramul01/GLOBAL-email-RAG-MCP](https://github.com/eqramul01/GLOBAL-email-RAG-MCP) | 0 | Python | 2026-07-21 | v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive — full-text message search, recipient-graph filtering |
-| 2 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-21 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 3 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12649 | Java | 2026-07-21 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 4 | [beingAnujChaudhary/ml-concepts-rag](https://github.com/beingAnujChaudhary/ml-concepts-rag) | 0 | Python | 2026-07-21 | An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [10xHub/Agentflow](https://github.com/10xHub/Agentflow) | 18 | Python | 2026-07-21 | Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google  |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [eqramul01/GLOBAL-email-RAG-MCP](https://github.com/eqramul01/GLOBAL-email-RAG-MCP) | 0 | Python | 2026-07-21 | v2: Hybrid (BM25+vector) RAG over a six-figure legal email archive — full-text message search, recipient-graph filtering |
+| 4 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-21 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 5 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12649 | Java | 2026-07-21 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 6 | [beingAnujChaudhary/ml-concepts-rag](https://github.com/beingAnujChaudhary/ml-concepts-rag) | 0 | Python | 2026-07-21 | An end-to-end RAG educational bot teaching Machine Learning & AI. It uses a 500+ topic Wikipedia vector database to gene |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [10xHub/Agentflow](https://github.com/10xHub/Agentflow) | 18 | Python | 2026-07-21 | Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google  |
 | 9 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10940 | HTML | 2026-07-21 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1861 | Go | 2026-07-21 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 11 | [HyxiaoGe/fusion-api](https://github.com/HyxiaoGe/fusion-api) | 5 | Python | 2026-07-21 | 统一的多模型AI聊天集成平台，支持文心一言、通义千问、DeepSeek、OpenAI等大模型，提供向量检索和文件处理功能。 |
