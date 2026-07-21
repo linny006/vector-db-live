@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
+    "id": "MassivDash/ai_tools",
+    "language": "Rust",
+    "name": "MassivDash/ai_tools",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:14:48Z",
+    "url": "https://github.com/MassivDash/ai_tools"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:11:45Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T20:11:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:08:48Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
+    "id": "tpt-solutions/tpt-ai-agents",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:07:13Z",
+    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:05:26Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33470,
+    "updated_at": "2026-07-21T20:03:31Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T20:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T20:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T20:02:12Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
     "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
     "id": "sashikumar6/Legal-RAG",
     "language": "Python",
@@ -9,15 +99,6 @@
     "url": "https://github.com/sashikumar6/Legal-RAG"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:53:40Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 205,
     "updated_at": "2026-07-21T19:53:08Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:55:39Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
     "description": "175+ pip-installable tool integrations for the ModuleX runtime \u2014 one pydantic manifest contract, entry-point discovery, ",
@@ -52,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T19:51:51Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:47:11Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -126,15 +180,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T19:59:28Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Secure Document Q&A with RAG + LLM Guardrails \u2014 3-layer AI security for enterprise document search",
     "id": "jashwanthnagveepuri/guardrag",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-21T19:36:21Z",
+    "updated_at": "2026-07-21T20:09:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -175,7 +220,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6110,
+    "stars": 6111,
     "updated_at": "2026-07-21T19:31:09Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T19:28:44Z",
     "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33471,
-    "updated_at": "2026-07-21T19:28:19Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -288,15 +324,6 @@
     "url": "https://github.com/fthsrbst/mnema"
   },
   {
-    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
-    "id": "tpt-solutions/tpt-ai-agents",
-    "language": "Rust",
-    "name": "tpt-solutions/tpt-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:52:09Z",
-    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
-  },
-  {
     "description": "Production-ready AI Assistant built with Spring Boot, React, Spring AI & Groq featuring multi-model support, document in",
     "id": "prajwalkarajange/PrajwalGPT",
     "language": "JavaScript",
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T18:42:58Z",
     "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:37:29Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
@@ -347,17 +365,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-21T18:49:11Z",
+    "updated_at": "2026-07-21T20:01:23Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:07:04Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A full-stack RAG chatbot with conversational memory \u2014 FastAPI + Next.js, bge-m3 embeddings, Qdrant vector DB, Groq LLM, ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T17:31:00Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-07-21T17:32:16Z",
-    "url": "https://github.com/marco-spagn/pcmi"
   }
 ]
