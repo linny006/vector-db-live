@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-21T12:45:20Z",
+    "updated_at": "2026-07-21T13:00:28Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
     "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 32,
-    "updated_at": "2026-07-21T12:42:27Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-21T12:48:07Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "RAG application: ask questions about your YouTube watch history, answered strictly from video transcripts. FastAPI \u00b7 Chr",
@@ -23,17 +23,53 @@
     "language": "Python",
     "name": "DhakshanaS/my-youtube-guru",
     "stars": 0,
-    "updated_at": "2026-07-21T12:42:09Z",
+    "updated_at": "2026-07-21T12:48:05Z",
     "url": "https://github.com/DhakshanaS/my-youtube-guru"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 83,
+    "updated_at": "2026-07-21T12:47:36Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Production-shaped RAG engine \u2014 base/HyDE/QA-pairs retrieval strategies, pluggable embedding & LLM backends, Milvus store",
+    "id": "simeonkolchin/rag-engine",
+    "language": "Python",
+    "name": "simeonkolchin/rag-engine",
+    "stars": 0,
+    "updated_at": "2026-07-21T12:45:38Z",
+    "url": "https://github.com/simeonkolchin/rag-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T12:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58675,
-    "updated_at": "2026-07-21T12:43:25Z",
+    "stars": 58676,
+    "updated_at": "2026-07-21T12:51:09Z",
     "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-21T12:56:42Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -52,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-07-21T12:35:42Z",
     "url": "https://github.com/ModernOps888/infinity-Security-stack"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-21T12:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-21T12:18:23Z",
+    "updated_at": "2026-07-21T12:56:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-21T12:44:16Z",
+    "updated_at": "2026-07-21T13:00:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -158,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-21T12:04:21Z",
+    "updated_at": "2026-07-21T12:59:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 28958,
-    "updated_at": "2026-07-21T11:53:49Z",
+    "updated_at": "2026-07-21T12:59:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -214,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T11:53:09Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI ",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 284,
-    "updated_at": "2026-07-21T11:53:07Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-21T11:51:48Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -266,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-21T12:44:00Z",
+    "updated_at": "2026-07-21T12:50:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -328,7 +337,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34151,
+    "stars": 34152,
     "updated_at": "2026-07-21T10:49:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -374,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16628,
-    "updated_at": "2026-07-21T12:32:06Z",
+    "updated_at": "2026-07-21T12:57:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T09:52:44Z",
     "url": "https://github.com/TheOrionGD/ScholarAI-AcademicAssistant"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:45:17Z",
-    "url": "https://github.com/tryAGI/Chroma"
   }
 ]
