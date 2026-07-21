@@ -1,5 +1,68 @@
 [
   {
+    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
+    "id": "parinbajayebin/pdf-chatbot-rag",
+    "language": "Python",
+    "name": "parinbajayebin/pdf-chatbot-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:29:33Z",
+    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T21:27:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan",
+    "id": "AasthaPJoshi/RetrievalLab",
+    "language": "Python",
+    "name": "AasthaPJoshi/RetrievalLab",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:27:02Z",
+    "url": "https://github.com/AasthaPJoshi/RetrievalLab"
+  },
+  {
+    "description": "Local-first RAG memory for LLMs: Node server with ONNX embeddings, OKF-structured chunks, portable vector bundles, and R",
+    "id": "MauricioPerera/rag-local",
+    "language": "JavaScript",
+    "name": "MauricioPerera/rag-local",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:24:01Z",
+    "url": "https://github.com/MauricioPerera/rag-local"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-21T21:23:12Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-21T21:18:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/opencrawling/open-ingestion-standard"
   },
   {
-    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
-    "id": "parinbajayebin/pdf-chatbot-rag",
-    "language": "Python",
-    "name": "parinbajayebin/pdf-chatbot-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:07:34Z",
-    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -90,15 +144,6 @@
     "url": "https://github.com/litegraphdb/litegraph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T21:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -117,6 +162,15 @@
     "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7882,
+    "updated_at": "2026-07-21T20:55:31Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -124,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T20:57:39Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T20:53:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1604,
-    "updated_at": "2026-07-21T20:56:21Z",
+    "updated_at": "2026-07-21T21:20:32Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 2021,
     "updated_at": "2026-07-21T20:24:41Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-21T20:16:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -324,15 +360,6 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-21T19:40:08Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6255,
-    "updated_at": "2026-07-21T21:11:02Z",
+    "updated_at": "2026-07-21T21:21:53Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -391,7 +418,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6113,
+    "stars": 6114,
     "updated_at": "2026-07-21T19:31:09Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -400,7 +427,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29009,
+    "stars": 29010,
     "updated_at": "2026-07-21T19:30:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-07-21T19:07:43Z",
     "url": "https://github.com/jose-compu/logosdb"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-21T19:06:05Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
-    "id": "fthsrbst/mnema",
-    "language": "TypeScript",
-    "name": "fthsrbst/mnema",
-    "stars": 2,
-    "updated_at": "2026-07-21T19:03:37Z",
-    "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "Production-ready AI Assistant built with Spring Boot, React, Spring AI & Groq featuring multi-model support, document in",
-    "id": "prajwalkarajange/PrajwalGPT",
-    "language": "JavaScript",
-    "name": "prajwalkarajange/PrajwalGPT",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:50:26Z",
-    "url": "https://github.com/prajwalkarajange/PrajwalGPT"
   }
 ]
