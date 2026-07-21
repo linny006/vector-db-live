@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-21T21:00:23Z",
+    "updated_at": "2026-07-21T21:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
+    "id": "memo-fs/memofs",
+    "language": "TypeScript",
+    "name": "memo-fs/memofs",
+    "stars": 2,
+    "updated_at": "2026-07-21T21:14:05Z",
+    "url": "https://github.com/memo-fs/memofs"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 517,
+    "updated_at": "2026-07-21T21:13:53Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:12:14Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:10:39Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat",
+    "id": "opencrawling/open-ingestion-standard",
+    "language": "\u2014",
+    "name": "opencrawling/open-ingestion-standard",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:09:07Z",
+    "url": "https://github.com/opencrawling/open-ingestion-standard"
+  },
+  {
+    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
+    "id": "parinbajayebin/pdf-chatbot-rag",
+    "language": "Python",
+    "name": "parinbajayebin/pdf-chatbot-rag",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:07:34Z",
+    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:07:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1035,
+    "updated_at": "2026-07-21T21:09:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 125,
+    "updated_at": "2026-07-21T21:00:32Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -67,45 +157,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33473,
-    "updated_at": "2026-07-21T20:48:22Z",
+    "stars": 33474,
+    "updated_at": "2026-07-21T21:09:48Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T20:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 125,
-    "updated_at": "2026-07-21T20:45:16Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
-    "id": "parinbajayebin/pdf-chatbot-rag",
-    "language": "Python",
-    "name": "parinbajayebin/pdf-chatbot-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:38:55Z",
-    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 517,
-    "updated_at": "2026-07-21T20:35:35Z",
-    "url": "https://github.com/lightonai/next-plaid"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 0,
-    "updated_at": "2026-07-21T20:34:39Z",
+    "updated_at": "2026-07-21T21:05:00Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -196,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-07-21T20:07:13Z",
     "url": "https://github.com/tpt-solutions/tpt-ai-agents"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 52,
+    "updated_at": "2026-07-21T20:03:21Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -306,15 +369,6 @@
     "url": "https://github.com/jashwanthnagveepuri/guardrag"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1035,
-    "updated_at": "2026-07-21T20:21:02Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "A browser app presenting data from the Georgia Project. ",
     "id": "KatherineMossDeveloper/Midnight-Train",
     "language": "TypeScript",
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6255,
-    "updated_at": "2026-07-21T19:59:52Z",
+    "updated_at": "2026-07-21T21:11:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -337,7 +391,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6112,
+    "stars": 6113,
     "updated_at": "2026-07-21T19:31:09Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -346,27 +400,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29008,
+    "stars": 29009,
     "updated_at": "2026-07-21T19:30:50Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:24:11Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:19:23Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:50:26Z",
     "url": "https://github.com/prajwalkarajange/PrajwalGPT"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:42:58Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:37:12Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12742,
-    "updated_at": "2026-07-21T18:36:13Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9389,
-    "updated_at": "2026-07-21T20:01:23Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
