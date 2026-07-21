@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 123,
+    "updated_at": "2026-07-21T23:37:33Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:34:11Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-21T23:34:53Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:32:25Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-21T23:30:02Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-21T23:28:44Z",
+    "updated_at": "2026-07-21T23:32:15Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -54,29 +90,11 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 123,
-    "updated_at": "2026-07-21T23:28:03Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33478,
+    "stars": 33479,
     "updated_at": "2026-07-21T23:07:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "memo-fs/memofs",
     "stars": 2,
-    "updated_at": "2026-07-21T23:02:20Z",
+    "updated_at": "2026-07-21T23:35:57Z",
     "url": "https://github.com/memo-fs/memofs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T19:54:51Z",
     "url": "https://github.com/sashikumar6/Legal-RAG"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 205,
-    "updated_at": "2026-07-21T19:53:08Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "175+ pip-installable tool integrations for the ModuleX runtime \u2014 one pydantic manifest contract, entry-point discovery, ",
-    "id": "ModuleXAI/modulex-integrations",
-    "language": "Python",
-    "name": "ModuleXAI/modulex-integrations",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:51:59Z",
-    "url": "https://github.com/ModuleXAI/modulex-integrations"
   }
 ]
