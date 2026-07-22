@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-22T14:59:39Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:53:04Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45325,
+    "updated_at": "2026-07-22T14:52:43Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:51:42Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33497,
+    "updated_at": "2026-07-22T14:48:15Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16633,
+    "updated_at": "2026-07-22T15:00:31Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Training-free ordinal & sign quantization for compressed nearest-neighbour retrieval over high-dimensional embeddings. P",
+    "id": "Project-Navi/ordvec",
+    "language": "Rust",
+    "name": "Project-Navi/ordvec",
+    "stars": 21,
+    "updated_at": "2026-07-22T14:45:26Z",
+    "url": "https://github.com/Project-Navi/ordvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 56,
+    "updated_at": "2026-07-22T14:44:43Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordinaldb",
     "stars": 0,
-    "updated_at": "2026-07-22T14:41:30Z",
+    "updated_at": "2026-07-22T14:59:12Z",
     "url": "https://github.com/Project-Navi/ordinaldb"
   },
   {
@@ -36,31 +126,13 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T14:39:04Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58699,
-    "updated_at": "2026-07-22T14:38:44Z",
+    "updated_at": "2026-07-22T14:56:31Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16632,
-    "updated_at": "2026-07-22T14:37:57Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6257,
-    "updated_at": "2026-07-22T14:33:36Z",
+    "updated_at": "2026-07-22T14:53:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -106,24 +178,6 @@
     "stars": 57,
     "updated_at": "2026-07-22T14:42:17Z",
     "url": "https://github.com/pinecone-io/recommender-example-typescript"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
@@ -148,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29124,
+    "stars": 29125,
     "updated_at": "2026-07-22T14:18:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -275,17 +329,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T14:43:37Z",
+    "updated_at": "2026-07-22T14:54:45Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45324,
-    "updated_at": "2026-07-22T13:52:23Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Backend for movies recomendations for groups ",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:49:22Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33496,
-    "updated_at": "2026-07-22T14:34:36Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -365,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-22T13:18:28Z",
+    "updated_at": "2026-07-22T14:52:15Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 198,
     "updated_at": "2026-07-22T13:10:22Z",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
-  },
-  {
-    "description": "AI Data Security Auditor agent for Agency Swarm / Agencii: scans documents and vector stores (Chroma, OpenAI) for expose",
-    "id": "Agenvana/ragleakguard-agent",
-    "language": "Python",
-    "name": "Agenvana/ragleakguard-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:55:46Z",
-    "url": "https://github.com/Agenvana/ragleakguard-agent"
-  },
-  {
-    "description": "",
-    "id": "oguzhandurmaz/interviewpilot-ai",
-    "language": "Python",
-    "name": "oguzhandurmaz/interviewpilot-ai",
-    "stars": 3,
-    "updated_at": "2026-07-22T12:53:37Z",
-    "url": "https://github.com/oguzhandurmaz/interviewpilot-ai"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1339,
-    "updated_at": "2026-07-22T12:53:16Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:47:55Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
