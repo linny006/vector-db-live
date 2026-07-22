@@ -1,5 +1,95 @@
 [
   {
+    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
+    "id": "prakashprajapati-git/campus-helpdesk-assistant",
+    "language": "TypeScript",
+    "name": "prakashprajapati-git/campus-helpdesk-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:24:08Z",
+    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T14:23:36Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1453,
+    "updated_at": "2026-07-22T14:22:36Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:22:32Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29123,
+    "updated_at": "2026-07-22T14:18:43Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:18:12Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-22T14:16:40Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:14:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -9,15 +99,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
-    "id": "prakashprajapati-git/campus-helpdesk-assistant",
-    "language": "TypeScript",
-    "name": "prakashprajapati-git/campus-helpdesk-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:12:36Z",
-    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
-  },
-  {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
     "id": "kemalbsoylu/localRAGvault",
     "language": "Python",
@@ -25,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:12:26Z",
     "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-22T14:10:51Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -54,22 +144,13 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12666,
+    "updated_at": "2026-07-22T14:05:53Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T14:13:43Z",
+    "updated_at": "2026-07-22T14:27:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33496,
-    "updated_at": "2026-07-22T13:47:48Z",
+    "updated_at": "2026-07-22T14:22:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -171,40 +252,13 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-22T14:10:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:14:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T13:58:11Z",
+    "updated_at": "2026-07-22T14:28:33Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T14:14:12Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 3,
-    "updated_at": "2026-07-22T13:27:32Z",
+    "updated_at": "2026-07-22T14:26:22Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29120,
-    "updated_at": "2026-07-22T13:02:38Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI Data Security Auditor agent for Agency Swarm / Agencii: scans documents and vector stores (Chroma, OpenAI) for expose",
     "id": "Agenvana/ragleakguard-agent",
     "language": "Python",
@@ -356,7 +401,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T12:45:53Z",
+    "updated_at": "2026-07-22T14:25:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 56,
-    "updated_at": "2026-07-22T13:59:07Z",
+    "updated_at": "2026-07-22T14:20:45Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T12:13:27Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9389,
-    "updated_at": "2026-07-22T14:11:55Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
-    "id": "AlayaDB-AI/AlayaLite",
-    "language": "C++",
-    "name": "AlayaDB-AI/AlayaLite",
-    "stars": 207,
-    "updated_at": "2026-07-22T12:13:11Z",
-    "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45323,
-    "updated_at": "2026-07-22T13:52:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16633,
-    "updated_at": "2026-07-22T14:07:30Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-22T11:41:58Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   }
 ]
