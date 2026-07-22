@@ -5,17 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T13:15:23Z",
+    "updated_at": "2026-07-22T13:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 198,
-    "updated_at": "2026-07-22T13:10:22Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-22T13:29:56Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58699,
+    "updated_at": "2026-07-22T13:28:25Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:27:59Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:27:32Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 10,
+    "updated_at": "2026-07-22T13:20:57Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
+    "id": "234194027-cpu/aion-memory-nexus",
+    "language": "Python",
+    "name": "234194027-cpu/aion-memory-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:19:05Z",
+    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-22T13:18:28Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6188,
+    "updated_at": "2026-07-22T13:29:18Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
+    "id": "IvayloP0709/langchain-pdf-rag",
+    "language": "Python",
+    "name": "IvayloP0709/langchain-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:15:30Z",
+    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-22T13:14:16Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
@@ -27,12 +117,21 @@
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
+    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
+    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "language": "HTML",
+    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "stars": 198,
+    "updated_at": "2026-07-22T13:10:22Z",
+    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+  },
+  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 1,
-    "updated_at": "2026-07-22T13:03:22Z",
+    "updated_at": "2026-07-22T13:29:47Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -40,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29114,
+    "stars": 29116,
     "updated_at": "2026-07-22T13:02:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -52,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T13:00:46Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-22T12:57:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Data Security Auditor agent for Agency Swarm / Agencii: scans documents and vector stores (Chroma, OpenAI) for expose",
@@ -117,39 +198,12 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:02:59Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-22T13:15:23Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
-    "id": "234194027-cpu/aion-memory-nexus",
-    "language": "Python",
-    "name": "234194027-cpu/aion-memory-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:41:20Z",
-    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 56,
-    "updated_at": "2026-07-22T13:12:49Z",
+    "updated_at": "2026-07-22T13:24:28Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33494,
-    "updated_at": "2026-07-22T13:02:19Z",
+    "updated_at": "2026-07-22T13:21:50Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-22T13:01:34Z",
+    "updated_at": "2026-07-22T13:26:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 207,
     "updated_at": "2026-07-22T12:13:11Z",
     "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58698,
-    "updated_at": "2026-07-22T13:11:27Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45323,
-    "updated_at": "2026-07-22T12:52:26Z",
+    "updated_at": "2026-07-22T13:22:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -257,7 +302,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7881,
-    "updated_at": "2026-07-22T12:57:08Z",
+    "updated_at": "2026-07-22T13:25:43Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T13:09:40Z",
+    "updated_at": "2026-07-22T13:28:03Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -304,6 +349,15 @@
     "stars": 5,
     "updated_at": "2026-07-22T11:28:40Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34166,
+    "updated_at": "2026-07-22T11:19:04Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "The holographic core for leOS",
@@ -387,66 +441,12 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Production-grade Retrieval-Augmented Generation (RAG) system for evidence-grounded equity research over SEC filings and ",
-    "id": "Narendersingh007/equity-research-ai",
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
     "language": "Python",
-    "name": "Narendersingh007/equity-research-ai",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:41:37Z",
-    "url": "https://github.com/Narendersingh007/equity-research-ai"
-  },
-  {
-    "description": "AI-powered Industrial Knowledge Intelligence platform \u2014 unifies engineering manuals, work orders, P&IDs, and regulations",
-    "id": "DEADEND-47/CogniPlant",
-    "language": "JavaScript",
-    "name": "DEADEND-47/CogniPlant",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:28:07Z",
-    "url": "https://github.com/DEADEND-47/CogniPlant"
-  },
-  {
-    "description": "AI-powered RAG system that answers questions from your own documents using Gemini 2.5 Flash, LangChain & FAISS vector da",
-    "id": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
-    "language": "Python",
-    "name": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:20:49Z",
-    "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-22T10:11:41Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "The code behind dehyabi.com",
-    "id": "dehyabi/dehyabi.com",
-    "language": "TypeScript",
-    "name": "dehyabi/dehyabi.com",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:02:26Z",
-    "url": "https://github.com/dehyabi/dehyabi.com"
-  },
-  {
-    "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
-    "id": "AP24110011041/veritas-ai",
-    "language": "TypeScript",
-    "name": "AP24110011041/veritas-ai",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:59:42Z",
-    "url": "https://github.com/AP24110011041/veritas-ai"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12665,
-    "updated_at": "2026-07-22T12:44:16Z",
-    "url": "https://github.com/langchain4j/langchain4j"
+    "name": "oracle/ai-optimizer",
+    "stars": 95,
+    "updated_at": "2026-07-22T10:44:29Z",
+    "url": "https://github.com/oracle/ai-optimizer"
   }
 ]
