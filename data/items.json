@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:29:57Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T18:26:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
+    "id": "sujal12344/AI-Companion-Builder",
+    "language": "TypeScript",
+    "name": "sujal12344/AI-Companion-Builder",
+    "stars": 6,
+    "updated_at": "2026-07-22T18:26:39Z",
+    "url": "https://github.com/sujal12344/AI-Companion-Builder"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:25:10Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 2,
+    "updated_at": "2026-07-22T18:18:43Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6188,
+    "updated_at": "2026-07-22T18:15:42Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
     "name": "Dakera-AI/dakera-cli",
     "stars": 9,
-    "updated_at": "2026-07-22T18:13:04Z",
+    "updated_at": "2026-07-22T18:15:29Z",
     "url": "https://github.com/Dakera-AI/dakera-cli"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 45329,
     "updated_at": "2026-07-22T18:08:43Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The Personal AI Assistant that connects every channel you use.",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 2,
-    "updated_at": "2026-07-22T18:07:10Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T18:03:57Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
@@ -72,24 +126,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T18:00:14Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T17:58:36Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Find relevant Bible passages with semantic search",
@@ -130,27 +157,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29144,
+    "stars": 29146,
     "updated_at": "2026-07-22T17:42:35Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T17:34:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-22T17:30:02Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6257,
-    "updated_at": "2026-07-22T17:45:08Z",
+    "updated_at": "2026-07-22T18:22:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T17:02:04Z",
     "url": "https://github.com/Vivekpatil200320/contextquery-backend"
-  },
-  {
-    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
-    "id": "sujal12344/AI-Companion-Builder",
-    "language": "TypeScript",
-    "name": "sujal12344/AI-Companion-Builder",
-    "stars": 6,
-    "updated_at": "2026-07-22T17:01:28Z",
-    "url": "https://github.com/sujal12344/AI-Companion-Builder"
   },
   {
     "description": "DocuRetrieve \u2014 a production-grade RAG engine with hybrid BM25 + vector retrieval, cross-encoder reranking, inline citati",
@@ -284,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1036,
-    "updated_at": "2026-07-22T17:43:51Z",
+    "updated_at": "2026-07-22T18:22:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -311,7 +311,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T17:55:43Z",
+    "updated_at": "2026-07-22T18:27:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
