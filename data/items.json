@@ -1,5 +1,50 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1036,
+    "updated_at": "2026-07-22T16:07:46Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Official Terraform provider for Pinecone ",
+    "id": "pinecone-io/terraform-provider-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/terraform-provider-pinecone",
+    "stars": 32,
+    "updated_at": "2026-07-22T16:03:46Z",
+    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
+  },
+  {
+    "description": "DocuRetrieve \u2014 a production-grade RAG engine with hybrid BM25 + vector retrieval, cross-encoder reranking, inline citati",
+    "id": "ashimalaiya/rag-framework",
+    "language": "Python",
+    "name": "ashimalaiya/rag-framework",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:03:03Z",
+    "url": "https://github.com/ashimalaiya/rag-framework"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:00:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T16:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +54,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29133,
+    "updated_at": "2026-07-22T16:14:41Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58697,
-    "updated_at": "2026-07-22T16:00:19Z",
+    "updated_at": "2026-07-22T16:07:14Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/dsba6010-llm-applications/baemax_tc"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
     "id": "Sidra-009/vectordb-from-scratch",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 19,
     "updated_at": "2026-07-22T15:32:15Z",
     "url": "https://github.com/cequence-io/pinecone-scala"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:30:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An embedded vector database backed by immutable Git snapshots",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:24:19Z",
     "url": "https://github.com/Project-Navi/ordinaldb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1036,
-    "updated_at": "2026-07-22T15:24:07Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -257,7 +284,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-22T14:53:04Z",
+    "updated_at": "2026-07-22T16:12:12Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 21,
-    "updated_at": "2026-07-22T14:45:26Z",
+    "updated_at": "2026-07-22T16:10:38Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-22T14:42:59Z",
+    "updated_at": "2026-07-22T16:12:12Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6257,
-    "updated_at": "2026-07-22T15:40:46Z",
+    "updated_at": "2026-07-22T16:11:42Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -376,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:22:32Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29130,
-    "updated_at": "2026-07-22T15:58:14Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -430,23 +448,5 @@
     "stars": 12666,
     "updated_at": "2026-07-22T15:24:19Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:56:41Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Built a multi-LLM orchestration platform with intent-aware routing, an LLM-judge evaluation layer, and persistent human-",
-    "id": "KK-is-Coding/multi-llm_judge",
-    "language": "Python",
-    "name": "KK-is-Coding/multi-llm_judge",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:55:55Z",
-    "url": "https://github.com/KK-is-Coding/multi-llm_judge"
   }
 ]
