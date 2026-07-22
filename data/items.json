@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:14:47Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
+    "id": "aramradif/Enterprise-AI-Platform",
+    "language": "Python",
+    "name": "aramradif/Enterprise-AI-Platform",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:09:36Z",
+    "url": "https://github.com/aramradif/Enterprise-AI-Platform"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:06:52Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-22T00:03:01Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -72,24 +126,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -115,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-07-21T23:34:53Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:32:25Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -180,6 +207,15 @@
     "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7882,
+    "updated_at": "2026-07-21T23:00:50Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
@@ -189,15 +225,6 @@
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:55:51Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -205,15 +232,6 @@
     "stars": 45305,
     "updated_at": "2026-07-21T22:55:13Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7882,
-    "updated_at": "2026-07-21T23:00:50Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T23:59:45Z",
+    "updated_at": "2026-07-22T00:09:08Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T22:34:21Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:28:42Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -439,14 +448,5 @@
     "stars": 2021,
     "updated_at": "2026-07-21T20:24:41Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
-    "id": "MassivDash/ai_tools",
-    "language": "Rust",
-    "name": "MassivDash/ai_tools",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:43:01Z",
-    "url": "https://github.com/MassivDash/ai_tools"
   }
 ]
