@@ -1,5 +1,32 @@
 [
   {
+    "description": "Official Terraform provider for Pinecone ",
+    "id": "pinecone-io/terraform-provider-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/terraform-provider-pinecone",
+    "stars": 32,
+    "updated_at": "2026-07-22T22:10:31Z",
+    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-22T22:08:06Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T22:05:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,15 +90,6 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T21:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -94,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29162,
+    "stars": 29163,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -158,17 +176,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33505,
-    "updated_at": "2026-07-22T21:00:48Z",
+    "updated_at": "2026-07-22T22:11:19Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-22T20:58:28Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T18:15:42Z",
+    "updated_at": "2026-07-22T22:14:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:06:05Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
   }
 ]
