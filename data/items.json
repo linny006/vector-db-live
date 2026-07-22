@@ -1,5 +1,68 @@
 [
   {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-22T03:14:17Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "Knowledge Model Runtime, Ontology management, and interface to Graph and Vector Databases. Part of the Vital A.I. Agent ",
+    "id": "vital-ai/vital-vitalsigns-python",
+    "language": "Python",
+    "name": "vital-ai/vital-vitalsigns-python",
+    "stars": 5,
+    "updated_at": "2026-07-22T03:13:39Z",
+    "url": "https://github.com/vital-ai/vital-vitalsigns-python"
+  },
+  {
+    "description": "Search any book in the historical Gutenberg project",
+    "id": "rishabhBudhouliya/gutenberg-project",
+    "language": "Python",
+    "name": "rishabhBudhouliya/gutenberg-project",
+    "stars": 0,
+    "updated_at": "2026-07-22T03:08:05Z",
+    "url": "https://github.com/rishabhBudhouliya/gutenberg-project"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-22T03:03:05Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 11,
+    "updated_at": "2026-07-22T03:01:10Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T03:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T03:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "nngochai2/loom",
     "language": "Python",
@@ -18,21 +81,12 @@
     "url": "https://github.com/AlayaDB-AI/AlayaLite"
   },
   {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-22T02:53:27Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-22T02:59:49Z",
+    "updated_at": "2026-07-22T03:11:20Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -61,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T02:46:16Z",
     "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:42:01Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -139,8 +166,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45312,
-    "updated_at": "2026-07-22T02:12:26Z",
+    "stars": 45313,
+    "updated_at": "2026-07-22T03:10:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-22T02:51:42Z",
+    "updated_at": "2026-07-22T03:11:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -346,7 +373,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50991,
+    "stars": 50993,
     "updated_at": "2026-07-21T23:15:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -421,32 +448,5 @@
     "stars": 2197,
     "updated_at": "2026-07-21T22:40:56Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:34:21Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 8,
-    "updated_at": "2026-07-21T22:20:16Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:14:31Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   }
 ]
