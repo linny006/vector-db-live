@@ -1,12 +1,66 @@
 [
   {
-    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-07-22T09:58:21Z",
-    "url": "https://github.com/piyalidas10/AI"
+    "updated_at": "2026-07-22T10:12:16Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1862,
+    "updated_at": "2026-07-22T10:11:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:11:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 5,
+    "updated_at": "2026-07-22T10:11:41Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:06:28Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "The code behind dehyabi.com",
+    "id": "dehyabi/dehyabi.com",
+    "language": "TypeScript",
+    "name": "dehyabi/dehyabi.com",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:02:26Z",
+    "url": "https://github.com/dehyabi/dehyabi.com"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16633,
+    "updated_at": "2026-07-22T10:02:20Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-22T09:58:16Z",
+    "updated_at": "2026-07-22T10:00:31Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
-    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:54:30Z",
-    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
@@ -36,6 +90,42 @@
     "url": "https://github.com/AP24110011041/veritas-ai"
   },
   {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:58:21Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33490,
+    "updated_at": "2026-07-22T09:55:31Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
+    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "language": "Python",
+    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:54:30Z",
+    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6257,
+    "updated_at": "2026-07-22T09:53:06Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
     "id": "KeiaiLab/qdrant-operator",
     "language": "Go",
@@ -45,15 +135,6 @@
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:49:12Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
     "id": "DeveloperChetram/Contextual_Chatbot_React",
     "language": "JavaScript",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:48:41Z",
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -112,7 +184,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45321,
+    "stars": 45320,
     "updated_at": "2026-07-22T09:32:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -153,15 +225,6 @@
     "url": "https://github.com/pragmaticcs/trovadb"
   },
   {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-22T09:27:37Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -189,15 +252,6 @@
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33489,
-    "updated_at": "2026-07-22T09:55:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58696,
-    "updated_at": "2026-07-22T09:17:24Z",
+    "updated_at": "2026-07-22T10:15:13Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T09:04:53Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1862,
-    "updated_at": "2026-07-22T08:53:43Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
@@ -324,15 +369,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6256,
-    "updated_at": "2026-07-22T09:53:06Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
     "id": "LangModule/ingestlib",
     "language": "Python",
@@ -374,17 +410,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 53,
-    "updated_at": "2026-07-22T08:05:07Z",
+    "updated_at": "2026-07-22T10:10:41Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 3,
-    "updated_at": "2026-07-22T08:02:44Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -401,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T09:44:40Z",
+    "updated_at": "2026-07-22T10:15:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T07:46:21Z",
     "url": "https://github.com/mpilhlt/embapi"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-22T07:34:46Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:22:05Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10954,
-    "updated_at": "2026-07-22T07:30:22Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
