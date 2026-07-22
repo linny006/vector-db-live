@@ -1,12 +1,39 @@
 [
   {
-    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
-    "id": "prakashprajapati-git/campus-helpdesk-assistant",
-    "language": "TypeScript",
-    "name": "prakashprajapati-git/campus-helpdesk-assistant",
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1453,
+    "updated_at": "2026-07-22T14:41:34Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
+    "id": "Project-Navi/ordinaldb",
+    "language": "Rust",
+    "name": "Project-Navi/ordinaldb",
     "stars": 0,
-    "updated_at": "2026-07-22T14:24:08Z",
-    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
+    "updated_at": "2026-07-22T14:41:30Z",
+    "url": "https://github.com/Project-Navi/ordinaldb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1036,
+    "updated_at": "2026-07-22T14:39:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-22T14:42:59Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,17 +41,98 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 1,
-    "updated_at": "2026-07-22T14:23:36Z",
+    "updated_at": "2026-07-22T14:39:04Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1453,
-    "updated_at": "2026-07-22T14:22:36Z",
-    "url": "https://github.com/datalevin/datalevin"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58699,
+    "updated_at": "2026-07-22T14:38:44Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16632,
+    "updated_at": "2026-07-22T14:37:57Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
+    "id": "Sasireddy001/rag-document-qa",
+    "language": "Python",
+    "name": "Sasireddy001/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:35:13Z",
+    "url": "https://github.com/Sasireddy001/rag-document-qa"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:33:53Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6257,
+    "updated_at": "2026-07-22T14:33:36Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "A high-performance FastAPI-based LLM API gateway designed to reduce application latency and API consumption costs using ",
+    "id": "theblag/llm-api-gateway",
+    "language": "Python",
+    "name": "theblag/llm-api-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:33:15Z",
+    "url": "https://github.com/theblag/llm-api-gateway"
+  },
+  {
+    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
+    "id": "pinecone-io/recommender-example-typescript",
+    "language": "TypeScript",
+    "name": "pinecone-io/recommender-example-typescript",
+    "stars": 57,
+    "updated_at": "2026-07-22T14:42:17Z",
+    "url": "https://github.com/pinecone-io/recommender-example-typescript"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
+    "id": "prakashprajapati-git/campus-helpdesk-assistant",
+    "language": "TypeScript",
+    "name": "prakashprajapati-git/campus-helpdesk-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:24:08Z",
+    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -40,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29123,
+    "stars": 29124,
     "updated_at": "2026-07-22T14:18:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -63,24 +171,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T14:14:55Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6257,
-    "updated_at": "2026-07-22T14:12:40Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -180,15 +261,6 @@
     "url": "https://github.com/KK-is-Coding/multi-llm_judge"
   },
   {
-    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
-    "id": "pinecone-io/recommender-example-typescript",
-    "language": "TypeScript",
-    "name": "pinecone-io/recommender-example-typescript",
-    "stars": 57,
-    "updated_at": "2026-07-22T14:12:33Z",
-    "url": "https://github.com/pinecone-io/recommender-example-typescript"
-  },
-  {
     "description": "Find relevant Bible passages with semantic search",
     "id": "vainiovesa/vector_bible_api",
     "language": "Python",
@@ -203,17 +275,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T14:27:38Z",
+    "updated_at": "2026-07-22T14:43:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
-    "id": "Sasireddy001/rag-document-qa",
-    "language": "Python",
-    "name": "Sasireddy001/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:52:07Z",
-    "url": "https://github.com/Sasireddy001/rag-document-qa"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45324,
+    "updated_at": "2026-07-22T13:52:23Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Backend for movies recomendations for groups ",
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33496,
-    "updated_at": "2026-07-22T14:22:23Z",
+    "updated_at": "2026-07-22T14:34:36Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -257,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T14:28:33Z",
+    "updated_at": "2026-07-22T14:40:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -268,24 +340,6 @@
     "stars": 6,
     "updated_at": "2026-07-22T13:28:55Z",
     "url": "https://github.com/sujal12344/AI-Companion-Builder"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58699,
-    "updated_at": "2026-07-22T13:57:47Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:26:22Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T12:47:55Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-22T14:25:55Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 56,
-    "updated_at": "2026-07-22T14:20:45Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:19:53Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-22T12:18:28Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:17:26Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:13:27Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   }
 ]
