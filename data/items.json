@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-22T22:24:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-22T22:29:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T22:22:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T22:17:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T22:15:35Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T22:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -72,21 +99,12 @@
     "url": "https://github.com/Dakera-AI/dakera-cli"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T21:50:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-22T22:16:20Z",
+    "updated_at": "2026-07-22T22:23:37Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -130,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29164,
+    "stars": 29163,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -149,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7884,
-    "updated_at": "2026-07-22T21:56:17Z",
+    "updated_at": "2026-07-22T22:18:58Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 45331,
     "updated_at": "2026-07-22T20:46:42Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-22T21:53:51Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
@@ -419,7 +428,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6257,
-    "updated_at": "2026-07-22T19:37:10Z",
+    "updated_at": "2026-07-22T22:27:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T18:31:18Z",
     "url": "https://github.com/libraz/nvecd"
-  },
-  {
-    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
-    "id": "sujal12344/AI-Companion-Builder",
-    "language": "TypeScript",
-    "name": "sujal12344/AI-Companion-Builder",
-    "stars": 6,
-    "updated_at": "2026-07-22T18:26:39Z",
-    "url": "https://github.com/sujal12344/AI-Companion-Builder"
   }
 ]
