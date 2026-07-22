@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 17:45 UTC
+> ⏰ Last updated: 2026-07-22 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vainiovesa/vector_bible_api](https://github.com/vainiovesa/vector_bible_api) | 0 | Python | 2026-07-22 | Find relevant Bible passages with semantic search |
-| 2 | [pinecone-io/terraform-provider-pinecone](https://github.com/pinecone-io/terraform-provider-pinecone) | 32 | Go | 2026-07-22 | Official Terraform provider for Pinecone  |
-| 3 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 369 | Python | 2026-07-22 | Program that lets you ask questions about your documents, audio, and video files. |
-| 4 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 1 | JavaScript | 2026-07-22 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 5 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 1 | Python | 2026-07-22 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29143 | Python | 2026-07-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6188 | Rust | 2026-07-22 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 11 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10961 | HTML | 2026-07-22 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 12 | [schmitech/orbit](https://github.com/schmitech/orbit) | 312 | Python | 2026-07-22 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45329 | Go | 2026-07-22 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 1 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 1 | JavaScript | 2026-07-22 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45329 | Go | 2026-07-22 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 4 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 369 | Python | 2026-07-22 | Program that lets you ask questions about your documents, audio, and video files. |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [vainiovesa/vector_bible_api](https://github.com/vainiovesa/vector_bible_api) | 0 | Python | 2026-07-22 | Find relevant Bible passages with semantic search |
+| 7 | [pinecone-io/terraform-provider-pinecone](https://github.com/pinecone-io/terraform-provider-pinecone) | 32 | Go | 2026-07-22 | Official Terraform provider for Pinecone  |
+| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29145 | Python | 2026-07-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 9 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 1 | Python | 2026-07-22 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6188 | Rust | 2026-07-22 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 12 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10961 | HTML | 2026-07-22 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 13 | [schmitech/orbit](https://github.com/schmitech/orbit) | 312 | Python | 2026-07-22 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 14 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-07-22 | Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering. |
 | 15 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-07-22 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 16 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58698 | Rust | 2026-07-22 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |

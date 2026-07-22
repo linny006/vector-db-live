@@ -1,5 +1,50 @@
 [
   {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T17:58:36Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45329,
+    "updated_at": "2026-07-22T17:52:43Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-22T17:48:55Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T17:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Find relevant Bible passages with semantic search",
     "id": "vainiovesa/vector_bible_api",
     "language": "Python",
@@ -18,22 +63,13 @@
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-22T17:40:29Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T17:39:01Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+    "name": "topoteretes/cognee",
+    "stars": 29145,
+    "updated_at": "2026-07-22T17:42:35Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-22T17:36:58Z",
+    "updated_at": "2026-07-22T17:57:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -52,33 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T17:34:19Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29143,
-    "updated_at": "2026-07-22T17:42:35Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T17:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T17:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -106,15 +115,6 @@
     "stars": 312,
     "updated_at": "2026-07-22T17:22:43Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45329,
-    "updated_at": "2026-07-22T17:22:43Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -257,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T17:10:18Z",
+    "updated_at": "2026-07-22T17:55:43Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -266,7 +266,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 1,
-    "updated_at": "2026-07-22T16:12:12Z",
+    "updated_at": "2026-07-22T18:00:14Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T17:21:44Z",
+    "updated_at": "2026-07-22T18:00:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
