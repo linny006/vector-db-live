@@ -1,12 +1,84 @@
 [
   {
+    "description": "",
+    "id": "nngochai2/loom",
+    "language": "Python",
+    "name": "nngochai2/loom",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:55:19Z",
+    "url": "https://github.com/nngochai2/loom"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 207,
+    "updated_at": "2026-07-22T02:53:52Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-22T02:53:27Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-22T02:44:26Z",
+    "updated_at": "2026-07-22T02:59:49Z",
     "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 7,
+    "updated_at": "2026-07-22T02:50:25Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-22T02:47:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
+    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "language": "Python",
+    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:46:16Z",
+    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T02:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T02:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T02:42:01Z",
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
-  },
-  {
-    "description": "",
-    "id": "nngochai2/loom",
-    "language": "Python",
-    "name": "nngochai2/loom",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:38:39Z",
-    "url": "https://github.com/nngochai2/loom"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -45,40 +108,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-22T02:37:28Z",
+    "updated_at": "2026-07-22T02:47:57Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-22T02:20:55Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -140,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-22T01:21:55Z",
+    "updated_at": "2026-07-22T02:51:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 6255,
     "updated_at": "2026-07-22T02:02:20Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 7,
-    "updated_at": "2026-07-22T02:43:37Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -319,7 +346,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50990,
+    "stars": 50991,
     "updated_at": "2026-07-21T23:15:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -337,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33484,
+    "stars": 33485,
     "updated_at": "2026-07-21T23:07:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T22:14:31Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
-    "id": "pnoboesam/ghana-constitution-rag",
-    "language": "Python",
-    "name": "pnoboesam/ghana-constitution-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:54:48Z",
-    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
-    "id": "parinbajayebin/pdf-chatbot-rag",
-    "language": "Python",
-    "name": "parinbajayebin/pdf-chatbot-rag",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:29:33Z",
-    "url": "https://github.com/parinbajayebin/pdf-chatbot-rag"
-  },
-  {
-    "description": "Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan",
-    "id": "AasthaPJoshi/RetrievalLab",
-    "language": "Python",
-    "name": "AasthaPJoshi/RetrievalLab",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:27:02Z",
-    "url": "https://github.com/AasthaPJoshi/RetrievalLab"
   }
 ]
