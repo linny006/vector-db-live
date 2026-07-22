@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6257,
+    "updated_at": "2026-07-22T14:12:40Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
+    "id": "prakashprajapati-git/campus-helpdesk-assistant",
+    "language": "TypeScript",
+    "name": "prakashprajapati-git/campus-helpdesk-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:12:36Z",
+    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:12:26Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 85,
+    "updated_at": "2026-07-22T14:10:11Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Secure legislative integrity and digital voting platform powered by RAG (AI) for document analysis.",
+    "id": "hsc00/trust-vote-ai",
+    "language": "TypeScript",
+    "name": "hsc00/trust-vote-ai",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:07:46Z",
+    "url": "https://github.com/hsc00/trust-vote-ai"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 449,
+    "updated_at": "2026-07-22T14:06:07Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T14:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:57:39Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -9,12 +90,21 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "Built a multi-LLM orchestration platform with intent-aware routing, an LLM-judge evaluation layer, and persistent human-",
+    "id": "KK-is-Coding/multi-llm_judge",
+    "language": "Python",
+    "name": "KK-is-Coding/multi-llm_judge",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:55:55Z",
+    "url": "https://github.com/KK-is-Coding/multi-llm_judge"
+  },
+  {
     "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
     "id": "pinecone-io/recommender-example-typescript",
     "language": "TypeScript",
     "name": "pinecone-io/recommender-example-typescript",
     "stars": 57,
-    "updated_at": "2026-07-22T13:54:58Z",
+    "updated_at": "2026-07-22T14:12:33Z",
     "url": "https://github.com/pinecone-io/recommender-example-typescript"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T13:59:47Z",
+    "updated_at": "2026-07-22T14:13:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/Sasireddy001/rag-document-qa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:50:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend for movies recomendations for groups ",
     "id": "Biccamor/Moovy",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:49:41Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
-    "id": "prakashprajapati-git/campus-helpdesk-assistant",
-    "language": "TypeScript",
-    "name": "prakashprajapati-git/campus-helpdesk-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:49:24Z",
-    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -81,13 +153,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:45:34Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33496,
+    "updated_at": "2026-07-22T13:47:48Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -99,21 +171,12 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:43:15Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1863,
-    "updated_at": "2026-07-22T13:37:31Z",
+    "updated_at": "2026-07-22T14:10:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -122,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-22T13:36:55Z",
+    "updated_at": "2026-07-22T14:14:55Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -140,7 +203,7 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 1,
-    "updated_at": "2026-07-22T13:29:47Z",
+    "updated_at": "2026-07-22T14:14:12Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -198,6 +261,15 @@
     "url": "https://github.com/crate/crate"
   },
   {
+    "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
+    "id": "Metaworkers-ai/governedmemory",
+    "language": "Python",
+    "name": "Metaworkers-ai/governedmemory",
+    "stars": 7,
+    "updated_at": "2026-07-22T13:16:40Z",
+    "url": "https://github.com/Metaworkers-ai/governedmemory"
+  },
+  {
     "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
     "id": "IvayloP0709/langchain-pdf-rag",
     "language": "Python",
@@ -238,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29118,
+    "stars": 29120,
     "updated_at": "2026-07-22T13:02:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -297,15 +369,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33494,
-    "updated_at": "2026-07-22T13:47:48Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -313,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T12:19:53Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 449,
-    "updated_at": "2026-07-22T12:19:04Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -356,7 +410,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-22T13:48:47Z",
+    "updated_at": "2026-07-22T14:11:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -367,15 +421,6 @@
     "stars": 207,
     "updated_at": "2026-07-22T12:13:11Z",
     "url": "https://github.com/AlayaDB-AI/AlayaLite"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:57:39Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -392,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T13:49:00Z",
+    "updated_at": "2026-07-22T14:07:30Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T11:41:58Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T11:37:10Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-07-22T11:28:40Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34168,
-    "updated_at": "2026-07-22T11:19:04Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 8,
-    "updated_at": "2026-07-22T11:12:01Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
-    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "language": "Python",
-    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-22T11:09:38Z",
-    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
   }
 ]
