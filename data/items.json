@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T08:15:22Z",
+    "updated_at": "2026-07-22T08:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:28:12Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:26:19Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6256,
+    "updated_at": "2026-07-22T08:26:10Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45319,
+    "updated_at": "2026-07-22T08:24:42Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:20:55Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:20:04Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-22T08:18:14Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:17:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
+    "id": "LangModule/ingestlib-studio",
+    "language": "Python",
+    "name": "LangModule/ingestlib-studio",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:17:37Z",
+    "url": "https://github.com/LangModule/ingestlib-studio"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1862,
+    "updated_at": "2026-07-22T08:30:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T08:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-22T08:15:03Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29079,
+    "updated_at": "2026-07-22T08:13:24Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -16,33 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T08:11:01Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:09:57Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
-  },
-  {
-    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
-    "id": "LangModule/ingestlib",
-    "language": "Python",
-    "name": "LangModule/ingestlib",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:08:45Z",
-    "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:08:28Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -63,20 +153,11 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1862,
-    "updated_at": "2026-07-22T08:06:32Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 54,
+    "stars": 53,
     "updated_at": "2026-07-22T08:05:07Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -88,33 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T08:02:44Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T08:00:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29077,
-    "updated_at": "2026-07-22T08:13:24Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 32,
-    "updated_at": "2026-07-22T08:15:03Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T08:12:00Z",
+    "updated_at": "2026-07-22T08:28:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/mpilhlt/embapi"
   },
   {
-    "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
-    "id": "LangModule/ingestlib-studio",
-    "language": "Python",
-    "name": "LangModule/ingestlib-studio",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:42:59Z",
-    "url": "https://github.com/LangModule/ingestlib-studio"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -189,22 +234,13 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6256,
-    "updated_at": "2026-07-22T07:32:46Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45319,
-    "updated_at": "2026-07-22T07:31:22Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10953,
+    "updated_at": "2026-07-22T07:30:22Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -223,24 +259,6 @@
     "stars": 12664,
     "updated_at": "2026-07-22T07:28:40Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T07:23:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-22T07:54:16Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "The world's first temporally-aware causal vector database. TVIndex + CausalEdge + GPU CAGRA + RS(10,4) 11-nines durabili",
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16632,
-    "updated_at": "2026-07-22T08:13:20Z",
+    "updated_at": "2026-07-22T08:24:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/daandegroot123/weaviate-typescript-example"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T05:48:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
@@ -392,17 +401,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T08:15:02Z",
+    "updated_at": "2026-07-22T08:17:42Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10952,
-    "updated_at": "2026-07-22T07:30:22Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
