@@ -1,5 +1,41 @@
 [
   {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-22T00:42:28Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 110,
+    "updated_at": "2026-07-22T00:39:09Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -18,15 +54,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-22T00:30:02Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 311,
     "updated_at": "2026-07-22T00:29:37Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-22T00:24:35Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -61,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T00:22:04Z",
     "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T00:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T00:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An embedded vector database backed by immutable Git snapshots",
@@ -202,7 +202,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50987,
+    "stars": 50988,
     "updated_at": "2026-07-21T23:15:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -211,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63652,
+    "stars": 63653,
     "updated_at": "2026-07-21T23:11:11Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -256,7 +256,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45306,
+    "stars": 45307,
     "updated_at": "2026-07-21T22:55:13Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -383,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1035,
-    "updated_at": "2026-07-21T21:33:50Z",
+    "updated_at": "2026-07-22T00:42:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1604,
-    "updated_at": "2026-07-21T23:13:38Z",
+    "updated_at": "2026-07-22T00:44:30Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {

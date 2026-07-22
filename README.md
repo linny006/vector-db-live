@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 00:30 UTC
+> ⏰ Last updated: 2026-07-22 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-22 |  |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [nambok/mentedb](https://github.com/nambok/mentedb) | 110 | Rust | 2026-07-22 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 4 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-22 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 5 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-07-22 | Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering. |
-| 6 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 7 | Python | 2026-07-22 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
-| 7 | [thomas-villani/localvectordb](https://github.com/thomas-villani/localvectordb) | 1 | Python | 2026-07-22 | Document-first sqlite3+faiss vector database |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-07-22 | Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering. |
+| 2 | [nambok/mentedb](https://github.com/nambok/mentedb) | 110 | Rust | 2026-07-22 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-07-22 |  |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | 311 | Python | 2026-07-22 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 8 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 7 | Python | 2026-07-22 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
+| 9 | [thomas-villani/localvectordb](https://github.com/thomas-villani/localvectordb) | 1 | Python | 2026-07-22 | Document-first sqlite3+faiss vector database |
 | 10 | [nishu-builder/git-vdb](https://github.com/nishu-builder/git-vdb) | 0 | Rust | 2026-07-22 | An embedded vector database backed by immutable Git snapshots |
 | 11 | [aramradif/Enterprise-AI-Platform](https://github.com/aramradif/Enterprise-AI-Platform) | 0 | Python | 2026-07-22 | Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c |
 | 12 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-07-22 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
@@ -64,13 +64,13 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 123 | Rust | 2026-07-21 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
 | 21 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 20 | Python | 2026-07-21 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
 | 22 | [sil3d/MATHIR](https://github.com/sil3d/MATHIR) | 2 | Python | 2026-07-21 | Memory-Augmented Tensor Hybrid with Intelligent Routing |
-| 23 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50987 | Python | 2026-07-21 | LlamaIndex is the leading document agent and OCR platform |
-| 24 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 63652 | JavaScript | 2026-07-21 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 23 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50988 | Python | 2026-07-21 | LlamaIndex is the leading document agent and OCR platform |
+| 24 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 63653 | JavaScript | 2026-07-21 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 25 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33480 | Rust | 2026-07-21 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 26 | [darylalim/rag-pipeline](https://github.com/darylalim/rag-pipeline) | 0 | Python | 2026-07-21 | Retrieval-Augmented Generation with LangChain, Voyage AI embeddings + reranking, Chroma, and Claude — a CLI and a Stream |
 | 27 | [MariaDB/server](https://github.com/MariaDB/server) | 7882 | C++ | 2026-07-21 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 28 | [KeiaiLab/qdrant-operator](https://github.com/KeiaiLab/qdrant-operator) | 0 | Go | 2026-07-21 | Kubernetes operator for the Qdrant vector database — declarative QdrantCluster provisioning, verified field-by-field aga |
-| 29 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45306 | Go | 2026-07-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 29 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45307 | Go | 2026-07-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 30 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 822 | TypeScript | 2026-07-21 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
 | 31 | [Vansh-7/Vector-DB-RAG-pipeline](https://github.com/Vansh-7/Vector-DB-RAG-pipeline) | 0 | TypeScript | 2026-07-21 | Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B |
 | 32 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2197 | JavaScript | 2026-07-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
@@ -84,13 +84,13 @@ expired items removed — so you can rely on what you see being current.
 | 40 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1861 | Go | 2026-07-21 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 41 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 517 | Rust | 2026-07-21 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
 | 42 | [opencrawling/open-ingestion-standard](https://github.com/opencrawling/open-ingestion-standard) | 1 | — | 2026-07-21 | Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat |
-| 43 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1035 | Java | 2026-07-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 43 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1035 | Java | 2026-07-22 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 44 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 125 | C# | 2026-07-21 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
 | 45 | [siaarzh/scrybe](https://github.com/siaarzh/scrybe) | 3 | TypeScript | 2026-07-21 | Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu |
 | 46 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58693 | Rust | 2026-07-21 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | 47 | [casper-vdb/Casper](https://github.com/casper-vdb/Casper) | 18 | — | 2026-07-21 | ⚡ World’s Fastest Vector Database for AI & RAG  |
 | 48 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1446 | Clojure | 2026-07-21 | A simple, fast and versatile Datalog database |
-| 49 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1604 | Python | 2026-07-21 | Unified multimodal backend for AI data apps |
+| 49 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1604 | Python | 2026-07-22 | Unified multimodal backend for AI data apps |
 | 50 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-21 | The Ultimate Vectors Library for Java |
 <!-- TRACKER_TABLE_END -->
 
