@@ -1,12 +1,21 @@
 [
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:44:53Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T09:00:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29085,
+    "updated_at": "2026-07-22T09:03:55Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +23,44 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1862,
-    "updated_at": "2026-07-22T08:43:19Z",
+    "updated_at": "2026-07-22T08:53:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:49:06Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T09:04:53Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
+    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "language": "HTML",
+    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:48:19Z",
+    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:48:07Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   },
   {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
@@ -23,8 +68,35 @@
     "language": "JavaScript",
     "name": "DeveloperChetram/Contextual_Chatbot_React",
     "stars": 0,
-    "updated_at": "2026-07-22T08:43:06Z",
+    "updated_at": "2026-07-22T08:46:42Z",
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-07-22T08:46:22Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T08:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:44:53Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
@@ -54,15 +126,6 @@
     "url": "https://github.com/avnlp/vectordb"
   },
   {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:34:05Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -72,15 +135,6 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T08:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
     "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T08:30:26Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T08:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -121,7 +166,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45319,
+    "stars": 45320,
     "updated_at": "2026-07-22T08:24:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -160,33 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T08:17:37Z",
     "url": "https://github.com/LangModule/ingestlib-studio"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29081,
-    "updated_at": "2026-07-22T08:13:24Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T08:41:21Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:13:08Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T08:34:55Z",
+    "updated_at": "2026-07-22T09:04:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16632,
-    "updated_at": "2026-07-22T08:24:40Z",
+    "updated_at": "2026-07-22T09:03:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -418,7 +436,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34161,
+    "stars": 34162,
     "updated_at": "2026-07-22T05:08:55Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 1036,
     "updated_at": "2026-07-22T06:55:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7882,
-    "updated_at": "2026-07-22T08:17:42Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-22T04:39:41Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   }
 ]
