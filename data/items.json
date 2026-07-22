@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T15:45:23Z",
+    "updated_at": "2026-07-22T16:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58697,
+    "updated_at": "2026-07-22T16:00:19Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
+    "id": "pinecone-io/pinecone-api",
+    "language": "\u2014",
+    "name": "pinecone-io/pinecone-api",
+    "stars": 9,
+    "updated_at": "2026-07-22T15:56:39Z",
+    "url": "https://github.com/pinecone-io/pinecone-api"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-07-22T15:56:18Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-22T15:55:49Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:55:12Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:49:18Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T15:46:19Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "LLM App to demystify and summarize Terms and Conditions agreements",
+    "id": "dsba6010-llm-applications/baemax_tc",
+    "language": "Jupyter Notebook",
+    "name": "dsba6010-llm-applications/baemax_tc",
+    "stars": 6,
+    "updated_at": "2026-07-22T15:46:13Z",
+    "url": "https://github.com/dsba6010-llm-applications/baemax_tc"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-22T15:41:01Z",
+    "updated_at": "2026-07-22T15:45:32Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:43:16Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:40:20Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58697,
-    "updated_at": "2026-07-22T15:39:24Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -90,15 +162,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-22T15:27:26Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 1036,
     "updated_at": "2026-07-22T15:24:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:22:57Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -230,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T15:27:33Z",
+    "updated_at": "2026-07-22T15:56:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -328,8 +382,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29129,
-    "updated_at": "2026-07-22T14:18:43Z",
+    "stars": 29130,
+    "updated_at": "2026-07-22T15:58:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:57:39Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:55:55Z",
     "url": "https://github.com/KK-is-Coding/multi-llm_judge"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:53:23Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-22T15:39:50Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Backend for movies recomendations for groups ",
-    "id": "Biccamor/Moovy",
-    "language": "Python",
-    "name": "Biccamor/Moovy",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:49:41Z",
-    "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12742,
-    "updated_at": "2026-07-22T13:50:44Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7882,
-    "updated_at": "2026-07-22T14:40:29Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
