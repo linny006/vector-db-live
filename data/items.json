@@ -5,17 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T18:45:21Z",
+    "updated_at": "2026-07-22T19:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:56:09Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-07-22T18:55:04Z",
+    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
     "id": "krish1925/AECP",
     "language": "Python",
     "name": "krish1925/AECP",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:44:58Z",
+    "stars": 4,
+    "updated_at": "2026-07-22T18:54:37Z",
     "url": "https://github.com/krish1925/AECP"
+  },
+  {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:53:31Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:53:03Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T18:51:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "nithishkrishna21/ScholarAgent",
+    "language": "Python",
+    "name": "nithishkrishna21/ScholarAgent",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:47:33Z",
+    "url": "https://github.com/nithishkrishna21/ScholarAgent"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 312,
+    "updated_at": "2026-07-22T18:45:51Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:45:35Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1036,
+    "updated_at": "2026-07-22T18:48:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
@@ -36,15 +126,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T18:41:37Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
     "id": "TAIPANBOX/engram",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T18:39:27Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:33:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
@@ -81,15 +153,6 @@
     "url": "https://github.com/libraz/nvecd"
   },
   {
-    "description": "The Personal AI Assistant that connects every channel you use.",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 2,
-    "updated_at": "2026-07-22T18:30:46Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -99,15 +162,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T18:26:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
     "id": "sujal12344/AI-Companion-Builder",
     "language": "TypeScript",
@@ -115,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-07-22T18:26:39Z",
     "url": "https://github.com/sujal12344/AI-Companion-Builder"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T18:25:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "Dakera-AI/dakera-js",
     "stars": 1,
-    "updated_at": "2026-07-22T18:05:59Z",
+    "updated_at": "2026-07-22T18:59:23Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
   },
   {
@@ -220,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29152,
+    "stars": 29154,
     "updated_at": "2026-07-22T17:42:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -232,15 +277,6 @@
     "stars": 10961,
     "updated_at": "2026-07-22T17:29:08Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 312,
-    "updated_at": "2026-07-22T17:22:43Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -333,15 +369,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1036,
-    "updated_at": "2026-07-22T18:44:02Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T18:33:42Z",
+    "updated_at": "2026-07-22T18:47:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-22T15:46:13Z",
     "url": "https://github.com/dsba6010-llm-applications/baemax_tc"
-  },
-  {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:43:16Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 9,
-    "updated_at": "2026-07-22T15:39:23Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Scala client for Pinecone vector database",
-    "id": "cequence-io/pinecone-scala",
-    "language": "Scala",
-    "name": "cequence-io/pinecone-scala",
-    "stars": 19,
-    "updated_at": "2026-07-22T15:32:15Z",
-    "url": "https://github.com/cequence-io/pinecone-scala"
   }
 ]
