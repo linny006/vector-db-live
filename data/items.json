@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:58:48Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-22T19:58:18Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:58:18Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T19:57:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -7,6 +43,15 @@
     "stars": 32,
     "updated_at": "2026-07-22T19:57:08Z",
     "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-22T19:56:25Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
     "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
@@ -36,24 +81,6 @@
     "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:48:21Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "The Personal AI Assistant that connects every channel you use.",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-22T19:47:56Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
     "id": "vpeetla-ai/enterprise_rag_platform",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T19:47:30Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T19:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -324,15 +342,6 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-22T19:56:25Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T16:42:11Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-22T16:36:39Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
