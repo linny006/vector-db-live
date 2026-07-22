@@ -1,5 +1,23 @@
 [
   {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:58:21Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T09:58:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
     "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "AP24110011041/veritas-ai",
     "stars": 0,
-    "updated_at": "2026-07-22T09:52:25Z",
+    "updated_at": "2026-07-22T09:59:42Z",
     "url": "https://github.com/AP24110011041/veritas-ai"
   },
   {
@@ -50,17 +68,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T09:45:27Z",
+    "updated_at": "2026-07-22T10:00:28Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29089,
-    "updated_at": "2026-07-22T09:46:42Z",
+    "updated_at": "2026-07-22T10:00:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10954,
     "updated_at": "2026-07-22T07:30:22Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:29:18Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
