@@ -1,21 +1,120 @@
 [
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:13:19Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T09:08:05Z",
+    "updated_at": "2026-07-22T09:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
+    "id": "krish1925/AECP",
+    "language": "Python",
+    "name": "krish1925/AECP",
+    "stars": 3,
+    "updated_at": "2026-07-22T09:29:49Z",
+    "url": "https://github.com/krish1925/AECP"
+  },
+  {
+    "description": "A minimalistic, pure-Python vector database for semantic search and RAG applications, featuring Vamana graph indexing an",
+    "id": "pragmaticcs/trovadb",
+    "language": "Python",
+    "name": "pragmaticcs/trovadb",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:28:31Z",
+    "url": "https://github.com/pragmaticcs/trovadb"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 5,
+    "updated_at": "2026-07-22T09:27:37Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:26:55Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 10,
+    "updated_at": "2026-07-22T09:26:52Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
+    "id": "gorigesravani288-cmd/RepoMind",
+    "language": "Python",
+    "name": "gorigesravani288-cmd/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:25:12Z",
+    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:29:27Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
+    "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "language": "Python",
+    "name": "Yugandhar-112/MultiDoc-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:22:50Z",
+    "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:20:25Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:19:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
+    "id": "AP24110011041/veritas-ai",
+    "language": "TypeScript",
+    "name": "AP24110011041/veritas-ai",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:16:18Z",
+    "url": "https://github.com/AP24110011041/veritas-ai"
+  },
+  {
+    "description": "AI-powered RAG system that answers questions from your own documents using Gemini 2.5 Flash, LangChain & FAISS vector da",
+    "id": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
+    "language": "Python",
+    "name": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:15:50Z",
+    "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-22T09:05:34Z",
+    "updated_at": "2026-07-22T09:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -40,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29085,
+    "stars": 29088,
     "updated_at": "2026-07-22T09:03:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -52,15 +151,6 @@
     "stars": 1862,
     "updated_at": "2026-07-22T08:53:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:49:06Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
@@ -126,15 +216,6 @@
     "url": "https://github.com/avnlp/vectordb"
   },
   {
-    "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
-    "id": "AP24110011041/veritas-ai",
-    "language": "TypeScript",
-    "name": "AP24110011041/veritas-ai",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:35:55Z",
-    "url": "https://github.com/AP24110011041/veritas-ai"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -167,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6256,
-    "updated_at": "2026-07-22T09:10:22Z",
+    "updated_at": "2026-07-22T09:18:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -176,7 +257,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45320,
-    "updated_at": "2026-07-22T08:24:42Z",
+    "updated_at": "2026-07-22T09:22:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 16,
     "updated_at": "2026-07-22T08:18:14Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:17:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
@@ -257,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T09:10:37Z",
+    "updated_at": "2026-07-22T09:23:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-22T07:33:13Z",
+    "updated_at": "2026-07-22T09:22:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 4416,
     "updated_at": "2026-07-22T07:16:58Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:28:56Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 354,
-    "updated_at": "2026-07-22T06:19:39Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
-    "updated_at": "2026-07-22T06:12:09Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "An example showing how to use Weaviate in a TypeScript/JavaScript project, including test data and embedder projection",
-    "id": "daandegroot123/weaviate-typescript-example",
-    "language": "TypeScript",
-    "name": "daandegroot123/weaviate-typescript-example",
-    "stars": 7,
-    "updated_at": "2026-07-22T05:51:21Z",
-    "url": "https://github.com/daandegroot123/weaviate-typescript-example"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-22T06:23:31Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-07-22T05:40:53Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "A comprehensive, hands-on bootcamp covering everything you need to build sophisticated RAG applications, from core conce",
-    "id": "mdzaheerjk/Complete-RAG-Bootcamp",
-    "language": "Jupyter Notebook",
-    "name": "mdzaheerjk/Complete-RAG-Bootcamp",
-    "stars": 0,
-    "updated_at": "2026-07-22T05:40:11Z",
-    "url": "https://github.com/mdzaheerjk/Complete-RAG-Bootcamp"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34162,
-    "updated_at": "2026-07-22T05:08:55Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
