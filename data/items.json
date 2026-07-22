@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:45:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12742,
+    "updated_at": "2026-07-22T13:43:53Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:43:50Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:43:15Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -34,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:33:18Z",
     "url": "https://github.com/Sasireddy001/rag-document-qa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T13:38:05Z",
+    "updated_at": "2026-07-22T13:48:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:43:15Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33494,
-    "updated_at": "2026-07-22T13:21:50Z",
+    "updated_at": "2026-07-22T13:47:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9389,
-    "updated_at": "2026-07-22T13:26:15Z",
+    "updated_at": "2026-07-22T13:48:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -329,17 +347,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T13:38:46Z",
+    "updated_at": "2026-07-22T13:49:00Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12742,
-    "updated_at": "2026-07-22T13:43:53Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -401,7 +410,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 0,
-    "updated_at": "2026-07-22T11:08:16Z",
+    "updated_at": "2026-07-22T13:49:22Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "prakashprajapati-git/campus-helpdesk-assistant",
     "stars": 0,
-    "updated_at": "2026-07-22T11:00:55Z",
+    "updated_at": "2026-07-22T13:49:24Z",
     "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:10:45Z",
     "url": "https://github.com/hsc00/trust-vote-ai"
-  },
-  {
-    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:47:28Z",
-    "url": "https://github.com/piyalidas10/AI"
   }
 ]
