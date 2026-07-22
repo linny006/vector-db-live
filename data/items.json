@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-22T06:58:18Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T06:55:34Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-22T06:54:52Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1862,
+    "updated_at": "2026-07-22T06:51:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-07-22T06:50:42Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-22T06:59:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T06:42:39Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T06:43:09Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:44:21Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -54,15 +99,6 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -77,8 +113,17 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T06:40:49Z",
+    "updated_at": "2026-07-22T07:00:03Z",
     "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 353,
+    "updated_at": "2026-07-22T06:19:39Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -135,15 +180,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1862,
-    "updated_at": "2026-07-22T05:47:26Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -166,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29070,
+    "stars": 29071,
     "updated_at": "2026-07-22T05:17:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -175,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34159,
+    "stars": 34160,
     "updated_at": "2026-07-22T05:08:55Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1036,
-    "updated_at": "2026-07-22T05:08:43Z",
+    "updated_at": "2026-07-22T06:55:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6256,
     "updated_at": "2026-07-22T02:02:20Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-07-22T01:56:28Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:23:56Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "Absurdly fast embedded graph database with built-in vector search. Rust core, Node.js and Python connectors, GQL, graph ",
-    "id": "bhensley5/overgraph",
-    "language": "Rust",
-    "name": "bhensley5/overgraph",
-    "stars": 20,
-    "updated_at": "2026-07-22T01:19:31Z",
-    "url": "https://github.com/bhensley5/overgraph"
-  },
-  {
-    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
-    "id": "MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform",
-    "language": "Python",
-    "name": "MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T05:08:29Z",
-    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform"
   }
 ]
