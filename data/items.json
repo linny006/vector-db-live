@@ -1,5 +1,95 @@
 [
   {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:30:11Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:28:43Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-22T15:27:26Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
+    "id": "Project-Navi/ordinaldb",
+    "language": "Rust",
+    "name": "Project-Navi/ordinaldb",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:24:19Z",
+    "url": "https://github.com/Project-Navi/ordinaldb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1036,
+    "updated_at": "2026-07-22T15:24:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:22:57Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:20:07Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
+    "id": "sujal12344/AI-Companion-Builder",
+    "language": "TypeScript",
+    "name": "sujal12344/AI-Companion-Builder",
+    "stars": 6,
+    "updated_at": "2026-07-22T15:19:47Z",
+    "url": "https://github.com/sujal12344/AI-Companion-Builder"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-22T15:15:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,35 +113,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-22T15:12:34Z",
+    "updated_at": "2026-07-22T15:30:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:06:15Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-22T15:03:19Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -85,7 +148,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45325,
+    "stars": 45326,
     "updated_at": "2026-07-22T14:52:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33497,
-    "updated_at": "2026-07-22T15:06:09Z",
+    "updated_at": "2026-07-22T15:28:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T15:00:31Z",
+    "updated_at": "2026-07-22T15:27:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -144,24 +207,6 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
-    "id": "Project-Navi/ordinaldb",
-    "language": "Rust",
-    "name": "Project-Navi/ordinaldb",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:10:38Z",
-    "url": "https://github.com/Project-Navi/ordinaldb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1036,
-    "updated_at": "2026-07-22T14:39:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:35:13Z",
     "url": "https://github.com/Sasireddy001/rag-document-qa"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 3,
-    "updated_at": "2026-07-22T14:33:53Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -247,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29127,
+    "stars": 29129,
     "updated_at": "2026-07-22T14:18:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -268,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:12:26Z",
     "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-22T14:10:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
     "stars": 449,
-    "updated_at": "2026-07-22T14:06:07Z",
+    "updated_at": "2026-07-22T15:26:09Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12666,
-    "updated_at": "2026-07-22T14:05:53Z",
+    "updated_at": "2026-07-22T15:24:19Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T15:03:00Z",
+    "updated_at": "2026-07-22T15:30:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
-    "id": "sujal12344/AI-Companion-Builder",
-    "language": "TypeScript",
-    "name": "sujal12344/AI-Companion-Builder",
-    "stars": 6,
-    "updated_at": "2026-07-22T13:28:55Z",
-    "url": "https://github.com/sujal12344/AI-Companion-Builder"
-  },
-  {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4416,
     "updated_at": "2026-07-22T15:15:05Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
-    "id": "Metaworkers-ai/governedmemory",
-    "language": "Python",
-    "name": "Metaworkers-ai/governedmemory",
-    "stars": 7,
-    "updated_at": "2026-07-22T13:16:40Z",
-    "url": "https://github.com/Metaworkers-ai/governedmemory"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:15:30Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   }
 ]
