@@ -1,11 +1,74 @@
 [
   {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-22T19:29:12Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33503,
+    "updated_at": "2026-07-22T19:23:10Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 312,
+    "updated_at": "2026-07-22T19:21:58Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:21:36Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:15:47Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:15:34Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T19:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T19:15:20Z",
+    "updated_at": "2026-07-22T19:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,6 +90,15 @@
     "url": "https://github.com/Dakera-AI/dakera-cli"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7883,
+    "updated_at": "2026-07-22T19:08:30Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -36,24 +108,6 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:06:20Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "The Personal AI Assistant that connects every channel you use.",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-22T19:11:56Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T19:08:51Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T19:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-07-22T18:53:03Z",
+    "updated_at": "2026-07-22T19:24:49Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -117,6 +162,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1037,
+    "updated_at": "2026-07-22T19:24:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "",
     "id": "nithishkrishna21/ScholarAgent",
     "language": "Python",
@@ -126,15 +180,6 @@
     "url": "https://github.com/nithishkrishna21/ScholarAgent"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 312,
-    "updated_at": "2026-07-22T18:45:51Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -142,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T18:45:35Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1036,
-    "updated_at": "2026-07-22T18:48:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "pinecone-io/terraform-provider-pinecone",
     "stars": 32,
-    "updated_at": "2026-07-22T17:42:47Z",
+    "updated_at": "2026-07-22T19:24:36Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   },
   {
@@ -283,7 +319,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29156,
+    "stars": 29157,
     "updated_at": "2026-07-22T17:42:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -306,15 +342,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T17:20:38Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -322,15 +349,6 @@
     "stars": 58698,
     "updated_at": "2026-07-22T17:19:44Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:17:08Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -376,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T16:42:11Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33502,
-    "updated_at": "2026-07-22T18:33:08Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-22T15:55:12Z",
     "url": "https://github.com/XploitMonk0x01/crimegpt"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:49:18Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   }
 ]
