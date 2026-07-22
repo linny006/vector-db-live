@@ -1,5 +1,68 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 31,
+    "updated_at": "2026-07-22T05:52:04Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "An example showing how to use Weaviate in a TypeScript/JavaScript project, including test data and embedder projection",
+    "id": "daandegroot123/weaviate-typescript-example",
+    "language": "TypeScript",
+    "name": "daandegroot123/weaviate-typescript-example",
+    "stars": 7,
+    "updated_at": "2026-07-22T05:51:21Z",
+    "url": "https://github.com/daandegroot123/weaviate-typescript-example"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-22T05:48:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 110,
+    "updated_at": "2026-07-22T05:56:40Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1861,
+    "updated_at": "2026-07-22T05:47:26Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "JavaScript",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 2,
+    "updated_at": "2026-07-22T05:45:39Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T05:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,58 +90,13 @@
     "url": "https://github.com/mdzaheerjk/Complete-RAG-Bootcamp"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 31,
-    "updated_at": "2026-07-22T05:40:09Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
-    "updated_at": "2026-07-22T05:38:47Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T05:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29061,
+    "stars": 29063,
     "updated_at": "2026-07-22T05:17:50Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1861,
-    "updated_at": "2026-07-22T05:11:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-22T05:42:21Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -333,15 +351,6 @@
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:32:14Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T00:16:54Z",
     "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
-    "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
-    "id": "aramradif/Enterprise-AI-Platform",
-    "language": "Python",
-    "name": "aramradif/Enterprise-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T00:09:36Z",
-    "url": "https://github.com/aramradif/Enterprise-AI-Platform"
   }
 ]
