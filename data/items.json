@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:59:44Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
+    "language": "Python",
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:58:09Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
+    "id": "memo-fs/memofs",
+    "language": "TypeScript",
+    "name": "memo-fs/memofs",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:55:28Z",
+    "url": "https://github.com/memo-fs/memofs"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:55:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:50:41Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:48:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
     "id": "chrisleekr/langchain-playground",
     "language": "TypeScript",
     "name": "chrisleekr/langchain-playground",
     "stars": 5,
-    "updated_at": "2026-07-21T23:43:10Z",
+    "updated_at": "2026-07-21T23:52:55Z",
     "url": "https://github.com/chrisleekr/langchain-playground"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 110,
+    "updated_at": "2026-07-21T23:58:55Z",
+    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-21T23:40:55Z",
+    "updated_at": "2026-07-21T23:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:45:12Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -25,15 +106,6 @@
     "stars": 123,
     "updated_at": "2026-07-21T23:43:24Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:34:11Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -54,15 +126,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 20,
     "updated_at": "2026-07-21T23:32:15Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:19:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
@@ -94,27 +148,27 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50986,
+    "stars": 50987,
     "updated_at": "2026-07-21T23:15:32Z",
     "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 63652,
+    "updated_at": "2026-07-21T23:11:11Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33479,
+    "stars": 33480,
     "updated_at": "2026-07-21T23:07:55Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
-    "id": "memo-fs/memofs",
-    "language": "TypeScript",
-    "name": "memo-fs/memofs",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:35:57Z",
-    "url": "https://github.com/memo-fs/memofs"
   },
   {
     "description": "Retrieval-Augmented Generation with LangChain, Voyage AI embeddings + reranking, Chroma, and Claude \u2014 a CLI and a Stream",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T23:01:34Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-21T22:57:59Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Kubernetes operator for the Qdrant vector database \u2014 declarative QdrantCluster provisioning, verified field-by-field aga",
@@ -160,15 +205,6 @@
     "stars": 45305,
     "updated_at": "2026-07-21T22:55:13Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:55:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-21T22:46:18Z",
+    "updated_at": "2026-07-21T23:59:45Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 311,
     "updated_at": "2026-07-21T22:46:06Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:45:12Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T21:54:48Z",
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-21T22:12:22Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Production-ready RAG chatbot for PDFs \u2014 local HuggingFace embeddings, ChromaDB vector store, and OpenRouter LLM integrat",
@@ -373,7 +391,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58691,
+    "stars": 58692,
     "updated_at": "2026-07-21T20:54:24Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T20:43:01Z",
     "url": "https://github.com/MassivDash/ai_tools"
-  },
-  {
-    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
-    "id": "tpt-solutions/tpt-ai-agents",
-    "language": "Rust",
-    "name": "tpt-solutions/tpt-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:07:13Z",
-    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 52,
-    "updated_at": "2026-07-21T21:58:31Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
