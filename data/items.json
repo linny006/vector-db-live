@@ -1,5 +1,59 @@
 [
   {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 9,
+    "updated_at": "2026-07-22T15:39:23Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Scala client for Pinecone vector database",
+    "id": "cequence-io/pinecone-scala",
+    "language": "Scala",
+    "name": "cequence-io/pinecone-scala",
+    "stars": 19,
+    "updated_at": "2026-07-22T15:32:15Z",
+    "url": "https://github.com/cequence-io/pinecone-scala"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T15:30:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:30:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:30:15Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
     "id": "eugen-goebel/smart-doc-qa",
     "language": "Python",
@@ -7,6 +61,24 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:30:11Z",
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33497,
+    "updated_at": "2026-07-22T15:28:09Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 311,
+    "updated_at": "2026-07-22T15:27:26Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -18,13 +90,13 @@
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-22T15:27:26Z",
-    "url": "https://github.com/schmitech/orbit"
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 449,
+    "updated_at": "2026-07-22T15:26:09Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
@@ -81,24 +153,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:12:35Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:30:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -130,9 +175,18 @@
     "id": "CaviraOSS/OpenMemory",
     "language": "TypeScript",
     "name": "CaviraOSS/OpenMemory",
-    "stars": 4360,
+    "stars": 4361,
     "updated_at": "2026-07-22T14:58:23Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58697,
+    "updated_at": "2026-07-22T15:39:24Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T14:51:42Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33497,
-    "updated_at": "2026-07-22T15:28:09Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -216,15 +261,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58699,
-    "updated_at": "2026-07-22T14:56:31Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
     "id": "Sasireddy001/rag-document-qa",
     "language": "Python",
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6257,
-    "updated_at": "2026-07-22T14:53:55Z",
+    "updated_at": "2026-07-22T15:40:46Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/hsc00/trust-vote-ai"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 449,
-    "updated_at": "2026-07-22T15:26:09Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T15:30:08Z",
+    "updated_at": "2026-07-22T15:39:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -401,7 +428,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 0,
-    "updated_at": "2026-07-22T13:49:22Z",
+    "updated_at": "2026-07-22T15:40:20Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7882,
     "updated_at": "2026-07-22T14:40:29Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 10,
-    "updated_at": "2026-07-22T13:20:57Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
-    "id": "234194027-cpu/aion-memory-nexus",
-    "language": "Python",
-    "name": "234194027-cpu/aion-memory-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:19:05Z",
-    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-07-22T15:15:05Z",
-    "url": "https://github.com/crate/crate"
   }
 ]
