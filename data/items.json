@@ -5,17 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T08:00:27Z",
+    "updated_at": "2026-07-22T08:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T08:11:01Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:09:57Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:08:45Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:08:28Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:13:08Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1400,
+    "updated_at": "2026-07-22T08:06:37Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1862,
+    "updated_at": "2026-07-22T08:06:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 54,
+    "updated_at": "2026-07-22T08:05:07Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 3,
+    "updated_at": "2026-07-22T08:02:44Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T08:00:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29076,
-    "updated_at": "2026-07-22T08:00:06Z",
+    "stars": 29077,
+    "updated_at": "2026-07-22T08:13:24Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-22T08:15:03Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
@@ -36,58 +135,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:54:32Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 32,
-    "updated_at": "2026-07-22T07:59:59Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-22T07:51:55Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T07:50:35Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6188,
-    "updated_at": "2026-07-22T08:00:21Z",
+    "updated_at": "2026-07-22T08:12:00Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:48:59Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T07:46:21Z",
     "url": "https://github.com/mpilhlt/embapi"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
@@ -180,15 +225,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
-    "id": "LangModule/ingestlib",
-    "language": "Python",
-    "name": "LangModule/ingestlib",
-    "stars": 2,
-    "updated_at": "2026-07-22T07:25:29Z",
-    "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16632,
-    "updated_at": "2026-07-22T07:48:26Z",
+    "updated_at": "2026-07-22T08:13:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 119,
     "updated_at": "2026-07-22T07:00:51Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1862,
-    "updated_at": "2026-07-22T06:51:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -286,15 +313,6 @@
     "stars": 354,
     "updated_at": "2026-07-22T06:19:39Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-22T06:28:36Z",
-    "url": "https://github.com/milvus-io/pymilvus"
   },
   {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
@@ -374,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T07:58:17Z",
+    "updated_at": "2026-07-22T08:15:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/1Vewton/WikiSpider"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 53,
-    "updated_at": "2026-07-22T04:15:25Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T04:14:51Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7026,
-    "updated_at": "2026-07-22T04:05:56Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
