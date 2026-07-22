@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T12:00:26Z",
+    "updated_at": "2026-07-22T12:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:13:27Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:10:38Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9389,
+    "updated_at": "2026-07-22T12:09:52Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 207,
+    "updated_at": "2026-07-22T12:13:11Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T12:06:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58698,
+    "updated_at": "2026-07-22T12:06:19Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI Data Security Auditor agent for Agency Swarm / Agencii: scans documents and vector stores (Chroma, OpenAI) for expose",
+    "id": "Agenvana/ragleakguard-agent",
+    "language": "Python",
+    "name": "Agenvana/ragleakguard-agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:04:15Z",
+    "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29107,
+    "updated_at": "2026-07-22T12:14:47Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T12:14:24Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T12:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:59:32Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -16,24 +115,6 @@
     "stars": 369,
     "updated_at": "2026-07-22T11:54:43Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:53:51Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29104,
-    "updated_at": "2026-07-22T11:52:23Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -49,18 +130,9 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1862,
+    "stars": 1863,
     "updated_at": "2026-07-22T11:47:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T11:59:07Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -72,15 +144,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T11:59:32Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -88,15 +151,6 @@
     "stars": 16633,
     "updated_at": "2026-07-22T11:51:56Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:42:11Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-07-22T11:28:40Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T11:15:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The holographic core for leOS",
@@ -230,7 +275,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2198,
-    "updated_at": "2026-07-22T11:40:53Z",
+    "updated_at": "2026-07-22T12:14:29Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33493,
-    "updated_at": "2026-07-22T10:32:20Z",
+    "updated_at": "2026-07-22T12:13:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 55,
-    "updated_at": "2026-07-22T10:22:40Z",
+    "updated_at": "2026-07-22T12:10:50Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T10:20:49Z",
     "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58697,
-    "updated_at": "2026-07-22T10:15:13Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -329,7 +365,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12665,
-    "updated_at": "2026-07-22T11:54:42Z",
+    "updated_at": "2026-07-22T12:04:13Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 6257,
     "updated_at": "2026-07-22T09:53:06Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:52:18Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:26:57Z",
     "url": "https://github.com/Tusha8010/-Metapercept_AI-Assessment"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 10,
-    "updated_at": "2026-07-22T09:26:52Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
-    "id": "gorigesravani288-cmd/RepoMind",
-    "language": "Python",
-    "name": "gorigesravani288-cmd/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:25:12Z",
-    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
-  },
-  {
-    "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
-    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "language": "HTML",
-    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:48:19Z",
-    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   }
 ]
