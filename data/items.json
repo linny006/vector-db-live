@@ -1,5 +1,59 @@
 [
   {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T10:44:00Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Production-grade Retrieval-Augmented Generation (RAG) system for evidence-grounded equity research over SEC filings and ",
+    "id": "Narendersingh007/equity-research-ai",
+    "language": "Python",
+    "name": "Narendersingh007/equity-research-ai",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:41:37Z",
+    "url": "https://github.com/Narendersingh007/equity-research-ai"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:41:26Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12742,
+    "updated_at": "2026-07-22T10:44:38Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-powered Industrial Knowledge Intelligence platform \u2014 unifies engineering manuals, work orders, P&IDs, and regulations",
     "id": "DEADEND-47/CogniPlant",
     "language": "JavaScript",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T10:24:37Z",
+    "updated_at": "2026-07-22T10:36:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -45,21 +99,12 @@
     "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:20:26Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29091,
-    "updated_at": "2026-07-22T10:18:48Z",
+    "stars": 29093,
+    "updated_at": "2026-07-22T10:44:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -70,33 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T10:17:52Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12742,
-    "updated_at": "2026-07-22T10:20:58Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -139,7 +157,7 @@
     "id": "AP24110011041/veritas-ai",
     "language": "TypeScript",
     "name": "AP24110011041/veritas-ai",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T09:59:42Z",
     "url": "https://github.com/AP24110011041/veritas-ai"
   },
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33490,
-    "updated_at": "2026-07-22T10:22:37Z",
+    "updated_at": "2026-07-22T10:32:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-22T09:04:53Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "Searchable, leveled learning map of AI/ML tools \u2014 each with a Read link + the code, sorted by concept depth (Level 0\u21924).",
     "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
     "language": "HTML",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 95,
-    "updated_at": "2026-07-22T08:37:05Z",
+    "updated_at": "2026-07-22T10:44:29Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1400,
     "updated_at": "2026-07-22T08:06:37Z",
     "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-22T07:55:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
