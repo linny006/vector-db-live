@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T23:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1604,
+    "updated_at": "2026-07-22T23:45:14Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 4,
+    "updated_at": "2026-07-22T23:39:41Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45331,
+    "updated_at": "2026-07-22T23:36:48Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T23:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -9,21 +54,12 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T23:28:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-22T23:30:05Z",
+    "updated_at": "2026-07-22T23:37:08Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T23:19:00Z",
     "url": "https://github.com/sashikumar6/Legal-RAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T23:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -211,7 +238,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7885,
+    "stars": 7884,
     "updated_at": "2026-07-22T22:37:56Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1863,
-    "updated_at": "2026-07-22T23:19:17Z",
+    "updated_at": "2026-07-22T23:39:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -301,7 +328,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29165,
+    "stars": 29166,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -331,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T21:05:50Z",
     "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45331,
-    "updated_at": "2026-07-22T23:06:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
@@ -430,23 +448,5 @@
     "stars": 369,
     "updated_at": "2026-07-22T22:39:46Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
-    "id": "yichunzhao/ragdemo",
-    "language": "Java",
-    "name": "yichunzhao/ragdemo",
-    "stars": 0,
-    "updated_at": "2026-07-22T19:52:54Z",
-    "url": "https://github.com/yichunzhao/ragdemo"
-  },
-  {
-    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
-    "id": "tpt-solutions/tpt-ai-agents",
-    "language": "Rust",
-    "name": "tpt-solutions/tpt-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-22T19:54:06Z",
-    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
   }
 ]
