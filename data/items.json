@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-22T16:30:25Z",
+    "updated_at": "2026-07-22T16:44:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58698,
+    "updated_at": "2026-07-22T16:41:54Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:42:11Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
+    "id": "sujal12344/AI-Companion-Builder",
+    "language": "TypeScript",
+    "name": "sujal12344/AI-Companion-Builder",
+    "stars": 6,
+    "updated_at": "2026-07-22T16:36:24Z",
+    "url": "https://github.com/sujal12344/AI-Companion-Builder"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T16:32:23Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T16:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-22T16:30:08Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33499,
+    "updated_at": "2026-07-22T16:29:47Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45327,
-    "updated_at": "2026-07-22T16:26:44Z",
+    "updated_at": "2026-07-22T16:34:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -31,7 +94,7 @@
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 311,
+    "stars": 312,
     "updated_at": "2026-07-22T16:24:46Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -40,7 +103,7 @@
     "id": "lancedb/lancedb",
     "language": "HTML",
     "name": "lancedb/lancedb",
-    "stars": 10960,
+    "stars": 10961,
     "updated_at": "2026-07-22T16:24:45Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1863,
-    "updated_at": "2026-07-22T16:21:14Z",
+    "updated_at": "2026-07-22T16:36:39Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -72,21 +135,12 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T16:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29135,
-    "updated_at": "2026-07-22T16:14:41Z",
+    "updated_at": "2026-07-22T16:31:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -95,7 +149,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T16:12:51Z",
+    "updated_at": "2026-07-22T16:43:25Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58698,
-    "updated_at": "2026-07-22T16:07:14Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Official Terraform provider for Pinecone ",
     "id": "pinecone-io/terraform-provider-pinecone",
     "language": "Go",
     "name": "pinecone-io/terraform-provider-pinecone",
     "stars": 32,
-    "updated_at": "2026-07-22T16:03:46Z",
+    "updated_at": "2026-07-22T16:33:24Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33497,
-    "updated_at": "2026-07-22T16:29:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
@@ -297,15 +333,6 @@
     "url": "https://github.com/hippmem/hippmem"
   },
   {
-    "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
-    "id": "sujal12344/AI-Companion-Builder",
-    "language": "TypeScript",
-    "name": "sujal12344/AI-Companion-Builder",
-    "stars": 6,
-    "updated_at": "2026-07-22T15:19:47Z",
-    "url": "https://github.com/sujal12344/AI-Companion-Builder"
-  },
-  {
     "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:12:35Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-22T16:30:08Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16633,
-    "updated_at": "2026-07-22T15:56:29Z",
+    "updated_at": "2026-07-22T16:44:34Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "Project-Navi/ordvec",
     "stars": 21,
-    "updated_at": "2026-07-22T16:29:47Z",
+    "updated_at": "2026-07-22T16:40:46Z",
     "url": "https://github.com/Project-Navi/ordvec"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:27:23Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-22T14:16:40Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:12:26Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
   }
 ]
