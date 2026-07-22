@@ -1,12 +1,57 @@
 [
   {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
     "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-07-22T03:29:29Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": "An AI OS architecture emphasizing edge computing with privacy-by-design principles.",
+    "id": "engram-os/engram-os",
+    "language": "Python",
+    "name": "engram-os/engram-os",
     "stars": 0,
-    "updated_at": "2026-07-22T03:14:17Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+    "updated_at": "2026-07-22T03:26:23Z",
+    "url": "https://github.com/engram-os/engram-os"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-22T03:24:02Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45314,
+    "updated_at": "2026-07-22T03:16:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
+    "id": "AlayaDB-AI/AlayaLite",
+    "language": "C++",
+    "name": "AlayaDB-AI/AlayaLite",
+    "stars": 207,
+    "updated_at": "2026-07-22T03:16:03Z",
+    "url": "https://github.com/AlayaDB-AI/AlayaLite"
+  },
+  {
+    "description": "AI-powered procurement and contract intelligence platform using RAG, semantic search, structured LLM outputs, FastAPI, a",
+    "id": "AnthonySotoData/ProcureAI",
+    "language": "Python",
+    "name": "AnthonySotoData/ProcureAI",
+    "stars": 0,
+    "updated_at": "2026-07-22T03:15:49Z",
+    "url": "https://github.com/AnthonySotoData/ProcureAI"
   },
   {
     "description": "Knowledge Model Runtime, Ontology management, and interface to Graph and Vector Databases. Part of the Vital A.I. Agent ",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "vital-ai/vital-vitalsigns-python",
     "stars": 5,
-    "updated_at": "2026-07-22T03:13:39Z",
+    "updated_at": "2026-07-22T03:15:38Z",
     "url": "https://github.com/vital-ai/vital-vitalsigns-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T03:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T03:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-22T03:14:17Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "Search any book in the historical Gutenberg project",
@@ -45,24 +117,6 @@
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T03:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T03:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "nngochai2/loom",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T02:55:19Z",
     "url": "https://github.com/nngochai2/loom"
-  },
-  {
-    "description": "AlayaLite \u2013 A Fast, Flexible Vector Database for Everyone.",
-    "id": "AlayaDB-AI/AlayaLite",
-    "language": "C++",
-    "name": "AlayaDB-AI/AlayaLite",
-    "stars": 207,
-    "updated_at": "2026-07-22T02:53:52Z",
-    "url": "https://github.com/AlayaDB-AI/AlayaLite"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -144,6 +189,15 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10949,
+    "updated_at": "2026-07-22T02:21:45Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T02:13:36Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45313,
-    "updated_at": "2026-07-22T03:10:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform",
     "stars": 0,
-    "updated_at": "2026-07-22T01:14:35Z",
+    "updated_at": "2026-07-22T03:26:33Z",
     "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 10214,
     "updated_at": "2026-07-22T01:01:19Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-22T00:55:25Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -324,15 +360,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
-    "id": "TarekMineRoyal/AcademicGateway-AI",
-    "language": "Python",
-    "name": "TarekMineRoyal/AcademicGateway-AI",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:58:09Z",
-    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
-  },
-  {
     "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
     "id": "chrisleekr/langchain-playground",
     "language": "TypeScript",
@@ -373,7 +400,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 50993,
+    "stars": 50994,
     "updated_at": "2026-07-21T23:15:32Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -391,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33485,
+    "stars": 33486,
     "updated_at": "2026-07-21T23:07:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -410,7 +437,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T02:06:15Z",
+    "updated_at": "2026-07-22T03:17:47Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T22:57:09Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 822,
-    "updated_at": "2026-07-22T02:13:09Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
-    "id": "Vansh-7/Vector-DB-RAG-pipeline",
-    "language": "TypeScript",
-    "name": "Vansh-7/Vector-DB-RAG-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:48:42Z",
-    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2197,
-    "updated_at": "2026-07-21T22:40:56Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
