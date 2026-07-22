@@ -1,5 +1,86 @@
 [
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-22T13:56:41Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
+    "id": "pinecone-io/recommender-example-typescript",
+    "language": "TypeScript",
+    "name": "pinecone-io/recommender-example-typescript",
+    "stars": 57,
+    "updated_at": "2026-07-22T13:54:58Z",
+    "url": "https://github.com/pinecone-io/recommender-example-typescript"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:53:23Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6188,
+    "updated_at": "2026-07-22T13:59:47Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
+    "id": "Sasireddy001/rag-document-qa",
+    "language": "Python",
+    "name": "Sasireddy001/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:52:07Z",
+    "url": "https://github.com/Sasireddy001/rag-document-qa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T13:50:11Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Backend for movies recomendations for groups ",
+    "id": "Biccamor/Moovy",
+    "language": "Python",
+    "name": "Biccamor/Moovy",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:49:41Z",
+    "url": "https://github.com/Biccamor/Moovy"
+  },
+  {
+    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
+    "id": "prakashprajapati-git/campus-helpdesk-assistant",
+    "language": "TypeScript",
+    "name": "prakashprajapati-git/campus-helpdesk-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:49:24Z",
+    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:49:22Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,31 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T13:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12742,
-    "updated_at": "2026-07-22T13:43:53Z",
+    "updated_at": "2026-07-22T13:50:44Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:43:50Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -68,17 +131,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7882,
-    "updated_at": "2026-07-22T13:33:23Z",
+    "updated_at": "2026-07-22T13:58:11Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
-    "id": "Sasireddy001/rag-document-qa",
-    "language": "Python",
-    "name": "Sasireddy001/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:33:18Z",
-    "url": "https://github.com/Sasireddy001/rag-document-qa"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -104,17 +158,8 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58699,
-    "updated_at": "2026-07-22T13:28:25Z",
+    "updated_at": "2026-07-22T13:57:47Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T13:27:59Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -151,15 +196,6 @@
     "stars": 4416,
     "updated_at": "2026-07-22T13:18:28Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6188,
-    "updated_at": "2026-07-22T13:48:49Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
@@ -202,7 +238,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29117,
+    "stars": 29118,
     "updated_at": "2026-07-22T13:02:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -214,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-07-22T12:55:46Z",
     "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "",
+    "id": "oguzhandurmaz/interviewpilot-ai",
+    "language": "Python",
+    "name": "oguzhandurmaz/interviewpilot-ai",
+    "stars": 3,
+    "updated_at": "2026-07-22T12:53:37Z",
+    "url": "https://github.com/oguzhandurmaz/interviewpilot-ai"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 56,
-    "updated_at": "2026-07-22T13:24:28Z",
+    "updated_at": "2026-07-22T13:59:07Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -329,7 +374,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-07-22T11:48:04Z",
+    "updated_at": "2026-07-22T13:57:39Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45323,
-    "updated_at": "2026-07-22T13:22:43Z",
+    "updated_at": "2026-07-22T13:52:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -382,7 +427,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34167,
+    "stars": 34168,
     "updated_at": "2026-07-22T11:19:04Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T11:09:38Z",
     "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:49:22Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7027,
-    "updated_at": "2026-07-22T11:04:32Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:02:14Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Campus Helpdesk Assistant is a production-grade AI-powered campus support platform that helps students query university ",
-    "id": "prakashprajapati-git/campus-helpdesk-assistant",
-    "language": "TypeScript",
-    "name": "prakashprajapati-git/campus-helpdesk-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:49:24Z",
-    "url": "https://github.com/prakashprajapati-git/campus-helpdesk-assistant"
-  },
-  {
-    "description": "Secure legislative integrity and digital voting platform powered by RAG (AI) for document analysis.",
-    "id": "hsc00/trust-vote-ai",
-    "language": "TypeScript",
-    "name": "hsc00/trust-vote-ai",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:10:45Z",
-    "url": "https://github.com/hsc00/trust-vote-ai"
   }
 ]
