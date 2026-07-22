@@ -1,12 +1,93 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 31,
+    "updated_at": "2026-07-22T06:29:00Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T06:28:56Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T06:28:53Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16633,
+    "updated_at": "2026-07-22T06:25:11Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 0,
+    "updated_at": "2026-07-22T06:20:56Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-22T06:12:14Z",
+    "updated_at": "2026-07-22T06:20:04Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-22T06:18:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1400,
+    "updated_at": "2026-07-22T06:28:36Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T06:15:56Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T06:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
@@ -16,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T06:12:09Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 31,
-    "updated_at": "2026-07-22T06:10:27Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:00:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An example showing how to use Weaviate in a TypeScript/JavaScript project, including test data and embedder projection",
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-22T05:56:40Z",
+    "updated_at": "2026-07-22T06:23:31Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-22T05:04:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -148,7 +193,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45318,
+    "stars": 45319,
     "updated_at": "2026-07-22T04:42:41Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -250,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-07-22T03:46:59Z",
     "url": "https://github.com/vital-ai/vital-vitalsigns-python"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:34:41Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:08:29Z",
     "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform"
-  },
-  {
-    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
-    "id": "memo-fs/memofs",
-    "language": "TypeScript",
-    "name": "memo-fs/memofs",
-    "stars": 2,
-    "updated_at": "2026-07-22T01:04:41Z",
-    "url": "https://github.com/memo-fs/memofs"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10214,
-    "updated_at": "2026-07-22T01:01:19Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 311,
-    "updated_at": "2026-07-22T00:48:12Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 1,
-    "updated_at": "2026-07-22T00:22:04Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
   }
 ]
