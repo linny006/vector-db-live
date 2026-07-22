@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
+    "id": "krish1925/AECP",
+    "language": "Python",
+    "name": "krish1925/AECP",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:44:58Z",
+    "url": "https://github.com/krish1925/AECP"
+  },
+  {
+    "description": "Enterprise AI platform for industrial knowledge intelligence using Retrieval-Augmented Generation (RAG), ChromaDB, Ollam",
+    "id": "AP24110011041/veritas-ai",
+    "language": "TypeScript",
+    "name": "AP24110011041/veritas-ai",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:43:34Z",
+    "url": "https://github.com/AP24110011041/veritas-ai"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6257,
+    "updated_at": "2026-07-22T18:42:11Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-22T18:41:37Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 1,
+    "updated_at": "2026-07-22T18:39:27Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-22T18:33:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
     "id": "yichunzhao/ragdemo",
     "language": "Java",
@@ -25,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T18:30:46Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T18:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -175,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29148,
+    "stars": 29152,
     "updated_at": "2026-07-22T17:42:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -243,15 +288,6 @@
     "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6257,
-    "updated_at": "2026-07-22T18:30:43Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
     "id": "Vivekpatil200320/contextquery-backend",
     "language": "Python",
@@ -302,7 +338,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1036,
-    "updated_at": "2026-07-22T18:22:37Z",
+    "updated_at": "2026-07-22T18:44:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -329,8 +365,17 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-22T18:27:24Z",
+    "updated_at": "2026-07-22T18:33:42Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2199,
+    "updated_at": "2026-07-22T16:00:10Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
@@ -403,50 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-22T15:32:15Z",
     "url": "https://github.com/cequence-io/pinecone-scala"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:30:15Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:30:11Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 3,
-    "updated_at": "2026-07-22T15:28:43Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 449,
-    "updated_at": "2026-07-22T15:26:09Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Embedded vector database with verified persistence, built on ordinal quantization. Rust core, Python bindings, LangChain",
-    "id": "Project-Navi/ordinaldb",
-    "language": "Rust",
-    "name": "Project-Navi/ordinaldb",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:24:19Z",
-    "url": "https://github.com/Project-Navi/ordinaldb"
   }
 ]
