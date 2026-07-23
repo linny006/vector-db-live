@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T10:00:24Z",
+    "updated_at": "2026-07-23T10:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-07-23T10:14:56Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
+    "id": "Agenvana/ragleakguard-agent",
+    "language": "Python",
+    "name": "Agenvana/ragleakguard-agent",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:13:43Z",
+    "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T10:08:59Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-23T10:06:29Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T10:12:13Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T09:57:18Z",
+    "updated_at": "2026-07-23T10:00:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +68,17 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33521,
-    "updated_at": "2026-07-23T09:56:49Z",
+    "updated_at": "2026-07-23T10:02:46Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58702,
+    "updated_at": "2026-07-23T09:55:00Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -45,12 +99,21 @@
     "url": "https://github.com/nngochai2/loom"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45340,
+    "updated_at": "2026-07-23T09:42:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T09:59:38Z",
+    "updated_at": "2026-07-23T10:01:03Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -63,13 +126,31 @@
     "url": "https://github.com/ravendb/samples-hr"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58701,
-    "updated_at": "2026-07-23T09:55:00Z",
-    "url": "https://github.com/meilisearch/meilisearch"
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:35:23Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:32:10Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:31:31Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29190,
-    "updated_at": "2026-07-23T09:57:36Z",
+    "updated_at": "2026-07-23T10:10:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -88,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T09:18:21Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:35:23Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:31:31Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -175,7 +238,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34182,
+    "stars": 34184,
     "updated_at": "2026-07-23T08:52:59Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -187,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:52:50Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45340,
-    "updated_at": "2026-07-23T09:42:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-23T09:56:52Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "An embedded vector database backed by immutable Git snapshots",
@@ -250,15 +295,6 @@
     "stars": 57,
     "updated_at": "2026-07-23T09:26:44Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6189,
-    "updated_at": "2026-07-23T09:58:28Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T08:23:59Z",
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
-  },
-  {
-    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
-    "id": "Agenvana/ragleakguard-agent",
-    "language": "Python",
-    "name": "Agenvana/ragleakguard-agent",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:21:24Z",
-    "url": "https://github.com/Agenvana/ragleakguard-agent"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:35:07Z",
     "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-23T07:33:50Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Offline AI Research Assistant using Streamlit, FAISS, Sentence Transformers and Ollama (Llama 3.2) with conversational m",
-    "id": "LokeshShukla910/RAG-Research_Assistant",
-    "language": "Python",
-    "name": "LokeshShukla910/RAG-Research_Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:30:57Z",
-    "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
-  },
-  {
-    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
-    "id": "justin-haffey/local-rag",
-    "language": "C#",
-    "name": "justin-haffey/local-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:17:26Z",
-    "url": "https://github.com/justin-haffey/local-rag"
   }
 ]
