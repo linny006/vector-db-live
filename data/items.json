@@ -1,11 +1,65 @@
 [
   {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 57,
+    "updated_at": "2026-07-23T03:29:06Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
+    "id": "oscargbocanegra/llms-engineering-main",
+    "language": "Jupyter Notebook",
+    "name": "oscargbocanegra/llms-engineering-main",
+    "stars": 1,
+    "updated_at": "2026-07-23T03:23:07Z",
+    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 243,
+    "updated_at": "2026-07-23T03:18:59Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:24:46Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:15:57Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T03:15:20Z",
+    "updated_at": "2026-07-23T03:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,24 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:10:26Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T02:50:17Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 243,
-    "updated_at": "2026-07-23T02:50:17Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9390,
-    "updated_at": "2026-07-23T02:44:08Z",
+    "updated_at": "2026-07-23T03:28:53Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -144,30 +171,12 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 57,
-    "updated_at": "2026-07-23T02:27:29Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:25:47Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
     "description": "Document-first sqlite3+faiss vector database",
     "id": "thomas-villani/localvectordb",
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 1,
-    "updated_at": "2026-07-23T02:24:13Z",
+    "updated_at": "2026-07-23T03:20:35Z",
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 449,
     "updated_at": "2026-07-23T02:16:45Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:14:57Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -202,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63700,
+    "stars": 63701,
     "updated_at": "2026-07-23T02:09:01Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -259,6 +259,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T01:40:27Z",
     "url": "https://github.com/LangModule/ingestlib-studio"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16636,
+    "updated_at": "2026-07-23T01:36:22Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
@@ -439,14 +448,5 @@
     "stars": 76,
     "updated_at": "2026-07-22T23:02:34Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T03:13:02Z",
-    "url": "https://github.com/frogdb/frogdb"
   }
 ]
