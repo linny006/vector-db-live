@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T08:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29190,
+    "updated_at": "2026-07-23T08:28:08Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34182,
+    "updated_at": "2026-07-23T08:16:44Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45339,
+    "updated_at": "2026-07-23T08:14:46Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 2,
-    "updated_at": "2026-07-23T08:08:21Z",
+    "updated_at": "2026-07-23T08:16:46Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -16,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:03:20Z",
     "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45338,
-    "updated_at": "2026-07-23T08:14:46Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T08:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "Agenvana/ragleakguard-agent",
     "stars": 0,
-    "updated_at": "2026-07-23T07:39:01Z",
+    "updated_at": "2026-07-23T08:21:24Z",
     "url": "https://github.com/Agenvana/ragleakguard-agent"
   },
   {
@@ -106,6 +133,15 @@
     "stars": 7886,
     "updated_at": "2026-07-23T08:10:59Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:35:16Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
     "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
@@ -135,15 +171,6 @@
     "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T08:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T08:12:46Z",
+    "updated_at": "2026-07-23T08:28:37Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -347,7 +374,7 @@
     "language": "JavaScript",
     "name": "Ajitesh-Tamrakar/Internet-Expedition",
     "stars": 1,
-    "updated_at": "2026-07-23T05:39:33Z",
+    "updated_at": "2026-07-23T08:23:59Z",
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T05:04:46Z",
     "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
-    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-py",
-    "language": "Python",
-    "name": "Dakera-AI/dakera-py",
-    "stars": 6,
-    "updated_at": "2026-07-23T04:49:21Z",
-    "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:45:42Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 57,
-    "updated_at": "2026-07-23T04:35:03Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
