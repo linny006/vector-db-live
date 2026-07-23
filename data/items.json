@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T12:00:26Z",
+    "updated_at": "2026-07-23T12:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
+    "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
+    "language": "Python",
+    "name": "shoaib-ahmadd/germany-fnb-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:13:14Z",
+    "url": "https://github.com/shoaib-ahmadd/germany-fnb-ai-assistant"
+  },
+  {
+    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
+    "id": "tpt-solutions/tpt-ai-agents",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:13:12Z",
+    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T12:10:35Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:07:25Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:05:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:00:49Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33524,
+    "updated_at": "2026-07-23T11:59:52Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
@@ -32,7 +104,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12671,
-    "updated_at": "2026-07-23T11:59:53Z",
+    "updated_at": "2026-07-23T12:07:21Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T11:54:01Z",
     "url": "https://github.com/FarwaKhizar/findwise-semantic-search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T11:53:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -90,15 +153,6 @@
     "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
   },
   {
-    "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
-    "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
-    "language": "Python",
-    "name": "shoaib-ahmadd/germany-fnb-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:47:24Z",
-    "url": "https://github.com/shoaib-ahmadd/germany-fnb-ai-assistant"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -117,24 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T11:36:29Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6189,
-    "updated_at": "2026-07-23T11:59:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29192,
-    "updated_at": "2026-07-23T11:16:15Z",
+    "updated_at": "2026-07-23T12:13:54Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:15:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -194,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7886,
-    "updated_at": "2026-07-23T11:41:48Z",
+    "updated_at": "2026-07-23T12:06:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 45343,
     "updated_at": "2026-07-23T11:58:43Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33523,
-    "updated_at": "2026-07-23T11:59:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 518,
-    "updated_at": "2026-07-23T11:55:22Z",
+    "updated_at": "2026-07-23T12:10:57Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 34185,
     "updated_at": "2026-07-23T08:52:59Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
-    "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
-    "language": "TypeScript",
-    "name": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:52:50Z",
-    "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:46:30Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
   }
 ]
