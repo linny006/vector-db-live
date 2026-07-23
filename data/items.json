@@ -1,30 +1,66 @@
 [
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:44:27Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6268,
-    "updated_at": "2026-07-23T21:41:58Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "The base Installation Source for Horizon Brain Builder",
     "id": "HorizonBrute/Horizon-Brain-Builder",
     "language": "Python",
     "name": "HorizonBrute/Horizon-Brain-Builder",
     "stars": 0,
-    "updated_at": "2026-07-23T21:35:36Z",
+    "updated_at": "2026-07-23T21:58:52Z",
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T21:56:25Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:54:50Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:54:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T21:50:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Enterprise RAG Knowledge Base. Upload PDFs and chat with the data using Pinecone Vector Search, Jina Embeddings, and Gro",
+    "id": "SomeoneGitMe/enterprise-rag",
+    "language": "TypeScript",
+    "name": "SomeoneGitMe/enterprise-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:49:11Z",
+    "url": "https://github.com/SomeoneGitMe/enterprise-rag"
+  },
+  {
+    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
+    "id": "jgoy-labs/server-nexe",
+    "language": "Python",
+    "name": "jgoy-labs/server-nexe",
+    "stars": 10,
+    "updated_at": "2026-07-23T21:51:17Z",
+    "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T21:30:21Z",
+    "updated_at": "2026-07-23T21:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -45,6 +81,24 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:58:59Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6268,
+    "updated_at": "2026-07-23T21:55:27Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 314,
     "updated_at": "2026-07-23T21:28:33Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:24:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
@@ -104,17 +149,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45349,
-    "updated_at": "2026-07-23T21:10:44Z",
+    "updated_at": "2026-07-23T21:46:44Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T21:27:25Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "The AI search platform",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 3,
-    "updated_at": "2026-07-23T20:23:53Z",
+    "updated_at": "2026-07-23T21:54:21Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
@@ -221,17 +257,8 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T21:24:54Z",
+    "updated_at": "2026-07-23T21:52:33Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T20:05:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33535,
-    "updated_at": "2026-07-23T20:34:16Z",
+    "updated_at": "2026-07-23T21:46:03Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:53:09Z",
     "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:38:26Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:08:11Z",
     "url": "https://github.com/vansharora156/nexus-rag"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 34,
-    "updated_at": "2026-07-23T18:05:53Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1458,
-    "updated_at": "2026-07-23T17:43:48Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
