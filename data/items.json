@@ -1,12 +1,129 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
+    "id": "GoogleCloudPlatform/spanner-bb-samples",
+    "language": "Java",
+    "name": "GoogleCloudPlatform/spanner-bb-samples",
+    "stars": 6,
+    "updated_at": "2026-07-23T12:45:15Z",
+    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
+  },
+  {
+    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
+    "id": "arif39x/vivy",
+    "language": "Rust",
+    "name": "arif39x/vivy",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:43:56Z",
+    "url": "https://github.com/arif39x/vivy"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12745,
+    "updated_at": "2026-07-23T12:42:33Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:41:45Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
+    "id": "qmmughal/langchain-supabase-ingestor",
+    "language": "Python",
+    "name": "qmmughal/langchain-supabase-ingestor",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:41:37Z",
+    "url": "https://github.com/qmmughal/langchain-supabase-ingestor"
+  },
+  {
+    "description": "API and integration profile for Aerospike.",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:41:04Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "The Personal AI Assistant that connects every channel you use.",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:39:56Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1038,
+    "updated_at": "2026-07-23T12:39:46Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45344,
+    "updated_at": "2026-07-23T12:38:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
+    "id": "IhabAltekreeti/vaultify",
+    "language": "Jupyter Notebook",
+    "name": "IhabAltekreeti/vaultify",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:37:29Z",
+    "url": "https://github.com/IhabAltekreeti/vaultify"
+  },
+  {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
     "name": "rahulboby/ChatVeritas",
     "stars": 0,
-    "updated_at": "2026-07-23T12:27:49Z",
+    "updated_at": "2026-07-23T12:36:58Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
+    "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
+    "language": "Python",
+    "name": "shoaib-ahmadd/germany-fnb-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:36:57Z",
+    "url": "https://github.com/shoaib-ahmadd/germany-fnb-ai-assistant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12671,
+    "updated_at": "2026-07-23T12:36:15Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +131,17 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 3,
-    "updated_at": "2026-07-23T12:21:41Z",
+    "updated_at": "2026-07-23T12:35:47Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T12:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -54,40 +180,22 @@
     "url": "https://github.com/tpt-solutions/tpt-ai-agents"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T12:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T12:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29193,
-    "updated_at": "2026-07-23T12:13:54Z",
+    "stars": 29192,
+    "updated_at": "2026-07-23T12:44:17Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
-    "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
-    "language": "Python",
-    "name": "shoaib-ahmadd/germany-fnb-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:13:14Z",
-    "url": "https://github.com/shoaib-ahmadd/germany-fnb-ai-assistant"
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 518,
+    "updated_at": "2026-07-23T12:10:57Z",
+    "url": "https://github.com/lightonai/next-plaid"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -95,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T12:27:38Z",
+    "updated_at": "2026-07-23T12:43:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -117,15 +225,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
-    "id": "qmmughal/langchain-supabase-ingestor",
-    "language": "Python",
-    "name": "qmmughal/langchain-supabase-ingestor",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:59:41Z",
-    "url": "https://github.com/qmmughal/langchain-supabase-ingestor"
-  },
-  {
     "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
     "id": "Yugandhar-112/MultiDoc-RAG-Chatbot",
     "language": "Python",
@@ -133,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T11:59:14Z",
     "url": "https://github.com/Yugandhar-112/MultiDoc-RAG-Chatbot"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45344,
-    "updated_at": "2026-07-23T11:58:43Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12671,
-    "updated_at": "2026-07-23T12:07:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Keyword vs semantic vs hybrid search, side by side \u2014 see how meaning-based retrieval and RRF fusion beat literal keyword",
@@ -225,15 +306,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "The Personal AI Assistant that connects every channel you use.",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-23T11:08:11Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -248,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7886,
-    "updated_at": "2026-07-23T12:06:27Z",
+    "updated_at": "2026-07-23T12:37:16Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -355,7 +427,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58704,
+    "stars": 58703,
     "updated_at": "2026-07-23T09:55:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T09:40:32Z",
     "url": "https://github.com/ravendb/samples-hr"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4627,
-    "updated_at": "2026-07-23T09:35:10Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:31:31Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 518,
-    "updated_at": "2026-07-23T12:10:57Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-23T09:08:40Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:07:08Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:02:06Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-23T08:56:29Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 200,
-    "updated_at": "2026-07-23T08:56:15Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
   }
 ]
