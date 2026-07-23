@@ -1,12 +1,75 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-23T13:29:31Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "\u96f6\u57fa\u7840\u4e2d\u6587 RAG \u6559\u5b66\u6846\u67b6\uff1a68 \u77e5\u8bc6\u70b9\u7cfb\u7edf\u8bfe\u7a0b + \u9759\u6001\u5b66\u4e60\u7f51\u7ad9 + \u5185\u7f6e RAG \u8bfe\u7a0b\u52a9\u6559\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
+    "id": "Jasper-Wynn/oh-my-rag",
+    "language": "HTML",
+    "name": "Jasper-Wynn/oh-my-rag",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:26:16Z",
+    "url": "https://github.com/Jasper-Wynn/oh-my-rag"
+  },
+  {
+    "description": "Agentic AI-powered Enterprise Knowledge Assistant using RAG, LangGraph, ChromaDB, Hugging Face embeddings, Groq/Ollama, ",
+    "id": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
+    "language": "Python",
+    "name": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:21:39Z",
+    "url": "https://github.com/nagendra-official-ai/EnterpriseKnowledgeAssistant"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:29:44Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 3,
+    "updated_at": "2026-07-23T13:15:36Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T13:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T13:15:20Z",
+    "updated_at": "2026-07-23T13:30:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
+    "id": "loreste/limyeDB",
+    "language": "Go",
+    "name": "loreste/limyeDB",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:13:55Z",
+    "url": "https://github.com/loreste/limyeDB"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -27,15 +90,6 @@
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T13:08:21Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T13:01:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T13:00:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -90,6 +135,15 @@
     "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:50:41Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29194,
-    "updated_at": "2026-07-23T13:12:25Z",
+    "updated_at": "2026-07-23T13:23:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T12:43:56Z",
     "url": "https://github.com/arif39x/vivy"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:41:45Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
     "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-23T13:14:55Z",
+    "updated_at": "2026-07-23T13:30:10Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/IhabAltekreeti/vaultify"
   },
   {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:50:41Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
     "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
     "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
     "language": "Python",
@@ -232,6 +268,15 @@
     "stars": 12671,
     "updated_at": "2026-07-23T12:36:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33526,
+    "updated_at": "2026-07-23T12:29:07Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -284,17 +329,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T13:15:07Z",
+    "updated_at": "2026-07-23T13:29:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33524,
-    "updated_at": "2026-07-23T12:29:07Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
@@ -322,15 +358,6 @@
     "stars": 6,
     "updated_at": "2026-07-23T11:50:24Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
-    "id": "loreste/limyeDB",
-    "language": "Go",
-    "name": "loreste/limyeDB",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:13:55Z",
-    "url": "https://github.com/loreste/limyeDB"
   },
   {
     "description": "AI-Companion is a cool software that lets you create your own custom AI models of people you admire, like actors or cele",
@@ -383,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7886,
-    "updated_at": "2026-07-23T13:12:46Z",
+    "updated_at": "2026-07-23T13:27:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-23T10:40:12Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "LLM App to demystify and summarize Terms and Conditions agreements",
-    "id": "dsba6010-llm-applications/baemax_tc",
-    "language": "Jupyter Notebook",
-    "name": "dsba6010-llm-applications/baemax_tc",
-    "stars": 6,
-    "updated_at": "2026-07-23T10:36:52Z",
-    "url": "https://github.com/dsba6010-llm-applications/baemax_tc"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:48:05Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-23T10:28:26Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   }
 ]
