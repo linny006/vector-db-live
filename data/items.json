@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T14:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 369,
+    "updated_at": "2026-07-23T14:26:08Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
+    "id": "IhabAltekreeti/vaultify",
+    "language": "Jupyter Notebook",
+    "name": "IhabAltekreeti/vaultify",
+    "stars": 0,
+    "updated_at": "2026-07-23T14:24:48Z",
+    "url": "https://github.com/IhabAltekreeti/vaultify"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T14:28:49Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-23T14:19:07Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-23T14:17:19Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T14:15:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T14:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33529,
+    "updated_at": "2026-07-23T14:15:07Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
     "id": "sahnsookyung/JobScout",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12746,
-    "updated_at": "2026-07-23T14:11:12Z",
+    "updated_at": "2026-07-23T14:17:50Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -31,7 +112,7 @@
     "id": "opencrawling/opencrawling",
     "language": "Java",
     "name": "opencrawling/opencrawling",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-07-23T14:09:55Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-07-23T14:15:23Z",
+    "updated_at": "2026-07-23T14:16:23Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -79,24 +160,6 @@
     "stars": 4628,
     "updated_at": "2026-07-23T14:01:36Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T14:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T14:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -162,24 +225,6 @@
     "url": "https://github.com/qmmughal/langchain-supabase-ingestor"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T13:37:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6189,
-    "updated_at": "2026-07-23T14:03:34Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
@@ -189,20 +234,11 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 32,
-    "updated_at": "2026-07-23T13:35:41Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29196,
+    "stars": 29197,
     "updated_at": "2026-07-23T13:31:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-23T13:09:05Z",
+    "updated_at": "2026-07-23T14:26:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 182,
     "updated_at": "2026-07-23T13:08:43Z",
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 369,
-    "updated_at": "2026-07-23T12:58:18Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -360,15 +387,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
-    "id": "IhabAltekreeti/vaultify",
-    "language": "Jupyter Notebook",
-    "name": "IhabAltekreeti/vaultify",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:54:11Z",
-    "url": "https://github.com/IhabAltekreeti/vaultify"
-  },
-  {
     "description": "Enterprise RAG-powered AI assistant for German Dairy Processing intelligence \u2014 FastAPI + FAISS + Groq (Llama 3.1) + Reac",
     "id": "shoaib-ahmadd/germany-fnb-ai-assistant",
     "language": "Python",
@@ -385,15 +403,6 @@
     "stars": 12672,
     "updated_at": "2026-07-23T12:36:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33528,
-    "updated_at": "2026-07-23T14:15:07Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -439,14 +448,5 @@
     "stars": 518,
     "updated_at": "2026-07-23T12:10:57Z",
     "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Keyword vs semantic vs hybrid search, side by side \u2014 see how meaning-based retrieval and RRF fusion beat literal keyword",
-    "id": "FarwaKhizar/findwise-semantic-search",
-    "language": "Python",
-    "name": "FarwaKhizar/findwise-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:54:01Z",
-    "url": "https://github.com/FarwaKhizar/findwise-semantic-search"
   }
 ]
