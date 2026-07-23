@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:55:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33520,
+    "updated_at": "2026-07-23T09:56:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9392,
+    "updated_at": "2026-07-23T09:46:43Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "nngochai2/loom",
     "language": "Python",
     "name": "nngochai2/loom",
     "stars": 0,
-    "updated_at": "2026-07-23T09:43:14Z",
+    "updated_at": "2026-07-23T09:46:56Z",
     "url": "https://github.com/nngochai2/loom"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T09:50:42Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "A sample application providing a HR assistant chatbot. It leverages RavenDB database and RavenDB AI.",
@@ -18,30 +63,12 @@
     "url": "https://github.com/ravendb/samples-hr"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58701,
-    "updated_at": "2026-07-23T09:29:08Z",
+    "updated_at": "2026-07-23T09:55:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29190,
-    "updated_at": "2026-07-23T09:43:34Z",
+    "updated_at": "2026-07-23T09:54:22Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33519,
-    "updated_at": "2026-07-23T09:36:25Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -171,15 +189,6 @@
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T09:41:50Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T09:24:02Z",
+    "updated_at": "2026-07-23T09:56:52Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -288,6 +297,15 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-23T08:26:06Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
     "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
     "id": "Ajitesh-Tamrakar/Internet-Expedition",
     "language": "JavaScript",
@@ -306,21 +324,12 @@
     "url": "https://github.com/Agenvana/ragleakguard-agent"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 32,
-    "updated_at": "2026-07-23T08:26:06Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T09:45:24Z",
+    "updated_at": "2026-07-23T09:51:41Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T08:07:38Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9391,
-    "updated_at": "2026-07-23T09:26:23Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "The AI search platform",
@@ -376,6 +376,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:52:25Z",
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 10,
+    "updated_at": "2026-07-23T07:50:13Z",
+    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:17:26Z",
     "url": "https://github.com/justin-haffey/local-rag"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:23:17Z",
-    "url": "https://github.com/integrallis/vectors"
   }
 ]
