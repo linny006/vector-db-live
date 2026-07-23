@@ -1,5 +1,86 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 822,
+    "updated_at": "2026-07-23T03:45:19Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 127,
+    "updated_at": "2026-07-23T03:39:52Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T03:42:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
+    "id": "andreiramani/pgvector_pgsql_windows",
+    "language": "\u2014",
+    "name": "andreiramani/pgvector_pgsql_windows",
+    "stars": 182,
+    "updated_at": "2026-07-23T03:35:54Z",
+    "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-07-23T03:35:08Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 450,
+    "updated_at": "2026-07-23T03:34:55Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1400,
+    "updated_at": "2026-07-23T03:36:36Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T03:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T03:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -45,24 +126,6 @@
     "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T02:50:17Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T02:48:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -180,15 +234,6 @@
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 449,
-    "updated_at": "2026-07-23T02:16:45Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -202,7 +247,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63701,
+    "stars": 63702,
     "updated_at": "2026-07-23T02:09:01Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -311,7 +356,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-23T01:49:30Z",
+    "updated_at": "2026-07-23T03:42:16Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -373,7 +418,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51021,
+    "stars": 51022,
     "updated_at": "2026-07-23T00:10:42Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T23:25:35Z",
     "url": "https://github.com/andrewkorot/realestate-rag-fastapi"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33514,
-    "updated_at": "2026-07-22T23:22:38Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:21:28Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
-    "description": "Production-grade federal law RAG with multi-source retrieval (U.S. Code, CFR, Case Law), LangGraph orchestration, hybrid",
-    "id": "sashikumar6/Legal-RAG",
-    "language": "Python",
-    "name": "sashikumar6/Legal-RAG",
-    "stars": 1,
-    "updated_at": "2026-07-22T23:19:00Z",
-    "url": "https://github.com/sashikumar6/Legal-RAG"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 313,
-    "updated_at": "2026-07-22T22:58:26Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-22T23:02:34Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
