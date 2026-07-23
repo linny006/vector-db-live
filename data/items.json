@@ -1,12 +1,39 @@
 [
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:43:41Z",
-    "url": "https://github.com/integrallis/vectors"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T05:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
+    "id": "Sidra-009/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Sidra-009/vectordb-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:50:52Z",
+    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 6,
+    "updated_at": "2026-07-23T04:49:21Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 822,
+    "updated_at": "2026-07-23T04:58:03Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
@@ -14,8 +41,35 @@
     "language": "JavaScript",
     "name": "DeveloperChetram/Contextual_Chatbot_React",
     "stars": 0,
-    "updated_at": "2026-07-23T04:41:53Z",
+    "updated_at": "2026-07-23T04:46:01Z",
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:45:42Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:50:36Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T04:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -43,15 +88,6 @@
     "stars": 57,
     "updated_at": "2026-07-23T04:35:03Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T04:33:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -70,24 +106,6 @@
     "stars": 8,
     "updated_at": "2026-07-23T04:26:11Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:19:46Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 822,
-    "updated_at": "2026-07-23T04:44:59Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
@@ -115,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:04:25Z",
     "url": "https://github.com/Sasireddy001/rag-document-qa"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7028,
+    "updated_at": "2026-07-23T04:04:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9390,
-    "updated_at": "2026-07-23T03:28:53Z",
+    "updated_at": "2026-07-23T04:49:37Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -328,7 +355,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63703,
+    "stars": 63705,
     "updated_at": "2026-07-23T02:09:01Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T01:09:05Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
-  },
-  {
-    "description": "In-memory vector search engine with event-based co-occurrence tracking",
-    "id": "libraz/nvecd",
-    "language": "C++",
-    "name": "libraz/nvecd",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:58:52Z",
-    "url": "https://github.com/libraz/nvecd"
-  },
-  {
-    "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
-    "id": "aminturabi/RAGForge",
-    "language": "Python",
-    "name": "aminturabi/RAGForge",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:32:11Z",
-    "url": "https://github.com/aminturabi/RAGForge"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 372,
-    "updated_at": "2026-07-23T00:26:44Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
