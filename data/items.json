@@ -1,12 +1,30 @@
 [
   {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:55:34Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T01:44:41Z",
+    "updated_at": "2026-07-23T01:53:07Z",
     "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-07-23T01:50:58Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
     "description": "A local, open-source stack for building conversational data agents and semantic reasoning workflows over an Iceberg Lake",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "jaehyeon-kim/agentic-analytics-system",
     "stars": 2,
-    "updated_at": "2026-07-23T01:40:40Z",
+    "updated_at": "2026-07-23T01:48:35Z",
     "url": "https://github.com/jaehyeon-kim/agentic-analytics-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
@@ -43,24 +79,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T01:33:56Z",
     "url": "https://github.com/krish1925/isotrieve"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -95,7 +113,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-23T01:14:28Z",
+    "updated_at": "2026-07-23T01:49:30Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -126,6 +144,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45333,
+    "updated_at": "2026-07-23T01:59:55Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
     "id": "aminturabi/RAGForge",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 1,
-    "updated_at": "2026-07-23T01:25:19Z",
+    "updated_at": "2026-07-23T01:49:28Z",
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
@@ -171,6 +198,15 @@
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
+    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
+    "id": "justin-haffey/local-rag",
+    "language": "C#",
+    "name": "justin-haffey/local-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T00:18:02Z",
+    "url": "https://github.com/justin-haffey/local-rag"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -184,18 +220,9 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51019,
+    "stars": 51020,
     "updated_at": "2026-07-23T00:10:42Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45332,
-    "updated_at": "2026-07-23T00:38:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -247,7 +274,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33511,
+    "stars": 33512,
     "updated_at": "2026-07-22T23:22:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -274,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63697,
+    "stars": 63698,
     "updated_at": "2026-07-22T23:10:00Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6139,
-    "updated_at": "2026-07-23T01:39:47Z",
+    "updated_at": "2026-07-23T01:52:49Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 32,
     "updated_at": "2026-07-22T21:46:07Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-22T21:40:23Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 10,
-    "updated_at": "2026-07-22T21:34:57Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29174,
-    "updated_at": "2026-07-22T21:19:53Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
