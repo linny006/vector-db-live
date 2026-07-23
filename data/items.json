@@ -1,10 +1,64 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-memory vector search engine with event-based co-occurrence tracking",
+    "id": "libraz/nvecd",
+    "language": "C++",
+    "name": "libraz/nvecd",
+    "stars": 0,
+    "updated_at": "2026-07-23T00:58:52Z",
+    "url": "https://github.com/libraz/nvecd"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1037,
+    "updated_at": "2026-07-23T00:58:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 57,
+    "updated_at": "2026-07-23T00:57:58Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 3,
+    "updated_at": "2026-07-23T00:51:58Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T00:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
     "id": "aminturabi/RAGForge",
     "language": "Python",
     "name": "aminturabi/RAGForge",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-23T00:32:11Z",
     "url": "https://github.com/aminturabi/RAGForge"
   },
@@ -34,24 +88,6 @@
     "stars": 449,
     "updated_at": "2026-07-23T00:31:36Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T00:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T00:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T00:14:46Z",
+    "updated_at": "2026-07-23T00:46:54Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -148,7 +184,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33509,
+    "stars": 33510,
     "updated_at": "2026-07-22T23:22:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -175,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63697,
+    "stars": 63698,
     "updated_at": "2026-07-22T23:10:00Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -373,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29170,
+    "stars": 29173,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/fthsrbst/mnema"
   },
   {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 3,
-    "updated_at": "2026-07-22T20:38:58Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T20:35:15Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 773,
-    "updated_at": "2026-07-22T20:33:25Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:29:13Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 44,
-    "updated_at": "2026-07-22T20:13:09Z",
-    "url": "https://github.com/vector-index-bench/vibe"
   }
 ]
