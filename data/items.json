@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:41:51Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T17:41:44Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T17:37:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 95,
+    "updated_at": "2026-07-23T17:41:40Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-grade .NET 9 RAG platform: Clean Architecture, CQRS, JWT auth, document processing pipeline, Pinecone vector ",
     "id": "imranbscs/ai-knowledge-base-api",
     "language": "C#",
@@ -18,15 +72,6 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T17:21:43Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T17:21:31Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T17:18:06Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -61,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T17:17:11Z",
     "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-23T17:14:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T17:08:49Z",
+    "updated_at": "2026-07-23T17:32:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-07-23T17:22:53Z",
+    "updated_at": "2026-07-23T17:42:41Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "IvayloP0709/langchain-pdf-rag",
     "stars": 0,
-    "updated_at": "2026-07-23T17:04:32Z",
+    "updated_at": "2026-07-23T17:35:43Z",
     "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T16:59:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
@@ -162,15 +198,6 @@
     "url": "https://github.com/IhabAltekreeti/vaultify"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T17:17:10Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
     "id": "pg-cuvs/pg_cuvs",
     "language": "C",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T17:24:29Z",
+    "updated_at": "2026-07-23T17:41:19Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-23T17:14:19Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
     "id": "kemalbsoylu/localRAGvault",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T15:02:23Z",
     "url": "https://github.com/KowshikGarapati/Memoria"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:00:14Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 1,
-    "updated_at": "2026-07-23T14:56:47Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
   }
 ]
