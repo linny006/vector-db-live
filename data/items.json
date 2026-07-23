@@ -1,12 +1,12 @@
 [
   {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-07-23T13:52:34Z",
-    "url": "https://github.com/weaviate/docs"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
@@ -14,17 +14,35 @@
     "language": "Go",
     "name": "loreste/limyeDB",
     "stars": 0,
-    "updated_at": "2026-07-23T13:52:08Z",
+    "updated_at": "2026-07-23T13:59:53Z",
     "url": "https://github.com/loreste/limyeDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T13:49:14Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-23T13:55:10Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:54:15Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-07-23T13:52:34Z",
+    "url": "https://github.com/weaviate/docs"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T13:48:08Z",
+    "updated_at": "2026-07-23T13:59:17Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 89,
     "updated_at": "2026-07-23T13:45:59Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T13:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A production-grade system that ingests data from REST APIs, processes it with LangChain and local LLMs (Ollama), and fir",
@@ -95,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T13:45:23Z",
+    "updated_at": "2026-07-23T13:58:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -121,7 +130,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29197,
+    "stars": 29198,
     "updated_at": "2026-07-23T13:31:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58705,
-    "updated_at": "2026-07-23T13:54:20Z",
+    "updated_at": "2026-07-23T13:59:15Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -310,7 +319,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12671,
+    "stars": 12672,
     "updated_at": "2026-07-23T12:36:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -319,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33526,
+    "stars": 33527,
     "updated_at": "2026-07-23T12:29:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T11:10:54Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:54:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
