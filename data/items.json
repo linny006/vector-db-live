@@ -5,16 +5,52 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T08:30:21Z",
+    "updated_at": "2026-07-23T08:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T08:43:51Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "NLP embedding classification and Qdrant vector search pipeline for automated scientific literature recommendation.",
+    "id": "huubMichelsen/text-embedding-class-gf",
+    "language": "Python",
+    "name": "huubMichelsen/text-embedding-class-gf",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:43:41Z",
+    "url": "https://github.com/huubMichelsen/text-embedding-class-gf"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-23T08:33:18Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T08:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29190,
-    "updated_at": "2026-07-23T08:28:08Z",
+    "stars": 29191,
+    "updated_at": "2026-07-23T08:44:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -27,20 +63,11 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T08:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45339,
+    "stars": 45340,
     "updated_at": "2026-07-23T08:14:46Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -50,13 +77,22 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 2,
-    "updated_at": "2026-07-23T08:16:46Z",
+    "updated_at": "2026-07-23T08:32:47Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33521,
+    "updated_at": "2026-07-23T08:03:56Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
     "id": "rathinGithub/enterprise-agentic-ai-platform",
-    "language": "\u2014",
+    "language": "Java",
     "name": "rathinGithub/enterprise-agentic-ai-platform",
     "stars": 0,
     "updated_at": "2026-07-23T08:03:20Z",
@@ -81,22 +117,22 @@
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33520,
-    "updated_at": "2026-07-23T08:03:56Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12671,
-    "updated_at": "2026-07-23T08:13:40Z",
+    "updated_at": "2026-07-23T08:37:27Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:46:14Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "nishu-builder/git-vdb",
     "stars": 0,
-    "updated_at": "2026-07-23T07:35:16Z",
+    "updated_at": "2026-07-23T08:37:59Z",
     "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/justin-haffey/local-rag"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T08:28:37Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -214,15 +241,6 @@
     "stars": 75,
     "updated_at": "2026-07-23T07:08:07Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:03:25Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T07:49:17Z",
+    "updated_at": "2026-07-23T08:35:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 6,
     "updated_at": "2026-07-23T05:55:47Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:55:29Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:04:47Z",
     "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
-  },
-  {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:04:46Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
   }
 ]
