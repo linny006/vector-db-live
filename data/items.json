@@ -1,11 +1,92 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 32,
+    "updated_at": "2026-07-23T06:59:06Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Production-grade Financial RAG for SEC 10-K filings with structure-aware parsing, semantic chunking, multi-stage retriev",
+    "id": "TrailBlazer-1081729/AlphaLens-AI",
+    "language": "Python",
+    "name": "TrailBlazer-1081729/AlphaLens-AI",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:56:10Z",
+    "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:55:59Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T06:55:31Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Converts YouTube videos into blog posts written in your own voice, using RAG-based style grounding with local embeddings",
+    "id": "Suhanichaplot/youtube-to-blog-converter",
+    "language": "Python",
+    "name": "Suhanichaplot/youtube-to-blog-converter",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:55:11Z",
+    "url": "https://github.com/Suhanichaplot/youtube-to-blog-converter"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T06:54:09Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-23T06:49:13Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T06:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-23T06:44:18Z",
+    "updated_at": "2026-07-23T06:52:25Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:39:48Z",
     "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T06:39:42Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:31:11Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:52:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:51:58Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
@@ -403,50 +448,5 @@
     "stars": 243,
     "updated_at": "2026-07-23T03:48:22Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 127,
-    "updated_at": "2026-07-23T03:39:52Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
-    "id": "andreiramani/pgvector_pgsql_windows",
-    "language": "\u2014",
-    "name": "andreiramani/pgvector_pgsql_windows",
-    "stars": 182,
-    "updated_at": "2026-07-23T03:35:54Z",
-    "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-07-23T03:35:08Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 450,
-    "updated_at": "2026-07-23T03:34:55Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1400,
-    "updated_at": "2026-07-23T03:36:36Z",
-    "url": "https://github.com/milvus-io/pymilvus"
   }
 ]
