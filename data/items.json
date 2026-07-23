@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "nngochai2/loom",
+    "language": "Python",
+    "name": "nngochai2/loom",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:43:14Z",
+    "url": "https://github.com/nngochai2/loom"
+  },
+  {
+    "description": "A sample application providing a HR assistant chatbot. It leverages RavenDB database and RavenDB AI.",
+    "id": "ravendb/samples-hr",
+    "language": "C#",
+    "name": "ravendb/samples-hr",
+    "stars": 1,
+    "updated_at": "2026-07-23T09:40:32Z",
+    "url": "https://github.com/ravendb/samples-hr"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +36,40 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58701,
+    "updated_at": "2026-07-23T09:29:08Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 29190,
+    "updated_at": "2026-07-23T09:43:34Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33519,
+    "updated_at": "2026-07-23T09:36:25Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:18:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -23,7 +77,7 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 2,
-    "updated_at": "2026-07-23T09:29:24Z",
+    "updated_at": "2026-07-23T09:35:23Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "XploitMonk0x01/crimegpt",
     "stars": 3,
-    "updated_at": "2026-07-23T09:12:34Z",
+    "updated_at": "2026-07-23T09:31:31Z",
     "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
@@ -72,21 +126,12 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29191,
-    "updated_at": "2026-07-23T09:24:56Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1863,
-    "updated_at": "2026-07-23T09:29:41Z",
+    "updated_at": "2026-07-23T09:42:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T09:26:41Z",
+    "updated_at": "2026-07-23T09:41:50Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45340,
-    "updated_at": "2026-07-23T09:16:45Z",
+    "updated_at": "2026-07-23T09:42:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T09:21:58Z",
+    "updated_at": "2026-07-23T09:34:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -275,8 +320,17 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T09:20:37Z",
+    "updated_at": "2026-07-23T09:45:24Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T08:07:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -286,15 +340,6 @@
     "stars": 9391,
     "updated_at": "2026-07-23T09:26:23Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33520,
-    "updated_at": "2026-07-23T09:24:45Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The AI search platform",
@@ -387,15 +432,6 @@
     "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:18:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
     "id": "justin-haffey/local-rag",
     "language": "C#",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:23:17Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-23T07:08:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-07-23T07:02:48Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T09:14:09Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Converts YouTube videos into blog posts written in your own voice, using RAG-based style grounding with local embeddings",
-    "id": "Suhanichaplot/youtube-to-blog-converter",
-    "language": "Python",
-    "name": "Suhanichaplot/youtube-to-blog-converter",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:55:11Z",
-    "url": "https://github.com/Suhanichaplot/youtube-to-blog-converter"
   }
 ]
