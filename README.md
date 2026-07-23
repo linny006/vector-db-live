@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 00:00 UTC
+> ⏰ Last updated: 2026-07-23 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AnOversizedMooseWithSocks/leCore](https://github.com/AnOversizedMooseWithSocks/leCore) | 8 | Python | 2026-07-22 | The holographic core for leOS |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 449 | TypeScript | 2026-07-22 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-07-22 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 449 | TypeScript | 2026-07-23 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [AnOversizedMooseWithSocks/leCore](https://github.com/AnOversizedMooseWithSocks/leCore) | 8 | Python | 2026-07-22 | The holographic core for leOS |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-07-23 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
 | 8 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1604 | Python | 2026-07-22 | Unified multimodal backend for AI data apps |
 | 9 | [pg-cuvs/pg_cuvs](https://github.com/pg-cuvs/pg_cuvs) | 4 | C | 2026-07-22 | ⚡ Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS. |
-| 10 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45331 | Go | 2026-07-22 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 10 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45331 | Go | 2026-07-23 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 11 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 1 | Rust | 2026-07-22 | Decentralized Graph Database with Integrated Vector Search |
 | 12 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 371 | Python | 2026-07-22 | Independent Autistic Intelligence — a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai |
 | 13 | [andrewkorot/realestate-rag-fastapi](https://github.com/andrewkorot/realestate-rag-fastapi) | 0 | Python | 2026-07-22 | RAG API for querying real estate investment properties using natural language — built with Python, FastAPI, MongoDB, and |
@@ -67,10 +67,10 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [LangModule/ingestlib-studio](https://github.com/LangModule/ingestlib-studio) | 1 | Python | 2026-07-22 | Visual review UI for ingestlib — hover-highlight parse inspection and cited retrieval, straight from your own stack. |
 | 24 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-07-22 | Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering. |
 | 25 | [LangModule/ingestlib](https://github.com/LangModule/ingestlib) | 2 | Python | 2026-07-22 | Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors. |
-| 26 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-22 | The Ultimate Vectors Library for Java |
+| 26 | [integrallis/vectors](https://github.com/integrallis/vectors) | 0 | Java | 2026-07-23 | The Ultimate Vectors Library for Java |
 | 27 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-07-22 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
 | 28 | [AnthonySotoData/ProcureAI](https://github.com/AnthonySotoData/ProcureAI) | 0 | Python | 2026-07-22 | AI-powered procurement and contract intelligence platform using RAG, semantic search, structured LLM outputs, FastAPI, a |
-| 29 | [MariaDB/server](https://github.com/MariaDB/server) | 7884 | C++ | 2026-07-22 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 29 | [MariaDB/server](https://github.com/MariaDB/server) | 7884 | C++ | 2026-07-23 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 30 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1863 | Go | 2026-07-22 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 31 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33507 | Rust | 2026-07-22 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 32 | [pinecone-io/terraform-provider-pinecone](https://github.com/pinecone-io/terraform-provider-pinecone) | 32 | Go | 2026-07-22 | Official Terraform provider for Pinecone  |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 32 | Rust | 2026-07-22 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
 | 36 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 1 | Python | 2026-07-22 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
 | 37 | [opencrawling/opencrawling](https://github.com/opencrawling/opencrawling) | 10 | Java | 2026-07-22 | Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor |
-| 38 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29167 | Python | 2026-07-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 38 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29168 | Python | 2026-07-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 39 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 10961 | HTML | 2026-07-22 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 40 | [oracle/langchain-oracle](https://github.com/oracle/langchain-oracle) | 59 | Python | 2026-07-22 | The Oracle LangChain integration provides official LangChain support for Oracle’s Generative AI and AI Platform services |
 | 41 | [fthsrbst/mnema](https://github.com/fthsrbst/mnema) | 2 | TypeScript | 2026-07-22 | Mnema — one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi- |
