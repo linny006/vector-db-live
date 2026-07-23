@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T09:15:21Z",
+    "updated_at": "2026-07-23T09:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:29:24Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "AI powered crime documentation legal intelligence platform",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "lightonai/next-plaid",
     "stars": 518,
-    "updated_at": "2026-07-23T09:11:11Z",
+    "updated_at": "2026-07-23T09:11:13Z",
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
@@ -54,13 +72,13 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 29191,
+    "updated_at": "2026-07-23T09:24:56Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -68,8 +86,17 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1863,
-    "updated_at": "2026-07-23T08:59:40Z",
+    "updated_at": "2026-07-23T09:29:41Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-07-23T08:56:29Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T09:02:45Z",
+    "updated_at": "2026-07-23T09:26:41Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45340,
-    "updated_at": "2026-07-23T08:51:40Z",
+    "updated_at": "2026-07-23T09:16:45Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -122,17 +149,17 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T08:50:51Z",
+    "updated_at": "2026-07-23T09:24:02Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29190,
-    "updated_at": "2026-07-23T09:01:33Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:46:30Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
     "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
@@ -153,12 +180,21 @@
     "url": "https://github.com/huubMichelsen/text-embedding-class-gf"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12671,
+    "updated_at": "2026-07-23T08:37:27Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 57,
-    "updated_at": "2026-07-23T08:36:22Z",
+    "updated_at": "2026-07-23T09:26:44Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T09:12:04Z",
+    "updated_at": "2026-07-23T09:21:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -187,6 +223,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T08:33:18Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:31:17Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -230,17 +275,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T09:14:00Z",
+    "updated_at": "2026-07-23T09:20:37Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:14:00Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9391,
-    "updated_at": "2026-07-23T08:04:33Z",
+    "updated_at": "2026-07-23T09:26:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33520,
-    "updated_at": "2026-07-23T08:03:56Z",
+    "updated_at": "2026-07-23T09:24:45Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -268,6 +304,15 @@
     "stars": 7029,
     "updated_at": "2026-07-23T08:02:47Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:00:06Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:52:25Z",
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12671,
-    "updated_at": "2026-07-23T08:37:27Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
@@ -322,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:42:31Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:46:30Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
     "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
@@ -365,7 +392,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-23T08:17:43Z",
+    "updated_at": "2026-07-23T09:18:21Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T08:13:20Z",
+    "updated_at": "2026-07-23T09:14:09Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:55:11Z",
     "url": "https://github.com/Suhanichaplot/youtube-to-blog-converter"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 110,
-    "updated_at": "2026-07-23T07:20:49Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16638,
-    "updated_at": "2026-07-23T09:13:13Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 372,
-    "updated_at": "2026-07-23T06:34:23Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   }
 ]
