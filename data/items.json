@@ -1,5 +1,77 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-23T07:08:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:05:02Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:03:25Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T07:06:34Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-23T07:02:48Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T07:01:03Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -18,24 +90,6 @@
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
   },
   {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:55:59Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T06:55:31Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Converts YouTube videos into blog posts written in your own voice, using RAG-based style grounding with local embeddings",
     "id": "Suhanichaplot/youtube-to-blog-converter",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Suhanichaplot/youtube-to-blog-converter"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T06:54:09Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "Python",
@@ -61,24 +106,6 @@
     "stars": 27,
     "updated_at": "2026-07-23T06:49:13Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T07:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "NUPUR32/Multi_Agent_AI_System",
     "stars": 1,
-    "updated_at": "2026-07-23T06:39:48Z",
+    "updated_at": "2026-07-23T07:12:35Z",
     "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T06:37:22Z",
+    "updated_at": "2026-07-23T07:13:21Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -148,7 +175,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45337,
+    "stars": 45338,
     "updated_at": "2026-07-23T06:26:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -205,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T05:58:06Z",
     "url": "https://github.com/MaxFreedomPollard/engRAM"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-23T05:56:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
@@ -342,15 +360,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-07-23T05:06:00Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
     "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
     "id": "DeveloperChetram/Contextual_Chatbot_React",
     "language": "JavaScript",
@@ -419,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1038,
-    "updated_at": "2026-07-23T04:07:45Z",
+    "updated_at": "2026-07-23T07:04:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7028,
     "updated_at": "2026-07-23T04:04:23Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 243,
-    "updated_at": "2026-07-23T03:48:22Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
