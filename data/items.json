@@ -1,5 +1,50 @@
 [
   {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-23T08:00:06Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "Production-grade Financial RAG for SEC 10-K filings with structure-aware parsing, semantic chunking, multi-stage retriev",
+    "id": "TrailBlazer-1081729/AlphaLens-AI",
+    "language": "Python",
+    "name": "TrailBlazer-1081729/AlphaLens-AI",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:52:25Z",
+    "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33520,
+    "updated_at": "2026-07-23T07:52:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12670,
+    "updated_at": "2026-07-23T07:47:01Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -25,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:36:21Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7886,
+    "updated_at": "2026-07-23T07:35:25Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:30:57Z",
     "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T07:18:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T07:01:03Z",
+    "updated_at": "2026-07-23T07:59:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "Production-grade Financial RAG for SEC 10-K filings with structure-aware parsing, semantic chunking, multi-stage retriev",
-    "id": "TrailBlazer-1081729/AlphaLens-AI",
-    "language": "Python",
-    "name": "TrailBlazer-1081729/AlphaLens-AI",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:56:10Z",
-    "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
-  },
-  {
     "description": "Converts YouTube videos into blog posts written in your own voice, using RAG-based style grounding with local embeddings",
     "id": "Suhanichaplot/youtube-to-blog-converter",
     "language": "Python",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:55:11Z",
     "url": "https://github.com/Suhanichaplot/youtube-to-blog-converter"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-23T07:44:06Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T07:16:22Z",
+    "updated_at": "2026-07-23T07:49:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45338,
-    "updated_at": "2026-07-23T06:26:43Z",
+    "updated_at": "2026-07-23T07:53:59Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T07:19:08Z",
+    "updated_at": "2026-07-23T07:50:20Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T07:22:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7887,
-    "updated_at": "2026-07-23T07:35:25Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9390,
-    "updated_at": "2026-07-23T07:34:31Z",
+    "updated_at": "2026-07-23T07:51:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 57,
     "updated_at": "2026-07-23T04:35:03Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-23T04:26:11Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
-    "id": "LangModule/ingestlib",
-    "language": "Python",
-    "name": "LangModule/ingestlib",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:15:05Z",
-    "url": "https://github.com/LangModule/ingestlib"
   }
 ]
