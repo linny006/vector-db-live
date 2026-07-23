@@ -1,11 +1,83 @@
 [
   {
+    "description": "A Multi-Modal RAG Knowledge Engine An intelligent knowledge graph system that ingests video, audio, and PDF documents to",
+    "id": "Diluksha-Upeka/Neurospace",
+    "language": "Python",
+    "name": "Diluksha-Upeka/Neurospace",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:11:02Z",
+    "url": "https://github.com/Diluksha-Upeka/Neurospace"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:10:45Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
+    "id": "ashraful2871/Salon-Management-Frontend",
+    "language": "TypeScript",
+    "name": "ashraful2871/Salon-Management-Frontend",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:10:38Z",
+    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:09:45Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:04:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T16:06:47Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "JavaScript",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:04:14Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T16:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T16:00:27Z",
+    "updated_at": "2026-07-23T16:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,24 +117,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T15:58:26Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:54:59Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12747,
-    "updated_at": "2026-07-23T15:54:21Z",
+    "updated_at": "2026-07-23T16:01:05Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -85,7 +139,7 @@
     "id": "pg-cuvs/pg_cuvs",
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-07-23T15:51:47Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T15:47:13Z",
+    "updated_at": "2026-07-23T16:03:37Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12672,
-    "updated_at": "2026-07-23T15:46:06Z",
+    "updated_at": "2026-07-23T16:05:57Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T15:43:38Z",
+    "updated_at": "2026-07-23T16:10:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T15:40:48Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:36:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T15:19:55Z",
+    "updated_at": "2026-07-23T16:06:30Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33531,
-    "updated_at": "2026-07-23T15:09:12Z",
+    "updated_at": "2026-07-23T16:01:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T15:55:30Z",
+    "updated_at": "2026-07-23T16:04:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T14:56:47Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:02:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -412,41 +448,5 @@
     "stars": 6149,
     "updated_at": "2026-07-23T13:53:51Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-07-23T14:39:21Z",
-    "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7887,
-    "updated_at": "2026-07-23T15:35:21Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16637,
-    "updated_at": "2026-07-23T15:54:11Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:31:56Z",
-    "url": "https://github.com/agent-ix/ecaz"
   }
 ]
