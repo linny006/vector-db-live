@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
+    "id": "IvayloP0709/langchain-pdf-rag",
+    "language": "Python",
+    "name": "IvayloP0709/langchain-pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T18:42:09Z",
+    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -61,24 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T18:19:56Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
@@ -149,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1038,
-    "updated_at": "2026-07-23T18:00:44Z",
+    "updated_at": "2026-07-23T18:40:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T18:24:22Z",
+    "updated_at": "2026-07-23T18:42:27Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33534,
-    "updated_at": "2026-07-23T18:18:21Z",
+    "updated_at": "2026-07-23T18:43:40Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T17:50:03Z",
+    "updated_at": "2026-07-23T18:30:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 4416,
     "updated_at": "2026-07-23T18:13:17Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:27:33Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
