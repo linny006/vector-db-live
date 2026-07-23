@@ -1,5 +1,68 @@
 [
   {
+    "description": "PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.",
+    "id": "ayoubnabil/aiondb",
+    "language": "Rust",
+    "name": "ayoubnabil/aiondb",
+    "stars": 49,
+    "updated_at": "2026-07-23T22:56:59Z",
+    "url": "https://github.com/ayoubnabil/aiondb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-23T22:54:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1038,
+    "updated_at": "2026-07-23T22:50:16Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6271,
+    "updated_at": "2026-07-23T22:49:50Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-23T22:48:41Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T22:48:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T22:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,13 +99,13 @@
     "url": "https://github.com/kamilsj/vectors"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T22:32:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Production-ready Medical Retrieval-Augmented Generation (RAG) Assistant using OpenAI, Pinecone, Flask, Docker, and AWS.",
+    "id": "Basie12/medical-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "Basie12/medical-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T22:36:26Z",
+    "url": "https://github.com/Basie12/medical-rag-assistant"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -52,6 +115,15 @@
     "stars": 29226,
     "updated_at": "2026-07-23T22:43:54Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33536,
+    "updated_at": "2026-07-23T22:26:31Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Router-Retriever RAG over a Chroma vector store with OpenAI embeddings \u2014 two-stage routing (keyword heuristic + LLM fall",
@@ -72,15 +144,6 @@
     "url": "https://github.com/libraz/nvecd"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T22:22:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -88,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T22:16:17Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45350,
+    "updated_at": "2026-07-23T22:15:04Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
@@ -124,24 +196,6 @@
     "stars": 1864,
     "updated_at": "2026-07-23T22:01:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6270,
-    "updated_at": "2026-07-23T22:44:04Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:58:52Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -189,15 +243,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1038,
-    "updated_at": "2026-07-23T21:43:45Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
     "id": "darylalim/rag-pipeline",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T21:18:47Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45349,
-    "updated_at": "2026-07-23T22:15:04Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
@@ -243,15 +279,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:02:20Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
@@ -265,7 +292,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6155,
+    "stars": 6156,
     "updated_at": "2026-07-23T20:47:45Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T22:32:27Z",
+    "updated_at": "2026-07-23T22:49:46Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -355,18 +382,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34193,
+    "stars": 34194,
     "updated_at": "2026-07-23T19:34:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33535,
-    "updated_at": "2026-07-23T22:26:31Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Profile README",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:53:09Z",
     "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:44:38Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov",
-    "id": "IvayloP0709/langchain-pdf-rag",
-    "language": "Python",
-    "name": "IvayloP0709/langchain-pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:42:09Z",
-    "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   }
 ]
