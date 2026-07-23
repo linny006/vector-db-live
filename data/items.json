@@ -1,11 +1,38 @@
 [
   {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-07-23T10:40:12Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:36:14Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T10:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T10:30:22Z",
+    "updated_at": "2026-07-23T10:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,6 +63,15 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:17:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -43,15 +79,6 @@
     "stars": 33522,
     "updated_at": "2026-07-23T10:15:41Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T10:24:13Z",
+    "updated_at": "2026-07-23T10:42:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -103,7 +130,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58703,
+    "stars": 58704,
     "updated_at": "2026-07-23T09:55:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -162,6 +189,15 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4627,
+    "updated_at": "2026-07-23T09:35:10Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
     "description": "The Personal AI Assistant that connects every channel you use.",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -187,15 +223,6 @@
     "stars": 29190,
     "updated_at": "2026-07-23T10:26:14Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T10:17:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 57,
-    "updated_at": "2026-07-23T09:26:44Z",
+    "updated_at": "2026-07-23T10:39:00Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -374,8 +401,17 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T10:22:04Z",
+    "updated_at": "2026-07-23T10:33:21Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-07-23T08:10:38Z",
+    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -412,41 +448,5 @@
     "stars": 27,
     "updated_at": "2026-07-23T08:00:06Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Production-grade Financial RAG for SEC 10-K filings with structure-aware parsing, semantic chunking, multi-stage retriev",
-    "id": "TrailBlazer-1081729/AlphaLens-AI",
-    "language": "Python",
-    "name": "TrailBlazer-1081729/AlphaLens-AI",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:52:25Z",
-    "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
-  },
-  {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:46:14Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Multi-tenant RAG platform \u2014 AI document intelligence with hybrid search, LLM failover, and source attribution. Built wit",
-    "id": "nicuk/docsflow",
-    "language": "TypeScript",
-    "name": "nicuk/docsflow",
-    "stars": 2,
-    "updated_at": "2026-07-23T07:43:19Z",
-    "url": "https://github.com/nicuk/docsflow"
-  },
-  {
-    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
-    "id": "armaghanai/rag-assistant-pdf-text-sql",
-    "language": "Python",
-    "name": "armaghanai/rag-assistant-pdf-text-sql",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:42:31Z",
-    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
   }
 ]
