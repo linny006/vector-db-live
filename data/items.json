@@ -1,21 +1,102 @@
 [
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
+    "description": "",
+    "id": "nngochai2/loom",
     "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-07-23T10:40:12Z",
-    "url": "https://github.com/Yasou13/MESA"
+    "name": "nngochai2/loom",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:58:32Z",
+    "url": "https://github.com/nngochai2/loom"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-23T10:57:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T10:56:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:54:53Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29190,
+    "updated_at": "2026-07-23T10:54:44Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T10:51:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:52:38Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
+    "id": "rathinGithub/enterprise-agentic-ai-platform",
     "language": "Java",
-    "name": "integrallis/vectors",
+    "name": "rathinGithub/enterprise-agentic-ai-platform",
     "stars": 0,
-    "updated_at": "2026-07-23T10:36:14Z",
-    "url": "https://github.com/integrallis/vectors"
+    "updated_at": "2026-07-23T10:49:04Z",
+    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T10:53:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45342,
+    "updated_at": "2026-07-23T10:46:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33523,
+    "updated_at": "2026-07-23T10:45:35Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T10:30:29Z",
+    "updated_at": "2026-07-23T10:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,6 +115,33 @@
     "stars": 3,
     "updated_at": "2026-07-23T10:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-07-23T10:40:12Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "LLM App to demystify and summarize Terms and Conditions agreements",
+    "id": "dsba6010-llm-applications/baemax_tc",
+    "language": "Jupyter Notebook",
+    "name": "dsba6010-llm-applications/baemax_tc",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:36:52Z",
+    "url": "https://github.com/dsba6010-llm-applications/baemax_tc"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:48:05Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -54,15 +162,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T10:20:26Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -70,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T10:17:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33522,
-    "updated_at": "2026-07-23T10:15:41Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T10:13:43Z",
     "url": "https://github.com/Agenvana/ragleakguard-agent"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T10:21:36Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -144,33 +225,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "",
-    "id": "nngochai2/loom",
-    "language": "Python",
-    "name": "nngochai2/loom",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:28:26Z",
-    "url": "https://github.com/nngochai2/loom"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45341,
-    "updated_at": "2026-07-23T09:42:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T10:19:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A sample application providing a HR assistant chatbot. It leverages RavenDB database and RavenDB AI.",
     "id": "ravendb/samples-hr",
     "language": "C#",
@@ -184,8 +238,8 @@
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:35:23Z",
+    "stars": 3,
+    "updated_at": "2026-07-23T10:54:14Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-07-23T09:32:10Z",
+    "updated_at": "2026-07-23T10:58:47Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T09:31:31Z",
     "url": "https://github.com/XploitMonk0x01/crimegpt"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29190,
-    "updated_at": "2026-07-23T10:26:14Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -342,15 +387,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
-    "id": "rathinGithub/enterprise-agentic-ai-platform",
-    "language": "Java",
-    "name": "rathinGithub/enterprise-agentic-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:35:25Z",
-    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 78,
     "updated_at": "2026-07-23T08:10:38Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:07:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7029,
-    "updated_at": "2026-07-23T08:02:47Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:00:06Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-23T08:00:06Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
