@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight starter kit for setting up a local development machine for AI applications, RAG experiments, and agentic w",
+    "id": "uncle-voh-max/local-ai-devkit",
+    "language": "Python",
+    "name": "uncle-voh-max/local-ai-devkit",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:14:44Z",
+    "url": "https://github.com/uncle-voh-max/local-ai-devkit"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:14:20Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2201,
+    "updated_at": "2026-07-23T19:06:27Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1038,
-    "updated_at": "2026-07-23T18:59:37Z",
+    "updated_at": "2026-07-23T19:06:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -34,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:52:12Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "A lightweight starter kit for setting up a local development machine for AI applications, RAG experiments, and agentic w",
-    "id": "uncle-voh-max/local-ai-devkit",
-    "language": "Python",
-    "name": "uncle-voh-max/local-ai-devkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:49:14Z",
-    "url": "https://github.com/uncle-voh-max/local-ai-devkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:45:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T18:56:33Z",
+    "updated_at": "2026-07-23T19:13:06Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 95,
-    "updated_at": "2026-07-23T18:48:05Z",
+    "updated_at": "2026-07-23T19:01:53Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 209,
     "updated_at": "2026-07-23T17:26:43Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:21:31Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -376,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T16:20:54Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2201,
-    "updated_at": "2026-07-23T16:19:24Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "A Multi-Modal RAG Knowledge Engine An intelligent knowledge graph system that ingests video, audio, and PDF documents to",
