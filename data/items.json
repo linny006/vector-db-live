@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T15:00:29Z",
+    "updated_at": "2026-07-23T15:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:10:59Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T15:06:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-07-23T15:05:40Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:05:28Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T15:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-07-23T15:00:14Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-23T14:57:14Z",
+    "updated_at": "2026-07-23T15:02:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-07-23T14:48:49Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "A secondary brain for Humans, which remembers your digital knowledge. It captures and remembers everything you wish it t",
@@ -59,7 +104,7 @@
     "language": "Java",
     "name": "KowshikGarapati/Memoria",
     "stars": 0,
-    "updated_at": "2026-07-23T14:46:55Z",
+    "updated_at": "2026-07-23T15:02:23Z",
     "url": "https://github.com/KowshikGarapati/Memoria"
   },
   {
@@ -68,17 +113,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-23T14:52:32Z",
+    "updated_at": "2026-07-23T15:14:06Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T14:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45346,
-    "updated_at": "2026-07-23T14:42:46Z",
+    "updated_at": "2026-07-23T15:10:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6263,
-    "updated_at": "2026-07-23T14:23:24Z",
+    "updated_at": "2026-07-23T15:10:42Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 450,
     "updated_at": "2026-07-23T14:21:57Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6189,
-    "updated_at": "2026-07-23T14:48:49Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -185,7 +212,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-23T14:15:38Z",
+    "updated_at": "2026-07-23T15:15:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33529,
-    "updated_at": "2026-07-23T14:56:36Z",
+    "updated_at": "2026-07-23T15:09:12Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7887,
-    "updated_at": "2026-07-23T14:41:42Z",
+    "updated_at": "2026-07-23T15:13:10Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-23T14:59:58Z",
+    "updated_at": "2026-07-23T15:08:01Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T13:59:17Z",
+    "updated_at": "2026-07-23T15:08:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -373,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29197,
+    "stars": 29198,
     "updated_at": "2026-07-23T13:31:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,33 +439,6 @@
     "stars": 182,
     "updated_at": "2026-07-23T13:08:43Z",
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:54:39Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:50:41Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:00:14Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
