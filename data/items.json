@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T22:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T22:30:20Z",
+    "updated_at": "2026-07-23T22:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T22:44:28Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-07-23T22:43:41Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-23T22:42:56Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T22:32:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29226,
-    "updated_at": "2026-07-23T22:30:07Z",
+    "updated_at": "2026-07-23T22:43:54Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6270,
-    "updated_at": "2026-07-23T22:29:17Z",
+    "updated_at": "2026-07-23T22:44:04Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:54:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Enterprise RAG Knowledge Base. Upload PDFs and chat with the data using Pinecone Vector Search, Jina Embeddings, and Gro",
     "id": "SomeoneGitMe/enterprise-rag",
     "language": "TypeScript",
@@ -171,15 +189,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:29:16Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T21:18:47Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:17:51Z",
-    "url": "https://github.com/livendb/liven"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -302,7 +302,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T21:52:33Z",
+    "updated_at": "2026-07-23T22:32:27Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
