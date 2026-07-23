@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
+    "id": "justin-haffey/local-rag",
+    "language": "C#",
+    "name": "justin-haffey/local-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:17:26Z",
+    "url": "https://github.com/justin-haffey/local-rag"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "NUPUR32/Multi_Agent_AI_System",
     "stars": 1,
-    "updated_at": "2026-07-23T07:12:35Z",
+    "updated_at": "2026-07-23T07:15:42Z",
     "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T07:13:21Z",
+    "updated_at": "2026-07-23T07:15:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:52:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
-    "id": "justin-haffey/local-rag",
-    "language": "C#",
-    "name": "justin-haffey/local-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:48:23Z",
-    "url": "https://github.com/justin-haffey/local-rag"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
