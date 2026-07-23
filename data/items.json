@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T07:39:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
+    "id": "Agenvana/ragleakguard-agent",
+    "language": "Python",
+    "name": "Agenvana/ragleakguard-agent",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:39:01Z",
+    "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
+    "id": "armaghanai/rag-assistant-pdf-text-sql",
+    "language": "Python",
+    "name": "armaghanai/rag-assistant-pdf-text-sql",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:36:21Z",
+    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
+  },
+  {
+    "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
+    "id": "NUPUR32/Multi_Agent_AI_System",
+    "language": "Python",
+    "name": "NUPUR32/Multi_Agent_AI_System",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:35:07Z",
+    "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-23T07:33:50Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
+    "id": "rathinGithub/enterprise-agentic-ai-platform",
+    "language": "\u2014",
+    "name": "rathinGithub/enterprise-agentic-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:31:06Z",
+    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
+  },
+  {
+    "description": "Offline AI Research Assistant using Streamlit, FAISS, Sentence Transformers and Ollama (Llama 3.2) with conversational m",
+    "id": "LokeshShukla910/RAG-Research_Assistant",
+    "language": "Python",
+    "name": "LokeshShukla910/RAG-Research_Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:30:57Z",
+    "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-07-23T07:18:25Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:17:44Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
@@ -27,21 +99,12 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T07:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T07:16:29Z",
+    "updated_at": "2026-07-23T07:35:53Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "Zizka-ai/ZizkaDB",
     "stars": 27,
-    "updated_at": "2026-07-23T06:49:13Z",
+    "updated_at": "2026-07-23T07:44:06Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
@@ -131,26 +194,8 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-23T06:52:25Z",
+    "updated_at": "2026-07-23T07:20:49Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Offline AI Research Assistant using Streamlit, FAISS, Sentence Transformers and Ollama (Llama 3.2) with conversational m",
-    "id": "LokeshShukla910/RAG-Research_Assistant",
-    "language": "Python",
-    "name": "LokeshShukla910/RAG-Research_Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:41:11Z",
-    "url": "https://github.com/LokeshShukla910/RAG-Research_Assistant"
-  },
-  {
-    "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
-    "id": "NUPUR32/Multi_Agent_AI_System",
-    "language": "Python",
-    "name": "NUPUR32/Multi_Agent_AI_System",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:28:44Z",
-    "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:31:55Z",
     "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
-  },
-  {
-    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
-    "id": "armaghanai/rag-assistant-pdf-text-sql",
-    "language": "Python",
-    "name": "armaghanai/rag-assistant-pdf-text-sql",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:31:11Z",
-    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -239,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7887,
-    "updated_at": "2026-07-23T06:00:41Z",
+    "updated_at": "2026-07-23T07:35:25Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:52:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T06:23:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9390,
-    "updated_at": "2026-07-23T06:31:33Z",
+    "updated_at": "2026-07-23T07:34:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T04:15:05Z",
     "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1038,
-    "updated_at": "2026-07-23T07:04:10Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RAG Document QA Chatbot with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs",
-    "id": "Sasireddy001/rag-document-qa",
-    "language": "Python",
-    "name": "Sasireddy001/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:04:25Z",
-    "url": "https://github.com/Sasireddy001/rag-document-qa"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7028,
-    "updated_at": "2026-07-23T04:04:23Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
