@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T20:24:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:23:53Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,24 +54,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:11:18Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:09:37Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
     "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
     "id": "livendb/liven",
     "language": "Rust",
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T20:07:01Z",
+    "updated_at": "2026-07-23T20:28:02Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -130,9 +139,18 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34192,
+    "stars": 34193,
     "updated_at": "2026-07-23T19:34:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33535,
+    "updated_at": "2026-07-23T19:34:30Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -140,17 +158,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6267,
-    "updated_at": "2026-07-23T20:14:38Z",
+    "updated_at": "2026-07-23T20:17:53Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T19:31:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Profile README",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T19:53:11Z",
+    "updated_at": "2026-07-23T20:30:17Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -283,7 +292,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7887,
+    "stars": 7886,
     "updated_at": "2026-07-23T18:33:16Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -369,20 +378,11 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33534,
-    "updated_at": "2026-07-23T19:34:30Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
-    "stars": 1456,
+    "stars": 1457,
     "updated_at": "2026-07-23T17:43:48Z",
     "url": "https://github.com/datalevin/datalevin"
   },
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 95,
-    "updated_at": "2026-07-23T20:03:58Z",
+    "updated_at": "2026-07-23T20:15:50Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -427,7 +427,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29214,
+    "stars": 29215,
     "updated_at": "2026-07-23T17:18:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
