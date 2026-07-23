@@ -1,5 +1,59 @@
 [
   {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-23T01:44:41Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A local, open-source stack for building conversational data agents and semantic reasoning workflows over an Iceberg Lake",
+    "id": "jaehyeon-kim/agentic-analytics-system",
+    "language": "Python",
+    "name": "jaehyeon-kim/agentic-analytics-system",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:40:40Z",
+    "url": "https://github.com/jaehyeon-kim/agentic-analytics-system"
+  },
+  {
+    "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
+    "id": "LangModule/ingestlib-studio",
+    "language": "TypeScript",
+    "name": "LangModule/ingestlib-studio",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:40:27Z",
+    "url": "https://github.com/LangModule/ingestlib-studio"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:35:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
+    "id": "krish1925/isotrieve",
+    "language": "Python",
+    "name": "krish1925/isotrieve",
+    "stars": 5,
+    "updated_at": "2026-07-23T01:33:56Z",
+    "url": "https://github.com/krish1925/isotrieve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,42 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T01:29:30Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Visual review UI for ingestlib \u2014 hover-highlight parse inspection and cited retrieval, straight from your own stack.",
-    "id": "LangModule/ingestlib-studio",
-    "language": "TypeScript",
-    "name": "LangModule/ingestlib-studio",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:27:42Z",
-    "url": "https://github.com/LangModule/ingestlib-studio"
-  },
-  {
-    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
-    "id": "krish1925/isotrieve",
-    "language": "Python",
-    "name": "krish1925/isotrieve",
-    "stars": 5,
-    "updated_at": "2026-07-23T01:27:01Z",
-    "url": "https://github.com/krish1925/isotrieve"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-23T01:26:30Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:15:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-format RAG ingestion pipelines (PDF, CSV, Excel, JSON, Word, SQL) with a LangGraph + Streamlit document-RAG app",
@@ -126,15 +144,6 @@
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:32:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -169,6 +178,15 @@
     "stars": 7884,
     "updated_at": "2026-07-23T00:14:18Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51019,
+    "updated_at": "2026-07-23T00:10:42Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -297,15 +315,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "A local, open-source stack for building conversational data agents and semantic reasoning workflows over an Iceberg Lake",
-    "id": "jaehyeon-kim/agentic-analytics-system",
-    "language": "Python",
-    "name": "jaehyeon-kim/agentic-analytics-system",
-    "stars": 2,
-    "updated_at": "2026-07-22T22:57:52Z",
-    "url": "https://github.com/jaehyeon-kim/agentic-analytics-system"
-  },
-  {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -322,6 +331,15 @@
     "stars": 2,
     "updated_at": "2026-07-22T22:50:39Z",
     "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1339,
+    "updated_at": "2026-07-22T22:47:45Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6139,
-    "updated_at": "2026-07-22T21:50:13Z",
+    "updated_at": "2026-07-23T01:39:47Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 29174,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "HTML",
-    "name": "lancedb/lancedb",
-    "stars": 10961,
-    "updated_at": "2026-07-22T21:11:57Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 59,
-    "updated_at": "2026-07-22T21:08:53Z",
-    "url": "https://github.com/oracle/langchain-oracle"
   }
 ]
