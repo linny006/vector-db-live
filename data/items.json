@@ -1,12 +1,84 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:12:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T05:11:35Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
+    "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T05:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 372,
+    "updated_at": "2026-07-23T05:11:08Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T05:10:35Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:10:22Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:08:56Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9390,
+    "updated_at": "2026-07-23T05:08:21Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-23T05:06:00Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:04:47Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
     "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
@@ -14,8 +86,26 @@
     "language": "Python",
     "name": "Sidra-009/vectordb-from-scratch",
     "stars": 1,
-    "updated_at": "2026-07-23T04:50:52Z",
+    "updated_at": "2026-07-23T05:04:46Z",
     "url": "https://github.com/Sidra-009/vectordb-from-scratch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T05:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T05:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -32,17 +122,8 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 822,
-    "updated_at": "2026-07-23T04:58:03Z",
+    "updated_at": "2026-07-23T05:09:54Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:46:01Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:45:42Z",
     "url": "https://github.com/jkraybill/gordo-ledger"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T04:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -88,15 +160,6 @@
     "stars": 57,
     "updated_at": "2026-07-23T04:35:03Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T04:31:39Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "A Lucene codec for vector search and clustering on the GPU",
@@ -180,15 +243,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T03:42:15Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
     "id": "andreiramani/pgvector_pgsql_windows",
     "language": "\u2014",
@@ -252,15 +306,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 2,
-    "updated_at": "2026-07-23T03:08:46Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -277,15 +322,6 @@
     "stars": 1604,
     "updated_at": "2026-07-23T02:46:47Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9390,
-    "updated_at": "2026-07-23T04:49:37Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
@@ -319,7 +355,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7885,
+    "stars": 7886,
     "updated_at": "2026-07-23T02:30:25Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -412,41 +448,5 @@
     "stars": 16636,
     "updated_at": "2026-07-23T04:19:55Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
-    "id": "krish1925/isotrieve",
-    "language": "Python",
-    "name": "krish1925/isotrieve",
-    "stars": 5,
-    "updated_at": "2026-07-23T01:33:56Z",
-    "url": "https://github.com/krish1925/isotrieve"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:29:30Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Multi-format RAG ingestion pipelines (PDF, CSV, Excel, JSON, Word, SQL) with a LangGraph + Streamlit document-RAG app",
-    "id": "Ajayacme339/rag-ingestion-pipelines",
-    "language": "Jupyter Notebook",
-    "name": "Ajayacme339/rag-ingestion-pipelines",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:11:56Z",
-    "url": "https://github.com/Ajayacme339/rag-ingestion-pipelines"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:09:05Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   }
 ]
