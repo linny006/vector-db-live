@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T23:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A LanceDB-native memory and retrieval layer for AI agents.",
+    "id": "MoonAndEye/lancer-memory",
+    "language": "Python",
+    "name": "MoonAndEye/lancer-memory",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:07:43Z",
+    "url": "https://github.com/MoonAndEye/lancer-memory"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:07:22Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 314,
+    "updated_at": "2026-07-23T23:04:07Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:02:25Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 451,
+    "updated_at": "2026-07-23T23:01:03Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T23:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.",
     "id": "ayoubnabil/aiondb",
     "language": "Rust",
@@ -54,24 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T22:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T22:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -99,7 +144,7 @@
     "url": "https://github.com/kamilsj/vectors"
   },
   {
-    "description": "Production-ready Medical Retrieval-Augmented Generation (RAG) Assistant using OpenAI, Pinecone, Flask, Docker, and AWS.",
+    "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
     "id": "Basie12/medical-rag-assistant",
     "language": "Jupyter Notebook",
     "name": "Basie12/medical-rag-assistant",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T21:56:25Z",
+    "updated_at": "2026-07-23T23:09:37Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 10,
     "updated_at": "2026-07-23T21:51:17Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 314,
-    "updated_at": "2026-07-23T21:28:33Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
@@ -412,41 +448,5 @@
     "stars": 1332,
     "updated_at": "2026-07-23T19:22:28Z",
     "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16639,
-    "updated_at": "2026-07-23T19:19:16Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered PDF Q&A using RAG \u2022 \ud83d\udcc4 Upload PDFs \u2022 \ud83d\udd0d Semantic Search \u2022 \ud83e\udde0 Google Gemini \u2022 \u26a1 LangChain LCEL \u2022 \ud83d\uddc2\ufe0f ChromaDB",
-    "id": "d2kshh/DocMind",
-    "language": "Python",
-    "name": "d2kshh/DocMind",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:16:37Z",
-    "url": "https://github.com/d2kshh/DocMind"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2201,
-    "updated_at": "2026-07-23T19:06:27Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Production-Ready Enterprise Knowledge Assistant | LangGraph \u2022 Hybrid RAG \u2022 ChromaDB \u2022 BM25 \u2022 Reranking \u2022 LiteLLM \u2022 FastA",
-    "id": "AyonChatterjee/Enterprise-Knowledge-Assistant",
-    "language": "\u2014",
-    "name": "AyonChatterjee/Enterprise-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:53:09Z",
-    "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
   }
 ]
