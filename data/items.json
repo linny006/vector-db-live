@@ -1,5 +1,77 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45349,
+    "updated_at": "2026-07-23T21:10:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T21:15:01Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1038,
+    "updated_at": "2026-07-23T21:09:06Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7029,
+    "updated_at": "2026-07-23T21:08:12Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-07-23T21:05:17Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7887,
+    "updated_at": "2026-07-23T21:03:21Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:02:20Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T20:57:51Z",
+    "updated_at": "2026-07-23T21:13:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -54,13 +126,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "plastic-labs/honcho",
+    "stars": 6153,
+    "updated_at": "2026-07-23T20:47:45Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-23T20:42:03Z",
+    "updated_at": "2026-07-23T21:14:45Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-07-23T20:13:17Z",
+    "updated_at": "2026-07-23T21:06:58Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -221,7 +293,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6267,
-    "updated_at": "2026-07-23T20:55:00Z",
+    "updated_at": "2026-07-23T21:09:45Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1038,
-    "updated_at": "2026-07-23T19:59:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Python client for Qdrant vector search engine",
     "id": "qdrant/qdrant-client",
     "language": "Python",
@@ -261,15 +324,6 @@
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T20:51:37Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "\ud83e\udd16 AI-powered PDF Q&A using RAG \u2022 \ud83d\udcc4 Upload PDFs \u2022 \ud83d\udd0d Semantic Search \u2022 \ud83e\udde0 Google Gemini \u2022 \u26a1 LangChain LCEL \u2022 \ud83d\uddc2\ufe0f ChromaDB",
     "id": "d2kshh/DocMind",
     "language": "Python",
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:16:37Z",
     "url": "https://github.com/d2kshh/DocMind"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:14:20Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -333,15 +378,6 @@
     "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7887,
-    "updated_at": "2026-07-23T20:50:24Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
     "id": "nnadir35/rag-vector-db-benchmark",
     "language": "Python",
@@ -349,24 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:22:34Z",
     "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6152,
-    "updated_at": "2026-07-23T20:47:45Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7029,
-    "updated_at": "2026-07-23T18:21:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -430,23 +448,5 @@
     "stars": 1457,
     "updated_at": "2026-07-23T17:43:48Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "AI powered crime documentation legal intelligence platform",
-    "id": "XploitMonk0x01/crimegpt",
-    "language": "Python",
-    "name": "XploitMonk0x01/crimegpt",
-    "stars": 3,
-    "updated_at": "2026-07-23T17:41:51Z",
-    "url": "https://github.com/XploitMonk0x01/crimegpt"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 95,
-    "updated_at": "2026-07-23T20:15:50Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   }
 ]
