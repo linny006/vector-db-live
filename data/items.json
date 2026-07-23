@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T13:00:31Z",
+    "updated_at": "2026-07-23T13:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9392,
+    "updated_at": "2026-07-23T13:09:05Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
+    "id": "andreiramani/pgvector_pgsql_windows",
+    "language": "\u2014",
+    "name": "andreiramani/pgvector_pgsql_windows",
+    "stars": 182,
+    "updated_at": "2026-07-23T13:08:43Z",
+    "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -14,8 +32,35 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 3,
-    "updated_at": "2026-07-23T12:57:16Z",
+    "updated_at": "2026-07-23T13:08:21Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1864,
+    "updated_at": "2026-07-23T13:11:08Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:01:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T13:00:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -63,13 +108,13 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T12:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 29194,
+    "updated_at": "2026-07-23T13:12:25Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
@@ -79,15 +124,6 @@
     "stars": 6,
     "updated_at": "2026-07-23T12:45:15Z",
     "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29193,
-    "updated_at": "2026-07-23T12:47:30Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-23T12:40:07Z",
+    "updated_at": "2026-07-23T13:14:55Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -157,8 +193,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45345,
-    "updated_at": "2026-07-23T12:38:44Z",
+    "stars": 45346,
+    "updated_at": "2026-07-23T13:14:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -248,17 +284,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T13:00:38Z",
+    "updated_at": "2026-07-23T13:15:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:05:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "loreste/limyeDB",
     "stars": 0,
-    "updated_at": "2026-07-23T11:52:21Z",
+    "updated_at": "2026-07-23T13:13:55Z",
     "url": "https://github.com/loreste/limyeDB"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1864,
-    "updated_at": "2026-07-23T11:37:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -365,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7886,
-    "updated_at": "2026-07-23T12:50:44Z",
+    "updated_at": "2026-07-23T13:12:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T10:28:26Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 10,
-    "updated_at": "2026-07-23T11:51:54Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-07-23T10:16:56Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
