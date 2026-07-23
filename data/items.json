@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-23T02:54:43Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-23T02:50:17Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 243,
+    "updated_at": "2026-07-23T02:50:17Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T02:48:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1604,
+    "updated_at": "2026-07-23T02:46:47Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T02:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,18 +67,9 @@
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9389,
+    "stars": 9390,
     "updated_at": "2026-07-23T02:44:08Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 243,
-    "updated_at": "2026-07-23T02:44:05Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T02:36:44Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T02:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -112,8 +148,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45334,
-    "updated_at": "2026-07-23T02:14:43Z",
+    "stars": 45335,
+    "updated_at": "2026-07-23T02:56:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -315,21 +351,12 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1604,
-    "updated_at": "2026-07-23T01:08:43Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
     "id": "pg-cuvs/pg_cuvs",
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 4,
-    "updated_at": "2026-07-23T02:16:20Z",
+    "updated_at": "2026-07-23T02:59:03Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -337,7 +364,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 371,
+    "stars": 372,
     "updated_at": "2026-07-22T23:27:30Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -376,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T23:19:00Z",
     "url": "https://github.com/sashikumar6/Legal-RAG"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-22T23:04:48Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -430,23 +448,5 @@
     "stars": 1339,
     "updated_at": "2026-07-22T22:47:45Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-07-23T02:17:14Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "AI-powered procurement and contract intelligence platform using RAG, semantic search, structured LLM outputs, FastAPI, a",
-    "id": "AnthonySotoData/ProcureAI",
-    "language": "Python",
-    "name": "AnthonySotoData/ProcureAI",
-    "stars": 0,
-    "updated_at": "2026-07-22T22:41:44Z",
-    "url": "https://github.com/AnthonySotoData/ProcureAI"
   }
 ]
