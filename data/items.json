@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 314,
+    "updated_at": "2026-07-23T21:28:33Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T21:24:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:24:08Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:28:08Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:20:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1038,
+    "updated_at": "2026-07-23T21:19:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:18:47Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:17:51Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -14,17 +95,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T21:15:01Z",
+    "updated_at": "2026-07-23T21:27:25Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1038,
-    "updated_at": "2026-07-23T21:09:06Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The AI search platform",
@@ -63,33 +135,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T21:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T21:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
-    "id": "darylalim/rag-pipeline",
-    "language": "Python",
-    "name": "darylalim/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:58:47Z",
-    "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
@@ -117,40 +162,13 @@
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T20:48:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6153,
+    "stars": 6154,
     "updated_at": "2026-07-23T20:47:45Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:14:45Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-23T20:40:00Z",
-    "url": "https://github.com/kamilsj/vectors"
   },
   {
     "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
@@ -189,21 +207,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-07-23T20:07:05Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T20:28:02Z",
+    "updated_at": "2026-07-23T21:24:54Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T20:05:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 314,
-    "updated_at": "2026-07-23T19:57:27Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6267,
-    "updated_at": "2026-07-23T21:09:45Z",
+    "updated_at": "2026-07-23T21:21:53Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -445,7 +445,7 @@
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
-    "stars": 1457,
+    "stars": 1458,
     "updated_at": "2026-07-23T17:43:48Z",
     "url": "https://github.com/datalevin/datalevin"
   }
