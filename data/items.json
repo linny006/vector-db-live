@@ -1,12 +1,30 @@
 [
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-23T20:42:03Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:58:47Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-07-23T20:57:42Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +32,44 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T20:40:48Z",
+    "updated_at": "2026-07-23T20:57:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:55:30Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T20:48:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:42:03Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
@@ -34,33 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T20:35:51Z",
     "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T20:24:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 9,
-    "updated_at": "2026-07-23T19:46:54Z",
+    "updated_at": "2026-07-23T21:00:06Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6267,
-    "updated_at": "2026-07-23T20:31:20Z",
+    "updated_at": "2026-07-23T20:55:00Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T20:30:17Z",
+    "updated_at": "2026-07-23T20:51:37Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -311,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7887,
-    "updated_at": "2026-07-23T18:33:16Z",
+    "updated_at": "2026-07-23T20:50:24Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6152,
-    "updated_at": "2026-07-23T18:22:10Z",
+    "updated_at": "2026-07-23T20:47:45Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 95,
     "updated_at": "2026-07-23T20:15:50Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Production-grade .NET 9 RAG platform: Clean Architecture, CQRS, JWT auth, document processing pipeline, Pinecone vector ",
-    "id": "imranbscs/ai-knowledge-base-api",
-    "language": "C#",
-    "name": "imranbscs/ai-knowledge-base-api",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:24:32Z",
-    "url": "https://github.com/imranbscs/ai-knowledge-base-api"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 209,
-    "updated_at": "2026-07-23T17:26:43Z",
-    "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29215,
-    "updated_at": "2026-07-23T17:18:50Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
