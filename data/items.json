@@ -1,30 +1,12 @@
 [
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T11:29:50Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T11:25:34Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
     "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 2,
-    "updated_at": "2026-07-23T11:24:51Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:44:16Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
@@ -32,7 +14,7 @@
     "language": "Go",
     "name": "loreste/limyeDB",
     "stars": 0,
-    "updated_at": "2026-07-23T11:18:38Z",
+    "updated_at": "2026-07-23T11:43:54Z",
     "url": "https://github.com/loreste/limyeDB"
   },
   {
@@ -41,8 +23,35 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T11:21:16Z",
+    "updated_at": "2026-07-23T11:41:55Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T11:37:51Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 3,
+    "updated_at": "2026-07-23T11:36:29Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T11:40:34Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T11:15:24Z",
+    "updated_at": "2026-07-23T11:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -61,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-07-23T11:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-23T11:24:51Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -104,7 +122,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7886,
-    "updated_at": "2026-07-23T11:24:46Z",
+    "updated_at": "2026-07-23T11:41:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -166,8 +184,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45342,
-    "updated_at": "2026-07-23T10:46:44Z",
+    "stars": 45343,
+    "updated_at": "2026-07-23T11:44:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6189,
-    "updated_at": "2026-07-23T11:27:51Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-23T10:17:04Z",
+    "updated_at": "2026-07-23T11:34:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32,
     "updated_at": "2026-07-23T08:26:06Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
-    "id": "Ajitesh-Tamrakar/Internet-Expedition",
-    "language": "JavaScript",
-    "name": "Ajitesh-Tamrakar/Internet-Expedition",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:23:59Z",
-    "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   }
 ]
