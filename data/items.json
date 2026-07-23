@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T09:00:28Z",
+    "updated_at": "2026-07-23T09:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:12:34Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 518,
+    "updated_at": "2026-07-23T09:11:11Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1400,
+    "updated_at": "2026-07-23T09:08:40Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:07:08Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:02:06Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T08:59:40Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
@@ -16,6 +79,15 @@
     "stars": 200,
     "updated_at": "2026-07-23T08:56:15Z",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34182,
+    "updated_at": "2026-07-23T08:52:59Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T08:52:24Z",
+    "updated_at": "2026-07-23T09:02:45Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -40,9 +112,18 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45339,
+    "stars": 45340,
     "updated_at": "2026-07-23T08:51:40Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-23T08:50:51Z",
+    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -50,17 +131,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29190,
-    "updated_at": "2026-07-23T08:58:22Z",
+    "updated_at": "2026-07-23T09:01:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T08:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Rust workspace for building LLM-powered agents: unified streaming clients for OpenAI/Anthropic/Ollama, RAG pipeline (chu",
+    "id": "tpt-solutions/tpt-ai-agents",
+    "language": "Rust",
+    "name": "tpt-solutions/tpt-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:12:31Z",
+    "url": "https://github.com/tpt-solutions/tpt-ai-agents"
   },
   {
     "description": "NLP embedding classification and Qdrant vector search pipeline for automated scientific literature recommendation.",
@@ -70,6 +151,33 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:43:41Z",
     "url": "https://github.com/huubMichelsen/text-embedding-class-gf"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 57,
+    "updated_at": "2026-07-23T08:36:22Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6189,
+    "updated_at": "2026-07-23T09:12:04Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
+    "id": "rathinGithub/enterprise-agentic-ai-platform",
+    "language": "Java",
+    "name": "rathinGithub/enterprise-agentic-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:35:25Z",
+    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -108,21 +216,12 @@
     "url": "https://github.com/Agenvana/ragleakguard-agent"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34181,
-    "updated_at": "2026-07-23T08:52:59Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 32,
-    "updated_at": "2026-07-23T08:13:20Z",
+    "updated_at": "2026-07-23T08:26:06Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -131,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T08:10:59Z",
+    "updated_at": "2026-07-23T09:14:00Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -140,8 +239,17 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 2,
-    "updated_at": "2026-07-23T08:48:31Z",
+    "updated_at": "2026-07-23T09:14:00Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9391,
+    "updated_at": "2026-07-23T08:04:33Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -151,15 +259,6 @@
     "stars": 33520,
     "updated_at": "2026-07-23T08:03:56Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
-    "id": "rathinGithub/enterprise-agentic-ai-platform",
-    "language": "Java",
-    "name": "rathinGithub/enterprise-agentic-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:03:20Z",
-    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
   },
   {
     "description": "The AI search platform",
@@ -216,15 +315,6 @@
     "url": "https://github.com/nicuk/docsflow"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T07:44:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
     "id": "armaghanai/rag-assistant-pdf-text-sql",
     "language": "Python",
@@ -239,7 +329,7 @@
     "language": "Rust",
     "name": "nishu-builder/git-vdb",
     "stars": 0,
-    "updated_at": "2026-07-23T08:37:59Z",
+    "updated_at": "2026-07-23T08:46:30Z",
     "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
@@ -347,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T08:35:01Z",
+    "updated_at": "2026-07-23T09:13:13Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 372,
     "updated_at": "2026-07-23T06:34:23Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
-    "id": "ShafqaatMalik/n8n-cx-agent",
-    "language": "HTML",
-    "name": "ShafqaatMalik/n8n-cx-agent",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:31:55Z",
-    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-23T08:50:51Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Python script to chunk and upsert PSU data to Pinecone using Llama embeddings.",
-    "id": "Pranav-Karra-3301/upsert_to_pinecone",
-    "language": "Python",
-    "name": "Pranav-Karra-3301/upsert_to_pinecone",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:10:02Z",
-    "url": "https://github.com/Pranav-Karra-3301/upsert_to_pinecone"
-  },
-  {
-    "description": "Built a multi-LLM orchestration platform with intent-aware routing, an LLM-judge evaluation layer, and persistent human-",
-    "id": "KK-is-Coding/multi-llm_judge",
-    "language": "Python",
-    "name": "KK-is-Coding/multi-llm_judge",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:06:33Z",
-    "url": "https://github.com/KK-is-Coding/multi-llm_judge"
-  },
-  {
-    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
-    "id": "MaxFreedomPollard/engRAM",
-    "language": "Python",
-    "name": "MaxFreedomPollard/engRAM",
-    "stars": 3,
-    "updated_at": "2026-07-23T05:58:06Z",
-    "url": "https://github.com/MaxFreedomPollard/engRAM"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-07-23T05:55:47Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 822,
-    "updated_at": "2026-07-23T05:53:59Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Enterprise-grade AI Resume Screening Assistant built with LangChain, RAG, Google Gemini, FAISS, and Streamlit.",
-    "id": "Aatequa-Ansari/AI-Resume-Screening-Assistant",
-    "language": "Python",
-    "name": "Aatequa-Ansari/AI-Resume-Screening-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:37:34Z",
-    "url": "https://github.com/Aatequa-Ansari/AI-Resume-Screening-Assistant"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
-    "updated_at": "2026-07-23T05:33:46Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:07:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
