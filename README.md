@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [IvayloP0709/langchain-pdf-rag](https://github.com/IvayloP0709/langchain-pdf-rag) | 0 | Python | 2026-07-23 | Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [IvayloP0709/langchain-pdf-rag](https://github.com/IvayloP0709/langchain-pdf-rag) | 0 | Python | 2026-07-23 | Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain. Enables intelligent question-answering ov |
 | 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-23 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 5 | [nnadir35/rag-vector-db-benchmark](https://github.com/nnadir35/rag-vector-db-benchmark) | 0 | Python | 2026-07-23 | RAG pipeline evaluation framework — benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall) |
 | 6 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6151 | Python | 2026-07-23 |  Memory library for building stateful agents |
