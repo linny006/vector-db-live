@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T10:15:20Z",
+    "updated_at": "2026-07-23T10:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:28:26Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 10,
+    "updated_at": "2026-07-23T10:23:07Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:20:26Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33522,
+    "updated_at": "2026-07-23T10:15:41Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T10:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-07-23T10:14:56Z",
+    "updated_at": "2026-07-23T10:16:56Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T10:08:59Z",
+    "updated_at": "2026-07-23T10:21:36Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -50,33 +95,15 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T10:12:13Z",
+    "updated_at": "2026-07-23T10:24:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T10:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33521,
-    "updated_at": "2026-07-23T10:02:46Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58702,
+    "stars": 58703,
     "updated_at": "2026-07-23T09:55:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9392,
-    "updated_at": "2026-07-23T09:46:43Z",
+    "updated_at": "2026-07-23T10:17:04Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "nngochai2/loom",
     "stars": 0,
-    "updated_at": "2026-07-23T09:46:56Z",
+    "updated_at": "2026-07-23T10:28:26Z",
     "url": "https://github.com/nngochai2/loom"
   },
   {
@@ -103,18 +130,18 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45340,
+    "stars": 45341,
     "updated_at": "2026-07-23T09:42:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T10:01:03Z",
-    "url": "https://github.com/frogdb/frogdb"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1863,
+    "updated_at": "2026-07-23T10:19:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A sample application providing a HR assistant chatbot. It leverages RavenDB database and RavenDB AI.",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29190,
-    "updated_at": "2026-07-23T10:10:10Z",
+    "updated_at": "2026-07-23T10:26:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -167,7 +194,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-23T09:18:21Z",
+    "updated_at": "2026-07-23T10:17:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T09:02:06Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1863,
-    "updated_at": "2026-07-23T09:42:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -356,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7885,
-    "updated_at": "2026-07-23T09:51:41Z",
+    "updated_at": "2026-07-23T10:22:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 10,
-    "updated_at": "2026-07-23T07:50:13Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:42:31Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "A futuristic autonomous multi-agent AI ecosystem with 40+ specialized AI agents, cognitive memory, advanced reasoning, R",
-    "id": "NUPUR32/Multi_Agent_AI_System",
-    "language": "Python",
-    "name": "NUPUR32/Multi_Agent_AI_System",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:35:07Z",
-    "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
   }
 ]
