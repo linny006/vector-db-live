@@ -1,5 +1,59 @@
 [
   {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:44:44Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-07-23T19:40:47Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "A lightweight starter kit for setting up a local development machine for AI applications, RAG experiments, and agentic w",
+    "id": "uncle-voh-max/local-ai-devkit",
+    "language": "Python",
+    "name": "uncle-voh-max/local-ai-devkit",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:36:55Z",
+    "url": "https://github.com/uncle-voh-max/local-ai-devkit"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6267,
+    "updated_at": "2026-07-23T19:41:04Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T19:31:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T19:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "A lightweight starter kit for setting up a local development machine for AI applications, RAG experiments, and agentic w",
-    "id": "uncle-voh-max/local-ai-devkit",
-    "language": "Python",
-    "name": "uncle-voh-max/local-ai-devkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:22:43Z",
-    "url": "https://github.com/uncle-voh-max/local-ai-devkit"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -68,26 +113,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T19:26:32Z",
+    "updated_at": "2026-07-23T19:40:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
+    "description": "\ud83e\udd16 AI-powered PDF Q&A using RAG \u2022 \ud83d\udcc4 Upload PDFs \u2022 \ud83d\udd0d Semantic Search \u2022 \ud83e\udde0 Google Gemini \u2022 \u26a1 LangChain LCEL \u2022 \ud83d\uddc2\ufe0f ChromaDB",
+    "id": "d2kshh/DocMind",
     "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-07-23T19:20:30Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T19:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "d2kshh/DocMind",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:16:37Z",
+    "url": "https://github.com/d2kshh/DocMind"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -106,15 +142,6 @@
     "stars": 2201,
     "updated_at": "2026-07-23T19:06:27Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T18:53:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production-Ready Enterprise Knowledge Assistant | LangGraph \u2022 Hybrid RAG \u2022 ChromaDB \u2022 BM25 \u2022 Reranking \u2022 LiteLLM \u2022 FastA",
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:42:09Z",
     "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7887,
+    "updated_at": "2026-07-23T18:33:16Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
@@ -261,21 +297,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6266,
-    "updated_at": "2026-07-23T19:30:01Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33534,
-    "updated_at": "2026-07-23T18:43:40Z",
+    "updated_at": "2026-07-23T19:34:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -319,7 +346,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29212,
+    "stars": 29213,
     "updated_at": "2026-07-23T17:18:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T16:20:54Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "A Multi-Modal RAG Knowledge Engine An intelligent knowledge graph system that ingests video, audio, and PDF documents to",
-    "id": "Diluksha-Upeka/Neurospace",
-    "language": "Python",
-    "name": "Diluksha-Upeka/Neurospace",
-    "stars": 1,
-    "updated_at": "2026-07-23T16:11:02Z",
-    "url": "https://github.com/Diluksha-Upeka/Neurospace"
-  },
-  {
-    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
-    "id": "ashraful2871/Salon-Management-Frontend",
-    "language": "TypeScript",
-    "name": "ashraful2871/Salon-Management-Frontend",
-    "stars": 0,
-    "updated_at": "2026-07-23T16:10:38Z",
-    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12674,
-    "updated_at": "2026-07-23T16:05:57Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
