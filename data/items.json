@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:18:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
     "id": "justin-haffey/local-rag",
     "language": "C#",
@@ -7,6 +16,42 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:17:26Z",
     "url": "https://github.com/justin-haffey/local-rag"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:15:39Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T07:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T07:16:29Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:23:17Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -18,15 +63,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:05:02Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:03:25Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T07:06:34Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -61,24 +88,6 @@
     "stars": 76,
     "updated_at": "2026-07-23T07:01:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T07:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T07:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "NUPUR32/Multi_Agent_AI_System",
     "stars": 1,
-    "updated_at": "2026-07-23T07:15:42Z",
+    "updated_at": "2026-07-23T07:28:44Z",
     "url": "https://github.com/NUPUR32/Multi_Agent_AI_System"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16638,
-    "updated_at": "2026-07-23T07:15:56Z",
+    "updated_at": "2026-07-23T07:16:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-23T06:17:17Z",
+    "updated_at": "2026-07-23T07:19:08Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -221,7 +230,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-23T06:00:47Z",
+    "updated_at": "2026-07-23T07:22:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 1863,
     "updated_at": "2026-07-23T06:23:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:29:38Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
