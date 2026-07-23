@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T15:15:19Z",
+    "updated_at": "2026-07-23T15:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 3,
+    "updated_at": "2026-07-23T15:25:21Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-07-23T15:21:43Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58705,
+    "updated_at": "2026-07-23T15:20:50Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-23T15:20:47Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:20:36Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-23T15:16:37Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T15:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T15:15:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -23,17 +95,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T15:06:19Z",
+    "updated_at": "2026-07-23T15:19:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-07-23T15:05:40Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
@@ -45,13 +108,13 @@
     "url": "https://github.com/rahulboby/ChatVeritas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "A secondary brain for Humans, which remembers your digital knowledge. It captures and remembers everything you wish it t",
+    "id": "KowshikGarapati/Memoria",
+    "language": "Java",
+    "name": "KowshikGarapati/Memoria",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:02:23Z",
+    "url": "https://github.com/KowshikGarapati/Memoria"
   },
   {
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
@@ -99,15 +162,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "A secondary brain for Humans, which remembers your digital knowledge. It captures and remembers everything you wish it t",
-    "id": "KowshikGarapati/Memoria",
-    "language": "Java",
-    "name": "KowshikGarapati/Memoria",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:02:23Z",
-    "url": "https://github.com/KowshikGarapati/Memoria"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -115,15 +169,6 @@
     "stars": 9392,
     "updated_at": "2026-07-23T15:14:06Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58705,
-    "updated_at": "2026-07-23T14:43:26Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -142,15 +187,6 @@
     "stars": 45346,
     "updated_at": "2026-07-23T15:10:44Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T14:40:59Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6263,
-    "updated_at": "2026-07-23T15:10:42Z",
+    "updated_at": "2026-07-23T15:19:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 27,
     "updated_at": "2026-07-23T14:17:19Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:15:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-23T14:15:13Z",
+    "updated_at": "2026-07-23T15:26:18Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -329,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7887,
-    "updated_at": "2026-07-23T15:13:10Z",
+    "updated_at": "2026-07-23T15:26:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16637,
-    "updated_at": "2026-07-23T13:48:54Z",
+    "updated_at": "2026-07-23T15:27:51Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -400,18 +427,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29198,
+    "stars": 29200,
     "updated_at": "2026-07-23T13:31:53Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:29:44Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
     "description": "\u96f6\u57fa\u7840\u4e2d\u6587 RAG \u6559\u5b66\u6846\u67b6\uff1a68 \u77e5\u8bc6\u70b9\u7cfb\u7edf\u8bfe\u7a0b + \u9759\u6001\u5b66\u4e60\u7f51\u7ad9 + \u5185\u7f6e RAG \u8bfe\u7a0b\u52a9\u6559\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:21:39Z",
     "url": "https://github.com/nagendra-official-ai/EnterpriseKnowledgeAssistant"
-  },
-  {
-    "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
-    "id": "andreiramani/pgvector_pgsql_windows",
-    "language": "\u2014",
-    "name": "andreiramani/pgvector_pgsql_windows",
-    "stars": 182,
-    "updated_at": "2026-07-23T13:08:43Z",
-    "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
-    "id": "GoogleCloudPlatform/spanner-bb-samples",
-    "language": "Java",
-    "name": "GoogleCloudPlatform/spanner-bb-samples",
-    "stars": 6,
-    "updated_at": "2026-07-23T12:45:15Z",
-    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
   }
 ]
