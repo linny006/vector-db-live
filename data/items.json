@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully offline vector vault for AI agents (Hermes, Claude, OpenClaw)",
+    "id": "MaxFreedomPollard/engRAM",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "MaxFreedomPollard/engRAM",
     "stars": 3,
-    "updated_at": "2026-07-23T05:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-23T05:58:06Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-23T05:56:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-07-23T05:55:47Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:55:29Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 822,
+    "updated_at": "2026-07-23T05:53:59Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:52:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:51:58Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
@@ -14,8 +68,35 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T05:45:03Z",
+    "updated_at": "2026-07-23T05:50:47Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
+    "id": "justin-haffey/local-rag",
+    "language": "C#",
+    "name": "justin-haffey/local-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:48:23Z",
+    "url": "https://github.com/justin-haffey/local-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T05:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T05:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Aatequa-Ansari/AI-Resume-Screening-Assistant"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:37:19Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
     "id": "Hudsonmathew1910/Hero-s-AI",
     "language": "JavaScript",
@@ -79,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T05:33:46Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T05:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 822,
-    "updated_at": "2026-07-23T05:42:06Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
@@ -252,13 +306,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-23T04:02:28Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45336,
+    "updated_at": "2026-07-23T03:52:42Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -342,15 +396,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:50:17Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -378,15 +423,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:36:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T03:20:35Z",
     "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45335,
-    "updated_at": "2026-07-23T03:52:42Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63705,
-    "updated_at": "2026-07-23T02:09:01Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-07-23T02:04:36Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-07-23T01:50:58Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   }
 ]
