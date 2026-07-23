@@ -1,12 +1,39 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:13:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-format RAG ingestion pipelines (PDF, CSV, Excel, JSON, Word, SQL) with a LangGraph + Streamlit document-RAG app",
+    "id": "Ajayacme339/rag-ingestion-pipelines",
+    "language": "Jupyter Notebook",
+    "name": "Ajayacme339/rag-ingestion-pipelines",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:11:56Z",
+    "url": "https://github.com/Ajayacme339/rag-ingestion-pipelines"
+  },
+  {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
     "id": "vpeetla-ai/enterprise_rag_platform",
     "language": "Python",
     "name": "vpeetla-ai/enterprise_rag_platform",
     "stars": 3,
-    "updated_at": "2026-07-23T01:02:42Z",
+    "updated_at": "2026-07-23T01:09:05Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:14:28Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-23T01:00:27Z",
+    "updated_at": "2026-07-23T01:04:28Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory vector search engine with event-based co-occurrence tracking",
@@ -108,6 +126,15 @@
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7884,
+    "updated_at": "2026-07-23T00:14:18Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1604,
-    "updated_at": "2026-07-22T23:45:14Z",
+    "updated_at": "2026-07-23T01:08:43Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/LangModule/ingestlib"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:04:57Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T22:41:44Z",
     "url": "https://github.com/AnthonySotoData/ProcureAI"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7884,
-    "updated_at": "2026-07-23T00:14:18Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-07-22T22:08:06Z",
+    "updated_at": "2026-07-23T01:14:32Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T21:05:50Z",
     "url": "https://github.com/fthsrbst/mnema"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:35:15Z",
-    "url": "https://github.com/vicquick/nobrainr"
   }
 ]
