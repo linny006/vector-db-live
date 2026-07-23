@@ -1,11 +1,92 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12672,
+    "updated_at": "2026-07-23T15:44:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1864,
+    "updated_at": "2026-07-23T15:43:38Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 34,
+    "updated_at": "2026-07-23T15:41:06Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:40:48Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T15:37:03Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:36:58Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T15:36:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
+    "id": "rathinGithub/enterprise-agentic-ai-platform",
+    "language": "Java",
+    "name": "rathinGithub/enterprise-agentic-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:35:51Z",
+    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T15:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T15:30:25Z",
+    "updated_at": "2026-07-23T15:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58705,
-    "updated_at": "2026-07-23T15:20:50Z",
+    "updated_at": "2026-07-23T15:41:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -41,17 +122,17 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-07-23T15:20:47Z",
+    "updated_at": "2026-07-23T15:44:07Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:20:36Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6266,
+    "updated_at": "2026-07-23T15:19:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -63,24 +144,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:15:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
     "id": "kemalbsoylu/localRAGvault",
     "language": "Python",
@@ -90,12 +153,30 @@
     "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45347,
+    "updated_at": "2026-07-23T15:10:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33530,
+    "updated_at": "2026-07-23T15:09:12Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6189,
-    "updated_at": "2026-07-23T15:19:47Z",
+    "updated_at": "2026-07-23T15:44:28Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -171,24 +252,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 33,
-    "updated_at": "2026-07-23T14:42:49Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45346,
-    "updated_at": "2026-07-23T15:10:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
@@ -216,15 +279,6 @@
     "url": "https://github.com/IhabAltekreeti/vaultify"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6263,
-    "updated_at": "2026-07-23T15:19:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -234,6 +288,15 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12747,
+    "updated_at": "2026-07-23T14:17:50Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "Python",
@@ -241,15 +304,6 @@
     "stars": 27,
     "updated_at": "2026-07-23T14:17:19Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33529,
-    "updated_at": "2026-07-23T15:09:12Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
@@ -270,15 +324,6 @@
     "url": "https://github.com/loreste/limyeDB"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12746,
-    "updated_at": "2026-07-23T14:17:50Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -286,15 +331,6 @@
     "stars": 11,
     "updated_at": "2026-07-23T14:09:55Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:26:18Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Full-stack RAG chatbot for chatting with your PDF/DOCX/TXT documents \u2014 cited, grounded answers powered by Claude, Chroma",
@@ -319,7 +355,7 @@
     "id": "infiniflow/infinity",
     "language": "C++",
     "name": "infiniflow/infinity",
-    "stars": 4628,
+    "stars": 4629,
     "updated_at": "2026-07-23T14:01:36Z",
     "url": "https://github.com/infiniflow/infinity"
   },
@@ -356,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7887,
-    "updated_at": "2026-07-23T15:26:20Z",
+    "updated_at": "2026-07-23T15:35:21Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16637,
-    "updated_at": "2026-07-23T15:27:51Z",
+    "updated_at": "2026-07-23T15:39:30Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -374,17 +410,8 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-23T15:08:01Z",
+    "updated_at": "2026-07-23T15:31:56Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1864,
-    "updated_at": "2026-07-23T15:08:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
@@ -421,32 +448,5 @@
     "stars": 109,
     "updated_at": "2026-07-23T13:48:49Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29200,
-    "updated_at": "2026-07-23T13:31:53Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\u96f6\u57fa\u7840\u4e2d\u6587 RAG \u6559\u5b66\u6846\u67b6\uff1a68 \u77e5\u8bc6\u70b9\u7cfb\u7edf\u8bfe\u7a0b + \u9759\u6001\u5b66\u4e60\u7f51\u7ad9 + \u5185\u7f6e RAG \u8bfe\u7a0b\u52a9\u6559\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
-    "id": "Jasper-Wynn/oh-my-rag",
-    "language": "HTML",
-    "name": "Jasper-Wynn/oh-my-rag",
-    "stars": 1,
-    "updated_at": "2026-07-23T13:26:16Z",
-    "url": "https://github.com/Jasper-Wynn/oh-my-rag"
-  },
-  {
-    "description": "Agentic AI-powered Enterprise Knowledge Assistant using RAG, LangGraph, ChromaDB, Hugging Face embeddings, Groq/Ollama, ",
-    "id": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
-    "language": "Python",
-    "name": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:21:39Z",
-    "url": "https://github.com/nagendra-official-ai/EnterpriseKnowledgeAssistant"
   }
 ]
