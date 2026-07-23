@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T18:28:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
+    "id": "nnadir35/rag-vector-db-benchmark",
+    "language": "Python",
+    "name": "nnadir35/rag-vector-db-benchmark",
+    "stars": 0,
+    "updated_at": "2026-07-23T18:22:34Z",
+    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6151,
+    "updated_at": "2026-07-23T18:22:10Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7029,
+    "updated_at": "2026-07-23T18:21:02Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T18:21:02Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 314,
+    "updated_at": "2026-07-23T18:19:57Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:19:56Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 3,
     "updated_at": "2026-07-23T18:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
+    "id": "rathinGithub/enterprise-agentic-ai-platform",
+    "language": "Java",
+    "name": "rathinGithub/enterprise-agentic-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-07-23T18:15:21Z",
+    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
   },
   {
     "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "nishu-builder/git-vdb",
     "stars": 0,
-    "updated_at": "2026-07-23T18:11:01Z",
+    "updated_at": "2026-07-23T18:25:25Z",
     "url": "https://github.com/nishu-builder/git-vdb"
   },
   {
@@ -72,30 +153,12 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
-    "id": "nnadir35/rag-vector-db-benchmark",
-    "language": "Python",
-    "name": "nnadir35/rag-vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:55:33Z",
-    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T18:12:52Z",
+    "updated_at": "2026-07-23T18:24:22Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33534,
-    "updated_at": "2026-07-23T18:11:34Z",
+    "updated_at": "2026-07-23T18:18:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -115,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T17:41:51Z",
     "url": "https://github.com/XploitMonk0x01/crimegpt"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T18:07:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T17:37:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self improving agents through iterations",
@@ -175,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29211,
+    "stars": 29212,
     "updated_at": "2026-07-23T17:18:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "IvayloP0709/langchain-pdf-rag",
     "stars": 0,
-    "updated_at": "2026-07-23T17:35:43Z",
+    "updated_at": "2026-07-23T18:27:33Z",
     "url": "https://github.com/IvayloP0709/langchain-pdf-rag"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T16:59:16Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 314,
-    "updated_at": "2026-07-23T16:58:39Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-23T15:44:07Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:40:48Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Production-ready Enterprise Agentic AI Platform built with Spring AI 2.0, Java 21, MCP, RAG, Qdrant, OpenTelemetry, and ",
-    "id": "rathinGithub/enterprise-agentic-ai-platform",
-    "language": "Java",
-    "name": "rathinGithub/enterprise-agentic-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:15:21Z",
-    "url": "https://github.com/rathinGithub/enterprise-agentic-ai-platform"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-07-23T15:21:43Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58705,
-    "updated_at": "2026-07-23T16:18:25Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
