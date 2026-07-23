@@ -1,11 +1,38 @@
 [
   {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 372,
+    "updated_at": "2026-07-23T00:26:44Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 8,
+    "updated_at": "2026-07-23T00:19:07Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-23T00:15:19Z",
+    "updated_at": "2026-07-23T00:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,24 +43,6 @@
     "stars": 449,
     "updated_at": "2026-07-23T00:03:00Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T00:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 8,
-    "updated_at": "2026-07-22T23:58:16Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -117,6 +126,15 @@
     "url": "https://github.com/andrewkorot/realestate-rag-fastapi"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33509,
+    "updated_at": "2026-07-22T23:22:38Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "An embedded vector database backed by immutable Git snapshots",
     "id": "nishu-builder/git-vdb",
     "language": "Rust",
@@ -139,7 +157,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63698,
+    "stars": 63697,
     "updated_at": "2026-07-22T23:10:00Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -270,15 +288,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33507,
-    "updated_at": "2026-07-22T23:22:38Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Official Terraform provider for Pinecone ",
     "id": "pinecone-io/terraform-provider-pinecone",
     "language": "Go",
@@ -295,6 +304,15 @@
     "stars": 3,
     "updated_at": "2026-07-22T22:08:06Z",
     "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3143,
+    "updated_at": "2026-07-22T22:07:29Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
@@ -337,7 +355,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29168,
+    "stars": 29169,
     "updated_at": "2026-07-22T21:19:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-22T20:05:28Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Engineered a production-grade Vector Database from scratch, implementing the HNSW algorithm for high-performance semanti",
-    "id": "Sidra-009/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Sidra-009/vectordb-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-07-22T20:01:11Z",
-    "url": "https://github.com/Sidra-009/vectordb-from-scratch"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:58:18Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   }
 ]
