@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T04:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-23T04:29:20Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A Lucene codec for vector search and clustering on the GPU",
+    "id": "NVIDIA/cuvs-lucene",
+    "language": "Java",
+    "name": "NVIDIA/cuvs-lucene",
+    "stars": 8,
+    "updated_at": "2026-07-23T04:26:11Z",
+    "url": "https://github.com/NVIDIA/cuvs-lucene"
+  },
+  {
+    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
+    "id": "DeveloperChetram/Contextual_Chatbot_React",
+    "language": "JavaScript",
+    "name": "DeveloperChetram/Contextual_Chatbot_React",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:22:01Z",
+    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
+  },
+  {
     "description": "Semantic memory and cross-project search for AI",
     "id": "jkraybill/gordo-ledger",
     "language": "TypeScript",
     "name": "jkraybill/gordo-ledger",
     "stars": 0,
-    "updated_at": "2026-07-23T04:13:22Z",
+    "updated_at": "2026-07-23T04:19:46Z",
     "url": "https://github.com/jkraybill/gordo-ledger"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 822,
+    "updated_at": "2026-07-23T04:18:33Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T04:15:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-23T04:15:05Z",
+    "url": "https://github.com/LangModule/ingestlib"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -36,24 +99,6 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Atomic is a full-stack AI-powered contextual chatbot application built with React, Node.js, and Google Gemini AI. The ap",
-    "id": "DeveloperChetram/Contextual_Chatbot_React",
-    "language": "JavaScript",
-    "name": "DeveloperChetram/Contextual_Chatbot_React",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:03:00Z",
-    "url": "https://github.com/DeveloperChetram/Contextual_Chatbot_React"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database built in Rust with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-23T04:05:37Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -63,24 +108,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T04:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T04:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -88,15 +115,6 @@
     "stars": 243,
     "updated_at": "2026-07-23T03:48:22Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 822,
-    "updated_at": "2026-07-23T04:15:09Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16636,
-    "updated_at": "2026-07-23T01:36:22Z",
+    "updated_at": "2026-07-23T04:19:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 372,
     "updated_at": "2026-07-23T00:26:44Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 8,
-    "updated_at": "2026-07-23T00:19:07Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
-    "id": "justin-haffey/local-rag",
-    "language": "C#",
-    "name": "justin-haffey/local-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:18:02Z",
-    "url": "https://github.com/justin-haffey/local-rag"
   }
 ]
