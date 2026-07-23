@@ -1,5 +1,41 @@
 [
   {
+    "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
+    "id": "pratyushpad/Lumina",
+    "language": "Python",
+    "name": "pratyushpad/Lumina",
+    "stars": 1,
+    "updated_at": "2026-07-23T23:29:56Z",
+    "url": "https://github.com/pratyushpad/Lumina"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-23T23:22:50Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-23T23:20:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T23:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 63746,
+    "updated_at": "2026-07-23T23:14:29Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "A LanceDB-native memory and retrieval layer for AI agents.",
     "id": "MoonAndEye/lancer-memory",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T23:07:43Z",
     "url": "https://github.com/MoonAndEye/lancer-memory"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:07:22Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -52,15 +88,6 @@
     "stars": 451,
     "updated_at": "2026-07-23T23:01:03Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T23:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.",
@@ -108,15 +135,6 @@
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-23T22:48:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -124,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T22:44:28Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29227,
+    "updated_at": "2026-07-23T22:43:54Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
@@ -153,21 +180,12 @@
     "url": "https://github.com/Basie12/medical-rag-assistant"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29226,
-    "updated_at": "2026-07-23T22:43:54Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33536,
-    "updated_at": "2026-07-23T22:26:31Z",
+    "updated_at": "2026-07-23T23:21:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-23T23:09:37Z",
+    "updated_at": "2026-07-23T23:21:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 85,
-    "updated_at": "2026-07-23T22:49:46Z",
+    "updated_at": "2026-07-23T23:18:54Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T19:28:20Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:26:33Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1332,
-    "updated_at": "2026-07-23T19:22:28Z",
-    "url": "https://github.com/qdrant/qdrant-client"
   }
 ]
