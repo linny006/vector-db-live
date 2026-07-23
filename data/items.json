@@ -5,8 +5,44 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 34,
-    "updated_at": "2026-07-23T16:30:03Z",
+    "updated_at": "2026-07-23T16:44:34Z",
     "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-23T16:41:04Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 209,
+    "updated_at": "2026-07-23T16:34:23Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T16:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T16:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6266,
-    "updated_at": "2026-07-23T16:21:54Z",
+    "updated_at": "2026-07-23T16:41:48Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 314,
     "updated_at": "2026-07-23T16:15:34Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T16:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A Multi-Modal RAG Knowledge Engine An intelligent knowledge graph system that ingests video, audio, and PDF documents to",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-23T16:24:45Z",
+    "updated_at": "2026-07-23T16:41:58Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -216,6 +234,15 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16638,
+    "updated_at": "2026-07-23T15:54:11Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
     "id": "lianyinging/flowgame_python",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T15:48:31Z",
     "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-23T16:03:37Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1864,
-    "updated_at": "2026-07-23T16:25:31Z",
+    "updated_at": "2026-07-23T16:33:21Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -310,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45347,
+    "stars": 45348,
     "updated_at": "2026-07-23T15:10:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33531,
-    "updated_at": "2026-07-23T16:26:32Z",
+    "updated_at": "2026-07-23T16:36:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T15:00:14Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 209,
-    "updated_at": "2026-07-23T15:00:10Z",
-    "url": "https://github.com/deven96/ahnlich"
   },
   {
     "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T14:14:19Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
-    "id": "loreste/limyeDB",
-    "language": "Go",
-    "name": "loreste/limyeDB",
-    "stars": 0,
-    "updated_at": "2026-07-23T14:14:10Z",
-    "url": "https://github.com/loreste/limyeDB"
   }
 ]
