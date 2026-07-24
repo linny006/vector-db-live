@@ -5,8 +5,62 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 110,
-    "updated_at": "2026-07-24T15:04:34Z",
+    "updated_at": "2026-07-24T15:14:11Z",
     "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
+    "id": "skegdb/skeg",
+    "language": "Rust",
+    "name": "skegdb/skeg",
+    "stars": 30,
+    "updated_at": "2026-07-24T15:11:01Z",
+    "url": "https://github.com/skegdb/skeg"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-24T15:08:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-07-24T15:08:08Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-07-24T15:06:25Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-07-24T15:06:22Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T15:05:14Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -54,21 +108,12 @@
     "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T15:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-24T15:00:23Z",
+    "updated_at": "2026-07-24T15:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6277,
-    "updated_at": "2026-07-24T15:04:54Z",
+    "updated_at": "2026-07-24T15:07:18Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33558,
-    "updated_at": "2026-07-24T14:23:36Z",
+    "updated_at": "2026-07-24T15:12:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -392,17 +437,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7891,
-    "updated_at": "2026-07-24T14:13:47Z",
+    "updated_at": "2026-07-24T15:07:38Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-24T14:10:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-24T14:07:48Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-24T14:05:49Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:05:32Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-07-24T14:04:56Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:04:27Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
