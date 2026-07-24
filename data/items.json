@@ -1,5 +1,167 @@
 [
   {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-24T17:30:05Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83c\udfafBuilding a Production LLM Application",
+    "id": "StarDust130/Orion",
+    "language": "TypeScript",
+    "name": "StarDust130/Orion",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:29:20Z",
+    "url": "https://github.com/StarDust130/Orion"
+  },
+  {
+    "description": "AI-powered research paper assistant using RAG, Qdrant, FastAPI and Next.js. Upload PDFs, generate summaries, chat with p",
+    "id": "mitulvashista123/PaperLens",
+    "language": "TypeScript",
+    "name": "mitulvashista123/PaperLens",
+    "stars": 1,
+    "updated_at": "2026-07-24T17:29:12Z",
+    "url": "https://github.com/mitulvashista123/PaperLens"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:28:33Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:27:38Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "a lightweight experimental database written in modern C++",
+    "id": "Icingworld/litedb",
+    "language": "C++",
+    "name": "Icingworld/litedb",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:27:31Z",
+    "url": "https://github.com/Icingworld/litedb"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:24:01Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:23:21Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:23:03Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:22:44Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:22:34Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-07-24T17:21:30Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 0,
+    "updated_at": "2026-07-24T17:19:29Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45368,
+    "updated_at": "2026-07-24T17:18:46Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7892,
+    "updated_at": "2026-07-24T17:17:55Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully encrypted offline vector memory for AI agents (Hermes, Claude",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "Python",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:16:43Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6279,
+    "updated_at": "2026-07-24T17:15:42Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -81,13 +243,13 @@
     "url": "https://github.com/piyalidas10/AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T17:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "pixeltable/pixeltable",
+    "stars": 1604,
+    "updated_at": "2026-07-24T16:57:42Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -97,15 +259,6 @@
     "stars": 4417,
     "updated_at": "2026-07-24T17:07:48Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "TypeScript",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:54:40Z",
-    "url": "https://github.com/StarDust130/Orion"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -180,15 +333,6 @@
     "url": "https://github.com/somoore/terraform-provider-tpuf"
   },
   {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:45:35Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -212,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33560,
-    "updated_at": "2026-07-24T17:07:54Z",
+    "updated_at": "2026-07-24T17:21:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -297,15 +441,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6279,
-    "updated_at": "2026-07-24T16:54:36Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -313,140 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T16:29:47Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:29:39Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:29:27Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:29:04Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:28:53Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:28:06Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:27:41Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-07-24T16:42:27Z",
-    "url": "https://github.com/marco-spagn/pcmi"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-07-24T16:25:09Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:24:49Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:24:35Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-07-24T16:23:59Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:22:29Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:21:53Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 95,
-    "updated_at": "2026-07-24T16:19:07Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:18:56Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
