@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T06:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15246,
+    "updated_at": "2026-07-24T06:01:52Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29240,
+    "updated_at": "2026-07-24T06:00:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T06:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Python client for Qdrant vector search engine",
     "id": "qdrant/qdrant-client",
     "language": "Python",
@@ -67,7 +103,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45359,
+    "stars": 45361,
     "updated_at": "2026-07-24T05:48:45Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -81,15 +117,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T05:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
     "id": "LangModule/ingestlib",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T05:45:25Z",
     "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T05:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your Very Own Agent: The Ultimate, Complete Edition",
@@ -175,7 +193,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1039,
+    "stars": 1040,
     "updated_at": "2026-07-24T04:58:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -259,15 +277,6 @@
     "stars": 87,
     "updated_at": "2026-07-24T04:00:27Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15245,
-    "updated_at": "2026-07-24T03:48:31Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -439,14 +448,5 @@
     "stars": 10219,
     "updated_at": "2026-07-24T01:01:11Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:00:12Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   }
 ]
