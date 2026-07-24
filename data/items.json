@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T08:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-24T08:29:29Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34219,
-    "updated_at": "2026-07-24T08:13:08Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-24T08:28:42Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 2,
-    "updated_at": "2026-07-24T08:11:25Z",
+    "updated_at": "2026-07-24T08:29:41Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
@@ -32,8 +32,53 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 6,
-    "updated_at": "2026-07-24T08:09:48Z",
+    "updated_at": "2026-07-24T08:25:28Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Vector search engine with end-to-end embedding and reranking.",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:23:47Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1864,
+    "updated_at": "2026-07-24T08:20:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:17:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -45,6 +90,15 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34222,
+    "updated_at": "2026-07-24T08:13:08Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
     "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
     "language": "TypeScript",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T08:03:13Z",
     "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-24T08:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T07:56:56Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-24T07:58:08Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -167,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7890,
-    "updated_at": "2026-07-24T08:14:04Z",
+    "updated_at": "2026-07-24T08:15:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -185,17 +221,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16644,
-    "updated_at": "2026-07-24T07:21:53Z",
+    "updated_at": "2026-07-24T08:29:46Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:21:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -220,8 +247,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45364,
-    "updated_at": "2026-07-24T07:08:45Z",
+    "stars": 45365,
+    "updated_at": "2026-07-24T08:19:32Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-07-24T06:32:27Z",
     "url": "https://github.com/MaxFreedomPollard/engRAM"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1864,
-    "updated_at": "2026-07-24T06:50:01Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T04:38:39Z",
     "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:10:36Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-24T04:05:51Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   }
 ]
