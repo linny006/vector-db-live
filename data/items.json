@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-24T17:12:26Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-07-24T17:11:19Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:10:27Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-24T17:09:14Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-24T17:09:04Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Portable semantic memory layer for LLM agents over MCP",
+    "id": "fazerluga-creator/shared-memory",
+    "language": "Python",
+    "name": "fazerluga-creator/shared-memory",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:06:58Z",
+    "url": "https://github.com/fazerluga-creator/shared-memory"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1040,
+    "updated_at": "2026-07-24T17:05:39Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
     "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:58:48Z",
+    "stars": 1,
+    "updated_at": "2026-07-24T17:05:17Z",
     "url": "https://github.com/piyalidas10/AI"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-24T16:57:03Z",
+    "updated_at": "2026-07-24T17:00:31Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-07-24T16:55:47Z",
+    "updated_at": "2026-07-24T17:07:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -117,20 +189,11 @@
     "url": "https://github.com/vainiovesa/vector_bible_api"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T16:45:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-24T16:44:36Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33560,
-    "updated_at": "2026-07-24T16:51:47Z",
+    "updated_at": "2026-07-24T17:07:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T16:18:56Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-24T16:18:11Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:17:50Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
-    "id": "Vivekpatil200320/contextquery-backend",
-    "language": "Python",
-    "name": "Vivekpatil200320/contextquery-backend",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:16:52Z",
-    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:16:49Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-24T16:14:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-24T16:12:11Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 3,
-    "updated_at": "2026-07-24T16:12:02Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
