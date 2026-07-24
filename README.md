@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-24 04:30 UTC
+> ⏰ Last updated: 2026-07-24 04:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [MaxFreedomPollard/engRAM](https://github.com/MaxFreedomPollard/engRAM) | 3 | Python | 2026-07-24 | engRAM - superior agentic memory, encrypted at rest. Fully encrypted offline vector memory for AI agents (Hermes, Claude |
-| 3 | [Hudsonmathew1910/Hero-s-AI](https://github.com/Hudsonmathew1910/Hero-s-AI) | 2 | JavaScript | 2026-07-24 | Hero’s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [MaxFreedomPollard/engRAM](https://github.com/MaxFreedomPollard/engRAM) | 3 | Python | 2026-07-24 | engRAM - superior agentic memory, encrypted at rest. Fully encrypted offline vector memory for AI agents (Hermes, Claude |
+| 4 | [Hudsonmathew1910/Hero-s-AI](https://github.com/Hudsonmathew1910/Hero-s-AI) | 2 | JavaScript | 2026-07-24 | Hero’s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B |
 | 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-07-24 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1039 | Java | 2026-07-24 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 7 | [qtuanph/chatbot-rag](https://github.com/qtuanph/chatbot-rag) | 1 | Python | 2026-07-24 | Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an |
