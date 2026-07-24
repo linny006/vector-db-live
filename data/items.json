@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-24T05:30:22Z",
+    "updated_at": "2026-07-24T05:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:42:38Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:45:19Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:39:49Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45359,
+    "updated_at": "2026-07-24T05:36:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Your Very Own Agent: The Ultimate, Complete Edition",
+    "id": "undead-undead/AIMAXXING",
+    "language": "Rust",
+    "name": "undead-undead/AIMAXXING",
+    "stars": 49,
+    "updated_at": "2026-07-24T05:32:08Z",
+    "url": "https://github.com/undead-undead/AIMAXXING"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T05:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
@@ -36,15 +90,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45359,
-    "updated_at": "2026-07-24T05:28:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "\ud55c\uad6d\uc5b4 RAG \uc2e4\uc2b5 \uc800\uc7a5\uc18c: Gradio, FAISS, BM25, KorQuAD, KorFactScore, \ub85c\uceec LLM, Colab \ubc0f Ubuntu/CUDA \ud658\uacbd \uc124\uc815 \uc608\uc81c",
     "id": "KyungmanBae/rag-tutorial",
     "language": "Python",
@@ -54,30 +99,12 @@
     "url": "https://github.com/KyungmanBae/rag-tutorial"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:21:45Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T05:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
     "name": "yihui504/TestVDB",
     "stars": 1,
-    "updated_at": "2026-07-24T05:07:37Z",
+    "updated_at": "2026-07-24T05:32:04Z",
     "url": "https://github.com/yihui504/TestVDB"
   },
   {
@@ -193,7 +220,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15244,
+    "stars": 15245,
     "updated_at": "2026-07-24T03:48:31Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1405,
-    "updated_at": "2026-07-24T05:07:52Z",
+    "updated_at": "2026-07-24T05:42:59Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 314,
     "updated_at": "2026-07-24T00:40:22Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Independent Autistic Intelligence \u2014 a cyber brain for your AI. It never forgets a detail, remembers exactly what you sai",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 387,
-    "updated_at": "2026-07-24T00:36:37Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2202,
-    "updated_at": "2026-07-24T00:35:08Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:35:15Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
   }
 ]
