@@ -1,5 +1,50 @@
 [
   {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-07-24T01:59:54Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-07-24T01:50:43Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 5,
+    "updated_at": "2026-07-24T01:47:49Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T01:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T02:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The base Installation Source for Horizon Brain Builder",
     "id": "HorizonBrute/Horizon-Brain-Builder",
     "language": "Python",
@@ -9,33 +54,6 @@
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
-    "description": "Retrieval-augmented generation medical assistant using local LLM inference, semantic search, Chroma, and document-ground",
-    "id": "sohailharoon777/medical-assistant-rag",
-    "language": "HTML",
-    "name": "sohailharoon777/medical-assistant-rag",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:34:31Z",
-    "url": "https://github.com/sohailharoon777/medical-assistant-rag"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T01:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T01:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T01:25:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-24T01:25:00Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -117,11 +126,20 @@
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33537,
+    "updated_at": "2026-07-24T00:48:54Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28788,
+    "stars": 28789,
     "updated_at": "2026-07-24T00:46:41Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -148,7 +166,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 385,
+    "stars": 386,
     "updated_at": "2026-07-24T00:36:37Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -256,7 +274,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63747,
+    "stars": 63748,
     "updated_at": "2026-07-23T23:14:29Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6272,
-    "updated_at": "2026-07-24T00:42:36Z",
+    "updated_at": "2026-07-24T01:53:27Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T22:36:26Z",
     "url": "https://github.com/Basie12/medical-rag-assistant"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33536,
-    "updated_at": "2026-07-24T00:48:54Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Router-Retriever RAG over a Chroma vector store with OpenAI embeddings \u2014 two-stage routing (keyword heuristic + LLM fall",
@@ -364,7 +373,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45350,
+    "stars": 45351,
     "updated_at": "2026-07-23T22:15:04Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 7029,
     "updated_at": "2026-07-23T21:08:12Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:05:17Z",
-    "url": "https://github.com/tryAGI/Weaviate"
   }
 ]
