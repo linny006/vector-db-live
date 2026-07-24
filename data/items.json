@@ -1,5 +1,104 @@
 [
   {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1332,
+    "updated_at": "2026-07-24T05:59:47Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
+    "id": "Agenvana/ragleakguard-agent",
+    "language": "Python",
+    "name": "Agenvana/ragleakguard-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:57:09Z",
+    "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:55:41Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:55:06Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:52:03Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:49:22Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1406,
+    "updated_at": "2026-07-24T05:49:06Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45359,
+    "updated_at": "2026-07-24T05:48:45Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1864,
+    "updated_at": "2026-07-24T05:48:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T05:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:45:25Z",
+    "url": "https://github.com/LangModule/ingestlib"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,42 +108,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
-    "id": "LangModule/ingestlib",
-    "language": "Python",
-    "name": "LangModule/ingestlib",
-    "stars": 2,
-    "updated_at": "2026-07-24T05:42:38Z",
-    "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:45:19Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:39:49Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45359,
-    "updated_at": "2026-07-24T05:36:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Your Very Own Agent: The Ultimate, Complete Edition",
     "id": "undead-undead/AIMAXXING",
     "language": "Rust",
@@ -52,15 +115,6 @@
     "stars": 49,
     "updated_at": "2026-07-24T05:32:08Z",
     "url": "https://github.com/undead-undead/AIMAXXING"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T05:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
@@ -153,15 +207,6 @@
     "url": "https://github.com/XploitMonk0x01/crimegpt"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1864,
-    "updated_at": "2026-07-24T04:41:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "RAG \u53ef\u89c6\u5316\u5b9e\u9a8c\u5ba4 \u00b7 Retrieval-Augmented Generation Visualizer \u2014 \u7eaf HTML/CSS/JS + SVG \u00b7 \u96f6\u5916\u90e8\u4f9d\u8d56",
     "id": "wangzifan396-wzf/rag-viz-lab",
     "language": "HTML",
@@ -230,7 +275,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 6,
-    "updated_at": "2026-07-24T04:01:56Z",
+    "updated_at": "2026-07-24T05:54:14Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -239,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7889,
-    "updated_at": "2026-07-24T03:54:12Z",
+    "updated_at": "2026-07-24T05:58:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1405,
-    "updated_at": "2026-07-24T05:42:59Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
     "id": "LuisinTheLegend/GrafoConcierge",
     "language": "Python",
@@ -378,15 +414,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-07-24T05:11:59Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
     "id": "hippmem/hippmem",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:00:12Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33546,
-    "updated_at": "2026-07-24T00:48:54Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 28790,
-    "updated_at": "2026-07-24T00:46:41Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 314,
-    "updated_at": "2026-07-24T00:40:22Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
