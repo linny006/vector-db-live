@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1039,
+    "updated_at": "2026-07-24T04:09:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:10:36Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45359,
+    "updated_at": "2026-07-24T04:08:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "RAG \u53ef\u89c6\u5316\u5b9e\u9a8c\u5ba4 \u00b7 Retrieval-Augmented Generation Visualizer \u2014 \u7eaf HTML/CSS/JS + SVG \u00b7 \u96f6\u5916\u90e8\u4f9d\u8d56",
@@ -14,8 +32,26 @@
     "language": "HTML",
     "name": "wangzifan396-wzf/rag-viz-lab",
     "stars": 0,
-    "updated_at": "2026-07-24T03:47:53Z",
+    "updated_at": "2026-07-24T04:07:28Z",
     "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 5,
+    "updated_at": "2026-07-24T04:05:51Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:03:49Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-24T03:45:20Z",
+    "updated_at": "2026-07-24T04:00:29Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 87,
+    "updated_at": "2026-07-24T04:00:27Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -32,7 +86,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 6,
-    "updated_at": "2026-07-24T03:55:25Z",
+    "updated_at": "2026-07-24T04:01:56Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T03:40:21Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 87,
-    "updated_at": "2026-07-24T04:00:17Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -126,24 +171,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1039,
-    "updated_at": "2026-07-24T03:07:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45358,
-    "updated_at": "2026-07-24T03:00:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1405,
-    "updated_at": "2026-07-24T03:28:21Z",
+    "updated_at": "2026-07-24T04:13:26Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/JuSebasCel/Research-Assistant"
   },
   {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 5,
-    "updated_at": "2026-07-24T02:16:11Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
     "description": "RAG-based medical assistant using document preprocessing, embeddings, semantic search, vector storage, prompt engineerin",
     "id": "sohailharoon777/medical-assistant-rag",
     "language": "HTML",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-24T02:20:14Z",
+    "updated_at": "2026-07-24T04:01:49Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6274,
-    "updated_at": "2026-07-24T03:55:53Z",
+    "updated_at": "2026-07-24T04:09:27Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -310,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33543,
+    "stars": 33544,
     "updated_at": "2026-07-24T00:48:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -319,7 +337,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28789,
+    "stars": 28790,
     "updated_at": "2026-07-24T00:46:41Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -383,7 +401,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-07-24T00:00:57Z",
+    "updated_at": "2026-07-24T04:15:08Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T23:07:43Z",
     "url": "https://github.com/MoonAndEye/lancer-memory"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:02:25Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 451,
-    "updated_at": "2026-07-23T23:01:03Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
