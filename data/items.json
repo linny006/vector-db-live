@@ -1,5 +1,50 @@
 [
   {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:00:18Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1039,
+    "updated_at": "2026-07-24T04:58:03Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:57:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "engRAM - superior agentic memory, encrypted at rest. Fully encrypted offline vector memory for AI agents (Hermes, Claude",
+    "id": "MaxFreedomPollard/engRAM",
+    "language": "Python",
+    "name": "MaxFreedomPollard/engRAM",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:52:24Z",
+    "url": "https://github.com/MaxFreedomPollard/engRAM"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,29 +81,11 @@
     "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:31:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "engRAM - superior agentic memory, encrypted at rest. Fully encrypted offline vector memory for AI agents (Hermes, Claude",
-    "id": "MaxFreedomPollard/engRAM",
-    "language": "Python",
-    "name": "MaxFreedomPollard/engRAM",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:30:00Z",
-    "url": "https://github.com/MaxFreedomPollard/engRAM"
-  },
-  {
     "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
     "id": "Hudsonmathew1910/Hero-s-AI",
     "language": "JavaScript",
     "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-24T04:29:17Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
   },
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T04:15:08Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1039,
-    "updated_at": "2026-07-24T04:09:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T03:30:52Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:31:09Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -320,17 +329,8 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-24T04:41:42Z",
+    "updated_at": "2026-07-24T04:47:48Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-24T01:25:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
