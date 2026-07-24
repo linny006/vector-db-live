@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-24T02:15:20Z",
+    "updated_at": "2026-07-24T02:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/GrafoConcierge",
+    "language": "Python",
+    "name": "LuisinTheLegend/GrafoConcierge",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:28:27Z",
+    "url": "https://github.com/LuisinTheLegend/GrafoConcierge"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Builder",
+    "id": "HorizonBrute/Horizon-Brain-Builder",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Builder",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:27:06Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:17:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T02:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Asistente de investigaci\u00f3n con RAG para papers cient\u00edficos \u2014 extracci\u00f3n estructurada con Docling, b\u00fasqueda h\u00edbrida (BM25",
+    "id": "JuSebasCel/Research-Assistant",
+    "language": "Python",
+    "name": "JuSebasCel/Research-Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:15:14Z",
+    "url": "https://github.com/JuSebasCel/Research-Assistant"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "Nikolay1994Kaz/storage_in_memory",
     "stars": 5,
-    "updated_at": "2026-07-24T02:13:26Z",
+    "updated_at": "2026-07-24T02:16:11Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "The base Installation Source for Horizon Brain Builder",
-    "id": "HorizonBrute/Horizon-Brain-Builder",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Builder",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:10:56Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 75,
     "updated_at": "2026-07-24T02:09:39Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Asistente de investigaci\u00f3n con RAG para papers cient\u00edficos \u2014 extracci\u00f3n estructurada con Docling, b\u00fasqueda h\u00edbrida (BM25",
-    "id": "JuSebasCel/Research-Assistant",
-    "language": "Python",
-    "name": "JuSebasCel/Research-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:15:14Z",
-    "url": "https://github.com/JuSebasCel/Research-Assistant"
   },
   {
     "description": "RAG-based medical assistant using document preprocessing, embeddings, semantic search, vector storage, prompt engineerin",
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-24T02:02:33Z",
+    "updated_at": "2026-07-24T02:20:14Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T02:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -88,6 +106,15 @@
     "stars": 44,
     "updated_at": "2026-07-24T01:59:54Z",
     "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6273,
+    "updated_at": "2026-07-24T01:53:27Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -135,15 +162,6 @@
     "url": "https://github.com/JakubDras/vechealth"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:02:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
     "id": "oceanbase/oceanbase",
     "language": "C++",
@@ -166,7 +184,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33538,
+    "stars": 33539,
     "updated_at": "2026-07-24T00:48:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -252,15 +270,6 @@
     "url": "https://github.com/justin-haffey/local-rag"
   },
   {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/GrafoConcierge",
-    "language": "Python",
-    "name": "LuisinTheLegend/GrafoConcierge",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:01:54Z",
-    "url": "https://github.com/LuisinTheLegend/GrafoConcierge"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -310,7 +319,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63749,
+    "stars": 63750,
     "updated_at": "2026-07-23T23:14:29Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -349,15 +358,6 @@
     "stars": 49,
     "updated_at": "2026-07-23T22:56:59Z",
     "url": "https://github.com/ayoubnabil/aiondb"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6272,
-    "updated_at": "2026-07-24T01:53:27Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
