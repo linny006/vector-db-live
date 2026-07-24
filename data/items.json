@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-07-24T18:20:25Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-24T18:18:19Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83c\udfafBuilding a Production LLM Application",
+    "id": "StarDust130/Orion",
+    "language": "TypeScript",
+    "name": "StarDust130/Orion",
+    "stars": 0,
+    "updated_at": "2026-07-24T18:18:09Z",
+    "url": "https://github.com/StarDust130/Orion"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-07-24T18:17:03Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-24T18:16:02Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-07-24T18:15:58Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T18:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T18:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade RAG system in Java 21 + Spring AI that ingests RPG rulebooks and answers natural language questions abo",
+    "id": "sammyjdev/rpg-master-ai",
+    "language": "Java",
+    "name": "sammyjdev/rpg-master-ai",
+    "stars": 0,
+    "updated_at": "2026-07-24T18:14:54Z",
+    "url": "https://github.com/sammyjdev/rpg-master-ai"
+  },
+  {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
     "id": "eliasepro/groq-pdf-chat",
     "language": "Python",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "vansharora156/nexus-rag",
     "stars": 0,
-    "updated_at": "2026-07-24T18:11:32Z",
+    "updated_at": "2026-07-24T18:20:39Z",
     "url": "https://github.com/vansharora156/nexus-rag"
   },
   {
@@ -97,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T18:03:35Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T18:00:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T18:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
@@ -178,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-24T17:57:00Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "TypeScript",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:56:19Z",
-    "url": "https://github.com/StarDust130/Orion"
   },
   {
     "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-24T17:29:50Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "AI-powered research paper assistant using RAG, Qdrant, FastAPI and Next.js. Upload PDFs, generate summaries, chat with p",
-    "id": "mitulvashista123/PaperLens",
-    "language": "TypeScript",
-    "name": "mitulvashista123/PaperLens",
-    "stars": 1,
-    "updated_at": "2026-07-24T17:29:12Z",
-    "url": "https://github.com/mitulvashista123/PaperLens"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:28:33Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "a lightweight experimental database written in modern C++",
-    "id": "Icingworld/litedb",
-    "language": "C++",
-    "name": "Icingworld/litedb",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:27:31Z",
-    "url": "https://github.com/Icingworld/litedb"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:24:01Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:23:21Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T17:23:03Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
