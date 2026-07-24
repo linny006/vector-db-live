@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-24T04:30:58Z",
+    "updated_at": "2026-07-24T04:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI powered crime documentation legal intelligence platform",
+    "id": "XploitMonk0x01/crimegpt",
+    "language": "Python",
+    "name": "XploitMonk0x01/crimegpt",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:43:37Z",
+    "url": "https://github.com/XploitMonk0x01/crimegpt"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1864,
+    "updated_at": "2026-07-24T04:41:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "RAG \u53ef\u89c6\u5316\u5b9e\u9a8c\u5ba4 \u00b7 Retrieval-Augmented Generation Visualizer \u2014 \u7eaf HTML/CSS/JS + SVG \u00b7 \u96f6\u5916\u90e8\u4f9d\u8d56",
+    "id": "wangzifan396-wzf/rag-viz-lab",
+    "language": "HTML",
+    "name": "wangzifan396-wzf/rag-viz-lab",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:38:39Z",
+    "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-24T04:30:28Z",
+    "updated_at": "2026-07-24T04:31:47Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 45359,
     "updated_at": "2026-07-24T04:08:45Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "RAG \u53ef\u89c6\u5316\u5b9e\u9a8c\u5ba4 \u00b7 Retrieval-Augmented Generation Visualizer \u2014 \u7eaf HTML/CSS/JS + SVG \u00b7 \u96f6\u5916\u90e8\u4f9d\u8d56",
-    "id": "wangzifan396-wzf/rag-viz-lab",
-    "language": "HTML",
-    "name": "wangzifan396-wzf/rag-viz-lab",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:07:28Z",
-    "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 7,
-    "updated_at": "2026-07-24T04:25:19Z",
+    "updated_at": "2026-07-24T04:41:09Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-24T04:30:17Z",
+    "updated_at": "2026-07-24T04:41:42Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -391,7 +409,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2201,
+    "stars": 2202,
     "updated_at": "2026-07-24T00:35:08Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T23:52:30Z",
     "url": "https://github.com/livendb/liven"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:46:22Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
-    "id": "pratyushpad/Lumina",
-    "language": "Python",
-    "name": "pratyushpad/Lumina",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:29:56Z",
-    "url": "https://github.com/pratyushpad/Lumina"
   }
 ]
