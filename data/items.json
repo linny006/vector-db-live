@@ -1,11 +1,65 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 34,
+    "updated_at": "2026-07-24T07:59:16Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:56:56Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-24T07:58:08Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29246,
+    "updated_at": "2026-07-24T07:46:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-24T07:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1402,
-    "updated_at": "2026-07-24T07:44:38Z",
+    "updated_at": "2026-07-24T07:48:37Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -23,7 +77,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 6,
-    "updated_at": "2026-07-24T07:43:27Z",
+    "updated_at": "2026-07-24T07:56:28Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -72,24 +126,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -115,15 +151,6 @@
     "stars": 16644,
     "updated_at": "2026-07-24T07:21:53Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 34,
-    "updated_at": "2026-07-24T07:21:47Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -153,20 +180,11 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 76,
-    "updated_at": "2026-07-24T07:38:53Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45361,
+    "stars": 45364,
     "updated_at": "2026-07-24T07:08:45Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 5,
-    "updated_at": "2026-07-24T06:46:31Z",
+    "updated_at": "2026-07-24T07:58:21Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -256,18 +274,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15247,
+    "stars": 15248,
     "updated_at": "2026-07-24T06:01:52Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29244,
-    "updated_at": "2026-07-24T06:00:46Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Python client for Qdrant vector search engine",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1406,
-    "updated_at": "2026-07-24T05:49:06Z",
+    "updated_at": "2026-07-24T07:55:21Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T03:17:16Z",
     "url": "https://github.com/aramradif/Enterprise-AI-Platform"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1604,
-    "updated_at": "2026-07-24T07:04:45Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
