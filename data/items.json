@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-24T08:00:24Z",
+    "updated_at": "2026-07-24T08:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34219,
+    "updated_at": "2026-07-24T08:13:08Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:11:25Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 6,
+    "updated_at": "2026-07-24T08:09:48Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-07-24T08:13:37Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Node.js RAG chatbot featuring context-aware conversations, vector search, document retrieval, and extensible AI model in",
+    "id": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
+    "language": "TypeScript",
+    "name": "deyaditya34/Chatline---RAG-Powered-AI-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:03:13Z",
+    "url": "https://github.com/deyaditya34/Chatline---RAG-Powered-AI-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -45,15 +99,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 12679,
     "updated_at": "2026-07-24T07:44:16Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 6,
-    "updated_at": "2026-07-24T07:56:28Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
     "description": "13 RAG architectures (naive/hybrid/rerank/HyDE/fusion/chunking/GraphRAG/RAPTOR/corrective/adaptive/agentic) benchmarked ",
@@ -131,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7890,
-    "updated_at": "2026-07-24T07:29:12Z",
+    "updated_at": "2026-07-24T08:14:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 45364,
     "updated_at": "2026-07-24T07:08:45Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-07-24T07:58:21Z",
-    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "The AI search platform",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-24T04:05:51Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 87,
-    "updated_at": "2026-07-24T06:36:57Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 129,
-    "updated_at": "2026-07-24T03:24:25Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
-    "id": "aramradif/Enterprise-AI-Platform",
-    "language": "Python",
-    "name": "aramradif/Enterprise-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:17:16Z",
-    "url": "https://github.com/aramradif/Enterprise-AI-Platform"
   }
 ]
