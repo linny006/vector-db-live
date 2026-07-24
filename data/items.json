@@ -1,11 +1,92 @@
 [
   {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1402,
+    "updated_at": "2026-07-24T07:44:38Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12679,
+    "updated_at": "2026-07-24T07:44:16Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 6,
+    "updated_at": "2026-07-24T07:43:27Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "13 RAG architectures (naive/hybrid/rerank/HyDE/fusion/chunking/GraphRAG/RAPTOR/corrective/adaptive/agentic) benchmarked ",
+    "id": "tkarim45/rag-architectures",
+    "language": "Python",
+    "name": "tkarim45/rag-architectures",
+    "stars": 1,
+    "updated_at": "2026-07-24T07:37:07Z",
+    "url": "https://github.com/tkarim45/rag-architectures"
+  },
+  {
+    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
+    "id": "Agenvana/ragleakguard-agent",
+    "language": "Python",
+    "name": "Agenvana/ragleakguard-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:33:58Z",
+    "url": "https://github.com/Agenvana/ragleakguard-agent"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-24T07:31:52Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:31:41Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T07:30:59Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-24T07:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-24T07:30:18Z",
+    "updated_at": "2026-07-24T07:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,6 +108,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16644,
+    "updated_at": "2026-07-24T07:21:53Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T07:21:26Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:17:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -77,7 +158,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 76,
-    "updated_at": "2026-07-24T07:25:18Z",
+    "updated_at": "2026-07-24T07:38:53Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 45361,
     "updated_at": "2026-07-24T07:08:45Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-24T07:04:21Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -193,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29243,
+    "stars": 29244,
     "updated_at": "2026-07-24T06:00:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -205,15 +277,6 @@
     "stars": 1333,
     "updated_at": "2026-07-24T05:59:47Z",
     "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "AI Data Security Auditor: scans documents and vector stores (Chroma, OpenAI) for exposed PII and reports findings as met",
-    "id": "Agenvana/ragleakguard-agent",
-    "language": "Python",
-    "name": "Agenvana/ragleakguard-agent",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:57:09Z",
-    "url": "https://github.com/Agenvana/ragleakguard-agent"
   },
   {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
@@ -333,15 +396,6 @@
     "url": "https://github.com/wangzifan396-wzf/rag-viz-lab"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:15:08Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 6,
-    "updated_at": "2026-07-24T07:24:19Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 1604,
     "updated_at": "2026-07-24T07:04:45Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:49:36Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 372,
-    "updated_at": "2026-07-24T02:38:37Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/GrafoConcierge",
-    "language": "Python",
-    "name": "LuisinTheLegend/GrafoConcierge",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:28:27Z",
-    "url": "https://github.com/LuisinTheLegend/GrafoConcierge"
-  },
-  {
-    "description": "Asistente de investigaci\u00f3n con RAG para papers cient\u00edficos \u2014 extracci\u00f3n estructurada con Docling, b\u00fasqueda h\u00edbrida (BM25",
-    "id": "JuSebasCel/Research-Assistant",
-    "language": "Python",
-    "name": "JuSebasCel/Research-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:15:14Z",
-    "url": "https://github.com/JuSebasCel/Research-Assistant"
-  },
-  {
-    "description": "RAG-based medical assistant using document preprocessing, embeddings, semantic search, vector storage, prompt engineerin",
-    "id": "sohailharoon777/medical-assistant-rag",
-    "language": "HTML",
-    "name": "sohailharoon777/medical-assistant-rag",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:03:34Z",
-    "url": "https://github.com/sohailharoon777/medical-assistant-rag"
   }
 ]
