@@ -1,5 +1,77 @@
 [
   {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-07-25T07:58:27Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-25T07:58:19Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 245,
+    "updated_at": "2026-07-25T07:55:56Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "RAG-powered PDF Q&A chatbot built with LangChain, Chroma, and Groq (Llama 3.3) \u2014 upload a PDF and ask grounded questions",
+    "id": "Jayadev-cloud/rag-pdf-qa",
+    "language": "Python",
+    "name": "Jayadev-cloud/rag-pdf-qa",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:55:00Z",
+    "url": "https://github.com/Jayadev-cloud/rag-pdf-qa"
+  },
+  {
+    "description": "Does TurboVec quantization hold up on exact-fact retrieval, or only on semantic similarity? Tests recall@k across bit_wi",
+    "id": "sylxforce-dev/quantcheck",
+    "language": "Python",
+    "name": "sylxforce-dev/quantcheck",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:51:09Z",
+    "url": "https://github.com/sylxforce-dev/quantcheck"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:47:38Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "\ud83c\udfafBuilding a Production LLM Application",
+    "id": "StarDust130/Orion",
+    "language": "Python",
+    "name": "StarDust130/Orion",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:46:16Z",
+    "url": "https://github.com/StarDust130/Orion"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-25T07:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-25T07:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Reproducible ANN/vector-index benchmark: recall@k (vs exact ground truth), latency p50/p95, QPS, build time, memory acro",
-    "id": "tkarim45/vector-db-benchmark",
-    "language": "Python",
-    "name": "tkarim45/vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:44:10Z",
-    "url": "https://github.com/tkarim45/vector-db-benchmark"
   },
   {
     "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
@@ -27,6 +90,15 @@
     "url": "https://github.com/piyalidas10/AI"
   },
   {
+    "description": "Reproducible ANN/vector-index benchmark: recall@k (vs exact ground truth), latency p50/p95, QPS, build time, memory acro",
+    "id": "tkarim45/vector-db-benchmark",
+    "language": "Python",
+    "name": "tkarim45/vector-db-benchmark",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:44:10Z",
+    "url": "https://github.com/tkarim45/vector-db-benchmark"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-25T07:39:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 245,
-    "updated_at": "2026-07-25T07:36:22Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
@@ -61,15 +124,6 @@
     "stars": 27,
     "updated_at": "2026-07-25T07:32:53Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-25T07:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T07:14:21Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "Python",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:13:15Z",
-    "url": "https://github.com/StarDust130/Orion"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-25T06:26:04Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:24:58Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:24:26Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:24:06Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-25T06:21:47Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-25T06:21:13Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
