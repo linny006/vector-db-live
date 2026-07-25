@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-25T16:55:13Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 3,
+    "updated_at": "2026-07-25T16:54:06Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-25T16:53:52Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29307,
+    "updated_at": "2026-07-25T16:50:30Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 0,
+    "updated_at": "2026-07-25T16:50:04Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-25T16:49:57Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-25T16:49:21Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-25T16:49:04Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-25T16:47:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1865,
+    "updated_at": "2026-07-25T16:47:14Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-25T16:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +106,15 @@
     "stars": 3,
     "updated_at": "2026-07-25T16:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-25T16:44:21Z",
+    "url": "https://github.com/DevDarsh26/Quira"
   },
   {
     "description": "",
@@ -86,7 +194,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 111,
-    "updated_at": "2026-07-25T16:40:31Z",
+    "updated_at": "2026-07-25T16:46:03Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -106,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-07-25T16:38:01Z",
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29306,
-    "updated_at": "2026-07-25T16:32:54Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1865,
-    "updated_at": "2026-07-25T16:32:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
@@ -153,15 +243,6 @@
     "url": "https://github.com/hfgwygey/yu-ai-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-25T16:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
     "id": "zmwzmo11130/neuraldocs",
     "language": "Python",
@@ -178,15 +259,6 @@
     "stars": 1041,
     "updated_at": "2026-07-25T16:30:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 0,
-    "updated_at": "2026-07-25T16:29:01Z",
-    "url": "https://github.com/Aniket762/ragent"
   },
   {
     "description": "Learn TypeScript chatting effortlessly with AI",
@@ -214,15 +286,6 @@
     "stars": 10988,
     "updated_at": "2026-07-25T16:25:45Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-25T16:19:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Behavioral analysis layer for DShield logs. A pipeline that refracts raw honeypot logs into behavioral fingerprints; clu",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T15:53:10Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:52:44Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-07-25T15:52:17Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Multi-tenant RAG and MCP document intelligence platform with secure PDF ingestion, tenant-isolated Qdrant retrieval, Gro",
-    "id": "IhabAltekreeti/vaultify",
-    "language": "Jupyter Notebook",
-    "name": "IhabAltekreeti/vaultify",
-    "stars": 0,
-    "updated_at": "2026-07-25T16:30:40Z",
-    "url": "https://github.com/IhabAltekreeti/vaultify"
-  },
-  {
-    "description": "API platform info for machine-learning",
-    "id": "api-evangelist/machine-learning",
-    "language": "HTML",
-    "name": "api-evangelist/machine-learning",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:50:02Z",
-    "url": "https://github.com/api-evangelist/machine-learning"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-25T15:49:53Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "API platform info for database",
-    "id": "api-evangelist/database",
-    "language": "HTML",
-    "name": "api-evangelist/database",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:49:30Z",
-    "url": "https://github.com/api-evangelist/database"
-  },
-  {
-    "description": "AI/ML LangChain LangGraph RAG Vector DB",
-    "id": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
-    "language": "JavaScript",
-    "name": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
-    "stars": 1,
-    "updated_at": "2026-07-25T15:48:45Z",
-    "url": "https://github.com/iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database"
   }
 ]
