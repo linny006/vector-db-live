@@ -1,12 +1,111 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1041,
+    "updated_at": "2026-07-25T16:30:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 0,
+    "updated_at": "2026-07-25T16:29:01Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 2,
+    "updated_at": "2026-07-25T16:28:48Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-07-25T16:28:43Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "HTML",
+    "name": "lancedb/lancedb",
+    "stars": 10988,
+    "updated_at": "2026-07-25T16:25:45Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29307,
+    "updated_at": "2026-07-25T16:19:55Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-25T16:19:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Behavioral analysis layer for DShield logs. A pipeline that refracts raw honeypot logs into behavioral fingerprints; clu",
+    "id": "tonysperez/dshield_prism",
+    "language": "Python",
+    "name": "tonysperez/dshield_prism",
+    "stars": 0,
+    "updated_at": "2026-07-25T16:19:02Z",
+    "url": "https://github.com/tonysperez/dshield_prism"
+  },
+  {
+    "description": "This is the repo tracking the development of a RAG-based model named as - \"ScholarSync - AI STUDY BUDDY\".",
+    "id": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
+    "language": "Python",
+    "name": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-25T16:16:54Z",
+    "url": "https://github.com/AnshulKumar79/StudyBuddy-AI_Study_Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-25T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-25T16:15:20Z",
+    "updated_at": "2026-07-25T16:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7896,
+    "updated_at": "2026-07-25T16:15:07Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
     "stars": 2,
-    "updated_at": "2026-07-25T16:13:20Z",
+    "updated_at": "2026-07-25T16:16:33Z",
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
   },
   {
-    "description": "This is the repo tracking the development of a RAG-based model named as - \"ScholarSync - AI STUDY BUDDY\".",
-    "id": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
-    "language": "Python",
-    "name": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-25T16:09:19Z",
-    "url": "https://github.com/AnshulKumar79/StudyBuddy-AI_Study_Assistant"
-  },
-  {
     "description": "AI-powered interview prep assistant using RAG, FAISS & Google Gemini \u2014 ask questions from your resume and get intelligen",
     "id": "prerna-m01/AI-Interview-Assistant",
     "language": "Python",
@@ -124,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T16:01:03Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-25T16:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -214,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T15:50:53Z",
     "url": "https://github.com/IhabAltekreeti/vaultify"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-25T15:50:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29305,
-    "updated_at": "2026-07-25T16:04:57Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "API platform info for machine-learning",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T15:41:23Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-07-25T15:41:03Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 1,
-    "updated_at": "2026-07-25T15:40:31Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "Predictive AI Agent Memory & Second Brain \u2014 trusted long-term memory, vector search, temporal knowledge graph, decision ",
-    "id": "234194027-cpu/aion-memory-nexus",
-    "language": "Python",
-    "name": "234194027-cpu/aion-memory-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:40:28Z",
-    "url": "https://github.com/234194027-cpu/aion-memory-nexus"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-25T15:39:11Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:38:53Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "Python",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-25T15:38:18Z",
-    "url": "https://github.com/StarDust130/Orion"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-25T15:38:16Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
