@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:35:01Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
+    "id": "yichunzhao/ragdemo",
+    "language": "Java",
+    "name": "yichunzhao/ragdemo",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:34:14Z",
+    "url": "https://github.com/yichunzhao/ragdemo"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-07-25T14:34:04Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "AI-powered interview prep assistant using RAG, FAISS & Google Gemini \u2014 ask questions from your resume and get intelligen",
+    "id": "prerna-m01/AI-Interview-Assistant",
+    "language": "Python",
+    "name": "prerna-m01/AI-Interview-Assistant",
+    "stars": 1,
+    "updated_at": "2026-07-25T14:33:40Z",
+    "url": "https://github.com/prerna-m01/AI-Interview-Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-25T14:32:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-25T14:30:34Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-25T14:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-07-25T14:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29302,
+    "updated_at": "2026-07-25T14:30:16Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
@@ -43,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-25T14:25:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-25T14:24:58Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29303,
-    "updated_at": "2026-07-25T14:30:16Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -115,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-25T14:16:52Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-25T14:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Retrieval-Augmented Generation system over course video transcripts/PDF",
@@ -297,15 +342,6 @@
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
-    "description": "AI-powered interview prep assistant using RAG, FAISS & Google Gemini \u2014 ask questions from your resume and get intelligen",
-    "id": "prerna-m01/AI-Interview-Assistant",
-    "language": "Python",
-    "name": "prerna-m01/AI-Interview-Assistant",
-    "stars": 1,
-    "updated_at": "2026-07-25T13:55:14Z",
-    "url": "https://github.com/prerna-m01/AI-Interview-Assistant"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -387,24 +423,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-25T13:34:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Purpose: This demo project aims to showcase the end-to-end setup of an AI application using Spring Boot and Spring AI, c",
-    "id": "yichunzhao/ragdemo",
-    "language": "Java",
-    "name": "yichunzhao/ragdemo",
-    "stars": 0,
-    "updated_at": "2026-07-25T13:24:16Z",
-    "url": "https://github.com/yichunzhao/ragdemo"
-  },
-  {
     "description": "Autonomous Multi-Agent RAG System featuring LangGraph stateful agentic workflows, hybrid Qdrant vector retrieval, and re",
     "id": "Ahmad110505/multimodal-rag-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T13:16:21Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-07-25T13:11:40Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 37,
-    "updated_at": "2026-07-25T13:10:51Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   }
 ]
