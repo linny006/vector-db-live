@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-25 12:45 UTC
+> ⏰ Last updated: 2026-07-25 12:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 316 | Python | 2026-07-25 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 3 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-07-25 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
-| 4 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-25 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 5 | [defai-digital/akidb](https://github.com/defai-digital/akidb) | 1 | Rust | 2026-07-25 | Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64) |
-| 6 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 1 | Jupyter Notebook | 2026-07-25 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
-| 7 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-07-25 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 8 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-07-25 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 9 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 1 | Python | 2026-07-25 | GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [schmitech/orbit](https://github.com/schmitech/orbit) | 316 | Python | 2026-07-25 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 4 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-07-25 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
+| 5 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-25 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
+| 6 | [defai-digital/akidb](https://github.com/defai-digital/akidb) | 1 | Rust | 2026-07-25 | Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64) |
+| 7 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 1 | Jupyter Notebook | 2026-07-25 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
+| 8 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-07-25 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
+| 9 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-07-25 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
+| 10 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 1 | Python | 2026-07-25 | GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
 | 11 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-07-25 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 12 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-07-25 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 13 | [constancywoodsy286/agentic-rag-for-practice](https://github.com/constancywoodsy286/agentic-rag-for-practice) | 1 | Python | 2026-07-25 | Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo |
