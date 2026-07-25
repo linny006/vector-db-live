@@ -1,12 +1,84 @@
 [
   {
+    "description": "Build your own offline domain-specific AI from your knowledge.",
+    "id": "VivekDahariya/PriAI",
+    "language": "Python",
+    "name": "VivekDahariya/PriAI",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:29:47Z",
+    "url": "https://github.com/VivekDahariya/PriAI"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2210,
+    "updated_at": "2026-07-25T19:29:07Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-25T19:26:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An intelligent query retrieval system that processes complex documents to deliver context-aware, explainable answers for",
+    "id": "aaditya3301/ClauseIQ",
+    "language": "Python",
+    "name": "aaditya3301/ClauseIQ",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:22:30Z",
+    "url": "https://github.com/aaditya3301/ClauseIQ"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 3,
+    "updated_at": "2026-07-25T19:20:01Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-25T19:25:16Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-25T19:29:43Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
     "name": "rehan243/rehan243",
     "stars": 1,
-    "updated_at": "2026-07-25T19:16:41Z",
+    "updated_at": "2026-07-25T19:18:12Z",
     "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-25T19:17:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production AI Agents for enterprise automation \u2014 8+ specialized agents using LangChain, OpenAI function calling, and Fas",
@@ -36,15 +108,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-25T19:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -59,17 +122,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-25T19:14:42Z",
+    "updated_at": "2026-07-25T19:25:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-25T19:14:02Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "\ud83e\udde0 Secure AI Assistant to chat with your documents. Isolated vector data storage with full citation tracing built using F",
@@ -79,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-25T19:10:43Z",
     "url": "https://github.com/AvishkaGihan/documind-ai"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-25T19:12:48Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
@@ -117,15 +162,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2210,
-    "updated_at": "2026-07-25T19:01:29Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -142,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-07-25T18:52:50Z",
     "url": "https://github.com/krish1925/isotrieve"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:48:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -421,32 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-25T18:16:23Z",
     "url": "https://github.com/Project-Navi/ordvec"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:14:39Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Agentic AI-powered Enterprise Knowledge Assistant using RAG, LangGraph, ChromaDB, Hugging Face embeddings, Groq/Ollama, ",
-    "id": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
-    "language": "Python",
-    "name": "nagendra-official-ai/EnterpriseKnowledgeAssistant",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:14:07Z",
-    "url": "https://github.com/nagendra-official-ai/EnterpriseKnowledgeAssistant"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-25T18:13:59Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
