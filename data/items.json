@@ -1,5 +1,167 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 2,
+    "updated_at": "2026-07-26T19:43:52Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 3,
+    "updated_at": "2026-07-26T19:43:27Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-26T19:43:22Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:41:01Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Spring Boot RAG demo using Spring AI, Ollama, and PgVector for local document ingestion, embeddings, vector search, and ",
+    "id": "yichunzhao/ragdemo",
+    "language": "Java",
+    "name": "yichunzhao/ragdemo",
+    "stars": 0,
+    "updated_at": "2026-07-26T19:40:05Z",
+    "url": "https://github.com/yichunzhao/ragdemo"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 2,
+    "updated_at": "2026-07-26T19:39:22Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 5,
+    "updated_at": "2026-07-26T19:39:17Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-07-26T19:38:23Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Offline RAG assistant for renewable energy maintenance using local LLMs, ChromaDB and semantic search.",
+    "id": "zeynepsumeyyedemirel-code/AeroGrid_AI",
+    "language": "Python",
+    "name": "zeynepsumeyyedemirel-code/AeroGrid_AI",
+    "stars": 0,
+    "updated_at": "2026-07-26T19:38:59Z",
+    "url": "https://github.com/zeynepsumeyyedemirel-code/AeroGrid_AI"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-26T19:34:40Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 13,
+    "updated_at": "2026-07-26T19:34:14Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-07-26T19:34:05Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:33:48Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 321,
+    "updated_at": "2026-07-26T19:33:30Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 7,
+    "updated_at": "2026-07-26T19:31:41Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45388,
+    "updated_at": "2026-07-26T19:30:48Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -9,15 +171,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T19:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -25,15 +178,6 @@
     "stars": 1043,
     "updated_at": "2026-07-26T19:29:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 13,
-    "updated_at": "2026-07-26T19:28:32Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -86,7 +230,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-26T19:25:51Z",
+    "updated_at": "2026-07-26T19:37:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -180,15 +324,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-26T19:17:11Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "An AI-powered GitHub repository assistant that uses Retrieval-Augmented Generation (RAG) to understand codebases, answer",
     "id": "webwithhaider/GitHub-RAG-Assistant",
     "language": "Python",
@@ -196,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T19:16:58Z",
     "url": "https://github.com/webwithhaider/GitHub-RAG-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T19:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
@@ -223,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T19:09:35Z",
     "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Offline RAG assistant for renewable energy maintenance using local LLMs, ChromaDB and semantic search.",
-    "id": "zeynepsumeyyedemirel-code/AeroGrid_AI",
-    "language": "Python",
-    "name": "zeynepsumeyyedemirel-code/AeroGrid_AI",
-    "stars": 0,
-    "updated_at": "2026-07-26T19:09:29Z",
-    "url": "https://github.com/zeynepsumeyyedemirel-code/AeroGrid_AI"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -331,122 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-26T18:40:20Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 112,
-    "updated_at": "2026-07-26T19:01:07Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Intelligent AI Recruiter Assistant",
-    "id": "shashankch/agentic-profile-matching-engine",
-    "language": "Python",
-    "name": "shashankch/agentic-profile-matching-engine",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:34:05Z",
-    "url": "https://github.com/shashankch/agentic-profile-matching-engine"
-  },
-  {
-    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
-    "id": "arif39x/vivy",
-    "language": "Rust",
-    "name": "arif39x/vivy",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:24:22Z",
-    "url": "https://github.com/arif39x/vivy"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:20:14Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 9,
-    "updated_at": "2026-07-26T18:16:30Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
-  },
-  {
-    "description": "AI-powered document intelligence platform using Retrieval-Augmented Generation (RAG), FastAPI, React, Qdrant, and Groq.",
-    "id": "Dalip-Coding-Sphere/ContextIQ",
-    "language": "Python",
-    "name": "Dalip-Coding-Sphere/ContextIQ",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:12:21Z",
-    "url": "https://github.com/Dalip-Coding-Sphere/ContextIQ"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:06:23Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "This repo contains almost everything about Generative Ai",
-    "id": "areebahmed575/Learn-Generative-AI",
-    "language": "Jupyter Notebook",
-    "name": "areebahmed575/Learn-Generative-AI",
-    "stars": 16,
-    "updated_at": "2026-07-26T18:03:18Z",
-    "url": "https://github.com/areebahmed575/Learn-Generative-AI"
-  },
-  {
-    "description": "AI/ML LangChain LangGraph RAG Vector DB",
-    "id": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
-    "language": "JavaScript",
-    "name": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
-    "stars": 1,
-    "updated_at": "2026-07-26T18:02:50Z",
-    "url": "https://github.com/iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-07-26T19:00:00Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-26T18:01:22Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33595,
-    "updated_at": "2026-07-26T18:23:30Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 40,
-    "updated_at": "2026-07-26T19:02:52Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   }
 ]
