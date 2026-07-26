@@ -1,12 +1,12 @@
 [
   {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 2,
-    "updated_at": "2026-07-26T18:10:02Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 111,
+    "updated_at": "2026-07-26T18:28:49Z",
+    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "kamrankausher/agentic-rag-chatbot",
     "stars": 1,
-    "updated_at": "2026-07-26T18:10:01Z",
+    "updated_at": "2026-07-26T18:26:04Z",
     "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
+  },
+  {
+    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
+    "id": "arif39x/vivy",
+    "language": "Rust",
+    "name": "arif39x/vivy",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:24:22Z",
+    "url": "https://github.com/arif39x/vivy"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:21:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:20:14Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
+    "id": "aminturabi/RAGForge",
+    "language": "Python",
+    "name": "aminturabi/RAGForge",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:17:51Z",
+    "url": "https://github.com/aminturabi/RAGForge"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 9,
+    "updated_at": "2026-07-26T18:16:30Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered document intelligence platform using Retrieval-Augmented Generation (RAG), FastAPI, React, Qdrant, and Groq.",
+    "id": "Dalip-Coding-Sphere/ContextIQ",
+    "language": "Python",
+    "name": "Dalip-Coding-Sphere/ContextIQ",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:12:21Z",
+    "url": "https://github.com/Dalip-Coding-Sphere/ContextIQ"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:10:02Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
@@ -45,24 +126,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-26T18:12:09Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
-    "id": "arif39x/vivy",
-    "language": "Rust",
-    "name": "arif39x/vivy",
-    "stars": 0,
-    "updated_at": "2026-07-26T18:04:03Z",
-    "url": "https://github.com/arif39x/vivy"
-  },
-  {
     "description": "This repo contains almost everything about Generative Ai",
     "id": "areebahmed575/Learn-Generative-AI",
     "language": "Jupyter Notebook",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-26T18:01:43Z",
+    "updated_at": "2026-07-26T18:27:38Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -99,30 +162,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33595,
-    "updated_at": "2026-07-26T17:59:37Z",
+    "updated_at": "2026-07-26T18:23:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/yichunzhao/ragdemo"
   },
   {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:53:57Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -178,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T17:51:58Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-07-26T17:49:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T17:22:56Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:21:58Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:21:39Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:21:08Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
