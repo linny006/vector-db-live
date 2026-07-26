@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Retrieval-Augmented Generation system over course video transcripts/PDF",
+    "id": "CodeMaestroRishit/rag-course-companion",
+    "language": "JavaScript",
+    "name": "CodeMaestroRishit/rag-course-companion",
+    "stars": 0,
+    "updated_at": "2026-07-26T09:32:14Z",
+    "url": "https://github.com/CodeMaestroRishit/rag-course-companion"
+  },
+  {
+    "description": "Ingests any Git repo into a knowledge graph + vector index \u2014 plain-English code Q&A, architecture risk detection, and ch",
+    "id": "goyal-harshit/codebase-intelligence-platform",
+    "language": "Python",
+    "name": "goyal-harshit/codebase-intelligence-platform",
+    "stars": 2,
+    "updated_at": "2026-07-26T09:32:26Z",
+    "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T09:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 825,
+    "updated_at": "2026-07-26T09:31:13Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29355,
+    "updated_at": "2026-07-26T09:30:14Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Automatic one-click install. Encrypted, fully offline vector memory for AI agents; takes over built-in agentic memory.",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T09:28:39Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29354,
-    "updated_at": "2026-07-26T09:30:14Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T09:24:31Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Ingests any Git repo into a knowledge graph + vector index \u2014 plain-English code Q&A, architecture risk detection, and ch",
-    "id": "goyal-harshit/codebase-intelligence-platform",
-    "language": "Python",
-    "name": "goyal-harshit/codebase-intelligence-platform",
-    "stars": 2,
-    "updated_at": "2026-07-26T09:25:34Z",
-    "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
   },
   {
     "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
@@ -115,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-07-26T09:15:42Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T09:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-26T08:43:47Z",
     "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-07-26T08:43:35Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-26T08:43:22Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
