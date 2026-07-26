@@ -1,5 +1,122 @@
 [
   {
+    "description": "An AI-powered GitHub repository assistant that uses Retrieval-Augmented Generation (RAG) to understand codebases, answer",
+    "id": "webwithhaider/GitHub-RAG-Assistant",
+    "language": "Python",
+    "name": "webwithhaider/GitHub-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-26T19:15:07Z",
+    "url": "https://github.com/webwithhaider/GitHub-RAG-Assistant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1043,
+    "updated_at": "2026-07-26T19:12:02Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 45,
+    "updated_at": "2026-07-26T19:10:28Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 1,
+    "updated_at": "2026-07-26T19:09:35Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-26T19:09:28Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE",
+    "id": "nram-ai/nram",
+    "language": "Go",
+    "name": "nram-ai/nram",
+    "stars": 8,
+    "updated_at": "2026-07-26T19:09:16Z",
+    "url": "https://github.com/nram-ai/nram"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-07-26T19:08:21Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 3,
+    "updated_at": "2026-07-26T19:07:18Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 3,
+    "updated_at": "2026-07-26T19:05:54Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 6,
+    "updated_at": "2026-07-26T19:05:47Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
+    "id": "kamrankausher/agentic-rag-chatbot",
+    "language": "Python",
+    "name": "kamrankausher/agentic-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-26T19:05:08Z",
+    "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T19:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
     "id": "mirkobozzetto/flowflow",
     "language": "Rust",
@@ -9,15 +126,6 @@
     "url": "https://github.com/mirkobozzetto/flowflow"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1043,
-    "updated_at": "2026-07-26T18:56:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T18:52:14Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 1,
-    "updated_at": "2026-07-26T18:48:56Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,24 +162,6 @@
     "url": "https://github.com/aminturabi/RAGForge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
@@ -90,21 +171,12 @@
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
-    "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
-    "id": "kamrankausher/agentic-rag-chatbot",
-    "language": "Python",
-    "name": "kamrankausher/agentic-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-26T18:38:34Z",
-    "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 112,
-    "updated_at": "2026-07-26T18:34:34Z",
+    "updated_at": "2026-07-26T19:01:07Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 40,
-    "updated_at": "2026-07-26T18:08:44Z",
+    "updated_at": "2026-07-26T19:02:52Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-26T17:46:25Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:33:08Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:31:04Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:29:16Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:29:16Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:29:06Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:28:39Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:28:17Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:27:28Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
