@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
+    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "language": "HTML",
+    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "stars": 203,
+    "updated_at": "2026-07-26T15:25:41Z",
+    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 4,
-    "updated_at": "2026-07-26T15:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-26T15:25:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:20:47Z",
+    "url": "https://github.com/piyalidas10/AI"
   },
   {
     "description": "Encrypted, fully offline vector memory for AI agents; replaces built-in agentic memory. Automatic one-click install.",
@@ -14,8 +32,89 @@
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
     "stars": 3,
-    "updated_at": "2026-07-26T15:14:29Z",
+    "updated_at": "2026-07-26T15:23:47Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
+    "id": "Wry-letters233/notes-quiz-agent",
+    "language": "JavaScript",
+    "name": "Wry-letters233/notes-quiz-agent",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:17:41Z",
+    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 2,
+    "updated_at": "2026-07-26T15:17:36Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
+    "language": "Python",
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 2,
+    "updated_at": "2026-07-26T15:17:13Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+  },
+  {
+    "description": "Splinter cohabitates inference and semantic governance in L3 cache and memory lanes, while simultaneously providing stan",
+    "id": "splinterhq/libsplinter",
+    "language": "C",
+    "name": "splinterhq/libsplinter",
+    "stars": 4,
+    "updated_at": "2026-07-26T15:16:52Z",
+    "url": "https://github.com/splinterhq/libsplinter"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-07-26T15:16:39Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-07-26T15:16:16Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 150,
+    "updated_at": "2026-07-26T15:18:07Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T15:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T15:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -126,15 +225,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T15:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -178,15 +268,6 @@
     "stars": 321,
     "updated_at": "2026-07-26T14:56:31Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 203,
-    "updated_at": "2026-07-26T14:55:12Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T14:43:39Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:43:21Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:38:23Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-07-26T14:38:09Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:38:05Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:37:23Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-26T14:36:56Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 3,
-    "updated_at": "2026-07-26T14:36:39Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:36:31Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-26T14:36:03Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
