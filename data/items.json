@@ -1,12 +1,84 @@
 [
   {
+    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 160,
+    "updated_at": "2026-07-26T18:57:44Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1043,
+    "updated_at": "2026-07-26T18:56:30Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-26T18:52:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:48:56Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:48:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-26T18:47:39Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
+    "id": "aminturabi/RAGForge",
+    "language": "Python",
+    "name": "aminturabi/RAGForge",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:45:36Z",
+    "url": "https://github.com/aminturabi/RAGForge"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 4,
-    "updated_at": "2026-07-26T18:44:01Z",
+    "updated_at": "2026-07-26T18:45:20Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -27,15 +99,6 @@
     "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
   },
   {
-    "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
-    "id": "aminturabi/RAGForge",
-    "language": "Python",
-    "name": "aminturabi/RAGForge",
-    "stars": 1,
-    "updated_at": "2026-07-26T18:36:19Z",
-    "url": "https://github.com/aminturabi/RAGForge"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
@@ -54,15 +117,6 @@
     "url": "https://github.com/shashankch/agentic-profile-matching-engine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
     "id": "arif39x/vivy",
     "language": "Rust",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T18:24:22Z",
     "url": "https://github.com/arif39x/vivy"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-07-26T18:21:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T18:10:02Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 160,
-    "updated_at": "2026-07-26T18:08:12Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-26T18:34:27Z",
+    "updated_at": "2026-07-26T19:00:00Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T17:53:30Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-26T17:51:58Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T17:27:28Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:27:07Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-26T17:25:38Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:24:09Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
