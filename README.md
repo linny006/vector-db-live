@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-26 12:15 UTC
+> ⏰ Last updated: 2026-07-26 12:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [goyal-harshit/codebase-intelligence-platform](https://github.com/goyal-harshit/codebase-intelligence-platform) | 2 | Python | 2026-07-26 | Ingests any Git repo into a knowledge graph + vector index — plain-English code Q&A, architecture risk detection, and ch |
-| 2 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 825 | TypeScript | 2026-07-26 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 3 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6193 | Rust | 2026-07-26 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 2 | HTML | 2026-07-26 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 5 | [shashankch/agentic-profile-matching-engine](https://github.com/shashankch/agentic-profile-matching-engine) | 0 | Python | 2026-07-26 | Intelligent AI Recruiter Assistant |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 4 | Python | 2026-07-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 4 | Python | 2026-07-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [goyal-harshit/codebase-intelligence-platform](https://github.com/goyal-harshit/codebase-intelligence-platform) | 2 | Python | 2026-07-26 | Ingests any Git repo into a knowledge graph + vector index — plain-English code Q&A, architecture risk detection, and ch |
+| 4 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 825 | TypeScript | 2026-07-26 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 5 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6193 | Rust | 2026-07-26 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 2 | HTML | 2026-07-26 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 7 | [shashankch/agentic-profile-matching-engine](https://github.com/shashankch/agentic-profile-matching-engine) | 0 | Python | 2026-07-26 | Intelligent AI Recruiter Assistant |
 | 8 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 15 | JavaScript | 2026-07-26 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
 | 9 | [Wry-letters233/notes-quiz-agent](https://github.com/Wry-letters233/notes-quiz-agent) | 0 | JavaScript | 2026-07-26 | Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study. |
 | 10 | [Alkaloiddolichocephaly898/agentic-ai-tutorial](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial) | 2 | Jupyter Notebook | 2026-07-26 | Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows. |
