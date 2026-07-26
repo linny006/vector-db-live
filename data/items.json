@@ -1,12 +1,30 @@
 [
   {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-26T07:25:37Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T07:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:29:31Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
+    "id": "LangModule/ingestlib",
+    "language": "Python",
+    "name": "LangModule/ingestlib",
+    "stars": 3,
+    "updated_at": "2026-07-26T07:29:29Z",
+    "url": "https://github.com/LangModule/ingestlib"
   },
   {
     "description": "Ingests any Git repo into a knowledge graph + vector index \u2014 plain-English code Q&A, architecture risk detection, and ch",
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "goyal-harshit/codebase-intelligence-platform",
     "stars": 2,
-    "updated_at": "2026-07-26T07:25:47Z",
+    "updated_at": "2026-07-26T07:30:14Z",
     "url": "https://github.com/goyal-harshit/codebase-intelligence-platform"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:29:00Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-07-26T07:28:46Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-07-26T07:27:56Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 825,
+    "updated_at": "2026-07-26T07:26:54Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T07:26:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
+    "id": "defai-digital/akidb",
+    "language": "Rust",
+    "name": "defai-digital/akidb",
+    "stars": 1,
+    "updated_at": "2026-07-26T07:25:58Z",
+    "url": "https://github.com/defai-digital/akidb"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-26T07:25:37Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -90,42 +171,6 @@
     "url": "https://github.com/StarDust130/Orion"
   },
   {
-    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
-    "id": "defai-digital/akidb",
-    "language": "Rust",
-    "name": "defai-digital/akidb",
-    "stars": 1,
-    "updated_at": "2026-07-26T07:25:58Z",
-    "url": "https://github.com/defai-digital/akidb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T07:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T07:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-07-26T07:14:17Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -189,15 +234,6 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "Self-hosted LlamaParse alternative: parse, classify, and chunk PDF/DOCX/PPTX into retrieval-ready vectors.",
-    "id": "LangModule/ingestlib",
-    "language": "Python",
-    "name": "LangModule/ingestlib",
-    "stars": 3,
-    "updated_at": "2026-07-26T07:08:59Z",
-    "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
     "description": "A Retrieval-Augmented Generation system over course video transcripts/PDF",
     "id": "CodeMaestroRishit/rag-course-companion",
     "language": "JavaScript",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T07:07:32Z",
     "url": "https://github.com/CodeMaestroRishit/rag-course-companion"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 825,
-    "updated_at": "2026-07-26T07:21:17Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T05:46:30Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-07-26T05:45:22Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:45:21Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:45:15Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
