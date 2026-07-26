@@ -1,5 +1,131 @@
 [
   {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:10:02Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
+    "id": "kamrankausher/agentic-rag-chatbot",
+    "language": "Python",
+    "name": "kamrankausher/agentic-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:10:01Z",
+    "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
+  },
+  {
+    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 160,
+    "updated_at": "2026-07-26T18:08:12Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:06:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
+    "language": "Python",
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:06:07Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 111,
+    "updated_at": "2026-07-26T18:12:09Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
+    "id": "arif39x/vivy",
+    "language": "Rust",
+    "name": "arif39x/vivy",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:04:03Z",
+    "url": "https://github.com/arif39x/vivy"
+  },
+  {
+    "description": "This repo contains almost everything about Generative Ai",
+    "id": "areebahmed575/Learn-Generative-AI",
+    "language": "Jupyter Notebook",
+    "name": "areebahmed575/Learn-Generative-AI",
+    "stars": 16,
+    "updated_at": "2026-07-26T18:03:18Z",
+    "url": "https://github.com/areebahmed575/Learn-Generative-AI"
+  },
+  {
+    "description": "AI/ML LangChain LangGraph RAG Vector DB",
+    "id": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
+    "language": "JavaScript",
+    "name": "iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:02:50Z",
+    "url": "https://github.com/iitiansandy/AI-ML-Langchain-LangGraph-RAG-Vector-Database"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:01:43Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:01:22Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-26T18:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33595,
+    "updated_at": "2026-07-26T17:59:37Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
     "id": "Wry-letters233/notes-quiz-agent",
     "language": "JavaScript",
@@ -9,21 +135,12 @@
     "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-26T17:59:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 40,
-    "updated_at": "2026-07-26T17:58:22Z",
+    "updated_at": "2026-07-26T18:08:44Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -36,24 +153,6 @@
     "url": "https://github.com/yichunzhao/ragdemo"
   },
   {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:54:59Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:54:31Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T17:53:57Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
-    "id": "kamrankausher/agentic-rag-chatbot",
-    "language": "Python",
-    "name": "kamrankausher/agentic-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:53:51Z",
-    "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -90,24 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-26T17:52:39Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
-    "id": "arif39x/vivy",
-    "language": "Rust",
-    "name": "arif39x/vivy",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:50:42Z",
-    "url": "https://github.com/arif39x/vivy"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-07-26T17:49:10Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-26T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T17:21:08Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:20:41Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Resume search tool with multi-resume analysis. Uses RAG pipeline with Pinecone, MMR retrieval, and cross-encoder reranki",
-    "id": "maheshh-v/Resume-analyzer",
-    "language": "Python",
-    "name": "maheshh-v/Resume-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:20:40Z",
-    "url": "https://github.com/maheshh-v/Resume-analyzer"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:18:41Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-26T17:18:09Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:17:48Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 77,
-    "updated_at": "2026-07-26T17:53:33Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:12:54Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
