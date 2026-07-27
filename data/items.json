@@ -1,5 +1,113 @@
 [
   {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T17:13:56Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6195,
+    "updated_at": "2026-07-27T17:13:56Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:14:30Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:08:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-07-27T17:08:42Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
+    "id": "white07S/valise",
+    "language": "Rust",
+    "name": "white07S/valise",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:07:21Z",
+    "url": "https://github.com/white07S/valise"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 1,
+    "updated_at": "2026-07-27T17:04:11Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2027,
+    "updated_at": "2026-07-27T17:03:44Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 2,
+    "updated_at": "2026-07-27T17:03:11Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:01:34Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-27T17:11:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:00:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,15 +153,6 @@
     "url": "https://github.com/maheshchandr26/ResearchOS"
   },
   {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:51:34Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -61,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-07-27T16:56:17Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T16:49:57Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
     "description": "\u96f6\u57fa\u7840\u4e2d\u6587 RAG \u6559\u5b66\u6846\u67b6\uff1a68 \u77e5\u8bc6\u70b9\u7cfb\u7edf\u8bfe\u7a0b + \u9759\u6001\u5b66\u4e60\u7f51\u7ad9 + \u5185\u7f6e RAG \u8bfe\u7a0b\u52a9\u6559\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
@@ -95,44 +185,17 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T16:45:59Z",
+    "updated_at": "2026-07-27T17:09:12Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:44:24Z",
-    "url": "https://github.com/Aniket762/ragent"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29444,
+    "stars": 29445,
     "updated_at": "2026-07-27T16:40:10Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2027,
-    "updated_at": "2026-07-27T16:46:32Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
@@ -153,15 +216,6 @@
     "url": "https://github.com/KB-perByte/hiveshare"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-27T16:32:39Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -169,15 +223,6 @@
     "stars": 7902,
     "updated_at": "2026-07-27T16:26:54Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6195,
-    "updated_at": "2026-07-27T16:59:05Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
@@ -205,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T16:20:33Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:19:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -261,15 +297,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-27T15:59:24Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-27T17:00:27Z",
+    "updated_at": "2026-07-27T17:01:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:58:25Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
     "description": "Retrieval-augmented agent system with LangChain.js, LangGraph.js, and Supabase pgvector \u2014 a framework-based, retrieval-d",
     "id": "sujoymondal87/rag-agent-orchestrator",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:16:38Z",
     "url": "https://github.com/Inchara-hub16/Telecom-rag-assistant"
-  },
-  {
-    "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
-    "id": "achref-soua/quiver",
-    "language": "Rust",
-    "name": "achref-soua/quiver",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:17:02Z",
-    "url": "https://github.com/achref-soua/quiver"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34796,
-    "updated_at": "2026-07-27T14:14:42Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
