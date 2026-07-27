@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T15:45:21Z",
+    "updated_at": "2026-07-27T16:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-27T15:59:24Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2213,
+    "updated_at": "2026-07-27T15:57:25Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-27T15:55:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:51:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-27T15:51:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83c\udfafBuilding a Production LLM Application",
+    "id": "StarDust130/Orion",
+    "language": "Python",
+    "name": "StarDust130/Orion",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:49:29Z",
+    "url": "https://github.com/StarDust130/Orion"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 1,
+    "updated_at": "2026-07-27T15:48:18Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-27T15:48:11Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-07-27T15:45:59Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
@@ -32,17 +122,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-27T15:42:03Z",
+    "updated_at": "2026-07-27T16:00:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-27T15:35:09Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -59,43 +140,16 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12704,
-    "updated_at": "2026-07-27T15:33:32Z",
+    "updated_at": "2026-07-27T16:00:29Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:27:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:20:37Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29437,
-    "updated_at": "2026-07-27T15:07:06Z",
+    "stars": 29440,
+    "updated_at": "2026-07-27T15:58:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T15:23:43Z",
+    "updated_at": "2026-07-27T16:00:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T14:37:05Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 1,
-    "updated_at": "2026-07-27T14:33:38Z",
-    "url": "https://github.com/Aniket762/ragent"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -229,7 +274,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34792,
+    "stars": 34793,
     "updated_at": "2026-07-27T14:14:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T15:44:38Z",
+    "updated_at": "2026-07-27T15:56:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6293,
-    "updated_at": "2026-07-27T14:06:36Z",
+    "updated_at": "2026-07-27T15:59:32Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T13:06:44Z",
     "url": "https://github.com/hjosugi/irodori-extension-qdrant"
-  },
-  {
-    "description": "Database learning repo for DuckDB, H2, InfluxDB, vector DBs, graph DBs, and data-store tradeoffs",
-    "id": "hjosugi/learning-data-stores",
-    "language": "Python",
-    "name": "hjosugi/learning-data-stores",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:59:25Z",
-    "url": "https://github.com/hjosugi/learning-data-stores"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-27T14:58:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Hero\u2019s AI is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. B",
-    "id": "Hudsonmathew1910/Hero-s-AI",
-    "language": "JavaScript",
-    "name": "Hudsonmathew1910/Hero-s-AI",
-    "stars": 3,
-    "updated_at": "2026-07-27T12:53:58Z",
-    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:49:39Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6247,
-    "updated_at": "2026-07-27T12:46:08Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
