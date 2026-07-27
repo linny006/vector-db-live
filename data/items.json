@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T05:45:19Z",
+    "updated_at": "2026-07-27T06:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 2,
+    "updated_at": "2026-07-27T05:59:00Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-27T05:58:57Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
+    "id": "gorigesravani288-cmd/RepoMind",
+    "language": "Python",
+    "name": "gorigesravani288-cmd/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:57:48Z",
+    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "\ud83e\udde0 Secure AI Assistant to chat with your documents. Isolated vector data storage with full citation tracing built using F",
+    "id": "AvishkaGihan/documind-ai",
+    "language": "Dart",
+    "name": "AvishkaGihan/documind-ai",
+    "stars": 3,
+    "updated_at": "2026-07-27T05:57:24Z",
+    "url": "https://github.com/AvishkaGihan/documind-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Production-ready AI Workspace for Document RAG, Autonomous Agents, Dynamic Tool Calling, Structured Data Extraction, a",
+    "id": "kabirjaipal/forge-ai",
+    "language": "TypeScript",
+    "name": "kabirjaipal/forge-ai",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:55:40Z",
+    "url": "https://github.com/kabirjaipal/forge-ai"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-07-27T05:50:57Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T05:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-27T05:45:13Z",
+    "url": "https://github.com/siaarzh/scrybe"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -16,15 +88,6 @@
     "stars": 57,
     "updated_at": "2026-07-27T05:44:23Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "\ud83d\ude80 Production-ready AI Workspace for Document RAG, Autonomous Agents, Dynamic Tool Calling, Structured Data Extraction, a",
-    "id": "kabirjaipal/forge-ai",
-    "language": "TypeScript",
-    "name": "kabirjaipal/forge-ai",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:41:30Z",
-    "url": "https://github.com/kabirjaipal/forge-ai"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -50,17 +113,8 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-27T05:39:50Z",
+    "updated_at": "2026-07-27T05:59:58Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T05:30:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -79,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-07-27T05:30:01Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "End-to-end retrieval pipeline over expert call transcripts using local Mistral 7B, ChromaDB, and LangChain. No cloud API",
+    "id": "skn8733/transcript-answer-RAG-agent",
+    "language": "Python",
+    "name": "skn8733/transcript-answer-RAG-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:29:59Z",
+    "url": "https://github.com/skn8733/transcript-answer-RAG-agent"
   },
   {
     "description": "Distributed vector search for AI-native applications",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:28:17Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
     "id": "BirchKwok/lynsedb",
     "language": "Rust",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T05:26:01Z",
     "url": "https://github.com/defai-digital/akidb"
-  },
-  {
-    "description": "\ud83e\udde0 Secure AI Assistant to chat with your documents. Isolated vector data storage with full citation tracing built using F",
-    "id": "AvishkaGihan/documind-ai",
-    "language": "Dart",
-    "name": "AvishkaGihan/documind-ai",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:20:51Z",
-    "url": "https://github.com/AvishkaGihan/documind-ai"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T05:00:29Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-07-27T04:58:33Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:40:33Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-07-27T04:57:58Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-27T04:57:36Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-07-27T04:52:49Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
