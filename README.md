@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 19:45 UTC
+> ⏰ Last updated: 2026-07-27 19:53 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-07-27 | Profile README |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1867 | Go | 2026-07-27 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-27 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [Aniket762/ragent](https://github.com/Aniket762/ragent) | 1 | Python | 2026-07-27 | Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati |
-| 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 63968 | JavaScript | 2026-07-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 6 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 833 | Go | 2026-07-27 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-07-27 | Profile README |
+| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1867 | Go | 2026-07-27 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-27 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [Aniket762/ragent](https://github.com/Aniket762/ragent) | 1 | Python | 2026-07-27 | Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati |
+| 7 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 63968 | JavaScript | 2026-07-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 8 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 833 | Go | 2026-07-27 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
 | 9 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 421 | Java | 2026-07-27 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
 | 10 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6292 | TypeScript | 2026-07-27 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 11 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11008 | Rust | 2026-07-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |

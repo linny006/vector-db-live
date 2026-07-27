@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T19:45:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T19:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T19:42:57Z",
+    "updated_at": "2026-07-27T19:52:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -50,26 +68,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 833,
-    "updated_at": "2026-07-27T19:32:05Z",
+    "updated_at": "2026-07-27T19:47:33Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T19:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T19:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6292,
-    "updated_at": "2026-07-27T19:27:17Z",
+    "updated_at": "2026-07-27T19:47:29Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T19:44:33Z",
+    "updated_at": "2026-07-27T19:52:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-27T19:28:12Z",
+    "updated_at": "2026-07-27T19:50:47Z",
     "url": "https://github.com/crate/crate"
   },
   {
