@@ -1,24 +1,78 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:30:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T18:28:27Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:23:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T18:22:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:17:07Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 0,
-    "updated_at": "2026-07-27T18:14:15Z",
+    "updated_at": "2026-07-27T18:15:39Z",
     "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compressed, content-addressed memory engine for RAG & LLMs \u2014 ~50% less vector storage at 96%+ retrieval quality. BLAKE3 ",
     "id": "shameerrahman1995/Hash_Memory_Engine",
-    "language": "\u2014",
+    "language": "Python",
     "name": "shameerrahman1995/Hash_Memory_Engine",
     "stars": 0,
     "updated_at": "2026-07-27T18:14:03Z",
     "url": "https://github.com/shameerrahman1995/Hash_Memory_Engine"
   },
   {
-    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build: vector",
     "id": "white07S/valise",
     "language": "Rust",
     "name": "white07S/valise",
@@ -27,21 +81,12 @@
     "url": "https://github.com/white07S/valise"
   },
   {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T18:11:42Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
     "description": "A Lucene codec for vector search and clustering on the GPU",
     "id": "NVIDIA/cuvs-lucene",
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-27T18:10:50Z",
+    "updated_at": "2026-07-27T18:24:34Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-27T18:11:24Z",
+    "updated_at": "2026-07-27T18:21:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -99,24 +144,6 @@
     "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T18:03:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:03:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -131,17 +158,8 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 1,
-    "updated_at": "2026-07-27T18:00:26Z",
+    "updated_at": "2026-07-27T18:29:59Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-27T18:14:40Z",
+    "updated_at": "2026-07-27T18:26:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-27T18:08:42Z",
+    "updated_at": "2026-07-27T18:25:19Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -302,7 +320,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-27T17:34:22Z",
+    "updated_at": "2026-07-27T18:24:15Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -328,9 +346,18 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29447,
+    "stars": 29448,
     "updated_at": "2026-07-27T16:40:10Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12707,
+    "updated_at": "2026-07-27T16:38:57Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7902,
-    "updated_at": "2026-07-27T17:28:54Z",
+    "updated_at": "2026-07-27T18:27:17Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:16:59Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Read-only staleness, orphan, duplicate and deleted-but-retrievable checks for pgvector, Qdrant and Chroma indexes.",
     "id": "rimironenko/rag-staleness-check",
     "language": "Python",
@@ -427,26 +445,8 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6293,
+    "stars": 6292,
     "updated_at": "2026-07-27T16:03:22Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12706,
-    "updated_at": "2026-07-27T16:38:57Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2213,
-    "updated_at": "2026-07-27T15:57:25Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
