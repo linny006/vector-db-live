@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T23:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
+    "id": "achref-soua/quiver",
+    "language": "Rust",
+    "name": "achref-soua/quiver",
+    "stars": 2,
+    "updated_at": "2026-07-27T23:41:21Z",
+    "url": "https://github.com/achref-soua/quiver"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-27T23:44:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
     "id": "srimon12/qql-rs",
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 0,
-    "updated_at": "2026-07-27T23:32:06Z",
+    "updated_at": "2026-07-27T23:37:29Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-27T23:30:29Z",
+    "updated_at": "2026-07-27T23:33:51Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T23:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,15 +70,6 @@
     "stars": 1368,
     "updated_at": "2026-07-27T23:11:15Z",
     "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 79,
-    "updated_at": "2026-07-27T23:08:14Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
@@ -439,14 +448,5 @@
     "stars": 324,
     "updated_at": "2026-07-27T19:04:48Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The LangChain SIBA ChatBot is designed to assist students with information about IBA Sukkur University. Instead of searc",
-    "id": "KhurramShams/SIBA-LangChain-ChatBot",
-    "language": "Python",
-    "name": "KhurramShams/SIBA-LangChain-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:59:23Z",
-    "url": "https://github.com/KhurramShams/SIBA-LangChain-ChatBot"
   }
 ]
