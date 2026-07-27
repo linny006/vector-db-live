@@ -1,21 +1,30 @@
 [
   {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T17:13:56Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:27:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6195,
-    "updated_at": "2026-07-27T17:13:56Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T17:24:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
+    "id": "loreste/limyeDB",
+    "language": "Go",
+    "name": "loreste/limyeDB",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:24:16Z",
+    "url": "https://github.com/loreste/limyeDB"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "vicquick/nobrainr",
     "stars": 0,
-    "updated_at": "2026-07-27T17:14:30Z",
+    "updated_at": "2026-07-27T17:20:52Z",
     "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:17:47Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-27T17:17:40Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T17:16:49Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:16:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6195,
+    "updated_at": "2026-07-27T17:28:56Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-27T17:19:54Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +113,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-27T17:08:42Z",
+    "updated_at": "2026-07-27T17:28:33Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -67,8 +139,8 @@
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
-    "stars": 2027,
-    "updated_at": "2026-07-27T17:03:44Z",
+    "stars": 2028,
+    "updated_at": "2026-07-27T17:26:48Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -90,33 +162,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-27T17:11:57Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:00:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:56:48Z",
     "url": "https://github.com/amcaaron/rag-document-assistant"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:55:09Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
     "description": "A production-grade multi-agent AI platform that transforms research papers into implementation-ready projects using LLMs",
@@ -180,20 +216,11 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T17:09:12Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29445,
+    "stars": 29447,
     "updated_at": "2026-07-27T16:40:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -216,12 +243,21 @@
     "url": "https://github.com/KB-perByte/hiveshare"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58752,
+    "updated_at": "2026-07-27T16:33:21Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7902,
-    "updated_at": "2026-07-27T16:26:54Z",
+    "updated_at": "2026-07-27T17:28:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-27T16:20:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -351,21 +378,12 @@
     "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-27T15:34:56Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16655,
-    "updated_at": "2026-07-27T16:51:16Z",
+    "updated_at": "2026-07-27T17:18:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:27:46Z",
     "url": "https://github.com/sujoymondal87/rag-agent-orchestrator"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-07-27T14:17:48Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) powered AI chatbot that answers telecom customer support queries using multiple k",
-    "id": "Inchara-hub16/Telecom-rag-assistant",
-    "language": "Python",
-    "name": "Inchara-hub16/Telecom-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:16:38Z",
-    "url": "https://github.com/Inchara-hub16/Telecom-rag-assistant"
   }
 ]
