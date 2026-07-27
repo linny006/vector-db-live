@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T16:00:26Z",
+    "updated_at": "2026-07-27T16:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:10:28Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "Read-only staleness, orphan, duplicate and deleted-but-retrievable checks for pgvector, Qdrant and Chroma indexes.",
+    "id": "rimironenko/rag-staleness-check",
+    "language": "Python",
+    "name": "rimironenko/rag-staleness-check",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:07:52Z",
+    "url": "https://github.com/rimironenko/rag-staleness-check"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45392,
+    "updated_at": "2026-07-27T16:06:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6293,
+    "updated_at": "2026-07-27T16:03:22Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-27T16:03:15Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T16:02:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -90,24 +153,6 @@
     "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:40:04Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
     "id": "ogham-mcp/ogham-mcp",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-27T16:00:08Z",
+    "updated_at": "2026-07-27T16:14:57Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -144,6 +189,24 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16655,
+    "updated_at": "2026-07-27T15:32:31Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33611,
+    "updated_at": "2026-07-27T16:09:46Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -151,15 +214,6 @@
     "stars": 29440,
     "updated_at": "2026-07-27T15:58:59Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-27T15:36:56Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -178,15 +232,6 @@
     "stars": 9402,
     "updated_at": "2026-07-27T15:00:40Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T16:00:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T15:56:48Z",
+    "updated_at": "2026-07-27T16:14:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16654,
-    "updated_at": "2026-07-27T15:32:31Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -367,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T13:38:13Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6293,
-    "updated_at": "2026-07-27T15:59:32Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A graph-first, embedded multi-model database engine",
@@ -392,17 +419,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4419,
-    "updated_at": "2026-07-27T14:02:54Z",
+    "updated_at": "2026-07-27T16:11:38Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33610,
-    "updated_at": "2026-07-27T15:09:10Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T13:07:37Z",
     "url": "https://github.com/hjosugi/irodori-extension-pinecone"
-  },
-  {
-    "description": "Irodori Table Milvus connector extension",
-    "id": "hjosugi/irodori-extension-milvus",
-    "language": "Rust",
-    "name": "hjosugi/irodori-extension-milvus",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:06:47Z",
-    "url": "https://github.com/hjosugi/irodori-extension-milvus"
-  },
-  {
-    "description": "Irodori Table Qdrant connector extension",
-    "id": "hjosugi/irodori-extension-qdrant",
-    "language": "Rust",
-    "name": "hjosugi/irodori-extension-qdrant",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:06:44Z",
-    "url": "https://github.com/hjosugi/irodori-extension-qdrant"
   }
 ]
