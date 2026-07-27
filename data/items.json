@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
+    "id": "loreste/limyeDB",
+    "language": "Go",
+    "name": "loreste/limyeDB",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:00:09Z",
+    "url": "https://github.com/loreste/limyeDB"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 20,
+    "updated_at": "2026-07-27T17:58:56Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "PgVector Postgres Docker Image",
+    "id": "ramsrib/pgvector",
+    "language": "Makefile",
+    "name": "ramsrib/pgvector",
+    "stars": 1,
+    "updated_at": "2026-07-27T17:57:30Z",
+    "url": "https://github.com/ramsrib/pgvector"
+  },
+  {
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
+    "id": "white07S/valise",
+    "language": "Rust",
+    "name": "white07S/valise",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:55:30Z",
+    "url": "https://github.com/white07S/valise"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2028,
+    "updated_at": "2026-07-27T17:54:26Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-27T18:00:12Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:00:26Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -9,22 +90,13 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-27T17:38:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
-    "id": "white07S/valise",
-    "language": "Rust",
-    "name": "white07S/valise",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:36:26Z",
-    "url": "https://github.com/white07S/valise"
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 15,
+    "updated_at": "2026-07-27T17:41:17Z",
+    "url": "https://github.com/puffball1567/koutendb"
   },
   {
     "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
@@ -36,38 +108,11 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:30:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:45:05Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63964,
+    "stars": 63965,
     "updated_at": "2026-07-27T17:29:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -86,17 +131,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T17:24:54Z",
+    "updated_at": "2026-07-27T17:54:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
-    "id": "loreste/limyeDB",
-    "language": "Go",
-    "name": "loreste/limyeDB",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:24:16Z",
-    "url": "https://github.com/loreste/limyeDB"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T17:43:44Z",
+    "updated_at": "2026-07-27T17:59:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-27T17:32:45Z",
+    "updated_at": "2026-07-27T17:58:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T17:04:11Z",
     "url": "https://github.com/Aniket762/ragent"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2028,
-    "updated_at": "2026-07-27T17:26:48Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T15:02:08Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9402,
-    "updated_at": "2026-07-27T16:56:08Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:49:32Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:42:29Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
