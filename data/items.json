@@ -1,12 +1,48 @@
 [
   {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 372,
+    "updated_at": "2026-07-27T21:14:13Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 3,
+    "updated_at": "2026-07-27T21:13:25Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
+    "id": "memo-fs/memofs",
+    "language": "TypeScript",
+    "name": "memo-fs/memofs",
+    "stars": 2,
+    "updated_at": "2026-07-27T21:13:06Z",
+    "url": "https://github.com/memo-fs/memofs"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
     "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 239,
-    "updated_at": "2026-07-27T21:06:28Z",
-    "url": "https://github.com/deven96/ahnlich"
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-27T21:10:45Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-07-27T21:09:39Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-27T21:00:30Z",
+    "updated_at": "2026-07-27T21:09:00Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 239,
+    "updated_at": "2026-07-27T21:06:28Z",
+    "url": "https://github.com/deven96/ahnlich"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -63,6 +108,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33613,
+    "updated_at": "2026-07-27T20:56:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Production-Ready Enterprise Knowledge Assistant | LangGraph \u2022 Hybrid RAG \u2022 ChromaDB \u2022 BM25 \u2022 Reranking \u2022 LiteLLM \u2022 FastA",
     "id": "AyonChatterjee/Enterprise-Knowledge-Assistant",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T20:52:49Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-27T20:49:40Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -184,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63971,
+    "stars": 63972,
     "updated_at": "2026-07-27T20:13:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -293,7 +338,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7031,
-    "updated_at": "2026-07-27T20:59:23Z",
+    "updated_at": "2026-07-27T21:14:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/Saksham-A-garwal/Cortex"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33612,
-    "updated_at": "2026-07-27T20:56:44Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2028,
     "updated_at": "2026-07-27T18:06:35Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
-    "id": "loreste/limyeDB",
-    "language": "Go",
-    "name": "loreste/limyeDB",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:04:46Z",
-    "url": "https://github.com/loreste/limyeDB"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 20,
-    "updated_at": "2026-07-27T18:02:10Z",
-    "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "PgVector Postgres Docker Image",
-    "id": "ramsrib/pgvector",
-    "language": "Makefile",
-    "name": "ramsrib/pgvector",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:57:30Z",
-    "url": "https://github.com/ramsrib/pgvector"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-27T17:44:38Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   }
 ]
