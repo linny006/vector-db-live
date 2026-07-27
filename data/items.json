@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-27T16:45:31Z",
+    "updated_at": "2026-07-27T17:00:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:58:20Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
+    "id": "amcaaron/rag-document-assistant",
+    "language": "JavaScript",
+    "name": "amcaaron/rag-document-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:56:48Z",
+    "url": "https://github.com/amcaaron/rag-document-assistant"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:55:09Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "A production-grade multi-agent AI platform that transforms research papers into implementation-ready projects using LLMs",
+    "id": "maheshchandr26/ResearchOS",
+    "language": "TypeScript",
+    "name": "maheshchandr26/ResearchOS",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:54:21Z",
+    "url": "https://github.com/maheshchandr26/ResearchOS"
   },
   {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "piyalidas10/AI",
     "stars": 2,
-    "updated_at": "2026-07-27T16:45:04Z",
+    "updated_at": "2026-07-27T16:51:34Z",
     "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-27T16:56:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:49:57Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
     "description": "\u96f6\u57fa\u7840\u4e2d\u6587 RAG \u6559\u5b66\u6846\u67b6\uff1a68 \u77e5\u8bc6\u70b9\u7cfb\u7edf\u8bfe\u7a0b + \u9759\u6001\u5b66\u4e60\u7f51\u7ad9 + \u5185\u7f6e RAG \u8bfe\u7a0b\u52a9\u6559\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
@@ -23,8 +77,35 @@
     "language": "HTML",
     "name": "Jasper-Wynn/oh-my-rag",
     "stars": 0,
-    "updated_at": "2026-07-27T16:44:52Z",
+    "updated_at": "2026-07-27T16:48:27Z",
     "url": "https://github.com/Jasper-Wynn/oh-my-rag"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-07-27T16:47:20Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T16:45:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T16:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
@@ -40,7 +121,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29443,
+    "stars": 29444,
     "updated_at": "2026-07-27T16:40:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -50,7 +131,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2027,
-    "updated_at": "2026-07-27T16:38:40Z",
+    "updated_at": "2026-07-27T16:46:32Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T16:36:17Z",
     "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T16:42:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
@@ -90,15 +162,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T16:39:33Z",
+    "updated_at": "2026-07-27T16:59:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:16:59Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T16:44:13Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
     "description": "Read-only staleness, orphan, duplicate and deleted-but-retrievable checks for pgvector, Qdrant and Chroma indexes.",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-27T15:48:11Z",
+    "updated_at": "2026-07-27T17:00:27Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 112,
     "updated_at": "2026-07-27T15:43:32Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-27T16:44:40Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -293,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16655,
-    "updated_at": "2026-07-27T16:41:36Z",
+    "updated_at": "2026-07-27T16:51:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33611,
-    "updated_at": "2026-07-27T16:09:46Z",
+    "updated_at": "2026-07-27T16:47:37Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-27T15:00:40Z",
+    "updated_at": "2026-07-27T16:56:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -351,21 +396,12 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:37:05Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
     "name": "vicquick/nobrainr",
     "stars": 0,
-    "updated_at": "2026-07-27T14:30:35Z",
+    "updated_at": "2026-07-27T16:58:25Z",
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
@@ -409,44 +445,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34795,
+    "stars": 34796,
     "updated_at": "2026-07-27T14:14:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 1,
-    "updated_at": "2026-07-27T14:11:18Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-07-27T14:08:08Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:07:31Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "POC visual search with smart glasses and Qdrant Edge.",
-    "id": "qdrant/qdrant-edge-demo",
-    "language": "Python",
-    "name": "qdrant/qdrant-edge-demo",
-    "stars": 60,
-    "updated_at": "2026-07-27T13:55:39Z",
-    "url": "https://github.com/qdrant/qdrant-edge-demo"
   }
 ]
