@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T22:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-27T22:35:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A Lucene codec for vector search and clustering on the GPU",
+    "id": "NVIDIA/cuvs-lucene",
+    "language": "Java",
+    "name": "NVIDIA/cuvs-lucene",
+    "stars": 8,
+    "updated_at": "2026-07-27T22:37:48Z",
+    "url": "https://github.com/NVIDIA/cuvs-lucene"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T22:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -43,24 +79,6 @@
     "stars": 112,
     "updated_at": "2026-07-27T22:27:12Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:17:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:30:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -124,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-07-27T22:26:54Z",
     "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 0,
+    "updated_at": "2026-07-27T21:59:28Z",
+    "url": "https://github.com/srimon12/qql-rs"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T20:25:27Z",
+    "updated_at": "2026-07-27T22:40:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T18:51:02Z",
     "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 58,
-    "updated_at": "2026-07-27T18:45:07Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
-    "id": "Saksham-A-garwal/Cortex",
-    "language": "JavaScript",
-    "name": "Saksham-A-garwal/Cortex",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:39:05Z",
-    "url": "https://github.com/Saksham-A-garwal/Cortex"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T18:30:45Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   }
 ]
