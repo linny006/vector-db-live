@@ -1,5 +1,23 @@
 [
   {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 2,
+    "updated_at": "2026-07-27T14:49:32Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T14:45:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 4,
     "updated_at": "2026-07-27T14:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-27T14:42:29Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -63,15 +90,6 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Retrieval-augmented agent system with LangChain.js, LangGraph.js, and Supabase pgvector \u2014 a framework-based, retrieval-d",
     "id": "sujoymondal87/rag-agent-orchestrator",
     "language": "TypeScript",
@@ -85,8 +103,8 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1866,
-    "updated_at": "2026-07-27T14:22:25Z",
+    "stars": 1867,
+    "updated_at": "2026-07-27T14:56:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -139,7 +157,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34789,
+    "stars": 34790,
     "updated_at": "2026-07-27T14:14:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -166,7 +184,7 @@
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9400,
+    "stars": 9401,
     "updated_at": "2026-07-27T14:07:59Z",
     "url": "https://github.com/databendlabs/databend"
   },
@@ -184,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29434,
+    "stars": 29435,
     "updated_at": "2026-07-27T14:01:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T14:45:22Z",
+    "updated_at": "2026-07-27T14:57:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-27T14:43:44Z",
+    "updated_at": "2026-07-27T14:51:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33610,
-    "updated_at": "2026-07-27T14:36:42Z",
+    "updated_at": "2026-07-27T15:00:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12704,
-    "updated_at": "2026-07-27T14:41:22Z",
+    "updated_at": "2026-07-27T14:49:16Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-27T12:55:33Z",
+    "updated_at": "2026-07-27T14:58:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/Sourabh000007/StockLens-AI"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:42:04Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 45391,
     "updated_at": "2026-07-27T12:12:18Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "RAG pipeline implementations with document ingestion, chunking, embedding, and retrieval-augmented generation",
-    "id": "amori27/rag-knowledge-base-system",
-    "language": "Python",
-    "name": "amori27/rag-knowledge-base-system",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:08:58Z",
-    "url": "https://github.com/amori27/rag-knowledge-base-system"
   }
 ]
