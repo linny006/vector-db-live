@@ -1,8 +1,71 @@
 [
   {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 1,
+    "updated_at": "2026-07-27T13:56:07Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "POC visual search with smart glasses and Qdrant Edge.",
+    "id": "qdrant/qdrant-edge-demo",
+    "language": "Python",
+    "name": "qdrant/qdrant-edge-demo",
+    "stars": 60,
+    "updated_at": "2026-07-27T13:55:39Z",
+    "url": "https://github.com/qdrant/qdrant-edge-demo"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6195,
+    "updated_at": "2026-07-27T13:55:01Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T13:53:03Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-27T13:57:38Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1865,
+    "updated_at": "2026-07-27T13:51:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-07-27T13:51:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Enterprise-grade RAG and Agentic Framework powering PlanSmart Agency. Features strict SSRF defense, FinOps cost-optimiza",
     "id": "Adikasz/Enterprise-RAG-Knowledge-Engine",
-    "language": "\u2014",
+    "language": "Python",
     "name": "Adikasz/Enterprise-RAG-Knowledge-Engine",
     "stars": 0,
     "updated_at": "2026-07-27T13:51:01Z",
@@ -18,40 +81,13 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6195,
-    "updated_at": "2026-07-27T13:49:35Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T13:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T13:45:24Z",
+    "updated_at": "2026-07-27T14:00:40Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:44:06Z",
-    "url": "https://github.com/Aniket762/ragent"
   },
   {
     "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
@@ -77,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-27T13:51:22Z",
+    "updated_at": "2026-07-27T14:00:28Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-27T13:52:49Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A graph-first, embedded multi-model database engine",
     "id": "insanalamin/sekejap",
     "language": "Rust",
@@ -126,21 +153,12 @@
     "url": "https://github.com/insanalamin/sekejap"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-07-27T13:51:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4419,
-    "updated_at": "2026-07-27T13:24:02Z",
+    "updated_at": "2026-07-27T14:00:06Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33610,
-    "updated_at": "2026-07-27T13:50:46Z",
+    "updated_at": "2026-07-27T13:55:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 40,
     "updated_at": "2026-07-27T13:18:23Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1865,
-    "updated_at": "2026-07-27T13:51:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Retrieval-augmented agent system with LangChain.js, LangGraph.js, and Supabase pgvector \u2014 a framework-based, retrieval-d",
@@ -265,7 +274,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34780,
+    "stars": 34782,
     "updated_at": "2026-07-27T12:51:56Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -292,9 +301,18 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29430,
+    "stars": 29432,
     "updated_at": "2026-07-27T12:48:18Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6244,
+    "updated_at": "2026-07-27T12:46:08Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "AI-powered equity research platform for Indian stocks using RAG, LLMs, FastAPI, ChromaDB, and Streamlit.",
@@ -337,7 +355,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45390,
+    "stars": 45391,
     "updated_at": "2026-07-27T12:12:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:24:07Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:23:47Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:23:43Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
