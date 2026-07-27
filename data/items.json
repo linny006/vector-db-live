@@ -1,12 +1,111 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:02:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:14:15Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Compressed, content-addressed memory engine for RAG & LLMs \u2014 ~50% less vector storage at 96%+ retrieval quality. BLAKE3 ",
+    "id": "shameerrahman1995/Hash_Memory_Engine",
+    "language": "\u2014",
+    "name": "shameerrahman1995/Hash_Memory_Engine",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:14:03Z",
+    "url": "https://github.com/shameerrahman1995/Hash_Memory_Engine"
+  },
+  {
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
+    "id": "white07S/valise",
+    "language": "Rust",
+    "name": "white07S/valise",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:13:38Z",
+    "url": "https://github.com/white07S/valise"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T18:11:42Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "A Lucene codec for vector search and clustering on the GPU",
+    "id": "NVIDIA/cuvs-lucene",
+    "language": "Java",
+    "name": "NVIDIA/cuvs-lucene",
+    "stars": 8,
+    "updated_at": "2026-07-27T18:10:50Z",
+    "url": "https://github.com/NVIDIA/cuvs-lucene"
+  },
+  {
+    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
+    "id": "ROHITCRAFTSYT/Loco-RAG",
+    "language": "Python",
+    "name": "ROHITCRAFTSYT/Loco-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:10:36Z",
+    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-27T18:09:59Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:13:36Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-27T18:11:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
+    "id": "loreste/limyeDB",
+    "language": "Go",
+    "name": "loreste/limyeDB",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:04:46Z",
+    "url": "https://github.com/loreste/limyeDB"
+  },
+  {
+    "description": "Production-Ready Enterprise Knowledge Assistant | LangGraph \u2022 Hybrid RAG \u2022 ChromaDB \u2022 BM25 \u2022 Reranking \u2022 LiteLLM \u2022 FastA",
+    "id": "AyonChatterjee/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "AyonChatterjee/Enterprise-Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:04:06Z",
+    "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T18:03:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-27T18:00:35Z",
+    "updated_at": "2026-07-27T18:03:45Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:02:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -36,15 +144,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Fast, highly-available open-source vector database written in Go for RAG, LLM memory, and semantic search. Hybrid HNSW +",
-    "id": "loreste/limyeDB",
-    "language": "Go",
-    "name": "loreste/limyeDB",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:00:09Z",
-    "url": "https://github.com/loreste/limyeDB"
-  },
-  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xHub/Agentflow",
     "language": "Python",
@@ -63,31 +162,13 @@
     "url": "https://github.com/ramsrib/pgvector"
   },
   {
-    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build, 5.5\u00d7 s",
-    "id": "white07S/valise",
-    "language": "Rust",
-    "name": "white07S/valise",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:55:30Z",
-    "url": "https://github.com/white07S/valise"
-  },
-  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2028,
-    "updated_at": "2026-07-27T17:54:26Z",
+    "updated_at": "2026-07-27T18:06:35Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-27T18:00:12Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -108,15 +189,6 @@
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T17:31:58Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -133,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T17:27:21Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T17:54:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T17:59:54Z",
+    "updated_at": "2026-07-27T18:15:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-27T17:58:38Z",
+    "updated_at": "2026-07-27T18:14:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-27T17:28:33Z",
+    "updated_at": "2026-07-27T18:08:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2213,
     "updated_at": "2026-07-27T15:57:25Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-27T15:51:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "Python",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:49:29Z",
-    "url": "https://github.com/StarDust130/Orion"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:01:23Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-27T15:43:32Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16655,
-    "updated_at": "2026-07-27T17:18:25Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33611,
-    "updated_at": "2026-07-27T16:47:37Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:02:08Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   }
 ]
