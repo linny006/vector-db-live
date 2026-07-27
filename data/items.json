@@ -1,5 +1,149 @@
 [
   {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-07-27T06:44:26Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
+    "id": "Dakera-AI/dakera-cli",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-cli",
+    "stars": 9,
+    "updated_at": "2026-07-27T06:40:57Z",
+    "url": "https://github.com/Dakera-AI/dakera-cli"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) chatbot using LangGraph and ChromaDB with FastAPI.",
+    "id": "kamrankausher/agentic-rag-chatbot",
+    "language": "Python",
+    "name": "kamrankausher/agentic-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-27T06:39:44Z",
+    "url": "https://github.com/kamrankausher/agentic-rag-chatbot"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-27T06:40:53Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 4,
+    "updated_at": "2026-07-27T06:37:14Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-07-27T06:36:23Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
+    "id": "gorigesravani288-cmd/RepoMind",
+    "language": "Python",
+    "name": "gorigesravani288-cmd/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:36:06Z",
+    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-07-27T06:35:20Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 3,
+    "updated_at": "2026-07-27T06:34:32Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 3,
+    "updated_at": "2026-07-27T06:33:13Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 6,
+    "updated_at": "2026-07-27T06:33:04Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "\ud83d\ude80 Production-ready AI Workspace for Document RAG, Autonomous Agents, Dynamic Tool Calling, Structured Data Extraction, a",
+    "id": "kabirjaipal/forge-ai",
+    "language": "TypeScript",
+    "name": "kabirjaipal/forge-ai",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:32:13Z",
+    "url": "https://github.com/kabirjaipal/forge-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T06:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1044,
+    "updated_at": "2026-07-27T06:30:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T06:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 1,
+    "updated_at": "2026-07-27T06:30:15Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -23,44 +167,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1865,
-    "updated_at": "2026-07-27T06:27:43Z",
+    "updated_at": "2026-07-27T06:45:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 4,
-    "updated_at": "2026-07-27T06:24:21Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "\ud83d\ude80 Production-ready AI Workspace for Document RAG, Autonomous Agents, Dynamic Tool Calling, Structured Data Extraction, a",
-    "id": "kabirjaipal/forge-ai",
-    "language": "TypeScript",
-    "name": "kabirjaipal/forge-ai",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:19:28Z",
-    "url": "https://github.com/kabirjaipal/forge-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T06:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T06:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -79,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-07-27T06:09:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
-    "id": "gorigesravani288-cmd/RepoMind",
-    "language": "Python",
-    "name": "gorigesravani288-cmd/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:05:40Z",
-    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -160,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T05:33:39Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:59:58Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -297,15 +387,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1044,
-    "updated_at": "2026-07-27T06:30:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T05:07:30Z",
     "url": "https://github.com/NUPUR32/Finance-RAG-Chatbot"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:07:26Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:07:00Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:06:43Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:06:00Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:05:45Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 421,
-    "updated_at": "2026-07-27T05:05:38Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9400,
-    "updated_at": "2026-07-27T05:04:31Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:04:24Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:03:23Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
