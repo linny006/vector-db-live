@@ -1,5 +1,86 @@
 [
   {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 421,
+    "updated_at": "2026-07-27T19:27:49Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6292,
+    "updated_at": "2026-07-27T19:27:17Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 833,
+    "updated_at": "2026-07-27T19:27:04Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11008,
+    "updated_at": "2026-07-27T19:25:12Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
+    "id": "Aniket762/ragent",
+    "language": "Python",
+    "name": "Aniket762/ragent",
+    "stars": 1,
+    "updated_at": "2026-07-27T19:21:59Z",
+    "url": "https://github.com/Aniket762/ragent"
+  },
+  {
+    "description": "PineScript v6 MCP Server - 6 tools for docs lookup, code validation, and code generation. 1751 entries, 100% local.",
+    "id": "TheFractalyst/PineMCP",
+    "language": "Python",
+    "name": "TheFractalyst/PineMCP",
+    "stars": 2,
+    "updated_at": "2026-07-27T19:19:54Z",
+    "url": "https://github.com/TheFractalyst/PineMCP"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 2,
+    "updated_at": "2026-07-27T19:19:51Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45391,
+    "updated_at": "2026-07-27T19:18:30Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 833,
-    "updated_at": "2026-07-27T19:07:09Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -54,15 +126,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 1,
-    "updated_at": "2026-07-27T19:06:31Z",
-    "url": "https://github.com/Aniket762/ragent"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 324,
     "updated_at": "2026-07-27T19:04:48Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T19:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The LangChain SIBA ChatBot is designed to assist students with information about IBA Sukkur University. Instead of searc",
@@ -194,17 +248,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T19:04:09Z",
+    "updated_at": "2026-07-27T19:26:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:17:07Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -310,7 +355,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63966,
+    "stars": 63967,
     "updated_at": "2026-07-27T17:29:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T18:46:17Z",
+    "updated_at": "2026-07-27T19:20:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-27T19:13:23Z",
+    "updated_at": "2026-07-27T19:28:12Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -383,7 +428,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-27T19:09:27Z",
+    "updated_at": "2026-07-27T19:22:02Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 89,
     "updated_at": "2026-07-27T16:47:20Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29450,
-    "updated_at": "2026-07-27T16:40:10Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12707,
-    "updated_at": "2026-07-27T16:38:57Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
-    "id": "blackeagle686/mafqood-ai",
-    "language": "CSS",
-    "name": "blackeagle686/mafqood-ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:36:17Z",
-    "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
-    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
-    "id": "KB-perByte/hiveshare",
-    "language": "Go",
-    "name": "KB-perByte/hiveshare",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:34:25Z",
-    "url": "https://github.com/KB-perByte/hiveshare"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58753,
-    "updated_at": "2026-07-27T16:33:21Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
