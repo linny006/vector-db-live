@@ -1,5 +1,41 @@
 [
   {
+    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
+    "id": "NGT-labs/NGT",
+    "language": "C++",
+    "name": "NGT-labs/NGT",
+    "stars": 1368,
+    "updated_at": "2026-07-27T23:11:15Z",
+    "url": "https://github.com/NGT-labs/NGT"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-27T23:08:14Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T23:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T23:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
     "id": "srimon12/qql-rs",
     "language": "Rust",
@@ -27,31 +63,13 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 63978,
-    "updated_at": "2026-07-27T22:59:48Z",
+    "updated_at": "2026-07-27T23:05:30Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T22:29:30Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 79,
-    "updated_at": "2026-07-27T22:22:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T22:29:43Z",
+    "updated_at": "2026-07-27T23:15:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33613,
-    "updated_at": "2026-07-27T21:40:25Z",
+    "updated_at": "2026-07-27T23:12:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -313,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-07-27T20:54:17Z",
     "url": "https://github.com/AyonChatterjee/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6291,
+    "updated_at": "2026-07-27T20:47:57Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-27T22:40:57Z",
+    "updated_at": "2026-07-27T23:12:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6292,
-    "updated_at": "2026-07-27T20:47:57Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "PineScript v6 MCP Server - 6 tools for docs lookup, code validation, and code generation. 1751 entries, 100% local.",
     "id": "TheFractalyst/PineMCP",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T18:59:23Z",
     "url": "https://github.com/KhurramShams/SIBA-LangChain-ChatBot"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 1,
-    "updated_at": "2026-07-27T18:55:41Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
   }
 ]
