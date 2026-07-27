@@ -1,12 +1,39 @@
 [
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:49:32Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:08:00Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-27T15:05:27Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:02:08Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9402,
+    "updated_at": "2026-07-27T15:00:40Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 4,
-    "updated_at": "2026-07-27T14:45:36Z",
+    "updated_at": "2026-07-27T15:00:31Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 4,
-    "updated_at": "2026-07-27T14:45:22Z",
+    "updated_at": "2026-07-27T15:00:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-27T14:56:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 2,
+    "updated_at": "2026-07-27T14:49:32Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "",
@@ -63,15 +108,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-07-27T14:34:27Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
     "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
     "id": "Aniket762/ragent",
     "language": "Python",
@@ -97,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:27:46Z",
     "url": "https://github.com/sujoymondal87/rag-agent-orchestrator"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-27T14:56:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-27T14:21:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -157,7 +175,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34790,
+    "stars": 34791,
     "updated_at": "2026-07-27T14:14:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9401,
-    "updated_at": "2026-07-27T14:07:59Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -202,8 +211,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29435,
-    "updated_at": "2026-07-27T14:01:32Z",
+    "stars": 29436,
+    "updated_at": "2026-07-27T15:07:06Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T14:57:31Z",
+    "updated_at": "2026-07-27T15:15:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-27T14:51:31Z",
+    "updated_at": "2026-07-27T15:14:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33610,
-    "updated_at": "2026-07-27T15:00:07Z",
+    "updated_at": "2026-07-27T15:09:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12704,
-    "updated_at": "2026-07-27T14:49:16Z",
+    "updated_at": "2026-07-27T15:03:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 58,
     "updated_at": "2026-07-27T12:19:32Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45391,
-    "updated_at": "2026-07-27T12:12:18Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
