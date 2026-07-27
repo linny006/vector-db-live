@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:40:51Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
+    "id": "ROHITCRAFTSYT/Loco-RAG",
+    "language": "Python",
+    "name": "ROHITCRAFTSYT/Loco-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:39:53Z",
+    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
+  },
+  {
+    "description": "The LangChain SIBA ChatBot is designed to assist students with information about IBA Sukkur University. Instead of searc",
+    "id": "KhurramShams/LangChain-SIBA-ChatBot",
+    "language": "Python",
+    "name": "KhurramShams/LangChain-SIBA-ChatBot",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:39:23Z",
+    "url": "https://github.com/KhurramShams/LangChain-SIBA-ChatBot"
+  },
+  {
+    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
+    "id": "Saksham-A-garwal/Cortex",
+    "language": "JavaScript",
+    "name": "Saksham-A-garwal/Cortex",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:39:05Z",
+    "url": "https://github.com/Saksham-A-garwal/Cortex"
+  },
+  {
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build: vector",
+    "id": "white07S/valise",
+    "language": "Rust",
+    "name": "white07S/valise",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:41:10Z",
+    "url": "https://github.com/white07S/valise"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:34:29Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:30:45Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T18:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,15 +126,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T18:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Compressed, content-addressed memory engine for RAG & LLMs \u2014 ~50% less vector storage at 96%+ retrieval quality. BLAKE3 ",
     "id": "shameerrahman1995/Hash_Memory_Engine",
     "language": "Python",
@@ -72,15 +135,6 @@
     "url": "https://github.com/shameerrahman1995/Hash_Memory_Engine"
   },
   {
-    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build: vector",
-    "id": "white07S/valise",
-    "language": "Rust",
-    "name": "white07S/valise",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:13:38Z",
-    "url": "https://github.com/white07S/valise"
-  },
-  {
     "description": "A Lucene codec for vector search and clustering on the GPU",
     "id": "NVIDIA/cuvs-lucene",
     "language": "Java",
@@ -88,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-07-27T18:24:34Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
-    "id": "ROHITCRAFTSYT/Loco-RAG",
-    "language": "Python",
-    "name": "ROHITCRAFTSYT/Loco-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:10:36Z",
-    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T18:29:59Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xHub/Agentflow",
     "language": "Python",
@@ -211,7 +247,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63965,
+    "stars": 63966,
     "updated_at": "2026-07-27T17:29:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6195,
-    "updated_at": "2026-07-27T18:15:17Z",
+    "updated_at": "2026-07-27T18:42:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-27T18:26:10Z",
+    "updated_at": "2026-07-27T18:34:45Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T17:03:11Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:58:20Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
@@ -346,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29448,
+    "stars": 29449,
     "updated_at": "2026-07-27T16:40:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -392,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7902,
-    "updated_at": "2026-07-27T18:27:17Z",
+    "updated_at": "2026-07-27T18:39:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T16:20:33Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "Read-only staleness, orphan, duplicate and deleted-but-retrievable checks for pgvector, Qdrant and Chroma indexes.",
-    "id": "rimironenko/rag-staleness-check",
-    "language": "Python",
-    "name": "rimironenko/rag-staleness-check",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:07:52Z",
-    "url": "https://github.com/rimironenko/rag-staleness-check"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45392,
-    "updated_at": "2026-07-27T16:06:20Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6292,
-    "updated_at": "2026-07-27T16:03:22Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
