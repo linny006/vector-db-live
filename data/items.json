@@ -1,5 +1,59 @@
 [
   {
+    "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
+    "id": "Basie12/medical-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "Basie12/medical-rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-28T14:35:26Z",
+    "url": "https://github.com/Basie12/medical-rag-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:30:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-28T14:30:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
+    "id": "pakapoor/ai_enabled_debug_assistant",
+    "language": "Python",
+    "name": "pakapoor/ai_enabled_debug_assistant",
+    "stars": 1,
+    "updated_at": "2026-07-28T14:29:50Z",
+    "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45398,
+    "updated_at": "2026-07-28T14:28:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -9,13 +63,40 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1868,
+    "updated_at": "2026-07-28T14:27:03Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29502,
+    "updated_at": "2026-07-28T14:38:34Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-28T14:28:21Z",
+    "updated_at": "2026-07-28T14:37:06Z",
     "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "End-to-end distributed AI Data Engineering pipeline using Databricks PySpark, OpenAI Embeddings, and Pinecone Vector DB ",
+    "id": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
+    "language": "Jupyter Notebook",
+    "name": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:24:00Z",
+    "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33625,
-    "updated_at": "2026-07-28T14:22:40Z",
+    "updated_at": "2026-07-28T14:37:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -63,29 +144,11 @@
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 254,
+    "stars": 256,
     "updated_at": "2026-07-28T14:14:31Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -108,15 +171,6 @@
     "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29501,
-    "updated_at": "2026-07-28T14:26:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -135,40 +189,13 @@
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-28T14:30:24Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
-    "id": "pakapoor/ai_enabled_debug_assistant",
-    "language": "Python",
-    "name": "pakapoor/ai_enabled_debug_assistant",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:29:50Z",
-    "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T13:54:56Z",
+    "updated_at": "2026-07-28T14:32:04Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45398,
-    "updated_at": "2026-07-28T14:28:17Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -207,15 +234,6 @@
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
-    "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
-    "id": "Basie12/medical-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "Basie12/medical-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-28T13:41:32Z",
-    "url": "https://github.com/Basie12/medical-rag-assistant"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -239,17 +257,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-28T14:29:04Z",
+    "updated_at": "2026-07-28T14:39:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1868,
-    "updated_at": "2026-07-28T14:27:03Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T14:15:26Z",
+    "updated_at": "2026-07-28T14:36:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 87,
-    "updated_at": "2026-07-28T13:47:28Z",
+    "updated_at": "2026-07-28T14:39:25Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -391,7 +400,7 @@
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
-    "stars": 4415,
+    "stars": 4414,
     "updated_at": "2026-07-28T12:49:18Z",
     "url": "https://github.com/crate/crate"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T12:34:38Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-28T12:29:27Z",
-    "url": "https://github.com/Yasou13/MESA"
   }
 ]
