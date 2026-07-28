@@ -1,5 +1,50 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T16:44:43Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 0,
+    "updated_at": "2026-07-28T16:40:47Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "A secondary brain for Humans, which remembers your digital knowledge. It captures and remembers everything you wish it t",
+    "id": "KowshikGarapati/Memoria",
+    "language": "Java",
+    "name": "KowshikGarapati/Memoria",
+    "stars": 0,
+    "updated_at": "2026-07-28T16:40:04Z",
+    "url": "https://github.com/KowshikGarapati/Memoria"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -7,6 +52,15 @@
     "stars": 6,
     "updated_at": "2026-07-28T16:27:35Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 40,
+    "updated_at": "2026-07-28T16:27:00Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
@@ -18,40 +72,13 @@
     "url": "https://github.com/daringanitch/claude-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:23:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33628,
-    "updated_at": "2026-07-28T16:21:12Z",
+    "updated_at": "2026-07-28T16:45:02Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T16:20:45Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -79,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T16:11:54Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:11:43Z",
-    "url": "https://github.com/srimon12/qql-rs"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-28T16:06:35Z",
+    "updated_at": "2026-07-28T16:44:21Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -160,6 +178,15 @@
     "stars": 119,
     "updated_at": "2026-07-28T16:14:35Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58763,
+    "updated_at": "2026-07-28T15:57:44Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16655,
-    "updated_at": "2026-07-28T16:18:20Z",
+    "updated_at": "2026-07-28T16:42:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T16:06:37Z",
+    "updated_at": "2026-07-28T16:42:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T15:42:50Z",
+    "updated_at": "2026-07-28T16:32:59Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -301,7 +328,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29507,
+    "stars": 29508,
     "updated_at": "2026-07-28T15:02:06Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -328,7 +355,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45400,
+    "stars": 45401,
     "updated_at": "2026-07-28T14:57:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -383,7 +410,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-28T16:21:08Z",
+    "updated_at": "2026-07-28T16:38:46Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -392,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7901,
-    "updated_at": "2026-07-28T15:36:32Z",
+    "updated_at": "2026-07-28T16:36:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58762,
-    "updated_at": "2026-07-28T15:57:44Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 211,
     "updated_at": "2026-07-28T14:18:25Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 257,
-    "updated_at": "2026-07-28T14:14:31Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
-    "id": "alifim/sujudsense",
-    "language": "Python",
-    "name": "alifim/sujudsense",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:06:46Z",
-    "url": "https://github.com/alifim/sujudsense"
   }
 ]
