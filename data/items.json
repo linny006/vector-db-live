@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:57:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 151,
+    "updated_at": "2026-07-28T05:57:12Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 169,
+    "updated_at": "2026-07-28T05:51:41Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
+    "id": "MeetVora79/gemini-rag-chatbot",
+    "language": "JavaScript",
+    "name": "MeetVora79/gemini-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:49:15Z",
+    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-07-28T05:47:58Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,6 +72,15 @@
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9403,
+    "updated_at": "2026-07-28T05:50:15Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
     "id": "skyzh/write-you-a-vector-db",
     "language": "Handlebars",
@@ -27,15 +90,6 @@
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 169,
-    "updated_at": "2026-07-28T05:36:49Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
     "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
     "id": "armaghanai/rag-assistant-pdf-text-sql",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T05:32:45Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T05:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4418,
-    "updated_at": "2026-07-28T05:30:36Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "matuteiglesias/kb-contracts",
     "stars": 1,
-    "updated_at": "2026-07-28T05:20:38Z",
+    "updated_at": "2026-07-28T05:56:52Z",
     "url": "https://github.com/matuteiglesias/kb-contracts"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 151,
-    "updated_at": "2026-07-28T04:52:53Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "RAG over a large enterprise OpenAPI spec using a custom endpoint/schema/tag-aware semantic chunker with $ref resolution,",
     "id": "ahmadrishi/openapi-spec-rag",
     "language": "\u2014",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:47:21Z",
     "url": "https://github.com/ahmadrishi/enterprise-knowledge-rag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T04:33:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -313,15 +331,6 @@
     "stars": 15290,
     "updated_at": "2026-07-28T03:51:45Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9402,
-    "updated_at": "2026-07-28T05:39:44Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -418,7 +427,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 407,
+    "stars": 408,
     "updated_at": "2026-07-28T02:27:05Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -439,14 +448,5 @@
     "stars": 1605,
     "updated_at": "2026-07-28T02:13:33Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:12:13Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
   }
 ]
