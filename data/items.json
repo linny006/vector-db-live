@@ -5,26 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T17:00:22Z",
+    "updated_at": "2026-07-28T17:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, open-source personal AI assistant \u2014 streaming chat with agentic tools, long-term memory, RAG, tasks & remin",
+    "id": "Zazza/svoi-oss",
+    "language": "Go",
+    "name": "Zazza/svoi-oss",
+    "stars": 7,
+    "updated_at": "2026-07-28T17:14:14Z",
+    "url": "https://github.com/Zazza/svoi-oss"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "JavaScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:12:14Z",
+    "url": "https://github.com/taraksh01/memoryhub"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:11:05Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-28T17:12:44Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-28T17:05:58Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T17:05:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Local, private RAG desktop app: chat with your own documents and get grounded answers with inline citations, fully offli",
     "id": "RB1507/AETHER-RAG",
     "language": "TypeScript",
     "name": "RB1507/AETHER-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:58:03Z",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:04:03Z",
     "url": "https://github.com/RB1507/AETHER-RAG"
   },
   {
-    "description": "RAG document assistant with a real MCP client-server architecture (Streamlit host + FastMCP server) powered by NVIDIA Ne",
-    "id": "ADITYA22110016/MCP-Based-project",
+    "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
+    "id": "krishkumar4400/weights-to-prod",
+    "language": "Jupyter Notebook",
+    "name": "krishkumar4400/weights-to-prod",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:00:45Z",
+    "url": "https://github.com/krishkumar4400/weights-to-prod"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
     "language": "Python",
-    "name": "ADITYA22110016/MCP-Based-project",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:00:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG document assistant with a real MCP client-server architecture (Streamlit host + FastMCP server) powered by NVIDIA Ne",
+    "id": "ADITYA22110016/document-copilot-mcp-nemotron",
+    "language": "Python",
+    "name": "ADITYA22110016/document-copilot-mcp-nemotron",
     "stars": 0,
     "updated_at": "2026-07-28T16:57:13Z",
-    "url": "https://github.com/ADITYA22110016/MCP-Based-project"
+    "url": "https://github.com/ADITYA22110016/document-copilot-mcp-nemotron"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -40,7 +121,7 @@
     "id": "soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main",
     "language": "Python",
     "name": "soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T16:54:36Z",
     "url": "https://github.com/soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main"
   },
@@ -54,15 +135,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T17:00:12Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -70,24 +142,6 @@
     "stars": 1869,
     "updated_at": "2026-07-28T16:48:13Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T16:44:21Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -149,35 +203,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33628,
-    "updated_at": "2026-07-28T16:45:02Z",
+    "updated_at": "2026-07-28T17:03:13Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-28T16:58:57Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "JavaScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:14:04Z",
-    "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T17:00:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -202,7 +229,7 @@
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
     "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T16:06:53Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
@@ -229,7 +256,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58763,
+    "stars": 58765,
     "updated_at": "2026-07-28T15:57:44Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -270,15 +297,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-07-28T15:42:11Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T16:51:13Z",
+    "updated_at": "2026-07-28T17:01:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29509,
-    "updated_at": "2026-07-28T16:58:03Z",
+    "updated_at": "2026-07-28T17:15:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 112,
-    "updated_at": "2026-07-28T15:33:00Z",
+    "updated_at": "2026-07-28T17:14:27Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T14:48:05Z",
     "url": "https://github.com/Basie12/medical-rag-assistant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11014,
-    "updated_at": "2026-07-28T15:48:55Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 169,
-    "updated_at": "2026-07-28T14:44:31Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
   }
 ]
