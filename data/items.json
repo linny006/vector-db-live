@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
+    "id": "ExMachinaSAGL/cosmo42-open",
+    "language": "Java",
+    "name": "ExMachinaSAGL/cosmo42-open",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:12:42Z",
+    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-07-28T09:14:13Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:03:43Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
+    "id": "KB-perByte/hiveshare",
+    "language": "Go",
+    "name": "KB-perByte/hiveshare",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:02:10Z",
+    "url": "https://github.com/KB-perByte/hiveshare"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3158,
+    "updated_at": "2026-07-28T09:00:50Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +63,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-28T08:59:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-28T08:57:49Z",
+    "updated_at": "2026-07-28T09:15:00Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T08:55:10Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
-    "id": "ExMachinaSAGL/cosmo42-open",
-    "language": "Java",
-    "name": "ExMachinaSAGL/cosmo42-open",
-    "stars": 4,
-    "updated_at": "2026-07-28T08:56:14Z",
-    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33620,
-    "updated_at": "2026-07-28T08:48:50Z",
+    "updated_at": "2026-07-28T09:15:03Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T08:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 4,
-    "updated_at": "2026-07-28T08:45:02Z",
+    "updated_at": "2026-07-28T09:03:25Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-28T08:46:15Z",
+    "updated_at": "2026-07-28T09:13:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -153,6 +198,15 @@
     "url": "https://github.com/10xHub/Agentflow"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58758,
+    "updated_at": "2026-07-28T08:37:55Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Autonomous local financial research assistant that ingests financial news, extracts tickers, fetches real-time market da",
     "id": "rimiya366/fininsight-ai-financial-research-assistant",
     "language": "Python",
@@ -167,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-28T08:35:45Z",
+    "updated_at": "2026-07-28T09:15:24Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -207,24 +261,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-28T08:59:16Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T08:33:08Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -247,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29492,
+    "stars": 29493,
     "updated_at": "2026-07-28T08:05:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -374,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7032,
-    "updated_at": "2026-07-28T07:28:00Z",
+    "updated_at": "2026-07-28T09:03:55Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-28T08:43:51Z",
+    "updated_at": "2026-07-28T09:13:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T07:11:44Z",
     "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "Couchbase integration with LangChain",
-    "id": "Couchbase-Ecosystem/langchain-couchbase",
-    "language": "Python",
-    "name": "Couchbase-Ecosystem/langchain-couchbase",
-    "stars": 4,
-    "updated_at": "2026-07-28T07:22:28Z",
-    "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 59,
-    "updated_at": "2026-07-28T06:54:01Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 4,
-    "updated_at": "2026-07-28T06:57:52Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 421,
-    "updated_at": "2026-07-28T08:38:14Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
   }
 ]
