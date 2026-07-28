@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T03:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-28T02:56:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production-ready AI Research & Knowledge Assistant with FastAPI, RAG, Hybrid Search, OCR, TensorFlow, ChromaDB, JWT Auth",
+    "id": "DhanushArceus05/ai-research-knowledge-assistant",
+    "language": "Python",
+    "name": "DhanushArceus05/ai-research-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:48:03Z",
+    "url": "https://github.com/DhanushArceus05/ai-research-knowledge-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -43,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:30:44Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -158,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7900,
-    "updated_at": "2026-07-28T02:41:53Z",
+    "updated_at": "2026-07-28T02:48:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -184,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63984,
+    "stars": 63985,
     "updated_at": "2026-07-28T01:24:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -374,17 +392,8 @@
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-28T02:33:27Z",
+    "updated_at": "2026-07-28T02:51:00Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-27T22:29:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -409,7 +418,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11008,
+    "stars": 11009,
     "updated_at": "2026-07-27T22:08:49Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-27T21:34:08Z",
     "url": "https://github.com/LangModule/ingestlib"
-  },
-  {
-    "description": "AI-powered College Chatbot using Python, ChromaDB, Groq LLM and Retrieval-Augmented Generation (RAG).",
-    "id": "mahiagarwal830-cpu/AI-College-Chatbot",
-    "language": "Python",
-    "name": "mahiagarwal830-cpu/AI-College-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-27T21:29:09Z",
-    "url": "https://github.com/mahiagarwal830-cpu/AI-College-Chatbot"
   }
 ]
