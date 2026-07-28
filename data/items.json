@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T22:15:22Z",
+    "updated_at": "2026-07-28T22:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T22:25:22Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
+    "id": "elaz48/placeborag",
+    "language": "Python",
+    "name": "elaz48/placeborag",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:25:03Z",
+    "url": "https://github.com/elaz48/placeborag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T22:22:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 461,
+    "updated_at": "2026-07-28T22:17:45Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "88plug/total-recall",
     "stars": 0,
-    "updated_at": "2026-07-28T22:08:10Z",
+    "updated_at": "2026-07-28T22:17:42Z",
     "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 89,
+    "updated_at": "2026-07-28T22:17:07Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T22:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -41,7 +95,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64026,
-    "updated_at": "2026-07-28T22:03:17Z",
+    "updated_at": "2026-07-28T22:27:46Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -63,24 +117,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 461,
-    "updated_at": "2026-07-28T22:00:56Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T22:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -99,22 +135,22 @@
     "url": "https://github.com/ANSHAM1/ResearchMind.AI"
   },
   {
-    "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
-    "id": "elaz48/placeborag",
-    "language": "Python",
-    "name": "elaz48/placeborag",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:54:18Z",
-    "url": "https://github.com/elaz48/placeborag"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-28T21:53:42Z",
+    "updated_at": "2026-07-28T22:30:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33631,
+    "updated_at": "2026-07-28T22:24:10Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -124,15 +160,6 @@
     "stars": 6283,
     "updated_at": "2026-07-28T22:15:13Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T21:50:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Reproducible corpus/churn/ledger harness for measuring RAG index decay across pgvector, Qdrant, and Chroma - replays 13 ",
@@ -193,7 +220,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1869,
+    "stars": 1870,
     "updated_at": "2026-07-28T21:30:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T22:07:05Z",
+    "updated_at": "2026-07-28T22:22:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6294,
-    "updated_at": "2026-07-28T20:29:31Z",
+    "updated_at": "2026-07-28T22:29:28Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 29514,
     "updated_at": "2026-07-28T22:11:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 44,
-    "updated_at": "2026-07-28T20:03:40Z",
-    "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 13,
-    "updated_at": "2026-07-28T19:52:10Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-28T19:58:47Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
