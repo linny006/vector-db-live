@@ -1,12 +1,39 @@
 [
   {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
     "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-28T09:42:01Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
+    "name": "GiulioDER/RE-call",
+    "stars": 1,
+    "updated_at": "2026-07-28T09:56:35Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12711,
+    "updated_at": "2026-07-28T09:54:40Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:54:08Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-28T09:53:54Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
@@ -14,8 +41,89 @@
     "language": "Java",
     "name": "ExMachinaSAGL/cosmo42-open",
     "stars": 4,
-    "updated_at": "2026-07-28T09:39:04Z",
+    "updated_at": "2026-07-28T09:51:38Z",
     "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1402,
+    "updated_at": "2026-07-28T09:56:11Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6194,
+    "updated_at": "2026-07-28T09:54:42Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:48:03Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33623,
+    "updated_at": "2026-07-28T09:48:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
+    "id": "armaghanai/rag-assistant-pdf-text-sql",
+    "language": "Python",
+    "name": "armaghanai/rag-assistant-pdf-text-sql",
+    "stars": 2,
+    "updated_at": "2026-07-28T09:46:37Z",
+    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 0,
+    "updated_at": "2026-07-28T09:45:16Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 421,
+    "updated_at": "2026-07-28T09:45:09Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-07-28T09:42:01Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -36,33 +144,6 @@
     "url": "https://github.com/sujoymondal87/rag-agent-orchestrator"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12711,
-    "updated_at": "2026-07-28T09:29:10Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T09:26:46Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-28T09:41:42Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
@@ -122,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T09:22:15Z",
+    "updated_at": "2026-07-28T09:56:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:29:05Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
     "id": "KB-perByte/hiveshare",
     "language": "Go",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3158,
-    "updated_at": "2026-07-28T09:44:14Z",
+    "updated_at": "2026-07-28T09:54:14Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -178,6 +241,15 @@
     "stars": 1867,
     "updated_at": "2026-07-28T08:59:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Handlebars",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 767,
+    "updated_at": "2026-07-28T08:59:14Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "Consistency and recovery for changing document knowledge bases: stable identity, incremental sync, and dataset locking.",
@@ -207,15 +279,6 @@
     "url": "https://github.com/blackeagle686/mafqood-ai"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33620,
-    "updated_at": "2026-07-28T09:43:44Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -232,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T09:03:25Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6194,
-    "updated_at": "2026-07-28T09:39:14Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
@@ -369,15 +423,6 @@
     "url": "https://github.com/TrailBlazer-1081729/AlphaLens-AI"
   },
   {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Handlebars",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 766,
-    "updated_at": "2026-07-28T08:59:14Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 79,
     "updated_at": "2026-07-28T09:35:51Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-28T07:36:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-07-28T07:35:35Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
-    "id": "armaghanai/rag-assistant-pdf-text-sql",
-    "language": "Python",
-    "name": "armaghanai/rag-assistant-pdf-text-sql",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:35:32Z",
-    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:29:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Framework for benchmarking vector search engines",
-    "id": "qdrant/vector-db-benchmark",
-    "language": "Python",
-    "name": "qdrant/vector-db-benchmark",
-    "stars": 368,
-    "updated_at": "2026-07-28T07:30:33Z",
-    "url": "https://github.com/qdrant/vector-db-benchmark"
   }
 ]
