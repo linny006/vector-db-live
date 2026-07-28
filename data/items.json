@@ -1,5 +1,59 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45394,
+    "updated_at": "2026-07-28T02:42:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:40:47Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 169,
+    "updated_at": "2026-07-28T02:36:38Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:31:01Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
+    "id": "kovartravis/neuron",
+    "language": "TypeScript",
+    "name": "kovartravis/neuron",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:30:44Z",
+    "url": "https://github.com/kovartravis/neuron"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:26:44Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31\u4e0e GraphRAG \u667a\u80fd\u95ee\u7b54\u5e73\u53f0 | Traditional Chinese Medicine knowledge graph with RAGFlow-compatible hybrid retrieval, Neo4j, ",
     "id": "Jane-o-O-o-O/zhongyi-graph",
     "language": "Python",
@@ -43,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:17:12Z",
     "url": "https://github.com/Jane-o-O-o-O/zhongyi-graph"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45393,
-    "updated_at": "2026-07-28T02:16:18Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T02:02:37Z",
+    "updated_at": "2026-07-28T02:32:01Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-28T01:58:31Z",
+    "updated_at": "2026-07-28T02:37:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -131,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7900,
-    "updated_at": "2026-07-28T01:43:42Z",
+    "updated_at": "2026-07-28T02:41:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -157,7 +184,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63983,
+    "stars": 63984,
     "updated_at": "2026-07-28T01:24:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -310,7 +337,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12704,
+    "stars": 12705,
     "updated_at": "2026-07-27T23:12:12Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -347,7 +374,7 @@
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-28T01:50:24Z",
+    "updated_at": "2026-07-28T02:33:27Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T21:29:09Z",
     "url": "https://github.com/mahiagarwal830-cpu/AI-College-Chatbot"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7031,
-    "updated_at": "2026-07-27T22:18:45Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 372,
-    "updated_at": "2026-07-28T02:23:50Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 3,
-    "updated_at": "2026-07-27T21:13:25Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   }
 ]
