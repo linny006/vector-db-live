@@ -1,12 +1,48 @@
 [
   {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-07-28T10:29:55Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-07-28T10:43:02Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:42:30Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1340,
+    "updated_at": "2026-07-28T10:42:28Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29495,
+    "updated_at": "2026-07-28T10:38:45Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -14,8 +50,80 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-28T10:29:28Z",
+    "updated_at": "2026-07-28T10:44:02Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
+    "id": "KB-perByte/hiveshare",
+    "language": "Go",
+    "name": "KB-perByte/hiveshare",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:37:42Z",
+    "url": "https://github.com/KB-perByte/hiveshare"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-28T10:36:11Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:35:10Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:34:19Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:32:51Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 40,
+    "updated_at": "2026-07-28T10:31:00Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-07-28T10:30:46Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-28T10:21:04Z",
+    "updated_at": "2026-07-28T10:43:42Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -81,33 +189,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 40,
-    "updated_at": "2026-07-28T10:15:40Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33625,
-    "updated_at": "2026-07-28T10:29:32Z",
+    "updated_at": "2026-07-28T10:38:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -131,7 +212,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12711,
-    "updated_at": "2026-07-28T09:54:40Z",
+    "updated_at": "2026-07-28T10:40:10Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -189,15 +270,6 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-28T09:42:01Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -214,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T09:33:16Z",
     "url": "https://github.com/sujoymondal87/rag-agent-orchestrator"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-28T09:26:46Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-28T09:24:48Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
     "description": "RAG system for PDF Q&A \u2014 68% quality improvement via 11-experiment ablation study, deployed with observability",
@@ -268,15 +322,6 @@
     "stars": 75,
     "updated_at": "2026-07-28T09:15:00Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
-    "id": "KB-perByte/hiveshare",
-    "language": "Go",
-    "name": "KB-perByte/hiveshare",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:02:10Z",
-    "url": "https://github.com/KB-perByte/hiveshare"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -329,7 +374,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45399,
-    "updated_at": "2026-07-28T10:02:18Z",
+    "updated_at": "2026-07-28T10:36:13Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T09:03:25Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-28T08:42:41Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T08:33:18Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T08:36:53Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 153,
-    "updated_at": "2026-07-28T10:13:21Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29494,
-    "updated_at": "2026-07-28T10:24:33Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "RAG Engineer interview questions & answers for 2026: retrieval, embeddings, chunking, re-ranking, eval, production & sec",
-    "id": "landedjobs/rag-engineer-interview-questions",
-    "language": "\u2014",
-    "name": "landedjobs/rag-engineer-interview-questions",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:46:34Z",
-    "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   }
 ]
