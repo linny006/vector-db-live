@@ -1,12 +1,57 @@
 [
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T21:55:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "updated_at": "2026-07-28T22:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:08:10Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:05:45Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-28T22:04:39Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64026,
+    "updated_at": "2026-07-28T22:03:17Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "A lightweight, lightning-fast in-process vector database that fits in your pocket. Rust core, hybrid search, zero depend",
+    "id": "getmykhan/vxdb",
+    "language": "Rust",
+    "name": "getmykhan/vxdb",
+    "stars": 5,
+    "updated_at": "2026-07-28T22:02:38Z",
+    "url": "https://github.com/getmykhan/vxdb"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 238,
-    "updated_at": "2026-07-28T21:55:15Z",
+    "updated_at": "2026-07-28T22:00:59Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 461,
+    "updated_at": "2026-07-28T22:00:56Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T22:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-28T21:55:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "An intelligent AI research assistant powered by LLMs, RAG, and LangGraph for document understanding, reasoning, and cont",
@@ -45,6 +117,15 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6283,
+    "updated_at": "2026-07-28T22:15:13Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -52,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T21:50:41Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A lightweight, lightning-fast in-process vector database that fits in your pocket. Rust core, hybrid search, zero depend",
-    "id": "getmykhan/vxdb",
-    "language": "Rust",
-    "name": "getmykhan/vxdb",
-    "stars": 5,
-    "updated_at": "2026-07-28T21:48:59Z",
-    "url": "https://github.com/getmykhan/vxdb"
   },
   {
     "description": "Reproducible corpus/churn/ledger harness for measuring RAG index decay across pgvector, Qdrant, and Chroma - replays 13 ",
@@ -72,24 +144,6 @@
     "url": "https://github.com/rimironenko/rag-index-decay"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T21:47:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64026,
-    "updated_at": "2026-07-28T21:47:22Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -97,15 +151,6 @@
     "stars": 45404,
     "updated_at": "2026-07-28T21:47:00Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T22:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou",
@@ -157,7 +202,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51174,
+    "stars": 51175,
     "updated_at": "2026-07-28T21:22:58Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -189,21 +234,12 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 2,
-    "updated_at": "2026-07-28T21:10:58Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1047,
-    "updated_at": "2026-07-28T21:57:19Z",
+    "updated_at": "2026-07-28T22:01:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T21:25:44Z",
+    "updated_at": "2026-07-28T22:07:05Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-07-28T20:52:19Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 461,
-    "updated_at": "2026-07-28T20:51:58Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "The AI search platform",
@@ -387,21 +414,12 @@
     "url": "https://github.com/GermaniU/mcp-memory"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6282,
-    "updated_at": "2026-07-28T21:52:32Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29514,
-    "updated_at": "2026-07-28T20:04:15Z",
+    "updated_at": "2026-07-28T22:11:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-28T19:58:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for intelligent PDF document understanding.",
-    "id": "sreeja959/InsightRAG",
-    "language": "JavaScript",
-    "name": "sreeja959/InsightRAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:44:21Z",
-    "url": "https://github.com/sreeja959/InsightRAG"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:43:58Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
   }
 ]
