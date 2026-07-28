@@ -1,10 +1,91 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 154,
+    "updated_at": "2026-07-28T14:27:26Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16654,
+    "updated_at": "2026-07-28T14:28:21Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33625,
+    "updated_at": "2026-07-28T14:22:40Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-28T14:22:10Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 211,
+    "updated_at": "2026-07-28T14:18:25Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:15:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:15:27Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 252,
+    "stars": 254,
     "updated_at": "2026-07-28T14:14:31Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -27,21 +108,12 @@
     "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:14:55Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29501,
-    "updated_at": "2026-07-28T14:05:37Z",
+    "updated_at": "2026-07-28T14:26:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -58,7 +130,7 @@
     "id": "CaviraOSS/OpenMemory",
     "language": "TypeScript",
     "name": "CaviraOSS/OpenMemory",
-    "stars": 4386,
+    "stars": 4387,
     "updated_at": "2026-07-28T14:01:47Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
@@ -68,26 +140,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T14:07:44Z",
+    "updated_at": "2026-07-28T14:30:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:00:32Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "pakapoor/ai_enabled_debug_assistant",
     "stars": 1,
-    "updated_at": "2026-07-28T13:57:51Z",
+    "updated_at": "2026-07-28T14:29:50Z",
     "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
   },
   {
@@ -113,17 +167,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45398,
-    "updated_at": "2026-07-28T13:52:17Z",
+    "updated_at": "2026-07-28T14:28:17Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 153,
-    "updated_at": "2026-07-28T13:52:07Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58761,
-    "updated_at": "2026-07-28T14:08:06Z",
+    "updated_at": "2026-07-28T14:18:56Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/Basie12/medical-rag-assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:38:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-28T14:02:00Z",
+    "updated_at": "2026-07-28T14:29:04Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1868,
-    "updated_at": "2026-07-28T13:14:14Z",
+    "updated_at": "2026-07-28T14:27:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T14:06:11Z",
+    "updated_at": "2026-07-28T14:15:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T12:58:04Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -358,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T12:52:01Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33625,
-    "updated_at": "2026-07-28T12:51:20Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-28T12:29:27Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-28T12:28:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
-    "id": "Ajitesh-Tamrakar/Internet-Expedition",
-    "language": "JavaScript",
-    "name": "Ajitesh-Tamrakar/Internet-Expedition",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:26:37Z",
-    "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   }
 ]
