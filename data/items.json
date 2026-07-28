@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-07-28T00:12:52Z",
+    "updated_at": "2026-07-28T00:29:54Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 0,
+    "updated_at": "2026-07-28T00:25:09Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-28T00:21:58Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 63979,
+    "updated_at": "2026-07-28T00:12:00Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -27,15 +72,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T00:00:32Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-27T23:23:00Z",
+    "updated_at": "2026-07-28T00:20:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63978,
-    "updated_at": "2026-07-28T00:12:00Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -157,7 +175,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6250,
+    "stars": 6251,
     "updated_at": "2026-07-27T22:30:58Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-07-28T00:08:53Z",
+    "updated_at": "2026-07-28T00:29:07Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 5,
     "updated_at": "2026-07-27T21:00:16Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-27T22:23:12Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -439,14 +448,5 @@
     "stars": 421,
     "updated_at": "2026-07-27T19:30:26Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "PineScript v6 MCP Server - 6 tools for docs lookup, code validation, and code generation. 1751 entries, 100% local.",
-    "id": "TheFractalyst/PineMCP",
-    "language": "Python",
-    "name": "TheFractalyst/PineMCP",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:19:54Z",
-    "url": "https://github.com/TheFractalyst/PineMCP"
   }
 ]
