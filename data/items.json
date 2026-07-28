@@ -1,5 +1,86 @@
 [
   {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T20:41:36Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11016,
+    "updated_at": "2026-07-28T20:40:31Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-28T20:39:37Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-28T20:37:16Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1047,
+    "updated_at": "2026-07-28T20:37:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Official n8n node for interfacing with Qdrant",
+    "id": "qdrant/n8n-nodes-qdrant",
+    "language": "TypeScript",
+    "name": "qdrant/n8n-nodes-qdrant",
+    "stars": 78,
+    "updated_at": "2026-07-28T20:36:08Z",
+    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:35:14Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 169,
+    "updated_at": "2026-07-28T20:31:54Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,24 +97,6 @@
     "stars": 51171,
     "updated_at": "2026-07-28T20:29:35Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-28T20:29:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11016,
-    "updated_at": "2026-07-28T20:29:17Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -72,15 +135,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1047,
-    "updated_at": "2026-07-28T20:23:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T20:16:57Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Resume tailoring and Q&A over your own career documents, with gap analysis that never invents experience. Hybrid retriev",
@@ -157,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29514,
+    "stars": 29515,
     "updated_at": "2026-07-28T20:04:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -187,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-07-28T19:58:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T19:53:51Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) system for intelligent PDF document understanding.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T18:44:02Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64021,
-    "updated_at": "2026-07-28T18:40:35Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7902,
-    "updated_at": "2026-07-28T19:48:56Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
-    "id": "ROHITCRAFTSYT/Loco-RAG",
-    "language": "Python",
-    "name": "ROHITCRAFTSYT/Loco-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T18:35:21Z",
-    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 6,
-    "updated_at": "2026-07-28T18:30:40Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
   }
 ]
