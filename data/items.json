@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local, private RAG desktop app: chat with your own documents and get grounded answers with inline citations, fully offli",
+    "id": "RB1507/AETHER-RAG",
+    "language": "TypeScript",
+    "name": "RB1507/AETHER-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-28T16:58:03Z",
+    "url": "https://github.com/RB1507/AETHER-RAG"
+  },
+  {
+    "description": "RAG document assistant with a real MCP client-server architecture (Streamlit host + FastMCP server) powered by NVIDIA Ne",
+    "id": "ADITYA22110016/MCP-Based-project",
+    "language": "Python",
+    "name": "ADITYA22110016/MCP-Based-project",
+    "stars": 0,
+    "updated_at": "2026-07-28T16:57:13Z",
+    "url": "https://github.com/ADITYA22110016/MCP-Based-project"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-28T16:57:07Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI-powered knowledge management system with multi-PDF RAG, agent memory, semantic search, and conversational AI.",
+    "id": "soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main",
+    "language": "Python",
+    "name": "soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main",
+    "stars": 0,
+    "updated_at": "2026-07-28T16:54:36Z",
+    "url": "https://github.com/soumyamidoddi234-sketch/Persona-Knowledge-Brain-Main"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 451,
+    "updated_at": "2026-07-28T16:52:04Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 835,
-    "updated_at": "2026-07-28T16:44:43Z",
+    "updated_at": "2026-07-28T17:00:12Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1869,
+    "updated_at": "2026-07-28T16:48:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-28T16:44:21Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12712,
+    "updated_at": "2026-07-28T16:41:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -23,26 +113,8 @@
     "language": "Java",
     "name": "KowshikGarapati/Memoria",
     "stars": 0,
-    "updated_at": "2026-07-28T16:40:04Z",
+    "updated_at": "2026-07-28T16:47:24Z",
     "url": "https://github.com/KowshikGarapati/Memoria"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-28T16:14:17Z",
+    "updated_at": "2026-07-28T16:58:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -104,17 +176,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-07-28T16:11:54Z",
+    "updated_at": "2026-07-28T17:00:28Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1869,
-    "updated_at": "2026-07-28T16:11:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -135,15 +198,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 451,
-    "updated_at": "2026-07-28T16:07:08Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:06:53Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T16:44:21Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16655,
-    "updated_at": "2026-07-28T16:42:56Z",
+    "updated_at": "2026-07-28T16:46:09Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T16:28:50Z",
+    "updated_at": "2026-07-28T16:57:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T16:42:59Z",
+    "updated_at": "2026-07-28T16:51:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -328,8 +373,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29508,
-    "updated_at": "2026-07-28T15:02:06Z",
+    "stars": 29509,
+    "updated_at": "2026-07-28T16:58:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -355,7 +400,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45401,
+    "stars": 45402,
     "updated_at": "2026-07-28T14:57:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -403,50 +448,5 @@
     "stars": 169,
     "updated_at": "2026-07-28T14:44:31Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-28T16:38:46Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7901,
-    "updated_at": "2026-07-28T16:36:28Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
-    "id": "pakapoor/ai_enabled_debug_assistant",
-    "language": "Python",
-    "name": "pakapoor/ai_enabled_debug_assistant",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:29:50Z",
-    "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
-  },
-  {
-    "description": "End-to-end distributed AI Data Engineering pipeline using Databricks PySpark, OpenAI Embeddings, and Pinecone Vector DB ",
-    "id": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
-    "language": "Jupyter Notebook",
-    "name": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:24:00Z",
-    "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 211,
-    "updated_at": "2026-07-28T14:18:25Z",
-    "url": "https://github.com/qdrant/skills"
   }
 ]
