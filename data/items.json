@@ -1,5 +1,41 @@
 [
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-28T14:44:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12761,
+    "updated_at": "2026-07-28T14:44:14Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
+    "id": "daringanitch/claude-memory",
+    "language": "Python",
+    "name": "daringanitch/claude-memory",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:43:54Z",
+    "url": "https://github.com/daringanitch/claude-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:39:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
     "id": "Basie12/medical-rag-assistant",
     "language": "Jupyter Notebook",
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T14:30:34Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29502,
-    "updated_at": "2026-07-28T14:38:34Z",
+    "updated_at": "2026-07-28T14:43:47Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -148,7 +175,7 @@
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 256,
+    "stars": 257,
     "updated_at": "2026-07-28T14:14:31Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -252,15 +279,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:39:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T14:36:59Z",
+    "updated_at": "2026-07-28T14:40:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -284,7 +302,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2031,
-    "updated_at": "2026-07-28T13:13:45Z",
+    "updated_at": "2026-07-28T14:44:38Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 87,
-    "updated_at": "2026-07-28T14:39:25Z",
+    "updated_at": "2026-07-28T14:45:20Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T12:41:17Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15298,
-    "updated_at": "2026-07-28T12:36:02Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:34:38Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   }
 ]
