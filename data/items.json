@@ -1,30 +1,93 @@
 [
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T07:15:37Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T07:15:32Z",
+    "updated_at": "2026-07-28T07:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "MaxFreedomPollard/Compartment",
     "stars": 3,
-    "updated_at": "2026-07-28T07:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-28T07:29:31Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6194,
+    "updated_at": "2026-07-28T07:29:20Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Framework for benchmarking vector search engines",
+    "id": "qdrant/vector-db-benchmark",
+    "language": "Python",
+    "name": "qdrant/vector-db-benchmark",
+    "stars": 368,
+    "updated_at": "2026-07-28T07:28:56Z",
+    "url": "https://github.com/qdrant/vector-db-benchmark"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9403,
+    "updated_at": "2026-07-28T07:28:20Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7031,
+    "updated_at": "2026-07-28T07:28:00Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
+    "id": "ExMachinaSAGL/cosmo42-open",
+    "language": "Java",
+    "name": "ExMachinaSAGL/cosmo42-open",
+    "stars": 4,
+    "updated_at": "2026-07-28T07:26:59Z",
+    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45397,
+    "updated_at": "2026-07-28T07:26:10Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-07-28T07:25:46Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T07:27:59Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-28T07:14:07Z",
+    "updated_at": "2026-07-28T07:24:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -41,17 +104,35 @@
     "language": "JavaScript",
     "name": "MeetVora79/gemini-rag-chatbot",
     "stars": 0,
-    "updated_at": "2026-07-28T07:11:39Z",
+    "updated_at": "2026-07-28T07:21:20Z",
     "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7031,
-    "updated_at": "2026-07-28T07:10:31Z",
-    "url": "https://github.com/vespa-engine/vespa"
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T07:16:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7899,
+    "updated_at": "2026-07-28T07:13:50Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "Python",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-07-28T07:11:44Z",
+    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T07:09:49Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:03:53Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -95,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T07:01:38Z",
+    "updated_at": "2026-07-28T07:23:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -113,7 +185,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33618,
-    "updated_at": "2026-07-28T07:02:11Z",
+    "updated_at": "2026-07-28T07:28:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-28T07:04:10Z",
+    "updated_at": "2026-07-28T07:29:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "Couchbase-Ecosystem/langchain-couchbase",
     "stars": 4,
-    "updated_at": "2026-07-28T06:56:00Z",
+    "updated_at": "2026-07-28T07:22:28Z",
     "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45397,
-    "updated_at": "2026-07-28T06:40:16Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
     "id": "coolloic/Notebook",
     "language": "HTML",
@@ -178,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T06:57:52Z",
     "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4418,
-    "updated_at": "2026-07-28T07:11:02Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
@@ -232,15 +286,6 @@
     "stars": 10,
     "updated_at": "2026-07-28T06:41:47Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9403,
-    "updated_at": "2026-07-28T07:09:26Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
@@ -320,7 +365,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 3,
-    "updated_at": "2026-07-28T04:51:27Z",
+    "updated_at": "2026-07-28T07:29:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:07:19Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7900,
-    "updated_at": "2026-07-28T07:13:50Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15291,
-    "updated_at": "2026-07-28T03:51:45Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-07-28T03:48:18Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Production-ready AI Research & Knowledge Assistant with FastAPI, RAG, Hybrid Search, OCR, TensorFlow, ChromaDB, JWT Auth",
-    "id": "DhanushArceus05/ai-research-knowledge-assistant",
-    "language": "Python",
-    "name": "DhanushArceus05/ai-research-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-28T03:37:58Z",
-    "url": "https://github.com/DhanushArceus05/ai-research-knowledge-assistant"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-07-28T03:23:12Z",
-    "url": "https://github.com/caoergou/dify-installer"
   }
 ]
