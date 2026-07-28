@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 6,
+    "updated_at": "2026-07-28T15:54:49Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-28T15:53:44Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1869,
+    "updated_at": "2026-07-28T15:59:41Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 451,
+    "updated_at": "2026-07-28T15:48:49Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T15:48:34Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-07-28T15:47:46Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T15:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +72,40 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-07-28T15:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-28T15:43:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embed a RAG-powered, customizable AI chatbot widget into any website with a single <script> tag.",
+    "id": "ShiYu0318/EmbAId-Chat",
+    "language": "TypeScript",
+    "name": "ShiYu0318/EmbAId-Chat",
+    "stars": 1,
+    "updated_at": "2026-07-28T15:48:52Z",
+    "url": "https://github.com/ShiYu0318/EmbAId-Chat"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16655,
+    "updated_at": "2026-07-28T15:57:09Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-07-28T15:42:11Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -41,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T15:22:38Z",
+    "updated_at": "2026-07-28T15:59:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T15:43:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -90,13 +171,13 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1869,
-    "updated_at": "2026-07-28T15:10:10Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33627,
+    "updated_at": "2026-07-28T15:10:12Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -121,7 +202,7 @@
     "id": "Varshith019/rag-from-scratch",
     "language": "Python",
     "name": "Varshith019/rag-from-scratch",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T15:06:13Z",
     "url": "https://github.com/Varshith019/rag-from-scratch"
   },
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T15:03:48Z",
     "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-07-28T15:42:11Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -184,18 +256,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45399,
+    "stars": 45400,
     "updated_at": "2026-07-28T14:57:21Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T14:56:14Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -248,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11014,
-    "updated_at": "2026-07-28T15:07:47Z",
+    "updated_at": "2026-07-28T15:48:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33626,
-    "updated_at": "2026-07-28T15:10:12Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
     "id": "pakapoor/ai_enabled_debug_assistant",
     "language": "Python",
@@ -304,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T14:29:50Z",
     "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16654,
-    "updated_at": "2026-07-28T15:42:14Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "End-to-end distributed AI Data Engineering pipeline using Databricks PySpark, OpenAI Embeddings, and Pinecone Vector DB ",
@@ -324,21 +369,12 @@
     "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:22:10Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58762,
-    "updated_at": "2026-07-28T14:18:56Z",
+    "updated_at": "2026-07-28T15:57:44Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 78,
     "updated_at": "2026-07-28T13:26:24Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-07-28T13:24:57Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 421,
-    "updated_at": "2026-07-28T13:20:54Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2031,
-    "updated_at": "2026-07-28T15:24:55Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Database learning repo for DuckDB, H2, InfluxDB, vector DBs, graph DBs, and data-store tradeoffs",
-    "id": "hjosugi/learning-data-stores",
-    "language": "Python",
-    "name": "hjosugi/learning-data-stores",
-    "stars": 0,
-    "updated_at": "2026-07-28T13:04:23Z",
-    "url": "https://github.com/hjosugi/learning-data-stores"
   }
 ]
