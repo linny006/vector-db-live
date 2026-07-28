@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 21:45 UTC
+> ⏰ Last updated: 2026-07-28 21:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 30 | Python | 2026-07-28 | Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou |
-| 3 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6194 | Rust | 2026-07-28 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 4 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 2 | Java | 2026-07-28 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
-| 5 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11016 | Rust | 2026-07-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1869 | Go | 2026-07-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-28 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-07-28 | Identity and Authorization Service with Vector and AI Integration |
-| 10 | [coolloic/Notebook](https://github.com/coolloic/Notebook) | 1 | HTML | 2026-07-28 | Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa |
-| 11 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64025 | JavaScript | 2026-07-28 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 1 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64024 | JavaScript | 2026-07-28 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 30 | Python | 2026-07-28 | Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou |
+| 5 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6194 | Rust | 2026-07-28 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 6 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 2 | Java | 2026-07-28 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
+| 7 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11016 | Rust | 2026-07-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1869 | Go | 2026-07-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-28 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 10 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-07-28 | Identity and Authorization Service with Vector and AI Integration |
+| 11 | [coolloic/Notebook](https://github.com/coolloic/Notebook) | 1 | HTML | 2026-07-28 | Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa |
 | 12 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 2 | TypeScript | 2026-07-28 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
 | 13 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1047 | Java | 2026-07-28 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 14 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 2 | HTML | 2026-07-28 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
