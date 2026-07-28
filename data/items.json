@@ -5,8 +5,35 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 6,
-    "updated_at": "2026-07-28T03:45:05Z",
+    "updated_at": "2026-07-28T03:55:33Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15290,
+    "updated_at": "2026-07-28T03:51:45Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-28T03:49:45Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9402,
+    "updated_at": "2026-07-28T03:58:31Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -14,8 +41,26 @@
     "language": "Rust",
     "name": "BirchKwok/lynsedb",
     "stars": 40,
-    "updated_at": "2026-07-28T03:44:19Z",
+    "updated_at": "2026-07-28T03:48:18Z",
     "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T03:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
@@ -41,26 +86,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T03:41:27Z",
+    "updated_at": "2026-07-28T03:46:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T03:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T03:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -257,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7900,
-    "updated_at": "2026-07-28T03:05:15Z",
+    "updated_at": "2026-07-28T03:55:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -274,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 63988,
+    "stars": 63989,
     "updated_at": "2026-07-28T01:24:40Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -418,35 +445,8 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12705,
+    "stars": 12707,
     "updated_at": "2026-07-27T23:12:12Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-    "id": "NGT-labs/NGT",
-    "language": "C++",
-    "name": "NGT-labs/NGT",
-    "stars": 1368,
-    "updated_at": "2026-07-27T23:11:15Z",
-    "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 1,
-    "updated_at": "2026-07-27T22:35:52Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6254,
-    "updated_at": "2026-07-27T22:30:58Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
