@@ -1,11 +1,65 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 10,
+    "updated_at": "2026-07-28T05:44:12Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Handlebars",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 766,
+    "updated_at": "2026-07-28T05:42:18Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 169,
+    "updated_at": "2026-07-28T05:36:49Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
+    "id": "armaghanai/rag-assistant-pdf-text-sql",
+    "language": "Python",
+    "name": "armaghanai/rag-assistant-pdf-text-sql",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:32:45Z",
+    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-28T05:27:41Z",
+    "updated_at": "2026-07-28T05:30:36Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-07-28T05:28:53Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 10,
-    "updated_at": "2026-07-28T05:24:15Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
@@ -70,24 +115,6 @@
     "stars": 1045,
     "updated_at": "2026-07-28T05:15:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T05:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T05:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Irodori Table Milvus connector extension",
@@ -149,17 +176,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T05:02:09Z",
+    "updated_at": "2026-07-28T05:38:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 169,
-    "updated_at": "2026-07-28T05:26:28Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
     "description": "Database learning repo for DuckDB, H2, InfluxDB, vector DBs, graph DBs, and data-store tradeoffs",
@@ -229,7 +247,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6292,
+    "stars": 6293,
     "updated_at": "2026-07-28T04:24:20Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-28T05:14:16Z",
+    "updated_at": "2026-07-28T05:39:44Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -313,6 +331,15 @@
     "stars": 40,
     "updated_at": "2026-07-28T03:48:18Z",
     "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45396,
+    "updated_at": "2026-07-28T03:42:18Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production-ready AI Research & Knowledge Assistant with FastAPI, RAG, Hybrid Search, OCR, TensorFlow, ChromaDB, JWT Auth",
@@ -360,15 +387,6 @@
     "url": "https://github.com/hedayat-atefi/rag-chroma-langchain"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45395,
-    "updated_at": "2026-07-28T03:42:18Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -400,7 +418,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 406,
+    "stars": 407,
     "updated_at": "2026-07-28T02:27:05Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:12:13Z",
     "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T02:03:14Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-07-28T01:51:40Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
