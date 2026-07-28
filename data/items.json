@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 252,
+    "updated_at": "2026-07-28T14:14:31Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
+    "id": "alifim/sujudsense",
+    "language": "Python",
+    "name": "alifim/sujudsense",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:06:46Z",
+    "url": "https://github.com/alifim/sujudsense"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:06:31Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:14:55Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29501,
+    "updated_at": "2026-07-28T14:05:37Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:02:03Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+    "id": "CaviraOSS/OpenMemory",
+    "language": "TypeScript",
+    "name": "CaviraOSS/OpenMemory",
+    "stars": 4386,
+    "updated_at": "2026-07-28T14:01:47Z",
+    "url": "https://github.com/CaviraOSS/OpenMemory"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-28T14:07:44Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T14:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-07-28T14:00:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production RAG system: hybrid BM25 + pgvector search, FastAPI, React UI.  Built on pandas commit history. Supports Gemin",
+    "id": "pakapoor/ai_enabled_debug_assistant",
+    "language": "Python",
+    "name": "pakapoor/ai_enabled_debug_assistant",
+    "stars": 1,
+    "updated_at": "2026-07-28T13:57:51Z",
+    "url": "https://github.com/pakapoor/ai_enabled_debug_assistant"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58761,
-    "updated_at": "2026-07-28T13:50:17Z",
+    "updated_at": "2026-07-28T14:08:06Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -70,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T13:45:54Z",
     "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-28T13:45:29Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29499,
-    "updated_at": "2026-07-28T13:43:47Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-28T13:59:24Z",
+    "updated_at": "2026-07-28T14:02:00Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -167,17 +230,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T13:59:57Z",
+    "updated_at": "2026-07-28T14:06:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
-    "id": "alifim/sujudsense",
-    "language": "Python",
-    "name": "alifim/sujudsense",
-    "stars": 0,
-    "updated_at": "2026-07-28T13:59:05Z",
-    "url": "https://github.com/alifim/sujudsense"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -333,15 +387,6 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-28T13:55:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T12:26:37Z",
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
-  },
-  {
-    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
-    "id": "kemalbsoylu/localRAGvault",
-    "language": "Python",
-    "name": "kemalbsoylu/localRAGvault",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:26:17Z",
-    "url": "https://github.com/kemalbsoylu/localRAGvault"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T12:24:56Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 13,
-    "updated_at": "2026-07-28T12:23:52Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7899,
-    "updated_at": "2026-07-28T13:20:20Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "100% Local Semantic File System & Intelligent AI Desktop Agent for Windows",
-    "id": "empios/CaDa",
-    "language": "Rust",
-    "name": "empios/CaDa",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:10:23Z",
-    "url": "https://github.com/empios/CaDa"
   }
 ]
