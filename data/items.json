@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T13:38:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T13:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 3,
     "updated_at": "2026-07-28T13:30:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-07-28T13:26:24Z",
+    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -45,21 +72,12 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6293,
-    "updated_at": "2026-07-28T13:14:39Z",
+    "updated_at": "2026-07-28T13:36:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -70,6 +88,15 @@
     "stars": 1868,
     "updated_at": "2026-07-28T13:14:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58761,
+    "updated_at": "2026-07-28T13:13:24Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6193,
-    "updated_at": "2026-07-28T13:29:51Z",
+    "updated_at": "2026-07-28T13:43:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -108,21 +135,12 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:05:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29498,
-    "updated_at": "2026-07-28T13:27:28Z",
+    "updated_at": "2026-07-28T13:43:47Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -256,7 +274,7 @@
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
-    "stars": 4417,
+    "stars": 4415,
     "updated_at": "2026-07-28T12:49:18Z",
     "url": "https://github.com/crate/crate"
   },
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 0,
-    "updated_at": "2026-07-28T12:46:08Z",
+    "updated_at": "2026-07-28T13:45:09Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T12:44:48Z",
+    "updated_at": "2026-07-28T13:39:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -319,7 +337,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15295,
+    "stars": 15296,
     "updated_at": "2026-07-28T12:36:02Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -396,15 +414,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-07-28T13:26:24Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
     "description": "100% Local Semantic File System & Intelligent AI Desktop Agent for Windows",
     "id": "empios/CaDa",
     "language": "Rust",
@@ -428,7 +437,7 @@
     "language": "Jupyter Notebook",
     "name": "Basie12/medical-rag-assistant",
     "stars": 1,
-    "updated_at": "2026-07-28T12:06:21Z",
+    "updated_at": "2026-07-28T13:41:32Z",
     "url": "https://github.com/Basie12/medical-rag-assistant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T12:04:35Z",
     "url": "https://github.com/KB-perByte/hiveshare"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12710,
-    "updated_at": "2026-07-28T12:01:33Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
