@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:00:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -59,17 +77,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-28T09:54:42Z",
+    "updated_at": "2026-07-28T10:03:40Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:48:03Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T09:46:37Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -284,7 +284,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45399,
-    "updated_at": "2026-07-28T09:33:54Z",
+    "updated_at": "2026-07-28T10:02:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
