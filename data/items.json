@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T16:27:35Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
+    "id": "daringanitch/claude-memory",
+    "language": "Python",
+    "name": "daringanitch/claude-memory",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:24:02Z",
+    "url": "https://github.com/daringanitch/claude-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:23:15Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -9,13 +36,13 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T16:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T16:20:45Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T16:15:23Z",
+    "updated_at": "2026-07-28T16:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 1869,
     "updated_at": "2026-07-28T16:11:21Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T16:20:45Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -194,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T16:20:21Z",
+    "updated_at": "2026-07-28T16:28:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
-    "description": "Persistent vector memory MCP server for Claude Code \u2014 PostgreSQL + pgvector + FastMCP with semantic search",
-    "id": "daringanitch/claude-memory",
-    "language": "Python",
-    "name": "daringanitch/claude-memory",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:43:54Z",
-    "url": "https://github.com/daringanitch/claude-memory"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T14:06:46Z",
     "url": "https://github.com/alifim/sujudsense"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:02:03Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   }
 ]
