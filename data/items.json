@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Local RAG over your PDFs: hybrid retrieval (BM25 + vector + reranking) and open language models via Ollama, running enti",
+    "id": "iDiagoValeta/localOllamaRAG",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T11:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "iDiagoValeta/localOllamaRAG",
+    "stars": 11,
+    "updated_at": "2026-07-28T11:29:30Z",
+    "url": "https://github.com/iDiagoValeta/localOllamaRAG"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-07-28T11:29:13Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-28T11:24:18Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:24:10Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "An embedded vector database in Go: exact and HNSW approximate search, metadata filtering, and write-ahead-log crash reco",
+    "id": "ashokDevs/nano-vector-db",
+    "language": "Go",
+    "name": "ashokDevs/nano-vector-db",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:22:57Z",
+    "url": "https://github.com/ashokDevs/nano-vector-db"
+  },
+  {
+    "description": "Privacy-first, fully local Retrieval-Augmented Generation (RAG) architecture built with FastAPI, Streamlit, pgvector, an",
+    "id": "kemalbsoylu/localRAGvault",
+    "language": "Python",
+    "name": "kemalbsoylu/localRAGvault",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:21:21Z",
+    "url": "https://github.com/kemalbsoylu/localRAGvault"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "stars": 0,
-    "updated_at": "2026-07-28T11:10:22Z",
+    "updated_at": "2026-07-28T11:28:36Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1867,
+    "updated_at": "2026-07-28T11:18:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45399,
+    "updated_at": "2026-07-28T11:18:16Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T11:16:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T11:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T11:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-07-28T11:07:44Z",
+    "updated_at": "2026-07-28T11:28:15Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-28T11:12:05Z",
+    "updated_at": "2026-07-28T11:28:21Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -72,21 +162,12 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T11:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T11:11:42Z",
+    "updated_at": "2026-07-28T11:28:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T10:55:51Z",
+    "updated_at": "2026-07-28T11:24:52Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -148,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29494,
+    "stars": 29495,
     "updated_at": "2026-07-28T10:38:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -243,24 +324,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:18:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1867,
-    "updated_at": "2026-07-28T11:15:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
@@ -302,7 +365,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-28T11:00:04Z",
+    "updated_at": "2026-07-28T11:22:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3158,
-    "updated_at": "2026-07-28T10:30:22Z",
+    "updated_at": "2026-07-28T11:27:41Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T08:52:23Z",
     "url": "https://github.com/liuqjjin/cogindex"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) application using ChromaDB, Sentence Transformers, Groq Llama 3.3, and Streamlit fo",
-    "id": "satwikmyneni/Amazon-Review-RAG",
-    "language": "Jupyter Notebook",
-    "name": "satwikmyneni/Amazon-Review-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T08:49:43Z",
-    "url": "https://github.com/satwikmyneni/Amazon-Review-RAG"
-  },
-  {
-    "description": "      Mafqood is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art fac",
-    "id": "blackeagle686/mafqood-ai",
-    "language": "CSS",
-    "name": "blackeagle686/mafqood-ai",
-    "stars": 1,
-    "updated_at": "2026-07-28T08:49:28Z",
-    "url": "https://github.com/blackeagle686/mafqood-ai"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45399,
-    "updated_at": "2026-07-28T10:36:13Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-07-28T09:03:25Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 20,
-    "updated_at": "2026-07-28T08:42:24Z",
-    "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58760,
-    "updated_at": "2026-07-28T08:37:55Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Autonomous local financial research assistant that ingests financial news, extracts tickers, fetches real-time market da",
-    "id": "rimiya366/fininsight-ai-financial-research-assistant",
-    "language": "Python",
-    "name": "rimiya366/fininsight-ai-financial-research-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-28T08:36:15Z",
-    "url": "https://github.com/rimiya366/fininsight-ai-financial-research-assistant"
   }
 ]
