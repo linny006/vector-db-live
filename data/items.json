@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:25:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:26:14Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:23:55Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "JavaScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:24:23Z",
+    "url": "https://github.com/taraksh01/memoryhub"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 112,
+    "updated_at": "2026-07-28T17:27:20Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:20:23Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:19:03Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51166,
+    "updated_at": "2026-07-28T17:18:41Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Reproducible decayed RAG index demo: real git churn + synthetic PII replayed across pgvector, Qdrant and Chroma with a g",
+    "id": "rimironenko/rag-index-decay",
+    "language": "Python",
+    "name": "rimironenko/rag-index-decay",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:17:31Z",
+    "url": "https://github.com/rimironenko/rag-index-decay"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T17:19:47Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-28T17:15:54Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +126,6 @@
     "url": "https://github.com/Zazza/svoi-oss"
   },
   {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "JavaScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:12:14Z",
-    "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
     "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
     "id": "is-leeroy-jenkins/Boo",
     "language": "Jupyter Notebook",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-07-28T17:12:44Z",
+    "updated_at": "2026-07-28T17:29:43Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T17:00:45Z",
     "url": "https://github.com/krishkumar4400/weights-to-prod"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T17:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -169,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:47:24Z",
     "url": "https://github.com/KowshikGarapati/Memoria"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T16:27:35Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -333,24 +414,6 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:19:42Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-28T15:09:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T15:02:25Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29509,
-    "updated_at": "2026-07-28T17:15:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 112,
-    "updated_at": "2026-07-28T17:14:27Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1340,
-    "updated_at": "2026-07-28T14:58:15Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45402,
-    "updated_at": "2026-07-28T14:57:21Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6269,
-    "updated_at": "2026-07-28T14:55:09Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Compressed, content-addressed memory engine for RAG & LLMs \u2014 ~50% less vector storage at 96%+ retrieval quality. BLAKE3 ",
-    "id": "shameerrahman1995/Hash_Memory_Engine",
-    "language": "Python",
-    "name": "shameerrahman1995/Hash_Memory_Engine",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:54:08Z",
-    "url": "https://github.com/shameerrahman1995/Hash_Memory_Engine"
-  },
-  {
-    "description": "Production-ready Medical RAG Assistant with LangChain, OpenAI, Pinecone, Docker, GitHub Actions CI/CD, Amazon ECR, and A",
-    "id": "Basie12/medical-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "Basie12/medical-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-28T14:48:05Z",
-    "url": "https://github.com/Basie12/medical-rag-assistant"
   }
 ]
