@@ -1,5 +1,59 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1045,
+    "updated_at": "2026-07-28T10:57:14Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-28T10:55:51Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
+    "id": "Rayyan9477/Solace-AI",
+    "language": "Python",
+    "name": "Rayyan9477/Solace-AI",
+    "stars": 18,
+    "updated_at": "2026-07-28T10:55:22Z",
+    "url": "https://github.com/Rayyan9477/Solace-AI"
+  },
+  {
+    "description": "AI-powered Career Coach using Flask, LangChain, Groq & FAISS that analyses resumes, provides personalised feedback and e",
+    "id": "VisheshJain28/AI_Career_Coach",
+    "language": "HTML",
+    "name": "VisheshJain28/AI_Career_Coach",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:52:17Z",
+    "url": "https://github.com/VisheshJain28/AI_Career_Coach"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-28T10:51:13Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T10:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -31,7 +85,7 @@
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
-    "stars": 1340,
+    "stars": 1341,
     "updated_at": "2026-07-28T10:42:28Z",
     "url": "https://github.com/infinispan/infinispan"
   },
@@ -50,7 +104,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-28T10:44:02Z",
+    "updated_at": "2026-07-28T10:54:17Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
     "id": "oceanbase/pyobvector",
     "language": "Python",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 1,
-    "updated_at": "2026-07-28T10:43:42Z",
+    "updated_at": "2026-07-28T10:58:00Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 324,
-    "updated_at": "2026-07-28T09:53:54Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
     "id": "ExMachinaSAGL/cosmo42-open",
     "language": "Java",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-28T10:17:25Z",
+    "updated_at": "2026-07-28T11:00:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T09:24:18Z",
     "url": "https://github.com/NagaSamhithp/rag-project"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1045,
-    "updated_at": "2026-07-28T10:23:19Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
@@ -419,34 +446,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-07-28T10:25:00Z",
+    "updated_at": "2026-07-28T10:46:10Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-28T08:35:17Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T08:37:52Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-07-28T08:33:18Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
   }
 ]
