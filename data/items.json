@@ -1,11 +1,65 @@
 [
   {
+    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
+    "id": "ExMachinaSAGL/cosmo42-open",
+    "language": "Java",
+    "name": "ExMachinaSAGL/cosmo42-open",
+    "stars": 4,
+    "updated_at": "2026-07-28T08:13:46Z",
+    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-28T08:11:15Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-07-28T08:14:52Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29488,
+    "updated_at": "2026-07-28T08:05:42Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-07-28T08:06:29Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T08:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T08:00:25Z",
+    "updated_at": "2026-07-28T08:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -41,17 +95,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-28T07:59:02Z",
+    "updated_at": "2026-07-28T08:11:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
-    "id": "ExMachinaSAGL/cosmo42-open",
-    "language": "Java",
-    "name": "ExMachinaSAGL/cosmo42-open",
-    "stars": 4,
-    "updated_at": "2026-07-28T07:53:42Z",
-    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -59,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1045,
-    "updated_at": "2026-07-28T07:57:25Z",
+    "updated_at": "2026-07-28T08:08:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T07:46:34Z",
     "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T07:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -104,7 +140,7 @@
     "language": "Handlebars",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 766,
-    "updated_at": "2026-07-28T07:41:18Z",
+    "updated_at": "2026-07-28T08:12:25Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T07:38:02Z",
+    "updated_at": "2026-07-28T08:15:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T07:35:32Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:35:16Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) application using ChromaDB, Sentence Transformers, Groq Llama 3.3, and Streamlit fo",
@@ -216,15 +243,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4418,
-    "updated_at": "2026-07-28T07:56:51Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16654,
-    "updated_at": "2026-07-28T07:24:55Z",
+    "updated_at": "2026-07-28T08:14:43Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 153,
-    "updated_at": "2026-07-28T07:34:18Z",
+    "updated_at": "2026-07-28T08:10:38Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/elaz48/placeborag"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-28T05:20:40Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
     "description": "Irodori Table Milvus connector extension",
     "id": "hjosugi/irodori-extension-milvus",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:47:57Z",
     "url": "https://github.com/ahmadrishi/openapi-spec-rag"
-  },
-  {
-    "description": "Production RAG over an enterprise Jira/Confluence corpus with citations built by construction. Beat the incumbent 240\u201330",
-    "id": "ahmadrishi/enterprise-knowledge-rag",
-    "language": "\u2014",
-    "name": "ahmadrishi/enterprise-knowledge-rag",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:47:21Z",
-    "url": "https://github.com/ahmadrishi/enterprise-knowledge-rag"
   }
 ]
