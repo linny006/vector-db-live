@@ -1,5 +1,50 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45397,
+    "updated_at": "2026-07-28T06:40:16Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7031,
+    "updated_at": "2026-07-28T06:39:12Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-28T06:34:50Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T06:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 152,
+    "updated_at": "2026-07-28T06:30:29Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45397,
-    "updated_at": "2026-07-28T06:28:22Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T06:31:58Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -45,15 +90,6 @@
     "url": "https://github.com/GoodbyePlanet/semcode"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T06:29:42Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -63,21 +99,12 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T06:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
     "id": "skyzh/write-you-a-vector-db",
     "language": "Handlebars",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 766,
-    "updated_at": "2026-07-28T06:12:08Z",
+    "updated_at": "2026-07-28T06:35:32Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1867,
-    "updated_at": "2026-07-28T06:04:57Z",
+    "updated_at": "2026-07-28T06:35:22Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T05:57:33Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 152,
-    "updated_at": "2026-07-28T06:22:35Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 10,
-    "updated_at": "2026-07-28T05:44:12Z",
+    "updated_at": "2026-07-28T06:41:47Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9403,
-    "updated_at": "2026-07-28T05:50:15Z",
+    "updated_at": "2026-07-28T06:37:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -234,21 +252,12 @@
     "url": "https://github.com/hjosugi/irodori-extension-qdrant"
   },
   {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-28T05:00:50Z",
-    "url": "https://github.com/coolloic/Notebook"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T05:38:30Z",
+    "updated_at": "2026-07-28T06:35:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -364,7 +373,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15290,
+    "stars": 15292,
     "updated_at": "2026-07-28T03:51:45Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:30:44Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-28T02:29:16Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   }
 ]
