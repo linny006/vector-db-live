@@ -1,5 +1,23 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 835,
+    "updated_at": "2026-07-28T17:50:07Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T17:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Reproducible decayed RAG index demo: real git churn + synthetic PII replayed across pgvector, Qdrant and Chroma with a g",
-    "id": "rimironenko/rag-index-decay",
-    "language": "Python",
-    "name": "rimironenko/rag-index-decay",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:44:37Z",
-    "url": "https://github.com/rimironenko/rag-index-decay"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -34,15 +43,6 @@
     "stars": 7034,
     "updated_at": "2026-07-28T17:39:44Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-28T17:35:56Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -70,15 +70,6 @@
     "stars": 1869,
     "updated_at": "2026-07-28T17:30:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T17:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -158,7 +149,7 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 51166,
-    "updated_at": "2026-07-28T17:18:41Z",
+    "updated_at": "2026-07-28T17:47:20Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -214,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-07-28T17:04:03Z",
     "url": "https://github.com/RB1507/AETHER-RAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33629,
+    "updated_at": "2026-07-28T17:03:13Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "From model.fit() to models that survive production \u2014 a phased climb through ML fundamentals and the MLOps layer: version",
@@ -315,15 +315,6 @@
     "url": "https://github.com/daringanitch/claude-memory"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33628,
-    "updated_at": "2026-07-28T17:03:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
     "id": "ErenReyhanlioglu/seekbind",
     "language": "Python",
@@ -410,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16655,
-    "updated_at": "2026-07-28T16:46:09Z",
+    "updated_at": "2026-07-28T17:52:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -448,5 +439,14 @@
     "stars": 1,
     "updated_at": "2026-07-28T15:06:13Z",
     "url": "https://github.com/Varshith019/rag-from-scratch"
+  },
+  {
+    "description": "",
+    "id": "mahavirvataliya/openrag-ai-chatbot",
+    "language": "PHP",
+    "name": "mahavirvataliya/openrag-ai-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-28T15:03:48Z",
+    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
   }
 ]
