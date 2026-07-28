@@ -1,5 +1,59 @@
 [
   {
+    "description": "Irodori Table Milvus connector extension",
+    "id": "hjosugi/irodori-extension-milvus",
+    "language": "Rust",
+    "name": "hjosugi/irodori-extension-milvus",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:08:23Z",
+    "url": "https://github.com/hjosugi/irodori-extension-milvus"
+  },
+  {
+    "description": "Irodori Table Pinecone connector extension",
+    "id": "hjosugi/irodori-extension-pinecone",
+    "language": "Rust",
+    "name": "hjosugi/irodori-extension-pinecone",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:08:17Z",
+    "url": "https://github.com/hjosugi/irodori-extension-pinecone"
+  },
+  {
+    "description": "Irodori Table Qdrant connector extension",
+    "id": "hjosugi/irodori-extension-qdrant",
+    "language": "Rust",
+    "name": "hjosugi/irodori-extension-qdrant",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:06:57Z",
+    "url": "https://github.com/hjosugi/irodori-extension-qdrant"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:14:15Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-28T05:00:50Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T05:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 79,
-    "updated_at": "2026-07-28T04:57:37Z",
+    "updated_at": "2026-07-28T05:02:09Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb-server",
     "stars": 169,
-    "updated_at": "2026-07-28T04:56:12Z",
+    "updated_at": "2026-07-28T05:14:31Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/ahmadrishi/enterprise-knowledge-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T04:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -108,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 3,
-    "updated_at": "2026-07-28T04:31:02Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 6292,
     "updated_at": "2026-07-28T04:24:20Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-28T04:21:13Z",
-    "url": "https://github.com/coolloic/Notebook"
   },
   {
     "description": "The holographic core for leOS",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-28T04:42:20Z",
+    "updated_at": "2026-07-28T05:14:16Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -328,7 +355,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 403,
+    "stars": 405,
     "updated_at": "2026-07-28T02:27:05Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T01:24:29Z",
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33614,
-    "updated_at": "2026-07-28T01:24:26Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:35:31Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:14:05Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   }
 ]
