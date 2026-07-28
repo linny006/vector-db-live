@@ -1,12 +1,30 @@
 [
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-28T04:29:15Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
+    "updated_at": "2026-07-28T04:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-07-28T04:43:45Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-28T04:33:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-28T04:27:46Z",
+    "updated_at": "2026-07-28T04:30:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "MaxFreedomPollard/Compartment",
     "stars": 3,
-    "updated_at": "2026-07-28T04:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-28T04:31:02Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -36,6 +54,15 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6292,
+    "updated_at": "2026-07-28T04:24:20Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
     "id": "coolloic/Notebook",
     "language": "HTML",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T04:21:13Z",
     "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-07-28T04:21:13Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-28T04:26:47Z",
+    "updated_at": "2026-07-28T04:42:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -232,24 +250,6 @@
     "stars": 45395,
     "updated_at": "2026-07-28T03:42:18Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-28T03:03:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6291,
-    "updated_at": "2026-07-28T04:24:20Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -369,6 +369,15 @@
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33614,
+    "updated_at": "2026-07-28T01:24:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-28T00:35:35Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-28T00:21:58Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
