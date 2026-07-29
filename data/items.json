@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T17:15:24Z",
+    "updated_at": "2026-07-29T17:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:28:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:28:06Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 5,
+    "updated_at": "2026-07-29T17:24:15Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:27:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:23:11Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:26:26Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:17:06Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:12:49Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T17:11:11Z",
     "url": "https://github.com/Vijay190899/disclosure-rag"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:09:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T17:07:31Z",
+    "updated_at": "2026-07-29T17:18:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-07-29T17:05:53Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:05:42Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -126,15 +189,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:00:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -162,15 +216,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:55:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The Memory Layer for AI Applications. Moves RAG intelligence (RRF, MMR, PII Shield, Semantic Cache) into the storage lay",
     "id": "manasdb/manasdb",
     "language": "TypeScript",
@@ -187,15 +232,6 @@
     "stars": 112,
     "updated_at": "2026-07-29T16:49:05Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-py",
-    "language": "Python",
-    "name": "Dakera-AI/dakera-py",
-    "stars": 5,
-    "updated_at": "2026-07-29T16:53:30Z",
-    "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "ErenReyhanlioglu/seekbind",
     "stars": 0,
-    "updated_at": "2026-07-29T16:29:55Z",
+    "updated_at": "2026-07-29T17:26:25Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-29T16:20:48Z",
+    "updated_at": "2026-07-29T17:18:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -329,7 +365,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-29T17:06:29Z",
+    "updated_at": "2026-07-29T17:28:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/MontyGovernance/montycat_python"
   },
   {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:15:12Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 238,
     "updated_at": "2026-07-29T16:48:11Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:26:30Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33649,
-    "updated_at": "2026-07-29T15:21:42Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6302,
-    "updated_at": "2026-07-29T15:19:41Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
