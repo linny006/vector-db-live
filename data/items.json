@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T18:15:21Z",
+    "updated_at": "2026-07-29T18:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2217,
+    "updated_at": "2026-07-29T18:28:57Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:27:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
+    "id": "maheshchandr26/ResearchOS",
+    "language": "TypeScript",
+    "name": "maheshchandr26/ResearchOS",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:25:39Z",
+    "url": "https://github.com/maheshchandr26/ResearchOS"
+  },
+  {
+    "description": "Local RAG system for querying FAR/DFARS defense acquisition regulations using LangChain, ChromaDB, and Ollama. Includes ",
+    "id": "DarrellS0352/FAR-DFARS-RAG-system-with-evaluation",
+    "language": "Jupyter Notebook",
+    "name": "DarrellS0352/FAR-DFARS-RAG-system-with-evaluation",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:25:24Z",
+    "url": "https://github.com/DarrellS0352/FAR-DFARS-RAG-system-with-evaluation"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2034,
+    "updated_at": "2026-07-29T18:25:02Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-07-29T18:23:19Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:22:38Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
+    "id": "Vijay190899/disclosure-rag",
+    "language": "Python",
+    "name": "Vijay190899/disclosure-rag",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:20:17Z",
+    "url": "https://github.com/Vijay190899/disclosure-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -27,15 +108,6 @@
     "url": "https://github.com/henry-hai/SentryQuery-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:06:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -45,15 +117,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2034,
-    "updated_at": "2026-07-29T18:05:06Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -61,15 +124,6 @@
     "stars": 420,
     "updated_at": "2026-07-29T18:02:16Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2217,
-    "updated_at": "2026-07-29T18:01:23Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -90,15 +144,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:57:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
     "id": "mayankanup/commerce-ai-platform",
     "language": "Go",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T17:56:30Z",
     "url": "https://github.com/mayankanup/commerce-ai-platform"
-  },
-  {
-    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
-    "id": "DevDarsh26/Quira",
-    "language": "Python",
-    "name": "DevDarsh26/Quira",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:15:00Z",
-    "url": "https://github.com/DevDarsh26/Quira"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -171,15 +207,6 @@
     "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-07-29T17:39:33Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -196,6 +223,15 @@
     "stars": 1,
     "updated_at": "2026-07-29T17:40:41Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6303,
+    "updated_at": "2026-07-29T18:25:11Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -241,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T17:12:49Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
-    "id": "Vijay190899/disclosure-rag",
-    "language": "Python",
-    "name": "Vijay190899/disclosure-rag",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:11:11Z",
-    "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -338,7 +365,7 @@
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-29T18:07:40Z",
+    "updated_at": "2026-07-29T18:29:58Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
   },
   {
@@ -355,7 +382,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29546,
+    "stars": 29548,
     "updated_at": "2026-07-29T16:51:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T16:34:06Z",
     "url": "https://github.com/iharshkaran/ai-assistant"
-  },
-  {
-    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
-    "id": "syalia-srl/beaver",
-    "language": "Python",
-    "name": "syalia-srl/beaver",
-    "stars": 36,
-    "updated_at": "2026-07-29T16:27:37Z",
-    "url": "https://github.com/syalia-srl/beaver"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:35:45Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Provider-independent persistent cognition layer for AI agents.",
-    "id": "Shikhar-code/memcoder",
-    "language": "Python",
-    "name": "Shikhar-code/memcoder",
-    "stars": 1,
-    "updated_at": "2026-07-29T16:17:48Z",
-    "url": "https://github.com/Shikhar-code/memcoder"
   }
 ]
