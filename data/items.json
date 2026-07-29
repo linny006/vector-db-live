@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T14:30:21Z",
+    "updated_at": "2026-07-29T14:45:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:41:37Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:36:52Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
+    "id": "maheshchandr26/ResearchOS",
+    "language": "TypeScript",
+    "name": "maheshchandr26/ResearchOS",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:36:44Z",
+    "url": "https://github.com/maheshchandr26/ResearchOS"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:40:32Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Backend service for a Retrieval-Augmented Generation (RAG) chat system, providing document ingestion, vector search, and",
+    "id": "krudi/ai-rag-backend",
+    "language": "Python",
+    "name": "krudi/ai-rag-backend",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:34:52Z",
+    "url": "https://github.com/krudi/ai-rag-backend"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-29T14:33:40Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9401,
+    "updated_at": "2026-07-29T14:42:23Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1341,
+    "updated_at": "2026-07-29T14:32:11Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12730,
+    "updated_at": "2026-07-29T14:36:16Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An enterprise-grade RAG & Knowledge Graph portal. Built with FastAPI, React, Pinecone, and Neo4j to dynamically extract ",
+    "id": "anusri-15/ArchiveMind-AI",
+    "language": "JavaScript",
+    "name": "anusri-15/ArchiveMind-AI",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:29:05Z",
+    "url": "https://github.com/anusri-15/ArchiveMind-AI"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -27,21 +126,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
-    "id": "DevDarsh26/Quira",
-    "language": "Python",
-    "name": "DevDarsh26/Quira",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:26:14Z",
-    "url": "https://github.com/DevDarsh26/Quira"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29542,
-    "updated_at": "2026-07-29T14:20:35Z",
+    "updated_at": "2026-07-29T14:40:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -54,24 +144,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9401,
-    "updated_at": "2026-07-29T14:29:36Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12730,
-    "updated_at": "2026-07-29T14:15:57Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -81,21 +153,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58779,
-    "updated_at": "2026-07-29T14:15:22Z",
+    "updated_at": "2026-07-29T14:33:06Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/Boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/Boo",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:30:22Z",
-    "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -126,21 +180,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:07:35Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 830,
-    "updated_at": "2026-07-29T14:30:13Z",
+    "updated_at": "2026-07-29T14:40:20Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -153,21 +198,12 @@
     "url": "https://github.com/sabarivishnu26/AI-DevOps-Copilot"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-29T14:01:19Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
     "name": "GCTRL-TECH/platform",
     "stars": 4,
-    "updated_at": "2026-07-29T13:58:33Z",
+    "updated_at": "2026-07-29T14:38:18Z",
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T13:48:35Z",
+    "updated_at": "2026-07-29T14:33:34Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T14:29:36Z",
+    "updated_at": "2026-07-29T14:41:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -328,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33645,
+    "stars": 33646,
     "updated_at": "2026-07-29T12:46:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -337,7 +373,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64049,
+    "stars": 64050,
     "updated_at": "2026-07-29T12:46:00Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-29T12:03:50Z",
     "url": "https://github.com/GenAIwithMS/OpenGPT"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:01:54Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12765,
-    "updated_at": "2026-07-29T11:57:35Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 29,
-    "updated_at": "2026-07-29T11:54:43Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "A RAG Agent which can Digest provided documentation and answer accordingly.",
-    "id": "selaaa-online/RAG-Agent",
-    "language": "C#",
-    "name": "selaaa-online/RAG-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:48:36Z",
-    "url": "https://github.com/selaaa-online/RAG-Agent"
   }
 ]
