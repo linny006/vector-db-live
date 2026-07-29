@@ -1,12 +1,30 @@
 [
   {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3158,
+    "updated_at": "2026-07-29T11:45:21Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-29T11:34:10Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-07-29T11:45:10Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-29T11:37:42Z",
+    "url": "https://github.com/DevDarsh26/Quira"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-29T11:30:28Z",
+    "updated_at": "2026-07-29T11:34:16Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-29T11:37:53Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 238,
+    "updated_at": "2026-07-29T11:30:32Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1871,
-    "updated_at": "2026-07-29T11:26:42Z",
+    "updated_at": "2026-07-29T11:45:20Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -86,8 +122,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T11:33:20Z",
+    "updated_at": "2026-07-29T11:42:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 77,
+    "updated_at": "2026-07-29T11:20:48Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -112,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29533,
+    "stars": 29534,
     "updated_at": "2026-07-29T11:12:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -225,15 +270,6 @@
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-29T11:20:48Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
     "id": "elaz48/placeborag",
     "language": "Python",
@@ -256,7 +292,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33643,
+    "stars": 33642,
     "updated_at": "2026-07-29T10:56:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -293,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T11:28:19Z",
+    "updated_at": "2026-07-29T11:41:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4413,
-    "updated_at": "2026-07-29T10:50:52Z",
+    "updated_at": "2026-07-29T11:36:59Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -313,6 +349,15 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:50:31Z",
     "url": "https://github.com/RaisDB/raisdb"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 5,
+    "updated_at": "2026-07-29T10:48:26Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
     "description": "An Enterprise-Grade Modular RAG Platform implementing Standard RAG, Corrective RAG (CRAG with Query Rewriting & Evaluati",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:31:33Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
-    "id": "diegoglozano/revector",
-    "language": "Rust",
-    "name": "diegoglozano/revector",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:30:39Z",
-    "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 830,
-    "updated_at": "2026-07-29T10:28:48Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-07-29T10:26:34Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:26:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-07-29T10:25:00Z",
-    "url": "https://github.com/perforate-org/gleaph"
   }
 ]
