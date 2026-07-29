@@ -1,12 +1,21 @@
 [
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-29T02:25:16Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
     "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:09:47Z",
-    "url": "https://github.com/thekaveh/atlas"
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:21:03Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
@@ -14,17 +23,26 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-07-29T02:05:04Z",
+    "updated_at": "2026-07-29T02:20:27Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:20:04Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-07-29T02:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-29T02:17:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -32,8 +50,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T02:00:19Z",
+    "updated_at": "2026-07-29T02:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:27:06Z",
+    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "A RAG-based question answering system for the Bhagavad Gita using Hugging Face embeddings, a vector database, and the Ge",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-29T01:43:40Z",
+    "updated_at": "2026-07-29T02:26:31Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/iszgroup/rag-and-knowledge-recipes"
   },
   {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:19:02Z",
-    "url": "https://github.com/coolloic/Notebook"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 324,
     "updated_at": "2026-07-29T01:15:12Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:03:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
@@ -211,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64029,
+    "stars": 64028,
     "updated_at": "2026-07-29T00:12:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T02:08:51Z",
+    "updated_at": "2026-07-29T02:20:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -274,8 +292,8 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6284,
-    "updated_at": "2026-07-28T23:26:44Z",
+    "stars": 6283,
+    "updated_at": "2026-07-29T02:30:13Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -301,7 +319,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 464,
+    "stars": 465,
     "updated_at": "2026-07-28T23:16:37Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -382,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29520,
+    "stars": 29521,
     "updated_at": "2026-07-28T22:11:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T21:48:14Z",
     "url": "https://github.com/rimironenko/rag-index-decay"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 30,
-    "updated_at": "2026-07-28T21:43:28Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51177,
-    "updated_at": "2026-07-28T21:22:58Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
