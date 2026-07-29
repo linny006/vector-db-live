@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 238,
-    "updated_at": "2026-07-29T23:39:54Z",
+    "updated_at": "2026-07-29T23:44:58Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:44:49Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:41:51Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -32,17 +50,8 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 324,
-    "updated_at": "2026-07-29T23:37:20Z",
+    "updated_at": "2026-07-29T23:42:03Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T23:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -85,7 +94,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64077,
+    "stars": 64078,
     "updated_at": "2026-07-29T22:56:14Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -97,15 +106,6 @@
     "stars": 705,
     "updated_at": "2026-07-29T22:54:18Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:48:39Z",
-    "url": "https://github.com/coolloic/Notebook"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "dovahkiin-v/mitos",
     "stars": 4,
-    "updated_at": "2026-07-29T18:57:53Z",
+    "updated_at": "2026-07-29T23:44:57Z",
     "url": "https://github.com/dovahkiin-v/mitos"
   }
 ]
