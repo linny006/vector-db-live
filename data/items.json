@@ -1,5 +1,95 @@
 [
   {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-07-29T08:27:57Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 770,
+    "updated_at": "2026-07-29T08:27:09Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-29T08:26:54Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T08:20:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "mahavirvataliya/openrag-ai-chatbot",
+    "language": "PHP",
+    "name": "mahavirvataliya/openrag-ai-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-29T08:19:46Z",
+    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T08:18:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 59,
+    "updated_at": "2026-07-29T08:17:58Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-29T08:17:48Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T08:15:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T08:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -9,12 +99,21 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
+    "description": "AI-powered code review platform with RAG \u2014 embeds your codebase into a vector DB, retrieves relevant context, and stream",
+    "id": "Abhish0/CodeLens",
+    "language": "Python",
+    "name": "Abhish0/CodeLens",
+    "stars": 0,
+    "updated_at": "2026-07-29T08:10:19Z",
+    "url": "https://github.com/Abhish0/CodeLens"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T08:09:47Z",
+    "updated_at": "2026-07-29T08:28:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16656,
-    "updated_at": "2026-07-29T08:14:10Z",
+    "updated_at": "2026-07-29T08:26:34Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -63,15 +162,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:13:06Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -81,33 +171,6 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "",
-    "id": "mahavirvataliya/openrag-ai-chatbot",
-    "language": "PHP",
-    "name": "mahavirvataliya/openrag-ai-chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:59:08Z",
-    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -115,15 +178,6 @@
     "stars": 89,
     "updated_at": "2026-07-29T07:59:05Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:56:19Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
     "description": "File-first memory runtime for AI agents \u2014 versioned, portable, and always there when the next session starts.",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-29T07:47:46Z",
+    "updated_at": "2026-07-29T08:26:03Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -202,7 +256,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15304,
+    "stars": 15305,
     "updated_at": "2026-07-29T07:30:04Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -212,35 +266,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-29T08:07:11Z",
+    "updated_at": "2026-07-29T08:17:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T07:27:01Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T07:26:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Handlebars",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 770,
-    "updated_at": "2026-07-29T08:06:46Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -248,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4413,
-    "updated_at": "2026-07-29T07:13:44Z",
+    "updated_at": "2026-07-29T08:23:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -292,7 +319,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45407,
+    "stars": 45408,
     "updated_at": "2026-07-29T07:04:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/keyur7523/rag-assistant"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 59,
-    "updated_at": "2026-07-29T06:09:09Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T05:36:07Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
-    "id": "armaghanai/rag-assistant-pdf-text-sql",
-    "language": "Python",
-    "name": "armaghanai/rag-assistant-pdf-text-sql",
-    "stars": 2,
-    "updated_at": "2026-07-29T05:18:39Z",
-    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 2,
-    "updated_at": "2026-07-29T05:07:51Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
   }
 ]
