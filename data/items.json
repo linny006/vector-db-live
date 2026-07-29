@@ -1,12 +1,66 @@
 [
   {
+    "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
+    "id": "elaz48/placeborag",
+    "language": "Python",
+    "name": "elaz48/placeborag",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:11:51Z",
+    "url": "https://github.com/elaz48/placeborag"
+  },
+  {
+    "description": "Qanoony (\u0642\u0627\u0646\u0648\u0646\u064a) \u2014 A bilingual AI legal assistant for Egyptian employers & startups. Built with RAG + LangChain + LLM (G",
+    "id": "omardiab9951/Qanoony",
+    "language": "HTML",
+    "name": "omardiab9951/Qanoony",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:08:00Z",
+    "url": "https://github.com/omardiab9951/Qanoony"
+  },
+  {
+    "description": "",
+    "id": "mahavirvataliya/openrag-ai-chatbot",
+    "language": "PHP",
+    "name": "mahavirvataliya/openrag-ai-chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:05:56Z",
+    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1050,
+    "updated_at": "2026-07-29T09:04:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 4,
-    "updated_at": "2026-07-29T08:58:19Z",
+    "updated_at": "2026-07-29T09:04:47Z",
     "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-29T09:11:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58777,
+    "updated_at": "2026-07-29T09:12:02Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 96,
-    "updated_at": "2026-07-29T08:59:22Z",
+    "updated_at": "2026-07-29T09:01:06Z",
     "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29529,
+    "updated_at": "2026-07-29T09:00:22Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -27,15 +108,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:52:32Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -43,33 +115,6 @@
     "stars": 16,
     "updated_at": "2026-07-29T08:48:41Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1050,
-    "updated_at": "2026-07-29T08:53:20Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:45:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4413,
-    "updated_at": "2026-07-29T08:54:12Z",
+    "updated_at": "2026-07-29T09:01:09Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -162,21 +207,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "",
-    "id": "mahavirvataliya/openrag-ai-chatbot",
-    "language": "PHP",
-    "name": "mahavirvataliya/openrag-ai-chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:19:46Z",
-    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 59,
-    "updated_at": "2026-07-29T08:17:58Z",
+    "updated_at": "2026-07-29T09:11:58Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T09:00:01Z",
+    "updated_at": "2026-07-29T09:08:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16656,
-    "updated_at": "2026-07-29T08:53:44Z",
+    "updated_at": "2026-07-29T09:10:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -310,7 +346,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15305,
+    "stars": 15306,
     "updated_at": "2026-07-29T07:30:04Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -320,7 +356,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-29T08:48:34Z",
+    "updated_at": "2026-07-29T09:05:10Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -373,8 +409,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33639,
-    "updated_at": "2026-07-29T06:51:25Z",
+    "stars": 33640,
+    "updated_at": "2026-07-29T09:04:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T06:29:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
-    "id": "Metaworkers-ai/governedmemory",
-    "language": "Python",
-    "name": "Metaworkers-ai/governedmemory",
-    "stars": 8,
-    "updated_at": "2026-07-29T06:25:19Z",
-    "url": "https://github.com/Metaworkers-ai/governedmemory"
-  },
-  {
-    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
-    "id": "r-xue/ragdoll",
-    "language": "Python",
-    "name": "r-xue/ragdoll",
-    "stars": 0,
-    "updated_at": "2026-07-29T06:18:18Z",
-    "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:12:32Z",
-    "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "An AI customer-support agent that chains its own tools \u2014 SQLite order lookups, RAG policy search, and drafted replies \u2014 ",
-    "id": "keyur7523/rag-assistant",
-    "language": "Python",
-    "name": "keyur7523/rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-29T06:11:28Z",
-    "url": "https://github.com/keyur7523/rag-assistant"
   }
 ]
