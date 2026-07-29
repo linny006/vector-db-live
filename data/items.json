@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T02:45:19Z",
+    "updated_at": "2026-07-29T03:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1870,
+    "updated_at": "2026-07-29T02:58:08Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
+    "id": "oceanbase/pyobvector",
+    "language": "Python",
+    "name": "oceanbase/pyobvector",
+    "stars": 19,
+    "updated_at": "2026-07-29T02:51:34Z",
+    "url": "https://github.com/oceanbase/pyobvector"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:47:52Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-29T02:45:45Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -25,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T02:43:45Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-07-29T02:40:21Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -72,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:37:25Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "A RAG-based question answering system for the Bhagavad Gita using Hugging Face embeddings, a vector database, and the Ge",
     "id": "stutimahesh/GitaInsight-Engine",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45404,
-    "updated_at": "2026-07-29T01:58:16Z",
+    "updated_at": "2026-07-29T02:50:17Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -225,20 +243,11 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1870,
-    "updated_at": "2026-07-29T02:33:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64027,
+    "stars": 64028,
     "updated_at": "2026-07-29T00:12:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -324,6 +333,15 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11018,
+    "updated_at": "2026-07-28T23:17:21Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
@@ -378,15 +396,6 @@
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11017,
-    "updated_at": "2026-07-28T23:17:21Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:54:23Z",
     "url": "https://github.com/ANSHAM1/ResearchMind.AI"
-  },
-  {
-    "description": "Reproducible corpus/churn/ledger harness for measuring RAG index decay across pgvector, Qdrant, and Chroma - replays 13 ",
-    "id": "rimironenko/rag-index-decay",
-    "language": "Python",
-    "name": "rimironenko/rag-index-decay",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:48:14Z",
-    "url": "https://github.com/rimironenko/rag-index-decay"
   }
 ]
