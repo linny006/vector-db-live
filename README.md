@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 20:30 UTC
+> ⏰ Last updated: 2026-07-29 20:36 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 4 | Python | 2026-07-29 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1871 | Go | 2026-07-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 4 | [schmitech/orbit](https://github.com/schmitech/orbit) | 324 | Python | 2026-07-29 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 5 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6297 | TypeScript | 2026-07-29 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 4 | Python | 2026-07-29 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1871 | Go | 2026-07-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 324 | Python | 2026-07-29 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 6 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6297 | TypeScript | 2026-07-29 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 7 | [prajvalsharma18/cacheRAG](https://github.com/prajvalsharma18/cacheRAG) | 0 | JavaScript | 2026-07-29 | CacheRAG — An intelligent RAG optimization pipeline using exact caching, semantic caching, and MMR reranking to reduce L |
 | 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 2 | HTML | 2026-07-29 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-29 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
@@ -90,8 +90,8 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-29 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 47 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 420 | Java | 2026-07-29 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
 | 48 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 1 | Python | 2026-07-29 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 49 | [mayankanup/commerce-ai-platform](https://github.com/mayankanup/commerce-ai-platform) | 1 | Go | 2026-07-29 | Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL |
-| 50 | [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) | 168 | Rust | 2026-07-29 | Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temp |
+| 49 | [ashu75575/ClauseGuard](https://github.com/ashu75575/ClauseGuard) | 0 | Python | 2026-07-29 | Know what you're signing. AI-powered clause risk detection with grounded, citation-backed explanations. |
+| 50 | [mayankanup/commerce-ai-platform](https://github.com/mayankanup/commerce-ai-platform) | 1 | Go | 2026-07-29 | Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL |
 <!-- TRACKER_TABLE_END -->
 
 ---
