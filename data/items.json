@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T10:12:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-29T10:14:43Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-29T10:07:31Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-29T10:06:21Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T10:04:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29529,
+    "updated_at": "2026-07-29T10:03:54Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -7,6 +70,15 @@
     "stars": 12728,
     "updated_at": "2026-07-29T09:59:11Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16657,
+    "updated_at": "2026-07-29T09:57:40Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Endee.io \u2013 A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering signific",
@@ -41,7 +113,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4413,
-    "updated_at": "2026-07-29T09:51:43Z",
+    "updated_at": "2026-07-29T10:11:13Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 33642,
     "updated_at": "2026-07-29T09:50:42Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T09:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
@@ -108,31 +162,13 @@
     "url": "https://github.com/Dakera-AI/dakera-go"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29531,
-    "updated_at": "2026-07-29T09:57:29Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11022,
-    "updated_at": "2026-07-29T09:40:14Z",
+    "updated_at": "2026-07-29T10:08:06Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-29T09:39:35Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Qanoony (\u0642\u0627\u0646\u0648\u0646\u064a) \u2014 A bilingual AI legal assistant for Egyptian employers & startups. Built with RAG + LangChain + LLM (G",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58777,
-    "updated_at": "2026-07-29T09:48:42Z",
+    "updated_at": "2026-07-29T10:09:53Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T09:41:49Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
     "id": "Ajitesh-Tamrakar/Internet-Expedition",
     "language": "JavaScript",
@@ -214,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T09:20:22Z",
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T09:19:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "High-performance, local-first RAG (Retrieval-Augmented Generation) stack. Features PDF/TXT ingestion, ChromaDB vector st",
@@ -243,20 +261,11 @@
     "url": "https://github.com/insanalamin/sekejap"
   },
   {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:12:54Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45408,
+    "stars": 45409,
     "updated_at": "2026-07-29T09:12:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T08:52:50Z",
+    "updated_at": "2026-07-29T10:09:33Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -322,6 +331,15 @@
     "stars": 16,
     "updated_at": "2026-07-29T08:48:41Z",
     "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 771,
+    "updated_at": "2026-07-29T08:44:00Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -369,15 +387,6 @@
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 770,
-    "updated_at": "2026-07-29T08:44:00Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
     "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T09:58:27Z",
+    "updated_at": "2026-07-29T10:11:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T08:14:26Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16656,
-    "updated_at": "2026-07-29T09:57:40Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -437,7 +437,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-07-29T07:59:05Z",
+    "updated_at": "2026-07-29T10:14:00Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
