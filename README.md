@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 15:28 UTC
+> ⏰ Last updated: 2026-07-29 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-07-29 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
-| 2 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6295 | Python | 2026-07-29 |  Memory library for building stateful agents |
-| 3 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12730 | Java | 2026-07-29 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 4 | [integrallis/vectors](https://github.com/integrallis/vectors) | 6 | Java | 2026-07-29 | The Ultimate Vectors Library for Java |
-| 5 | [vanalex/anamnesis](https://github.com/vanalex/anamnesis) | 1 | Rust | 2026-07-29 | Rust/Axum chat API grounded in real patient context, streams FHIR data via Redpanda Connect, embeds & indexes it in Qdra |
-| 6 | [caizefan34/local-ai-stack](https://github.com/caizefan34/local-ai-stack) | 1 | Python | 2026-07-29 | A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning — powered by Ollama, FastGPT,  |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-07-29 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
+| 3 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6295 | Python | 2026-07-29 |  Memory library for building stateful agents |
+| 4 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12730 | Java | 2026-07-29 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 5 | [integrallis/vectors](https://github.com/integrallis/vectors) | 6 | Java | 2026-07-29 | The Ultimate Vectors Library for Java |
+| 6 | [vanalex/anamnesis](https://github.com/vanalex/anamnesis) | 1 | Rust | 2026-07-29 | Rust/Axum chat API grounded in real patient context, streams FHIR data via Redpanda Connect, embeds & indexes it in Qdra |
+| 7 | [caizefan34/local-ai-stack](https://github.com/caizefan34/local-ai-stack) | 1 | Python | 2026-07-29 | A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning — powered by Ollama, FastGPT,  |
 | 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 9 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-07-29 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
 | 10 | [DevDarsh26/Quira](https://github.com/DevDarsh26/Quira) | 2 | Python | 2026-07-29 | Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and  |
