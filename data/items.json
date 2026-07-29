@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-07-29T14:55:07Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
+    "id": "Ajitesh-Tamrakar/Internet-Expedition",
+    "language": "JavaScript",
+    "name": "Ajitesh-Tamrakar/Internet-Expedition",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:52:35Z",
+    "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "caizefan34/local-ai-stack",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:50:41Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
     "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
@@ -14,8 +32,80 @@
     "language": "Jupyter Notebook",
     "name": "is-leeroy-jenkins/Boo",
     "stars": 3,
-    "updated_at": "2026-07-29T14:41:37Z",
+    "updated_at": "2026-07-29T14:49:57Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-29T14:55:41Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:55:57Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-07-29T14:42:32Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 59,
+    "updated_at": "2026-07-29T14:40:52Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 830,
+    "updated_at": "2026-07-29T14:40:20Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-07-29T14:38:18Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
@@ -36,15 +126,6 @@
     "url": "https://github.com/maheshchandr26/ResearchOS"
   },
   {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:40:32Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "Backend service for a Retrieval-Augmented Generation (RAG) chat system, providing document ingestion, vector search, and",
     "id": "krudi/ai-rag-backend",
     "language": "Python",
@@ -54,21 +135,12 @@
     "url": "https://github.com/krudi/ai-rag-backend"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-29T14:33:40Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-29T14:42:23Z",
+    "updated_at": "2026-07-29T14:47:39Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -86,17 +158,8 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12730,
-    "updated_at": "2026-07-29T14:36:16Z",
+    "updated_at": "2026-07-29T14:58:52Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An enterprise-grade RAG & Knowledge Graph portal. Built with FastAPI, React, Pinecone, and Neo4j to dynamically extract ",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T14:29:05Z",
     "url": "https://github.com/anusri-15/ArchiveMind-AI"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:27:07Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29542,
-    "updated_at": "2026-07-29T14:40:44Z",
+    "updated_at": "2026-07-29T14:55:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 830,
-    "updated_at": "2026-07-29T14:40:20Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "AI-powered DevOps assistant that uses RAG (LangChain + ChromaDB + Gemini) to analyze infrastructure logs from Kubernetes",
     "id": "sabarivishnu26/AI-DevOps-Copilot",
     "language": "Python",
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T14:03:05Z",
     "url": "https://github.com/sabarivishnu26/AI-DevOps-Copilot"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-07-29T14:38:18Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "Deterministic test doubles for RAG retrieval. A fake embedder with controllable semantics and a fake vector store that r",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6294,
-    "updated_at": "2026-07-29T13:51:01Z",
+    "updated_at": "2026-07-29T14:59:05Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T14:33:34Z",
+    "updated_at": "2026-07-29T14:55:18Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T14:41:26Z",
+    "updated_at": "2026-07-29T14:59:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T14:14:19Z",
+    "updated_at": "2026-07-29T14:50:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
-    "id": "Ajitesh-Tamrakar/Internet-Expedition",
-    "language": "JavaScript",
-    "name": "Ajitesh-Tamrakar/Internet-Expedition",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:41:49Z",
-    "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
-  },
-  {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
     "id": "ErenReyhanlioglu/seekbind",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-29T13:10:05Z",
+    "updated_at": "2026-07-29T14:58:17Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16657,
-    "updated_at": "2026-07-29T14:18:20Z",
+    "updated_at": "2026-07-29T14:51:40Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-29T12:38:32Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T12:12:24Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
-    "id": "GenAIwithMS/OpenGPT",
-    "language": "Python",
-    "name": "GenAIwithMS/OpenGPT",
-    "stars": 4,
-    "updated_at": "2026-07-29T12:03:50Z",
-    "url": "https://github.com/GenAIwithMS/OpenGPT"
   }
 ]
