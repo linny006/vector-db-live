@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T12:00:26Z",
+    "updated_at": "2026-07-29T12:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "XIXI-Got/Reverie-v1",
+    "language": "Python",
+    "name": "XIXI-Got/Reverie-v1",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:12:25Z",
+    "url": "https://github.com/XIXI-Got/Reverie-v1"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-29T12:12:24Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-29T12:05:47Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
+    "id": "GenAIwithMS/OpenGPT",
+    "language": "Python",
+    "name": "GenAIwithMS/OpenGPT",
+    "stars": 4,
+    "updated_at": "2026-07-29T12:03:50Z",
+    "url": "https://github.com/GenAIwithMS/OpenGPT"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-29T12:12:29Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:01:54Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:59:19Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
@@ -50,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-29T11:51:01Z",
+    "updated_at": "2026-07-29T12:11:57Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:48:36Z",
     "url": "https://github.com/selaaa-online/RAG-Agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T11:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-07-29T11:46:16Z",
+    "updated_at": "2026-07-29T12:04:25Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
-    "description": "",
-    "id": "XIXI-Got/Reverie-v1",
-    "language": "Python",
-    "name": "XIXI-Got/Reverie-v1",
-    "stars": 0,
-    "updated_at": "2026-07-29T11:29:10Z",
-    "url": "https://github.com/XIXI-Got/Reverie-v1"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1871,
-    "updated_at": "2026-07-29T11:45:20Z",
+    "updated_at": "2026-07-29T12:14:53Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T11:53:53Z",
+    "updated_at": "2026-07-29T12:14:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -185,7 +239,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-07-29T11:17:48Z",
+    "updated_at": "2026-07-29T12:12:51Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -279,15 +333,6 @@
     "url": "https://github.com/api-evangelist/zilliz"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-29T11:54:02Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
     "id": "Shr9vaniii/JanusAI",
     "language": "Python",
@@ -315,20 +360,11 @@
     "url": "https://github.com/elaz48/placeborag"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-29T11:59:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33643,
+    "stars": 33644,
     "updated_at": "2026-07-29T10:56:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 59,
     "updated_at": "2026-07-29T10:43:45Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "API Evangelist profile of Vespa \u2014 AI search engine and vector database",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:43:40Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:52:06Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:38:20Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Open-source big-data serving engine for search and recommendations.",
-    "id": "api-evangelist/vespa",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:36:30Z",
-    "url": "https://github.com/api-evangelist/vespa"
   }
 ]
