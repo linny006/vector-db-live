@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T12:15:22Z",
+    "updated_at": "2026-07-29T12:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 77,
+    "updated_at": "2026-07-29T12:24:20Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-29T12:22:33Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1051,
+    "updated_at": "2026-07-29T12:28:15Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "",
@@ -14,8 +41,98 @@
     "language": "Python",
     "name": "XIXI-Got/Reverie-v1",
     "stars": 0,
-    "updated_at": "2026-07-29T12:12:25Z",
+    "updated_at": "2026-07-29T12:22:05Z",
     "url": "https://github.com/XIXI-Got/Reverie-v1"
+  },
+  {
+    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
+    "id": "syzayd/recall",
+    "language": "Python",
+    "name": "syzayd/recall",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:21:46Z",
+    "url": "https://github.com/syzayd/recall"
+  },
+  {
+    "description": "AI-powered interview platform using FastAPI, React, Gemini AI, and RAG to generate personalized interview questions, eva",
+    "id": "NithinBrammesh/ai-interview-system",
+    "language": "Python",
+    "name": "NithinBrammesh/ai-interview-system",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:20:25Z",
+    "url": "https://github.com/NithinBrammesh/ai-interview-system"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29535,
+    "updated_at": "2026-07-29T12:28:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6194,
+    "updated_at": "2026-07-29T12:23:36Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-29T12:17:26Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T12:19:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16657,
+    "updated_at": "2026-07-29T12:13:59Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:12:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7034,
+    "updated_at": "2026-07-29T12:16:40Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -45,15 +162,6 @@
     "url": "https://github.com/GenAIwithMS/OpenGPT"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-29T12:12:29Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -61,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T12:01:54Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -95,7 +194,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 830,
-    "updated_at": "2026-07-29T11:54:26Z",
+    "updated_at": "2026-07-29T12:19:03Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -122,7 +221,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-07-29T12:11:57Z",
+    "updated_at": "2026-07-29T12:19:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -133,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:48:36Z",
     "url": "https://github.com/selaaa-online/RAG-Agent"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7904,
+    "updated_at": "2026-07-29T11:47:53Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -149,24 +257,24 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-07-29T12:04:25Z",
+    "updated_at": "2026-07-29T12:20:57Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
-    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
-    "id": "DevDarsh26/Quira",
-    "language": "Python",
-    "name": "DevDarsh26/Quira",
-    "stars": 2,
-    "updated_at": "2026-07-29T11:37:42Z",
-    "url": "https://github.com/DevDarsh26/Quira"
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4413,
+    "updated_at": "2026-07-29T11:36:59Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45412,
+    "stars": 45410,
     "updated_at": "2026-07-29T11:30:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -189,15 +297,6 @@
     "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T12:14:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -214,51 +313,6 @@
     "stars": 15308,
     "updated_at": "2026-07-29T11:23:16Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6194,
-    "updated_at": "2026-07-29T12:14:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 77,
-    "updated_at": "2026-07-29T11:55:28Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:12:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-powered interview platform using FastAPI, React, Gemini AI, and RAG to generate personalized interview questions, eva",
-    "id": "NithinBrammesh/ai-interview-system",
-    "language": "\u2014",
-    "name": "NithinBrammesh/ai-interview-system",
-    "stars": 0,
-    "updated_at": "2026-07-29T11:15:43Z",
-    "url": "https://github.com/NithinBrammesh/ai-interview-system"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29534,
-    "updated_at": "2026-07-29T11:12:46Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
@@ -364,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33644,
+    "stars": 33643,
     "updated_at": "2026-07-29T10:56:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T10:55:09Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1051,
-    "updated_at": "2026-07-29T11:41:25Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4413,
-    "updated_at": "2026-07-29T11:36:59Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": " Built on a blazing-fast Rust core, seamlessly unifying relational databases, NoSQL, vector stores, analytics engines, S",
-    "id": "RaisDB/raisdb",
-    "language": "\u2014",
-    "name": "RaisDB/raisdb",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:50:31Z",
-    "url": "https://github.com/RaisDB/raisdb"
-  },
-  {
-    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-py",
-    "language": "Python",
-    "name": "Dakera-AI/dakera-py",
-    "stars": 5,
-    "updated_at": "2026-07-29T10:48:26Z",
-    "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "An Enterprise-Grade Modular RAG Platform implementing Standard RAG, Corrective RAG (CRAG with Query Rewriting & Evaluati",
-    "id": "Mostafa23/Enterprise-Agentic-Corrective-RAG",
-    "language": "Python",
-    "name": "Mostafa23/Enterprise-Agentic-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:46:14Z",
-    "url": "https://github.com/Mostafa23/Enterprise-Agentic-Corrective-RAG"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 59,
-    "updated_at": "2026-07-29T10:43:45Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
