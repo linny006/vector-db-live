@@ -1,12 +1,66 @@
 [
   {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 705,
+    "updated_at": "2026-07-29T21:26:45Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "Enterprise AI Knowledge Platform leveraging RAG, semantic search, vector embeddings, and LLMs to transform organisationa",
+    "id": "DMandar8/DocMinr.ai",
     "language": "JavaScript",
-    "name": "getbullet-app/paraql",
+    "name": "DMandar8/DocMinr.ai",
     "stars": 0,
-    "updated_at": "2026-07-29T21:14:07Z",
-    "url": "https://github.com/getbullet-app/paraql"
+    "updated_at": "2026-07-29T21:26:24Z",
+    "url": "https://github.com/DMandar8/DocMinr.ai"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64072,
+    "updated_at": "2026-07-29T21:26:00Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T21:19:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "CacheRAG \u2014 An efficient RAG optimization pipeline using exact caching, semantic caching, and MMR reranking to reduce LLM",
+    "id": "prajvalsharma18/cacheRAG",
+    "language": "JavaScript",
+    "name": "prajvalsharma18/cacheRAG",
+    "stars": 0,
+    "updated_at": "2026-07-29T21:18:16Z",
+    "url": "https://github.com/prajvalsharma18/cacheRAG"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6297,
+    "updated_at": "2026-07-29T21:21:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T21:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -18,12 +72,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-07-29T21:14:07Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45416,
-    "updated_at": "2026-07-29T21:08:16Z",
+    "updated_at": "2026-07-29T21:30:17Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -36,21 +99,12 @@
     "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33654,
-    "updated_at": "2026-07-29T21:06:15Z",
+    "updated_at": "2026-07-29T21:24:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:50:58Z",
     "url": "https://github.com/couchbase/operational-data-platform-for-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T20:47:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -99,15 +144,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64072,
-    "updated_at": "2026-07-29T20:24:27Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -124,24 +160,6 @@
     "stars": 1871,
     "updated_at": "2026-07-29T21:13:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6297,
-    "updated_at": "2026-07-29T21:03:28Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "CacheRAG \u2014 An intelligent RAG optimization pipeline using exact caching, semantic caching, and MMR reranking to reduce L",
-    "id": "prajvalsharma18/cacheRAG",
-    "language": "JavaScript",
-    "name": "prajvalsharma18/cacheRAG",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:14:29Z",
-    "url": "https://github.com/prajvalsharma18/cacheRAG"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -167,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T21:14:09Z",
+    "updated_at": "2026-07-29T21:19:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-29T20:06:27Z",
+    "updated_at": "2026-07-29T21:18:03Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:21:54Z",
     "url": "https://github.com/ana738-bit/music-recommender-rag"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 705,
-    "updated_at": "2026-07-29T19:21:10Z",
-    "url": "https://github.com/neonwatty/meme-search"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -439,14 +448,5 @@
     "stars": 420,
     "updated_at": "2026-07-29T21:09:32Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 1,
-    "updated_at": "2026-07-29T19:41:58Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
