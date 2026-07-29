@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T11:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T11:12:58Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "API and integration profile for Upstash.",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:11:26Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Open-source cloud-native vector database.",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:09:05Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Vector search engine with end-to-end embedding and reranking.",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:08:12Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:06:39Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:06:34Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45410,
+    "updated_at": "2026-07-29T11:12:15Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Vector database service built on Milvus.",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:02:22Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T11:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -7,6 +97,15 @@
     "stars": 2,
     "updated_at": "2026-07-29T10:59:30Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "RAG-based onboarding assistant for engineering teams, built on FastAPI's codebase as a case study. Extracts and structur",
+    "id": "Shr9vaniii/JanusAI",
+    "language": "Python",
+    "name": "Shr9vaniii/JanusAI",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:59:28Z",
+    "url": "https://github.com/Shr9vaniii/JanusAI"
   },
   {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
@@ -31,8 +130,8 @@
     "id": "elaz48/placeborag",
     "language": "Python",
     "name": "elaz48/placeborag",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:58:38Z",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:03:49Z",
     "url": "https://github.com/elaz48/placeborag"
   },
   {
@@ -43,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-07-29T10:59:54Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33643,
+    "updated_at": "2026-07-29T10:56:33Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -106,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:46:14Z",
     "url": "https://github.com/Mostafa23/Enterprise-Agentic-Corrective-RAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T11:00:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -257,7 +347,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29531,
-    "updated_at": "2026-07-29T10:22:20Z",
+    "updated_at": "2026-07-29T11:12:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -297,15 +387,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T10:39:25Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -320,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16657,
-    "updated_at": "2026-07-29T10:58:24Z",
+    "updated_at": "2026-07-29T11:14:28Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -351,15 +432,6 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33642,
-    "updated_at": "2026-07-29T10:56:33Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T10:48:26Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
-    "id": "Dakera-AI/dakera-js",
-    "language": "TypeScript",
-    "name": "Dakera-AI/dakera-js",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:43:45Z",
-    "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 4,
-    "updated_at": "2026-07-29T10:48:30Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11022,
-    "updated_at": "2026-07-29T10:08:06Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Qanoony (\u0642\u0627\u0646\u0648\u0646\u064a) \u2014 A bilingual AI legal assistant for Egyptian employers & startups. Built with RAG + LangChain + LLM (G",
-    "id": "omardiab9951/Qanoony",
-    "language": "HTML",
-    "name": "omardiab9951/Qanoony",
-    "stars": 0,
-    "updated_at": "2026-07-29T09:37:07Z",
-    "url": "https://github.com/omardiab9951/Qanoony"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-29T09:35:51Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "",
-    "id": "mahavirvataliya/openrag-ai-chatbot",
-    "language": "PHP",
-    "name": "mahavirvataliya/openrag-ai-chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:29:55Z",
-    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 10,
-    "updated_at": "2026-07-29T09:29:02Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-29T10:46:35Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
