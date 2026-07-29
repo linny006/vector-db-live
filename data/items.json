@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:30:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build: vector",
+    "id": "white07S/valise",
+    "language": "Rust",
+    "name": "white07S/valise",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:27:07Z",
+    "url": "https://github.com/white07S/valise"
+  },
+  {
+    "description": "A high-performance FastAPI-based LLM API gateway designed to reduce application latency and API consumption costs using ",
+    "id": "theblag/llm-api-gateway",
+    "language": "Python",
+    "name": "theblag/llm-api-gateway",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:26:04Z",
+    "url": "https://github.com/theblag/llm-api-gateway"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:25:23Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-29T19:14:23Z",
+    "updated_at": "2026-07-29T19:22:18Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
+    "id": "ana738-bit/music-recommender-rag",
+    "language": "Python",
+    "name": "ana738-bit/music-recommender-rag",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:21:54Z",
+    "url": "https://github.com/ana738-bit/music-recommender-rag"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 238,
+    "updated_at": "2026-07-29T19:22:28Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 705,
+    "updated_at": "2026-07-29T19:21:10Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7905,
+    "updated_at": "2026-07-29T19:20:58Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T19:18:55Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -14,7 +95,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2034,
-    "updated_at": "2026-07-29T19:12:18Z",
+    "updated_at": "2026-07-29T19:18:20Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -23,17 +104,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-07-29T19:00:27Z",
+    "updated_at": "2026-07-29T19:15:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T19:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -72,21 +144,12 @@
     "url": "https://github.com/DemigodDSK/hubmesh"
   },
   {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 705,
-    "updated_at": "2026-07-29T19:12:41Z",
-    "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-07-29T18:52:01Z",
+    "updated_at": "2026-07-29T19:30:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -112,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64068,
+    "stars": 64069,
     "updated_at": "2026-07-29T18:45:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -131,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T18:53:13Z",
+    "updated_at": "2026-07-29T19:28:40Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T18:32:31Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T18:41:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
@@ -369,15 +423,6 @@
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7905,
-    "updated_at": "2026-07-29T19:12:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
     "id": "onlyarnav/nimbus-db",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 6194,
     "updated_at": "2026-07-29T17:56:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
-    "id": "geckse/markdown-vdb",
-    "language": "Rust",
-    "name": "geckse/markdown-vdb",
-    "stars": 22,
-    "updated_at": "2026-07-29T17:05:55Z",
-    "url": "https://github.com/geckse/markdown-vdb"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1463,
-    "updated_at": "2026-07-29T17:52:07Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 835,
-    "updated_at": "2026-07-29T17:02:59Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Fly.io postgres-flex with pgvector compiled in. Because you cannot add the extension after the cluster exists.",
-    "id": "Professional-Squash-Association/fly-postgres-pgvector",
-    "language": "Dockerfile",
-    "name": "Professional-Squash-Association/fly-postgres-pgvector",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:01:46Z",
-    "url": "https://github.com/Professional-Squash-Association/fly-postgres-pgvector"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-29T18:29:58Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
   }
 ]
