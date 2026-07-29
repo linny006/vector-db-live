@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 2,
+    "updated_at": "2026-07-29T15:09:27Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:08:35Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:08:04Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-29T15:07:20Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-29T15:06:38Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
+    "id": "MontyGovernance/montycat_rust",
+    "language": "Rust",
+    "name": "MontyGovernance/montycat_rust",
+    "stars": 1,
+    "updated_at": "2026-07-29T15:06:29Z",
+    "url": "https://github.com/MontyGovernance/montycat_rust"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T15:06:14Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:02:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6194,
+    "updated_at": "2026-07-29T15:12:31Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T15:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12730,
+    "updated_at": "2026-07-29T14:58:52Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:55:57Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:55:18Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
     "description": "The Go client for Chroma vector database",
     "id": "amikos-tech/chroma-go",
     "language": "Go",
@@ -18,15 +144,6 @@
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   },
   {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:50:41Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
     "id": "is-leeroy-jenkins/Boo",
     "language": "Jupyter Notebook",
@@ -34,42 +151,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T14:49:57Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-29T14:55:41Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 1,
-    "updated_at": "2026-07-29T14:55:57Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T14:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T15:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -108,15 +189,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
-    "id": "DevDarsh26/Quira",
-    "language": "Python",
-    "name": "DevDarsh26/Quira",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:36:52Z",
-    "url": "https://github.com/DevDarsh26/Quira"
-  },
-  {
     "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
     "id": "maheshchandr26/ResearchOS",
     "language": "TypeScript",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-29T14:47:39Z",
+    "updated_at": "2026-07-29T15:01:56Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 1341,
     "updated_at": "2026-07-29T14:32:11Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12730,
-    "updated_at": "2026-07-29T14:58:52Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "An enterprise-grade RAG & Knowledge Graph portal. Built with FastAPI, React, Pinecone, and Neo4j to dynamically extract ",
@@ -185,17 +248,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29542,
-    "updated_at": "2026-07-29T14:55:41Z",
+    "updated_at": "2026-07-29T15:00:25Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T14:19:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -270,30 +324,12 @@
     "url": "https://github.com/syzayd/recall"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-29T14:55:18Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6194,
-    "updated_at": "2026-07-29T14:59:16Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T14:50:00Z",
+    "updated_at": "2026-07-29T15:14:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:20:58Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:12:23Z",
-    "url": "https://github.com/piyalidas10/AI"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -387,15 +414,6 @@
     "url": "https://github.com/kovartravis/neuron"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-29T12:53:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -409,18 +427,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64050,
+    "stars": 64054,
     "updated_at": "2026-07-29T12:46:00Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:37:11Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:20:25Z",
     "url": "https://github.com/NithinBrammesh/ai-interview-system"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16657,
-    "updated_at": "2026-07-29T14:51:40Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
