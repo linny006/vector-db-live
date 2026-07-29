@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-29T18:08:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Agentic RAG over enterprise docs with a Researcher + Critic multi-agent pipeline (LangGraph \u00b7 LangChain \u00b7 Pinecone \u00b7 GPT",
+    "id": "henry-hai/SentryQuery-AI",
+    "language": "Python",
+    "name": "henry-hai/SentryQuery-AI",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:07:41Z",
+    "url": "https://github.com/henry-hai/SentryQuery-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:06:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:06:12Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2034,
+    "updated_at": "2026-07-29T18:05:06Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -27,24 +81,6 @@
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -67,7 +103,7 @@
     "id": "mayankanup/commerce-ai-platform",
     "language": "Go",
     "name": "mayankanup/commerce-ai-platform",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-29T17:56:30Z",
     "url": "https://github.com/mayankanup/commerce-ai-platform"
   },
@@ -76,8 +112,8 @@
     "id": "DevDarsh26/Quira",
     "language": "Python",
     "name": "DevDarsh26/Quira",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:56:18Z",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:15:00Z",
     "url": "https://github.com/DevDarsh26/Quira"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-29T17:46:30Z",
+    "updated_at": "2026-07-29T18:12:49Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -130,7 +166,7 @@
     "id": "caizefan34/local-ai-stack",
     "language": "Python",
     "name": "caizefan34/local-ai-stack",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-29T17:40:03Z",
     "url": "https://github.com/caizefan34/local-ai-stack"
   },
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-29T17:36:47Z",
+    "updated_at": "2026-07-29T18:08:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Java",
     "name": "NVIDIA/cuvs-lucene",
     "stars": 8,
-    "updated_at": "2026-07-29T18:04:49Z",
+    "updated_at": "2026-07-29T18:07:40Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
   },
   {
@@ -405,24 +441,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-29T16:22:08Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:06:12Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Provider-independent persistent cognition layer for AI agents.",
     "id": "Shikhar-code/memcoder",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T16:17:48Z",
     "url": "https://github.com/Shikhar-code/memcoder"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 475,
-    "updated_at": "2026-07-29T16:16:13Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-29T18:04:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
