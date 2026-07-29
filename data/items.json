@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T13:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9401,
+    "updated_at": "2026-07-29T13:29:37Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI-Powered Multi-Agent Study Assistant   Transforms NCERT textbooks into personalized learning resources using RAG,  LLM",
+    "id": "Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant",
+    "language": "Python",
+    "name": "Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-29T13:28:29Z",
+    "url": "https://github.com/Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:26:52Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T13:25:45Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1051,
+    "updated_at": "2026-07-29T13:29:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T13:23:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Run a production-grade RAG application on your laptop \u2014 free, private, no GPU required",
     "id": "caizefan34/local-ai-stack",
     "language": "Python",
@@ -27,6 +90,15 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:20:58Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -41,53 +113,17 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T13:19:04Z",
+    "updated_at": "2026-07-29T13:24:02Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T13:18:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29536,
-    "updated_at": "2026-07-29T13:16:46Z",
+    "stars": 29537,
+    "updated_at": "2026-07-29T13:30:16Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:15:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:21:55Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -133,15 +169,6 @@
     "stars": 20,
     "updated_at": "2026-07-29T13:06:23Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1051,
-    "updated_at": "2026-07-29T13:17:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:37:11Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9401,
-    "updated_at": "2026-07-29T13:11:06Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -430,23 +448,5 @@
     "stars": 45412,
     "updated_at": "2026-07-29T11:30:42Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 238,
-    "updated_at": "2026-07-29T11:30:32Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-29T11:26:37Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
