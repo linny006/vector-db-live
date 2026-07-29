@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T18:30:20Z",
+    "updated_at": "2026-07-29T18:40:57Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 6,
+    "updated_at": "2026-07-29T18:39:54Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1051,
+    "updated_at": "2026-07-29T18:42:54Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-07-29T18:36:31Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -14,8 +41,35 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2217,
-    "updated_at": "2026-07-29T18:28:57Z",
+    "updated_at": "2026-07-29T18:35:36Z",
     "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-07-29T18:32:31Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-29T18:41:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T18:25:39Z",
     "url": "https://github.com/maheshchandr26/ResearchOS"
-  },
-  {
-    "description": "Local RAG system for querying FAR/DFARS defense acquisition regulations using LangChain, ChromaDB, and Ollama. Includes ",
-    "id": "DarrellS0352/FAR-DFARS-RAG-system-with-evaluation",
-    "language": "Jupyter Notebook",
-    "name": "DarrellS0352/FAR-DFARS-RAG-system-with-evaluation",
-    "stars": 0,
-    "updated_at": "2026-07-29T18:25:24Z",
-    "url": "https://github.com/DarrellS0352/FAR-DFARS-RAG-system-with-evaluation"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -117,6 +153,15 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-29T18:38:21Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 1,
-    "updated_at": "2026-07-29T18:01:09Z",
+    "updated_at": "2026-07-29T18:41:59Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:40:41Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
@@ -277,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T17:12:49Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-29T17:47:18Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -351,15 +378,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 6,
-    "updated_at": "2026-07-29T17:36:37Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "A Lucene codec for vector search and clustering on the GPU",
     "id": "NVIDIA/cuvs-lucene",
     "language": "Java",
@@ -382,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29548,
+    "stars": 29549,
     "updated_at": "2026-07-29T16:51:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -403,15 +421,6 @@
     "stars": 4,
     "updated_at": "2026-07-29T16:48:58Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1051,
-    "updated_at": "2026-07-29T17:59:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T16:39:54Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
-    "id": "iharshkaran/ai-assistant",
-    "language": "JavaScript",
-    "name": "iharshkaran/ai-assistant",
-    "stars": 2,
-    "updated_at": "2026-07-29T16:34:06Z",
-    "url": "https://github.com/iharshkaran/ai-assistant"
   }
 ]
