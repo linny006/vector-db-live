@@ -1,12 +1,111 @@
 [
   {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1605,
+    "updated_at": "2026-07-29T18:58:35Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-07-29T18:57:53Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 77,
+    "updated_at": "2026-07-29T18:56:55Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:55:38Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 705,
+    "updated_at": "2026-07-29T18:55:36Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2034,
+    "updated_at": "2026-07-29T18:59:48Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:52:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:51:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-07-29T18:51:23Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T18:40:57Z",
+    "updated_at": "2026-07-29T18:45:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64068,
+    "updated_at": "2026-07-29T18:45:10Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -23,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-29T18:42:54Z",
+    "updated_at": "2026-07-29T18:53:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -63,49 +162,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:27:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
     "id": "maheshchandr26/ResearchOS",
     "language": "TypeScript",
     "name": "maheshchandr26/ResearchOS",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-29T18:25:39Z",
     "url": "https://github.com/maheshchandr26/ResearchOS"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2034,
-    "updated_at": "2026-07-29T18:25:02Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-07-29T18:23:19Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 1,
-    "updated_at": "2026-07-29T18:41:59Z",
+    "updated_at": "2026-07-29T18:49:16Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
@@ -216,6 +279,15 @@
     "url": "https://github.com/Sanjayvk98/Chat-with-Document-AI-Assistant-Document-Reader"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45415,
+    "updated_at": "2026-07-29T17:51:32Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
     "id": "aamirabbas858/rag-research-agent",
     "language": "Python",
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T17:47:35Z",
     "url": "https://github.com/aamirabbas858/rag-research-agent"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 77,
-    "updated_at": "2026-07-29T18:12:49Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -302,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7905,
-    "updated_at": "2026-07-29T17:54:44Z",
+    "updated_at": "2026-07-29T18:53:37Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/Professional-Squash-Association/fly-postgres-pgvector"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:01:46Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A Lucene codec for vector search and clustering on the GPU",
     "id": "NVIDIA/cuvs-lucene",
     "language": "Java",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T16:52:45Z",
     "url": "https://github.com/manasdb/manasdb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29549,
-    "updated_at": "2026-07-29T16:51:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-29T16:49:05Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 4,
-    "updated_at": "2026-07-29T16:48:58Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12731,
-    "updated_at": "2026-07-29T16:40:46Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 95,
-    "updated_at": "2026-07-29T16:51:40Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 1,
-    "updated_at": "2026-07-29T16:39:54Z",
-    "url": "https://github.com/piyalidas10/AI"
   }
 ]
