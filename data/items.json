@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T12:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 27,
+    "updated_at": "2026-07-29T11:54:43Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 830,
+    "updated_at": "2026-07-29T11:54:26Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:52:08Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12765,
+    "updated_at": "2026-07-29T11:57:35Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-29T11:51:01Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A RAG Agent which can Digest provided documentation and answer accordingly.",
+    "id": "selaaa-online/RAG-Agent",
+    "language": "C#",
+    "name": "selaaa-online/RAG-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:48:36Z",
+    "url": "https://github.com/selaaa-online/RAG-Agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T11:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-07-29T11:45:10Z",
+    "updated_at": "2026-07-29T11:46:16Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -27,22 +99,13 @@
     "url": "https://github.com/DevDarsh26/Quira"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T11:34:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 27,
-    "updated_at": "2026-07-29T11:37:53Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45412,
+    "updated_at": "2026-07-29T11:30:42Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -52,15 +115,6 @@
     "stars": 238,
     "updated_at": "2026-07-29T11:30:32Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T11:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Run a production-grade RAG application on your laptop \u2014 free, private, no GPU required",
@@ -99,15 +153,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-29T11:28:54Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6194,
-    "updated_at": "2026-07-29T11:42:42Z",
+    "updated_at": "2026-07-29T11:53:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-29T11:20:48Z",
+    "updated_at": "2026-07-29T11:55:28Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T11:12:20Z",
     "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45411,
-    "updated_at": "2026-07-29T11:30:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "API and integration profile for Upstash.",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T10:59:30Z",
+    "updated_at": "2026-07-29T11:54:02Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-29T10:59:54Z",
+    "updated_at": "2026-07-29T11:59:00Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -292,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33642,
+    "stars": 33643,
     "updated_at": "2026-07-29T10:56:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -301,7 +337,7 @@
     "id": "opencrawling/opencrawling",
     "language": "Java",
     "name": "opencrawling/opencrawling",
-    "stars": 13,
+    "stars": 12,
     "updated_at": "2026-07-29T10:55:49Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:36:30Z",
     "url": "https://github.com/api-evangelist/vespa"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1341,
-    "updated_at": "2026-07-29T10:35:04Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "SurrealDB APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:33:38Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 96,
-    "updated_at": "2026-07-29T10:36:52Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "API and integration profile for Azure Cosmos DB.",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:31:33Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
   }
 ]
