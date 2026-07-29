@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-07-29T02:25:16Z",
+    "updated_at": "2026-07-29T02:44:46Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-29T02:43:45Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-07-29T02:40:21Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T02:21:03Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "\u7edf\u4e00\u7684\u591a\u6a21\u578bAI\u804a\u5929\u96c6\u6210\u5e73\u53f0\uff0c\u652f\u6301\u6587\u5fc3\u4e00\u8a00\u3001\u901a\u4e49\u5343\u95ee\u3001DeepSeek\u3001OpenAI\u7b49\u5927\u6a21\u578b\uff0c\u63d0\u4f9b\u5411\u91cf\u68c0\u7d22\u548c\u6587\u4ef6\u5904\u7406\u529f\u80fd\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-07-29T02:20:27Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
@@ -45,30 +72,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-29T02:27:06Z",
+    "updated_at": "2026-07-29T02:37:25Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1870,
-    "updated_at": "2026-07-29T00:14:51Z",
+    "updated_at": "2026-07-29T02:33:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -229,7 +238,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64028,
+    "stars": 64027,
     "updated_at": "2026-07-29T00:12:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -319,9 +328,18 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 465,
+    "stars": 466,
     "updated_at": "2026-07-28T23:16:37Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33632,
+    "updated_at": "2026-07-28T23:14:30Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -340,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T23:12:23Z",
     "url": "https://github.com/elaz48/placeborag"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
-    "updated_at": "2026-07-28T23:00:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -400,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29521,
+    "stars": 29522,
     "updated_at": "2026-07-28T22:11:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:54:23Z",
     "url": "https://github.com/ANSHAM1/ResearchMind.AI"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33631,
-    "updated_at": "2026-07-28T23:14:30Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Reproducible corpus/churn/ledger harness for measuring RAG index decay across pgvector, Qdrant, and Chroma - replays 13 ",
