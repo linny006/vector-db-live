@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T04:45:24Z",
+    "updated_at": "2026-07-29T05:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:00:04Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-29T04:56:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
+    "id": "treygrainger/ai-powered-search",
+    "language": "Jupyter Notebook",
+    "name": "treygrainger/ai-powered-search",
+    "stars": 400,
+    "updated_at": "2026-07-29T04:54:09Z",
+    "url": "https://github.com/treygrainger/ai-powered-search"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1870,
+    "updated_at": "2026-07-29T04:54:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "End-to-end distributed AI Data Engineering pipeline using Databricks PySpark, OpenAI Embeddings, and Pinecone Vector DB ",
+    "id": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
+    "language": "Jupyter Notebook",
+    "name": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:51:58Z",
+    "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:48:33Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1047,
+    "updated_at": "2026-07-29T04:48:25Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T04:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -63,15 +135,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T04:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
     "id": "oscargbocanegra/llms-engineering-main",
     "language": "Jupyter Notebook",
@@ -117,15 +180,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1047,
-    "updated_at": "2026-07-29T04:38:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Find relevant Bible passages with semantic search",
     "id": "vainiovesa/vector_bible_api",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T04:02:27Z",
     "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "End-to-end distributed AI Data Engineering pipeline using Databricks PySpark, OpenAI Embeddings, and Pinecone Vector DB ",
-    "id": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
-    "language": "Jupyter Notebook",
-    "name": "yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:59:04Z",
-    "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -252,15 +297,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1870,
-    "updated_at": "2026-07-29T03:57:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A Python SDK for OceanBase Multimodal Store\u2014enabling vector search, full-text search, and JSON table operations\u2014offers b",
     "id": "oceanbase/pyobvector",
     "language": "Python",
@@ -297,15 +333,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 1,
-    "updated_at": "2026-07-29T02:20:04Z",
-    "url": "https://github.com/coolloic/Notebook"
-  },
-  {
     "description": "A RAG-based question answering system for the Bhagavad Gita using Hugging Face embeddings, a vector database, and the Ge",
     "id": "stutimahesh/GitaInsight-Engine",
     "language": "Python",
@@ -340,15 +367,6 @@
     "stars": 2216,
     "updated_at": "2026-07-29T01:28:47Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:22:29Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-29T00:15:14Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-29T00:08:52Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "A hierarchical, self-distilling memory system for long-term AI Agents. Features L0-L3 storage architecture, multi-tenant",
-    "id": "DingdongMatch/mems",
-    "language": "Python",
-    "name": "DingdongMatch/mems",
-    "stars": 2,
-    "updated_at": "2026-07-29T00:06:07Z",
-    "url": "https://github.com/DingdongMatch/mems"
   }
 ]
