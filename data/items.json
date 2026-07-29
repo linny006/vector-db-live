@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-29T05:30:27Z",
+    "updated_at": "2026-07-29T05:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,53 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1870,
-    "updated_at": "2026-07-29T05:28:34Z",
+    "updated_at": "2026-07-29T05:44:20Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-29T05:43:44Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:37:47Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:36:07Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 59,
+    "updated_at": "2026-07-29T05:36:09Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -27,12 +72,21 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1048,
+    "updated_at": "2026-07-29T05:21:59Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
     "stars": 12738,
-    "updated_at": "2026-07-29T05:20:13Z",
+    "updated_at": "2026-07-29T05:45:24Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T05:18:39Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T05:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 79,
-    "updated_at": "2026-07-29T05:28:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
@@ -121,7 +157,7 @@
     "id": "treygrainger/ai-powered-search",
     "language": "Jupyter Notebook",
     "name": "treygrainger/ai-powered-search",
-    "stars": 400,
+    "stars": 401,
     "updated_at": "2026-07-29T04:54:09Z",
     "url": "https://github.com/treygrainger/ai-powered-search"
   },
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T04:48:33Z",
     "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1047,
-    "updated_at": "2026-07-29T05:21:59Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -225,15 +252,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 59,
-    "updated_at": "2026-07-29T05:16:53Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "r-xue/ragdoll",
     "stars": 0,
-    "updated_at": "2026-07-29T05:24:15Z",
+    "updated_at": "2026-07-29T05:36:20Z",
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T01:21:27Z",
     "url": "https://github.com/iszgroup/rag-and-knowledge-recipes"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 325,
-    "updated_at": "2026-07-29T01:15:12Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10223,
-    "updated_at": "2026-07-29T01:01:00Z",
-    "url": "https://github.com/oceanbase/oceanbase"
   }
 ]
