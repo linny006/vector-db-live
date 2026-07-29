@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Dakera-AI/dakera-py",
+    "stars": 5,
+    "updated_at": "2026-07-29T16:49:03Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "Vijay190899/disclosure-rag",
     "stars": 0,
-    "updated_at": "2026-07-29T16:44:15Z",
+    "updated_at": "2026-07-29T16:48:38Z",
     "url": "https://github.com/Vijay190899/disclosure-rag"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1051,
+    "updated_at": "2026-07-29T16:45:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -32,7 +59,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 835,
-    "updated_at": "2026-07-29T16:42:46Z",
+    "updated_at": "2026-07-29T16:48:54Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 95,
-    "updated_at": "2026-07-29T16:40:11Z",
+    "updated_at": "2026-07-29T16:45:48Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T16:39:54Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1051,
-    "updated_at": "2026-07-29T16:39:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
@@ -104,17 +122,8 @@
     "language": "TypeScript",
     "name": "manasdb/manasdb",
     "stars": 3,
-    "updated_at": "2026-07-29T16:30:36Z",
+    "updated_at": "2026-07-29T16:50:51Z",
     "url": "https://github.com/manasdb/manasdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1871,
-    "updated_at": "2026-07-29T16:16:29Z",
+    "updated_at": "2026-07-29T16:46:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29545,
-    "updated_at": "2026-07-29T16:32:45Z",
+    "updated_at": "2026-07-29T16:50:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 238,
-    "updated_at": "2026-07-29T16:41:34Z",
+    "updated_at": "2026-07-29T16:48:11Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T14:49:57Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-29T14:42:32Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
