@@ -1,5 +1,59 @@
 [
   {
+    "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 12738,
+    "updated_at": "2026-07-29T05:11:55Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 79,
+    "updated_at": "2026-07-29T05:11:01Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
+    "id": "oscargbocanegra/llms-engineering-main",
+    "language": "Jupyter Notebook",
+    "name": "oscargbocanegra/llms-engineering-main",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:07:51Z",
+    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:05:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-07-29T05:10:33Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "siaarzh/scrybe",
     "stars": 3,
-    "updated_at": "2026-07-29T05:00:04Z",
+    "updated_at": "2026-07-29T05:01:33Z",
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
@@ -68,17 +122,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1047,
-    "updated_at": "2026-07-29T04:48:25Z",
+    "updated_at": "2026-07-29T05:05:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T04:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -135,15 +180,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:25:24Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
     "description": "Production-ready RAG-based HR Leave Policy Assistant using LangChain, ChromaDB, Groq Llama, FastAPI, and React for accur",
     "id": "Srujana-Eedara/Affine_LeavePolicy_RAG",
     "language": "JavaScript",
@@ -198,15 +234,6 @@
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T03:39:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -238,7 +265,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64031,
+    "stars": 64033,
     "updated_at": "2026-07-29T03:26:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 112,
     "updated_at": "2026-07-29T01:40:32Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:29:50Z",
-    "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4413,
-    "updated_at": "2026-07-29T00:49:31Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-07-29T00:15:14Z",
-    "url": "https://github.com/thameema/memnos"
   }
 ]
