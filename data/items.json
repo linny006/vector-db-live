@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T21:30:22Z",
+    "updated_at": "2026-07-30T21:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12769,
+    "updated_at": "2026-07-30T21:43:22Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T21:40:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-30T21:39:55Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:31:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
@@ -49,7 +76,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29605,
+    "stars": 29604,
     "updated_at": "2026-07-30T21:19:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -108,13 +135,22 @@
     "url": "https://github.com/tryAGI/Weaviate"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T20:59:40Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 38,
+    "updated_at": "2026-07-30T21:04:15Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
+    "id": "Tunolabs/xyzdb",
+    "language": "Rust",
+    "name": "Tunolabs/xyzdb",
+    "stars": 4,
+    "updated_at": "2026-07-30T21:03:40Z",
+    "url": "https://github.com/Tunolabs/xyzdb"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -124,15 +160,6 @@
     "stars": 239,
     "updated_at": "2026-07-30T21:02:07Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 37,
-    "updated_at": "2026-07-30T21:04:15Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Vector DB implementation in Mojo",
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T21:25:18Z",
+    "updated_at": "2026-07-30T21:44:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33681,
-    "updated_at": "2026-07-30T20:59:33Z",
+    "updated_at": "2026-07-30T21:43:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T19:41:34Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-30T20:15:11Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -387,15 +405,6 @@
     "url": "https://github.com/Dakera-AI/dakera-js"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12769,
-    "updated_at": "2026-07-30T19:28:20Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
     "id": "Unnati1401/rag-assistant",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1606,
     "updated_at": "2026-07-30T20:44:43Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-30T18:24:49Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
