@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T04:00:18Z",
+    "updated_at": "2026-07-30T04:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T04:14:32Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45421,
+    "updated_at": "2026-07-30T04:14:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 238,
+    "updated_at": "2026-07-30T04:09:59Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 9,
+    "updated_at": "2026-07-30T04:07:40Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-30T04:07:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1051,
+    "updated_at": "2026-07-30T04:05:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T04:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -34,15 +97,6 @@
     "stars": 77,
     "updated_at": "2026-07-30T03:56:01Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45421,
-    "updated_at": "2026-07-30T03:55:11Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Vector database service built on Milvus.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/api-evangelist/upstash"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -180,15 +225,6 @@
     "url": "https://github.com/api-evangelist/marqo"
   },
   {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:21:57Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
     "id": "api-evangelist/lf-ai-and-data",
     "language": "\u2014",
@@ -230,7 +266,7 @@
     "language": "\u2014",
     "name": "jmcgrath207/conproxy",
     "stars": 0,
-    "updated_at": "2026-07-30T03:53:28Z",
+    "updated_at": "2026-07-30T04:13:30Z",
     "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 1152,
     "updated_at": "2026-07-30T03:05:05Z",
     "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-30T03:04:47Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T02:46:04Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 238,
-    "updated_at": "2026-07-30T03:45:22Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "MCP-powered RAG assistant for engineering incident investigation using Python, Streamlit, ChromaDB, semantic retrieval, ",
@@ -349,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T02:07:06Z",
     "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1051,
-    "updated_at": "2026-07-30T03:44:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -439,14 +448,5 @@
     "stars": 187,
     "updated_at": "2026-07-30T01:23:53Z",
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:26:07Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   }
 ]
