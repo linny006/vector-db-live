@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2037,
+    "updated_at": "2026-07-30T19:00:21Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-07-30T18:55:36Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1054,
+    "updated_at": "2026-07-30T18:54:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12769,
+    "updated_at": "2026-07-30T18:55:01Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1054,
-    "updated_at": "2026-07-30T18:45:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29600,
+    "updated_at": "2026-07-30T18:43:42Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
@@ -40,7 +85,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34921,
+    "stars": 34922,
     "updated_at": "2026-07-30T18:38:46Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -54,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12769,
-    "updated_at": "2026-07-30T18:44:20Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "An AI-powered PDF Question Answering application using LangChain RAG architecture, FAISS vector database, Hugging Face e",
     "id": "subashng/PDF-RAG-CHATBOT",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/subashng/PDF-RAG-CHATBOT"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29598,
-    "updated_at": "2026-07-30T18:43:42Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 1606,
     "updated_at": "2026-07-30T18:43:49Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -216,21 +234,12 @@
     "url": "https://github.com/eabhi-me/ChatPDF"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2037,
-    "updated_at": "2026-07-30T17:43:49Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7905,
-    "updated_at": "2026-07-30T18:15:16Z",
+    "updated_at": "2026-07-30T18:59:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6199,
-    "updated_at": "2026-07-30T18:24:46Z",
+    "updated_at": "2026-07-30T18:50:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6302,
-    "updated_at": "2026-07-30T18:42:05Z",
+    "updated_at": "2026-07-30T18:58:07Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33679,
-    "updated_at": "2026-07-30T18:41:50Z",
+    "updated_at": "2026-07-30T18:48:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:39:24Z",
     "url": "https://github.com/iharshkaran/ai-assistant"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:37:58Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
   }
 ]
