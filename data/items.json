@@ -1,11 +1,47 @@
 [
   {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-30T09:10:31Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-07-30T09:09:11Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-07-30T09:02:52Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T09:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T09:00:25Z",
+    "updated_at": "2026-07-30T09:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,6 +52,15 @@
     "stars": 4,
     "updated_at": "2026-07-30T08:59:19Z",
     "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6198,
+    "updated_at": "2026-07-30T09:13:40Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-30T08:53:34Z",
+    "updated_at": "2026-07-30T09:09:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 75,
     "updated_at": "2026-07-30T08:51:31Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6199,
-    "updated_at": "2026-07-30T08:57:49Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -90,22 +126,22 @@
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T08:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29579,
-    "updated_at": "2026-07-30T08:45:06Z",
+    "updated_at": "2026-07-30T09:04:42Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33672,
+    "updated_at": "2026-07-30T08:40:43Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
@@ -121,7 +157,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45423,
+    "stars": 45424,
     "updated_at": "2026-07-30T08:38:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -261,15 +297,6 @@
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33671,
-    "updated_at": "2026-07-30T08:40:43Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Companion code project for the ebook Vector Database Engineering for AI \u2014 Building High-Performance Retrieval Systems fo",
     "id": "lamhotsiagian/vector-database-engineering",
     "language": "Python",
@@ -369,15 +396,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-07-30T06:51:32Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
     "id": "Soumiya-33/Rag-core",
     "language": "\u2014",
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "amikos-tech/chroma-go",
     "stars": 207,
-    "updated_at": "2026-07-30T05:57:15Z",
+    "updated_at": "2026-07-30T09:10:37Z",
     "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T05:52:37Z",
     "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2037,
-    "updated_at": "2026-07-30T05:48:14Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type",
-    "id": "Zain0189/HR-Onboarding-n8n-platform",
-    "language": "\u2014",
-    "name": "Zain0189/HR-Onboarding-n8n-platform",
-    "stars": 0,
-    "updated_at": "2026-07-30T05:46:38Z",
-    "url": "https://github.com/Zain0189/HR-Onboarding-n8n-platform"
   }
 ]
