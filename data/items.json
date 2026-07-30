@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T03:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:58:57Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-30T02:56:23Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "API and integration profile for Azure Cosmos DB.",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:49:37Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "RAG document assistant with a real MCP client-server architecture (Streamlit host + FastMCP server) powered by NVIDIA Ne",
+    "id": "ADITYA22110016/document-copilot-mcp-nemotron",
+    "language": "Python",
+    "name": "ADITYA22110016/document-copilot-mcp-nemotron",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:47:19Z",
+    "url": "https://github.com/ADITYA22110016/document-copilot-mcp-nemotron"
+  },
+  {
+    "description": "API and integration profile for Aerospike.",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:46:04Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T02:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 238,
+    "updated_at": "2026-07-30T02:45:19Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 3,
     "updated_at": "2026-07-30T02:44:30Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "MCP-powered RAG assistant for engineering incident investigation using Python, Streamlit, ChromaDB, semantic retrieval, ",
+    "id": "vp1410/opslens-ai",
+    "language": "Python",
+    "name": "vp1410/opslens-ai",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:40:00Z",
+    "url": "https://github.com/vp1410/opslens-ai"
   },
   {
     "description": "A Lucene codec for vector search and clustering on the GPU",
@@ -25,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T02:36:38Z",
     "url": "https://github.com/sloptycoon/revive"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T02:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T02:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:29:24Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-30T00:14:33Z",
+    "updated_at": "2026-07-30T02:47:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T22:22:54Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33657,
-    "updated_at": "2026-07-29T22:21:53Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "This intelligent drug analysis platform uses ChromaDB and AI to search for and analyze drugs.",
-    "id": "Thitrongdan202/MediSearch-with-Chroma-DB",
-    "language": "Jupyter Notebook",
-    "name": "Thitrongdan202/MediSearch-with-Chroma-DB",
-    "stars": 2,
-    "updated_at": "2026-07-29T22:16:06Z",
-    "url": "https://github.com/Thitrongdan202/MediSearch-with-Chroma-DB"
-  },
-  {
-    "description": "Enterprise AI Knowledge Platform leveraging RAG, semantic search, vector embeddings, and LLMs to transform organisationa",
-    "id": "DMandar8/DocMinr.ai",
-    "language": "JavaScript",
-    "name": "DMandar8/DocMinr.ai",
-    "stars": 0,
-    "updated_at": "2026-07-29T21:26:24Z",
-    "url": "https://github.com/DMandar8/DocMinr.ai"
-  },
-  {
-    "description": "CacheRAG \u2014 An efficient RAG optimization pipeline using exact caching, semantic caching, and MMR reranking to reduce LLM",
-    "id": "prajvalsharma18/cacheRAG",
-    "language": "JavaScript",
-    "name": "prajvalsharma18/cacheRAG",
-    "stars": 0,
-    "updated_at": "2026-07-29T21:18:16Z",
-    "url": "https://github.com/prajvalsharma18/cacheRAG"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6297,
-    "updated_at": "2026-07-30T00:44:07Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-07-29T21:14:07Z",
-    "url": "https://github.com/getbullet-app/paraql"
   }
 ]
