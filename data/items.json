@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T15:00:25Z",
+    "updated_at": "2026-07-30T15:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1054,
+    "updated_at": "2026-07-30T15:12:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:04:22Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -14,8 +32,53 @@
     "language": "JavaScript",
     "name": "Senthilsivam41/kinegraph-v",
     "stars": 0,
-    "updated_at": "2026-07-30T14:53:53Z",
+    "updated_at": "2026-07-30T15:02:44Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
+    "id": "aamirabbas858/rag-research-agent",
+    "language": "Python",
+    "name": "aamirabbas858/rag-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:11:33Z",
+    "url": "https://github.com/aamirabbas858/rag-research-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:59:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-07-30T14:58:52Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11035,
+    "updated_at": "2026-07-30T14:56:43Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "",
@@ -36,13 +99,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16672,
+    "updated_at": "2026-07-30T14:45:27Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
@@ -95,7 +158,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-07-30T14:52:19Z",
+    "updated_at": "2026-07-30T15:06:39Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -144,31 +207,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1054,
-    "updated_at": "2026-07-30T14:19:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33678,
-    "updated_at": "2026-07-30T14:54:59Z",
+    "updated_at": "2026-07-30T15:10:08Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T14:16:31Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29585,
-    "updated_at": "2026-07-30T14:58:02Z",
+    "updated_at": "2026-07-30T15:13:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T14:57:35Z",
+    "updated_at": "2026-07-30T15:08:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:21:38Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16671,
-    "updated_at": "2026-07-30T14:45:27Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T12:26:52Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Local AI-powered document intelligence platform that uses RAG , FAISS , Ollama , and Streamlit to generate notes , quizz",
-    "id": "mananofc24-ui/DocXplorer",
-    "language": "Python",
-    "name": "mananofc24-ui/DocXplorer",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:26:25Z",
-    "url": "https://github.com/mananofc24-ui/DocXplorer"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:59:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:47:49Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6300,
-    "updated_at": "2026-07-30T12:19:20Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
