@@ -1,21 +1,102 @@
 [
   {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:56:13Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
+    "id": "aamirabbas858/rag-research-agent",
+    "language": "Python",
+    "name": "aamirabbas858/rag-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:55:32Z",
+    "url": "https://github.com/aamirabbas858/rag-research-agent"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-30T15:54:38Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:53:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T15:51:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29587,
+    "updated_at": "2026-07-30T15:56:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 454,
+    "updated_at": "2026-07-30T15:46:29Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
     "id": "TAIPANBOX/engram",
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 1,
-    "updated_at": "2026-07-30T15:44:29Z",
+    "updated_at": "2026-07-30T15:59:58Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:36:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:43:34Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
@@ -25,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:43:16Z",
     "url": "https://github.com/ana738-bit/music-recommender-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:36:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -63,33 +153,6 @@
     "url": "https://github.com/apex-bridge/bugspotter-intelligence"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29586,
-    "updated_at": "2026-07-30T15:43:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
@@ -115,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:21:01Z",
     "url": "https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T15:16:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
-    "id": "aamirabbas858/rag-research-agent",
-    "language": "Python",
-    "name": "aamirabbas858/rag-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:39:27Z",
-    "url": "https://github.com/aamirabbas858/rag-research-agent"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-30T14:38:38Z",
+    "updated_at": "2026-07-30T15:58:42Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -311,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7904,
-    "updated_at": "2026-07-30T15:45:00Z",
+    "updated_at": "2026-07-30T15:48:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T14:04:10Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:56:55Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -412,41 +448,5 @@
     "stars": 372,
     "updated_at": "2026-07-30T13:34:12Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "RAG system answering financial compliance questions with page-level citations. Gemini embeddings, Chroma vector store, F",
-    "id": "Ammar-Soliman7/financial-compliance-rag",
-    "language": "Python",
-    "name": "Ammar-Soliman7/financial-compliance-rag",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:34:00Z",
-    "url": "https://github.com/Ammar-Soliman7/financial-compliance-rag"
-  },
-  {
-    "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
-    "id": "Metaworkers-ai/governedmemory",
-    "language": "Python",
-    "name": "Metaworkers-ai/governedmemory",
-    "stars": 8,
-    "updated_at": "2026-07-30T13:57:32Z",
-    "url": "https://github.com/Metaworkers-ai/governedmemory"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6198,
-    "updated_at": "2026-07-30T15:44:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:21:38Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   }
 ]
