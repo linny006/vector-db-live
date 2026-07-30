@@ -1,11 +1,74 @@
 [
   {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-07-30T20:10:36Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:09:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High-performance vector database & RAG memory layer - hybrid search, embeddings, RAPTOR trees, BM25 fusion for AI system",
+    "id": "reasonkit/reasonkit-mem",
+    "language": "Rust",
+    "name": "reasonkit/reasonkit-mem",
+    "stars": 6,
+    "updated_at": "2026-07-30T20:09:47Z",
+    "url": "https://github.com/reasonkit/reasonkit-mem"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-07-30T20:09:12Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 51,
+    "updated_at": "2026-07-30T20:08:48Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 38,
+    "updated_at": "2026-07-30T20:08:24Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "A browser app presenting data from the Georgia Project. ",
+    "id": "KatherineMossDeveloper/Midnight-Train",
+    "language": "TypeScript",
+    "name": "KatherineMossDeveloper/Midnight-Train",
+    "stars": 1,
+    "updated_at": "2026-07-30T20:03:24Z",
+    "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-30T20:00:33Z",
+    "updated_at": "2026-07-30T20:01:44Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T19:58:44Z",
+    "updated_at": "2026-07-30T20:11:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 39,
-    "updated_at": "2026-07-30T19:52:04Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -77,17 +131,8 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 111,
-    "updated_at": "2026-07-30T20:00:07Z",
+    "updated_at": "2026-07-30T20:08:59Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-07-30T19:48:57Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -122,7 +167,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-30T19:40:36Z",
+    "updated_at": "2026-07-30T20:15:11Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -142,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-07-30T19:31:09Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29602,
+    "updated_at": "2026-07-30T20:14:56Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI BootCamp & Support Ops Copilot",
@@ -187,15 +241,6 @@
     "stars": 6303,
     "updated_at": "2026-07-30T19:48:00Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29601,
-    "updated_at": "2026-07-30T19:30:43Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -320,7 +365,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-07-30T18:16:39Z",
+    "updated_at": "2026-07-30T20:14:42Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 9,
     "updated_at": "2026-07-30T18:15:56Z",
     "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:08:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-07-30T17:57:20Z",
+    "updated_at": "2026-07-30T20:13:22Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7905,
     "updated_at": "2026-07-30T18:59:26Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6199,
-    "updated_at": "2026-07-30T19:41:53Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Intelligent memory system for AI agents with semantic search, knowledge graphs, and multi-hop reasoning. <200ms P95 late",
-    "id": "fitz2882/vesper-memory",
-    "language": "TypeScript",
-    "name": "fitz2882/vesper-memory",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:38:18Z",
-    "url": "https://github.com/fitz2882/vesper-memory"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-30T17:38:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16674,
-    "updated_at": "2026-07-30T19:15:14Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
