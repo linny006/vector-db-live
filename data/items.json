@@ -1,5 +1,86 @@
 [
   {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:43:33Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Search retrieval cache for agentic RAG",
+    "id": "jmcgrath207/conproxy",
+    "language": "Rust",
+    "name": "jmcgrath207/conproxy",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:42:08Z",
+    "url": "https://github.com/jmcgrath207/conproxy"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-07-30T19:41:34Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-30T19:40:36Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 454,
+    "updated_at": "2026-07-30T19:37:24Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-07-30T19:36:37Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3163,
+    "updated_at": "2026-07-30T19:33:35Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:31:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T19:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI/ML",
+    "description": "AI BootCamp & Support Ops Copilot",
     "id": "mashal-shakeel/tech",
     "language": "\u2014",
     "name": "mashal-shakeel/tech",
     "stars": 0,
     "updated_at": "2026-07-30T19:27:14Z",
     "url": "https://github.com/mashal-shakeel/tech"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3163,
-    "updated_at": "2026-07-30T19:24:48Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6303,
-    "updated_at": "2026-07-30T19:28:57Z",
+    "updated_at": "2026-07-30T19:38:52Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29601,
-    "updated_at": "2026-07-30T19:19:34Z",
+    "updated_at": "2026-07-30T19:30:43Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 454,
-    "updated_at": "2026-07-30T19:16:25Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33680,
-    "updated_at": "2026-07-30T19:29:16Z",
+    "updated_at": "2026-07-30T19:44:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "pinecone-io/pinecone-ts-client",
     "stars": 275,
-    "updated_at": "2026-07-30T19:06:03Z",
+    "updated_at": "2026-07-30T19:40:34Z",
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T19:21:28Z",
+    "updated_at": "2026-07-30T19:39:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -184,18 +238,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34922,
+    "stars": 34920,
     "updated_at": "2026-07-30T18:38:46Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:38:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An AI-powered PDF Question Answering application using LangChain RAG architecture, FAISS vector database, Hugging Face e",
@@ -297,15 +342,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-07-30T18:01:34Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
     "description": "\ud83e\udde0 Memoria local para agentes IA v\u00eda MCP. Drop-in para Claude Code, OpenCode, Cursor, Continue. Python + FastMCP + Qdrant",
     "id": "GermaniU/mcp-memory",
     "language": "Python",
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6199,
-    "updated_at": "2026-07-30T19:27:54Z",
+    "updated_at": "2026-07-30T19:41:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-30T17:29:38Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-30T18:13:44Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Enterprise-grade AI commerce platform built with Go, Ollama, RAG, SQLite, OpenTelemetry, Arize Phoenix, and automated LL",
-    "id": "mayankanup/commerce-ai-platform",
-    "language": "Go",
-    "name": "mayankanup/commerce-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:27:49Z",
-    "url": "https://github.com/mayankanup/commerce-ai-platform"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 324,
-    "updated_at": "2026-07-30T17:26:39Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "",
-    "id": "jmcgrath207/conproxy",
-    "language": "Rust",
-    "name": "jmcgrath207/conproxy",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:19:27Z",
-    "url": "https://github.com/jmcgrath207/conproxy"
   }
 ]
