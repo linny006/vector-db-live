@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T12:45:20Z",
+    "updated_at": "2026-07-30T13:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
+    "id": "tanayProbo/titan",
+    "language": "HTML",
+    "name": "tanayProbo/titan",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:59:37Z",
+    "url": "https://github.com/tanayProbo/titan"
+  },
+  {
+    "description": "",
+    "id": "roshnn-sahu/Documate-AI",
+    "language": "TypeScript",
+    "name": "roshnn-sahu/Documate-AI",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:54:49Z",
+    "url": "https://github.com/roshnn-sahu/Documate-AI"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-30T12:52:36Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7034,
+    "updated_at": "2026-07-30T12:51:57Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -14,8 +50,62 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34916,
-    "updated_at": "2026-07-30T12:42:41Z",
+    "updated_at": "2026-07-30T12:51:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T12:50:27Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-07-30T12:49:49Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 420,
+    "updated_at": "2026-07-30T12:53:33Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3162,
+    "updated_at": "2026-07-30T12:47:21Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 88,
+    "updated_at": "2026-07-30T12:55:04Z",
+    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -25,15 +115,6 @@
     "stars": 58796,
     "updated_at": "2026-07-30T12:38:56Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -63,15 +144,6 @@
     "url": "https://github.com/mananofc24-ui/DocXplorer"
   },
   {
-    "description": "",
-    "id": "roshnn-sahu/Documate-AI",
-    "language": "TypeScript",
-    "name": "roshnn-sahu/Documate-AI",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:22:13Z",
-    "url": "https://github.com/roshnn-sahu/Documate-AI"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29583,
-    "updated_at": "2026-07-30T12:28:52Z",
+    "updated_at": "2026-07-30T12:59:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -122,26 +194,8 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 705,
-    "updated_at": "2026-07-30T12:11:15Z",
+    "updated_at": "2026-07-30T12:55:05Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T12:10:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T12:10:07Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T12:43:43Z",
+    "updated_at": "2026-07-30T12:55:57Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -202,7 +256,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45428,
+    "stars": 45430,
     "updated_at": "2026-07-30T11:58:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33677,
-    "updated_at": "2026-07-30T12:40:43Z",
+    "updated_at": "2026-07-30T12:57:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 16671,
     "updated_at": "2026-07-30T12:44:04Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-07-30T11:41:31Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -333,24 +378,6 @@
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 420,
-    "updated_at": "2026-07-30T12:18:10Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-30T12:39:36Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -358,15 +385,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T10:41:55Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
-    "id": "tanayProbo/titan",
-    "language": "HTML",
-    "name": "tanayProbo/titan",
-    "stars": 1,
-    "updated_at": "2026-07-30T10:27:46Z",
-    "url": "https://github.com/tanayProbo/titan"
   },
   {
     "description": "Find relevant Bible passages with semantic search",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T09:51:27Z",
     "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12742,
-    "updated_at": "2026-07-30T09:47:48Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-30T09:43:35Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
   }
 ]
