@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:11:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33668,
+    "updated_at": "2026-07-30T07:06:43Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
@@ -14,26 +41,8 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1341,
-    "updated_at": "2026-07-30T07:05:57Z",
+    "updated_at": "2026-07-30T07:14:34Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45421,
-    "updated_at": "2026-07-30T04:24:17Z",
+    "updated_at": "2026-07-30T07:14:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:21:27Z",
     "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:21:00Z",
-    "url": "https://github.com/api-evangelist/lancedb"
   }
 ]
