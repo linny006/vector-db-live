@@ -1,12 +1,66 @@
 [
   {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-07-30T21:13:25Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "The official Rust client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-rust-client",
+    "language": "Rust",
+    "name": "pinecone-io/pinecone-rust-client",
+    "stars": 23,
+    "updated_at": "2026-07-30T21:13:16Z",
+    "url": "https://github.com/pinecone-io/pinecone-rust-client"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 275,
+    "updated_at": "2026-07-30T21:08:13Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:07:49Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:05:55Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T21:00:22Z",
+    "updated_at": "2026-07-30T21:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 239,
-    "updated_at": "2026-07-30T20:58:12Z",
+    "updated_at": "2026-07-30T21:02:07Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
     "stars": 37,
-    "updated_at": "2026-07-30T20:55:17Z",
+    "updated_at": "2026-07-30T21:04:15Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/redis-developer/redis-ai-resources"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
@@ -97,15 +142,6 @@
     "stars": 29604,
     "updated_at": "2026-07-30T20:57:12Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-07-30T20:31:05Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Search retrieval cache for agentic RAG",
@@ -142,15 +178,6 @@
     "stars": 77,
     "updated_at": "2026-07-30T20:19:16Z",
     "url": "https://github.com/vcache-project/vCache"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 275,
-    "updated_at": "2026-07-30T20:15:38Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -221,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T20:42:19Z",
+    "updated_at": "2026-07-30T21:12:36Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 8,
     "updated_at": "2026-07-30T19:24:29Z",
     "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:23:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-30T18:15:56Z",
     "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
-    "id": "KashifMaqbool/Generative_AI_Engineering_Specialization",
-    "language": "Jupyter Notebook",
-    "name": "KashifMaqbool/Generative_AI_Engineering_Specialization",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:06:12Z",
-    "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
-  },
-  {
-    "description": "AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener",
-    "id": "maheshchandr26/ResearchOS",
-    "language": "TypeScript",
-    "name": "maheshchandr26/ResearchOS",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:03:36Z",
-    "url": "https://github.com/maheshchandr26/ResearchOS"
   }
 ]
