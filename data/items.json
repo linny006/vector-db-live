@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T08:30:21Z",
+    "updated_at": "2026-07-30T08:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-07-30T08:40:50Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-07-30T08:40:08Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12740,
+    "updated_at": "2026-07-30T08:40:52Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45423,
+    "updated_at": "2026-07-30T08:38:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 1,
+    "updated_at": "2026-07-30T08:43:34Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "Production-pattern RAG assistant for HR policy Q&A and workforce analytics \u2014 grounded, cited, and hallucination-resistan",
+    "id": "xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant",
+    "language": "Python",
+    "name": "xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-30T08:32:58Z",
+    "url": "https://github.com/xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant"
+  },
+  {
+    "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
+    "id": "GenAIwithMS/OpenGPT",
+    "language": "Python",
+    "name": "GenAIwithMS/OpenGPT",
+    "stars": 4,
+    "updated_at": "2026-07-30T08:31:33Z",
+    "url": "https://github.com/GenAIwithMS/OpenGPT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -45,15 +117,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Production-pattern RAG assistant for HR policy Q&A and workforce analytics \u2014 grounded, cited, and hallucination-resistan",
-    "id": "xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant",
-    "language": "Python",
-    "name": "xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-30T08:25:47Z",
-    "url": "https://github.com/xxxxxKINGxxxxx/Enterprise-HR-AI-Assistant"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T08:24:35Z",
+    "updated_at": "2026-07-30T08:38:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45422,
-    "updated_at": "2026-07-30T08:30:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -126,15 +180,6 @@
     "url": "https://github.com/vainiovesa/vector_bible_api"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T08:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -144,31 +189,13 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-07-30T08:08:41Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-30T08:06:47Z",
+    "updated_at": "2026-07-30T08:32:54Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12740,
-    "updated_at": "2026-07-30T08:02:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33671,
-    "updated_at": "2026-07-30T08:11:53Z",
+    "updated_at": "2026-07-30T08:40:43Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -223,6 +250,15 @@
     "stars": 3,
     "updated_at": "2026-07-30T07:39:32Z",
     "url": "https://github.com/lamhotsiagian/vector-database-engineering"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15321,
+    "updated_at": "2026-07-30T07:36:24Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -412,41 +448,5 @@
     "stars": 6298,
     "updated_at": "2026-07-30T07:56:09Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A Domain-Specific RAG (Retrieval-Augmented Generation) chatbot built using Python, LangChain, FAISS, and Streamlit.",
-    "id": "shrijitchoudhari3-maker/Domain-Rag-bot",
-    "language": "Python",
-    "name": "shrijitchoudhari3-maker/Domain-Rag-bot",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:07:47Z",
-    "url": "https://github.com/shrijitchoudhari3-maker/Domain-Rag-bot"
-  },
-  {
-    "description": "AI-powered RAG app to chat with any PDF book - upload a PDF and get grounded, cited answers using LangChain, Mistral AI,",
-    "id": "garvkumarsharma/RAGVerse-AI-Project",
-    "language": "Python",
-    "name": "garvkumarsharma/RAGVerse-AI-Project",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:52:17Z",
-    "url": "https://github.com/garvkumarsharma/RAGVerse-AI-Project"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-07-30T08:21:06Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-07-30T04:22:43Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   }
 ]
