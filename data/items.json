@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T22:00:46Z",
+    "updated_at": "2026-07-30T22:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:06:27Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64133,
+    "updated_at": "2026-07-30T22:02:58Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:02:34Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:00:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33682,
+    "updated_at": "2026-07-30T21:58:44Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-30T21:57:25Z",
+    "updated_at": "2026-07-30T22:12:49Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-07-30T21:56:28Z",
+    "updated_at": "2026-07-30T22:06:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T21:50:28Z",
+    "updated_at": "2026-07-30T22:13:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/vul-os/basin"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -121,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29604,
+    "stars": 29605,
     "updated_at": "2026-07-30T21:19:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6304,
-    "updated_at": "2026-07-30T20:58:53Z",
+    "updated_at": "2026-07-30T22:13:27Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 77,
     "updated_at": "2026-07-30T20:19:16Z",
     "url": "https://github.com/vcache-project/vCache"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:14:42Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "High-performance vector database & RAG memory layer - hybrid search, embeddings, RAPTOR trees, BM25 fusion for AI system",
@@ -313,15 +340,6 @@
     "stars": 324,
     "updated_at": "2026-07-30T19:53:22Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33681,
-    "updated_at": "2026-07-30T21:58:44Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Profile README",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T18:42:39Z",
     "url": "https://github.com/Unnati1401/rag-assistant"
-  },
-  {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-07-30T18:41:06Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34921,
-    "updated_at": "2026-07-30T18:38:46Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
