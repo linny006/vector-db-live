@@ -1,11 +1,56 @@
 [
   {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-07-30T05:57:15Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 1,
+    "updated_at": "2026-07-30T05:52:37Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2036,
+    "updated_at": "2026-07-30T05:48:14Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type",
+    "id": "Zain0189/HR-Onboarding-n8n-platform",
+    "language": "\u2014",
+    "name": "Zain0189/HR-Onboarding-n8n-platform",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:46:38Z",
+    "url": "https://github.com/Zain0189/HR-Onboarding-n8n-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T05:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T05:45:21Z",
+    "updated_at": "2026-07-30T06:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,22 +72,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2036,
-    "updated_at": "2026-07-30T05:33:52Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T05:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6298,
+    "updated_at": "2026-07-30T05:30:14Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T02:47:19Z",
     "url": "https://github.com/ADITYA22110016/document-copilot-mcp-nemotron"
-  },
-  {
-    "description": "API and integration profile for Aerospike.",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:46:04Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "MCP-powered RAG assistant for engineering incident investigation using Python, Streamlit, ChromaDB, semantic retrieval, ",
-    "id": "vp1410/opslens-ai",
-    "language": "Python",
-    "name": "vp1410/opslens-ai",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:40:00Z",
-    "url": "https://github.com/vp1410/opslens-ai"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-30T02:37:44Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Turn books, letters, and notebooks into AI personas grounded in the actual words \u2014 RAG architecture docs and examples",
-    "id": "sloptycoon/revive",
-    "language": "\u2014",
-    "name": "sloptycoon/revive",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:36:38Z",
-    "url": "https://github.com/sloptycoon/revive"
   }
 ]
