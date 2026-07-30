@@ -4,9 +4,36 @@
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:30:20Z",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34916,
+    "updated_at": "2026-07-30T12:42:41Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58796,
+    "updated_at": "2026-07-30T12:38:56Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -27,6 +54,15 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
+    "description": "Local AI-powered document intelligence platform that uses RAG , FAISS , Ollama , and Streamlit to generate notes , quizz",
+    "id": "mananofc24-ui/DocXplorer",
+    "language": "Python",
+    "name": "mananofc24-ui/DocXplorer",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:26:25Z",
+    "url": "https://github.com/mananofc24-ui/DocXplorer"
+  },
+  {
     "description": "",
     "id": "roshnn-sahu/Documate-AI",
     "language": "TypeScript",
@@ -36,20 +72,11 @@
     "url": "https://github.com/roshnn-sahu/Documate-AI"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34914,
-    "updated_at": "2026-07-30T12:26:46Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T12:21:40Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
@@ -81,20 +108,11 @@
     "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15322,
+    "stars": 15323,
     "updated_at": "2026-07-30T12:11:37Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -103,7 +121,7 @@
     "id": "neonwatty/meme-search",
     "language": "Ruby",
     "name": "neonwatty/meme-search",
-    "stars": 704,
+    "stars": 705,
     "updated_at": "2026-07-30T12:11:15Z",
     "url": "https://github.com/neonwatty/meme-search"
   },
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T12:11:47Z",
+    "updated_at": "2026-07-30T12:43:43Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -157,7 +175,7 @@
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T12:06:29Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/seyfe2023/AI-PDF-Assistant-RAG"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58795,
-    "updated_at": "2026-07-30T12:04:44Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33677,
-    "updated_at": "2026-07-30T12:17:09Z",
+    "updated_at": "2026-07-30T12:40:43Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -220,7 +229,7 @@
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T11:52:22Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "amikos-tech/chroma-go",
     "stars": 207,
-    "updated_at": "2026-07-30T11:52:50Z",
+    "updated_at": "2026-07-30T12:44:03Z",
     "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T12:26:40Z",
+    "updated_at": "2026-07-30T12:44:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-30T12:13:01Z",
+    "updated_at": "2026-07-30T12:39:36Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -374,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7904,
-    "updated_at": "2026-07-30T11:22:08Z",
+    "updated_at": "2026-07-30T12:32:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 112,
     "updated_at": "2026-07-30T09:43:35Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "A project built to understand Retrieval-Augmented Generation (RAG), including document loading, chunking, embeddings, ve",
-    "id": "Varshith019/rag-from-scratch",
-    "language": "Python",
-    "name": "Varshith019/rag-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:22:24Z",
-    "url": "https://github.com/Varshith019/rag-from-scratch"
   }
 ]
