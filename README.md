@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 13:14 UTC
+> ⏰ Last updated: 2026-07-30 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 10 | TypeScript | 2026-07-30 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and llama. Turns your entire workspace into |
-| 2 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1342 | Java | 2026-07-30 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [neonwatty/meme-search](https://github.com/neonwatty/meme-search) | 705 | Ruby | 2026-07-30 | The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker. |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [tanayProbo/titan](https://github.com/tanayProbo/titan) | 1 | Python | 2026-07-30 | TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29584 | Python | 2026-07-30 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 9 | [roshnn-sahu/Documate-AI](https://github.com/roshnn-sahu/Documate-AI) | 1 | TypeScript | 2026-07-30 |  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [roshnn-sahu/Documate-AI](https://github.com/roshnn-sahu/Documate-AI) | 1 | TypeScript | 2026-07-30 |  |
+| 4 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 10 | TypeScript | 2026-07-30 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and llama. Turns your entire workspace into |
+| 5 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1342 | Java | 2026-07-30 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [neonwatty/meme-search](https://github.com/neonwatty/meme-search) | 705 | Ruby | 2026-07-30 | The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker. |
+| 8 | [tanayProbo/titan](https://github.com/tanayProbo/titan) | 1 | Python | 2026-07-30 | TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine |
+| 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29584 | Python | 2026-07-30 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 10 | [Nikolay1994Kaz/storage_in_memory](https://github.com/Nikolay1994Kaz/storage_in_memory) | 6 | Go | 2026-07-30 | In-memory vector database with a Redis-compatible (RESP) API — HNSW + scalar quantization, multi-tenant filtered search, |
 | 11 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7034 | Java | 2026-07-30 | The AI search platform |
 | 12 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 34917 | Python | 2026-07-30 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
