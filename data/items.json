@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T02:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:14:39Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-30T02:12:49Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 476,
+    "updated_at": "2026-07-30T02:10:25Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
+    "id": "oscargbocanegra/llms-engineering-main",
+    "language": "Jupyter Notebook",
+    "name": "oscargbocanegra/llms-engineering-main",
+    "stars": 2,
+    "updated_at": "2026-07-30T02:07:06Z",
+    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45419,
+    "updated_at": "2026-07-30T02:06:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T02:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-30T01:59:35Z",
+    "updated_at": "2026-07-30T02:07:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,24 +90,6 @@
     "url": "https://github.com/yirongNg/Big-Data-Embedding-Semantic-Search-Pipeline"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
     "id": "infiniflow/infinity",
     "language": "C++",
@@ -61,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T01:37:33Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 476,
-    "updated_at": "2026-07-30T01:32:38Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
@@ -153,6 +189,15 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64082,
+    "updated_at": "2026-07-30T01:10:25Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 0,
-    "updated_at": "2026-07-30T00:27:54Z",
+    "updated_at": "2026-07-30T02:02:07Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:06:20Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -295,15 +331,6 @@
     "stars": 7905,
     "updated_at": "2026-07-29T23:05:26Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64081,
-    "updated_at": "2026-07-30T01:10:25Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -337,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33656,
+    "stars": 33657,
     "updated_at": "2026-07-29T22:21:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -358,15 +385,6 @@
     "stars": 8,
     "updated_at": "2026-07-29T21:37:21Z",
     "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45418,
-    "updated_at": "2026-07-29T21:30:17Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Enterprise AI Knowledge Platform leveraging RAG, semantic search, vector embeddings, and LLMs to transform organisationa",
@@ -430,23 +448,5 @@
     "stars": 77,
     "updated_at": "2026-07-29T20:43:48Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-07-29T20:20:44Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-30T01:53:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
