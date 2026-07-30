@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-07-30T08:11:38Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-07-30T08:08:41Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9401,
+    "updated_at": "2026-07-30T08:06:47Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12738,
+    "updated_at": "2026-07-30T08:02:54Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:02:50Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-07-30T08:01:15Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T08:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
     "id": "caizefan34/local-ai-stack",
     "language": "Python",
@@ -18,24 +90,6 @@
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T08:00:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -45,13 +99,13 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12738,
-    "updated_at": "2026-07-30T07:43:08Z",
-    "url": "https://github.com/langchain4j/langchain4j"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33671,
+    "updated_at": "2026-07-30T08:11:53Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Companion code project for the ebook Vector Database Engineering for AI \u2014 Building High-Performance Retrieval Systems fo",
@@ -90,15 +144,6 @@
     "url": "https://github.com/hoffresearch/nest"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33670,
-    "updated_at": "2026-07-30T07:40:30Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
     "id": "skyzh/write-you-a-vector-db",
     "language": "Rust",
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16665,
-    "updated_at": "2026-07-30T07:52:25Z",
+    "updated_at": "2026-07-30T08:08:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1872,
-    "updated_at": "2026-07-30T07:20:00Z",
+    "updated_at": "2026-07-30T08:12:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:55:51Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T03:47:10Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Open-source big-data serving engine for search and recommendations.",
-    "id": "api-evangelist/vespa",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:46:36Z",
-    "url": "https://github.com/api-evangelist/vespa"
-  },
-  {
-    "description": "API Evangelist profile of Vespa \u2014 AI search engine and vector database",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:46:36Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 454,
-    "updated_at": "2026-07-30T03:46:15Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "API and integration profile for Upstash.",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:46:00Z",
-    "url": "https://github.com/api-evangelist/upstash"
   }
 ]
