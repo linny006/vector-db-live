@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T14:00:20Z",
+    "updated_at": "2026-07-30T14:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 77,
+    "updated_at": "2026-07-30T14:13:31Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:12:11Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-07-30T14:06:20Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-30T14:06:11Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:04:10Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -40,18 +94,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29584,
+    "stars": 29585,
     "updated_at": "2026-07-30T13:46:57Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T13:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-07-30T13:44:33Z",
+    "updated_at": "2026-07-30T14:10:03Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -95,7 +140,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-30T13:38:59Z",
+    "updated_at": "2026-07-30T14:15:15Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -106,6 +151,15 @@
     "stars": 1342,
     "updated_at": "2026-07-30T13:37:48Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34918,
+    "updated_at": "2026-07-30T13:36:04Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:34:00Z",
     "url": "https://github.com/Ammar-Soliman7/financial-compliance-rag"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-07-30T13:32:56Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
     "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T13:59:00Z",
+    "updated_at": "2026-07-30T14:02:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/roshnn-sahu/Documate-AI"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-30T13:58:52Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
     "id": "neonwatty/meme-search",
     "language": "Ruby",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "tanayProbo/titan",
     "stars": 1,
-    "updated_at": "2026-07-30T12:59:37Z",
+    "updated_at": "2026-07-30T14:11:06Z",
     "url": "https://github.com/tanayProbo/titan"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 7034,
     "updated_at": "2026-07-30T12:51:57Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34917,
-    "updated_at": "2026-07-30T13:36:04Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -306,15 +333,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:18:23Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T13:33:26Z",
+    "updated_at": "2026-07-30T14:00:38Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:52:22Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The Go client for Chroma vector database",
     "id": "amikos-tech/chroma-go",
     "language": "Go",
@@ -410,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1053,
-    "updated_at": "2026-07-30T13:57:42Z",
+    "updated_at": "2026-07-30T14:10:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -419,17 +428,8 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 0,
-    "updated_at": "2026-07-30T13:26:57Z",
+    "updated_at": "2026-07-30T14:05:42Z",
     "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 77,
-    "updated_at": "2026-07-30T13:36:11Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
