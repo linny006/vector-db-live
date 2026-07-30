@@ -5,8 +5,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1054,
-    "updated_at": "2026-07-30T18:23:46Z",
+    "updated_at": "2026-07-30T18:25:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-30T18:24:49Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:24:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64127,
+    "updated_at": "2026-07-30T18:23:09Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -25,15 +52,6 @@
     "stars": 9,
     "updated_at": "2026-07-30T18:15:56Z",
     "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -126,15 +144,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64128,
-    "updated_at": "2026-07-30T18:23:09Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "RAG Application of Chat with PDF",
     "id": "eabhi-me/ChatPDF",
     "language": "Python",
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6199,
-    "updated_at": "2026-07-30T17:39:22Z",
+    "updated_at": "2026-07-30T18:24:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6302,
-    "updated_at": "2026-07-30T17:59:16Z",
+    "updated_at": "2026-07-30T18:24:54Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29598,
-    "updated_at": "2026-07-30T17:27:23Z",
+    "updated_at": "2026-07-30T18:25:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -342,15 +351,6 @@
     "url": "https://github.com/ya-chang/rag-wiki-knowledge-base"
   },
   {
-    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-07-30T18:21:48Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
     "id": "Unnati1401/rag-assistant",
     "language": "Python",
@@ -364,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33678,
+    "stars": 33679,
     "updated_at": "2026-07-30T16:47:24Z",
     "url": "https://github.com/qdrant/qdrant"
   },
