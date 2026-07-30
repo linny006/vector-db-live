@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T14:15:19Z",
+    "updated_at": "2026-07-30T14:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T14:21:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1053,
+    "updated_at": "2026-07-30T14:19:13Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33678,
+    "updated_at": "2026-07-30T14:16:53Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:16:31Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:15:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -18,13 +72,22 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
+    "id": "tanayProbo/titan",
     "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "name": "tanayProbo/titan",
     "stars": 1,
-    "updated_at": "2026-07-30T14:12:11Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+    "updated_at": "2026-07-30T14:11:06Z",
+    "url": "https://github.com/tanayProbo/titan"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2037,
+    "updated_at": "2026-07-30T14:26:05Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 10,
-    "updated_at": "2026-07-30T14:06:11Z",
+    "updated_at": "2026-07-30T14:28:42Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T14:04:10Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29585,
-    "updated_at": "2026-07-30T13:46:57Z",
+    "updated_at": "2026-07-30T14:22:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-07-30T14:10:03Z",
+    "updated_at": "2026-07-30T14:28:48Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:39:33Z",
     "url": "https://github.com/Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:15:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -189,15 +234,6 @@
     "url": "https://github.com/Metaworkers-ai/governedmemory"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T13:27:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T14:02:56Z",
+    "updated_at": "2026-07-30T14:21:34Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,17 +284,8 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 705,
-    "updated_at": "2026-07-30T13:01:46Z",
+    "updated_at": "2026-07-30T14:23:10Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
-    "id": "tanayProbo/titan",
-    "language": "Python",
-    "name": "tanayProbo/titan",
-    "stars": 1,
-    "updated_at": "2026-07-30T14:11:06Z",
-    "url": "https://github.com/tanayProbo/titan"
   },
   {
     "description": "The AI search platform",
@@ -333,11 +360,20 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6299,
+    "updated_at": "2026-07-30T12:19:20Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15323,
+    "stars": 15322,
     "updated_at": "2026-07-30T12:11:37Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T14:00:38Z",
+    "updated_at": "2026-07-30T14:21:26Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33677,
-    "updated_at": "2026-07-30T13:53:57Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
     "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
     "language": "JavaScript",
@@ -410,17 +437,8 @@
     "language": "Go",
     "name": "amikos-tech/chroma-go",
     "stars": 207,
-    "updated_at": "2026-07-30T12:44:03Z",
+    "updated_at": "2026-07-30T14:16:51Z",
     "url": "https://github.com/amikos-tech/chroma-go"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1053,
-    "updated_at": "2026-07-30T14:10:46Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T14:05:42Z",
     "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-07-30T11:05:49Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "An Enterprise-Grade Modular RAG Platform implementing Standard RAG, Corrective RAG (CRAG with Query Rewriting & Evaluati",
-    "id": "Mostafa23/Enterprise-Agentic-Corrective-RAG",
-    "language": "Python",
-    "name": "Mostafa23/Enterprise-Agentic-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-30T10:57:21Z",
-    "url": "https://github.com/Mostafa23/Enterprise-Agentic-Corrective-RAG"
   }
 ]
