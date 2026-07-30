@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T22:15:23Z",
+    "updated_at": "2026-07-30T22:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-30T22:26:34Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-07-30T22:26:06Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:24:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "PineScript v6 MCP Server - 6 tools for docs lookup, code validation, and code generation. 1751 entries, 100% local.",
+    "id": "TheFractalyst/PineMCP",
+    "language": "Python",
+    "name": "TheFractalyst/PineMCP",
+    "stars": 3,
+    "updated_at": "2026-07-30T22:22:14Z",
+    "url": "https://github.com/TheFractalyst/PineMCP"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-30T22:20:48Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11037,
+    "updated_at": "2026-07-30T22:20:47Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:16:20Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T22:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -22,7 +94,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64133,
+    "stars": 64134,
     "updated_at": "2026-07-30T22:02:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:02:34Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T22:00:53Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-30T22:12:49Z",
+    "updated_at": "2026-07-30T22:23:26Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -81,40 +144,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:51:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T22:13:55Z",
+    "updated_at": "2026-07-30T22:26:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-30T21:50:47Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-07-30T21:48:20Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29605,
-    "updated_at": "2026-07-30T21:19:37Z",
+    "updated_at": "2026-07-30T22:28:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -211,7 +247,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 38,
+    "stars": 39,
     "updated_at": "2026-07-30T21:04:15Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -333,15 +369,6 @@
     "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 324,
-    "updated_at": "2026-07-30T19:53:22Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -396,15 +423,6 @@
     "url": "https://github.com/siddharthgaur1/vecbench"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11037,
-    "updated_at": "2026-07-30T19:16:01Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Python client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 2037,
     "updated_at": "2026-07-30T21:18:30Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
-    "id": "Dakera-AI/dakera-js",
-    "language": "TypeScript",
-    "name": "Dakera-AI/dakera-js",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:55:36Z",
-    "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
-    "id": "Unnati1401/rag-assistant",
-    "language": "Python",
-    "name": "Unnati1401/rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-30T18:42:39Z",
-    "url": "https://github.com/Unnati1401/rag-assistant"
   }
 ]
