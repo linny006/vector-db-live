@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T03:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45420,
+    "updated_at": "2026-07-30T03:28:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-07-30T03:24:27Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Open-source cloud-native vector database.",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-07-30T03:24:19Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 77,
+    "updated_at": "2026-07-30T03:25:53Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Vector search engine with end-to-end embedding and reranking.",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-07-30T03:22:43Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T03:21:57Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-07-30T03:21:27Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-07-30T03:21:00Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T03:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -18,21 +108,12 @@
     "url": "https://github.com/caoergou/dify-installer"
   },
   {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:09:54Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "",
     "id": "jmcgrath207/conproxy",
     "language": "\u2014",
     "name": "jmcgrath207/conproxy",
     "stars": 0,
-    "updated_at": "2026-07-30T03:06:40Z",
+    "updated_at": "2026-07-30T03:25:15Z",
     "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
@@ -52,24 +133,6 @@
     "stars": 75,
     "updated_at": "2026-07-30T03:04:47Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -189,15 +252,6 @@
     "url": "https://github.com/oscargbocanegra/llms-engineering-main"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45420,
-    "updated_at": "2026-07-30T02:06:17Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "MontyGovernance/montycat_rust",
     "stars": 1,
-    "updated_at": "2026-07-30T01:26:46Z",
+    "updated_at": "2026-07-30T03:20:48Z",
     "url": "https://github.com/MontyGovernance/montycat_rust"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "MontyGovernance/montycat_python",
     "stars": 2,
-    "updated_at": "2026-07-30T01:26:41Z",
+    "updated_at": "2026-07-30T03:20:42Z",
     "url": "https://github.com/MontyGovernance/montycat_python"
   },
   {
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "MontyGovernance/montycat_node",
     "stars": 2,
-    "updated_at": "2026-07-30T01:26:37Z",
+    "updated_at": "2026-07-30T03:20:36Z",
     "url": "https://github.com/MontyGovernance/montycat_node"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Dart",
     "name": "MontyGovernance/montycat_dart",
     "stars": 3,
-    "updated_at": "2026-07-30T01:26:32Z",
+    "updated_at": "2026-07-30T03:20:18Z",
     "url": "https://github.com/MontyGovernance/montycat_dart"
   },
   {
@@ -319,7 +373,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64084,
+    "stars": 64086,
     "updated_at": "2026-07-30T01:10:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T23:54:11Z",
     "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "Production-ready Enterprise AI RAG System built with FastAPI, ChromaDB, GPT-4o, hybrid retrieval, streaming responses, c",
-    "id": "aramradif/Enterprise-AI-Platform",
-    "language": "Python",
-    "name": "aramradif/Enterprise-AI-Platform",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:47:16Z",
-    "url": "https://github.com/aramradif/Enterprise-AI-Platform"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-07-29T23:47:06Z",
-    "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
-    "id": "DemigodDSK/hubmesh",
-    "language": "Python",
-    "name": "DemigodDSK/hubmesh",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:46:24Z",
-    "url": "https://github.com/DemigodDSK/hubmesh"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 238,
-    "updated_at": "2026-07-29T23:45:48Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6309,
-    "updated_at": "2026-07-30T03:02:32Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7905,
-    "updated_at": "2026-07-30T02:29:50Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
