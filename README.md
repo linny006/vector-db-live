@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 07:00 UTC
+> ⏰ Last updated: 2026-07-30 07:11 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1341 | Java | 2026-07-30 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1053 | Java | 2026-07-30 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 0 | Go | 2026-07-30 | In-memory knowledge store for AI agents |
-| 4 | [infino-ai/infino](https://github.com/infino-ai/infino) | 60 | Rust | 2026-07-30 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 0 | Go | 2026-07-30 | In-memory knowledge store for AI agents |
+| 2 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1341 | Java | 2026-07-30 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1053 | Java | 2026-07-30 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 6 | [infino-ai/infino](https://github.com/infino-ai/infino) | 60 | Rust | 2026-07-30 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
 | 7 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1871 | Go | 2026-07-30 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 8 | [Soumiya-33/Rag-core](https://github.com/Soumiya-33/Rag-core) | 1 | — | 2026-07-30 |  from-scratch implementation of Retrieval-Augmented Generation — chunking, embeddings, similarity search, and evaluation |
 | 9 | [NithinBrammesh/ai-interview-system](https://github.com/NithinBrammesh/ai-interview-system) | 0 | Python | 2026-07-30 | AI-powered interview platform using FastAPI, React, Gemini AI, and RAG to generate personalized interview questions, eva |
