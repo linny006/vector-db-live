@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-30T17:15:10Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A simple SQLite extension that allows direct GPU and/or SIMD accelerated vector operations",
+    "id": "michael-0acf4/vecx",
+    "language": "C++",
+    "name": "michael-0acf4/vecx",
     "stars": 2,
-    "updated_at": "2026-07-30T17:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-07-30T17:10:09Z",
+    "url": "https://github.com/michael-0acf4/vecx"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6323,
+    "updated_at": "2026-07-30T17:10:00Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:01:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-07-30T17:02:31Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-30T16:59:31Z",
+    "updated_at": "2026-07-30T17:00:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-30T16:59:23Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-Wiki \u4f01\u4e1a\u77e5\u8bc6\u5e93\u7cfb\u7edf\u5b8c\u6574\u8bbe\u8ba1\u6587\u6863 \u2014 Wiki\u5411\u5bfc\u5e93 + \u5206\u57df\u77e5\u8bc6\u5e93 + \u591a\u89d2\u8272\u9002\u914d + GraphRAG\u878d\u5408",
@@ -79,6 +115,15 @@
     "stars": 6,
     "updated_at": "2026-07-30T16:46:58Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29593,
+    "updated_at": "2026-07-30T17:14:22Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -189,15 +234,6 @@
     "url": "https://github.com/Tunolabs/xyzdb"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29594,
-    "updated_at": "2026-07-30T16:46:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Intelligent memory system for AI agents with semantic search, knowledge graphs, and multi-hop reasoning. <200ms P95 late",
     "id": "fitz2882/vesper-memory",
     "language": "TypeScript",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T16:35:19Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6322,
-    "updated_at": "2026-07-30T16:10:53Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -277,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:04:47Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:03:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3163,
-    "updated_at": "2026-07-30T15:34:35Z",
+    "updated_at": "2026-07-30T17:13:18Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34921,
-    "updated_at": "2026-07-30T16:58:44Z",
+    "updated_at": "2026-07-30T17:01:16Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1054,
-    "updated_at": "2026-07-30T16:50:45Z",
+    "updated_at": "2026-07-30T17:13:34Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 12744,
     "updated_at": "2026-07-30T14:57:25Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11036,
-    "updated_at": "2026-07-30T14:56:43Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:52:39Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
