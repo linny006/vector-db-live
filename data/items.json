@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 1,
-    "updated_at": "2026-07-30T15:25:28Z",
+    "updated_at": "2026-07-30T15:44:29Z",
     "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:36:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
+    "id": "ana738-bit/music-recommender-rag",
+    "language": "Python",
+    "name": "ana738-bit/music-recommender-rag",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:43:16Z",
+    "url": "https://github.com/ana738-bit/music-recommender-rag"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3163,
+    "updated_at": "2026-07-30T15:34:35Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 111,
+    "updated_at": "2026-07-30T15:38:53Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34919,
+    "updated_at": "2026-07-30T15:31:47Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "RAG service for intelligent bug analysis with multi-LLM support",
+    "id": "apex-bridge/bugspotter-intelligence",
+    "language": "Python",
+    "name": "apex-bridge/bugspotter-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:31:20Z",
+    "url": "https://github.com/apex-bridge/bugspotter-intelligence"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-30T15:25:22Z",
+    "updated_at": "2026-07-30T15:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29586,
+    "updated_at": "2026-07-30T15:43:23Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6319,
+    "updated_at": "2026-07-30T15:42:56Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -36,15 +117,6 @@
     "url": "https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-30T15:20:03Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -59,26 +131,8 @@
     "language": "Python",
     "name": "aamirabbas858/rag-research-agent",
     "stars": 0,
-    "updated_at": "2026-07-30T15:16:27Z",
+    "updated_at": "2026-07-30T15:39:27Z",
     "url": "https://github.com/aamirabbas858/rag-research-agent"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:15:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -130,7 +184,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11035,
+    "stars": 11036,
     "updated_at": "2026-07-30T14:56:43Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-30T14:46:09Z",
+    "updated_at": "2026-07-30T15:43:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -157,18 +211,9 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16672,
+    "stars": 16673,
     "updated_at": "2026-07-30T14:45:27Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
-    "id": "ana738-bit/music-recommender-rag",
-    "language": "Python",
-    "name": "ana738-bit/music-recommender-rag",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:43:10Z",
-    "url": "https://github.com/ana738-bit/music-recommender-rag"
   },
   {
     "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
@@ -189,13 +234,13 @@
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6317,
-    "updated_at": "2026-07-30T15:25:26Z",
-    "url": "https://github.com/plastic-labs/honcho"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9402,
+    "updated_at": "2026-07-30T14:38:38Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-07-30T15:06:39Z",
+    "updated_at": "2026-07-30T15:39:04Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33678,
-    "updated_at": "2026-07-30T15:25:57Z",
+    "updated_at": "2026-07-30T15:41:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7904,
-    "updated_at": "2026-07-30T15:29:54Z",
+    "updated_at": "2026-07-30T15:45:00Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29585,
-    "updated_at": "2026-07-30T15:28:55Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 1342,
     "updated_at": "2026-07-30T13:37:48Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34918,
-    "updated_at": "2026-07-30T13:36:04Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T15:24:56Z",
+    "updated_at": "2026-07-30T15:44:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:21:38Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58798,
-    "updated_at": "2026-07-30T14:35:07Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "",
-    "id": "roshnn-sahu/Documate-AI",
-    "language": "TypeScript",
-    "name": "roshnn-sahu/Documate-AI",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:13:34Z",
-    "url": "https://github.com/roshnn-sahu/Documate-AI"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-30T12:51:57Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
