@@ -1,5 +1,95 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16667,
+    "updated_at": "2026-07-30T10:14:30Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-30T10:14:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
+    "id": "tanayProbo/titan",
+    "language": "CSS",
+    "name": "tanayProbo/titan",
+    "stars": 1,
+    "updated_at": "2026-07-30T10:10:16Z",
+    "url": "https://github.com/tanayProbo/titan"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-07-30T10:09:50Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T10:09:34Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-30T10:09:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58790,
+    "updated_at": "2026-07-30T10:08:55Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T10:08:51Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11034,
+    "updated_at": "2026-07-30T10:01:02Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T10:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T09:59:25Z",
+    "updated_at": "2026-07-30T10:11:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -36,15 +126,6 @@
     "url": "https://github.com/vainiovesa/vector_bible_api"
   },
   {
-    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
-    "id": "tanayProbo/titan",
-    "language": "Python",
-    "name": "tanayProbo/titan",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:53:31Z",
-    "url": "https://github.com/tanayProbo/titan"
-  },
-  {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
     "id": "lianyinging/flowgame_python",
     "language": "Python",
@@ -54,15 +135,6 @@
     "url": "https://github.com/lianyinging/flowgame_python"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16666,
-    "updated_at": "2026-07-30T09:50:54Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -70,15 +142,6 @@
     "stars": 12742,
     "updated_at": "2026-07-30T09:47:48Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T09:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -135,15 +198,6 @@
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T09:17:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 13,
     "updated_at": "2026-07-30T09:50:48Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-07-30T10:00:20Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-30T09:59:20Z",
+    "updated_at": "2026-07-30T10:07:11Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29579,
-    "updated_at": "2026-07-30T09:56:00Z",
+    "updated_at": "2026-07-30T10:14:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33673,
-    "updated_at": "2026-07-30T09:47:56Z",
+    "updated_at": "2026-07-30T10:02:24Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -292,7 +337,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34910,
+    "stars": 34911,
     "updated_at": "2026-07-30T08:29:20Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-30T08:27:25Z",
+    "updated_at": "2026-07-30T10:05:28Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 15322,
     "updated_at": "2026-07-30T07:36:24Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-07-30T07:34:14Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
-    "id": "armaghanai/rag-assistant-pdf-text-sql",
-    "language": "Python",
-    "name": "armaghanai/rag-assistant-pdf-text-sql",
-    "stars": 2,
-    "updated_at": "2026-07-30T07:33:48Z",
-    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-07-30T07:29:20Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 772,
-    "updated_at": "2026-07-30T07:26:03Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:25:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
