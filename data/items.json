@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
+    "id": "sanonone/kektordb",
+    "language": "Go",
+    "name": "sanonone/kektordb",
+    "stars": 81,
+    "updated_at": "2026-07-30T12:27:23Z",
+    "url": "https://github.com/sanonone/kektordb"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:26:52Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "",
+    "id": "roshnn-sahu/Documate-AI",
+    "language": "TypeScript",
+    "name": "roshnn-sahu/Documate-AI",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:22:13Z",
+    "url": "https://github.com/roshnn-sahu/Documate-AI"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34914,
+    "updated_at": "2026-07-30T12:26:46Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:21:40Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:20:42Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29583,
+    "updated_at": "2026-07-30T12:28:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:18:23Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -81,31 +171,22 @@
     "url": "https://github.com/Zain0189/HR-Onboarding-n8n-platform"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
+    "description": "Local AI PDF Assistant using Retrieval-Augmented Generation (RAG), Ollama, Llama 3, ChromaDB, and Streamlit.",
+    "id": "seyfe2023/AI-PDF-Assistant-RAG",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:00:58Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "seyfe2023/AI-PDF-Assistant-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:05:44Z",
+    "url": "https://github.com/seyfe2023/AI-PDF-Assistant-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58795,
+    "updated_at": "2026-07-30T12:04:44Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -121,8 +202,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33676,
-    "updated_at": "2026-07-30T11:58:07Z",
+    "stars": 33677,
+    "updated_at": "2026-07-30T12:17:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1053,
-    "updated_at": "2026-07-30T12:13:35Z",
+    "updated_at": "2026-07-30T12:15:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,17 +248,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T12:13:46Z",
+    "updated_at": "2026-07-30T12:26:40Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29582,
-    "updated_at": "2026-07-30T11:44:23Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -187,24 +259,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T11:41:31Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:37:44Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34913,
-    "updated_at": "2026-07-30T11:23:26Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T11:41:21Z",
+    "updated_at": "2026-07-30T12:28:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 420,
-    "updated_at": "2026-07-30T11:40:07Z",
+    "updated_at": "2026-07-30T12:18:10Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -351,29 +405,11 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-30T10:09:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58792,
-    "updated_at": "2026-07-30T12:04:44Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11034,
+    "stars": 11035,
     "updated_at": "2026-07-30T10:01:02Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T09:22:24Z",
     "url": "https://github.com/Varshith019/rag-from-scratch"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-07-30T09:21:22Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 238,
-    "updated_at": "2026-07-30T09:21:03Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-07-30T09:50:48Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-07-30T09:02:52Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
