@@ -1,12 +1,57 @@
 [
   {
+    "description": "RAG-Wiki \u4f01\u4e1a\u77e5\u8bc6\u5e93\u7cfb\u7edf\u5b8c\u6574\u8bbe\u8ba1\u6587\u6863 \u2014 Wiki\u5411\u5bfc\u5e93 + \u5206\u57df\u77e5\u8bc6\u5e93 + \u591a\u89d2\u8272\u9002\u914d + GraphRAG\u878d\u5408",
+    "id": "ya-chang/rag-wiki-knowledge-base",
+    "language": "HTML",
+    "name": "ya-chang/rag-wiki-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:56:50Z",
+    "url": "https://github.com/ya-chang/rag-wiki-knowledge-base"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-30T16:56:29Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
+    "id": "Unnati1401/rag-assistant",
+    "language": "Python",
+    "name": "Unnati1401/rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:55:56Z",
+    "url": "https://github.com/Unnati1401/rag-assistant"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 324,
+    "updated_at": "2026-07-30T16:53:59Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T16:45:22Z",
+    "updated_at": "2026-07-30T16:48:31Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-07-30T16:47:17Z",
+    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
@@ -14,8 +59,17 @@
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-07-30T16:44:26Z",
+    "updated_at": "2026-07-30T16:46:58Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -54,15 +108,6 @@
     "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-Platform"
   },
   {
-    "description": "RAG-Wiki \u4f01\u4e1a\u77e5\u8bc6\u5e93\u7cfb\u7edf\u5b8c\u6574\u8bbe\u8ba1\u6587\u6863 \u2014 Wiki\u5411\u5bfc\u5e93 + \u5206\u57df\u77e5\u8bc6\u5e93 + \u591a\u89d2\u8272\u9002\u914d + GraphRAG\u878d\u5408",
-    "id": "ya-chang/rag-wiki-knowledge-base",
-    "language": "\u2014",
-    "name": "ya-chang/rag-wiki-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:37:27Z",
-    "url": "https://github.com/ya-chang/rag-wiki-knowledge-base"
-  },
-  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "vul-os/basin",
     "language": "Rust",
@@ -77,17 +122,8 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 705,
-    "updated_at": "2026-07-30T16:31:59Z",
+    "updated_at": "2026-07-30T16:55:18Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-07-30T16:39:28Z",
+    "updated_at": "2026-07-30T16:59:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 111,
-    "updated_at": "2026-07-30T16:33:19Z",
+    "updated_at": "2026-07-30T16:55:16Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -124,6 +160,15 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:25:56Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33679,
+    "updated_at": "2026-07-30T16:47:24Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
@@ -139,8 +184,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29593,
-    "updated_at": "2026-07-30T16:24:22Z",
+    "stars": 29594,
+    "updated_at": "2026-07-30T16:46:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -211,7 +256,7 @@
     "id": "TAIPANBOX/engram",
     "language": "Python",
     "name": "TAIPANBOX/engram",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-30T16:07:57Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
@@ -223,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T16:04:47Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-07-30T16:38:58Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34921,
-    "updated_at": "2026-07-30T15:31:47Z",
+    "updated_at": "2026-07-30T16:58:44Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -355,7 +391,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6301,
+    "stars": 6302,
     "updated_at": "2026-07-30T16:32:44Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -365,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1054,
-    "updated_at": "2026-07-30T16:37:58Z",
+    "updated_at": "2026-07-30T16:50:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T14:52:39Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16673,
-    "updated_at": "2026-07-30T14:45:27Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 203,
-    "updated_at": "2026-07-30T14:42:53Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T14:42:28Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9402,
-    "updated_at": "2026-07-30T16:33:00Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
