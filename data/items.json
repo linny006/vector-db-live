@@ -1,5 +1,50 @@
 [
   {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T04:55:24Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-07-30T04:55:25Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-30T04:47:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A self-hosted RAG assistant that combines document Q&A with citations and natural language to SQL database access - runn",
+    "id": "armaghanai/rag-assistant-pdf-text-sql",
+    "language": "Python",
+    "name": "armaghanai/rag-assistant-pdf-text-sql",
+    "stars": 2,
+    "updated_at": "2026-07-30T04:45:59Z",
+    "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T04:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,49 +63,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-07-30T04:44:13Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:42:57Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-30T04:41:52Z",
+    "updated_at": "2026-07-30T04:59:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-30T04:33:26Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T04:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -104,7 +113,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 238,
-    "updated_at": "2026-07-30T04:09:59Z",
+    "updated_at": "2026-07-30T04:58:41Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "hoffresearch/nest",
     "stars": 9,
-    "updated_at": "2026-07-30T04:07:40Z",
+    "updated_at": "2026-07-30T04:57:00Z",
     "url": "https://github.com/hoffresearch/nest"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T03:20:48Z",
     "url": "https://github.com/MontyGovernance/montycat_rust"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
-    "id": "MontyGovernance/montycat_python",
-    "language": "Python",
-    "name": "MontyGovernance/montycat_python",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:20:42Z",
-    "url": "https://github.com/MontyGovernance/montycat_python"
   }
 ]
