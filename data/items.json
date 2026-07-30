@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T13:15:24Z",
+    "updated_at": "2026-07-30T13:30:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
+    "id": "Metaworkers-ai/governedmemory",
+    "language": "Python",
+    "name": "Metaworkers-ai/governedmemory",
+    "stars": 8,
+    "updated_at": "2026-07-30T13:27:38Z",
+    "url": "https://github.com/Metaworkers-ai/governedmemory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T13:27:05Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6198,
+    "updated_at": "2026-07-30T13:26:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-30T13:24:45Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:21:38Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16671,
+    "updated_at": "2026-07-30T13:16:42Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-30T13:14:46Z",
+    "updated_at": "2026-07-30T13:15:28Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58797,
+    "updated_at": "2026-07-30T13:15:08Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "",
@@ -41,7 +104,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1342,
-    "updated_at": "2026-07-30T13:08:31Z",
+    "updated_at": "2026-07-30T13:22:17Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29584,
-    "updated_at": "2026-07-30T12:59:28Z",
+    "updated_at": "2026-07-30T13:28:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T12:52:36Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "The AI search platform",
@@ -106,15 +160,6 @@
     "stars": 34917,
     "updated_at": "2026-07-30T12:51:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T12:50:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -151,15 +196,6 @@
     "stars": 88,
     "updated_at": "2026-07-30T13:12:15Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58797,
-    "updated_at": "2026-07-30T13:15:08Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -225,15 +261,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:09:48Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33677,
-    "updated_at": "2026-07-30T13:10:54Z",
+    "updated_at": "2026-07-30T13:28:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -320,17 +347,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1053,
-    "updated_at": "2026-07-30T12:15:26Z",
+    "updated_at": "2026-07-30T13:27:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16671,
-    "updated_at": "2026-07-30T13:11:50Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 0,
-    "updated_at": "2026-07-30T11:35:04Z",
+    "updated_at": "2026-07-30T13:26:57Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/Mostafa23/Enterprise-Agentic-Corrective-RAG"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6198,
-    "updated_at": "2026-07-30T13:14:09Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -410,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7904,
-    "updated_at": "2026-07-30T13:11:46Z",
+    "updated_at": "2026-07-30T13:20:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T10:20:34Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11035,
-    "updated_at": "2026-07-30T10:01:02Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
