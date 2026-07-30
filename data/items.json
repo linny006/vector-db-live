@@ -1,12 +1,57 @@
 [
   {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:58:47Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Save anything online \u2014 videos, tweets, pins, articles \u2014 and find it later just by describing what you remember. Works ac",
+    "id": "Ajitesh-Tamrakar/Internet-Expedition",
+    "language": "JavaScript",
+    "name": "Ajitesh-Tamrakar/Internet-Expedition",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:49:45Z",
+    "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T07:45:21Z",
+    "updated_at": "2026-07-30T08:00:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6197,
+    "updated_at": "2026-07-30T07:43:16Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12738,
+    "updated_at": "2026-07-30T07:43:08Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Companion code project for the ebook Vector Database Engineering for AI \u2014 Building High-Performance Retrieval Systems fo",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T07:33:48Z",
     "url": "https://github.com/armaghanai/rag-assistant-pdf-text-sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16665,
-    "updated_at": "2026-07-30T07:22:36Z",
+    "updated_at": "2026-07-30T07:52:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6298,
-    "updated_at": "2026-07-30T06:59:31Z",
+    "updated_at": "2026-07-30T07:56:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T05:07:47Z",
     "url": "https://github.com/shrijitchoudhari3-maker/Domain-Rag-bot"
-  },
-  {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:55:24Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
   },
   {
     "description": "AI-powered RAG app to chat with any PDF book - upload a PDF and get grounded, cited answers using LangChain, Mistral AI,",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-07-30T06:23:32Z",
+    "updated_at": "2026-07-30T07:50:26Z",
     "url": "https://github.com/worka-ai/anvil"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-07-30T07:29:00Z",
+    "updated_at": "2026-07-30T07:55:51Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:46:00Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "SurrealDB APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:43:07Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Nomic AI \u2014 Nomic Embed + Atlas vector exploration + GPT4All",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:31:33Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:24:27Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
