@@ -1,5 +1,77 @@
 [
   {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:23:48Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:25:13Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "Secure RAG backend built with FastAPI, FAISS, Sentence Transformers, document chunking, semantic search, and source-base",
+    "id": "NITHISHKUMAR-IT/secure-rag-fastapi-backend",
+    "language": "Python",
+    "name": "NITHISHKUMAR-IT/secure-rag-fastapi-backend",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:21:01Z",
+    "url": "https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 111,
+    "updated_at": "2026-07-30T15:20:03Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T15:16:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
+    "id": "aamirabbas858/rag-research-agent",
+    "language": "Python",
+    "name": "aamirabbas858/rag-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:16:27Z",
+    "url": "https://github.com/aamirabbas858/rag-research-agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:15:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,24 +108,6 @@
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
-    "description": "A ReAct agent that chooses between web search, vector-store retrieval, and answering \u2014 with hard step limits and termina",
-    "id": "aamirabbas858/rag-research-agent",
-    "language": "Python",
-    "name": "aamirabbas858/rag-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:11:33Z",
-    "url": "https://github.com/aamirabbas858/rag-research-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T15:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -68,7 +122,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-07-30T14:58:52Z",
+    "updated_at": "2026-07-30T15:15:39Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T14:21:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -223,15 +268,6 @@
     "stars": 7904,
     "updated_at": "2026-07-30T14:16:15Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:15:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T15:08:25Z",
+    "updated_at": "2026-07-30T15:24:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7034,
     "updated_at": "2026-07-30T12:51:57Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 420,
-    "updated_at": "2026-07-30T12:53:33Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3162,
-    "updated_at": "2026-07-30T12:47:21Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
-    "id": "sanonone/kektordb",
-    "language": "Go",
-    "name": "sanonone/kektordb",
-    "stars": 81,
-    "updated_at": "2026-07-30T12:27:23Z",
-    "url": "https://github.com/sanonone/kektordb"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:26:52Z",
-    "url": "https://github.com/djleamen/doc-reader"
   }
 ]
