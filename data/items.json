@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-30T13:30:28Z",
+    "updated_at": "2026-07-30T13:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 88,
+    "updated_at": "2026-07-30T13:44:33Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 89,
+    "updated_at": "2026-07-30T13:43:06Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-30T13:39:50Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "AI-Powered Multi-Agent Study Assistant   Transforms NCERT textbooks into personalized learning resources using RAG,  LLM",
+    "id": "Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant",
+    "language": "Python",
+    "name": "Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:39:33Z",
+    "url": "https://github.com/Lovish-Mehra-06/Multi-Agent-Student-Study-Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:38:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1342,
+    "updated_at": "2026-07-30T13:37:48Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 372,
+    "updated_at": "2026-07-30T13:34:12Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "RAG system answering financial compliance questions with page-level citations. Gemini embeddings, Chroma vector store, F",
+    "id": "Ammar-Soliman7/financial-compliance-rag",
+    "language": "Python",
+    "name": "Ammar-Soliman7/financial-compliance-rag",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:34:00Z",
+    "url": "https://github.com/Ammar-Soliman7/financial-compliance-rag"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-07-30T13:32:56Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:30:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source governed memory for AI agents: prompt-injection-resistant writes, purpose-bound retrieval, provenance, and t",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "Metaworkers-ai/governedmemory",
     "stars": 8,
-    "updated_at": "2026-07-30T13:27:38Z",
+    "updated_at": "2026-07-30T13:38:06Z",
     "url": "https://github.com/Metaworkers-ai/governedmemory"
   },
   {
@@ -32,17 +122,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T13:26:07Z",
+    "updated_at": "2026-07-30T13:45:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T13:24:45Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -59,25 +140,16 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T13:16:42Z",
+    "updated_at": "2026-07-30T13:43:08Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T13:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58797,
-    "updated_at": "2026-07-30T13:15:08Z",
+    "stars": 58798,
+    "updated_at": "2026-07-30T13:43:34Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -97,24 +169,6 @@
     "stars": 10,
     "updated_at": "2026-07-30T13:14:20Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1342,
-    "updated_at": "2026-07-30T13:22:17Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T13:02:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29584,
-    "updated_at": "2026-07-30T13:28:30Z",
+    "updated_at": "2026-07-30T13:37:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34917,
-    "updated_at": "2026-07-30T12:51:41Z",
+    "updated_at": "2026-07-30T13:36:04Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 3162,
     "updated_at": "2026-07-30T12:47:21Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 88,
-    "updated_at": "2026-07-30T13:12:15Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-30T12:20:42Z",
+    "updated_at": "2026-07-30T13:38:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T12:55:57Z",
+    "updated_at": "2026-07-30T13:33:26Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33677,
-    "updated_at": "2026-07-30T13:28:08Z",
+    "updated_at": "2026-07-30T13:43:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1053,
-    "updated_at": "2026-07-30T13:27:25Z",
+    "updated_at": "2026-07-30T13:41:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 77,
-    "updated_at": "2026-07-30T11:08:28Z",
+    "updated_at": "2026-07-30T13:36:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T10:41:55Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-30T10:25:33Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7904,
-    "updated_at": "2026-07-30T13:20:53Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2218,
-    "updated_at": "2026-07-30T10:22:37Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-07-30T10:20:47Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-07-30T10:20:34Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
   }
 ]
