@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T06:08:49Z",
+    "updated_at": "2026-07-30T06:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1871,
+    "updated_at": "2026-07-30T06:25:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:18:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -16,24 +43,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T06:07:07Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1871,
-    "updated_at": "2026-07-30T06:04:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T06:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6298,
-    "updated_at": "2026-07-30T05:30:14Z",
+    "updated_at": "2026-07-30T06:27:23Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -144,15 +153,6 @@
     "url": "https://github.com/shrijitchoudhari3-maker/Domain-Rag-bot"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-30T05:02:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
     "id": "caizefan34/local-ai-stack",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-07-30T04:55:25Z",
+    "updated_at": "2026-07-30T06:23:32Z",
     "url": "https://github.com/worka-ai/anvil"
   },
   {
@@ -239,7 +239,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-30T06:03:49Z",
+    "updated_at": "2026-07-30T06:26:46Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-07-30T03:59:15Z",
+    "updated_at": "2026-07-30T06:18:35Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {

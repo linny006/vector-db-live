@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 06:15 UTC
+> ⏰ Last updated: 2026-07-30 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,22 +43,22 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 4 | Python | 2026-07-30 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1871 | Go | 2026-07-30 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1871 | Go | 2026-07-30 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [lianyinging/flowgame_python](https://github.com/lianyinging/flowgame_python) | 3 | Python | 2026-07-30 | ⚡ FlowGame execution engine focused on business workflows. 专注于业务落地的工作流执行引擎，支持同步/流式试运行、Redis 流程存储、Qdrant 向量检索等场景。🐍 FastAP |
-| 6 | [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) | 207 | Go | 2026-07-30 | The Go client for Chroma vector database |
-| 7 | [coolloic/Notebook](https://github.com/coolloic/Notebook) | 1 | HTML | 2026-07-30 | Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa |
-| 8 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2036 | PHP | 2026-07-30 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
-| 9 | [Zain0189/HR-Onboarding-n8n-platform](https://github.com/Zain0189/HR-Onboarding-n8n-platform) | 0 | — | 2026-07-30 | Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type |
-| 10 | [Humble-Librarian/RAG-Pipeline-Debugger-Visualizer](https://github.com/Humble-Librarian/RAG-Pipeline-Debugger-Visualizer) | 0 | — | 2026-07-30 | See where your RAG pipeline actually breaks — a VS Code extension to visually debug chunking and retrieval against your  |
-| 11 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-30 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 12 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-30 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 13 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6298 | TypeScript | 2026-07-30 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
-| 14 | [infino-ai/infino](https://github.com/infino-ai/infino) | 60 | Rust | 2026-07-30 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 15 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1052 | Java | 2026-07-30 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 16 | [shrijitchoudhari3-maker/Domain-Rag-bot](https://github.com/shrijitchoudhari3-maker/Domain-Rag-bot) | 1 | Python | 2026-07-30 | A Domain-Specific RAG (Retrieval-Augmented Generation) chatbot built using Python, LangChain, FAISS, and Streamlit. |
-| 17 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 4 | Python | 2026-07-30 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
+| 6 | [lianyinging/flowgame_python](https://github.com/lianyinging/flowgame_python) | 3 | Python | 2026-07-30 | ⚡ FlowGame execution engine focused on business workflows. 专注于业务落地的工作流执行引擎，支持同步/流式试运行、Redis 流程存储、Qdrant 向量检索等场景。🐍 FastAP |
+| 7 | [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) | 207 | Go | 2026-07-30 | The Go client for Chroma vector database |
+| 8 | [coolloic/Notebook](https://github.com/coolloic/Notebook) | 1 | HTML | 2026-07-30 | Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa |
+| 9 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2036 | PHP | 2026-07-30 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
+| 10 | [Zain0189/HR-Onboarding-n8n-platform](https://github.com/Zain0189/HR-Onboarding-n8n-platform) | 0 | — | 2026-07-30 | Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type |
+| 11 | [Humble-Librarian/RAG-Pipeline-Debugger-Visualizer](https://github.com/Humble-Librarian/RAG-Pipeline-Debugger-Visualizer) | 0 | — | 2026-07-30 | See where your RAG pipeline actually breaks — a VS Code extension to visually debug chunking and retrieval against your  |
+| 12 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-07-30 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-07-30 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 14 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6298 | TypeScript | 2026-07-30 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
+| 15 | [infino-ai/infino](https://github.com/infino-ai/infino) | 60 | Rust | 2026-07-30 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 16 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1052 | Java | 2026-07-30 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 17 | [shrijitchoudhari3-maker/Domain-Rag-bot](https://github.com/shrijitchoudhari3-maker/Domain-Rag-bot) | 1 | Python | 2026-07-30 | A Domain-Specific RAG (Retrieval-Augmented Generation) chatbot built using Python, LangChain, FAISS, and Streamlit. |
 | 18 | [caizefan34/local-ai-stack](https://github.com/caizefan34/local-ai-stack) | 2 | Python | 2026-07-30 | A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning — powered by Ollama, FastGPT,  |
 | 19 | [garvkumarsharma/RAGVerse-AI-Project](https://github.com/garvkumarsharma/RAGVerse-AI-Project) | 0 | Python | 2026-07-30 | AI-powered RAG app to chat with any PDF book - upload a PDF and get grounded, cited answers using LangChain, Mistral AI, |
 | 20 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-07-30 | Object storage for the AI age |
