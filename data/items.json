@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T09:45:21Z",
+    "updated_at": "2026-07-30T10:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6198,
+    "updated_at": "2026-07-30T09:59:25Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7034,
+    "updated_at": "2026-07-30T09:57:14Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Find relevant Bible passages with semantic search",
+    "id": "vainiovesa/vector_bible_api",
+    "language": "Python",
+    "name": "vainiovesa/vector_bible_api",
+    "stars": 0,
+    "updated_at": "2026-07-30T09:53:39Z",
+    "url": "https://github.com/vainiovesa/vector_bible_api"
+  },
+  {
+    "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
+    "id": "tanayProbo/titan",
+    "language": "Python",
+    "name": "tanayProbo/titan",
+    "stars": 1,
+    "updated_at": "2026-07-30T09:53:31Z",
+    "url": "https://github.com/tanayProbo/titan"
+  },
+  {
+    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
+    "id": "lianyinging/flowgame_python",
+    "language": "Python",
+    "name": "lianyinging/flowgame_python",
+    "stars": 3,
+    "updated_at": "2026-07-30T09:51:27Z",
+    "url": "https://github.com/lianyinging/flowgame_python"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16666,
+    "updated_at": "2026-07-30T09:50:54Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12742,
+    "updated_at": "2026-07-30T09:47:48Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T09:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -16,24 +88,6 @@
     "stars": 112,
     "updated_at": "2026-07-30T09:43:35Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T09:42:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6198,
-    "updated_at": "2026-07-30T09:40:10Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-07-30T09:42:38Z",
+    "updated_at": "2026-07-30T09:50:48Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "qtuanph/chatbot-rag",
     "stars": 1,
-    "updated_at": "2026-07-30T09:10:31Z",
+    "updated_at": "2026-07-30T10:00:20Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9401,
-    "updated_at": "2026-07-30T09:09:46Z",
+    "updated_at": "2026-07-30T09:59:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 75,
     "updated_at": "2026-07-30T08:51:31Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12741,
-    "updated_at": "2026-07-30T08:47:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29579,
-    "updated_at": "2026-07-30T09:15:29Z",
+    "updated_at": "2026-07-30T09:56:00Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33673,
-    "updated_at": "2026-07-30T09:39:40Z",
+    "updated_at": "2026-07-30T09:47:56Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -220,8 +265,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45423,
-    "updated_at": "2026-07-30T08:38:24Z",
+    "stars": 45424,
+    "updated_at": "2026-07-30T09:58:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 239,
     "updated_at": "2026-07-30T08:21:32Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Find relevant Bible passages with semantic search",
-    "id": "vainiovesa/vector_bible_api",
-    "language": "Python",
-    "name": "vainiovesa/vector_bible_api",
-    "stars": 0,
-    "updated_at": "2026-07-30T08:17:01Z",
-    "url": "https://github.com/vainiovesa/vector_bible_api"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T07:25:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16665,
-    "updated_at": "2026-07-30T09:40:14Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:03:44Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1053,
-    "updated_at": "2026-07-30T06:57:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
-    "id": "Soumiya-33/Rag-core",
-    "language": "\u2014",
-    "name": "Soumiya-33/Rag-core",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:39:15Z",
-    "url": "https://github.com/Soumiya-33/Rag-core"
   }
 ]
