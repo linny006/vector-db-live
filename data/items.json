@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-07-30T01:30:21Z",
+    "updated_at": "2026-07-30T01:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4652,
+    "updated_at": "2026-07-30T01:43:20Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:37:33Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 476,
+    "updated_at": "2026-07-30T01:32:38Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T01:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
@@ -49,7 +85,7 @@
     "id": "andreiramani/pgvector_pgsql_windows",
     "language": "\u2014",
     "name": "andreiramani/pgvector_pgsql_windows",
-    "stars": 186,
+    "stars": 187,
     "updated_at": "2026-07-30T01:23:53Z",
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
   },
@@ -81,15 +117,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T01:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -104,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1051,
-    "updated_at": "2026-07-30T01:14:40Z",
+    "updated_at": "2026-07-30T01:42:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 10224,
     "updated_at": "2026-07-30T01:00:33Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-07-30T00:52:08Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -234,6 +252,15 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6309,
+    "updated_at": "2026-07-29T23:19:00Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T22:38:01Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 476,
-    "updated_at": "2026-07-29T22:27:21Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "",
@@ -387,15 +405,6 @@
     "url": "https://github.com/couchbase/operational-data-platform-for-ai"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6307,
-    "updated_at": "2026-07-29T23:19:00Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T20:24:08Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "The ORM for Vector Databases",
-    "id": "thaletto/cortex",
-    "language": "TypeScript",
-    "name": "thaletto/cortex",
-    "stars": 2,
-    "updated_at": "2026-07-29T19:45:10Z",
-    "url": "https://github.com/thaletto/cortex"
   }
 ]
