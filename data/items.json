@@ -1,5 +1,41 @@
 [
   {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-30T14:42:28Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 705,
+    "updated_at": "2026-07-30T14:31:50Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 88,
+    "updated_at": "2026-07-30T14:30:58Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +43,33 @@
     "stars": 2,
     "updated_at": "2026-07-30T14:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-30T14:28:42Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "AI-powered Government Scholarship Assistant using Gemini, LangChain, ChromaDB, and Retrieval-Augmented Generation (RAG).",
+    "id": "srinidhi829/RAG-GovScholarship-chatbot",
+    "language": "Python",
+    "name": "srinidhi829/RAG-GovScholarship-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-30T14:26:10Z",
+    "url": "https://github.com/srinidhi829/RAG-GovScholarship-chatbot"
+  },
+  {
+    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
+    "id": "treygrainger/ai-powered-search",
+    "language": "Jupyter Notebook",
+    "name": "treygrainger/ai-powered-search",
+    "stars": 401,
+    "updated_at": "2026-07-30T14:25:05Z",
+    "url": "https://github.com/treygrainger/ai-powered-search"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -22,7 +85,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1053,
+    "stars": 1054,
     "updated_at": "2026-07-30T14:19:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T14:16:31Z",
     "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-30T14:28:42Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -149,17 +194,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29585,
-    "updated_at": "2026-07-30T14:22:02Z",
+    "updated_at": "2026-07-30T14:36:44Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 88,
-    "updated_at": "2026-07-30T14:28:48Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
@@ -169,15 +205,6 @@
     "stars": 89,
     "updated_at": "2026-07-30T13:43:06Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T13:39:50Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "AI-Powered Multi-Agent Study Assistant   Transforms NCERT textbooks into personalized learning resources using RAG,  LLM",
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T14:21:34Z",
+    "updated_at": "2026-07-30T14:45:27Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58798,
-    "updated_at": "2026-07-30T13:43:34Z",
+    "updated_at": "2026-07-30T14:35:07Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T13:13:34Z",
     "url": "https://github.com/roshnn-sahu/Documate-AI"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 705,
-    "updated_at": "2026-07-30T14:23:10Z",
-    "url": "https://github.com/neonwatty/meme-search"
   },
   {
     "description": "The AI search platform",
@@ -364,7 +382,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6299,
+    "stars": 6300,
     "updated_at": "2026-07-30T12:19:20Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-07-30T14:21:26Z",
+    "updated_at": "2026-07-30T14:32:25Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T11:57:50Z",
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
-  },
-  {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-07-30T14:16:51Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
-  },
-  {
-    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:05:42Z",
-    "url": "https://github.com/srimon12/qql-rs"
   }
 ]
