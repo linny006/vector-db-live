@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-30T13:14:20Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1342,
+    "updated_at": "2026-07-30T13:08:31Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:02:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 705,
+    "updated_at": "2026-07-30T13:01:46Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -11,11 +56,20 @@
   {
     "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
     "id": "tanayProbo/titan",
-    "language": "HTML",
+    "language": "Python",
     "name": "tanayProbo/titan",
     "stars": 1,
     "updated_at": "2026-07-30T12:59:37Z",
     "url": "https://github.com/tanayProbo/titan"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29584,
+    "updated_at": "2026-07-30T12:59:28Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "roshnn-sahu/Documate-AI",
     "stars": 1,
-    "updated_at": "2026-07-30T12:54:49Z",
+    "updated_at": "2026-07-30T13:13:34Z",
     "url": "https://github.com/roshnn-sahu/Documate-AI"
   },
   {
@@ -49,7 +103,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34916,
+    "stars": 34917,
     "updated_at": "2026-07-30T12:51:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -90,21 +144,12 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-07-30T12:55:04Z",
+    "updated_at": "2026-07-30T13:12:15Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -112,7 +157,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58796,
+    "stars": 58797,
     "updated_at": "2026-07-30T12:38:56Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -162,15 +207,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29583,
-    "updated_at": "2026-07-30T12:59:28Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
     "id": "Phoenix0531-sudo/InsurIntellect-Agent",
     "language": "Python",
@@ -187,15 +223,6 @@
     "stars": 15323,
     "updated_at": "2026-07-30T12:11:37Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 705,
-    "updated_at": "2026-07-30T12:55:05Z",
-    "url": "https://github.com/neonwatty/meme-search"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T12:06:56Z",
     "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:06:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33677,
-    "updated_at": "2026-07-30T12:57:01Z",
+    "updated_at": "2026-07-30T13:10:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T12:44:04Z",
+    "updated_at": "2026-07-30T13:11:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -365,17 +383,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-07-30T12:28:25Z",
+    "updated_at": "2026-07-30T13:14:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-30T12:13:02Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -401,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7904,
-    "updated_at": "2026-07-30T12:32:01Z",
+    "updated_at": "2026-07-30T13:11:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11035,
     "updated_at": "2026-07-30T10:01:02Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 3,
-    "updated_at": "2026-07-30T09:51:27Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
   }
 ]
