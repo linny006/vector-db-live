@@ -1,5 +1,104 @@
 [
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15322,
+    "updated_at": "2026-07-30T12:11:37Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 704,
+    "updated_at": "2026-07-30T12:11:15Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-30T12:10:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-30T12:10:07Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:09:48Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-07-30T12:11:47Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
+    "id": "kifayat-irfan/local-first-rag-platform",
+    "language": "Python",
+    "name": "kifayat-irfan/local-first-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:06:56Z",
+    "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:06:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Autonomous enterprise HR onboarding and policy intelligence platform built with n8n, Groq LLM, Pinecone, Slack, and Type",
+    "id": "Zain0189/HR-Onboarding-n8n-platform",
+    "language": "\u2014",
+    "name": "Zain0189/HR-Onboarding-n8n-platform",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:06:05Z",
+    "url": "https://github.com/Zain0189/HR-Onboarding-n8n-platform"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:00:58Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,7 +112,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45426,
+    "stars": 45428,
     "updated_at": "2026-07-30T11:58:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -45,15 +144,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
-    "id": "kifayat-irfan/local-first-rag-platform",
-    "language": "Python",
-    "name": "kifayat-irfan/local-first-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:50:56Z",
-    "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
-  },
-  {
     "description": "The Go client for Chroma vector database",
     "id": "amikos-tech/chroma-go",
     "language": "Go",
@@ -68,26 +158,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1053,
-    "updated_at": "2026-07-30T11:50:38Z",
+    "updated_at": "2026-07-30T12:13:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-30T11:49:29Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -95,7 +167,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16671,
-    "updated_at": "2026-07-30T11:44:25Z",
+    "updated_at": "2026-07-30T12:13:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -103,7 +175,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29581,
+    "stars": 29582,
     "updated_at": "2026-07-30T11:44:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -115,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T11:41:31Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-07-30T11:57:39Z",
-    "url": "https://github.com/weaviate/docs"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -151,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:35:04Z",
     "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:15:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-30T11:10:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 10,
-    "updated_at": "2026-07-30T10:49:05Z",
+    "updated_at": "2026-07-30T12:13:02Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-30T10:45:08Z",
+    "updated_at": "2026-07-30T12:13:01Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T10:41:55Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:56:05Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
     "description": "TITAN-X: Universal AI-Powered Data Acquisition & Web Intelligence Engine",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58792,
-    "updated_at": "2026-07-30T12:00:00Z",
+    "updated_at": "2026-07-30T12:04:44Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 60,
     "updated_at": "2026-07-30T09:02:52Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Shell",
-    "name": "qdrant/skills",
-    "stars": 212,
-    "updated_at": "2026-07-30T08:54:54Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9401,
-    "updated_at": "2026-07-30T11:59:16Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-07-30T08:51:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:42:01Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
