@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Search retrieval cache for agentic RAG",
+    "id": "jmcgrath207/conproxy",
+    "language": "Rust",
+    "name": "jmcgrath207/conproxy",
+    "stars": 0,
+    "updated_at": "2026-07-30T20:29:24Z",
+    "url": "https://github.com/jmcgrath207/conproxy"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:27:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 38,
+    "updated_at": "2026-07-30T20:28:10Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 454,
+    "updated_at": "2026-07-30T20:19:26Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Reliable and Efficient Semantic Prompt Caching with vCache",
+    "id": "vcache-project/vCache",
+    "language": "Python",
+    "name": "vcache-project/vCache",
+    "stars": 77,
+    "updated_at": "2026-07-30T20:19:16Z",
+    "url": "https://github.com/vcache-project/vCache"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 275,
+    "updated_at": "2026-07-30T20:15:38Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-30T20:14:42Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -45,15 +126,6 @@
     "url": "https://github.com/stuinfla/Repo-Explainer"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 38,
-    "updated_at": "2026-07-30T20:08:24Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "A browser app presenting data from the Georgia Project. ",
     "id": "KatherineMossDeveloper/Midnight-Train",
     "language": "TypeScript",
@@ -63,33 +135,6 @@
     "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:01:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 454,
-    "updated_at": "2026-07-30T19:59:31Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -97,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T19:55:38Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "Search retrieval cache for agentic RAG",
-    "id": "jmcgrath207/conproxy",
-    "language": "Rust",
-    "name": "jmcgrath207/conproxy",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:54:39Z",
-    "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -122,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-30T20:11:55Z",
+    "updated_at": "2026-07-30T20:25:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -180,21 +216,12 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-30T19:31:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29602,
-    "updated_at": "2026-07-30T20:14:56Z",
+    "updated_at": "2026-07-30T20:29:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6303,
-    "updated_at": "2026-07-30T19:48:00Z",
+    "updated_at": "2026-07-30T20:27:57Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 11037,
     "updated_at": "2026-07-30T19:16:01Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 275,
-    "updated_at": "2026-07-30T19:40:34Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
     "description": "A beginner-friendly guide to understanding Embeddings, Vectors, Cosine Similarity, RAG, and the foundations of modern AI",
@@ -355,18 +373,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64130,
+    "stars": 64131,
     "updated_at": "2026-07-30T18:23:09Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:14:42Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T17:46:47Z",
     "url": "https://github.com/eabhi-me/ChatPDF"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7905,
-    "updated_at": "2026-07-30T18:59:26Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
