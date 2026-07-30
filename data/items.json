@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T17:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-30T16:59:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-30T16:59:23Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "RAG-Wiki \u4f01\u4e1a\u77e5\u8bc6\u5e93\u7cfb\u7edf\u5b8c\u6574\u8bbe\u8ba1\u6587\u6863 \u2014 Wiki\u5411\u5bfc\u5e93 + \u5206\u57df\u77e5\u8bc6\u5e93 + \u591a\u89d2\u8272\u9002\u914d + GraphRAG\u878d\u5408",
     "id": "ya-chang/rag-wiki-knowledge-base",
     "language": "HTML",
@@ -36,15 +63,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:48:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -61,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T16:46:58Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-30T16:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -117,6 +126,15 @@
     "url": "https://github.com/vul-os/basin"
   },
   {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6302,
+    "updated_at": "2026-07-30T16:32:44Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
     "id": "neonwatty/meme-search",
     "language": "Ruby",
@@ -124,15 +142,6 @@
     "stars": 705,
     "updated_at": "2026-07-30T16:55:18Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-30T16:59:23Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:21:01Z",
     "url": "https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6302,
-    "updated_at": "2026-07-30T16:32:44Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
