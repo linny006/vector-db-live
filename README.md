@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 15:25 UTC
+> ⏰ Last updated: 2026-07-30 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 1 | Python | 2026-07-30 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 2 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 0 | Rust | 2026-07-30 | High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de |
-| 3 | [NITHISHKUMAR-IT/secure-rag-fastapi-backend](https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend) | 0 | Python | 2026-07-30 | Secure RAG backend built with FastAPI, FAISS, Sentence Transformers, document chunking, semantic search, and source-base |
-| 4 | [nambok/mentedb](https://github.com/nambok/mentedb) | 111 | Rust | 2026-07-30 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1872 | Go | 2026-07-30 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 6 | [aamirabbas858/rag-research-agent](https://github.com/aamirabbas858/rag-research-agent) | 0 | Python | 2026-07-30 | A ReAct agent that chooses between web search, vector-store retrieval, and answering — with hard step limits and termina |
-| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-07-30 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 0 | Rust | 2026-07-30 | High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de |
+| 4 | [NITHISHKUMAR-IT/secure-rag-fastapi-backend](https://github.com/NITHISHKUMAR-IT/secure-rag-fastapi-backend) | 0 | Python | 2026-07-30 | Secure RAG backend built with FastAPI, FAISS, Sentence Transformers, document chunking, semantic search, and source-base |
+| 5 | [nambok/mentedb](https://github.com/nambok/mentedb) | 111 | Rust | 2026-07-30 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1872 | Go | 2026-07-30 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 7 | [aamirabbas858/rag-research-agent](https://github.com/aamirabbas858/rag-research-agent) | 0 | Python | 2026-07-30 | A ReAct agent that chooses between web search, vector-store retrieval, and answering — with hard step limits and termina |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-07-30 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-07-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1054 | Java | 2026-07-30 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 11 | [Phoenix0531-sudo/InsurIntellect-Agent](https://github.com/Phoenix0531-sudo/InsurIntellect-Agent) | 1 | Python | 2026-07-30 | Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. \| 本地保险 |
