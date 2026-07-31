@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T01:15:29Z",
+    "updated_at": "2026-07-31T01:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1606,
+    "updated_at": "2026-07-31T01:23:52Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T01:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
@@ -16,15 +34,6 @@
     "stars": 10225,
     "updated_at": "2026-07-31T01:01:05Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T01:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -95,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-31T01:13:52Z",
+    "updated_at": "2026-07-31T01:24:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -106,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-07-31T00:02:31Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33683,
+    "updated_at": "2026-07-31T00:02:10Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -292,7 +310,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64139,
+    "stars": 64140,
     "updated_at": "2026-07-30T22:02:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:02:34Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33682,
-    "updated_at": "2026-07-31T00:02:10Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -439,14 +448,5 @@
     "stars": 77,
     "updated_at": "2026-07-30T20:19:16Z",
     "url": "https://github.com/vcache-project/vCache"
-  },
-  {
-    "description": "High-performance vector database & RAG memory layer - hybrid search, embeddings, RAPTOR trees, BM25 fusion for AI system",
-    "id": "reasonkit/reasonkit-mem",
-    "language": "Rust",
-    "name": "reasonkit/reasonkit-mem",
-    "stars": 6,
-    "updated_at": "2026-07-30T20:09:47Z",
-    "url": "https://github.com/reasonkit/reasonkit-mem"
   }
 ]
