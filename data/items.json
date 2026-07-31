@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T09:45:21Z",
+    "updated_at": "2026-07-31T10:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
+    "id": "zilliztech/vector-graph-rag",
+    "language": "Python",
+    "name": "zilliztech/vector-graph-rag",
+    "stars": 237,
+    "updated_at": "2026-07-31T09:59:41Z",
+    "url": "https://github.com/zilliztech/vector-graph-rag"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:59:29Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12751,
+    "updated_at": "2026-07-31T09:53:07Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:45:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
@@ -27,15 +63,6 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
-    "id": "zilliztech/vector-graph-rag",
-    "language": "Python",
-    "name": "zilliztech/vector-graph-rag",
-    "stars": 237,
-    "updated_at": "2026-07-31T09:43:30Z",
-    "url": "https://github.com/zilliztech/vector-graph-rag"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "SeekStorm/seekstorm_client_py",
     "stars": 1,
-    "updated_at": "2026-07-31T09:42:18Z",
+    "updated_at": "2026-07-31T09:49:57Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
@@ -70,6 +97,15 @@
     "stars": 6,
     "updated_at": "2026-07-31T09:41:55Z",
     "url": "https://github.com/rodrigopitanga/pavedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29617,
+    "updated_at": "2026-07-31T09:41:25Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
@@ -99,13 +135,13 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:37:05Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16676,
+    "updated_at": "2026-07-31T09:33:48Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
@@ -126,15 +162,6 @@
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T09:32:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
@@ -142,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T09:30:21Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29616,
-    "updated_at": "2026-07-31T09:41:25Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45436,
-    "updated_at": "2026-07-31T09:24:18Z",
+    "updated_at": "2026-07-31T09:49:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -194,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7909,
-    "updated_at": "2026-07-31T09:25:19Z",
+    "updated_at": "2026-07-31T09:58:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T09:14:48Z",
     "url": "https://github.com/FreeAutomation-Tech/agent-memory-kit"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12750,
-    "updated_at": "2026-07-31T09:06:19Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T07:46:18Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1902,
-    "updated_at": "2026-07-31T07:52:18Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   }
 ]
