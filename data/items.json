@@ -1,21 +1,12 @@
 [
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 8,
-    "updated_at": "2026-07-31T21:59:42Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
-    "id": "kikugo/unified-rag",
+    "description": "High-Performance Engine for Multi-Vector Search",
+    "id": "lightonai/fast-plaid",
     "language": "Python",
-    "name": "kikugo/unified-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:56:41Z",
-    "url": "https://github.com/kikugo/unified-rag"
+    "name": "lightonai/fast-plaid",
+    "stars": 271,
+    "updated_at": "2026-07-31T22:15:18Z",
+    "url": "https://github.com/lightonai/fast-plaid"
   },
   {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
@@ -23,8 +14,71 @@
     "language": "TypeScript",
     "name": "siaarzh/scrybe",
     "stars": 3,
-    "updated_at": "2026-07-31T21:58:29Z",
+    "updated_at": "2026-07-31T22:13:58Z",
     "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:12:35Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
+    "id": "kikugo/unified-rag",
+    "language": "Python",
+    "name": "kikugo/unified-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:11:28Z",
+    "url": "https://github.com/kikugo/unified-rag"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:05:10Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T22:03:38Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 8,
+    "updated_at": "2026-07-31T21:59:42Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -63,33 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:50:42Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:46:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6306,
-    "updated_at": "2026-07-31T21:22:03Z",
+    "updated_at": "2026-07-31T22:08:27Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:20:44Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:19:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
@@ -409,7 +427,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51261,
+    "stars": 51262,
     "updated_at": "2026-07-31T18:38:49Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -430,23 +448,5 @@
     "stars": 33697,
     "updated_at": "2026-07-31T19:59:54Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enterprise Graph-RAG pipeline: hybrid vector (Qdrant) + knowledge-graph (Neo4j) retrieval with measured cross-document e",
-    "id": "syakirinpahimi/hybrid-rag",
-    "language": "Python",
-    "name": "syakirinpahimi/hybrid-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:31:23Z",
-    "url": "https://github.com/syakirinpahimi/hybrid-rag"
-  },
-  {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-07-31T19:03:31Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
   }
 ]
