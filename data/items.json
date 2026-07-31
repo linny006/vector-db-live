@@ -5,17 +5,143 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T07:45:19Z",
+    "updated_at": "2026-07-31T08:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Retrieval Augmented Generation (RAG) system designed for \"Ingenier\u00eda y Calidad Sostenible S.L.\" (INGECA S.L.)",
+    "id": "diegotamargo/NormaINGECA",
+    "language": "Python",
+    "name": "diegotamargo/NormaINGECA",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:59:19Z",
+    "url": "https://github.com/diegotamargo/NormaINGECA"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45435,
-    "updated_at": "2026-07-31T07:42:17Z",
+    "stars": 45436,
+    "updated_at": "2026-07-31T07:58:16Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
+    "id": "caizefan34/local-ai-stack",
+    "language": "Python",
+    "name": "caizefan34/local-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:57:29Z",
+    "url": "https://github.com/caizefan34/local-ai-stack"
+  },
+  {
+    "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
+    "id": "sil3d/MATHIR",
+    "language": "Python",
+    "name": "sil3d/MATHIR",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:00:15Z",
+    "url": "https://github.com/sil3d/MATHIR"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:59:30Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
+    "id": "ldclabs/anda-db",
+    "language": "Rust",
+    "name": "ldclabs/anda-db",
+    "stars": 29,
+    "updated_at": "2026-07-31T07:52:22Z",
+    "url": "https://github.com/ldclabs/anda-db"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-07-31T07:51:02Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:50:45Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1055,
+    "updated_at": "2026-07-31T07:57:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T07:46:38Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:46:18Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1902,
+    "updated_at": "2026-07-31T07:52:18Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Retrieval-augmented QA for Indian criminal law (BNS/BNSS/BSA) with statute-aware retrieval and a deterministic citation ",
+    "id": "goyashek/bns-legal-rag",
+    "language": "Python",
+    "name": "goyashek/bns-legal-rag",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:45:40Z",
+    "url": "https://github.com/goyashek/bns-legal-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T07:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33687,
+    "updated_at": "2026-07-31T07:55:58Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The AI search platform",
@@ -52,24 +178,6 @@
     "stars": 245,
     "updated_at": "2026-07-31T07:34:13Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:31:19Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -117,15 +225,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33688,
-    "updated_at": "2026-07-31T07:43:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "CPU-bound vector indexing library supporting HNSW and IVF algorithms for fast similarity search in Swift 6 + Metal 4",
     "id": "gifton/VectorIndex",
     "language": "Swift",
@@ -153,15 +252,6 @@
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T06:49:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
     "id": "zilliztech/mfs",
     "language": "Python",
@@ -169,15 +259,6 @@
     "stars": 117,
     "updated_at": "2026-07-31T06:49:03Z",
     "url": "https://github.com/zilliztech/mfs"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T06:36:45Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -243,15 +324,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 29,
-    "updated_at": "2026-07-31T06:00:22Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
     "id": "tryAGI/Milvus",
     "language": "C#",
@@ -284,7 +356,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6197,
-    "updated_at": "2026-07-31T07:23:02Z",
+    "updated_at": "2026-07-31T07:51:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -364,7 +436,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64148,
+    "stars": 64149,
     "updated_at": "2026-07-31T04:38:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -376,77 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-31T04:33:48Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
-    "id": "defai-digital/akidb",
-    "language": "Rust",
-    "name": "defai-digital/akidb",
-    "stars": 1,
-    "updated_at": "2026-07-31T04:25:42Z",
-    "url": "https://github.com/defai-digital/akidb"
-  },
-  {
-    "description": "An AI-powered intent detection engine that analyses company signals across different field and engagement to predict whi",
-    "id": "Danish08654/B2B-Buying-Signal-Detector",
-    "language": "Python",
-    "name": "Danish08654/B2B-Buying-Signal-Detector",
-    "stars": 3,
-    "updated_at": "2026-07-31T04:24:55Z",
-    "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 2,
-    "updated_at": "2026-07-31T04:22:57Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-31T04:22:42Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T04:20:59Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1055,
-    "updated_at": "2026-07-31T07:39:18Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 44,
-    "updated_at": "2026-07-31T04:02:15Z",
-    "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6304,
-    "updated_at": "2026-07-31T03:55:25Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
