@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1873,
+    "updated_at": "2026-07-31T16:27:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:27:35Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2038,
+    "updated_at": "2026-07-31T16:25:41Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,13 +54,13 @@
     "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:11:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "schmitech/orbit",
+    "stars": 325,
+    "updated_at": "2026-07-31T16:13:20Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-07-31T16:06:38Z",
+    "updated_at": "2026-07-31T16:27:28Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T16:05:36Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:03:02Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -126,15 +153,6 @@
     "url": "https://github.com/wekers/AI-Fundamentals"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 325,
-    "updated_at": "2026-07-31T16:13:20Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33697,
-    "updated_at": "2026-07-31T15:56:22Z",
+    "updated_at": "2026-07-31T16:23:24Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T16:14:27Z",
+    "updated_at": "2026-07-31T16:21:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -280,21 +298,12 @@
   },
   {
     "description": "Offline benchmark for evaluating retrieval corpus poisoning attacks and layered defences in Retrieval-Augmented Generati",
-    "id": "LordSpudnik/PoisonBench",
+    "id": "Abhishek-P-2005/PoisonBench",
     "language": "\u2014",
-    "name": "LordSpudnik/PoisonBench",
+    "name": "Abhishek-P-2005/PoisonBench",
     "stars": 0,
     "updated_at": "2026-07-31T14:47:56Z",
-    "url": "https://github.com/LordSpudnik/PoisonBench"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1873,
-    "updated_at": "2026-07-31T15:51:20Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "url": "https://github.com/Abhishek-P-2005/PoisonBench"
   },
   {
     "description": "A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native ",
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11043,
-    "updated_at": "2026-07-31T16:00:48Z",
+    "updated_at": "2026-07-31T16:22:36Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -428,7 +437,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7911,
-    "updated_at": "2026-07-31T16:10:58Z",
+    "updated_at": "2026-07-31T16:19:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 46,
     "updated_at": "2026-07-31T14:01:39Z",
     "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:01:35Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
   }
 ]
