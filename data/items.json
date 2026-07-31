@@ -1,5 +1,95 @@
 [
   {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-31T22:29:37Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
+    "id": "Dakera-AI/dakera-cli",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-cli",
+    "stars": 8,
+    "updated_at": "2026-07-31T22:27:44Z",
+    "url": "https://github.com/Dakera-AI/dakera-cli"
+  },
+  {
+    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-go",
+    "language": "Go",
+    "name": "Dakera-AI/dakera-go",
+    "stars": 4,
+    "updated_at": "2026-07-31T22:27:42Z",
+    "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
+    "id": "Dakera-AI/dakera-rs",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-rs",
+    "stars": 5,
+    "updated_at": "2026-07-31T22:27:41Z",
+    "url": "https://github.com/Dakera-AI/dakera-rs"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:27:39Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-py",
+    "language": "Python",
+    "name": "Dakera-AI/dakera-py",
+    "stars": 5,
+    "updated_at": "2026-07-31T22:27:38Z",
+    "url": "https://github.com/Dakera-AI/dakera-py"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:21:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 457,
+    "updated_at": "2026-07-31T22:20:14Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-Performance Engine for Multi-Vector Search",
     "id": "lightonai/fast-plaid",
     "language": "Python",
@@ -9,21 +99,12 @@
     "url": "https://github.com/lightonai/fast-plaid"
   },
   {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-07-31T22:13:58Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
     "id": "sahnsookyung/JobScout",
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-07-31T22:12:35Z",
+    "updated_at": "2026-07-31T22:30:09Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -52,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T22:03:38Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T22:00:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T22:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -108,15 +171,6 @@
     "url": "https://github.com/sl4m3/ledgermind"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:50:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6306,
-    "updated_at": "2026-07-31T22:08:27Z",
+    "updated_at": "2026-07-31T22:28:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -148,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29633,
+    "stars": 29634,
     "updated_at": "2026-07-31T21:21:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -203,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-07-31T21:51:12Z",
+    "updated_at": "2026-07-31T22:24:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 10,
     "updated_at": "2026-07-31T20:58:56Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 457,
-    "updated_at": "2026-07-31T20:50:32Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -403,50 +448,5 @@
     "stars": 258,
     "updated_at": "2026-07-31T18:49:52Z",
     "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:45:22Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Personal RAG Bot built using LangChain Python Framework and Streamlit for UI",
-    "id": "karthi505/Personal_RAG_BOT",
-    "language": "Python",
-    "name": "karthi505/Personal_RAG_BOT",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:38:56Z",
-    "url": "https://github.com/karthi505/Personal_RAG_BOT"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51262,
-    "updated_at": "2026-07-31T18:38:49Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Production RAG + agentic oncology knowledge system on Weaviate  , real CIViC/ClinicalTrials.gov/openFDA data, tuned hybr",
-    "id": "HarshTomar1234/OncoRAG",
-    "language": "Python",
-    "name": "HarshTomar1234/OncoRAG",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:38:18Z",
-    "url": "https://github.com/HarshTomar1234/OncoRAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33697,
-    "updated_at": "2026-07-31T19:59:54Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
