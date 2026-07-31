@@ -1,5 +1,50 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-07-31T06:32:03Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-07-31T06:31:57Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:31:21Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T06:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
     "id": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
     "language": "TypeScript",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T06:16:07Z",
     "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -421,32 +448,5 @@
     "stars": 33688,
     "updated_at": "2026-07-31T00:02:10Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
-    "id": "barateza/mcp-plesk-dev-docs",
-    "language": "Python",
-    "name": "barateza/mcp-plesk-dev-docs",
-    "stars": 2,
-    "updated_at": "2026-07-30T23:57:46Z",
-    "url": "https://github.com/barateza/mcp-plesk-dev-docs"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 456,
-    "updated_at": "2026-07-30T23:55:46Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-07-30T23:50:08Z",
-    "url": "https://github.com/vul-os/basin"
   }
 ]
