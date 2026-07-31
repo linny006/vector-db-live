@@ -1,12 +1,48 @@
 [
   {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
     "language": "Rust",
-    "name": "perforate-org/gleaph",
+    "name": "nambok/mentedb",
+    "stars": 111,
+    "updated_at": "2026-07-31T03:41:53Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:39:58Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 44,
+    "updated_at": "2026-07-31T03:35:30Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
+    "id": "defai-digital/akidb",
+    "language": "Rust",
+    "name": "defai-digital/akidb",
     "stars": 1,
-    "updated_at": "2026-07-31T03:19:54Z",
-    "url": "https://github.com/perforate-org/gleaph"
+    "updated_at": "2026-07-31T03:35:25Z",
+    "url": "https://github.com/defai-digital/akidb"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:33:27Z",
+    "url": "https://github.com/coolloic/Notebook"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-31T03:15:28Z",
+    "updated_at": "2026-07-31T03:30:28Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-07-31T03:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:19:54Z",
+    "url": "https://github.com/perforate-org/gleaph"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45436,
-    "updated_at": "2026-07-31T03:02:24Z",
+    "updated_at": "2026-07-31T03:35:59Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-31T03:23:15Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -166,7 +202,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10226,
+    "stars": 10227,
     "updated_at": "2026-07-31T01:01:05Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 10,
-    "updated_at": "2026-07-31T00:48:26Z",
+    "updated_at": "2026-07-31T03:42:39Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
@@ -207,21 +243,12 @@
     "url": "https://github.com/mehrantsi/feox-vector"
   },
   {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 44,
-    "updated_at": "2026-07-31T00:22:53Z",
-    "url": "https://github.com/sochdb/sochdb"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-31T03:18:54Z",
+    "updated_at": "2026-07-31T03:36:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -391,7 +418,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51249,
+    "stars": 51250,
     "updated_at": "2026-07-30T21:23:50Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T21:05:55Z",
     "url": "https://github.com/tryAGI/Weaviate"
-  },
-  {
-    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
-    "id": "Tunolabs/xyzdb",
-    "language": "Rust",
-    "name": "Tunolabs/xyzdb",
-    "stars": 4,
-    "updated_at": "2026-07-30T21:03:40Z",
-    "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 239,
-    "updated_at": "2026-07-30T21:02:07Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-07-30T20:50:57Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   }
 ]
