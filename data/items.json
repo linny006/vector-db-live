@@ -1,5 +1,77 @@
 [
   {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:42:04Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-31T08:40:49Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1055,
+    "updated_at": "2026-07-31T08:36:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
+    "id": "avnlp/vectordb",
+    "language": "Python",
+    "name": "avnlp/vectordb",
+    "stars": 5,
+    "updated_at": "2026-07-31T08:34:56Z",
+    "url": "https://github.com/avnlp/vectordb"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 4,
+    "updated_at": "2026-07-31T08:32:50Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 40,
+    "updated_at": "2026-07-31T08:32:39Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -45,21 +117,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-31T08:22:32Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6197,
-    "updated_at": "2026-07-31T08:21:17Z",
+    "updated_at": "2026-07-31T08:44:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T08:15:56Z",
     "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -153,15 +198,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1055,
-    "updated_at": "2026-07-31T08:18:02Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33687,
-    "updated_at": "2026-07-31T07:55:58Z",
+    "updated_at": "2026-07-31T08:40:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +302,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7908,
-    "updated_at": "2026-07-31T08:25:44Z",
+    "updated_at": "2026-07-31T08:38:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T05:24:25Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
-    "id": "EkleTony/GenAI-Course-Repo",
-    "language": "Jupyter Notebook",
-    "name": "EkleTony/GenAI-Course-Repo",
-    "stars": 1,
-    "updated_at": "2026-07-31T05:24:16Z",
-    "url": "https://github.com/EkleTony/GenAI-Course-Repo"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 111,
-    "updated_at": "2026-07-31T06:01:50Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "AI-powered Government Scholarship Assistant using Gemini, LangChain, ChromaDB, and Retrieval-Augmented Generation (RAG).",
-    "id": "srinidhi829/RAG-GovScholarship-chatbot",
-    "language": "Python",
-    "name": "srinidhi829/RAG-GovScholarship-chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:11:03Z",
-    "url": "https://github.com/srinidhi829/RAG-GovScholarship-chatbot"
-  },
-  {
-    "description": "complete platform that collects data from youtube links, text (pdf, doc, json etc...) or even audio process them then me",
-    "id": "BachirMounkaila/RAN-PGE",
-    "language": "JavaScript",
-    "name": "BachirMounkaila/RAN-PGE",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:10:58Z",
-    "url": "https://github.com/BachirMounkaila/RAN-PGE"
   }
 ]
