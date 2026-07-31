@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-31T11:46:52Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build your own offline domain-specific AI from your knowledge.",
     "id": "VivekDahariya/PriAI",
     "language": "Python",
@@ -34,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T11:32:30Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI-powered, multi-agent financial document analyzer built with FastAPI, Streamlit, ChromaDB, and the Lemma SDK.",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29620,
-    "updated_at": "2026-07-31T11:42:41Z",
+    "updated_at": "2026-07-31T11:45:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1872,
-    "updated_at": "2026-07-31T10:27:29Z",
+    "updated_at": "2026-07-31T11:47:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-31T09:33:36Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 245,
-    "updated_at": "2026-07-31T09:17:40Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
