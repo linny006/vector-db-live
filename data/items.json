@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T01:30:21Z",
+    "updated_at": "2026-07-31T01:45:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T01:35:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-31T01:31:46Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T01:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -16,15 +43,6 @@
     "stars": 1606,
     "updated_at": "2026-07-31T01:23:52Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T01:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
@@ -72,15 +90,6 @@
     "url": "https://github.com/tryAGI/Turbopuffer"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:33:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Embedded vector store for Rust, built on FeoxDB. ",
     "id": "mehrantsi/feox-vector",
     "language": "Rust",
@@ -104,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-31T01:24:31Z",
+    "updated_at": "2026-07-31T01:33:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -121,7 +130,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33683,
+    "stars": 33685,
     "updated_at": "2026-07-31T00:02:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1872,
-    "updated_at": "2026-07-30T23:29:57Z",
+    "updated_at": "2026-07-31T01:41:01Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -247,7 +256,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29606,
+    "stars": 29607,
     "updated_at": "2026-07-30T22:39:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -331,6 +340,15 @@
     "stars": 12769,
     "updated_at": "2026-07-30T21:50:01Z",
     "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51247,
+    "updated_at": "2026-07-30T21:23:50Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "The official Rust client for the Pinecone vector database",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:29:24Z",
     "url": "https://github.com/jmcgrath207/conproxy"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6304,
-    "updated_at": "2026-07-30T22:13:27Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Reliable and Efficient Semantic Prompt Caching with vCache",
-    "id": "vcache-project/vCache",
-    "language": "Python",
-    "name": "vcache-project/vCache",
-    "stars": 77,
-    "updated_at": "2026-07-30T20:19:16Z",
-    "url": "https://github.com/vcache-project/vCache"
   }
 ]
