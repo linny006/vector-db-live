@@ -1,12 +1,75 @@
 [
   {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-07-31T19:15:11Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6306,
+    "updated_at": "2026-07-31T19:09:22Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29626,
+    "updated_at": "2026-07-31T19:14:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:06:25Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
     "name": "eniglio-ctrl/enterprise-rag-platform",
     "stars": 0,
-    "updated_at": "2026-07-31T18:59:33Z",
+    "updated_at": "2026-07-31T19:04:50Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:03:56Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T18:59:14Z",
+    "updated_at": "2026-07-31T19:15:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "siaarzh/scrybe",
     "stars": 3,
-    "updated_at": "2026-07-31T18:53:46Z",
+    "updated_at": "2026-07-31T19:07:45Z",
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
@@ -49,9 +112,18 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 12752,
+    "stars": 12753,
     "updated_at": "2026-07-31T18:53:24Z",
     "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 418,
+    "updated_at": "2026-07-31T18:53:00Z",
+    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -72,15 +144,6 @@
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
     "id": "ErenReyhanlioglu/seekbind",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T18:45:22Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-07-31T18:43:43Z",
+    "updated_at": "2026-07-31T19:14:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -124,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-07-31T18:38:56Z",
     "url": "https://github.com/karthi505/Personal_RAG_BOT"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51258,
+    "updated_at": "2026-07-31T18:38:49Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Production RAG + agentic oncology knowledge system on Weaviate  , real CIViC/ClinicalTrials.gov/openFDA data, tuned hybr",
@@ -144,6 +207,15 @@
     "url": "https://github.com/Go-Santiago-Go/rag-api"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33697,
+    "updated_at": "2026-07-31T18:32:34Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Enterprise Graph-RAG pipeline: hybrid vector (Qdrant) + knowledge-graph (Neo4j) retrieval with measured cross-document e",
     "id": "syakirinpahimi/hybrid-rag",
     "language": "Python",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 2,
-    "updated_at": "2026-07-31T18:29:23Z",
+    "updated_at": "2026-07-31T19:12:02Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Go",
     "name": "amikos-tech/chroma-go",
     "stars": 207,
-    "updated_at": "2026-07-31T18:22:39Z",
+    "updated_at": "2026-07-31T19:03:31Z",
     "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
@@ -216,15 +288,6 @@
     "url": "https://github.com/danny-avila/rag_api"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6306,
-    "updated_at": "2026-07-31T18:54:56Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -241,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T17:53:35Z",
     "url": "https://github.com/RB1507/AETHER-RAG"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29626,
-    "updated_at": "2026-07-31T18:58:41Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -360,15 +414,6 @@
     "url": "https://github.com/sakthiMurugan03/lenny-growth-assistant"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:15:42Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
     "id": "dovahkiin-v/mitos",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 243,
     "updated_at": "2026-07-31T17:08:37Z",
     "url": "https://github.com/messkan/prompt-cache"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6197,
-    "updated_at": "2026-07-31T18:12:32Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-07-31T18:25:31Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:43:27Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2221,
-    "updated_at": "2026-07-31T16:35:53Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2038,
-    "updated_at": "2026-07-31T16:52:20Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
