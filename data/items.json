@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs and type-safe DSLs, REST with no Netty on yo",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T14:13:05Z",
+    "updated_at": "2026-07-31T14:30:18Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
+    "id": "dk3yyyy/local_AI_agent",
+    "language": "Python",
+    "name": "dk3yyyy/local_AI_agent",
+    "stars": 3,
+    "updated_at": "2026-07-31T14:27:15Z",
+    "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 457,
+    "updated_at": "2026-07-31T14:25:38Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:25:14Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 325,
+    "updated_at": "2026-07-31T14:22:16Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "High-performance C++ Vector Database with HNSW, KD-Tree, Brute Force Search and Retrieval-Augmented Generation (RAG) usi",
+    "id": "tiya707/EmbedDB",
+    "language": "C++",
+    "name": "tiya707/EmbedDB",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:22:13Z",
+    "url": "https://github.com/tiya707/EmbedDB"
   },
   {
     "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
@@ -23,17 +59,53 @@
     "language": "Python",
     "name": "o-valo/brainagent",
     "stars": 0,
-    "updated_at": "2026-07-31T14:12:37Z",
+    "updated_at": "2026-07-31T14:21:46Z",
     "url": "https://github.com/o-valo/brainagent"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16677,
-    "updated_at": "2026-07-31T14:12:35Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29625,
+    "updated_at": "2026-07-31T14:20:29Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-31T14:19:20Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:15:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -45,13 +117,40 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-07-31T14:02:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-07-31T14:13:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "HNSW vector index from scratch in C++17: SIMD distance kernels, Python bindings, HTTP service, benchmarked against FAISS",
+    "id": "asp53826/annlite",
+    "language": "Python",
+    "name": "asp53826/annlite",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:12:39Z",
+    "url": "https://github.com/asp53826/annlite"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16677,
+    "updated_at": "2026-07-31T14:28:52Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai",
+    "id": "Momad-Y/EUC-RAG-Agent",
+    "language": "Jupyter Notebook",
+    "name": "Momad-Y/EUC-RAG-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:12:00Z",
+    "url": "https://github.com/Momad-Y/EUC-RAG-Agent"
   },
   {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
@@ -121,7 +220,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33695,
+    "stars": 33696,
     "updated_at": "2026-07-31T13:51:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -153,15 +252,6 @@
     "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
-    "description": "High-performance C++ Vector Database with HNSW, KD-Tree, Brute Force Search and Retrieval-Augmented Generation (RAG) usi",
-    "id": "tiya707/EmbedDB",
-    "language": "C++",
-    "name": "tiya707/EmbedDB",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:41:37Z",
-    "url": "https://github.com/tiya707/EmbedDB"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -171,15 +261,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:37:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
     "id": "kovartravis/neuron",
     "language": "TypeScript",
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T13:36:31Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
-    "id": "dk3yyyy/local_AI_agent",
-    "language": "Python",
-    "name": "dk3yyyy/local_AI_agent",
-    "stars": 3,
-    "updated_at": "2026-07-31T13:30:31Z",
-    "url": "https://github.com/dk3yyyy/local_AI_agent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -232,15 +304,6 @@
     "stars": 33,
     "updated_at": "2026-07-31T13:15:12Z",
     "url": "https://github.com/HelgeSverre/milvus"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 325,
-    "updated_at": "2026-07-31T13:15:09Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -288,15 +351,6 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-31T14:15:11Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "AI-powered consulting analytics copilot built with FastAPI, React, LangGraph, ChromaDB, and Groq, delivering explainable",
     "id": "Anniedrippin/clientiq",
     "language": "Python",
@@ -313,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T12:42:20Z",
     "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29623,
-    "updated_at": "2026-07-31T13:39:20Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "PDF Chat is a simple web app that lets you upload one PDF and ask questions about it in plain English. It reads the PDF,",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T12:00:49Z",
     "url": "https://github.com/jpberarducci/profile-rag-service"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:58:26Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:50:03Z",
-    "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:47:38Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Build your own offline domain-specific AI from your knowledge.",
-    "id": "VivekDahariya/PriAI",
-    "language": "Python",
-    "name": "VivekDahariya/PriAI",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:44:37Z",
-    "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-07-31T11:35:33Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
