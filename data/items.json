@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:14:12Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:11:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:10:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -34,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T16:03:02Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -90,15 +108,6 @@
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:10:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A multi-tenant backend that turns a company's own documents into a support chatbot ",
     "id": "bikash1376/chat",
     "language": "TypeScript",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 325,
-    "updated_at": "2026-07-31T15:37:57Z",
+    "updated_at": "2026-07-31T16:13:20Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29625,
-    "updated_at": "2026-07-31T15:58:09Z",
+    "updated_at": "2026-07-31T16:11:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T16:10:27Z",
+    "updated_at": "2026-07-31T16:14:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T16:05:18Z",
+    "updated_at": "2026-07-31T16:15:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T14:01:35Z",
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-07-31T14:01:00Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
