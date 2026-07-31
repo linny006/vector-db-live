@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12754,
+    "updated_at": "2026-07-31T13:54:55Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T13:54:40Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-07-31T13:54:34Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-07-31T13:52:49Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
+    "id": "o-valo/brainagent",
+    "language": "Python",
+    "name": "o-valo/brainagent",
+    "stars": 0,
+    "updated_at": "2026-07-31T13:52:15Z",
+    "url": "https://github.com/o-valo/brainagent"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33694,
+    "updated_at": "2026-07-31T13:51:10Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
+    "id": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
+    "language": "JavaScript",
+    "name": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-31T13:51:00Z",
+    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-Platform"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-07-31T13:50:05Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
     "description": "Search retrieval cache for agentic RAG",
     "id": "jmcgrath207/conproxy",
     "language": "Rust",
     "name": "jmcgrath207/conproxy",
     "stars": 0,
-    "updated_at": "2026-07-31T13:42:29Z",
+    "updated_at": "2026-07-31T13:45:37Z",
     "url": "https://github.com/jmcgrath207/conproxy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T13:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance C++ Vector Database with HNSW, KD-Tree, Brute Force Search and Retrieval-Augmented Generation (RAG) usi",
@@ -45,24 +135,6 @@
     "url": "https://github.com/kovartravis/neuron"
   },
   {
-    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
-    "id": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
-    "language": "JavaScript",
-    "name": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:34:17Z",
-    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-Platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
     "id": "dk3yyyy/local_AI_agent",
     "language": "Python",
@@ -70,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T13:30:31Z",
     "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-07-31T13:30:17Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -149,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T13:41:14Z",
+    "updated_at": "2026-07-31T13:52:22Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T13:44:49Z",
+    "updated_at": "2026-07-31T13:57:19Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T12:56:40Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T12:55:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -252,15 +297,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33692,
-    "updated_at": "2026-07-31T13:43:06Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
     "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
     "language": "JavaScript",
@@ -288,13 +324,13 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
-    "id": "o-valo/brainagent",
-    "language": "Python",
-    "name": "o-valo/brainagent",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:09:22Z",
-    "url": "https://github.com/o-valo/brainagent"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45439,
+    "updated_at": "2026-07-31T12:03:31Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -320,7 +356,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 119,
-    "updated_at": "2026-07-31T13:41:14Z",
+    "updated_at": "2026-07-31T13:50:05Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-07-31T11:26:31Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -405,15 +432,6 @@
     "url": "https://github.com/ana738-bit/music-recommender-rag"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12754,
-    "updated_at": "2026-07-31T13:44:38Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
     "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-31T11:13:30Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:08:36Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2038,
-    "updated_at": "2026-07-31T13:32:43Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
