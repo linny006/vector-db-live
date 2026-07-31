@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T03:45:20Z",
+    "updated_at": "2026-07-31T04:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI-powered intent detection engine that analyses company signals across different field and engagement to predict whi",
+    "id": "Danish08654/B2B-Buying-Signal-Detector",
+    "language": "Python",
+    "name": "Danish08654/B2B-Buying-Signal-Detector",
+    "stars": 3,
+    "updated_at": "2026-07-31T03:56:36Z",
+    "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
+  },
+  {
+    "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
+    "id": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
+    "language": "TypeScript",
+    "name": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:56:16Z",
+    "url": "https://github.com/Humble-Librarian/RAG-Pipeline-Debugger-Visualizer"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6304,
+    "updated_at": "2026-07-31T03:55:25Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "TPT Keystone DB \u2014 a multi-engine data platform. One core engine for relational, geospatial, graph, vector/AI, time-serie",
@@ -14,17 +41,8 @@
     "language": "Rust",
     "name": "tpt-solutions/tpt-keystone-db",
     "stars": 0,
-    "updated_at": "2026-07-31T03:44:27Z",
+    "updated_at": "2026-07-31T03:51:27Z",
     "url": "https://github.com/tpt-solutions/tpt-keystone-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T03:43:05Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -32,8 +50,17 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 111,
-    "updated_at": "2026-07-31T03:41:53Z",
+    "updated_at": "2026-07-31T03:53:45Z",
     "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T03:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45436,
-    "updated_at": "2026-07-31T03:35:59Z",
+    "updated_at": "2026-07-31T04:00:17Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -166,7 +193,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11038,
+    "stars": 11039,
     "updated_at": "2026-07-31T02:32:31Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -355,7 +382,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29611,
+    "stars": 29612,
     "updated_at": "2026-07-30T22:39:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 12769,
     "updated_at": "2026-07-30T21:50:01Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51250,
-    "updated_at": "2026-07-30T21:23:50Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "The official Rust client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-rust-client",
-    "language": "Rust",
-    "name": "pinecone-io/pinecone-rust-client",
-    "stars": 23,
-    "updated_at": "2026-07-30T21:13:16Z",
-    "url": "https://github.com/pinecone-io/pinecone-rust-client"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 275,
-    "updated_at": "2026-07-30T23:54:38Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   }
 ]
