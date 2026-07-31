@@ -1,21 +1,129 @@
 [
   {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 10,
-    "updated_at": "2026-07-31T09:31:06Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T09:30:30Z",
+    "updated_at": "2026-07-31T09:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
+    "id": "KB-perByte/hiveshare",
+    "language": "Go",
+    "name": "KB-perByte/hiveshare",
+    "stars": 5,
+    "updated_at": "2026-07-31T09:45:09Z",
+    "url": "https://github.com/KB-perByte/hiveshare"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 10,
+    "updated_at": "2026-07-31T09:44:13Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
+    "id": "zilliztech/vector-graph-rag",
+    "language": "Python",
+    "name": "zilliztech/vector-graph-rag",
+    "stars": 237,
+    "updated_at": "2026-07-31T09:43:30Z",
+    "url": "https://github.com/zilliztech/vector-graph-rag"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:43:26Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:42:18Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:42:11Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "PaveDB \u2014 Lightweight Vector Search Microservice",
+    "id": "rodrigopitanga/pavedb",
+    "language": "Python",
+    "name": "rodrigopitanga/pavedb",
+    "stars": 6,
+    "updated_at": "2026-07-31T09:41:55Z",
+    "url": "https://github.com/rodrigopitanga/pavedb"
+  },
+  {
+    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
+    "id": "lianyinging/flowgame_python",
+    "language": "Python",
+    "name": "lianyinging/flowgame_python",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:40:50Z",
+    "url": "https://github.com/lianyinging/flowgame_python"
+  },
+  {
+    "description": "The Memory Layer for AI Applications. Moves RAG intelligence (RRF, MMR, PII Shield, Semantic Cache) into the storage lay",
+    "id": "manasdb/manasdb-core",
+    "language": "TypeScript",
+    "name": "manasdb/manasdb-core",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:45:17Z",
+    "url": "https://github.com/manasdb/manasdb-core"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34930,
+    "updated_at": "2026-07-31T09:37:15Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:37:05Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
+    "id": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
+    "language": "JavaScript",
+    "name": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:33:40Z",
+    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-Platform"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-31T09:33:36Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-31T09:30:28Z",
+    "updated_at": "2026-07-31T09:32:49Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-07-31T09:30:21Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29616,
+    "updated_at": "2026-07-31T09:41:25Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,15 +169,6 @@
     "stars": 45436,
     "updated_at": "2026-07-31T09:24:18Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-31T09:21:08Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -133,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:15:45Z",
     "url": "https://github.com/aramradif/Enterprise-AI-Platform"
-  },
-  {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:00:30Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -297,24 +396,6 @@
     "url": "https://github.com/kabirjaipal/forge-ai"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29615,
-    "updated_at": "2026-07-31T09:28:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34929,
-    "updated_at": "2026-07-31T08:02:03Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
     "id": "sil3d/MATHIR",
     "language": "Python",
@@ -322,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T08:00:15Z",
     "url": "https://github.com/sil3d/MATHIR"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:59:30Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -376,77 +448,5 @@
     "stars": 1902,
     "updated_at": "2026-07-31T07:52:18Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Retrieval-augmented QA for Indian criminal law (BNS/BNSS/BSA) with statute-aware retrieval and a deterministic citation ",
-    "id": "goyashek/bns-legal-rag",
-    "language": "Python",
-    "name": "goyashek/bns-legal-rag",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:45:40Z",
-    "url": "https://github.com/goyashek/bns-legal-rag"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-31T09:20:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
-    "id": "gupta29470/codewalk",
-    "language": "Python",
-    "name": "gupta29470/codewalk",
-    "stars": 5,
-    "updated_at": "2026-07-31T07:35:10Z",
-    "url": "https://github.com/gupta29470/codewalk"
-  },
-  {
-    "description": "Multilingual (Urdu/Roman Urdu/English) RAG system for Class 11 Islamiyat \u2014 hybrid retrieval (semantic + BM25), Cohere re",
-    "id": "Hareema-Adnan833/NCAI-RAG-PROGECT",
-    "language": "Python",
-    "name": "Hareema-Adnan833/NCAI-RAG-PROGECT",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:24:45Z",
-    "url": "https://github.com/Hareema-Adnan833/NCAI-RAG-PROGECT"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 239,
-    "updated_at": "2026-07-31T07:24:02Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Retrieval in one file \u2014 hybrid BM25 + vector search over a single portable capsule. No server, no index to build: vector",
-    "id": "white07S/valise",
-    "language": "Rust",
-    "name": "white07S/valise",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:12:42Z",
-    "url": "https://github.com/white07S/valise"
-  },
-  {
-    "description": "CPU-bound vector indexing library supporting HNSW and IVF algorithms for fast similarity search in Swift 6 + Metal 4",
-    "id": "gifton/VectorIndex",
-    "language": "Swift",
-    "name": "gifton/VectorIndex",
-    "stars": 3,
-    "updated_at": "2026-07-31T07:05:04Z",
-    "url": "https://github.com/gifton/VectorIndex"
-  },
-  {
-    "description": "\u26a1 Blazingly fast, lightweight Go REST API & SDK for text chunking in RAG (Retrieval-Augmented Generation) pipelines.",
-    "id": "Adedejiosvaldo/rag-chunker",
-    "language": "Go",
-    "name": "Adedejiosvaldo/rag-chunker",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:04:24Z",
-    "url": "https://github.com/Adedejiosvaldo/rag-chunker"
   }
 ]
