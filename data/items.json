@@ -1,21 +1,111 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T10:40:57Z",
+    "updated_at": "2026-07-31T10:57:32Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:53:01Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2038,
+    "updated_at": "2026-07-31T10:54:14Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-07-31T10:48:29Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:48:05Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-07-31T10:47:52Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29618,
+    "updated_at": "2026-07-31T10:57:18Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:46:14Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 372,
+    "updated_at": "2026-07-31T10:46:11Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16677,
+    "updated_at": "2026-07-31T10:59:15Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -45,15 +135,6 @@
     "url": "https://github.com/FreeAutomation-Tech/agent-memory-kit"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16676,
-    "updated_at": "2026-07-31T10:41:57Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
     "id": "deven96/ahnlich",
     "language": "Rust",
@@ -61,24 +142,6 @@
     "stars": 241,
     "updated_at": "2026-07-31T10:36:56Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:29:05Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -108,15 +171,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29617,
-    "updated_at": "2026-07-31T10:21:38Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -144,15 +198,6 @@
     "url": "https://github.com/zilliztech/vector-graph-rag"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2038,
-    "updated_at": "2026-07-31T10:04:40Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
     "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
     "language": "JavaScript",
@@ -175,7 +220,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12751,
+    "stars": 12752,
     "updated_at": "2026-07-31T09:53:07Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -247,7 +292,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34930,
+    "stars": 34931,
     "updated_at": "2026-07-31T09:37:15Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-31T08:32:50Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:29:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
-    "id": "caizefan34/local-ai-stack",
-    "language": "Python",
-    "name": "caizefan34/local-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:28:29Z",
-    "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9402,
-    "updated_at": "2026-07-31T10:16:39Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6197,
-    "updated_at": "2026-07-31T10:37:40Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83d\ude80 Production-ready AI Workspace for Document RAG, Autonomous Agents, Dynamic Tool Calling, Structured Data Extraction, a",
-    "id": "kabirjaipal/forge-ai",
-    "language": "TypeScript",
-    "name": "kabirjaipal/forge-ai",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:17:25Z",
-    "url": "https://github.com/kabirjaipal/forge-ai"
   }
 ]
