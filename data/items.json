@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T21:30:23Z",
+    "updated_at": "2026-07-31T21:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:38:49Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-31T21:40:58Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -45,15 +72,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-07-31T21:21:10Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 325,
     "updated_at": "2026-07-31T21:19:14Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -113,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-07-31T21:29:53Z",
+    "updated_at": "2026-07-31T21:44:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-07-31T20:33:50Z",
+    "updated_at": "2026-07-31T21:38:10Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 8,
-    "updated_at": "2026-07-31T20:17:02Z",
+    "updated_at": "2026-07-31T21:32:04Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 418,
     "updated_at": "2026-07-31T20:15:43Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:14:53Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -274,7 +274,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6347,
+    "stars": 6348,
     "updated_at": "2026-07-31T20:04:43Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
