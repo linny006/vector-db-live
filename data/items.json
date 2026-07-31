@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T18:30:25Z",
+    "updated_at": "2026-07-31T18:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:45:22Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 325,
+    "updated_at": "2026-07-31T18:44:53Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:43:43Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 1,
+    "updated_at": "2026-07-31T18:40:07Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "Personal RAG Bot built using LangChain Python Framework and Streamlit for UI",
+    "id": "karthi505/Personal_RAG_BOT",
+    "language": "Python",
+    "name": "karthi505/Personal_RAG_BOT",
+    "stars": 1,
+    "updated_at": "2026-07-31T18:38:56Z",
+    "url": "https://github.com/karthi505/Personal_RAG_BOT"
+  },
+  {
+    "description": "Production RAG + agentic oncology knowledge system on Weaviate  , real CIViC/ClinicalTrials.gov/openFDA data, tuned hybr",
+    "id": "HarshTomar1234/OncoRAG",
+    "language": "Python",
+    "name": "HarshTomar1234/OncoRAG",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:38:18Z",
+    "url": "https://github.com/HarshTomar1234/OncoRAG"
+  },
+  {
+    "description": "AWS three-tier architecture provisioned with Terraform, running a containerized Go RAG microservice that returns grounde",
+    "id": "Go-Santiago-Go/rag-api",
+    "language": "Go",
+    "name": "Go-Santiago-Go/rag-api",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:34:27Z",
+    "url": "https://github.com/Go-Santiago-Go/rag-api"
+  },
+  {
+    "description": "Enterprise Graph-RAG pipeline: hybrid vector (Qdrant) + knowledge-graph (Neo4j) retrieval with measured cross-document e",
+    "id": "syakirinpahimi/hybrid-rag",
+    "language": "Python",
+    "name": "syakirinpahimi/hybrid-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:31:23Z",
+    "url": "https://github.com/syakirinpahimi/hybrid-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -25,15 +106,6 @@
     "stars": 11045,
     "updated_at": "2026-07-31T18:26:57Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 325,
-    "updated_at": "2026-07-31T18:25:32Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T18:18:24Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:17:53Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29626,
-    "updated_at": "2026-07-31T18:16:00Z",
+    "updated_at": "2026-07-31T18:44:47Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T17:52:43Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "Enterprise Graph-RAG pipeline: hybrid vector (Qdrant) + knowledge-graph (Neo4j) retrieval with measured cross-document e",
-    "id": "syakirinpahimi/hybrid-rag",
-    "language": "Python",
-    "name": "syakirinpahimi/hybrid-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:49:39Z",
-    "url": "https://github.com/syakirinpahimi/hybrid-rag"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -401,52 +446,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33698,
-    "updated_at": "2026-07-31T17:52:09Z",
+    "updated_at": "2026-07-31T18:32:34Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9405,
-    "updated_at": "2026-07-31T17:59:35Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:14:12Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-07-31T16:05:43Z",
-    "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Backend for movies recomendations for groups ",
-    "id": "Biccamor/Moovy",
-    "language": "Python",
-    "name": "Biccamor/Moovy",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:04:26Z",
-    "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 96,
-    "updated_at": "2026-07-31T15:52:56Z",
-    "url": "https://github.com/oracle/ai-optimizer"
   }
 ]
