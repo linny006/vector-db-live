@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:28:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45436,
+    "updated_at": "2026-07-31T09:24:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-07-31T09:21:08Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T09:18:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 245,
+    "updated_at": "2026-07-31T09:17:40Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7909,
+    "updated_at": "2026-07-31T09:25:19Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
+    "id": "dk3yyyy/local_AI_agent",
+    "language": "Python",
+    "name": "dk3yyyy/local_AI_agent",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:16:57Z",
+    "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,30 +90,12 @@
     "url": "https://github.com/FreeAutomation-Tech/agent-memory-kit"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 245,
-    "updated_at": "2026-07-31T09:14:33Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T09:14:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T09:08:04Z",
+    "updated_at": "2026-07-31T09:30:21Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "aramradif/Enterprise-AI-Platform",
     "stars": 0,
-    "updated_at": "2026-07-31T09:03:15Z",
+    "updated_at": "2026-07-31T09:15:45Z",
     "url": "https://github.com/aramradif/Enterprise-AI-Platform"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T09:00:30Z",
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T09:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -140,7 +185,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1343,
-    "updated_at": "2026-07-31T08:49:24Z",
+    "updated_at": "2026-07-31T09:16:22Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -225,30 +270,12 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45436,
-    "updated_at": "2026-07-31T09:03:13Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:23:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6197,
-    "updated_at": "2026-07-31T08:44:36Z",
+    "updated_at": "2026-07-31T09:26:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,21 +288,12 @@
     "url": "https://github.com/kabirjaipal/forge-ai"
   },
   {
-    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
-    "id": "dk3yyyy/local_AI_agent",
-    "language": "Python",
-    "name": "dk3yyyy/local_AI_agent",
-    "stars": 3,
-    "updated_at": "2026-07-31T09:14:01Z",
-    "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29615,
-    "updated_at": "2026-07-31T09:01:40Z",
+    "updated_at": "2026-07-31T09:28:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -283,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34930,
+    "stars": 34929,
     "updated_at": "2026-07-31T08:02:03Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -365,7 +383,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-31T07:43:35Z",
+    "updated_at": "2026-07-31T09:20:02Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/white07S/valise"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7908,
-    "updated_at": "2026-07-31T08:38:28Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "CPU-bound vector indexing library supporting HNSW and IVF algorithms for fast similarity search in Swift 6 + Metal 4",
     "id": "gifton/VectorIndex",
     "language": "Swift",
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-07-31T06:57:10Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 117,
-    "updated_at": "2026-07-31T06:49:03Z",
-    "url": "https://github.com/zilliztech/mfs"
   }
 ]
