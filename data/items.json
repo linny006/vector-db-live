@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T04:42:56Z",
+    "updated_at": "2026-07-31T05:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:48:52Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,6 +36,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64144,
+    "updated_at": "2026-07-31T04:38:27Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -25,33 +52,6 @@
     "stars": 16,
     "updated_at": "2026-07-31T04:33:48Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-07-31T04:40:03Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64143,
-    "updated_at": "2026-07-31T04:38:27Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T04:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
@@ -104,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-31T04:43:57Z",
+    "updated_at": "2026-07-31T04:57:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1606,
-    "updated_at": "2026-07-31T01:23:52Z",
+    "updated_at": "2026-07-31T04:54:02Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 10,
-    "updated_at": "2026-07-31T03:42:39Z",
+    "updated_at": "2026-07-31T04:50:05Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
@@ -346,7 +346,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33687,
+    "stars": 33688,
     "updated_at": "2026-07-31T00:02:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -364,7 +364,7 @@
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
     "name": "GlitterKill/sdl-mcp",
-    "stars": 455,
+    "stars": 456,
     "updated_at": "2026-07-30T23:55:46Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
@@ -427,7 +427,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29613,
+    "stars": 29615,
     "updated_at": "2026-07-30T22:39:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
