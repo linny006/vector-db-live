@@ -1,5 +1,68 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7034,
+    "updated_at": "2026-07-31T15:11:18Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-07-31T15:10:00Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Know what you're signing. AI-powered clause risk detection with grounded, citation-backed explanations.",
+    "id": "ashu75575/ClauseGuard",
+    "language": "TypeScript",
+    "name": "ashu75575/ClauseGuard",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:08:54Z",
+    "url": "https://github.com/ashu75575/ClauseGuard"
+  },
+  {
+    "description": "High-Performance Engine for Multi-Vector Search",
+    "id": "lightonai/fast-plaid",
+    "language": "Python",
+    "name": "lightonai/fast-plaid",
+    "stars": 271,
+    "updated_at": "2026-07-31T15:06:11Z",
+    "url": "https://github.com/lightonai/fast-plaid"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1056,
+    "updated_at": "2026-07-31T15:05:10Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:04:27Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-07-31T15:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Autonomous AI Developer Productivity & RAG Knowledge Platform",
+    "id": "Rishisharma029/DevIntel-AI",
+    "language": "TypeScript",
+    "name": "Rishisharma029/DevIntel-AI",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:14:48Z",
+    "url": "https://github.com/Rishisharma029/DevIntel-AI"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "Autonomous AI Developer Productivity & RAG Knowledge Platform",
-    "id": "Rishisharma029/DevIntel-AI",
-    "language": "TypeScript",
-    "name": "Rishisharma029/DevIntel-AI",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:59:28Z",
-    "url": "https://github.com/Rishisharma029/DevIntel-AI"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -36,15 +99,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "High-Performance Engine for Multi-Vector Search",
-    "id": "lightonai/fast-plaid",
-    "language": "Python",
-    "name": "lightonai/fast-plaid",
-    "stars": 271,
-    "updated_at": "2026-07-31T14:51:06Z",
-    "url": "https://github.com/lightonai/fast-plaid"
-  },
-  {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs and type-safe DSLs, REST with no Netty on yo",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
@@ -52,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T14:50:00Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1056,
-    "updated_at": "2026-07-31T14:49:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -95,17 +140,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-07-31T14:47:12Z",
+    "updated_at": "2026-07-31T15:03:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native ",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T14:50:57Z",
+    "updated_at": "2026-07-31T15:14:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T13:14:59Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7034,
-    "updated_at": "2026-07-31T13:40:19Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:56:40Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-07-31T12:50:59Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "AI-powered consulting analytics copilot built with FastAPI, React, LangGraph, ChromaDB, and Groq, delivering explainable",
-    "id": "Anniedrippin/clientiq",
-    "language": "Python",
-    "name": "Anniedrippin/clientiq",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:42:57Z",
-    "url": "https://github.com/Anniedrippin/clientiq"
   }
 ]
