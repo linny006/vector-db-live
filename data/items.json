@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T12:30:21Z",
+    "updated_at": "2026-07-31T12:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-07-31T12:44:44Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "An AI-powered, multi-agent financial document analyzer built with FastAPI, Streamlit, ChromaDB, and the Lemma SDK.",
+    "id": "BollareddyPranoyRaj/lemma-zk-tracer",
+    "language": "Python",
+    "name": "BollareddyPranoyRaj/lemma-zk-tracer",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:42:20Z",
+    "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29620,
-    "updated_at": "2026-07-31T12:27:41Z",
+    "stars": 29621,
+    "updated_at": "2026-07-31T12:40:22Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "PDF Chat is a simple web app that lets you upload one PDF and ask questions about it in plain English. It reads the PDF,",
+    "id": "MAhmad25/Chat_with_Document_RAG",
+    "language": "TypeScript",
+    "name": "MAhmad25/Chat_with_Document_RAG",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:33:39Z",
+    "url": "https://github.com/MAhmad25/Chat_with_Document_RAG"
+  },
+  {
+    "description": "A PHP Client for the Milvus Vector Database Rest API",
+    "id": "HelgeSverre/milvus",
+    "language": "PHP",
+    "name": "HelgeSverre/milvus",
+    "stars": 33,
+    "updated_at": "2026-07-31T12:33:10Z",
+    "url": "https://github.com/HelgeSverre/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34933,
-    "updated_at": "2026-07-31T12:28:32Z",
+    "updated_at": "2026-07-31T12:35:50Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
-    "description": "A PHP Client for the Milvus Vector Database Rest API",
-    "id": "HelgeSverre/milvus",
-    "language": "PHP",
-    "name": "HelgeSverre/milvus",
-    "stars": 33,
-    "updated_at": "2026-07-31T12:20:17Z",
-    "url": "https://github.com/HelgeSverre/milvus"
-  },
-  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -72,15 +108,6 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "An AI-powered, multi-agent financial document analyzer built with FastAPI, Streamlit, ChromaDB, and the Lemma SDK.",
-    "id": "BollareddyPranoyRaj/lemma-zk-tracer",
-    "language": "Python",
-    "name": "BollareddyPranoyRaj/lemma-zk-tracer",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:19:29Z",
-    "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,15 +115,6 @@
     "stars": 1872,
     "updated_at": "2026-07-31T12:18:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -122,7 +140,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T12:02:44Z",
+    "updated_at": "2026-07-31T12:39:47Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -171,15 +189,6 @@
     "url": "https://github.com/dk3yyyy/local_AI_agent"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-31T11:54:08Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
     "id": "coolloic/Notebook",
     "language": "HTML",
@@ -221,7 +230,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-31T11:54:42Z",
+    "updated_at": "2026-07-31T12:43:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T12:23:45Z",
+    "updated_at": "2026-07-31T12:39:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9403,
-    "updated_at": "2026-07-31T12:20:49Z",
+    "updated_at": "2026-07-31T12:44:04Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -437,16 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7910,
-    "updated_at": "2026-07-31T11:26:14Z",
+    "updated_at": "2026-07-31T12:39:17Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
-    "id": "KB-perByte/hiveshare",
-    "language": "Go",
-    "name": "KB-perByte/hiveshare",
-    "stars": 5,
-    "updated_at": "2026-07-31T09:45:09Z",
-    "url": "https://github.com/KB-perByte/hiveshare"
   }
 ]
