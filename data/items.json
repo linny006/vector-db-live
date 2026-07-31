@@ -1,5 +1,41 @@
 [
   {
+    "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
+    "id": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
+    "language": "TypeScript",
+    "name": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:29:00Z",
+    "url": "https://github.com/Humble-Librarian/RAG-Pipeline-Debugger-Visualizer"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 94,
+    "updated_at": "2026-07-31T06:27:22Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
+    "id": "kifayat-irfan/local-first-rag-platform",
+    "language": "Python",
+    "name": "kifayat-irfan/local-first-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:16:07Z",
+    "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T06:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T06:02:27Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -212,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1055,
-    "updated_at": "2026-07-31T06:06:07Z",
+    "updated_at": "2026-07-31T06:27:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 44,
     "updated_at": "2026-07-31T04:02:15Z",
     "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
-    "id": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
-    "language": "TypeScript",
-    "name": "Humble-Librarian/RAG-Pipeline-Debugger-Visualizer",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:56:16Z",
-    "url": "https://github.com/Humble-Librarian/RAG-Pipeline-Debugger-Visualizer"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -329,7 +347,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7907,
-    "updated_at": "2026-07-31T06:15:13Z",
+    "updated_at": "2026-07-31T06:22:14Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-30T23:50:08Z",
     "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 51,
-    "updated_at": "2026-07-30T23:48:55Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-07-30T23:44:54Z",
-    "url": "https://github.com/thekaveh/atlas"
   }
 ]
