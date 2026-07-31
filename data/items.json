@@ -1,12 +1,39 @@
 [
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45435,
-    "updated_at": "2026-07-31T02:18:16Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T02:41:37Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-31T02:44:33Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T02:34:02Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11038,
+    "updated_at": "2026-07-31T02:32:31Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T02:15:26Z",
+    "updated_at": "2026-07-31T02:45:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-31T02:15:23Z",
+    "updated_at": "2026-07-31T02:30:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45435,
+    "updated_at": "2026-07-31T02:18:16Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -94,7 +130,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10225,
+    "stars": 10226,
     "updated_at": "2026-07-31T01:01:05Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -171,15 +207,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-30T23:58:31Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with rer",
     "id": "barateza/mcp-plesk-dev-docs",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T23:50:08Z",
     "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11038,
-    "updated_at": "2026-07-30T23:50:05Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -268,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T23:05:34Z",
     "url": "https://github.com/TheFractalyst/PineMCP"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:05:09Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -439,14 +448,5 @@
     "stars": 477,
     "updated_at": "2026-07-31T00:33:24Z",
     "url": "https://github.com/redis-developer/redis-ai-resources"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12747,
-    "updated_at": "2026-07-30T20:32:43Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
