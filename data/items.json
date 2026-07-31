@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-31T16:06:38Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -14,8 +14,44 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 4,
-    "updated_at": "2026-07-31T15:58:52Z",
+    "updated_at": "2026-07-31T16:05:43Z",
     "url": "https://github.com/vul-os/basin"
+  },
+  {
+    "description": "Backend for movies recomendations for groups ",
+    "id": "Biccamor/Moovy",
+    "language": "Python",
+    "name": "Biccamor/Moovy",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:05:36Z",
+    "url": "https://github.com/Biccamor/Moovy"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:03:02Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -54,21 +90,12 @@
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-07-31T15:40:29Z",
+    "updated_at": "2026-07-31T16:10:04Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T15:57:20Z",
+    "updated_at": "2026-07-31T16:10:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-31T15:11:18Z",
+    "updated_at": "2026-07-31T16:01:14Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11043,
-    "updated_at": "2026-07-31T15:45:57Z",
+    "updated_at": "2026-07-31T16:00:48Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T15:42:28Z",
+    "updated_at": "2026-07-31T16:05:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7911,
-    "updated_at": "2026-07-31T14:06:10Z",
+    "updated_at": "2026-07-31T16:10:58Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 119,
     "updated_at": "2026-07-31T14:01:00Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Enterprise AI-powered Product Management Platform with RAG, Tool Calling, Semantic Search, Clean Architecture, and CQRS.",
-    "id": "Dev-Ahmed-Ashraf/-AI-Product-Intelligence-Platform-",
-    "language": "C#",
-    "name": "Dev-Ahmed-Ashraf/-AI-Product-Intelligence-Platform-",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:56:54Z",
-    "url": "https://github.com/Dev-Ahmed-Ashraf/-AI-Product-Intelligence-Platform-"
-  },
-  {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-07-31T13:54:34Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-07-31T15:39:34Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
