@@ -1,5 +1,68 @@
 [
   {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 31,
+    "updated_at": "2026-07-31T06:57:10Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "\u26a1 Blazingly fast, lightweight Go REST API & SDK for text chunking in RAG (Retrieval-Augmented Generation) pipelines.",
+    "id": "Adedejiosvaldo/rag-chunker",
+    "language": "\u2014",
+    "name": "Adedejiosvaldo/rag-chunker",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:56:59Z",
+    "url": "https://github.com/Adedejiosvaldo/rag-chunker"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45436,
+    "updated_at": "2026-07-31T06:58:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T06:49:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
+    "id": "zilliztech/mfs",
+    "language": "Python",
+    "name": "zilliztech/mfs",
+    "stars": 117,
+    "updated_at": "2026-07-31T06:49:03Z",
+    "url": "https://github.com/zilliztech/mfs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T06:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T06:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Python client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
@@ -18,15 +81,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:33:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T06:31:21Z",
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T06:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T06:16:07Z",
     "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T06:13:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -133,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-07-31T05:53:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 773,
+    "updated_at": "2026-07-31T05:52:21Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -211,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64147,
+    "stars": 64148,
     "updated_at": "2026-07-31T04:38:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -333,24 +378,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45436,
-    "updated_at": "2026-07-31T04:00:17Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
-    "id": "zilliztech/mfs",
-    "language": "Python",
-    "name": "zilliztech/mfs",
-    "stars": 117,
-    "updated_at": "2026-07-31T02:54:54Z",
-    "url": "https://github.com/zilliztech/mfs"
-  },
-  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T00:54:44Z",
     "url": "https://github.com/aramradif/Enterprise-AI-Platform"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:35:56Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
-    "id": "redis-developer/redis-ai-resources",
-    "language": "Jupyter Notebook",
-    "name": "redis-developer/redis-ai-resources",
-    "stars": 478,
-    "updated_at": "2026-07-31T00:33:24Z",
-    "url": "https://github.com/redis-developer/redis-ai-resources"
-  },
-  {
-    "description": "Embedded vector store for Rust, built on FeoxDB. ",
-    "id": "mehrantsi/feox-vector",
-    "language": "Rust",
-    "name": "mehrantsi/feox-vector",
-    "stars": 1,
-    "updated_at": "2026-07-31T00:26:14Z",
-    "url": "https://github.com/mehrantsi/feox-vector"
   }
 ]
