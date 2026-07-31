@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI-powered, multi-agent financial document analyzer built with FastAPI, Streamlit, ChromaDB, and the Lemma SDK.",
+    "id": "BollareddyPranoyRaj/lemma-zk-tracer",
+    "language": "Python",
+    "name": "BollareddyPranoyRaj/lemma-zk-tracer",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:29:00Z",
+    "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-07-31T11:26:31Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1902,
+    "updated_at": "2026-07-31T11:23:06Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
+    "id": "ana738-bit/music-recommender-rag",
+    "language": "Python",
+    "name": "ana738-bit/music-recommender-rag",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:22:49Z",
+    "url": "https://github.com/ana738-bit/music-recommender-rag"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12752,
+    "updated_at": "2026-07-31T11:22:09Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29620,
+    "updated_at": "2026-07-31T11:29:17Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:18:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
+    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "language": "Python",
+    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:16:08Z",
+    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
+  },
+  {
+    "description": "A PHP Client for the Milvus Vector Database Rest API",
+    "id": "HelgeSverre/milvus",
+    "language": "PHP",
+    "name": "HelgeSverre/milvus",
+    "stars": 33,
+    "updated_at": "2026-07-31T11:18:30Z",
+    "url": "https://github.com/HelgeSverre/milvus"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:15:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -14,7 +122,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 3,
-    "updated_at": "2026-07-31T11:12:46Z",
+    "updated_at": "2026-07-31T11:22:23Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T11:08:36Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -88,15 +178,6 @@
     "stars": 60,
     "updated_at": "2026-07-31T10:47:52Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29618,
-    "updated_at": "2026-07-31T10:57:18Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
@@ -171,15 +252,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:23:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -221,17 +293,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7910,
-    "updated_at": "2026-07-31T10:43:48Z",
+    "updated_at": "2026-07-31T11:26:14Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12752,
-    "updated_at": "2026-07-31T09:53:07Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
@@ -385,68 +448,5 @@
     "stars": 1056,
     "updated_at": "2026-07-31T08:50:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:50:59Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-07-31T08:50:23Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 8,
-    "updated_at": "2026-07-31T08:45:35Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 239,
-    "updated_at": "2026-07-31T08:45:22Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
-    "id": "DemigodDSK/hubmesh",
-    "language": "Python",
-    "name": "DemigodDSK/hubmesh",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:42:04Z",
-    "url": "https://github.com/DemigodDSK/hubmesh"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33688,
-    "updated_at": "2026-07-31T11:00:55Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
-    "id": "avnlp/vectordb",
-    "language": "Python",
-    "name": "avnlp/vectordb",
-    "stars": 5,
-    "updated_at": "2026-07-31T08:34:56Z",
-    "url": "https://github.com/avnlp/vectordb"
   }
 ]
