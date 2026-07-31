@@ -1,12 +1,102 @@
 [
   {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 9,
+    "updated_at": "2026-07-31T17:29:53Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
+    "id": "fishmem-labs/fishmem",
+    "language": "TypeScript",
+    "name": "fishmem-labs/fishmem",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:29:07Z",
+    "url": "https://github.com/fishmem-labs/fishmem"
+  },
+  {
+    "description": "Python SDK for Milvus Vector Database",
+    "id": "milvus-io/pymilvus",
+    "language": "Python",
+    "name": "milvus-io/pymilvus",
+    "stars": 1402,
+    "updated_at": "2026-07-31T17:24:12Z",
+    "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6306,
+    "updated_at": "2026-07-31T17:26:43Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:29:50Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "TypeScript",
+    "name": "EVEDensity/AgentHub",
+    "stars": 22,
+    "updated_at": "2026-07-31T17:18:20Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
     "description": "Full-stack AI workspace & RAG research assistant built on top of Lenny's Podcast transcripts using FastAPI, Next.js, Chr",
     "id": "sakthiMurugan03/lenny-growth-assistant",
     "language": "TypeScript",
     "name": "sakthiMurugan03/lenny-growth-assistant",
     "stars": 0,
-    "updated_at": "2026-07-31T17:15:10Z",
+    "updated_at": "2026-07-31T17:16:47Z",
     "url": "https://github.com/sakthiMurugan03/lenny-growth-assistant"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:15:42Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:15:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-07-31T17:22:15Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -36,15 +126,6 @@
     "url": "https://github.com/messkan/prompt-cache"
   },
   {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:11:00Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -54,15 +135,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-07-31T17:14:40Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -70,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T17:02:08Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -104,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1056,
-    "updated_at": "2026-07-31T17:04:41Z",
+    "updated_at": "2026-07-31T17:16:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "danny-avila/rag_api",
     "stars": 874,
-    "updated_at": "2026-07-31T16:54:31Z",
+    "updated_at": "2026-07-31T17:17:55Z",
     "url": "https://github.com/danny-avila/rag_api"
   },
   {
@@ -126,21 +180,12 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
-    "id": "fishmem-labs/fishmem",
-    "language": "TypeScript",
-    "name": "fishmem-labs/fishmem",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:46:37Z",
-    "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-07-31T16:46:38Z",
+    "updated_at": "2026-07-31T17:21:53Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 45440,
     "updated_at": "2026-07-31T16:41:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6306,
-    "updated_at": "2026-07-31T16:40:56Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29625,
-    "updated_at": "2026-07-31T16:11:50Z",
+    "updated_at": "2026-07-31T17:26:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 96,
     "updated_at": "2026-07-31T15:52:56Z",
     "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:52:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T15:04:27Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 16,
-    "updated_at": "2026-07-31T14:53:32Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 838,
-    "updated_at": "2026-07-31T14:51:28Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:49:38Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   }
 ]
