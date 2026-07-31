@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:11:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
+    "id": "o-valo/brainagent",
+    "language": "Python",
+    "name": "o-valo/brainagent",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:09:22Z",
+    "url": "https://github.com/o-valo/brainagent"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-31T12:02:44Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T12:02:43Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "API REST con RAG (FastAPI + LangChain + Chroma + Claude): responde preguntas sobre un perfil (CV + READMEs de GitHub) co",
+    "id": "jpberarducci/profile-rag-service",
+    "language": "Python",
+    "name": "jpberarducci/profile-rag-service",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:00:49Z",
+    "url": "https://github.com/jpberarducci/profile-rag-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +63,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-07-31T12:00:09Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T11:58:26Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "API REST con RAG (FastAPI + LangChain + Chroma + Claude): responde preguntas sobre un perfil (CV + READMEs de GitHub) co",
-    "id": "jpberarducci/profile-rag-service",
-    "language": "Python",
-    "name": "jpberarducci/profile-rag-service",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:57:40Z",
-    "url": "https://github.com/jpberarducci/profile-rag-service"
   },
   {
     "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
@@ -45,15 +99,6 @@
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-31T11:57:58Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
     "id": "coolloic/Notebook",
     "language": "HTML",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T11:50:03Z",
     "url": "https://github.com/coolloic/Notebook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:47:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -180,15 +216,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:18:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
     "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
     "language": "Python",
@@ -225,15 +252,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:09:50Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
     "description": "Python client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
@@ -247,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33689,
+    "stars": 33690,
     "updated_at": "2026-07-31T11:00:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T11:49:53Z",
+    "updated_at": "2026-07-31T12:05:59Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45438,
-    "updated_at": "2026-07-31T10:16:18Z",
+    "updated_at": "2026-07-31T12:03:31Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-31T09:41:55Z",
     "url": "https://github.com/rodrigopitanga/pavedb"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 3,
-    "updated_at": "2026-07-31T09:40:50Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "The Memory Layer for AI Applications. Moves RAG intelligence (RRF, MMR, PII Shield, Semantic Cache) into the storage lay",
-    "id": "manasdb/manasdb-core",
-    "language": "TypeScript",
-    "name": "manasdb/manasdb-core",
-    "stars": 3,
-    "updated_at": "2026-07-31T09:45:17Z",
-    "url": "https://github.com/manasdb/manasdb-core"
   }
 ]
