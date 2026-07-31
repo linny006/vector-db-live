@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:58:26Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "API REST con RAG (FastAPI + LangChain + Chroma + Claude): responde preguntas sobre un perfil (CV + READMEs de GitHub) co",
+    "id": "jpberarducci/profile-rag-service",
+    "language": "Python",
+    "name": "jpberarducci/profile-rag-service",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:57:40Z",
+    "url": "https://github.com/jpberarducci/profile-rag-service"
+  },
+  {
+    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
+    "id": "dk3yyyy/local_AI_agent",
+    "language": "Python",
+    "name": "dk3yyyy/local_AI_agent",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:54:43Z",
+    "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
     "id": "IBazylchuk/paparats-mcp",
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 10,
-    "updated_at": "2026-07-31T11:46:52Z",
+    "updated_at": "2026-07-31T11:54:08Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:57:58Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:50:03Z",
+    "url": "https://github.com/coolloic/Notebook"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +68,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-07-31T11:45:26Z",
+    "updated_at": "2026-07-31T11:47:49Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:47:38Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T11:47:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Build your own offline domain-specific AI from your knowledge.",
@@ -50,7 +113,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7034,
-    "updated_at": "2026-07-31T11:35:15Z",
+    "updated_at": "2026-07-31T11:54:42Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "API REST con RAG (FastAPI + LangChain + Chroma + Claude): responde preguntas sobre un perfil (CV + READMEs de GitHub) co",
-    "id": "jpberarducci/profile-rag-service",
-    "language": "Python",
-    "name": "jpberarducci/profile-rag-service",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:16:40Z",
-    "url": "https://github.com/jpberarducci/profile-rag-service"
-  },
-  {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
     "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
     "language": "Python",
@@ -169,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T11:13:30Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-31T11:22:23Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16677,
-    "updated_at": "2026-07-31T11:14:19Z",
+    "updated_at": "2026-07-31T11:49:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 241,
     "updated_at": "2026-07-31T10:36:56Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T11:47:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -378,15 +414,6 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:43:26Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T09:45:17Z",
     "url": "https://github.com/manasdb/manasdb-core"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34931,
-    "updated_at": "2026-07-31T09:37:15Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
-    "id": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
-    "language": "JavaScript",
-    "name": "dasu07988/Enterprise-AI-Incident-Resolution-Platform",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:33:40Z",
-    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-Platform"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-07-31T09:33:36Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   }
 ]
