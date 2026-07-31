@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T04:00:19Z",
+    "updated_at": "2026-07-31T04:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1055,
+    "updated_at": "2026-07-31T04:14:12Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "An AI-powered intent detection engine that analyses company signals across different field and engagement to predict whi",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "Danish08654/B2B-Buying-Signal-Detector",
     "stars": 3,
-    "updated_at": "2026-07-31T03:56:36Z",
+    "updated_at": "2026-07-31T04:12:46Z",
     "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
+  },
+  {
+    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
+    "id": "defai-digital/akidb",
+    "language": "Rust",
+    "name": "defai-digital/akidb",
+    "stars": 1,
+    "updated_at": "2026-07-31T04:09:58Z",
+    "url": "https://github.com/defai-digital/akidb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T04:09:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
+    "id": "sochdb/sochdb",
+    "language": "Rust",
+    "name": "sochdb/sochdb",
+    "stars": 44,
+    "updated_at": "2026-07-31T04:02:15Z",
+    "url": "https://github.com/sochdb/sochdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T04:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "See where your RAG pipeline actually breaks \u2014 a VS Code extension to visually debug chunking and retrieval against your ",
@@ -54,15 +99,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -70,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T03:39:58Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory",
-    "id": "sochdb/sochdb",
-    "language": "Rust",
-    "name": "sochdb/sochdb",
-    "stars": 44,
-    "updated_at": "2026-07-31T03:35:30Z",
-    "url": "https://github.com/sochdb/sochdb"
-  },
-  {
-    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
-    "id": "defai-digital/akidb",
-    "language": "Rust",
-    "name": "defai-digital/akidb",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:35:25Z",
-    "url": "https://github.com/defai-digital/akidb"
   },
   {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
@@ -124,15 +142,6 @@
     "stars": 45436,
     "updated_at": "2026-07-31T04:00:17Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T02:57:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A context harness for AI agents: all your scattered context \u2014 code, memory, docs, databases, SaaS \u2014 in one searchable, b",
@@ -193,7 +202,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11039,
+    "stars": 11040,
     "updated_at": "2026-07-31T02:32:31Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -270,6 +279,15 @@
     "url": "https://github.com/tryAGI/Turbopuffer"
   },
   {
+    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
+    "id": "redis-developer/redis-ai-resources",
+    "language": "Jupyter Notebook",
+    "name": "redis-developer/redis-ai-resources",
+    "stars": 478,
+    "updated_at": "2026-07-31T00:33:24Z",
+    "url": "https://github.com/redis-developer/redis-ai-resources"
+  },
+  {
     "description": "Embedded vector store for Rust, built on FeoxDB. ",
     "id": "mehrantsi/feox-vector",
     "language": "Rust",
@@ -277,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T00:26:14Z",
     "url": "https://github.com/mehrantsi/feox-vector"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1055,
-    "updated_at": "2026-07-31T03:36:49Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -427,7 +436,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64143,
+    "stars": 64142,
     "updated_at": "2026-07-30T22:02:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:02:34Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12769,
-    "updated_at": "2026-07-30T21:50:01Z",
-    "url": "https://github.com/neuml/txtai"
   }
 ]
