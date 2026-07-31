@@ -1,12 +1,93 @@
 [
   {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:29:05Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1872,
+    "updated_at": "2026-07-31T10:27:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 3,
+    "updated_at": "2026-07-31T10:25:04Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-07-31T10:24:30Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:23:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29617,
+    "updated_at": "2026-07-31T10:21:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-31T10:21:22Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45437,
+    "updated_at": "2026-07-31T10:16:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T10:15:23Z",
+    "updated_at": "2026-07-31T10:15:59Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
@@ -18,22 +99,13 @@
     "url": "https://github.com/zilliztech/vector-graph-rag"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29616,
-    "updated_at": "2026-07-31T10:02:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2038,
+    "updated_at": "2026-07-31T10:04:40Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:43:26Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:49:57Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
     "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
@@ -169,42 +232,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T09:33:36Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for the Qdrant vector database \u2014 suspend APIs, type-safe DSLs, small footprint.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 3,
-    "updated_at": "2026-07-31T10:03:31Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T09:28:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45436,
-    "updated_at": "2026-07-31T10:13:14Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1872,
-    "updated_at": "2026-07-31T09:18:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -297,15 +324,6 @@
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-07-31T09:16:22Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "A Lucene codec for vector search and clustering on the GPU",
     "id": "NVIDIA/cuvs-lucene",
     "language": "Java",
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9402,
-    "updated_at": "2026-07-31T08:26:28Z",
+    "updated_at": "2026-07-31T10:16:39Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-31T07:51:02Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:50:45Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:46:18Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   }
 ]
