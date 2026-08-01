@@ -1,5 +1,41 @@
 [
   {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-01T06:25:40Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-01T06:19:32Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
     "id": "RIT-MESH/system-design-mastery",
     "language": "Mermaid",
@@ -23,7 +59,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T06:09:36Z",
+    "updated_at": "2026-08-01T06:25:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -36,30 +72,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T05:58:34Z",
+    "updated_at": "2026-08-01T06:19:16Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "sattyamjjain/mnemo",
     "stars": 4,
-    "updated_at": "2026-08-01T05:59:18Z",
+    "updated_at": "2026-08-01T06:26:16Z",
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
@@ -373,7 +391,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33699,
+    "stars": 33700,
     "updated_at": "2026-08-01T02:09:15Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-01T00:26:14Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 326,
-    "updated_at": "2026-08-01T00:00:19Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11046,
-    "updated_at": "2026-07-31T23:40:58Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
