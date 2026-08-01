@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 15:29 UTC
+> ⏰ Last updated: 2026-08-01 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-08-01 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
-| 2 | [avish006/upstash_haystack](https://github.com/avish006/upstash_haystack) | 0 | Python | 2026-08-01 | Haystack DocumentStore integration for Upstash Vector — serverless vector search with hybrid retrieval |
-| 3 | [topk-io/topk](https://github.com/topk-io/topk) | 88 | Rust | 2026-08-01 | High-quality search for AI-native applications. |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-01 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [hseshadr/edgeproc-core](https://github.com/hseshadr/edgeproc-core) | 0 | Python | 2026-08-01 | Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r |
-| 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1873 | Go | 2026-08-01 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 7 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-08-01 | AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
-| 8 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 1 | Go | 2026-08-01 | In-memory knowledge store for AI agents |
-| 9 | [syalia-srl/beaver](https://github.com/syalia-srl/beaver) | 36 | Python | 2026-08-01 | All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite. |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9405 | Rust | 2026-08-01 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 12 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-08-01 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
+| 4 | [avish006/upstash_haystack](https://github.com/avish006/upstash_haystack) | 0 | Python | 2026-08-01 | Haystack DocumentStore integration for Upstash Vector — serverless vector search with hybrid retrieval |
+| 5 | [topk-io/topk](https://github.com/topk-io/topk) | 88 | Rust | 2026-08-01 | High-quality search for AI-native applications. |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-01 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [hseshadr/edgeproc-core](https://github.com/hseshadr/edgeproc-core) | 0 | Python | 2026-08-01 | Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r |
+| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1873 | Go | 2026-08-01 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 9 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-08-01 | AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
+| 10 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 1 | Go | 2026-08-01 | In-memory knowledge store for AI agents |
+| 11 | [syalia-srl/beaver](https://github.com/syalia-srl/beaver) | 36 | Python | 2026-08-01 | All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite. |
+| 12 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9405 | Rust | 2026-08-01 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 13 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 6 | Mojo | 2026-08-01 | Vector DB implementation in Mojo |
 | 14 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1058 | Java | 2026-08-01 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 15 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 20 | Python | 2026-08-01 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
