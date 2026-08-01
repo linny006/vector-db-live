@@ -1,5 +1,68 @@
 [
   {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 42,
+    "updated_at": "2026-08-01T01:43:07Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1873,
+    "updated_at": "2026-08-01T01:38:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
+    "id": "kikugo/unified-rag",
+    "language": "Python",
+    "name": "kikugo/unified-rag",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:38:14Z",
+    "url": "https://github.com/kikugo/unified-rag"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:35:50Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:35:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-08-01T01:32:53Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,22 +81,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 42,
-    "updated_at": "2026-08-01T01:29:12Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:29:04Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33698,
+    "updated_at": "2026-08-01T01:28:13Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -45,30 +99,12 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1873,
-    "updated_at": "2026-08-01T01:18:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
     "id": "sahnsookyung/JobScout",
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-08-01T01:15:15Z",
+    "updated_at": "2026-08-01T01:38:44Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T00:54:04Z",
+    "updated_at": "2026-08-01T01:38:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-08-01T00:38:07Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "ChromaMind is a fast desktop client for ChromaDB.",
     "id": "probaku1234/chromamind",
     "language": "TypeScript",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:58:55Z",
     "url": "https://github.com/probaku1234/chromamind"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:32:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -306,15 +324,6 @@
     "url": "https://github.com/lightonai/fast-plaid"
   },
   {
-    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
-    "id": "kikugo/unified-rag",
-    "language": "Python",
-    "name": "kikugo/unified-rag",
-    "stars": 0,
-    "updated_at": "2026-07-31T22:11:28Z",
-    "url": "https://github.com/kikugo/unified-rag"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
@@ -391,7 +400,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28893,
+    "stars": 28895,
     "updated_at": "2026-07-31T21:07:02Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T20:23:02Z",
     "url": "https://github.com/tirth1263/Agentic-RAG-with-Agno-and-GPT-5"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-07-31T20:20:44Z",
-    "url": "https://github.com/tradik/mddb"
   }
 ]
