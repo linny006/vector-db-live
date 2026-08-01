@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T20:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-01T19:58:05Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
+    "id": "pavanbadempet/Movie-Recommendation-System",
+    "language": "Python",
+    "name": "pavanbadempet/Movie-Recommendation-System",
+    "stars": 8,
+    "updated_at": "2026-08-01T19:57:28Z",
+    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:55:56Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,15 +54,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-01T19:51:17Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -34,24 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T19:46:04Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
@@ -126,15 +135,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
-    "id": "pavanbadempet/Movie-Recommendation-System",
-    "language": "Python",
-    "name": "pavanbadempet/Movie-Recommendation-System",
-    "stars": 8,
-    "updated_at": "2026-08-01T19:15:15Z",
-    "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
@@ -151,6 +151,15 @@
     "stars": 1873,
     "updated_at": "2026-08-01T19:10:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Full-stack task/project manager with a ReAct-style LangGraph agent \u2014 tool-calling, RAG (ChromaDB), token-by-token stream",
+    "id": "HillolPias/taskapi-backend",
+    "language": "Python",
+    "name": "HillolPias/taskapi-backend",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:10:47Z",
+    "url": "https://github.com/HillolPias/taskapi-backend"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -439,14 +448,5 @@
     "stars": 156,
     "updated_at": "2026-08-01T15:46:11Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "The open-source, self-hosted alternative to NotebookLM.",
-    "id": "devyanshyadav/librenote-ai",
-    "language": "TypeScript",
-    "name": "devyanshyadav/librenote-ai",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:43:43Z",
-    "url": "https://github.com/devyanshyadav/librenote-ai"
   }
 ]
