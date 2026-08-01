@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T09:13:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "TypeScript",
+    "name": "EVEDensity/AgentHub",
+    "stars": 22,
+    "updated_at": "2026-08-01T09:08:42Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 829,
+    "updated_at": "2026-08-01T09:08:39Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7032,
+    "updated_at": "2026-08-01T09:08:26Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1057,
+    "updated_at": "2026-08-01T09:06:16Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
+    "id": "1Vewton/WikiSpider",
+    "language": "Go",
+    "name": "1Vewton/WikiSpider",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:05:24Z",
+    "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 155,
+    "updated_at": "2026-08-01T09:00:30Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T09:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T09:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -32,35 +113,17 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 85,
-    "updated_at": "2026-08-01T08:49:50Z",
+    "updated_at": "2026-08-01T09:05:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 829,
-    "updated_at": "2026-08-01T08:58:23Z",
-    "url": "https://github.com/unohee/OpenSwarm"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7914,
+    "updated_at": "2026-08-01T08:40:36Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:38:54Z",
     "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
-    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
-    "id": "1Vewton/WikiSpider",
-    "language": "Go",
-    "name": "1Vewton/WikiSpider",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:36:43Z",
-    "url": "https://github.com/1Vewton/WikiSpider"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -117,15 +171,6 @@
     "url": "https://github.com/RIT-MESH/system-design-mastery"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:16:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
@@ -151,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:13:03Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1057,
-    "updated_at": "2026-08-01T08:05:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 22,
-    "updated_at": "2026-08-01T08:05:20Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T05:13:59Z",
     "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
-    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
-    "id": "jmcgrath207/conproxy",
-    "language": "Rust",
-    "name": "jmcgrath207/conproxy",
-    "stars": 0,
-    "updated_at": "2026-08-01T05:15:15Z",
-    "url": "https://github.com/jmcgrath207/conproxy"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-08-01T04:21:23Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-01T04:15:56Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
