@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T20:30:22Z",
+    "updated_at": "2026-08-01T20:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1058,
+    "updated_at": "2026-08-01T20:43:06Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "An intelligent AI research assistant powered by LLMs, RAG, and LangGraph for document understanding, reasoning, and cont",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "ANSHAM1/ContextFlow.AI",
     "stars": 1,
-    "updated_at": "2026-08-01T20:29:04Z",
+    "updated_at": "2026-08-01T20:36:09Z",
     "url": "https://github.com/ANSHAM1/ContextFlow.AI"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-01T20:40:22Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T20:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T20:27:04Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-01T20:29:16Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
@@ -90,15 +108,6 @@
     "url": "https://github.com/HillolPias/taskapi-backend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T20:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightweight Streamlit web app built for developers who need a quick, visual way to manage and understand their Weaviat",
     "id": "Shah91n/weaviate-cluster-webapp",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-01T20:11:08Z",
+    "updated_at": "2026-08-01T20:45:06Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-01T19:23:18Z",
+    "updated_at": "2026-08-01T20:41:32Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -248,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7915,
-    "updated_at": "2026-08-01T20:11:56Z",
+    "updated_at": "2026-08-01T20:33:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T17:55:14Z",
     "url": "https://github.com/003733m/NeuroCouncil"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-01T20:21:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
