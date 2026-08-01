@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:14:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 774,
+    "updated_at": "2026-08-01T07:12:44Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
+    "id": "RIT-MESH/system-design-mastery",
+    "language": "Mermaid",
+    "name": "RIT-MESH/system-design-mastery",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:09:53Z",
+    "url": "https://github.com/RIT-MESH/system-design-mastery"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 829,
-    "updated_at": "2026-08-01T06:58:40Z",
+    "updated_at": "2026-08-01T07:10:21Z",
     "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
+    "id": "kikugo/unified-rag",
+    "language": "Python",
+    "name": "kikugo/unified-rag",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:05:13Z",
+    "url": "https://github.com/kikugo/unified-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python client for the SeekStorm vector & lexical search server",
@@ -36,33 +81,6 @@
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 774,
-    "updated_at": "2026-08-01T06:56:22Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
     "id": "Soumiya-33/Rag-core",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T06:45:22Z",
     "url": "https://github.com/Soumiya-33/Rag-core"
-  },
-  {
-    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
-    "id": "kikugo/unified-rag",
-    "language": "Python",
-    "name": "kikugo/unified-rag",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:37:42Z",
-    "url": "https://github.com/kikugo/unified-rag"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -126,15 +135,6 @@
     "url": "https://github.com/tradik/mddb"
   },
   {
-    "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
-    "id": "RIT-MESH/system-design-mastery",
-    "language": "Mermaid",
-    "name": "RIT-MESH/system-design-mastery",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:14:27Z",
-    "url": "https://github.com/RIT-MESH/system-design-mastery"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -149,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T06:58:17Z",
+    "updated_at": "2026-08-01T07:10:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +167,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T06:32:08Z",
+    "updated_at": "2026-08-01T07:04:16Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -400,7 +400,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-08-01T03:10:52Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -419,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7912,
-    "updated_at": "2026-08-01T02:50:22Z",
+    "updated_at": "2026-08-01T07:11:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
