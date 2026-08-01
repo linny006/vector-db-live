@@ -1,5 +1,32 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 86,
+    "updated_at": "2026-08-01T10:16:46Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An Agentic AI-powered RAG chatbot that uses LangChain, Pinecone vector search, FastAPI, and Streamlit to deliver context",
     "id": "pratham133/agentic-ai-rag-chatbot",
     "language": "Python",
@@ -14,8 +41,17 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 1,
-    "updated_at": "2026-08-01T10:14:24Z",
+    "updated_at": "2026-08-01T10:18:32Z",
     "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "End-to-end RAG pipeline over 2025 renewable-energy reports - local embeddings, Chroma vector store, and cited sources. W",
+    "id": "danishmahmoodali/rag-pipeline",
+    "language": "Python",
+    "name": "danishmahmoodali/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:14:18Z",
+    "url": "https://github.com/danishmahmoodali/rag-pipeline"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "wickra-lib/wickra-genome",
     "stars": 1,
-    "updated_at": "2026-08-01T10:07:58Z",
+    "updated_at": "2026-08-01T10:15:34Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
@@ -70,24 +106,6 @@
     "stars": 78,
     "updated_at": "2026-08-01T10:11:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:05:24Z",
     "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 86,
-    "updated_at": "2026-08-01T09:05:01Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T06:25:40Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Temporal and category-optimised graph ANN index supporting \u201ctop\u2011k neighbours of q with category C in time window [t_star",
-    "id": "GeorgeTanTK/TACO-GANN",
-    "language": "Python",
-    "name": "GeorgeTanTK/TACO-GANN",
-    "stars": 0,
-    "updated_at": "2026-08-01T05:43:51Z",
-    "url": "https://github.com/GeorgeTanTK/TACO-GANN"
   }
 ]
