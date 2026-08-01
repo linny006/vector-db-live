@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:57:05Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:48:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-01T16:42:19Z",
+    "updated_at": "2026-08-01T16:59:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-01T16:33:24Z",
+    "updated_at": "2026-08-01T16:59:59Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -52,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T16:32:09Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
@@ -88,15 +106,6 @@
     "stars": 29662,
     "updated_at": "2026-08-01T16:21:43Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:21:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:42:00Z",
     "url": "https://github.com/o-valo/brainagent"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "\u2014",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:36:04Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
