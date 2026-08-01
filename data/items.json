@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T04:30:22Z",
+    "updated_at": "2026-08-01T04:38:57Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T04:37:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T04:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -52,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T04:15:56Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T04:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-08-01T03:13:29Z",
+    "updated_at": "2026-08-01T04:32:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 42,
     "updated_at": "2026-08-01T03:10:52Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:03:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "jmcgrath207/conproxy",
     "stars": 0,
-    "updated_at": "2026-08-01T04:16:51Z",
+    "updated_at": "2026-08-01T04:34:39Z",
     "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
@@ -256,7 +256,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33699,
+    "stars": 33700,
     "updated_at": "2026-08-01T02:09:15Z",
     "url": "https://github.com/qdrant/qdrant"
   },
