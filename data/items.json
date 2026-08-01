@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 8,
+    "updated_at": "2026-08-01T03:47:42Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 8,
-    "updated_at": "2026-08-01T03:35:58Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
     "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:32:52Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-powered Telegram chatbot that syncs with a Google Drive folder \u2014 auto-ingests, embeds, and indexes files into pgvect",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1422,
-    "updated_at": "2026-08-01T02:25:47Z",
+    "updated_at": "2026-08-01T03:47:19Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-01T03:34:52Z",
+    "updated_at": "2026-08-01T03:46:42Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-01T00:55:26Z",
+    "updated_at": "2026-08-01T03:48:04Z",
     "url": "https://github.com/agent-ix/ecaz"
   }
 ]
