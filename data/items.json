@@ -1,11 +1,83 @@
 [
   {
+    "description": "One AI assistant for every messaging app you use \u2014 Telegram, Discord, WhatsApp, Slack & 29 more \u2014 with real memory and y",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-01T07:59:35Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:59:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 775,
+    "updated_at": "2026-08-01T07:58:56Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-08-01T07:58:05Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:54:54Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-08-01T07:53:22Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
+    "id": "RIT-MESH/system-design-mastery",
+    "language": "Mermaid",
+    "name": "RIT-MESH/system-design-mastery",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:50:17Z",
+    "url": "https://github.com/RIT-MESH/system-design-mastery"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T07:45:21Z",
+    "updated_at": "2026-08-01T08:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,24 +88,6 @@
     "stars": 829,
     "updated_at": "2026-08-01T07:43:53Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
-    "id": "RIT-MESH/system-design-mastery",
-    "language": "Mermaid",
-    "name": "RIT-MESH/system-design-mastery",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:38:18Z",
-    "url": "https://github.com/RIT-MESH/system-design-mastery"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -61,33 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-01T07:24:49Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-08-01T07:42:04Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:21:52Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 775,
-    "updated_at": "2026-08-01T07:20:56Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
@@ -162,6 +189,15 @@
     "url": "https://github.com/Soumiya-33/Rag-core"
   },
   {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "HTML",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:35:44Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -169,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T06:35:28Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
-    "id": "karthikreddy-7/ai-engineering-playbook",
-    "language": "HTML",
-    "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:35:44Z",
-    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
   {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-08-01T07:28:59Z",
+    "updated_at": "2026-08-01T07:47:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T05:18:04Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-01T05:15:05Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
@@ -418,7 +436,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-08-01T03:10:52Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -430,23 +448,5 @@
     "stars": 457,
     "updated_at": "2026-08-01T02:56:56Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7912,
-    "updated_at": "2026-08-01T07:27:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 240,
-    "updated_at": "2026-08-01T02:32:21Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   }
 ]
