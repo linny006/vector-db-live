@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T22:15:21Z",
+    "updated_at": "2026-08-01T22:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 89,
+    "updated_at": "2026-08-01T22:29:42Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-01T22:26:25Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T22:19:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Distill videos into a local vector DB: a VLM reads the screen, ASR hears the speaker, and LLMs fuse both into grounded, ",
+    "id": "Ayshine/Video-Distiller",
+    "language": "Python",
+    "name": "Ayshine/Video-Distiller",
+    "stars": 0,
+    "updated_at": "2026-08-01T22:17:40Z",
+    "url": "https://github.com/Ayshine/Video-Distiller"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-01T22:16:31Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Full Stack Developer | AI & RAG Expert | Open Source Contributor. Bridging the gap between robust engineering and cuttin",
+    "id": "ihuzaifashoukat/ihuzaifashoukat",
+    "language": "\u2014",
+    "name": "ihuzaifashoukat/ihuzaifashoukat",
+    "stars": 5,
+    "updated_at": "2026-08-01T22:16:12Z",
+    "url": "https://github.com/ihuzaifashoukat/ihuzaifashoukat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T22:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -18,15 +81,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 88,
-    "updated_at": "2026-08-01T22:12:27Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Official Terraform provider for Pinecone ",
     "id": "pinecone-io/terraform-provider-pinecone",
     "language": "Go",
@@ -34,24 +88,6 @@
     "stars": 32,
     "updated_at": "2026-08-01T22:08:05Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
-  },
-  {
-    "description": "Distill lecture/course videos into a local vector DB: a VLM reads the screen, ASR hears the speaker, and LLMs fuse both ",
-    "id": "Ayshine/Video-Distiller",
-    "language": "Python",
-    "name": "Ayshine/Video-Distiller",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:04:45Z",
-    "url": "https://github.com/Ayshine/Video-Distiller"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T22:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -68,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-01T22:15:27Z",
+    "updated_at": "2026-08-01T22:29:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-01T21:47:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T21:42:07Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-01T21:48:33Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -225,15 +243,6 @@
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:46:04Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
     "id": "mudassirshahzad/project-eka",
     "language": "Java",
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T22:03:44Z",
+    "updated_at": "2026-08-01T22:19:31Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T16:21:57Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29673,
-    "updated_at": "2026-08-01T16:21:43Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
