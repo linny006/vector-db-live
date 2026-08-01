@@ -1,12 +1,30 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
+    "id": "dk3yyyy/local_AI_agent",
+    "language": "Python",
+    "name": "dk3yyyy/local_AI_agent",
+    "stars": 4,
+    "updated_at": "2026-08-01T10:24:14Z",
+    "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 86,
-    "updated_at": "2026-08-01T10:16:46Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-01T10:23:12Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-01T10:15:22Z",
+    "updated_at": "2026-08-01T10:22:04Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 86,
+    "updated_at": "2026-08-01T10:16:46Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "An Agentic AI-powered RAG chatbot that uses LangChain, Pinecone vector search, FastAPI, and Streamlit to deliver context",
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 1,
-    "updated_at": "2026-08-01T10:18:32Z",
+    "updated_at": "2026-08-01T10:28:11Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 20,
-    "updated_at": "2026-08-01T10:14:12Z",
+    "updated_at": "2026-08-01T10:24:22Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-01T10:13:27Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 829,
-    "updated_at": "2026-08-01T09:47:47Z",
+    "updated_at": "2026-08-01T10:26:58Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -248,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7914,
-    "updated_at": "2026-08-01T09:57:40Z",
+    "updated_at": "2026-08-01T10:27:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-01T06:26:37Z",
     "url": "https://github.com/jihadkhawaja/mem0sharp"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-01T06:25:40Z",
-    "url": "https://github.com/tradik/mddb"
   }
 ]
