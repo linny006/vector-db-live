@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "xDarkicex/openclaw-memory-libravdb",
     "stars": 10,
-    "updated_at": "2026-08-01T17:28:29Z",
+    "updated_at": "2026-08-01T17:37:46Z",
     "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1058,
+    "updated_at": "2026-08-01T17:33:27Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -72,24 +99,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
     "id": "jihadkhawaja/mem0sharp",
     "language": "C#",
@@ -124,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T16:44:32Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-01T17:19:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -175,7 +175,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29664,
+    "stars": 29666,
     "updated_at": "2026-08-01T16:21:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -338,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9405,
-    "updated_at": "2026-08-01T16:34:24Z",
+    "updated_at": "2026-08-01T17:35:37Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
