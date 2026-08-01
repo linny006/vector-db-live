@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T05:45:17Z",
+    "updated_at": "2026-08-01T06:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-08-01T05:58:34Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1057,
+    "updated_at": "2026-08-01T05:58:13Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-01T05:59:18Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:55:43Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T05:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Temporal and category-optimised graph ANN index supporting \u201ctop\u2011k neighbours of q with category C in time window [t_star",
@@ -18,22 +63,13 @@
     "url": "https://github.com/GeorgeTanTK/TACO-GANN"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A RAG-powered (Retrieval-Augmented Generation) news assistant that fetches news for any date and time range, builds an a",
+    "id": "Parva19/NewsOnHand",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T05:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-08-01T05:29:27Z",
-    "url": "https://github.com/infino-ai/infino"
+    "name": "Parva19/NewsOnHand",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:43:11Z",
+    "url": "https://github.com/Parva19/NewsOnHand"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T05:23:53Z",
     "url": "https://github.com/MontyGovernance/montycat_rust"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1057,
-    "updated_at": "2026-08-01T05:43:47Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
@@ -248,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-08-01T04:32:37Z",
+    "updated_at": "2026-08-01T05:56:36Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 457,
     "updated_at": "2026-08-01T02:56:56Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:53:11Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T23:23:03Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
-    "id": "iharshkaran/hyperAI",
-    "language": "TypeScript",
-    "name": "iharshkaran/hyperAI",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:13:02Z",
-    "url": "https://github.com/iharshkaran/hyperAI"
-  },
-  {
-    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
-    "id": "chrisleekr/langchain-playground",
-    "language": "TypeScript",
-    "name": "chrisleekr/langchain-playground",
-    "stars": 6,
-    "updated_at": "2026-07-31T23:20:25Z",
-    "url": "https://github.com/chrisleekr/langchain-playground"
   }
 ]
