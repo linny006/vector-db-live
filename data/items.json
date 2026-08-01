@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:05:40Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:00:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +25,24 @@
     "stars": 2,
     "updated_at": "2026-08-01T00:00:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:00:32Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 325,
+    "updated_at": "2026-08-01T00:00:19Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -23,7 +59,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-07-31T23:52:30Z",
+    "updated_at": "2026-08-01T00:03:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -70,15 +97,6 @@
     "stars": 11045,
     "updated_at": "2026-07-31T23:40:58Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:55:39Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "Temporal and category-optimised graph ANN index supporting \u201ctop\u2011k neighbours of q with category C in time window [t_star",
@@ -243,15 +261,6 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:00:32Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -313,15 +322,6 @@
     "stars": 29635,
     "updated_at": "2026-07-31T21:21:58Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 325,
-    "updated_at": "2026-08-01T00:00:19Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
