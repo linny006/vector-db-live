@@ -1,12 +1,75 @@
 [
   {
+    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
+    "id": "kikugo/unified-rag",
+    "language": "Python",
+    "name": "kikugo/unified-rag",
+    "stars": 0,
+    "updated_at": "2026-08-01T06:37:42Z",
+    "url": "https://github.com/kikugo/unified-rag"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:37:15Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-01T06:35:28Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "HTML",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-01T06:35:44Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 829,
+    "updated_at": "2026-08-01T06:44:48Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-01T06:27:51Z",
+    "updated_at": "2026-08-01T06:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "id": "jihadkhawaja/mem0sharp",
+    "language": "C#",
+    "name": "jihadkhawaja/mem0sharp",
+    "stars": 9,
+    "updated_at": "2026-08-01T06:26:37Z",
+    "url": "https://github.com/jihadkhawaja/mem0sharp"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -25,15 +88,6 @@
     "stars": 41,
     "updated_at": "2026-08-01T06:19:32Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
@@ -59,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T06:28:43Z",
+    "updated_at": "2026-08-01T06:44:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T06:19:16Z",
+    "updated_at": "2026-08-01T06:32:08Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
-    "id": "kikugo/unified-rag",
-    "language": "Python",
-    "name": "kikugo/unified-rag",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:57:00Z",
-    "url": "https://github.com/kikugo/unified-rag"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-01T02:06:02Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:53:43Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10230,
-    "updated_at": "2026-08-01T01:00:48Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:57:55Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "ChromaMind is a fast desktop client for ChromaDB.",
-    "id": "probaku1234/chromamind",
-    "language": "TypeScript",
-    "name": "probaku1234/chromamind",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:58:55Z",
-    "url": "https://github.com/probaku1234/chromamind"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-08-01T00:26:14Z",
-    "url": "https://github.com/imagodata/filter_mate"
   }
 ]
