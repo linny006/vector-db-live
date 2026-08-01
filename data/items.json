@@ -1,5 +1,59 @@
 [
   {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:44:04Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-08-01T00:38:07Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "ChromaMind is a fast desktop client for ChromaDB.",
+    "id": "probaku1234/chromamind",
+    "language": "TypeScript",
+    "name": "probaku1234/chromamind",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:36:48Z",
+    "url": "https://github.com/probaku1234/chromamind"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:32:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 457,
+    "updated_at": "2026-08-01T00:31:25Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Rust",
     "name": "jmcgrath207/conproxy",
     "stars": 0,
-    "updated_at": "2026-08-01T00:29:14Z",
+    "updated_at": "2026-08-01T00:32:59Z",
     "url": "https://github.com/jmcgrath207/conproxy"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-08-01T00:27:36Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -36,30 +81,12 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 457,
-    "updated_at": "2026-08-01T00:17:16Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
     "id": "sahnsookyung/JobScout",
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-08-01T00:05:40Z",
+    "updated_at": "2026-08-01T00:42:57Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -76,7 +103,7 @@
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 325,
+    "stars": 326,
     "updated_at": "2026-08-01T00:00:19Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -86,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T00:17:56Z",
+    "updated_at": "2026-08-01T00:40:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -99,21 +126,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:48:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7911,
-    "updated_at": "2026-07-31T23:42:04Z",
+    "updated_at": "2026-08-01T00:41:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 42,
     "updated_at": "2026-07-31T22:48:01Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
-    "id": "ErenReyhanlioglu/seekbind",
-    "language": "Python",
-    "name": "ErenReyhanlioglu/seekbind",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:26:52Z",
-    "url": "https://github.com/ErenReyhanlioglu/seekbind"
   },
   {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6306,
-    "updated_at": "2026-07-31T22:28:09Z",
+    "updated_at": "2026-08-01T00:43:33Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7033,
     "updated_at": "2026-07-31T20:09:56Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Architecture, deployment, and CI/CD of a production evidence-grounded RAG platform (live demo). Docker, Helm/Kubernetes,",
-    "id": "MarwaBS/production-rag-platform",
-    "language": "Python",
-    "name": "MarwaBS/production-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:06:24Z",
-    "url": "https://github.com/MarwaBS/production-rag-platform"
   }
 ]
