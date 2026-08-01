@@ -1,21 +1,39 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 75,
-    "updated_at": "2026-08-01T04:48:12Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T04:45:39Z",
+    "updated_at": "2026-08-01T05:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T05:15:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
+    "id": "dk3yyyy/local_AI_agent",
+    "language": "Python",
+    "name": "dk3yyyy/local_AI_agent",
+    "stars": 3,
+    "updated_at": "2026-08-01T05:13:59Z",
+    "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
+    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
+    "id": "jmcgrath207/conproxy",
+    "language": "Rust",
+    "name": "jmcgrath207/conproxy",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:15:15Z",
+    "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-01T04:45:21Z",
+    "updated_at": "2026-08-01T05:00:21Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-08-01T04:48:12Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +68,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T04:59:04Z",
+    "updated_at": "2026-08-01T05:13:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/mojtabamahdy2-cloud/company_knowledge_base"
   },
   {
-    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
-    "id": "dk3yyyy/local_AI_agent",
-    "language": "Python",
-    "name": "dk3yyyy/local_AI_agent",
-    "stars": 3,
-    "updated_at": "2026-08-01T04:19:26Z",
-    "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -225,15 +243,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
-    "id": "jmcgrath207/conproxy",
-    "language": "Rust",
-    "name": "jmcgrath207/conproxy",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:34:39Z",
-    "url": "https://github.com/jmcgrath207/conproxy"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -293,17 +302,8 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-08-01T01:48:31Z",
+    "updated_at": "2026-08-01T05:12:03Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:30:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
