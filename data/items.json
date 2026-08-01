@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-08-01T13:57:32Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "CLI AI assistant with RAG, agentic memory, and vector search \u2014 Node.js, Groq AI, Gemini, LanceDB",
+    "id": "harshashetty67/personal-note-assistant",
+    "language": "TypeScript",
+    "name": "harshashetty67/personal-note-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-01T13:57:59Z",
+    "url": "https://github.com/harshashetty67/personal-note-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T13:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A vector database of the whole market: every asset as a 514-dim live vector over 514 O(1) streaming indicators. Similari",
     "id": "wickra-lib/wickra-genome",
     "language": "Rust",
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T13:38:37Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-08-01T13:38:33Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
@@ -70,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T13:33:43Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T13:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise RAG system with LangGraph multi-step reasoning and vector search",
@@ -139,7 +148,7 @@
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 326,
+    "stars": 327,
     "updated_at": "2026-08-01T13:05:04Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -166,7 +175,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33699,
+    "stars": 33700,
     "updated_at": "2026-08-01T12:52:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T13:26:30Z",
+    "updated_at": "2026-08-01T13:47:32Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T12:44:03Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "End-to-end RAG pipeline over 2025 renewable-energy reports - local embeddings, Chroma vector store, and cited sources. W",
-    "id": "danishmahmoodali/rag-pipeline",
-    "language": "Python",
-    "name": "danishmahmoodali/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:14:18Z",
-    "url": "https://github.com/danishmahmoodali/rag-pipeline"
   }
 ]
