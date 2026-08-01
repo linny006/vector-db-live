@@ -1,12 +1,12 @@
 [
   {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 10,
-    "updated_at": "2026-08-01T17:37:46Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,7 +14,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-01T17:33:27Z",
+    "updated_at": "2026-08-01T17:42:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -23,17 +23,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-01T17:30:27Z",
+    "updated_at": "2026-08-01T17:42:07Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 10,
+    "updated_at": "2026-08-01T17:37:46Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
