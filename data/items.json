@@ -1,5 +1,77 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 829,
+    "updated_at": "2026-08-01T06:58:40Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:55:20Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-01T06:52:34Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-01T06:51:41Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "A Vector Database Tutorial (over CMU-DB's BusTub system)",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 774,
+    "updated_at": "2026-08-01T06:56:22Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
+    "id": "Soumiya-33/Rag-core",
+    "language": "Python",
+    "name": "Soumiya-33/Rag-core",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:45:22Z",
+    "url": "https://github.com/Soumiya-33/Rag-core"
+  },
+  {
     "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
     "id": "kikugo/unified-rag",
     "language": "Python",
@@ -36,33 +108,6 @@
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 829,
-    "updated_at": "2026-08-01T06:44:48Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
     "id": "jihadkhawaja/mem0sharp",
     "language": "C#",
@@ -79,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T06:25:40Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-01T06:19:32Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "A graded, original system-design curriculum from prerequisites to extreme scale \u2014 97 chapters, 53 case studies, AI syste",
@@ -113,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1057,
-    "updated_at": "2026-08-01T06:44:53Z",
+    "updated_at": "2026-08-01T06:58:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 60,
     "updated_at": "2026-08-01T06:32:08Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-01T06:26:16Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T03:05:37Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6307,
-    "updated_at": "2026-08-01T02:31:25Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33700,
-    "updated_at": "2026-08-01T02:09:15Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-01T02:06:02Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
