@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T10:30:19Z",
+    "updated_at": "2026-08-01T10:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1873,
+    "updated_at": "2026-08-01T10:44:31Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "TypeScript",
+    "name": "EVEDensity/AgentHub",
+    "stars": 22,
+    "updated_at": "2026-08-01T10:42:47Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-01T10:41:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
@@ -14,8 +41,53 @@
     "language": "Python",
     "name": "dk3yyyy/local_AI_agent",
     "stars": 4,
-    "updated_at": "2026-08-01T10:24:14Z",
+    "updated_at": "2026-08-01T10:38:52Z",
     "url": "https://github.com/dk3yyyy/local_AI_agent"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 829,
+    "updated_at": "2026-08-01T10:40:26Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Autonomous Revenue Operating System (v7.2.0) powered by a 5-node AI swarm, Bayesian probability engines, and Kelly Crite",
+    "id": "Omni-Kernel/OS",
+    "language": "\u2014",
+    "name": "Omni-Kernel/OS",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:38:17Z",
+    "url": "https://github.com/Omni-Kernel/OS"
+  },
+  {
+    "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
+    "id": "aminturabi/RAGForge",
+    "language": "Python",
+    "name": "aminturabi/RAGForge",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:36:51Z",
+    "url": "https://github.com/aminturabi/RAGForge"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-08-01T10:32:30Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -25,15 +97,6 @@
     "stars": 41,
     "updated_at": "2026-08-01T10:23:12Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:22:04Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -72,15 +135,6 @@
     "url": "https://github.com/danishmahmoodali/rag-pipeline"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-08-01T10:24:22Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-01T10:11:08Z",
+    "updated_at": "2026-08-01T10:42:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -153,24 +207,6 @@
     "url": "https://github.com/itsamanmanik/travel-planning-agent"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 22,
-    "updated_at": "2026-08-01T09:54:37Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 829,
-    "updated_at": "2026-08-01T10:26:58Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning \u2014 powered by Ollama, FastGPT, ",
     "id": "caizefan34/local-ai-stack",
     "language": "HTML",
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T09:46:24Z",
     "url": "https://github.com/caizefan34/local-ai-stack"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1873,
-    "updated_at": "2026-08-01T10:10:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83e\udde0 Secure AI Assistant to chat with your documents. Isolated vector data storage with full citation tracing built using F",
@@ -202,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29647,
+    "stars": 29648,
     "updated_at": "2026-08-01T09:23:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -238,7 +265,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51268,
+    "stars": 51267,
     "updated_at": "2026-08-01T08:59:09Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -259,15 +286,6 @@
     "stars": 7914,
     "updated_at": "2026-08-01T10:27:07Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:24:13Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 240,
-    "updated_at": "2026-08-01T08:15:38Z",
+    "updated_at": "2026-08-01T10:30:42Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T06:35:44Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-08-01T06:35:28Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
-    "id": "jihadkhawaja/mem0sharp",
-    "language": "C#",
-    "name": "jihadkhawaja/mem0sharp",
-    "stars": 9,
-    "updated_at": "2026-08-01T06:26:37Z",
-    "url": "https://github.com/jihadkhawaja/mem0sharp"
   }
 ]
