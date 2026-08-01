@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Haystack DocumentStore integration for Upstash Vector \u2014 serverless vector search with hybrid retrieval",
     "id": "avish006/upstash_haystack",
     "language": "Python",
     "name": "avish006/upstash_haystack",
     "stars": 0,
-    "updated_at": "2026-08-01T14:12:07Z",
+    "updated_at": "2026-08-01T14:14:51Z",
     "url": "https://github.com/avish006/upstash_haystack"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-08-01T14:14:57Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1057,
+    "updated_at": "2026-08-01T14:13:42Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste",
+    "id": "RIT-MESH/system-design-mastery",
+    "language": "Mermaid",
+    "name": "RIT-MESH/system-design-mastery",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:13:10Z",
+    "url": "https://github.com/RIT-MESH/system-design-mastery"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:13:05Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -34,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T14:05:43Z",
     "url": "https://github.com/Sohila-Khaled-Abbas/n8n-workflow-apple-rag-chatbot-v2"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T13:38:17Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-08-01T13:37:37Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -365,7 +383,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-08-01T13:39:40Z",
+    "updated_at": "2026-08-01T14:13:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-01T10:46:47Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 22,
-    "updated_at": "2026-08-01T10:42:47Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
-    "id": "dk3yyyy/local_AI_agent",
-    "language": "Python",
-    "name": "dk3yyyy/local_AI_agent",
-    "stars": 4,
-    "updated_at": "2026-08-01T10:38:52Z",
-    "url": "https://github.com/dk3yyyy/local_AI_agent"
   }
 ]
