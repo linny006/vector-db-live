@@ -1,5 +1,50 @@
 [
   {
+    "description": "Haystack DocumentStore integration for Upstash Vector \u2014 serverless vector search with hybrid retrieval",
+    "id": "avish006/upstash_haystack",
+    "language": "Python",
+    "name": "avish006/upstash_haystack",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:12:07Z",
+    "url": "https://github.com/avish006/upstash_haystack"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-01T14:07:38Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
+    "id": "syalia-srl/beaver",
+    "language": "Python",
+    "name": "syalia-srl/beaver",
+    "stars": 36,
+    "updated_at": "2026-08-01T14:07:26Z",
+    "url": "https://github.com/syalia-srl/beaver"
+  },
+  {
+    "description": "",
+    "id": "Sohila-Khaled-Abbas/n8n-workflow-apple-rag-chatbot-v2",
+    "language": "\u2014",
+    "name": "Sohila-Khaled-Abbas/n8n-workflow-apple-rag-chatbot-v2",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:05:43Z",
+    "url": "https://github.com/Sohila-Khaled-Abbas/n8n-workflow-apple-rag-chatbot-v2"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T13:57:59Z",
     "url": "https://github.com/harshashetty67/personal-note-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T13:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A vector database of the whole market: every asset as a 514-dim live vector over 514 O(1) streaming indicators. Similari",
@@ -76,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29655,
+    "stars": 29656,
     "updated_at": "2026-08-01T13:35:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-01T13:37:42Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -175,7 +202,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33700,
+    "stars": 33701,
     "updated_at": "2026-08-01T12:52:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T12:51:16Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Haystack DocumentStore integration for Upstash Vector \u2014 serverless vector search with hybrid retrieval",
-    "id": "avish006/upstash_haystack",
-    "language": "Python",
-    "name": "avish006/upstash_haystack",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:46:45Z",
-    "url": "https://github.com/avish006/upstash_haystack"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -230,7 +248,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-01T13:14:08Z",
+    "updated_at": "2026-08-01T14:04:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-01T10:38:52Z",
     "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-01T10:23:12Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 1,
-    "updated_at": "2026-08-01T12:44:03Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
   }
 ]
