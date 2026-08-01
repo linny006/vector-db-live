@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 00:07 UTC
+> ⏰ Last updated: 2026-08-01 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-08-01 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [sahnsookyung/JobScout](https://github.com/sahnsookyung/JobScout) | 2 | Python | 2026-08-01 | AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment |
 | 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 4 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-01 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 325 | Python | 2026-08-01 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [Dakera-AI/dakera-py](https://github.com/Dakera-AI/dakera-py) | 5 | Python | 2026-07-31 | Python SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions. |
 | 27 | [lightonai/fast-plaid](https://github.com/lightonai/fast-plaid) | 271 | Python | 2026-07-31 | High-Performance Engine for Multi-Vector Search |
 | 28 | [kikugo/unified-rag](https://github.com/kikugo/unified-rag) | 0 | Python | 2026-07-31 | Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images |
-| 29 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-07-31 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 29 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-01 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
 | 30 | [integrallis/vectors](https://github.com/integrallis/vectors) | 8 | Java | 2026-07-31 | The Ultimate Vectors Library for Java |
 | 31 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-07-31 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 32 | [sl4m3/ledgermind](https://github.com/sl4m3/ledgermind) | 17 | Python | 2026-07-31 | ​LedgerMind — an autonomous living memory for AI agents. It self-heals, resolves conflicts, distills experience into rul |
