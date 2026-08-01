@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-07-31T23:45:22Z",
+    "updated_at": "2026-08-01T00:00:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 457,
+    "updated_at": "2026-07-31T23:57:32Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1057,
+    "updated_at": "2026-07-31T23:52:30Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:51:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:48:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-07-31T23:40:24Z",
+    "updated_at": "2026-07-31T23:55:39Z",
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/GeorgeTanTK/TACO-GANN"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Build your own offline domain-specific AI from your knowledge.",
     "id": "VivekDahariya/PriAI",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T23:23:03Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:21:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Search retrieval cache for agentic RAG",
@@ -113,17 +140,8 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-07-31T22:57:52Z",
+    "updated_at": "2026-07-31T23:57:29Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-07-31T22:48:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
@@ -198,15 +216,6 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 457,
-    "updated_at": "2026-07-31T22:20:14Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "High-Performance Engine for Multi-Vector Search",
     "id": "lightonai/fast-plaid",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 0,
-    "updated_at": "2026-07-31T22:03:38Z",
+    "updated_at": "2026-08-01T00:00:32Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -301,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29634,
+    "stars": 29635,
     "updated_at": "2026-07-31T21:21:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 325,
-    "updated_at": "2026-07-31T21:19:14Z",
+    "updated_at": "2026-08-01T00:00:19Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T21:04:35Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1057,
-    "updated_at": "2026-07-31T22:38:49Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
