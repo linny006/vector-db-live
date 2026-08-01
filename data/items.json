@@ -1,5 +1,32 @@
 [
   {
+    "description": "An AI-powered behavioral recommendation system built for SmartReco Build Challenge 2026 using FastAPI, LangGraph, Chroma",
+    "id": "Ahmed2797/smartreco-agentic-recommendation-system-2026",
+    "language": "\u2014",
+    "name": "Ahmed2797/smartreco-agentic-recommendation-system-2026",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:36:29Z",
+    "url": "https://github.com/Ahmed2797/smartreco-agentic-recommendation-system-2026"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-01T12:31:00Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T12:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-01T12:28:37Z",
+    "updated_at": "2026-08-01T12:38:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
     "id": "avishek0769/DocChat",
     "language": "TypeScript",
@@ -122,17 +140,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-01T12:25:43Z",
+    "updated_at": "2026-08-01T12:36:55Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:26:18Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T12:06:17Z",
+    "updated_at": "2026-08-01T12:30:52Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 829,
-    "updated_at": "2026-08-01T11:47:03Z",
+    "updated_at": "2026-08-01T12:36:54Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-01T11:47:55Z",
+    "updated_at": "2026-08-01T12:38:50Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29649,
-    "updated_at": "2026-08-01T11:11:21Z",
+    "updated_at": "2026-08-01T12:38:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 1,
-    "updated_at": "2026-08-01T12:02:37Z",
+    "updated_at": "2026-08-01T12:38:29Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -427,7 +436,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51272,
+    "stars": 51273,
     "updated_at": "2026-08-01T08:59:09Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-01T08:54:26Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7914,
-    "updated_at": "2026-08-01T12:05:48Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
