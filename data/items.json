@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-01T20:00:20Z",
+    "updated_at": "2026-08-01T20:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight Streamlit web app built for developers who need a quick, visual way to manage and understand their Weaviat",
+    "id": "Shah91n/weaviate-cluster-webapp",
+    "language": "Python",
+    "name": "Shah91n/weaviate-cluster-webapp",
+    "stars": 44,
+    "updated_at": "2026-08-01T20:14:18Z",
+    "url": "https://github.com/Shah91n/weaviate-cluster-webapp"
+  },
+  {
+    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
+    "id": "HillolPias/taskapi-backend",
+    "language": "Python",
+    "name": "HillolPias/taskapi-backend",
+    "stars": 0,
+    "updated_at": "2026-08-01T20:14:05Z",
+    "url": "https://github.com/HillolPias/taskapi-backend"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 21,
-    "updated_at": "2026-08-01T19:58:05Z",
+    "updated_at": "2026-08-01T20:11:12Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-01T20:11:08Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-01T20:10:05Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-08-01T20:09:03Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 89,
+    "updated_at": "2026-08-01T20:08:32Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T20:03:25Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T20:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -25,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-08-01T19:57:28Z",
     "url": "https://github.com/pavanbadempet/Movie-Recommendation-System"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:55:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -81,15 +144,6 @@
     "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:35:11Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (512 questions & 41 RAG types), system design scenarios, archi",
     "id": "ather-techie/rag-interview-system",
     "language": "Jupyter Notebook",
@@ -106,15 +160,6 @@
     "stars": 78,
     "updated_at": "2026-08-01T19:23:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-08-01T19:21:53Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -153,15 +198,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Full-stack task/project manager with a ReAct-style LangGraph agent \u2014 tool-calling, RAG (ChromaDB), token-by-token stream",
-    "id": "HillolPias/taskapi-backend",
-    "language": "Python",
-    "name": "HillolPias/taskapi-backend",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:10:47Z",
-    "url": "https://github.com/HillolPias/taskapi-backend"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -176,17 +212,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7915,
-    "updated_at": "2026-08-01T19:01:40Z",
+    "updated_at": "2026-08-01T20:11:56Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-01T18:50:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -252,15 +279,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-01T18:00:56Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Logically and mathemat",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -284,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-01T19:31:29Z",
+    "updated_at": "2026-08-01T20:11:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T15:53:52Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "A Python-based AI agent that processes and analyzes restaurant reviews using vector embeddings and local language models",
-    "id": "dk3yyyy/local_AI_agent",
-    "language": "Python",
-    "name": "dk3yyyy/local_AI_agent",
-    "stars": 5,
-    "updated_at": "2026-08-01T15:50:38Z",
-    "url": "https://github.com/dk3yyyy/local_AI_agent"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 156,
-    "updated_at": "2026-08-01T15:46:11Z",
-    "url": "https://github.com/codecoradev/uteke"
   }
 ]
