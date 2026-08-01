@@ -1,12 +1,30 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-01T21:30:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T21:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-01T21:42:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-01T21:42:06Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -14,8 +32,53 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-01T21:26:10Z",
+    "updated_at": "2026-08-01T21:41:48Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-01T21:38:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 328,
+    "updated_at": "2026-08-01T21:38:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12773,
+    "updated_at": "2026-08-01T21:42:07Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1058,
+    "updated_at": "2026-08-01T21:36:44Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T21:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -34,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T21:18:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T21:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T21:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 328,
-    "updated_at": "2026-08-01T21:01:13Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T20:36:09Z",
     "url": "https://github.com/ANSHAM1/ContextFlow.AI"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-01T20:27:04Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
@@ -180,15 +207,6 @@
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-01T20:03:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -214,15 +232,6 @@
     "stars": 112,
     "updated_at": "2026-08-01T19:31:56Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-01T20:41:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Profile README",
@@ -266,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7915,
-    "updated_at": "2026-08-01T20:33:20Z",
+    "updated_at": "2026-08-01T21:35:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 60,
-    "updated_at": "2026-08-01T21:26:17Z",
+    "updated_at": "2026-08-01T21:42:53Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7033,
     "updated_at": "2026-08-01T16:18:44Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste",
-    "id": "RIT-MESH/system-design-mastery",
-    "language": "Mermaid",
-    "name": "RIT-MESH/system-design-mastery",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:06:44Z",
-    "url": "https://github.com/RIT-MESH/system-design-mastery"
   }
 ]
