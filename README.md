@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 08:41 UTC
+> ⏰ Last updated: 2026-08-01 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [caizefan34/local-ai-stack](https://github.com/caizefan34/local-ai-stack) | 2 | HTML | 2026-08-01 | A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning — powered by Ollama, FastGPT,  |
-| 2 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-08-01 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
-| 3 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 829 | TypeScript | 2026-08-01 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 4 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51266 | Python | 2026-08-01 | LlamaIndex is the leading document agent and OCR platform |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 829 | TypeScript | 2026-08-01 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [caizefan34/local-ai-stack](https://github.com/caizefan34/local-ai-stack) | 2 | HTML | 2026-08-01 | A private, local AI workspace for RAG, knowledge bases, coding help, and LoRA fine-tuning — powered by Ollama, FastGPT,  |
+| 4 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-08-01 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
+| 5 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51266 | Python | 2026-08-01 | LlamaIndex is the leading document agent and OCR platform |
 | 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 7 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 1 | Go | 2026-08-01 | In-memory knowledge store for AI agents |
 | 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-01 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
