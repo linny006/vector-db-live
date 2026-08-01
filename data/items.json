@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-08-01T19:38:28Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 10,
+    "updated_at": "2026-08-01T19:36:53Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-01T19:27:59Z",
+    "updated_at": "2026-08-01T19:35:11Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:34:42Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (512 questions & 41 RAG types), system design scenarios, archi",
+    "id": "ather-techie/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 112,
+    "updated_at": "2026-08-01T19:31:56Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 21,
-    "updated_at": "2026-08-01T19:20:22Z",
+    "updated_at": "2026-08-01T19:41:40Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T19:17:52Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
@@ -106,15 +133,6 @@
     "stars": 1873,
     "updated_at": "2026-08-01T19:10:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 10,
-    "updated_at": "2026-08-01T19:05:22Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -239,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-01T19:25:33Z",
+    "updated_at": "2026-08-01T19:31:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-01T18:10:51Z",
+    "updated_at": "2026-08-01T19:42:38Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -337,7 +355,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29671,
+    "stars": 29672,
     "updated_at": "2026-08-01T16:21:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:42:00Z",
     "url": "https://github.com/o-valo/brainagent"
-  },
-  {
-    "description": "Haystack DocumentStore integration for Upstash Vector \u2014 serverless vector search with hybrid retrieval",
-    "id": "avish006/upstash_haystack",
-    "language": "Python",
-    "name": "avish006/upstash_haystack",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:32:33Z",
-    "url": "https://github.com/avish006/upstash_haystack"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:29:12Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
   }
 ]
