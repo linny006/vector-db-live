@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:13:27Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
+    "id": "chukiagosoftware/alpaca",
+    "language": "Go",
+    "name": "chukiagosoftware/alpaca",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:11:51Z",
+    "url": "https://github.com/chukiagosoftware/alpaca"
+  },
+  {
+    "description": "A collection of practical AI, Deep Learning, Machine Learning, and Computer Vision projects.",
+    "id": "Raafat-Nagy/AI-Projects-Hub",
+    "language": "\u2014",
+    "name": "Raafat-Nagy/AI-Projects-Hub",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:11:39Z",
+    "url": "https://github.com/Raafat-Nagy/AI-Projects-Hub"
+  },
+  {
+    "description": "Production-grade AI Router platform with Multi-LLM Routing, RAG, MCP, Plugins, Distributed Architecture, and Enterprise ",
+    "id": "salmansaidibrohim267-prog/AI-Router",
+    "language": "Python",
+    "name": "salmansaidibrohim267-prog/AI-Router",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:11:18Z",
+    "url": "https://github.com/salmansaidibrohim267-prog/AI-Router"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:09:11Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:05:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Movie recommendation engine featuring a 6-model hybrid ensemble (SBERT semantic, turbovec vector search, Collaborative F",
     "id": "pavanbadempet/Movie-Recommendation-System",
     "language": "Python",
@@ -18,21 +72,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A collection of practical AI, Deep Learning, Machine Learning, and Computer Vision projects.",
-    "id": "Raafat-Nagy/AI-Projects-Hub",
-    "language": "\u2014",
-    "name": "Raafat-Nagy/AI-Projects-Hub",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:02:15Z",
-    "url": "https://github.com/Raafat-Nagy/AI-Projects-Hub"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 21,
-    "updated_at": "2026-08-02T06:01:42Z",
+    "updated_at": "2026-08-02T06:14:53Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T06:01:06Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:00:37Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -86,17 +113,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-02T05:55:23Z",
+    "updated_at": "2026-08-02T06:07:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
-    "id": "chukiagosoftware/alpaca",
-    "language": "Go",
-    "name": "chukiagosoftware/alpaca",
-    "stars": 0,
-    "updated_at": "2026-08-02T05:52:37Z",
-    "url": "https://github.com/chukiagosoftware/alpaca"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T06:01:00Z",
+    "updated_at": "2026-08-02T06:13:57Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T03:30:26Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:15:58Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
@@ -439,14 +448,5 @@
     "stars": 78,
     "updated_at": "2026-08-02T03:13:53Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Distill videos into a vector DB: VLM reads the screen, ASR hears the speaker, LLMs fuse both into notes with hybrid (vec",
-    "id": "Ayshine/Video-Distiller",
-    "language": "Python",
-    "name": "Ayshine/Video-Distiller",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:17:40Z",
-    "url": "https://github.com/Ayshine/Video-Distiller"
   }
 ]
