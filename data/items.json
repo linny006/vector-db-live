@@ -1,5 +1,50 @@
 [
   {
+    "description": "Architecting the future of digital autonomy. Specialized in long-term AI memory Edge-native systems, Hono and the Web3",
+    "id": "FURAI-LAB/.github",
+    "language": "\u2014",
+    "name": "FURAI-LAB/.github",
+    "stars": 1,
+    "updated_at": "2026-08-02T11:40:59Z",
+    "url": "https://github.com/FURAI-LAB/.github"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-02T11:37:44Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-08-02T11:33:20Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T11:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T11:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -16,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T11:21:45Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T11:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T11:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -121,7 +148,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 51,
+    "stars": 52,
     "updated_at": "2026-08-02T10:31:09Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-08-02T10:34:42Z",
+    "updated_at": "2026-08-02T11:38:35Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-08-02T10:18:04Z",
+    "updated_at": "2026-08-02T11:40:10Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-02T08:58:23Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -313,15 +331,6 @@
     "stars": 60,
     "updated_at": "2026-08-02T09:38:41Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "The Go client for Chroma vector database",
-    "id": "amikos-tech/chroma-go",
-    "language": "Go",
-    "name": "amikos-tech/chroma-go",
-    "stars": 207,
-    "updated_at": "2026-08-02T11:05:43Z",
-    "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -374,7 +383,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-02T11:09:53Z",
+    "updated_at": "2026-08-02T11:41:26Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-02T07:32:06Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "An isolated FastAPI microservice that powers semantic memory, trait extraction, and Qdrant vector synchronization for th",
-    "id": "musiliandrew/Personalization-Engine",
-    "language": "Python",
-    "name": "musiliandrew/Personalization-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:54:06Z",
-    "url": "https://github.com/musiliandrew/Personalization-Engine"
   }
 ]
