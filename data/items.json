@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T02:15:20Z",
+    "updated_at": "2026-08-02T02:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
-    "id": "o-valo/brainagent",
-    "language": "Python",
-    "name": "o-valo/brainagent",
-    "stars": 0,
-    "updated_at": "2026-08-02T02:13:34Z",
-    "url": "https://github.com/o-valo/brainagent"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -23,8 +14,35 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T02:11:56Z",
+    "updated_at": "2026-08-02T02:28:36Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-08-02T02:25:18Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
+    "id": "o-valo/brainagent",
+    "language": "Python",
+    "name": "o-valo/brainagent",
+    "stars": 0,
+    "updated_at": "2026-08-02T02:17:29Z",
+    "url": "https://github.com/o-valo/brainagent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG assistant over real NVD/GHSA vulnerability data \u2014 hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0",
@@ -43,15 +61,6 @@
     "stars": 44,
     "updated_at": "2026-08-02T02:02:39Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T02:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Explore a comprehensive collection of hands-on-tutorials, examples and note from the \"Complete GenAI course wth Langchai",
@@ -113,7 +122,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1873,
-    "updated_at": "2026-08-02T01:20:44Z",
+    "updated_at": "2026-08-02T02:17:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -130,7 +139,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45457,
+    "stars": 45456,
     "updated_at": "2026-08-02T01:10:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T19:38:28Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (512 questions & 41 RAG types), system design scenarios, archi",
-    "id": "ather-techie/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 112,
-    "updated_at": "2026-08-01T19:31:56Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
   }
 ]
