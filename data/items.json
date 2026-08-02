@@ -1,11 +1,74 @@
 [
   {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:52:11Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:51:18Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
+    "id": "nnadir35/rag-vector-db-benchmark",
+    "language": "Python",
+    "name": "nnadir35/rag-vector-db-benchmark",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:49:42Z",
+    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:48:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Tiered semantic cache for LLMs \u2014 Redis exact-match + pluggable vector search (Chroma/Qdrant/Pinecone/pgvector) to avoid ",
+    "id": "bhairavaa/semantic-cache-server",
+    "language": "Python",
+    "name": "bhairavaa/semantic-cache-server",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:48:42Z",
+    "url": "https://github.com/bhairavaa/semantic-cache-server"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:58:27Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-02T18:44:04Z",
+    "updated_at": "2026-08-02T18:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:43:46Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:40:05Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Object storage for the AI age",
@@ -59,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-02T18:34:58Z",
+    "updated_at": "2026-08-02T18:55:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -68,17 +122,8 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-08-02T18:34:17Z",
+    "updated_at": "2026-08-02T18:45:21Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:43:42Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
     "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:23:52Z",
     "url": "https://github.com/chukiagosoftware/alpaca"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:21:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A production-ready AI PDF chat application built with LangChain, FastAPI, FAISS, and the OpenAI Responses API, enabling ",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-08-02T18:14:00Z",
+    "updated_at": "2026-08-02T18:57:41Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 33725,
     "updated_at": "2026-08-02T17:56:59Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:51:04Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -283,7 +310,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 14,
+    "stars": 16,
     "updated_at": "2026-08-02T16:46:16Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:19:16Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Vector search engine with end-to-end embedding and reranking.",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:18:14Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "LanceDB \u2014 open-source serverless multimodal vector database (Lance format)",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:16:22Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:16:15Z",
-    "url": "https://github.com/api-evangelist/weaviate"
   }
 ]
