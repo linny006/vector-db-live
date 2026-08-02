@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T04:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1464,
+    "updated_at": "2026-08-02T04:41:33Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 89,
+    "updated_at": "2026-08-02T04:45:01Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:39:41Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-02T04:39:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T04:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -43,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T04:17:07Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T04:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T04:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -126,15 +162,6 @@
     "url": "https://github.com/ElefanteAI/elefante"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:04:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T02:52:02Z",
     "url": "https://github.com/FabricioPorcelli/NLP-TUIA-TF"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:28:42Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "RAG assistant over real NVD/GHSA vulnerability data \u2014 hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0",
@@ -268,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T00:51:57Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 89,
-    "updated_at": "2026-08-02T01:07:00Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-01T20:46:33Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "An intelligent AI research assistant powered by LLMs, RAG, and LangGraph for document understanding, reasoning, and cont",
-    "id": "ANSHAM1/ContextFlow.AI",
-    "language": "Python",
-    "name": "ANSHAM1/ContextFlow.AI",
-    "stars": 1,
-    "updated_at": "2026-08-01T20:36:09Z",
-    "url": "https://github.com/ANSHAM1/ContextFlow.AI"
   }
 ]
