@@ -1,12 +1,48 @@
 [
   {
-    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
-    "id": "chukiagosoftware/alpaca",
-    "language": "Go",
-    "name": "chukiagosoftware/alpaca",
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T18:23:52Z",
-    "url": "https://github.com/chukiagosoftware/alpaca"
+    "updated_at": "2026-08-02T18:43:46Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:40:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-02T18:38:44Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-02T18:35:38Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1873,
+    "updated_at": "2026-08-02T18:35:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +50,44 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-02T18:28:28Z",
+    "updated_at": "2026-08-02T18:34:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:34:17Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:43:42Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
+    "id": "chukiagosoftware/alpaca",
+    "language": "Go",
+    "name": "chukiagosoftware/alpaca",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:23:52Z",
+    "url": "https://github.com/chukiagosoftware/alpaca"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -50,44 +122,8 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 88,
-    "updated_at": "2026-08-02T18:17:51Z",
+    "updated_at": "2026-08-02T18:36:20Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-02T18:16:43Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:15:04Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T18:14:13Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:08:39Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -198,6 +225,15 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34964,
+    "updated_at": "2026-08-02T17:20:09Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -225,15 +261,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34963,
-    "updated_at": "2026-08-02T17:20:09Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T17:00:05Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-02T18:05:07Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T15:16:15Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Enterprise Multi-Agent AI Platform for Insurance Claim Decision Intelligence using RAG, LangGraph, Explainable AI, and B",
-    "id": "SaaGup/Insurance-AI-",
-    "language": "Python",
-    "name": "SaaGup/Insurance-AI-",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:15:51Z",
-    "url": "https://github.com/SaaGup/Insurance-AI-"
-  },
-  {
-    "description": "A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai",
-    "id": "Momad-Y/EUC-RAG-Agent",
-    "language": "Jupyter Notebook",
-    "name": "Momad-Y/EUC-RAG-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:12:18Z",
-    "url": "https://github.com/Momad-Y/EUC-RAG-Agent"
   }
 ]
