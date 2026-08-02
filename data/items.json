@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T13:15:21Z",
+    "updated_at": "2026-08-02T13:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:24:16Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "nnadir35/rag-vector-db-benchmark",
     "stars": 0,
-    "updated_at": "2026-08-02T13:15:01Z",
+    "updated_at": "2026-08-02T13:23:36Z",
     "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:23:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-02T13:22:01Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-02T13:13:22Z",
+    "updated_at": "2026-08-02T13:20:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -36,20 +72,11 @@
     "url": "https://github.com/krishkumar4400/weights-to-prod"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34954,
+    "stars": 34955,
     "updated_at": "2026-08-02T12:53:56Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T12:53:09Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:52:35Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -97,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-08-02T12:43:18Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-02T12:42:17Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI placement-prep platform \u2014 RAG over FAISS with a skill-gap scoring layer that personalises study material and mock int",
@@ -225,15 +234,6 @@
     "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:21:45Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
     "id": "sanonone/kektordb",
     "language": "Go",
@@ -292,7 +292,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 53,
+    "stars": 83,
     "updated_at": "2026-08-02T10:31:09Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
