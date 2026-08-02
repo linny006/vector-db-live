@@ -1,5 +1,86 @@
 [
   {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:29:20Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
+    "id": "siddharthgaur1/vecbench",
+    "language": "HTML",
+    "name": "siddharthgaur1/vecbench",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:28:55Z",
+    "url": "https://github.com/siddharthgaur1/vecbench"
+  },
+  {
+    "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
+    "id": "jmgindicators/trading-knowledge-rag",
+    "language": "Python",
+    "name": "jmgindicators/trading-knowledge-rag",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:29:49Z",
+    "url": "https://github.com/jmgindicators/trading-knowledge-rag"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 55,
+    "updated_at": "2026-08-02T09:24:53Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:23:16Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "A curated collection of Retrieval-Augmented Generation (RAG) prompts, templates, and best practices for document-based A",
+    "id": "OlehDatsyk/awesome-rag-prompts",
+    "language": "\u2014",
+    "name": "OlehDatsyk/awesome-rag-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:21:30Z",
+    "url": "https://github.com/OlehDatsyk/awesome-rag-prompts"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-08-02T09:17:58Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:15:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -9,21 +90,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 55,
-    "updated_at": "2026-08-02T09:15:17Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
     "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
     "id": "carlwelchdesign/supraconscious-avatar-ai",
     "language": "TypeScript",
     "name": "carlwelchdesign/supraconscious-avatar-ai",
     "stars": 0,
-    "updated_at": "2026-08-02T09:10:43Z",
+    "updated_at": "2026-08-02T09:26:06Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
@@ -52,33 +124,6 @@
     "stars": 1904,
     "updated_at": "2026-08-02T09:01:09Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T09:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T09:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
-    "id": "siddharthgaur1/vecbench",
-    "language": "HTML",
-    "name": "siddharthgaur1/vecbench",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:58:36Z",
-    "url": "https://github.com/siddharthgaur1/vecbench"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -135,15 +180,6 @@
     "url": "https://github.com/tradik/mddb"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:12:38Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -178,15 +214,6 @@
     "stars": 6198,
     "updated_at": "2026-08-02T08:48:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:31:24Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -315,15 +342,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-08-02T08:20:28Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
     "description": "Production-grade AI Router platform with Multi-LLM Routing, RAG, MCP, Plugins, Distributed Architecture, and Enterprise ",
     "id": "salmansaidibrohim267-prog/AI-Router",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T05:48:55Z",
     "url": "https://github.com/zhangwudef/codenova"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1464,
-    "updated_at": "2026-08-02T04:53:59Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:21:03Z",
-    "url": "https://github.com/piyalidas10/AI"
   }
 ]
