@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:45:20Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-02T19:39:34Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "",
+    "id": "PushkarKanjani/medical-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "PushkarKanjani/medical-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:36:29Z",
+    "url": "https://github.com/PushkarKanjani/medical-rag-assistant"
+  },
+  {
+    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
+    "id": "nnadir35/rag-vector-db-benchmark",
+    "language": "Python",
+    "name": "nnadir35/rag-vector-db-benchmark",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:34:58Z",
+    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "TPT Keystone DB \u2014 a multi-engine data platform. One core engine for relational, geospatial, graph, vector/AI, time-serie",
     "id": "tpt-solutions/tpt-keystone-db",
     "language": "Rust",
@@ -27,24 +81,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 12,
-    "updated_at": "2026-08-02T19:24:44Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:21:31Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T19:18:02Z",
     "url": "https://github.com/ErenReyhanlioglu/seekbind"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Know what you're signing. AI-powered clause risk detection with grounded, citation-backed explanations.",
@@ -153,15 +171,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
-    "id": "nnadir35/rag-vector-db-benchmark",
-    "language": "Python",
-    "name": "nnadir35/rag-vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:49:42Z",
-    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
     "description": "Tiered semantic cache for LLMs \u2014 Redis exact-match + pluggable vector search (Chroma/Qdrant/Pinecone/pgvector) to avoid ",
     "id": "bhairavaa/semantic-cache-server",
     "language": "Python",
@@ -203,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1058,
-    "updated_at": "2026-08-02T19:20:06Z",
+    "updated_at": "2026-08-02T19:43:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -256,7 +265,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15357,
+    "stars": 15358,
     "updated_at": "2026-08-02T18:03:44Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:47:18Z",
     "url": "https://github.com/winston-lim-dev/document-qa-rag"
-  },
-  {
-    "description": "Production-ready AI Customer Support platform using RAG, FastAPI, React, PostgreSQL, pgvector, and Gemini AI.",
-    "id": "rajab-bett-analytics/ai-customer-support-rag",
-    "language": "Python",
-    "name": "rajab-bett-analytics/ai-customer-support-rag",
-    "stars": 1,
-    "updated_at": "2026-08-02T15:33:10Z",
-    "url": "https://github.com/rajab-bett-analytics/ai-customer-support-rag"
   }
 ]
