@@ -1,5 +1,77 @@
 [
   {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-02T14:00:21Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
+    "id": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "language": "Jupyter Notebook",
+    "name": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:59:22Z",
+    "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34956,
+    "updated_at": "2026-08-02T13:55:29Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Production-Grade RAG with C# and .NET \u2014 Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra",
+    "id": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
+    "language": "C#",
+    "name": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:58:26Z",
+    "url": "https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet"
+  },
+  {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "HTML",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 12,
+    "updated_at": "2026-08-02T13:57:57Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1873,
+    "updated_at": "2026-08-02T13:45:39Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T14:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
@@ -7,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T13:37:41Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
-    "id": "karthikreddy-7/ai-engineering-playbook",
-    "language": "HTML",
-    "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 11,
-    "updated_at": "2026-08-02T13:36:32Z",
-    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,48 +90,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-02T13:31:30Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34956,
-    "updated_at": "2026-08-02T13:30:43Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T13:24:16Z",
+    "updated_at": "2026-08-02T14:00:07Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -115,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-02T13:03:09Z",
     "url": "https://github.com/krishkumar4400/weights-to-prod"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33719,
+    "updated_at": "2026-08-02T12:56:44Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T12:15:10Z",
     "url": "https://github.com/berktopal/microsoft-foundry-local-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33718,
-    "updated_at": "2026-08-02T12:56:44Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -319,7 +346,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 97,
+    "stars": 105,
     "updated_at": "2026-08-02T10:31:09Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -396,15 +423,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1873,
-    "updated_at": "2026-08-02T12:41:57Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T09:29:49Z",
     "url": "https://github.com/jmgindicators/trading-knowledge-rag"
-  },
-  {
-    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
-    "id": "siddharthgaur1/vecbench",
-    "language": "HTML",
-    "name": "siddharthgaur1/vecbench",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:28:55Z",
-    "url": "https://github.com/siddharthgaur1/vecbench"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 55,
-    "updated_at": "2026-08-02T09:24:53Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
   }
 ]
