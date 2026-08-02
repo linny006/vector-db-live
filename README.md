@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 21:00 UTC
+> ⏰ Last updated: 2026-08-02 21:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 12 | TypeScript | 2026-08-02 | OpenCode plugin that gives coding agents persistent memory using local vector database |
-| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 4 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 0 | Java | 2026-08-02 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [neuml/txtai](https://github.com/neuml/txtai) | 12776 | Python | 2026-08-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 7 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 2 | Rust | 2026-08-02 | Decentralized Graph Database with Integrated Vector Search |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [ErenReyhanlioglu/seekbind](https://github.com/ErenReyhanlioglu/seekbind) | 0 | Python | 2026-08-02 | Randevu platformları için semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 12 | TypeScript | 2026-08-02 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 6 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 0 | Java | 2026-08-02 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
+| 7 | [neuml/txtai](https://github.com/neuml/txtai) | 12776 | Python | 2026-08-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 8 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 2 | Rust | 2026-08-02 | Decentralized Graph Database with Integrated Vector Search |
+| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 10 | [ErenReyhanlioglu/seekbind](https://github.com/ErenReyhanlioglu/seekbind) | 0 | Python | 2026-08-02 | Randevu platformları için semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v |
 | 11 | [geckse/markdown-vdb](https://github.com/geckse/markdown-vdb) | 23 | Rust | 2026-08-02 | A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based, |
 | 12 | [vpeetla-ai/enterprise_rag_platform](https://github.com/vpeetla-ai/enterprise_rag_platform) | 2 | Python | 2026-08-02 | Production RAG reference — governed retrieval, access control, evals, guardrails, observability |
 | 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
