@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 02:56 UTC
+> ⏰ Last updated: 2026-08-02 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-02 |  |
-| 2 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-02 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 4 | [FabricioPorcelli/NLP-TUIA-TF](https://github.com/FabricioPorcelli/NLP-TUIA-TF) | 1 | Jupyter Notebook | 2026-08-02 | Repositorio del trabajo práctico final de la cátedra de Procesamiento del Lenguaje Natural de la Tecnicatura Universitar |
-| 5 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-02 |  |
+| 4 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-02 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
+| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 6 | [FabricioPorcelli/NLP-TUIA-TF](https://github.com/FabricioPorcelli/NLP-TUIA-TF) | 1 | Jupyter Notebook | 2026-08-02 | Repositorio del trabajo práctico final de la cátedra de Procesamiento del Lenguaje Natural de la Tecnicatura Universitar |
+| 7 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
 | 8 | [ElefanteAI/elefante](https://github.com/ElefanteAI/elefante) | 1 | Python | 2026-08-02 | Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu).  |
 | 9 | [o-valo/brainagent](https://github.com/o-valo/brainagent) | 0 | Python | 2026-08-02 | [ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA |
 | 10 | [YogithaIshwaryaMoganti/security-advisory-rag-assistant](https://github.com/YogithaIshwaryaMoganti/security-advisory-rag-assistant) | 0 | Python | 2026-08-02 | RAG assistant over real NVD/GHSA vulnerability data — hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0 |
