@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 17:44 UTC
+> ⏰ Last updated: 2026-08-02 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [neuml/txtai](https://github.com/neuml/txtai) | 12776 | Python | 2026-08-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 2 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 3 | [maheshchandr26/ResearchOS](https://github.com/maheshchandr26/ResearchOS) | 1 | TypeScript | 2026-08-02 | AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener |
-| 4 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-02 | Object storage for the AI age |
-| 5 | [YogithaIshwaryaMoganti/security-advisory-rag-assistant](https://github.com/YogithaIshwaryaMoganti/security-advisory-rag-assistant) | 0 | Python | 2026-08-02 | RAG assistant over real NVD/GHSA vulnerability data — hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0 |
-| 6 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 3 | Python | 2026-08-02 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
-| 7 | [axiomchronicles/elips](https://github.com/axiomchronicles/elips) | 1 | TypeScript | 2026-08-02 | Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [neuml/txtai](https://github.com/neuml/txtai) | 12776 | Python | 2026-08-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 4 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 5 | [maheshchandr26/ResearchOS](https://github.com/maheshchandr26/ResearchOS) | 1 | TypeScript | 2026-08-02 | AI-powered research assistant built with FastAPI, React, PostgreSQL, ChromaDB, and Ollama. Upload research papers, gener |
+| 6 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-02 | Object storage for the AI age |
+| 7 | [YogithaIshwaryaMoganti/security-advisory-rag-assistant](https://github.com/YogithaIshwaryaMoganti/security-advisory-rag-assistant) | 0 | Python | 2026-08-02 | RAG assistant over real NVD/GHSA vulnerability data — hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0 |
+| 8 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 3 | Python | 2026-08-02 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
+| 9 | [axiomchronicles/elips](https://github.com/axiomchronicles/elips) | 1 | TypeScript | 2026-08-02 | Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po |
 | 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 11 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 3 | Python | 2026-08-02 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
 | 12 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 2 | Rust | 2026-08-02 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
