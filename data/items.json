@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T08:45:19Z",
+    "updated_at": "2026-08-02T09:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
+    "id": "siddharthgaur1/vecbench",
+    "language": "HTML",
+    "name": "siddharthgaur1/vecbench",
+    "stars": 1,
+    "updated_at": "2026-08-02T08:58:36Z",
+    "url": "https://github.com/siddharthgaur1/vecbench"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-02T08:58:23Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 60,
+    "updated_at": "2026-08-02T08:58:08Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 207,
+    "updated_at": "2026-08-02T08:55:42Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 91,
+    "updated_at": "2026-08-02T08:53:31Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-02T08:53:17Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-02T08:50:50Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:50:12Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:49:00Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T08:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -18,22 +108,13 @@
     "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:36:19Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-02T08:39:56Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7917,
+    "updated_at": "2026-08-02T08:43:27Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-08-02T08:31:26Z",
+    "updated_at": "2026-08-02T08:48:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -61,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T08:31:24Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:41:53Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 89,
-    "updated_at": "2026-08-02T08:27:35Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -126,15 +189,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-02T08:12:13Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -151,6 +205,15 @@
     "stars": 6,
     "updated_at": "2026-08-02T08:05:50Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 34953,
+    "updated_at": "2026-08-02T08:05:30Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -261,15 +324,6 @@
     "url": "https://github.com/musiliandrew/Personalization-Engine"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7916,
-    "updated_at": "2026-08-02T08:43:27Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -304,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-08-02T06:39:17Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:24:11Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T03:39:24Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:30:26Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
-    "id": "o-valo/brainagent",
-    "language": "Python",
-    "name": "o-valo/brainagent",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:08:45Z",
-    "url": "https://github.com/o-valo/brainagent"
-  },
-  {
-    "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
-    "id": "ElefanteAI/elefante",
-    "language": "Python",
-    "name": "ElefanteAI/elefante",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:06:43Z",
-    "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "Repositorio del trabajo pr\u00e1ctico final de la c\u00e1tedra de Procesamiento del Lenguaje Natural de la Tecnicatura Universitar",
-    "id": "FabricioPorcelli/NLP-TUIA-TF",
-    "language": "Jupyter Notebook",
-    "name": "FabricioPorcelli/NLP-TUIA-TF",
-    "stars": 1,
-    "updated_at": "2026-08-02T02:52:02Z",
-    "url": "https://github.com/FabricioPorcelli/NLP-TUIA-TF"
-  },
-  {
-    "description": "RAG assistant over real NVD/GHSA vulnerability data \u2014 hybrid retrieval, OTel tracing, real eval baseline (recall@5 = 1.0",
-    "id": "YogithaIshwaryaMoganti/security-advisory-rag-assistant",
-    "language": "Python",
-    "name": "YogithaIshwaryaMoganti/security-advisory-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-02T02:09:25Z",
-    "url": "https://github.com/YogithaIshwaryaMoganti/security-advisory-rag-assistant"
   }
 ]
