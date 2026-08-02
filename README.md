@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 16:36 UTC
+> ⏰ Last updated: 2026-08-02 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 94 | Rust | 2026-08-02 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 2 | Rust | 2026-08-02 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 6 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 7 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-02 | Object storage for the AI age |
-| 8 | [ForwardAva/rag-eval](https://github.com/ForwardAva/rag-eval) | 1 | Python | 2026-08-02 | A production-style AI assistant with evaluation and monitoring. |
-| 9 | [darinaze/rag-support-assistant](https://github.com/darinaze/rag-support-assistant) | 0 | Python | 2026-08-02 | AI support assistant (RAG) over documentation — cites sources, refuses when unknown. Python, Chroma, OpenAI. |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [Thitrongdan202/MediSearch-with-Chroma-DB](https://github.com/Thitrongdan202/MediSearch-with-Chroma-DB) | 2 | Jupyter Notebook | 2026-08-02 | This intelligent drug analysis platform uses ChromaDB and AI to search for and analyze drugs. |
-| 12 | [karthikreddy-7/ai-engineering-playbook](https://github.com/karthikreddy-7/ai-engineering-playbook) | 12 | MDX | 2026-08-02 | A zero-to-100 learning path for applied AI engineering — RAG, embeddings, vector search, agents, MCP, and the production |
-| 13 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1058 | Java | 2026-08-02 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 14 | [TorshaMajumder/CanFin-MultiQuarter-RAG](https://github.com/TorshaMajumder/CanFin-MultiQuarter-RAG) | 0 | Python | 2026-08-02 | A Multimodal Temporal RAG System for Canadian Financial Reports. |
-| 15 | [ilyuve/code-pop](https://github.com/ilyuve/code-pop) | 0 | HTML | 2026-08-02 | AI-native code intelligence infrastructure / 面向 AI Agent 的代码智能基础设施 |
-| 16 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 17 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-02 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
-| 18 | [iharshkaran/hyperAI](https://github.com/iharshkaran/hyperAI) | 2 | TypeScript | 2026-08-02 | AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a |
-| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 2 | Rust | 2026-08-02 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
+| 3 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 94 | Rust | 2026-08-02 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 7 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 8 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-02 | Object storage for the AI age |
+| 9 | [ForwardAva/rag-eval](https://github.com/ForwardAva/rag-eval) | 1 | Python | 2026-08-02 | A production-style AI assistant with evaluation and monitoring. |
+| 10 | [darinaze/rag-support-assistant](https://github.com/darinaze/rag-support-assistant) | 0 | Python | 2026-08-02 | AI support assistant (RAG) over documentation — cites sources, refuses when unknown. Python, Chroma, OpenAI. |
+| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 12 | [Thitrongdan202/MediSearch-with-Chroma-DB](https://github.com/Thitrongdan202/MediSearch-with-Chroma-DB) | 2 | Jupyter Notebook | 2026-08-02 | This intelligent drug analysis platform uses ChromaDB and AI to search for and analyze drugs. |
+| 13 | [karthikreddy-7/ai-engineering-playbook](https://github.com/karthikreddy-7/ai-engineering-playbook) | 12 | MDX | 2026-08-02 | A zero-to-100 learning path for applied AI engineering — RAG, embeddings, vector search, agents, MCP, and the production |
+| 14 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1058 | Java | 2026-08-02 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 15 | [TorshaMajumder/CanFin-MultiQuarter-RAG](https://github.com/TorshaMajumder/CanFin-MultiQuarter-RAG) | 0 | Python | 2026-08-02 | A Multimodal Temporal RAG System for Canadian Financial Reports. |
+| 16 | [ilyuve/code-pop](https://github.com/ilyuve/code-pop) | 0 | HTML | 2026-08-02 | AI-native code intelligence infrastructure / 面向 AI Agent 的代码智能基础设施 |
+| 17 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 18 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-02 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
+| 19 | [iharshkaran/hyperAI](https://github.com/iharshkaran/hyperAI) | 2 | TypeScript | 2026-08-02 | AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a |
 | 20 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 12 | TypeScript | 2026-08-02 | OpenCode plugin that gives coding agents persistent memory using local vector database |
 | 21 | [winston-lim-dev/document-qa-rag](https://github.com/winston-lim-dev/document-qa-rag) | 0 | Python | 2026-08-02 | Local RAG Assistant  built with:  - Python - Streamlit - Sentence Transformers - ChromaDB - Ollama - Llama 3. |
 | 22 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33724 | Rust | 2026-08-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-02 | API and integration profile for Aerospike. |
 | 38 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-08-02 | API Evangelist profile of Mixedbread - embeddings and reranking API |
 | 39 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-02 |  |
-| 40 | [schmitech/orbit](https://github.com/schmitech/orbit) | 330 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 40 | [schmitech/orbit](https://github.com/schmitech/orbit) | 331 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 41 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-02 | API Evangelist profile of Vespa — AI search engine and vector database |
 | 42 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1873 | Go | 2026-08-02 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 43 | [api-evangelist/vespa](https://github.com/api-evangelist/vespa) | 0 | — | 2026-08-02 | Open-source big-data serving engine for search and recommendations. |
