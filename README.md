@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 15:36 UTC
+> ⏰ Last updated: 2026-08-02 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 6 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-02 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
-| 7 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-02 | API and integration profile for Upstash. |
-| 8 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-02 | Nomic AI — Nomic Embed + Atlas vector exploration + GPT4All |
-| 9 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-02 | Open-source cloud-native vector database. |
-| 10 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-02 | Vector search engine with end-to-end embedding and reranking. |
-| 11 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-02 | LanceDB — open-source serverless multimodal vector database (Lance format) |
-| 12 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-02 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
-| 13 | [SaaGup/Insurance-AI-](https://github.com/SaaGup/Insurance-AI-) | 0 | Python | 2026-08-02 | Enterprise Multi-Agent AI Platform for Insurance Claim Decision Intelligence using RAG, LangGraph, Explainable AI, and B |
-| 14 | [Momad-Y/EUC-RAG-Agent](https://github.com/Momad-Y/EUC-RAG-Agent) | 0 | Jupyter Notebook | 2026-08-02 | A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai |
-| 15 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-02 | Vector database service built on Milvus. |
-| 16 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 18 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-02 | API and integration profile for Aerospike. |
-| 19 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-08-02 | API Evangelist profile of Mixedbread - embeddings and reranking API |
-| 20 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-02 |  |
-| 21 | [schmitech/orbit](https://github.com/schmitech/orbit) | 330 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 22 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33722 | Rust | 2026-08-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 23 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-02 | API Evangelist profile of Vespa — AI search engine and vector database |
-| 24 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1873 | Go | 2026-08-02 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 25 | [api-evangelist/vespa](https://github.com/api-evangelist/vespa) | 0 | — | 2026-08-02 | Open-source big-data serving engine for search and recommendations. |
-| 26 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 34957 | Python | 2026-08-02 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 27 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-08-02 | SurrealDB APIs.json profile for API Evangelist catalog |
-| 28 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-08-02 | API and integration profile for Azure Cosmos DB. |
-| 29 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 30 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 31 | [karthikreddy-7/ai-engineering-playbook](https://github.com/karthikreddy-7/ai-engineering-playbook) | 12 | MDX | 2026-08-02 | A zero-to-100 learning path for applied AI engineering — RAG, embeddings, vector search, agents, MCP, and the production |
-| 32 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-02 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
-| 33 | [KashifMaqbool/Generative_AI_Engineering_Specialization](https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization) | 1 | Jupyter Notebook | 2026-08-02 | This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative |
-| 34 | [RachidD68/production-grade-rag-with-csharp-and-dotnet](https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet) | 0 | C# | 2026-08-02 | Production-Grade RAG with C# and .NET — Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra |
-| 35 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 1 | Go | 2026-08-02 | In-memory knowledge store for AI agents |
-| 36 | [nnadir35/rag-vector-db-benchmark](https://github.com/nnadir35/rag-vector-db-benchmark) | 0 | Python | 2026-08-02 | RAG pipeline evaluation framework — benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall) |
-| 37 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 2 | Python | 2026-08-02 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 38 | [krishkumar4400/weights-to-prod](https://github.com/krishkumar4400/weights-to-prod) | 2 | Jupyter Notebook | 2026-08-02 | From model.fit() to models that survive production — a phased climb through ML fundamentals and the MLOps layer: version |
-| 39 | [Dakera-AI/dakera-go](https://github.com/Dakera-AI/dakera-go) | 5 | Go | 2026-08-02 | Go SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions. |
-| 40 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 16 | JavaScript | 2026-08-02 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
-| 41 | [kratos0718/pathforge](https://github.com/kratos0718/pathforge) | 0 | TypeScript | 2026-08-02 | AI placement-prep platform — RAG over FAISS with a skill-gap scoring layer that personalises study material and mock int |
-| 42 | [HelgeSverre/milvus](https://github.com/HelgeSverre/milvus) | 33 | PHP | 2026-08-02 | A PHP Client for the Milvus Vector Database Rest API |
-| 43 | [taladb/taladb](https://github.com/taladb/taladb) | 4 | Rust | 2026-08-02 | TalaDB - The embedded vector database for on-device AI. |
-| 44 | [berktopal/microsoft-foundry-local-rag](https://github.com/berktopal/microsoft-foundry-local-rag) | 0 | Python | 2026-08-02 | A 100% offline Local RAG (Retrieval-Augmented Generation) assistant built with Microsoft Foundry Local, utilizing Phi-3. |
-| 45 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 6 | Mojo | 2026-08-02 | Vector DB implementation in Mojo |
-| 46 | [SeekStorm/seekstorm_client_py](https://github.com/SeekStorm/seekstorm_client_py) | 1 | Rust | 2026-08-02 | Python client for the SeekStorm vector & lexical search server |
-| 47 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 48 | [koprjaa/chromadb-embedding-visualizer](https://github.com/koprjaa/chromadb-embedding-visualizer) | 0 | Python | 2026-08-02 | 3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN |
-| 49 | [FURAI-LAB/.github](https://github.com/FURAI-LAB/.github) | 1 | — | 2026-08-02 | Architecting the future of digital autonomy. Specialized in long-term AI memory Edge-native systems, Hono and the Web3 |
-| 50 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 21 | Python | 2026-08-02 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 1 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 12 | TypeScript | 2026-08-02 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 2 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 8 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-02 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
+| 9 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-02 | API and integration profile for Upstash. |
+| 10 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-02 | Nomic AI — Nomic Embed + Atlas vector exploration + GPT4All |
+| 11 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-02 | Open-source cloud-native vector database. |
+| 12 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-02 | Vector search engine with end-to-end embedding and reranking. |
+| 13 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-02 | LanceDB — open-source serverless multimodal vector database (Lance format) |
+| 14 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-02 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
+| 15 | [SaaGup/Insurance-AI-](https://github.com/SaaGup/Insurance-AI-) | 0 | Python | 2026-08-02 | Enterprise Multi-Agent AI Platform for Insurance Claim Decision Intelligence using RAG, LangGraph, Explainable AI, and B |
+| 16 | [Momad-Y/EUC-RAG-Agent](https://github.com/Momad-Y/EUC-RAG-Agent) | 0 | Jupyter Notebook | 2026-08-02 | A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai |
+| 17 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-02 | Vector database service built on Milvus. |
+| 18 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 19 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-02 | API and integration profile for Aerospike. |
+| 20 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-08-02 | API Evangelist profile of Mixedbread - embeddings and reranking API |
+| 21 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-02 |  |
+| 22 | [schmitech/orbit](https://github.com/schmitech/orbit) | 330 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 23 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33722 | Rust | 2026-08-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 24 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-02 | API Evangelist profile of Vespa — AI search engine and vector database |
+| 25 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1873 | Go | 2026-08-02 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 26 | [api-evangelist/vespa](https://github.com/api-evangelist/vespa) | 0 | — | 2026-08-02 | Open-source big-data serving engine for search and recommendations. |
+| 27 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 34957 | Python | 2026-08-02 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 28 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-08-02 | SurrealDB APIs.json profile for API Evangelist catalog |
+| 29 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-08-02 | API and integration profile for Azure Cosmos DB. |
+| 30 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 31 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 32 | [karthikreddy-7/ai-engineering-playbook](https://github.com/karthikreddy-7/ai-engineering-playbook) | 12 | MDX | 2026-08-02 | A zero-to-100 learning path for applied AI engineering — RAG, embeddings, vector search, agents, MCP, and the production |
+| 33 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-02 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
+| 34 | [KashifMaqbool/Generative_AI_Engineering_Specialization](https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization) | 1 | Jupyter Notebook | 2026-08-02 | This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative |
+| 35 | [RachidD68/production-grade-rag-with-csharp-and-dotnet](https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet) | 0 | C# | 2026-08-02 | Production-Grade RAG with C# and .NET — Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra |
+| 36 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 1 | Go | 2026-08-02 | In-memory knowledge store for AI agents |
+| 37 | [nnadir35/rag-vector-db-benchmark](https://github.com/nnadir35/rag-vector-db-benchmark) | 0 | Python | 2026-08-02 | RAG pipeline evaluation framework — benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall) |
+| 38 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 2 | Python | 2026-08-02 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 39 | [krishkumar4400/weights-to-prod](https://github.com/krishkumar4400/weights-to-prod) | 2 | Jupyter Notebook | 2026-08-02 | From model.fit() to models that survive production — a phased climb through ML fundamentals and the MLOps layer: version |
+| 40 | [Dakera-AI/dakera-go](https://github.com/Dakera-AI/dakera-go) | 5 | Go | 2026-08-02 | Go SDK for Dakera AI agent memory — self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions. |
+| 41 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 16 | JavaScript | 2026-08-02 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
+| 42 | [kratos0718/pathforge](https://github.com/kratos0718/pathforge) | 0 | TypeScript | 2026-08-02 | AI placement-prep platform — RAG over FAISS with a skill-gap scoring layer that personalises study material and mock int |
+| 43 | [HelgeSverre/milvus](https://github.com/HelgeSverre/milvus) | 33 | PHP | 2026-08-02 | A PHP Client for the Milvus Vector Database Rest API |
+| 44 | [taladb/taladb](https://github.com/taladb/taladb) | 4 | Rust | 2026-08-02 | TalaDB - The embedded vector database for on-device AI. |
+| 45 | [berktopal/microsoft-foundry-local-rag](https://github.com/berktopal/microsoft-foundry-local-rag) | 0 | Python | 2026-08-02 | A 100% offline Local RAG (Retrieval-Augmented Generation) assistant built with Microsoft Foundry Local, utilizing Phi-3. |
+| 46 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 6 | Mojo | 2026-08-02 | Vector DB implementation in Mojo |
+| 47 | [SeekStorm/seekstorm_client_py](https://github.com/SeekStorm/seekstorm_client_py) | 1 | Rust | 2026-08-02 | Python client for the SeekStorm vector & lexical search server |
+| 48 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 49 | [koprjaa/chromadb-embedding-visualizer](https://github.com/koprjaa/chromadb-embedding-visualizer) | 0 | Python | 2026-08-02 | 3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN |
+| 50 | [FURAI-LAB/.github](https://github.com/FURAI-LAB/.github) | 1 | — | 2026-08-02 | Architecting the future of digital autonomy. Specialized in long-term AI memory Edge-native systems, Hono and the Web3 |
 <!-- TRACKER_TABLE_END -->
 
 ---
