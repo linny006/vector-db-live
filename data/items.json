@@ -1,12 +1,12 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-02T16:15:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:29:24Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -14,8 +14,80 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T16:09:50Z",
+    "updated_at": "2026-08-02T16:28:26Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:27:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-02T16:25:59Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "A production-style AI assistant with evaluation and monitoring.",
+    "id": "ForwardAva/rag-eval",
+    "language": "Python",
+    "name": "ForwardAva/rag-eval",
+    "stars": 1,
+    "updated_at": "2026-08-02T16:23:02Z",
+    "url": "https://github.com/ForwardAva/rag-eval"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:21:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "This intelligent drug analysis platform uses ChromaDB and AI to search for and analyze drugs.",
+    "id": "Thitrongdan202/MediSearch-with-Chroma-DB",
+    "language": "Jupyter Notebook",
+    "name": "Thitrongdan202/MediSearch-with-Chroma-DB",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:20:01Z",
+    "url": "https://github.com/Thitrongdan202/MediSearch-with-Chroma-DB"
+  },
+  {
+    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
+    "id": "karthikreddy-7/ai-engineering-playbook",
+    "language": "MDX",
+    "name": "karthikreddy-7/ai-engineering-playbook",
+    "stars": 12,
+    "updated_at": "2026-08-02T16:18:02Z",
+    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1058,
+    "updated_at": "2026-08-02T16:15:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A Multimodal Temporal RAG System for Canadian Financial Reports.",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:01:09Z",
     "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-02T15:48:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local RAG Assistant  built with:  - Python - Streamlit - Sentence Transformers - ChromaDB - Ollama - Llama 3.",
     "id": "winston-lim-dev/document-qa-rag",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:47:18Z",
     "url": "https://github.com/winston-lim-dev/document-qa-rag"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-02T15:46:36Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -256,7 +292,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34960,
+    "stars": 34962,
     "updated_at": "2026-08-02T15:10:54Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -351,15 +387,6 @@
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
-    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
-    "id": "karthikreddy-7/ai-engineering-playbook",
-    "language": "MDX",
-    "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 12,
-    "updated_at": "2026-08-02T14:18:33Z",
-    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
-  },
-  {
     "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
     "id": "KashifMaqbool/Generative_AI_Engineering_Specialization",
     "language": "Jupyter Notebook",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-02T12:44:12Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 16,
-    "updated_at": "2026-08-02T12:43:18Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "AI placement-prep platform \u2014 RAG over FAISS with a skill-gap scoring layer that personalises study material and mock int",
-    "id": "kratos0718/pathforge",
-    "language": "TypeScript",
-    "name": "kratos0718/pathforge",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:24:26Z",
-    "url": "https://github.com/kratos0718/pathforge"
-  },
-  {
-    "description": "A PHP Client for the Milvus Vector Database Rest API",
-    "id": "HelgeSverre/milvus",
-    "language": "PHP",
-    "name": "HelgeSverre/milvus",
-    "stars": 33,
-    "updated_at": "2026-08-02T12:24:33Z",
-    "url": "https://github.com/HelgeSverre/milvus"
   }
 ]
