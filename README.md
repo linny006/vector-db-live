@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 15:30 UTC
+> ⏰ Last updated: 2026-08-02 15:36 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 5 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-02 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
-| 6 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-02 | API and integration profile for Upstash. |
-| 7 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-02 | Nomic AI — Nomic Embed + Atlas vector exploration + GPT4All |
-| 8 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-02 | Open-source cloud-native vector database. |
-| 9 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-02 | Vector search engine with end-to-end embedding and reranking. |
-| 10 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-02 | LanceDB — open-source serverless multimodal vector database (Lance format) |
-| 11 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-02 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
-| 12 | [SaaGup/Insurance-AI-](https://github.com/SaaGup/Insurance-AI-) | 0 | Python | 2026-08-02 | Enterprise Multi-Agent AI Platform for Insurance Claim Decision Intelligence using RAG, LangGraph, Explainable AI, and B |
-| 13 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 6 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-02 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
+| 7 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-02 | API and integration profile for Upstash. |
+| 8 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-02 | Nomic AI — Nomic Embed + Atlas vector exploration + GPT4All |
+| 9 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-02 | Open-source cloud-native vector database. |
+| 10 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-02 | Vector search engine with end-to-end embedding and reranking. |
+| 11 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-02 | LanceDB — open-source serverless multimodal vector database (Lance format) |
+| 12 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-02 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
+| 13 | [SaaGup/Insurance-AI-](https://github.com/SaaGup/Insurance-AI-) | 0 | Python | 2026-08-02 | Enterprise Multi-Agent AI Platform for Insurance Claim Decision Intelligence using RAG, LangGraph, Explainable AI, and B |
 | 14 | [Momad-Y/EUC-RAG-Agent](https://github.com/Momad-Y/EUC-RAG-Agent) | 0 | Jupyter Notebook | 2026-08-02 | A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai |
 | 15 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-02 | Vector database service built on Milvus. |
 | 16 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
