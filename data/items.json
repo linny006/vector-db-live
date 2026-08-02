@@ -1,12 +1,30 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-02T03:12:50Z",
+    "updated_at": "2026-08-02T03:15:58Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T03:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
@@ -34,24 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T03:04:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -175,7 +175,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45456,
+    "stars": 45457,
     "updated_at": "2026-08-02T01:10:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -288,6 +288,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33713,
+    "updated_at": "2026-08-01T23:52:29Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Large document Q&A agent using RAG",
     "id": "djleamen/doc-reader",
     "language": "Python",
@@ -315,15 +324,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33712,
-    "updated_at": "2026-08-01T23:52:29Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Distill videos into a vector DB: VLM reads the screen, ASR hears the speaker, LLMs fuse both into notes with hybrid (vec",
     "id": "Ayshine/Video-Distiller",
     "language": "Python",
@@ -349,6 +349,15 @@
     "stars": 32,
     "updated_at": "2026-08-01T22:34:17Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7916,
+    "updated_at": "2026-08-01T22:02:56Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -419,7 +428,7 @@
     "language": "Java",
     "name": "eniglio-ctrl/enterprise-rag-platform",
     "stars": 0,
-    "updated_at": "2026-08-01T20:24:07Z",
+    "updated_at": "2026-08-02T03:30:26Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T20:16:00Z",
     "url": "https://github.com/HillolPias/taskapi-backend"
-  },
-  {
-    "description": "A lightweight Streamlit web app built for developers who need a quick, visual way to manage and understand their Weaviat",
-    "id": "Shah91n/weaviate-cluster-webapp",
-    "language": "Python",
-    "name": "Shah91n/weaviate-cluster-webapp",
-    "stars": 44,
-    "updated_at": "2026-08-01T20:14:18Z",
-    "url": "https://github.com/Shah91n/weaviate-cluster-webapp"
   }
 ]
