@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T23:30:20Z",
+    "updated_at": "2026-08-02T23:45:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-02T23:44:43Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:42:49Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain, ",
+    "id": "PrakashWebDevX/url-to-vectordb-rag-pipeline",
+    "language": "Jupyter Notebook",
+    "name": "PrakashWebDevX/url-to-vectordb-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:42:30Z",
+    "url": "https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:39:35Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -45,24 +90,6 @@
     "url": "https://github.com/hoffresearch/nest"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-02T23:17:20Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -70,15 +97,6 @@
     "stars": 2224,
     "updated_at": "2026-08-02T23:07:20Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:05:29Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -430,23 +448,5 @@
     "stars": 1873,
     "updated_at": "2026-08-02T18:35:22Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A production-ready AI PDF chat application built with LangChain, FastAPI, FAISS, and the OpenAI Responses API, enabling ",
-    "id": "OlehDatsyk/pdf-chat",
-    "language": "Python",
-    "name": "OlehDatsyk/pdf-chat",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:19:08Z",
-    "url": "https://github.com/OlehDatsyk/pdf-chat"
-  },
-  {
-    "description": "Zero-dependency browser UI for pdf-inspector (Firecrawl) \u2014 parse PDFs to structured Markdown entirely client-side via We",
-    "id": "AIAnytime/pdf-inspector-web-ui",
-    "language": "JavaScript",
-    "name": "AIAnytime/pdf-inspector-web-ui",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:18:01Z",
-    "url": "https://github.com/AIAnytime/pdf-inspector-web-ui"
   }
 ]
