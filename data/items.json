@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T10:30:17Z",
+    "updated_at": "2026-08-02T10:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-08-02T10:42:20Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-02T10:39:59Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 51,
+    "updated_at": "2026-08-02T10:31:09Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -36,15 +72,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T10:19:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Semantic RAG pipeline built from scratch (no LangChain/LlamaIndex) with PostgreSQL + pgvector. Includes retrieval eval (",
     "id": "denizzozupek/semantic-rag-from-scratch",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T10:18:53Z",
     "url": "https://github.com/denizzozupek/semantic-rag-from-scratch"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 51,
-    "updated_at": "2026-08-02T10:16:44Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6198,
-    "updated_at": "2026-08-02T09:51:54Z",
+    "updated_at": "2026-08-02T10:34:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:26:08Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
     "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
@@ -329,7 +338,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-02T10:11:57Z",
+    "updated_at": "2026-08-02T10:42:35Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T06:46:37Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-08-02T06:40:44Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
   },
   {
     "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
