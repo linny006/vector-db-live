@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T09:45:21Z",
+    "updated_at": "2026-08-02T10:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:57:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:52:41Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6198,
+    "updated_at": "2026-08-02T09:51:54Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-02T09:51:11Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 51,
+    "updated_at": "2026-08-02T09:48:59Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
+    "id": "chukiagosoftware/alpaca",
+    "language": "Go",
+    "name": "chukiagosoftware/alpaca",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:48:59Z",
+    "url": "https://github.com/chukiagosoftware/alpaca"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 91,
+    "updated_at": "2026-08-02T09:52:30Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:45:42Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -18,29 +99,11 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 51,
-    "updated_at": "2026-08-02T09:37:24Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:44:22Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
     "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
+    "stars": 4,
     "updated_at": "2026-08-02T09:33:21Z",
     "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
@@ -52,15 +115,6 @@
     "stars": 77,
     "updated_at": "2026-08-02T09:32:01Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T09:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Conversational RAG assistant over the documented trading methodology of a professional futures trader.",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:38:34Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "A curated collection of Retrieval-Augmented Generation (RAG) prompts, templates, and best practices for document-based A",
     "id": "OlehDatsyk/awesome-rag-prompts",
     "language": "\u2014",
@@ -133,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T09:14:44Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Alpaca - Hotel Reviews Search Supercharged with AI",
-    "id": "chukiagosoftware/alpaca",
-    "language": "Go",
-    "name": "chukiagosoftware/alpaca",
-    "stars": 0,
-    "updated_at": "2026-08-02T09:10:40Z",
-    "url": "https://github.com/chukiagosoftware/alpaca"
   },
   {
     "description": "Learn Generative AI through hands-on projects using OpenAI, Gemini, Ollama, LangChain, RAG, AI Agents, MCP, Prompt Engin",
@@ -189,15 +225,6 @@
     "url": "https://github.com/amikos-tech/chroma-go"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 91,
-    "updated_at": "2026-08-02T08:53:31Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
     "id": "tradik/mddb",
     "language": "Go",
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T08:33:06Z",
     "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6198,
-    "updated_at": "2026-08-02T08:48:24Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -266,7 +284,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-02T09:06:45Z",
+    "updated_at": "2026-08-02T09:57:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 34953,
-    "updated_at": "2026-08-02T08:05:30Z",
+    "updated_at": "2026-08-02T09:58:18Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -349,15 +367,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T07:32:06Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-02T07:31:37Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Production-grade AI Router platform with Multi-LLM Routing, RAG, MCP, Plugins, Distributed Architecture, and Enterprise ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T06:01:06Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-02T09:04:45Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
