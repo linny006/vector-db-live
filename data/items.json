@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u667a\u80fd\u52a9\u624b \u00b7 \u6587\u6863\u95ee\u7b54\u8fd4\u56de\u5e26\u539f\u6587\u5f15\u7528\u4e0e\u6765\u6e90\u4f4d\u7f6e\uff0c\u8bc1\u636e\u4e0d\u8db3\u65f6\u62d2\u7b54\u800c\u975e\u7f16\u9020 \u00b7 FastAPI + Next.js 16 + PostgreSQL/pgvector + Docker",
+    "id": "chenfugui0416/enterprise-rag-assistant",
+    "language": "Python",
+    "name": "chenfugui0416/enterprise-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:49:31Z",
+    "url": "https://github.com/chenfugui0416/enterprise-rag-assistant"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:49:16Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "MVR-Data defines how multi-vector retrieval data is organized at runtime and packaged for interchange using Apache Arrow",
+    "id": "WittenYeh/MVR-Data",
+    "language": "Python",
+    "name": "WittenYeh/MVR-Data",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:47:06Z",
+    "url": "https://github.com/WittenYeh/MVR-Data"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7923,
+    "updated_at": "2026-08-03T10:45:57Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:45:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -36,24 +99,6 @@
     "url": "https://github.com/KB-perByte/hiveshare"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
     "id": "deven96/ahnlich",
     "language": "Rust",
@@ -85,7 +130,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 427,
+    "stars": 444,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -135,15 +180,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7923,
-    "updated_at": "2026-08-03T09:59:24Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T10:42:30Z",
+    "updated_at": "2026-08-03T10:53:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 29719,
     "updated_at": "2026-08-03T09:10:45Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:08:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T07:33:58Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9407,
-    "updated_at": "2026-08-03T10:19:40Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Exhaustive Scanning Method for Multi-Vector Retrieval Tasks. (This tool can be used to generate embeddingp-level groundt",
-    "id": "WittenYeh/MVR-Scanning",
-    "language": "\u2014",
-    "name": "WittenYeh/MVR-Scanning",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:18:45Z",
-    "url": "https://github.com/WittenYeh/MVR-Scanning"
-  },
-  {
-    "description": "\u26a1 Blazingly fast, lightweight Go REST API & SDK for text chunking in RAG (Retrieval-Augmented Generation) pipelines.",
-    "id": "Adedejiosvaldo/rag-chunker",
-    "language": "Go",
-    "name": "Adedejiosvaldo/rag-chunker",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:18:43Z",
-    "url": "https://github.com/Adedejiosvaldo/rag-chunker"
   }
 ]
