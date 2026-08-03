@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T11:45:21Z",
+    "updated_at": "2026-08-03T12:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-03T11:59:55Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45482,
+    "updated_at": "2026-08-03T11:58:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-08-03T12:00:19Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
+    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "language": "Python",
+    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:55:58Z",
+    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 61,
+    "updated_at": "2026-08-03T11:54:00Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-03T11:52:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T11:52:32Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6314,
+    "updated_at": "2026-08-03T11:50:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6200,
+    "updated_at": "2026-08-03T11:59:13Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
@@ -16,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T11:43:14Z",
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
-  },
-  {
-    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
-    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "language": "Python",
-    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:42:28Z",
-    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6200,
-    "updated_at": "2026-08-03T11:43:12Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
@@ -63,15 +135,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
     "id": "puffball1567/koutendb",
     "language": "Nim",
@@ -97,24 +160,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T11:20:50Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-03T11:19:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T11:19:21Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -238,7 +283,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33751,
+    "stars": 33752,
     "updated_at": "2026-08-03T10:35:15Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "deven96/ahnlich",
     "stars": 241,
-    "updated_at": "2026-08-03T10:28:34Z",
+    "updated_at": "2026-08-03T11:58:00Z",
     "url": "https://github.com/deven96/ahnlich"
   },
   {
@@ -283,7 +328,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 504,
+    "stars": 518,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -313,15 +358,6 @@
     "stars": 89,
     "updated_at": "2026-08-03T10:13:57Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45481,
-    "updated_at": "2026-08-03T11:40:51Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "High-Performance Engine for Multi-Vector Search",
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T11:36:29Z",
+    "updated_at": "2026-08-03T11:57:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -374,17 +410,8 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58837,
-    "updated_at": "2026-08-03T09:33:39Z",
+    "updated_at": "2026-08-03T12:00:00Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 61,
-    "updated_at": "2026-08-03T09:30:30Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -409,8 +436,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29720,
-    "updated_at": "2026-08-03T09:10:45Z",
+    "stars": 29722,
+    "updated_at": "2026-08-03T11:52:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 524,
     "updated_at": "2026-08-03T09:07:14Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-03T09:00:24Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:57:20Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:55:42Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   }
 ]
