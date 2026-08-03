@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1904,
+    "updated_at": "2026-08-03T16:15:04Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "C# client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_cs",
+    "language": "C#",
+    "name": "SeekStorm/seekstorm_client_cs",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:14:49Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:07:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-03T16:04:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
@@ -16,24 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T16:03:10Z",
     "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T15:59:03Z",
+    "updated_at": "2026-08-03T16:11:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T15:51:47Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-03T16:04:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
@@ -185,17 +203,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33756,
-    "updated_at": "2026-08-03T15:59:17Z",
+    "updated_at": "2026-08-03T16:14:54Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "C# client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:24:39Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   },
   {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
@@ -261,6 +270,15 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-03T15:00:42Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 2,
-    "updated_at": "2026-08-03T14:33:34Z",
+    "updated_at": "2026-08-03T16:12:34Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16685,
-    "updated_at": "2026-08-03T16:04:32Z",
+    "updated_at": "2026-08-03T16:12:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-03T13:31:27Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 725,
-    "updated_at": "2026-08-03T13:24:49Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-08-03T13:20:13Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   }
 ]
