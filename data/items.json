@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:27:15Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9407,
+    "updated_at": "2026-08-03T07:26:34Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -22,7 +49,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 215,
+    "stars": 219,
     "updated_at": "2026-08-03T07:20:27Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -43,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:18:43Z",
     "url": "https://github.com/Adedejiosvaldo/rag-chunker"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:15:49Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -104,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T07:26:35Z",
+    "updated_at": "2026-08-03T07:28:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -220,7 +229,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15363,
+    "stars": 15364,
     "updated_at": "2026-08-03T06:06:16Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:54:46Z",
     "url": "https://github.com/Unnati1401/rag-assistant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9407,
-    "updated_at": "2026-08-03T07:26:34Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
