@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-08-03T01:30:17Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:28:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 477,
+    "updated_at": "2026-08-03T01:25:39Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 331,
+    "updated_at": "2026-08-03T01:25:15Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T01:22:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/vul-os/basin"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 331,
-    "updated_at": "2026-08-03T01:07:44Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -36,15 +81,6 @@
     "url": "https://github.com/worka-ai/anvil"
   },
   {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-08-03T01:14:20Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
     "id": "oceanbase/oceanbase",
     "language": "C++",
@@ -52,15 +88,6 @@
     "stars": 10231,
     "updated_at": "2026-08-03T01:00:33Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-03T00:57:59Z",
+    "updated_at": "2026-08-03T01:17:42Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T23:49:56Z",
     "url": "https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:47:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -319,7 +337,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34968,
+    "stars": 34969,
     "updated_at": "2026-08-02T21:19:57Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T20:14:12Z",
     "url": "https://github.com/HillolPias/taskapi-backend"
-  },
-  {
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
-    "id": "NirDiamant/Agent_Memory_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 831,
-    "updated_at": "2026-08-02T20:07:49Z",
-    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "A fully local PDF RAG application using FastAPI, Streamlit, Ollama, Qdrant, Inngest, and LlamaIndex.",
-    "id": "MahamadElshabory/local-pdf-RAG",
-    "language": "Python",
-    "name": "MahamadElshabory/local-pdf-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:05:40Z",
-    "url": "https://github.com/MahamadElshabory/local-pdf-RAG"
   }
 ]
