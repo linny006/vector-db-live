@@ -1,11 +1,20 @@
 [
   {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T07:26:30Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T07:13:17Z",
+    "updated_at": "2026-08-03T07:25:14Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -13,16 +22,52 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 208,
-    "updated_at": "2026-08-03T07:12:40Z",
+    "stars": 215,
+    "updated_at": "2026-08-03T07:20:27Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Exhaustive Scanning Method for Multi-Vector Retrieval Tasks. (This tool can be used to generate embeddingp-level groundt",
+    "id": "WittenYeh/MVR-Scanning",
+    "language": "\u2014",
+    "name": "WittenYeh/MVR-Scanning",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:18:45Z",
+    "url": "https://github.com/WittenYeh/MVR-Scanning"
+  },
+  {
+    "description": "\u26a1 Blazingly fast, lightweight Go REST API & SDK for text chunking in RAG (Retrieval-Augmented Generation) pipelines.",
+    "id": "Adedejiosvaldo/rag-chunker",
+    "language": "Go",
+    "name": "Adedejiosvaldo/rag-chunker",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:18:43Z",
+    "url": "https://github.com/Adedejiosvaldo/rag-chunker"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:15:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45474,
+    "stars": 45476,
     "updated_at": "2026-08-03T07:10:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T07:10:45Z",
+    "updated_at": "2026-08-03T07:26:35Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,24 +115,6 @@
     "stars": 78,
     "updated_at": "2026-08-03T07:02:26Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T06:56:21Z",
     "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7921,
+    "updated_at": "2026-08-03T06:47:39Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Python client for the SeekStorm vector & lexical search server",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-08-03T07:13:15Z",
+    "updated_at": "2026-08-03T07:22:33Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T05:18:13Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T05:14:11Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9407,
-    "updated_at": "2026-08-03T06:07:31Z",
+    "updated_at": "2026-08-03T07:26:34Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:51:24Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-03T02:59:10Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7920,
-    "updated_at": "2026-08-03T06:47:39Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
