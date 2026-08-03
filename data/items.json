@@ -1,5 +1,41 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 842,
+    "updated_at": "2026-08-03T23:09:13Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51350,
+    "updated_at": "2026-08-03T23:09:13Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-03T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T23:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
@@ -18,6 +54,15 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "A production-grade Conversational RAG Assistant powered by Hybrid Ensemble Search (FAISS + BM25), multi-turn context mem",
+    "id": "Eisha23/Conversational-Hybrid-Rag",
+    "language": "Python",
+    "name": "Eisha23/Conversational-Hybrid-Rag",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:57:11Z",
+    "url": "https://github.com/Eisha23/Conversational-Hybrid-Rag"
+  },
+  {
     "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
     "id": "yusufornek/rag-knowledge-ledger",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T22:57:04Z",
     "url": "https://github.com/yusufornek/rag-knowledge-ledger"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:56:38Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T22:50:05Z",
+    "updated_at": "2026-08-03T23:02:10Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -108,21 +135,12 @@
     "url": "https://github.com/bunlongheng/ai-lab"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 841,
-    "updated_at": "2026-08-03T22:36:50Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7925,
-    "updated_at": "2026-08-03T22:33:39Z",
+    "updated_at": "2026-08-03T23:01:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-03T22:46:46Z",
+    "updated_at": "2026-08-03T23:14:05Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51348,
-    "updated_at": "2026-08-03T21:24:41Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T22:58:26Z",
+    "updated_at": "2026-08-03T23:08:45Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-03T18:59:29Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-03T21:17:03Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
