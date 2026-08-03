@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-02T23:45:17Z",
+    "updated_at": "2026-08-03T00:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,26 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-08-02T23:44:43Z",
+    "updated_at": "2026-08-02T23:59:45Z",
     "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:57:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 41,
+    "updated_at": "2026-08-02T23:57:41Z",
+    "url": "https://github.com/rustic-ai/uni-db"
   },
   {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "vpeetla-ai/enterprise_rag_platform",
     "stars": 2,
-    "updated_at": "2026-08-02T23:42:49Z",
+    "updated_at": "2026-08-02T23:55:09Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 331,
+    "updated_at": "2026-08-02T23:54:51Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain, ",
@@ -32,17 +59,26 @@
     "language": "Jupyter Notebook",
     "name": "PrakashWebDevX/url-to-vectordb-rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-08-02T23:42:30Z",
+    "updated_at": "2026-08-02T23:49:56Z",
     "url": "https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline"
   },
   {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:39:35Z",
-    "url": "https://github.com/ruvnet/rvQR"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:48:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:47:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -50,8 +86,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-02T23:30:29Z",
+    "updated_at": "2026-08-02T23:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 1,
+    "updated_at": "2026-08-02T23:39:35Z",
+    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
@@ -61,15 +106,6 @@
     "stars": 40,
     "updated_at": "2026-08-02T23:24:11Z",
     "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:20:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T23:02:44Z",
+    "updated_at": "2026-08-02T23:59:55Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -124,24 +160,6 @@
     "stars": 78,
     "updated_at": "2026-08-02T22:58:35Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:55:14Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:43:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
@@ -252,15 +270,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 331,
-    "updated_at": "2026-08-02T21:08:03Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -328,7 +337,7 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-08-02T20:33:27Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:52:11Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1873,
-    "updated_at": "2026-08-02T18:35:22Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
