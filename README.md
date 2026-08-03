@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 10:54 UTC
+> ⏰ Last updated: 2026-08-03 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [chenfugui0416/enterprise-rag-assistant](https://github.com/chenfugui0416/enterprise-rag-assistant) | 0 | Python | 2026-08-03 | 企业级 RAG 智能助手 · 文档问答返回带原文引用与来源位置，证据不足时拒答而非编造 · FastAPI + Next.js 16 + PostgreSQL/pgvector + Docker |
-| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 3 | [WittenYeh/MVR-Data](https://github.com/WittenYeh/MVR-Data) | 1 | Python | 2026-08-03 | MVR-Data defines how multi-vector retrieval data is organized at runtime and packaged for interchange using Apache Arrow |
-| 4 | [MariaDB/server](https://github.com/MariaDB/server) | 7923 | C++ | 2026-08-03 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 9 | [ahmedzan91-rgb/Islamic-Fatwa-RAG](https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG) | 0 | Python | 2026-08-03 | 🕌 نظام RAG إسلامي للإجابة على الفتاوى والمسائل الشرعية \| Guardrailed RAG over 139K+ Islamic Fatwas — ChromaDB + Arabic E |
-| 10 | [crate/crate](https://github.com/crate/crate) | 4416 | Java | 2026-08-03 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 11 | [KB-perByte/hiveshare](https://github.com/KB-perByte/hiveshare) | 5 | Go | 2026-08-03 | Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates |
-| 12 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 241 | Rust | 2026-08-03 | Suite of tools containing an in-memory vector datastore and AI proxy |
-| 13 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-03 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 14 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-03 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
-| 15 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 444 | Rust | 2026-08-03 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 16 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1874 | Go | 2026-08-03 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1874 | Go | 2026-08-03 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [chenfugui0416/enterprise-rag-assistant](https://github.com/chenfugui0416/enterprise-rag-assistant) | 0 | Python | 2026-08-03 | 企业级 RAG 智能助手 · 文档问答返回带原文引用与来源位置，证据不足时拒答而非编造 · FastAPI + Next.js 16 + PostgreSQL/pgvector + Docker |
+| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 6 | [WittenYeh/MVR-Data](https://github.com/WittenYeh/MVR-Data) | 1 | Python | 2026-08-03 | MVR-Data defines how multi-vector retrieval data is organized at runtime and packaged for interchange using Apache Arrow |
+| 7 | [MariaDB/server](https://github.com/MariaDB/server) | 7923 | C++ | 2026-08-03 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 10 | [ahmedzan91-rgb/Islamic-Fatwa-RAG](https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG) | 0 | Python | 2026-08-03 | 🕌 نظام RAG إسلامي للإجابة على الفتاوى والمسائل الشرعية \| Guardrailed RAG over 139K+ Islamic Fatwas — ChromaDB + Arabic E |
+| 11 | [crate/crate](https://github.com/crate/crate) | 4416 | Java | 2026-08-03 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 12 | [KB-perByte/hiveshare](https://github.com/KB-perByte/hiveshare) | 5 | Go | 2026-08-03 | Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates |
+| 13 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 241 | Rust | 2026-08-03 | Suite of tools containing an in-memory vector datastore and AI proxy |
+| 14 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-03 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 15 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-03 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
+| 16 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 446 | Rust | 2026-08-03 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 17 | [Priyadarshan-Garg/Synapse](https://github.com/Priyadarshan-Garg/Synapse) | 3 | Python | 2026-08-03 | Sybapse : Low-Latency Hybrid Edge Computing and Desktop AI assistant |
 | 18 | [Zizka-ai/ZizkaDB](https://github.com/Zizka-ai/ZizkaDB) | 35 | Python | 2026-08-03 | Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S |
 | 19 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 89 | Python | 2026-08-03 | World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16683 | Go | 2026-08-03 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 28 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33750 | Rust | 2026-08-03 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 29 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 242 | Python | 2026-08-03 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
-| 30 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58835 | Rust | 2026-08-03 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 30 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58836 | Rust | 2026-08-03 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | 31 | [infino-ai/infino](https://github.com/infino-ai/infino) | 61 | Rust | 2026-08-03 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
 | 32 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 1 | JavaScript | 2026-08-03 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 33 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 176 | Rust | 2026-08-03 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
