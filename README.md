@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 00:30 UTC
+> ⏰ Last updated: 2026-08-03 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,27 +43,27 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 51 | JavaScript | 2026-08-03 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
-| 3 | [jkelly-dev1/ai-data-boundary-proxy](https://github.com/jkelly-dev1/ai-data-boundary-proxy) | 0 | Python | 2026-08-03 | A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre |
-| 4 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-03 |  |
+| 2 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-08-03 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
+| 3 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-03 | Object storage for the AI age |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [schmitech/orbit](https://github.com/schmitech/orbit) | 331 | Python | 2026-08-03 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 7 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-03 | Object storage for the AI age |
-| 8 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-03 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 9 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 11 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 41 | Rust | 2026-08-02 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
-| 12 | [vpeetla-ai/enterprise_rag_platform](https://github.com/vpeetla-ai/enterprise_rag_platform) | 2 | Python | 2026-08-03 | Production RAG reference — governed retrieval, access control, evals, guardrails, observability |
-| 13 | [PrakashWebDevX/url-to-vectordb-rag-pipeline](https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline) | 0 | Jupyter Notebook | 2026-08-02 | Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain,  |
-| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 15 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 16 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 1 | JavaScript | 2026-08-02 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
-| 17 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-08-02 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
-| 18 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-02 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 19 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2224 | JavaScript | 2026-08-02 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 20 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 21 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 22 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-08-02 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
+| 6 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 51 | JavaScript | 2026-08-03 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
+| 7 | [jkelly-dev1/ai-data-boundary-proxy](https://github.com/jkelly-dev1/ai-data-boundary-proxy) | 0 | Python | 2026-08-03 | A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre |
+| 8 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-03 |  |
+| 9 | [schmitech/orbit](https://github.com/schmitech/orbit) | 331 | Python | 2026-08-03 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 10 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-03 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 11 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 12 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 13 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 41 | Rust | 2026-08-02 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
+| 14 | [vpeetla-ai/enterprise_rag_platform](https://github.com/vpeetla-ai/enterprise_rag_platform) | 2 | Python | 2026-08-03 | Production RAG reference — governed retrieval, access control, evals, guardrails, observability |
+| 15 | [PrakashWebDevX/url-to-vectordb-rag-pipeline](https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline) | 0 | Jupyter Notebook | 2026-08-02 | Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain,  |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 17 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 1 | JavaScript | 2026-08-02 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
+| 18 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-08-02 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
+| 19 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-02 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 20 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2224 | JavaScript | 2026-08-02 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 21 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 22 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 23 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 12 | TypeScript | 2026-08-02 | OpenCode plugin that gives coding agents persistent memory using local vector database |
 | 24 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33727 | Rust | 2026-08-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 25 | [ErenReyhanlioglu/seekbind](https://github.com/ErenReyhanlioglu/seekbind) | 0 | Python | 2026-08-02 | Randevu platformları için semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v |
