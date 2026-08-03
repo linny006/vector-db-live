@@ -1,10 +1,46 @@
 [
   {
+    "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
+    "id": "WKassebaum/Recall",
+    "language": "Python",
+    "name": "WKassebaum/Recall",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:03:19Z",
+    "url": "https://github.com/WKassebaum/Recall"
+  },
+  {
+    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
+    "id": "StephenSook/erasure-proof",
+    "language": "Go",
+    "name": "StephenSook/erasure-proof",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:01:48Z",
+    "url": "https://github.com/StephenSook/erasure-proof"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:00:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
     "name": "ruvnet/rvQR",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-03T21:00:09Z",
     "url": "https://github.com/ruvnet/rvQR"
   },
@@ -16,15 +52,6 @@
     "stars": 77,
     "updated_at": "2026-08-03T20:57:51Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
-    "id": "WKassebaum/Recall",
-    "language": "Python",
-    "name": "WKassebaum/Recall",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:57:00Z",
-    "url": "https://github.com/WKassebaum/Recall"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -90,24 +117,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Document-first sqlite3+faiss vector database",
     "id": "thomas-villani/localvectordb",
     "language": "Python",
@@ -162,15 +171,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
-    "id": "StephenSook/erasure-proof",
-    "language": "Go",
-    "name": "StephenSook/erasure-proof",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:35:39Z",
-    "url": "https://github.com/StephenSook/erasure-proof"
-  },
-  {
     "description": "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!",
     "id": "weaviate/recipes",
     "language": "Jupyter Notebook",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-03T20:57:54Z",
+    "updated_at": "2026-08-03T21:05:20Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-03T19:48:57Z",
+    "updated_at": "2026-08-03T21:06:42Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -382,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 823,
+    "stars": 824,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
