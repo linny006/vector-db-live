@@ -1,12 +1,57 @@
 [
   {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "IbiliAze/chatagent",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T20:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 3,
+    "updated_at": "2026-08-03T20:27:14Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T20:26:36Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
     "stars": 0,
-    "updated_at": "2026-08-03T20:13:18Z",
-    "url": "https://github.com/IbiliAze/chatagent"
+    "updated_at": "2026-08-03T20:25:56Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 460,
+    "updated_at": "2026-08-03T20:24:21Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1059,
+    "updated_at": "2026-08-03T20:23:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "StephenSook/erasure-proof",
     "stars": 0,
-    "updated_at": "2026-08-03T20:11:45Z",
+    "updated_at": "2026-08-03T20:30:19Z",
     "url": "https://github.com/StephenSook/erasure-proof"
   },
   {
@@ -23,8 +68,35 @@
     "language": "Jupyter Notebook",
     "name": "weaviate/recipes",
     "stars": 943,
-    "updated_at": "2026-08-03T20:11:44Z",
+    "updated_at": "2026-08-03T20:21:02Z",
     "url": "https://github.com/weaviate/recipes"
+  },
+  {
+    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
+    "id": "geckse/markdown-vdb",
+    "language": "Rust",
+    "name": "geckse/markdown-vdb",
+    "stars": 23,
+    "updated_at": "2026-08-03T20:19:57Z",
+    "url": "https://github.com/geckse/markdown-vdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T20:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:13:18Z",
+    "url": "https://github.com/IbiliAze/chatagent"
   },
   {
     "description": "Production-ready FastAPI trading analysis platform with AI sentiment, vector search, Redis/Celery background processing,",
@@ -63,24 +135,6 @@
     "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 11065,
     "updated_at": "2026-08-03T20:10:46Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 3,
-    "updated_at": "2026-08-03T19:52:34Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "Object storage for the AI age",
@@ -142,15 +187,6 @@
     "stars": 1607,
     "updated_at": "2026-08-03T19:39:25Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1059,
-    "updated_at": "2026-08-03T19:32:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-03T19:04:48Z",
+    "updated_at": "2026-08-03T20:22:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -248,26 +284,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T20:07:31Z",
+    "updated_at": "2026-08-03T20:24:21Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T18:50:56Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T18:49:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33759,
-    "updated_at": "2026-08-03T18:37:37Z",
+    "updated_at": "2026-08-03T20:16:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -319,7 +337,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 819,
+    "stars": 821,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 1874,
     "updated_at": "2026-08-03T17:41:28Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-08-03T17:40:52Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64293,
-    "updated_at": "2026-08-03T17:36:56Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
