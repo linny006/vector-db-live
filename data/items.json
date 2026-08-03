@@ -1,12 +1,66 @@
 [
   {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:56:09Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7924,
+    "updated_at": "2026-08-03T13:51:18Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "MVR-Data defines how multi-vector retrieval data is organized at runtime and packaged for interchange using Apache Arrow",
+    "id": "WittenYeh/MVR-Data",
+    "language": "Python",
+    "name": "WittenYeh/MVR-Data",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:50:16Z",
+    "url": "https://github.com/WittenYeh/MVR-Data"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
     "id": "hseshadr/edgeproc-core",
     "language": "Python",
     "name": "hseshadr/edgeproc-core",
     "stars": 0,
-    "updated_at": "2026-08-03T13:43:17Z",
+    "updated_at": "2026-08-03T13:50:26Z",
     "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16684,
+    "updated_at": "2026-08-03T13:43:07Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T13:41:02Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:40:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -45,21 +90,12 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:45:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-03T13:27:26Z",
+    "updated_at": "2026-08-03T13:55:18Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -68,24 +104,15 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T13:43:42Z",
+    "updated_at": "2026-08-03T13:59:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:25:23Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 604,
+    "stars": 615,
     "updated_at": "2026-08-03T13:24:49Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T13:16:50Z",
+    "updated_at": "2026-08-03T13:59:46Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T13:33:56Z",
+    "updated_at": "2026-08-03T13:57:19Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/geckse/markdown-vdb"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16683,
-    "updated_at": "2026-08-03T13:43:07Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -279,15 +297,6 @@
     "url": "https://github.com/10xHub/Agentflow"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7924,
-    "updated_at": "2026-08-03T12:06:27Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -319,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45486,
+    "stars": 45487,
     "updated_at": "2026-08-03T11:58:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -355,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29726,
+    "stars": 29727,
     "updated_at": "2026-08-03T11:52:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:11:20Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-03T11:10:54Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   }
 ]
