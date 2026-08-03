@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "PaveDB \u2014 Lightweight Vector Search Microservice",
+    "id": "rodrigopitanga/pavedb",
+    "language": "Python",
+    "name": "rodrigopitanga/pavedb",
+    "stars": 7,
+    "updated_at": "2026-08-03T01:43:37Z",
+    "url": "https://github.com/rodrigopitanga/pavedb"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T01:42:43Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 331,
+    "updated_at": "2026-08-03T01:40:35Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45470,
+    "updated_at": "2026-08-03T01:40:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
     "id": "schwichtgit/ai-resume",
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-08-03T01:30:17Z",
+    "updated_at": "2026-08-03T01:38:39Z",
     "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T01:36:37Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:35:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 \u561f\u561f\u8d85\u7ea7\u8bb0\u5fc6\u7cfb\u7edf Hermes V1 - \u57fa\u4e8eSuperMemo-Du\u7684\u8bed\u4e49\u5411\u91cf\u8bb0\u5fc6\u7cfb\u7edf\uff0c\u8ba9AI\u52a9\u624b\u62e5\u6709\u771f\u6b63\u7406\u89e3\u8bed\u4e49\u7684\u957f\u671f\u8bb0\u5fc6\u80fd\u529b\u3002",
+    "id": "Shine8592/super-memory-hermes-v1",
+    "language": "Python",
+    "name": "Shine8592/super-memory-hermes-v1",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:30:45Z",
+    "url": "https://github.com/Shine8592/super-memory-hermes-v1"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -27,42 +108,6 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 331,
-    "updated_at": "2026-08-03T01:25:15Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T01:22:58Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "vul-os/basin",
     "language": "Rust",
@@ -70,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T01:09:40Z",
     "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T01:06:31Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
@@ -126,15 +162,6 @@
     "url": "https://github.com/codelined-ag/Extracto"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:33:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
     "id": "stuinfla/Repo-Explainer",
     "language": "JavaScript",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-02T23:59:55Z",
+    "updated_at": "2026-08-03T01:44:56Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -229,7 +256,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2224,
+    "stars": 2225,
     "updated_at": "2026-08-02T23:07:20Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -418,35 +445,8 @@
     "id": "karthikreddy-7/ai-engineering-playbook",
     "language": "MDX",
     "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-08-02T20:33:27Z",
     "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6311,
-    "updated_at": "2026-08-02T20:22:24Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-08-02T20:50:13Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
-    "id": "HillolPias/taskapi-backend",
-    "language": "Python",
-    "name": "HillolPias/taskapi-backend",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:14:12Z",
-    "url": "https://github.com/HillolPias/taskapi-backend"
   }
 ]
