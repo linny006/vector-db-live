@@ -1,12 +1,48 @@
 [
   {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T08:29:34Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 257,
-    "updated_at": "2026-08-03T08:13:14Z",
+    "stars": 272,
+    "updated_at": "2026-08-03T08:25:11Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-03T08:20:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:15:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16682,
-    "updated_at": "2026-08-03T08:13:49Z",
+    "updated_at": "2026-08-03T08:28:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -45,24 +81,6 @@
     "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:00:50Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -77,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4415,
-    "updated_at": "2026-08-03T07:59:30Z",
+    "updated_at": "2026-08-03T08:29:45Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -85,7 +103,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29715,
+    "stars": 29716,
     "updated_at": "2026-08-03T07:51:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -144,20 +162,11 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:14:58Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33743,
+    "stars": 33744,
     "updated_at": "2026-08-03T07:24:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 10,
-    "updated_at": "2026-08-03T07:11:18Z",
+    "updated_at": "2026-08-03T08:30:07Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
@@ -212,17 +221,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T08:14:46Z",
+    "updated_at": "2026-08-03T08:22:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-03T07:36:59Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
