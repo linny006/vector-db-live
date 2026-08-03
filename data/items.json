@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T19:00:19Z",
+    "updated_at": "2026-08-03T19:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:15:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 332,
+    "updated_at": "2026-08-03T19:07:50Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "C# client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_cs",
+    "language": "C#",
+    "name": "SeekStorm/seekstorm_client_cs",
+    "stars": 1,
+    "updated_at": "2026-08-03T19:03:04Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:02:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T19:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
@@ -27,12 +72,21 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-03T18:59:29Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-03T18:56:23Z",
+    "updated_at": "2026-08-03T19:04:48Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -45,21 +99,12 @@
     "url": "https://github.com/1Vewton/WikiSpider"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 12,
-    "updated_at": "2026-08-03T18:59:29Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T18:58:55Z",
+    "updated_at": "2026-08-03T19:07:54Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "hseshadr/edgeproc-core",
     "stars": 0,
-    "updated_at": "2026-08-03T18:49:19Z",
+    "updated_at": "2026-08-03T19:10:23Z",
     "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T18:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first memory service for AI agents, with HTTP and MCP APIs.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 1,
-    "updated_at": "2026-08-03T18:44:46Z",
+    "updated_at": "2026-08-03T19:10:29Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 332,
-    "updated_at": "2026-08-03T18:32:41Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -157,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 795,
+    "stars": 799,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -169,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T18:08:19Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T18:08:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-powered University Management System using Streamlit and Retrieval-Augmented Generation (RAG) for document-based ques",
@@ -196,15 +214,6 @@
     "stars": 1904,
     "updated_at": "2026-08-03T18:05:29Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "C# client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-03T18:05:15Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   },
   {
     "description": "Python client for the SeekStorm vector & lexical search server",
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:45:34Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:44:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
