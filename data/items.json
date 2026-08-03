@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 15,
+    "updated_at": "2026-08-03T11:25:23Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
+    "description": "AI support assistant (RAG) over documentation \u2014 cites sources, refuses when unknown. Python, Chroma, OpenAI.",
+    "id": "darinaze/rag-support-assistant",
+    "language": "Python",
+    "name": "darinaze/rag-support-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:24:14Z",
+    "url": "https://github.com/darinaze/rag-support-assistant"
+  },
+  {
+    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
+    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "language": "Python",
+    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:21:54Z",
+    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-03T11:20:50Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-03T11:19:45Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T11:19:21Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:16:48Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31\u4e0e GraphRAG \u667a\u80fd\u95ee\u7b54\u5e73\u53f0 | Traditional Chinese Medicine knowledge graph with RAGFlow-compatible hybrid retrieval, Neo4j, ",
     "id": "Jane-o-O-o-O/zhongyi-graph",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:11:20Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T11:11:00Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -45,15 +117,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
-    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "language": "Python",
-    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:01:37Z",
-    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
-  },
-  {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
     "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
     "language": "Python",
@@ -70,33 +133,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T11:00:33Z",
     "url": "https://github.com/KB-perByte/hiveshare"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-03T10:59:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\u4f01\u4e1a\u7ea7 RAG \u667a\u80fd\u52a9\u624b \u00b7 \u6587\u6863\u95ee\u7b54\u8fd4\u56de\u5e26\u539f\u6587\u5f15\u7528\u4e0e\u6765\u6e90\u4f4d\u7f6e\uff0c\u8bc1\u636e\u4e0d\u8db3\u65f6\u62d2\u7b54\u800c\u975e\u7f16\u9020 \u00b7 FastAPI + Next.js 16 + PostgreSQL/pgvector + Docker",
@@ -202,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 471,
+    "stars": 489,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T11:09:48Z",
+    "updated_at": "2026-08-03T11:25:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T11:12:16Z",
+    "updated_at": "2026-08-03T11:23:41Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-08-03T11:02:42Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 62,
     "updated_at": "2026-08-03T08:52:50Z",
     "url": "https://github.com/oceanbase/pyseekdb"
-  },
-  {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-08-03T08:35:04Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
-    "id": "ParsaAzr/DevAssistant-MCP",
-    "language": "Python",
-    "name": "ParsaAzr/DevAssistant-MCP",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:30:25Z",
-    "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-03T08:29:49Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
