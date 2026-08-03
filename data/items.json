@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 3,
+    "updated_at": "2026-08-03T16:28:37Z",
+    "url": "https://github.com/ruvnet/rvQR"
   },
   {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1904,
-    "updated_at": "2026-08-03T16:15:04Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:28:19Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "seekstorm_client_pure_py",
+    "id": "SeekStorm/seekstorm_client_pure_py",
+    "language": "Python",
+    "name": "SeekStorm/seekstorm_client_pure_py",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:28:09Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
   },
   {
     "description": "C# client for the SeekStorm vector & lexical search server",
@@ -23,8 +32,71 @@
     "language": "C#",
     "name": "SeekStorm/seekstorm_client_cs",
     "stars": 1,
-    "updated_at": "2026-08-03T16:14:49Z",
+    "updated_at": "2026-08-03T16:27:59Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1904,
+    "updated_at": "2026-08-03T16:27:47Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:26:14Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:23:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-03T16:22:36Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:21:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:19:23Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:17:23Z",
+    "url": "https://github.com/TAIPANBOX/engram"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,15 +104,24 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-03T16:07:40Z",
+    "updated_at": "2026-08-03T16:15:33Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 331,
+    "stars": 332,
     "updated_at": "2026-08-03T16:04:51Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -50,17 +131,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T16:04:24Z",
+    "updated_at": "2026-08-03T16:28:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:03:10Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T16:11:31Z",
+    "updated_at": "2026-08-03T16:21:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T15:52:17Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:51:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11064,
-    "updated_at": "2026-08-03T15:38:08Z",
+    "updated_at": "2026-08-03T16:16:19Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6314,
-    "updated_at": "2026-08-03T15:37:34Z",
+    "updated_at": "2026-08-03T16:22:01Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58839,
-    "updated_at": "2026-08-03T15:36:11Z",
+    "updated_at": "2026-08-03T16:26:23Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33756,
-    "updated_at": "2026-08-03T16:14:54Z",
+    "updated_at": "2026-08-03T16:23:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "pinecone-io/pinecone-neo4j-explorer",
     "stars": 10,
-    "updated_at": "2026-08-03T15:14:54Z",
+    "updated_at": "2026-08-03T16:28:15Z",
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/geckse/markdown-vdb"
   },
   {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:12:34Z",
-    "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -338,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16685,
-    "updated_at": "2026-08-03T16:12:38Z",
+    "updated_at": "2026-08-03T16:17:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -349,15 +403,6 @@
     "stars": 35,
     "updated_at": "2026-08-03T14:24:22Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-03T14:21:12Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -383,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1059,
-    "updated_at": "2026-08-03T14:19:29Z",
+    "updated_at": "2026-08-03T16:26:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-03T14:02:14Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7924,
-    "updated_at": "2026-08-03T16:06:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "MVR-Data defines how multi-vector retrieval data is organized at runtime and packaged for interchange using Apache Arrow",
-    "id": "WittenYeh/MVR-Data",
-    "language": "Python",
-    "name": "WittenYeh/MVR-Data",
-    "stars": 1,
-    "updated_at": "2026-08-03T13:50:16Z",
-    "url": "https://github.com/WittenYeh/MVR-Data"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T13:41:02Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:39:42Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-08-03T13:31:27Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
