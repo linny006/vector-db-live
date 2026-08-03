@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-03T06:12:12Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
+    "id": "Vivekpatil200320/contextquery-backend",
+    "language": "Python",
+    "name": "Vivekpatil200320/contextquery-backend",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:09:55Z",
+    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-03T06:07:49Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15362,
+    "updated_at": "2026-08-03T06:06:16Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "axiomchronicles/elips",
     "stars": 1,
-    "updated_at": "2026-08-03T05:59:05Z",
+    "updated_at": "2026-08-03T06:04:24Z",
     "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:03:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
@@ -54,15 +108,6 @@
     "url": "https://github.com/codelined-ag/Extracto"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
@@ -99,15 +144,6 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
-    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
-    "id": "Vivekpatil200320/contextquery-backend",
-    "language": "Python",
-    "name": "Vivekpatil200320/contextquery-backend",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:17:49Z",
-    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -130,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 148,
+    "stars": 162,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -169,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T04:45:53Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:41:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9407,
-    "updated_at": "2026-08-03T05:58:02Z",
+    "updated_at": "2026-08-03T06:07:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 16,
     "updated_at": "2026-08-03T02:59:10Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15361,
-    "updated_at": "2026-08-03T02:39:17Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T00:53:06Z",
     "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-03T05:17:10Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
-    "id": "jkelly-dev1/ai-data-boundary-proxy",
-    "language": "Python",
-    "name": "jkelly-dev1/ai-data-boundary-proxy",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:45:46Z",
-    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
   }
 ]
