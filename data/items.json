@@ -1,5 +1,59 @@
 [
   {
+    "description": "NovaLog is a high-performance, full-stack note-taking platform built using Next.js for a seamless frontend experience an",
+    "id": "therajarshichakraborty/NovaLog",
+    "language": "TypeScript",
+    "name": "therajarshichakraborty/NovaLog",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:56:49Z",
+    "url": "https://github.com/therajarshichakraborty/NovaLog"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 3,
+    "updated_at": "2026-08-03T16:56:42Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
+    "id": "pinecone-io/recommender-example-typescript",
+    "language": "TypeScript",
+    "name": "pinecone-io/recommender-example-typescript",
+    "stars": 57,
+    "updated_at": "2026-08-03T16:51:28Z",
+    "url": "https://github.com/pinecone-io/recommender-example-typescript"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-03T16:49:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -7,15 +61,6 @@
     "stars": 41,
     "updated_at": "2026-08-03T16:42:37Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "NovaLog is a high-performance, full-stack note-taking platform built using Next.js for a seamless frontend experience an",
-    "id": "therajarshichakraborty/NovaLog",
-    "language": "TypeScript",
-    "name": "therajarshichakraborty/NovaLog",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:41:43Z",
-    "url": "https://github.com/therajarshichakraborty/NovaLog"
   },
   {
     "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "IronCoreLabs/ironcore-alloy",
     "stars": 30,
-    "updated_at": "2026-08-03T16:40:52Z",
+    "updated_at": "2026-08-03T16:45:38Z",
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T16:45:19Z",
+    "updated_at": "2026-08-03T16:55:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -99,33 +144,6 @@
     "url": "https://github.com/pinecone-io/bird-search-example"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:30:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:28:37Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
     "description": "Python client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
@@ -160,6 +178,15 @@
     "stars": 1904,
     "updated_at": "2026-08-03T16:27:47Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58840,
+    "updated_at": "2026-08-03T16:26:23Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -225,15 +252,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-03T16:28:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
     "id": "SunMe1977/HermesClawZero-ConfigSidecar",
     "language": "Python",
@@ -248,8 +266,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T16:43:15Z",
+    "updated_at": "2026-08-03T16:49:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29730,
+    "updated_at": "2026-08-03T15:56:45Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83e\ude84Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tools, vision, audio, and q",
@@ -306,15 +333,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58839,
-    "updated_at": "2026-08-03T16:26:23Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T15:35:16Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29729,
-    "updated_at": "2026-08-03T15:56:45Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33756,
-    "updated_at": "2026-08-03T16:23:55Z",
+    "updated_at": "2026-08-03T16:50:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T14:38:47Z",
     "url": "https://github.com/feyzasagman/corporate-document-assistant"
-  },
-  {
-    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
-    "id": "geckse/markdown-vdb",
-    "language": "Rust",
-    "name": "geckse/markdown-vdb",
-    "stars": 23,
-    "updated_at": "2026-08-03T14:35:00Z",
-    "url": "https://github.com/geckse/markdown-vdb"
   }
 ]
