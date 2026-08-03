@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-03T03:25:26Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-08-03T03:17:55Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 171,
+    "updated_at": "2026-08-03T03:27:17Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "NLP + RAG technique for requirements engineering.",
     "id": "Semillero-GIDSYC/NLP4RE",
     "language": "Jupyter Notebook",
@@ -25,33 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T03:04:58Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T03:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-03T02:56:14Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -135,15 +153,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 171,
-    "updated_at": "2026-08-03T03:11:53Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -196,15 +205,6 @@
     "stars": 77,
     "updated_at": "2026-08-03T01:46:19Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-08-03T02:51:30Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "PaveDB \u2014 Lightweight Vector Search Microservice",
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-03T01:17:42Z",
+    "updated_at": "2026-08-03T03:23:47Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-02T22:58:35Z",
+    "updated_at": "2026-08-03T03:22:50Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
