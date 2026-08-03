@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 00:00 UTC
+> ⏰ Last updated: 2026-08-03 00:12 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-02 | Object storage for the AI age |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 4 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 41 | Rust | 2026-08-02 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
-| 5 | [vpeetla-ai/enterprise_rag_platform](https://github.com/vpeetla-ai/enterprise_rag_platform) | 2 | Python | 2026-08-02 | Production RAG reference — governed retrieval, access control, evals, guardrails, observability |
-| 6 | [schmitech/orbit](https://github.com/schmitech/orbit) | 331 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 7 | [PrakashWebDevX/url-to-vectordb-rag-pipeline](https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline) | 0 | Jupyter Notebook | 2026-08-02 | Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain,  |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 1 | JavaScript | 2026-08-02 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
-| 12 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-08-02 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
-| 13 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 14 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-02 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 15 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2224 | JavaScript | 2026-08-02 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 16 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 1 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-03 | Object storage for the AI age |
+| 2 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 6 | Rust | 2026-08-03 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-02 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 7 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 41 | Rust | 2026-08-02 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
+| 8 | [vpeetla-ai/enterprise_rag_platform](https://github.com/vpeetla-ai/enterprise_rag_platform) | 2 | Python | 2026-08-03 | Production RAG reference — governed retrieval, access control, evals, guardrails, observability |
+| 9 | [schmitech/orbit](https://github.com/schmitech/orbit) | 331 | Python | 2026-08-02 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 10 | [PrakashWebDevX/url-to-vectordb-rag-pipeline](https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline) | 0 | Jupyter Notebook | 2026-08-02 | Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain,  |
+| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 13 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 1 | JavaScript | 2026-08-02 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
+| 14 | [BirchKwok/lynsedb](https://github.com/BirchKwok/lynsedb) | 40 | Rust | 2026-08-02 | Embedded-first vector database that grows into a self-hosted service and lightweight cluster. |
+| 15 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-02 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 16 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2224 | JavaScript | 2026-08-02 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
 | 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-02 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 18 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 78 | Rust | 2026-08-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 19 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-08-02 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6311 | TypeScript | 2026-08-02 | Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google |
 | 40 | [musabbozkurt/oauth2-authorization-server](https://github.com/musabbozkurt/oauth2-authorization-server) | 6 | Java | 2026-08-02 | OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25  |
 | 41 | [HillolPias/taskapi-backend](https://github.com/HillolPias/taskapi-backend) | 0 | Python | 2026-08-02 | ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl |
-| 42 | [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 830 | Jupyter Notebook | 2026-08-02 | Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi |
+| 42 | [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 831 | Jupyter Notebook | 2026-08-02 | Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi |
 | 43 | [MahamadElshabory/local-pdf-RAG](https://github.com/MahamadElshabory/local-pdf-RAG) | 0 | Python | 2026-08-02 | A fully local PDF RAG application using FastAPI, Streamlit, Ollama, Qdrant, Inngest, and LlamaIndex. |
 | 44 | [bhairavaa/semantic-cache-server](https://github.com/bhairavaa/semantic-cache-server) | 0 | Python | 2026-08-02 | Tiered semantic cache for LLMs — Redis exact-match + pluggable vector search (Chroma/Qdrant/Pinecone/pgvector) to avoid  |
 | 45 | [Amrit-2002/portfolio-agent](https://github.com/Amrit-2002/portfolio-agent) | 0 | Python | 2026-08-02 | A Retrieval-Augmented Generation (RAG) application utilizing LangChain, Google Gemini, and Pinecone. Served with a FastA |

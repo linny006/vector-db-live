@@ -1,5 +1,32 @@
 [
   {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T00:10:18Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-08-03T00:04:59Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +36,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-02T23:59:45Z",
-    "url": "https://github.com/worka-ai/anvil"
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:59:55Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "vpeetla-ai/enterprise_rag_platform",
     "stars": 2,
-    "updated_at": "2026-08-02T23:55:09Z",
+    "updated_at": "2026-08-03T00:01:51Z",
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
@@ -108,15 +126,6 @@
     "url": "https://github.com/BirchKwok/lynsedb"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-08-02T23:19:15Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
     "id": "hoffresearch/nest",
     "language": "Rust",
@@ -133,15 +142,6 @@
     "stars": 2224,
     "updated_at": "2026-08-02T23:07:20Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:59:55Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -373,7 +373,7 @@
     "id": "NirDiamant/Agent_Memory_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 830,
+    "stars": 831,
     "updated_at": "2026-08-02T20:07:49Z",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
   },
