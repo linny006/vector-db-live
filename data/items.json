@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 332,
+    "updated_at": "2026-08-03T17:57:42Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-08-03T18:00:19Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
+    "id": "NTU-Siqiang-Group/AsterVec",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/AsterVec",
+    "stars": 32,
+    "updated_at": "2026-08-03T17:56:49Z",
+    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 3,
+    "updated_at": "2026-08-03T17:53:19Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "Plataforma de IA com RAG (retrieval-augmented generation) em Python + FastAPI, vector database, embeddings, LangChain e ",
+    "id": "bruno1186/ai-rag-platform",
+    "language": "Python",
+    "name": "bruno1186/ai-rag-platform",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:50:26Z",
+    "url": "https://github.com/bruno1186/ai-rag-platform"
+  },
+  {
+    "description": "seekstorm_client_pure_py",
+    "id": "SeekStorm/seekstorm_client_pure_py",
+    "language": "Python",
+    "name": "SeekStorm/seekstorm_client_pure_py",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:46:42Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:45:48Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:45:34Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,6 +99,15 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 776,
+    "updated_at": "2026-08-03T17:44:31Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T17:44:04Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_cs"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 766,
-    "updated_at": "2026-08-03T17:44:31Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,6 +153,15 @@
     "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64290,
+    "updated_at": "2026-08-03T17:36:56Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -94,36 +184,9 @@
     "id": "zudyog/the-ai-engineer",
     "language": "TypeScript",
     "name": "zudyog/the-ai-engineer",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-03T17:32:51Z",
     "url": "https://github.com/zudyog/the-ai-engineer"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 6,
-    "updated_at": "2026-08-03T17:31:52Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 3,
-    "updated_at": "2026-08-03T17:28:08Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-03T17:11:04Z",
+    "updated_at": "2026-08-03T17:55:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -207,15 +270,6 @@
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 332,
-    "updated_at": "2026-08-03T16:38:03Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -270,29 +324,11 @@
     "url": "https://github.com/pinecone-io/bird-search-example"
   },
   {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:28:19Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": "seekstorm_client_pure_py",
-    "id": "SeekStorm/seekstorm_client_pure_py",
-    "language": "Python",
-    "name": "SeekStorm/seekstorm_client_pure_py",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:28:09Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58840,
+    "stars": 58842,
     "updated_at": "2026-08-03T16:26:23Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-03T15:50:39Z",
+    "updated_at": "2026-08-03T17:51:14Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -410,43 +446,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-03T15:39:48Z",
+    "updated_at": "2026-08-03T17:47:56Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11064,
-    "updated_at": "2026-08-03T16:16:19Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:27:14Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
-    "id": "DevDarsh26/Quira",
-    "language": "Python",
-    "name": "DevDarsh26/Quira",
-    "stars": 3,
-    "updated_at": "2026-08-03T15:15:08Z",
-    "url": "https://github.com/DevDarsh26/Quira"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-08-03T15:20:02Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
   }
 ]
