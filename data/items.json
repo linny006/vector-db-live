@@ -1,5 +1,41 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1059,
+    "updated_at": "2026-08-03T21:12:46Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:12:17Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T21:11:13Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:08:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
     "id": "WKassebaum/Recall",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/StephenSook/erasure-proof"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T21:00:09Z",
     "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T20:57:51Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -162,15 +180,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1059,
-    "updated_at": "2026-08-03T20:23:26Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!",
     "id": "weaviate/recipes",
     "language": "Jupyter Notebook",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T20:02:36Z",
     "url": "https://github.com/amcaaron/rag-document-assistant"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:05:20Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -382,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 824,
+    "stars": 826,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
