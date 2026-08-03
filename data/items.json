@@ -1,5 +1,77 @@
 [
   {
+    "description": "RAG Security: Vekt\u00f6r veritabanlar\u0131n\u0131n karanl\u0131k y\u00fcz\u00fc! RAG poisoning, dolayl\u0131 prompt injection ve embedding inversiyon sal",
+    "id": "fevziegeyurtsevenler/RAG-Security-Nedir",
+    "language": "\u2014",
+    "name": "fevziegeyurtsevenler/RAG-Security-Nedir",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:14:41Z",
+    "url": "https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir"
+  },
+  {
+    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
+    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "language": "Python",
+    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:09:33Z",
+    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9408,
+    "updated_at": "2026-08-03T13:07:45Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:06:29Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-03T13:03:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T13:02:21Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:03:01Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T12:56:15Z",
+    "updated_at": "2026-08-03T13:11:57Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T12:45:49Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -70,24 +133,6 @@
     "stars": 74,
     "updated_at": "2026-08-03T12:45:42Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9408,
-    "updated_at": "2026-08-03T12:48:51Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T12:52:52Z",
+    "updated_at": "2026-08-03T13:13:43Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 458,
     "updated_at": "2026-08-03T12:40:27Z",
     "url": "https://github.com/qdrant/qdrant-js"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-03T12:19:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -225,11 +261,20 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58838,
+    "updated_at": "2026-08-03T12:00:00Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45484,
+    "stars": 45485,
     "updated_at": "2026-08-03T11:58:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -256,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29725,
+    "stars": 29727,
     "updated_at": "2026-08-03T11:52:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T12:52:35Z",
+    "updated_at": "2026-08-03T13:03:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
-    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "language": "Python",
-    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:01:31Z",
-    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
-  },
-  {
     "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
     "id": "KB-perByte/hiveshare",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T10:47:06Z",
     "url": "https://github.com/WittenYeh/MVR-Data"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:42:48Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33752,
-    "updated_at": "2026-08-03T10:35:15Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-08-03T10:30:54Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 241,
-    "updated_at": "2026-08-03T11:58:00Z",
-    "url": "https://github.com/deven96/ahnlich"
   }
 ]
