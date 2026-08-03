@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31\u4e0e GraphRAG \u667a\u80fd\u95ee\u7b54\u5e73\u53f0 | Traditional Chinese Medicine knowledge graph with RAGFlow-compatible hybrid retrieval, Neo4j, ",
+    "id": "Jane-o-O-o-O/zhongyi-graph",
+    "language": "Python",
+    "name": "Jane-o-O-o-O/zhongyi-graph",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:13:23Z",
+    "url": "https://github.com/Jane-o-O-o-O/zhongyi-graph"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:11:20Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T11:11:00Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-03T11:10:54Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-03T11:04:21Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
+    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "language": "Python",
+    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:01:37Z",
+    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+  },
+  {
+    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
+    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "language": "Python",
+    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:01:31Z",
+    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
+  },
+  {
+    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
+    "id": "KB-perByte/hiveshare",
+    "language": "Go",
+    "name": "KB-perByte/hiveshare",
+    "stars": 5,
+    "updated_at": "2026-08-03T11:00:33Z",
+    "url": "https://github.com/KB-perByte/hiveshare"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 1874,
     "updated_at": "2026-08-03T10:59:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:54:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u4f01\u4e1a\u7ea7 RAG \u667a\u80fd\u52a9\u624b \u00b7 \u6587\u6863\u95ee\u7b54\u8fd4\u56de\u5e26\u539f\u6587\u5f15\u7528\u4e0e\u6765\u6e90\u4f4d\u7f6e\uff0c\u8bc1\u636e\u4e0d\u8db3\u65f6\u62d2\u7b54\u800c\u975e\u7f16\u9020 \u00b7 FastAPI + Next.js 16 + PostgreSQL/pgvector + Docker",
@@ -81,13 +153,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
-    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "language": "Python",
-    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:31:59Z",
-    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33751,
+    "updated_at": "2026-08-03T10:35:15Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -97,15 +169,6 @@
     "stars": 4416,
     "updated_at": "2026-08-03T10:30:54Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
-    "id": "KB-perByte/hiveshare",
-    "language": "Go",
-    "name": "KB-perByte/hiveshare",
-    "stars": 5,
-    "updated_at": "2026-08-03T10:30:49Z",
-    "url": "https://github.com/KB-perByte/hiveshare"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -139,7 +202,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 446,
+    "stars": 471,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -169,15 +232,6 @@
     "stars": 89,
     "updated_at": "2026-08-03T10:13:57Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-03T10:28:39Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T10:53:32Z",
+    "updated_at": "2026-08-03T11:09:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,17 +293,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T10:41:08Z",
+    "updated_at": "2026-08-03T11:12:16Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33750,
-    "updated_at": "2026-08-03T10:35:15Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 176,
-    "updated_at": "2026-08-03T09:49:12Z",
+    "updated_at": "2026-08-03T11:10:34Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -301,7 +346,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29719,
+    "stars": 29720,
     "updated_at": "2026-08-03T09:10:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -313,15 +358,6 @@
     "stars": 524,
     "updated_at": "2026-08-03T09:07:14Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T09:02:16Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-08-03T08:59:36Z",
+    "updated_at": "2026-08-03T11:02:42Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-03T08:29:49Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "MediLeaf-AI is an AI medical assistant that uses Retrieval-Augmented Generation (RAG) and LLMs to provide accurate answe",
-    "id": "menna-nageh/MediLeaf-AI",
-    "language": "Python",
-    "name": "menna-nageh/MediLeaf-AI",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:08:10Z",
-    "url": "https://github.com/menna-nageh/MediLeaf-AI"
-  },
-  {
-    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
-    "id": "nnadir35/rag-vector-db-benchmark",
-    "language": "Python",
-    "name": "nnadir35/rag-vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:11:39Z",
-    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-08-03T07:51:53Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 4,
-    "updated_at": "2026-08-03T07:33:58Z",
-    "url": "https://github.com/Yasou13/MESA"
   }
 ]
