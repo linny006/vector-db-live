@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T11:30:28Z",
+    "updated_at": "2026-08-03T11:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:43:14Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
+    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "language": "Python",
+    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:42:28Z",
+    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6200,
+    "updated_at": "2026-08-03T11:43:12Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-08-03T11:39:06Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
+    "id": "DevDarsh26/Quira",
+    "language": "Python",
+    "name": "DevDarsh26/Quira",
+    "stars": 3,
+    "updated_at": "2026-08-03T11:33:25Z",
+    "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-03T11:32:56Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
@@ -14,7 +77,7 @@
     "language": "Nim",
     "name": "puffball1567/koutendb",
     "stars": 15,
-    "updated_at": "2026-08-03T11:25:23Z",
+    "updated_at": "2026-08-03T11:38:43Z",
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:24:14Z",
     "url": "https://github.com/darinaze/rag-support-assistant"
-  },
-  {
-    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
-    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "language": "Python",
-    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:21:54Z",
-    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T11:16:48Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31\u4e0e GraphRAG \u667a\u80fd\u95ee\u7b54\u5e73\u53f0 | Traditional Chinese Medicine knowledge graph with RAGFlow-compatible hybrid retrieval, Neo4j, ",
@@ -167,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7923,
-    "updated_at": "2026-08-03T10:45:57Z",
+    "updated_at": "2026-08-03T11:43:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -238,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 489,
+    "stars": 504,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45481,
-    "updated_at": "2026-08-03T09:56:19Z",
+    "updated_at": "2026-08-03T11:40:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -306,30 +351,12 @@
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6200,
-    "updated_at": "2026-08-03T11:25:41Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T09:43:24Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T11:23:41Z",
+    "updated_at": "2026-08-03T11:36:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -346,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58836,
+    "stars": 58837,
     "updated_at": "2026-08-03T09:33:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T08:55:42Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "RAG (Retrieval-Augmented Generation) Document Q&A system built with Spring Boot, PostgreSQL/pgvector, and Google Gemini.",
-    "id": "AlaaAlasrawi/rag-document-qa-spring-boot",
-    "language": "Java",
-    "name": "AlaaAlasrawi/rag-document-qa-spring-boot",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:50:48Z",
-    "url": "https://github.com/AlaaAlasrawi/rag-document-qa-spring-boot"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:46:33Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
-    "id": "oceanbase/pyseekdb",
-    "language": "Python",
-    "name": "oceanbase/pyseekdb",
-    "stars": 62,
-    "updated_at": "2026-08-03T08:52:50Z",
-    "url": "https://github.com/oceanbase/pyseekdb"
   }
 ]
