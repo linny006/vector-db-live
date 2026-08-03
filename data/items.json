@@ -4,9 +4,54 @@
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:30:22Z",
+    "stars": 3,
+    "updated_at": "2026-08-03T21:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:42:55Z",
+    "url": "https://github.com/IbiliAze/chatagent"
+  },
+  {
+    "description": "Build your own offline domain-specific AI from your knowledge.",
+    "id": "VivekDahariya/PriAI",
+    "language": "Python",
+    "name": "VivekDahariya/PriAI",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:42:25Z",
+    "url": "https://github.com/VivekDahariya/PriAI"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:36:17Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-03T21:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-03T21:29:55Z",
+    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -25,15 +70,6 @@
     "stars": 78,
     "updated_at": "2026-08-03T21:28:44Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-03T21:29:55Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T21:20:10Z",
     "url": "https://github.com/amcaaron/rag-document-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:19:28Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
@@ -144,12 +162,21 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7924,
+    "updated_at": "2026-08-03T20:50:09Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T21:20:59Z",
+    "updated_at": "2026-08-03T21:37:39Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 33760,
     "updated_at": "2026-08-03T20:16:55Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
-    "language": "Python",
-    "name": "IbiliAze/chatagent",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:13:18Z",
-    "url": "https://github.com/IbiliAze/chatagent"
   },
   {
     "description": "Production-ready FastAPI trading analysis platform with AI sentiment, vector search, Redis/Celery background processing,",
@@ -360,15 +378,6 @@
     "url": "https://github.com/vector-index-bench/vibe"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7924,
-    "updated_at": "2026-08-03T20:50:09Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -382,7 +391,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 829,
+    "stars": 833,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T18:04:46Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
-  },
-  {
-    "description": "AI-powered mobile library assistant using RAG, Multi-Agent AI, LLMs, vector search, and Streamlit for intelligent docume",
-    "id": "Osy-Zy/AI-Mobile-Library",
-    "language": "Python",
-    "name": "Osy-Zy/AI-Mobile-Library",
-    "stars": 0,
-    "updated_at": "2026-08-03T18:04:02Z",
-    "url": "https://github.com/Osy-Zy/AI-Mobile-Library"
   }
 ]
