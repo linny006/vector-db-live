@@ -1,30 +1,75 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1059,
-    "updated_at": "2026-08-03T21:12:46Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:12:17Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:29:09Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
     "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T21:11:13Z",
+    "stars": 78,
+    "updated_at": "2026-08-03T21:28:44Z",
     "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-03T21:29:55Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:25:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1059,
+    "updated_at": "2026-08-03T21:23:54Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:23:24Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
+    "id": "amcaaron/rag-document-assistant",
+    "language": "JavaScript",
+    "name": "amcaaron/rag-document-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:20:10Z",
+    "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +77,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-03T21:08:13Z",
+    "updated_at": "2026-08-03T21:15:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:19:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T21:01:48Z",
     "url": "https://github.com/StephenSook/erasure-proof"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-03T21:00:09Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -108,30 +144,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:50:28Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T20:48:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T20:58:34Z",
+    "updated_at": "2026-08-03T21:20:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -198,6 +216,15 @@
     "url": "https://github.com/geckse/markdown-vdb"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33760,
+    "updated_at": "2026-08-03T20:16:55Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
     "id": "IbiliAze/chatagent",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T20:08:30Z",
     "url": "https://github.com/MSR-DE/Multi-Source-AI-Trading-Pipeline"
-  },
-  {
-    "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
-    "id": "amcaaron/rag-document-assistant",
-    "language": "JavaScript",
-    "name": "amcaaron/rag-document-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:02:36Z",
-    "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -261,15 +279,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:06:42Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
     "description": "Local-first memory service for AI agents, with HTTP and MCP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-03T18:59:48Z",
+    "updated_at": "2026-08-03T21:24:05Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-03T20:22:18Z",
+    "updated_at": "2026-08-03T21:17:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -360,15 +369,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33759,
-    "updated_at": "2026-08-03T20:16:55Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -382,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 826,
+    "stars": 829,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
