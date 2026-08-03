@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-03T02:56:14Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45470,
+    "updated_at": "2026-08-03T02:55:39Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
+    "id": "Unnati1401/rag-assistant",
+    "language": "Python",
+    "name": "Unnati1401/rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:54:46Z",
+    "url": "https://github.com/Unnati1401/rag-assistant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:53:28Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9407,
+    "updated_at": "2026-08-03T02:51:34Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:51:24Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-03T02:59:10Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T02:39:16Z",
+    "updated_at": "2026-08-03T02:54:28Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -41,17 +113,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 171,
-    "updated_at": "2026-08-03T02:37:48Z",
+    "updated_at": "2026-08-03T02:53:51Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9407,
-    "updated_at": "2026-08-03T02:36:16Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -70,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T02:35:15Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -122,7 +176,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 119,
-    "updated_at": "2026-08-03T01:46:03Z",
+    "updated_at": "2026-08-03T02:51:30Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 331,
     "updated_at": "2026-08-03T01:40:35Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45470,
-    "updated_at": "2026-08-03T01:40:25Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -324,15 +369,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:01:47Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -346,7 +382,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33731,
+    "stars": 33732,
     "updated_at": "2026-08-02T22:45:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T21:41:05Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
-    "id": "nnadir35/rag-vector-db-benchmark",
-    "language": "Python",
-    "name": "nnadir35/rag-vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:27:25Z",
-    "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 34971,
-    "updated_at": "2026-08-02T21:19:57Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1058,
-    "updated_at": "2026-08-03T02:18:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:52:43Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   }
 ]
