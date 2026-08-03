@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
     "id": "axiomchronicles/elips",
     "language": "TypeScript",
     "name": "axiomchronicles/elips",
     "stars": 1,
-    "updated_at": "2026-08-03T05:40:45Z",
+    "updated_at": "2026-08-03T05:59:05Z",
     "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
+    "id": "VampiricCyborg/DocuQuery-",
+    "language": "TypeScript",
+    "name": "VampiricCyborg/DocuQuery-",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:58:08Z",
+    "url": "https://github.com/VampiricCyborg/DocuQuery-"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:49:50Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:47:27Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-08-03T05:46:51Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
@@ -18,24 +72,6 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T05:27:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
-    "id": "VampiricCyborg/DocuQuery-",
-    "language": "TypeScript",
-    "name": "VampiricCyborg/DocuQuery-",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:26:20Z",
-    "url": "https://github.com/VampiricCyborg/DocuQuery-"
   },
   {
     "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
@@ -70,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T05:18:13Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
-    "id": "iharshkaran/hyperAI",
-    "language": "TypeScript",
-    "name": "iharshkaran/hyperAI",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:17:52Z",
-    "url": "https://github.com/iharshkaran/hyperAI"
   },
   {
     "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
@@ -112,7 +130,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 141,
+    "stars": 148,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -166,7 +184,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1059,
+    "stars": 1060,
     "updated_at": "2026-08-03T04:36:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9407,
-    "updated_at": "2026-08-03T05:44:27Z",
+    "updated_at": "2026-08-03T05:58:02Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -320,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7920,
-    "updated_at": "2026-08-03T02:35:44Z",
+    "updated_at": "2026-08-03T05:45:51Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T00:45:46Z",
     "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-08-03T05:45:21Z",
-    "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 51,
-    "updated_at": "2026-08-03T00:26:17Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
   }
 ]
