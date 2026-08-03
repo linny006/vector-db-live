@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:42:48Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\udd4c \u0646\u0638\u0627\u0645 RAG \u0625\u0633\u0644\u0627\u0645\u064a \u0644\u0644\u0625\u062c\u0627\u0628\u0629 \u0639\u0644\u0649 \u0627\u0644\u0641\u062a\u0627\u0648\u0649 \u0648\u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 | Guardrailed RAG over 139K+ Islamic Fatwas \u2014 ChromaDB + Arabic E",
+    "id": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "language": "Python",
+    "name": "ahmedzan91-rgb/Islamic-Fatwa-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:31:59Z",
+    "url": "https://github.com/ahmedzan91-rgb/Islamic-Fatwa-RAG"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-08-03T10:30:54Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Collaborative AI memory for engineering teams - share context across Claude Code, Cursor, and teammates",
+    "id": "KB-perByte/hiveshare",
+    "language": "Go",
+    "name": "KB-perByte/hiveshare",
+    "stars": 5,
+    "updated_at": "2026-08-03T10:30:49Z",
+    "url": "https://github.com/KB-perByte/hiveshare"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,11 +72,20 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:22:14Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 377,
+    "stars": 427,
     "updated_at": "2026-08-03T10:20:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T10:18:20Z",
+    "updated_at": "2026-08-03T10:44:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 35,
     "updated_at": "2026-08-03T10:15:44Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-08-03T10:29:50Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T10:10:32Z",
+    "updated_at": "2026-08-03T10:42:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T10:27:10Z",
+    "updated_at": "2026-08-03T10:41:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33750,
-    "updated_at": "2026-08-03T10:15:48Z",
+    "updated_at": "2026-08-03T10:35:15Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -229,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29720,
+    "stars": 29719,
     "updated_at": "2026-08-03T09:10:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:18:43Z",
     "url": "https://github.com/Adedejiosvaldo/rag-chunker"
-  },
-  {
-    "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
-    "id": "lianyinging/flowgame_python",
-    "language": "Python",
-    "name": "lianyinging/flowgame_python",
-    "stars": 3,
-    "updated_at": "2026-08-03T07:07:35Z",
-    "url": "https://github.com/lianyinging/flowgame_python"
-  },
-  {
-    "description": "A Multimodal Temporal RAG System for Canadian Financial Reports.",
-    "id": "TorshaMajumder/CanFin-MultiQuarter-RAG",
-    "language": "Python",
-    "name": "TorshaMajumder/CanFin-MultiQuarter-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:03:18Z",
-    "url": "https://github.com/TorshaMajumder/CanFin-MultiQuarter-RAG"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:58:17Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Enterprise AI Assistant for intelligent PDF question answering using LangChain, Google Gemini, FAISS, and Streamlit.",
-    "id": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
-    "language": "Python",
-    "name": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:56:21Z",
-    "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
   }
 ]
