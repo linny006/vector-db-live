@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-08-03T22:42:53Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Local-first RAG second brain - key-free embeddings, SQLite vector store, Obsidian ingestion, MCP server for Claude Code",
+    "id": "bunlongheng/ai-lab",
+    "language": "TypeScript",
+    "name": "bunlongheng/ai-lab",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:41:02Z",
+    "url": "https://github.com/bunlongheng/ai-lab"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 839,
+    "updated_at": "2026-08-03T22:36:50Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:42:52Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 5,
+    "updated_at": "2026-08-03T22:34:15Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7925,
+    "updated_at": "2026-08-03T22:33:39Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
+    "id": "sathyalog/single-index-metadata-rag-olympics",
+    "language": "Python",
+    "name": "sathyalog/single-index-metadata-rag-olympics",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:33:18Z",
+    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "NLP + RAG technique for requirements engineering.",
     "id": "Semillero-GIDSYC/NLP4RE",
     "language": "Jupyter Notebook",
@@ -9,15 +90,6 @@
     "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:28:54Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -25,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T22:23:03Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:17:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
@@ -126,15 +180,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 5,
-    "updated_at": "2026-08-03T22:02:26Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
     "description": "Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB",
     "id": "amcaaron/rag-document-assistant",
     "language": "JavaScript",
@@ -189,15 +234,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-08-03T22:11:20Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "StephenSook/erasure-proof",
     "stars": 0,
-    "updated_at": "2026-08-03T21:01:48Z",
+    "updated_at": "2026-08-03T22:32:22Z",
     "url": "https://github.com/StephenSook/erasure-proof"
   },
   {
@@ -261,21 +297,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7923,
-    "updated_at": "2026-08-03T20:50:09Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T22:28:05Z",
+    "updated_at": "2026-08-03T22:45:18Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11065,
-    "updated_at": "2026-08-03T20:39:03Z",
+    "updated_at": "2026-08-03T22:34:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T18:54:31Z",
     "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-08-03T18:39:19Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 46,
-    "updated_at": "2026-08-03T18:38:27Z",
-    "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-08-03T18:28:22Z",
-    "url": "https://github.com/perforate-org/gleaph"
   }
 ]
