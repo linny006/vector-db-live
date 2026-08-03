@@ -1,12 +1,12 @@
 [
   {
-    "description": "NovaLog is a high-performance, full-stack note-taking platform built using Next.js for a seamless frontend experience an",
-    "id": "therajarshichakraborty/NovaLog",
-    "language": "TypeScript",
-    "name": "therajarshichakraborty/NovaLog",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:56:49Z",
-    "url": "https://github.com/therajarshichakraborty/NovaLog"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9408,
+    "updated_at": "2026-08-03T17:11:04Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
@@ -14,8 +14,44 @@
     "language": "JavaScript",
     "name": "ruvnet/rvQR",
     "stars": 3,
-    "updated_at": "2026-08-03T16:56:42Z",
+    "updated_at": "2026-08-03T17:08:52Z",
     "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "C# client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_cs",
+    "language": "C#",
+    "name": "SeekStorm/seekstorm_client_cs",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:08:23Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:00:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "NovaLog is a high-performance, full-stack note-taking platform built using Next.js for a seamless frontend experience an",
+    "id": "therajarshichakraborty/NovaLog",
+    "language": "TypeScript",
+    "name": "therajarshichakraborty/NovaLog",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:56:49Z",
+    "url": "https://github.com/therajarshichakraborty/NovaLog"
   },
   {
     "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
@@ -27,6 +63,15 @@
     "url": "https://github.com/pinecone-io/recommender-example-typescript"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33757,
+    "updated_at": "2026-08-03T16:50:13Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -34,24 +79,6 @@
     "stars": 1874,
     "updated_at": "2026-08-03T16:49:19Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:45:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "MassivDash/ai_tools",
     "stars": 1,
-    "updated_at": "2026-08-03T16:32:38Z",
+    "updated_at": "2026-08-03T17:06:41Z",
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T16:28:09Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
-  },
-  {
-    "description": "C# client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:27:59Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -221,7 +239,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-03T16:21:02Z",
+    "updated_at": "2026-08-03T17:14:51Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -248,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7925,
-    "updated_at": "2026-08-03T16:06:47Z",
+    "updated_at": "2026-08-03T17:10:49Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33756,
-    "updated_at": "2026-08-03T16:50:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
     "id": "DevDarsh26/Quira",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-03T14:39:09Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for querying corporate documents with FastAPI, Next.js, ChromaDB ",
-    "id": "feyzasagman/corporate-document-assistant",
-    "language": "Python",
-    "name": "feyzasagman/corporate-document-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:38:47Z",
-    "url": "https://github.com/feyzasagman/corporate-document-assistant"
   }
 ]
