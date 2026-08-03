@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:58:17Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Enterprise AI Assistant for intelligent PDF question answering using LangChain, Google Gemini, FAISS, and Streamlit.",
+    "id": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:56:21Z",
+    "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45474,
+    "updated_at": "2026-08-03T06:59:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,33 +72,6 @@
     "url": "https://github.com/axiomchronicles/elips"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45473,
-    "updated_at": "2026-08-03T06:30:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Enterprise AI Assistant for intelligent PDF question answering using LangChain, Google Gemini, FAISS, and Streamlit.",
-    "id": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
-    "language": "Python",
-    "name": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:27:12Z",
-    "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-08-03T06:28:42Z",
+    "updated_at": "2026-08-03T06:58:11Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -220,7 +229,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 186,
+    "stars": 195,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -265,7 +274,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1060,
+    "stars": 1059,
     "updated_at": "2026-08-03T04:36:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -313,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T03:41:30Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T03:32:25Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -392,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7920,
-    "updated_at": "2026-08-03T06:43:29Z",
+    "updated_at": "2026-08-03T06:47:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
