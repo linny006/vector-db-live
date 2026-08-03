@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
+    "id": "axiomchronicles/elips",
+    "language": "TypeScript",
+    "name": "axiomchronicles/elips",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:29:07Z",
+    "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:27:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
+    "id": "VampiricCyborg/DocuQuery-",
+    "language": "TypeScript",
+    "name": "VampiricCyborg/DocuQuery-",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:26:20Z",
+    "url": "https://github.com/VampiricCyborg/DocuQuery-"
+  },
+  {
+    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
+    "id": "jeganxthan/Anvil",
+    "language": "Python",
+    "name": "jeganxthan/Anvil",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:25:27Z",
+    "url": "https://github.com/jeganxthan/Anvil"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 4,
+    "updated_at": "2026-08-03T05:18:13Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "AI Assistant backend with Gemini, Pinecone, Retrieval-Augmented Generation (RAG), semantic search, JWT authentication, a",
+    "id": "iharshkaran/hyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/hyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:17:52Z",
+    "url": "https://github.com/iharshkaran/hyperAI"
+  },
+  {
+    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
+    "id": "Vivekpatil200320/contextquery-backend",
+    "language": "Python",
+    "name": "Vivekpatil200320/contextquery-backend",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:17:49Z",
+    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -22,7 +103,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 128,
+    "stars": 132,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -43,24 +124,6 @@
     "stars": 74,
     "updated_at": "2026-08-03T05:01:32Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -184,7 +247,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45471,
+    "stars": 45472,
     "updated_at": "2026-08-03T03:09:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -315,15 +378,6 @@
     "url": "https://github.com/Shine8592/super-memory-hermes-v1"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:28:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-03T04:08:40Z",
+    "updated_at": "2026-08-03T05:17:10Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 51,
     "updated_at": "2026-08-03T00:26:17Z",
     "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:17:16Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 41,
-    "updated_at": "2026-08-03T02:20:29Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:01:51Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
-  },
-  {
-    "description": "Scrape any website, chunk & embed content, and store in pgvector for RAG-powered semantic search. Built with LangChain, ",
-    "id": "PrakashWebDevX/url-to-vectordb-rag-pipeline",
-    "language": "Jupyter Notebook",
-    "name": "PrakashWebDevX/url-to-vectordb-rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:49:56Z",
-    "url": "https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline"
-  },
-  {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-08-02T23:24:11Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-08-02T23:19:11Z",
-    "url": "https://github.com/hoffresearch/nest"
   }
 ]
