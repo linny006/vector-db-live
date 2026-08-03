@@ -1,12 +1,12 @@
 [
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16682,
-    "updated_at": "2026-08-03T08:45:58Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-03T08:59:36Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
     "description": "Object storage for the AI age",
@@ -14,17 +14,26 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-08-03T08:45:09Z",
+    "updated_at": "2026-08-03T08:59:43Z",
     "url": "https://github.com/worka-ai/anvil"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6200,
-    "updated_at": "2026-08-03T08:45:07Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:57:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:55:42Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "RAG (Retrieval-Augmented Generation) Document Q&A system built with Spring Boot, PostgreSQL/pgvector, and Google Gemini.",
@@ -32,8 +41,35 @@
     "language": "Java",
     "name": "AlaaAlasrawi/rag-document-qa-spring-boot",
     "stars": 0,
-    "updated_at": "2026-08-03T08:43:45Z",
+    "updated_at": "2026-08-03T08:50:48Z",
     "url": "https://github.com/AlaaAlasrawi/rag-document-qa-spring-boot"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16682,
+    "updated_at": "2026-08-03T08:57:56Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4415,
+    "updated_at": "2026-08-03T08:48:31Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:46:35Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -41,8 +77,44 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T08:42:52Z",
+    "updated_at": "2026-08-03T08:46:33Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-03T09:00:24Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T08:46:02Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6200,
+    "updated_at": "2026-08-03T08:53:50Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
+    "id": "oceanbase/pyseekdb",
+    "language": "Python",
+    "name": "oceanbase/pyseekdb",
+    "stars": 62,
+    "updated_at": "2026-08-03T08:52:50Z",
+    "url": "https://github.com/oceanbase/pyseekdb"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
@@ -61,24 +133,6 @@
     "stars": 176,
     "updated_at": "2026-08-03T08:44:35Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:30:52Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
@@ -103,7 +157,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 289,
+    "stars": 298,
     "updated_at": "2026-08-03T08:25:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -115,6 +169,15 @@
     "stars": 78,
     "updated_at": "2026-08-03T08:20:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45478,
+    "updated_at": "2026-08-03T08:13:14Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -144,15 +207,6 @@
     "url": "https://github.com/nnadir35/rag-vector-db-benchmark"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4415,
-    "updated_at": "2026-08-03T08:35:12Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -169,15 +223,6 @@
     "stars": 1343,
     "updated_at": "2026-08-03T07:51:53Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45476,
-    "updated_at": "2026-08-03T08:13:14Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -207,20 +252,11 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-08-03T07:31:38Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33744,
+    "stars": 33745,
     "updated_at": "2026-08-03T07:24:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -324,15 +360,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-03T08:44:05Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
     "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
     "id": "Vivekpatil200320/contextquery-backend",
     "language": "Python",
@@ -405,15 +432,6 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:27:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
     "id": "jeganxthan/Anvil",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T05:18:13Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 60,
-    "updated_at": "2026-08-03T05:10:12Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-03T05:01:32Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
