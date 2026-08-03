@@ -1,12 +1,30 @@
 [
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:33:47Z",
-    "url": "https://github.com/nacre-work/nacre"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T23:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
+    "id": "yusufornek/rag-knowledge-ledger",
+    "language": "Python",
+    "name": "yusufornek/rag-knowledge-ledger",
+    "stars": 1,
+    "updated_at": "2026-08-03T23:37:39Z",
+    "url": "https://github.com/yusufornek/rag-knowledge-ledger"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64297,
+    "updated_at": "2026-08-03T23:35:28Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-03T23:30:24Z",
+    "updated_at": "2026-08-03T23:35:14Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:41:55Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -99,15 +117,6 @@
     "url": "https://github.com/Eisha23/Conversational-Hybrid-Rag"
   },
   {
-    "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
-    "id": "yusufornek/rag-knowledge-ledger",
-    "language": "Python",
-    "name": "yusufornek/rag-knowledge-ledger",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:57:04Z",
-    "url": "https://github.com/yusufornek/rag-knowledge-ledger"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11065,
-    "updated_at": "2026-08-03T23:24:51Z",
+    "updated_at": "2026-08-03T23:39:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -194,17 +203,8 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-03T23:14:05Z",
+    "updated_at": "2026-08-03T23:43:26Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64296,
-    "updated_at": "2026-08-03T23:32:48Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Postgres-Powered Vector Memory for the Agentic Age",

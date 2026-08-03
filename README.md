@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 23:35 UTC
+> ⏰ Last updated: 2026-08-03 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-03 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [StephenSook/erasure-proof](https://github.com/StephenSook/erasure-proof) | 0 | Go | 2026-08-03 | Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS |
-| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 844 | Rust | 2026-08-03 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 7 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51351 | Python | 2026-08-03 | LlamaIndex is the leading document agent and OCR platform |
-| 8 | [MariaDB/server](https://github.com/MariaDB/server) | 7925 | C++ | 2026-08-03 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 9 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 5 | JavaScript | 2026-08-03 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
-| 10 | [schmitech/orbit](https://github.com/schmitech/orbit) | 333 | Python | 2026-08-03 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 11 | [Eisha23/Conversational-Hybrid-Rag](https://github.com/Eisha23/Conversational-Hybrid-Rag) | 0 | Python | 2026-08-03 | A production-grade Conversational RAG Assistant powered by Hybrid Ensemble Search (FAISS + BM25), multi-turn context mem |
-| 12 | [yusufornek/rag-knowledge-ledger](https://github.com/yusufornek/rag-knowledge-ledger) | 1 | Python | 2026-08-03 | Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks, |
-| 13 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 460 | TypeScript | 2026-08-03 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-03 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11065 | Rust | 2026-08-03 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 16 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 78 | Rust | 2026-08-03 | Object storage for the AI age |
-| 17 | [bunlongheng/ai-lab](https://github.com/bunlongheng/ai-lab) | 0 | TypeScript | 2026-08-03 | Local-first RAG second brain - key-free embeddings, SQLite vector store, Obsidian ingestion, MCP server for Claude Code |
-| 18 | [sathyalog/single-index-metadata-rag-olympics](https://github.com/sathyalog/single-index-metadata-rag-olympics) | 0 | Python | 2026-08-03 | A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900–Present) using HNSW |
-| 19 | [Semillero-GIDSYC/NLP4RE](https://github.com/Semillero-GIDSYC/NLP4RE) | 4 | Jupyter Notebook | 2026-08-03 | NLP + RAG technique for requirements engineering. |
-| 20 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29735 | Python | 2026-08-03 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 21 | [IbiliAze/chatagent](https://github.com/IbiliAze/chatagent) | 0 | Python | 2026-08-03 | LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS |
-| 22 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-03 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 23 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64296 | JavaScript | 2026-08-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [yusufornek/rag-knowledge-ledger](https://github.com/yusufornek/rag-knowledge-ledger) | 1 | Python | 2026-08-03 | Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks, |
+| 3 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64297 | JavaScript | 2026-08-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-03 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [StephenSook/erasure-proof](https://github.com/StephenSook/erasure-proof) | 0 | Go | 2026-08-03 | Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS |
+| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 844 | Rust | 2026-08-03 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 9 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51351 | Python | 2026-08-03 | LlamaIndex is the leading document agent and OCR platform |
+| 10 | [MariaDB/server](https://github.com/MariaDB/server) | 7925 | C++ | 2026-08-03 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 11 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 5 | JavaScript | 2026-08-03 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
+| 12 | [schmitech/orbit](https://github.com/schmitech/orbit) | 333 | Python | 2026-08-03 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 13 | [Eisha23/Conversational-Hybrid-Rag](https://github.com/Eisha23/Conversational-Hybrid-Rag) | 0 | Python | 2026-08-03 | A production-grade Conversational RAG Assistant powered by Hybrid Ensemble Search (FAISS + BM25), multi-turn context mem |
+| 14 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 460 | TypeScript | 2026-08-03 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 15 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-03 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 16 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11065 | Rust | 2026-08-03 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 17 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 78 | Rust | 2026-08-03 | Object storage for the AI age |
+| 18 | [bunlongheng/ai-lab](https://github.com/bunlongheng/ai-lab) | 0 | TypeScript | 2026-08-03 | Local-first RAG second brain - key-free embeddings, SQLite vector store, Obsidian ingestion, MCP server for Claude Code |
+| 19 | [sathyalog/single-index-metadata-rag-olympics](https://github.com/sathyalog/single-index-metadata-rag-olympics) | 0 | Python | 2026-08-03 | A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900–Present) using HNSW |
+| 20 | [Semillero-GIDSYC/NLP4RE](https://github.com/Semillero-GIDSYC/NLP4RE) | 4 | Jupyter Notebook | 2026-08-03 | NLP + RAG technique for requirements engineering. |
+| 21 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29735 | Python | 2026-08-03 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 22 | [IbiliAze/chatagent](https://github.com/IbiliAze/chatagent) | 0 | Python | 2026-08-03 | LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS |
+| 23 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-03 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
 | 24 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 13 | Python | 2026-08-03 | Postgres-Powered Vector Memory for the Agentic Age |
 | 25 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 26 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
