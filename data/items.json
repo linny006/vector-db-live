@@ -5,26 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T07:30:24Z",
+    "updated_at": "2026-08-03T07:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-03T07:27:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9407,
-    "updated_at": "2026-08-03T07:26:34Z",
-    "url": "https://github.com/databendlabs/databend"
+    "updated_at": "2026-08-03T07:41:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Object storage for the AI age",
@@ -32,8 +23,53 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-08-03T07:26:30Z",
+    "updated_at": "2026-08-03T07:39:49Z",
     "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 4,
+    "updated_at": "2026-08-03T07:33:58Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9407,
+    "updated_at": "2026-08-03T07:33:51Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45476,
+    "updated_at": "2026-08-03T07:44:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-03T07:31:38Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:30:59Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -45,11 +81,20 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33741,
+    "updated_at": "2026-08-03T07:24:27Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 219,
+    "stars": 234,
     "updated_at": "2026-08-03T07:20:27Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:18:43Z",
     "url": "https://github.com/Adedejiosvaldo/rag-chunker"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45476,
-    "updated_at": "2026-08-03T07:10:18Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\u26a1 FlowGame execution engine focused on business workflows. \u4e13\u6ce8\u4e8e\u4e1a\u52a1\u843d\u5730\u7684\u5de5\u4f5c\u6d41\u6267\u884c\u5f15\u64ce\uff0c\u652f\u6301\u540c\u6b65/\u6d41\u5f0f\u8bd5\u8fd0\u884c\u3001Redis \u6d41\u7a0b\u5b58\u50a8\u3001Qdrant \u5411\u91cf\u68c0\u7d22\u7b49\u573a\u666f\u3002\ud83d\udc0d FastAP",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T07:28:22Z",
+    "updated_at": "2026-08-03T07:44:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-03T07:02:26Z",
+    "updated_at": "2026-08-03T07:36:59Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-08-03T07:22:33Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
     "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
     "id": "Vivekpatil200320/contextquery-backend",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 15364,
     "updated_at": "2026-08-03T06:06:16Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:03:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
@@ -374,7 +392,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T06:42:10Z",
+    "updated_at": "2026-08-03T07:37:22Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -418,7 +436,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 174,
+    "stars": 176,
     "updated_at": "2026-08-03T03:27:17Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T03:12:09Z",
     "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
-  },
-  {
-    "description": "TalaDB - The embedded vector database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-08-03T03:11:47Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
-    "id": "Unnati1401/rag-assistant",
-    "language": "Python",
-    "name": "Unnati1401/rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:54:46Z",
-    "url": "https://github.com/Unnati1401/rag-assistant"
   }
 ]
