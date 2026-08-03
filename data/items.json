@@ -1,12 +1,39 @@
 [
   {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 89,
+    "updated_at": "2026-08-03T10:13:57Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-03T10:10:21Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T09:59:05Z",
+    "updated_at": "2026-08-03T10:12:36Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T10:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -18,11 +45,20 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7922,
+    "updated_at": "2026-08-03T09:59:24Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45480,
+    "stars": 45481,
     "updated_at": "2026-08-03T09:56:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -59,17 +95,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T09:55:33Z",
+    "updated_at": "2026-08-03T10:10:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -86,7 +113,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4415,
-    "updated_at": "2026-08-03T09:53:04Z",
+    "updated_at": "2026-08-03T10:15:03Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16683,
-    "updated_at": "2026-08-03T09:48:13Z",
+    "updated_at": "2026-08-03T10:13:27Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -103,8 +130,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33749,
-    "updated_at": "2026-08-03T09:38:33Z",
+    "stars": 33750,
+    "updated_at": "2026-08-03T10:09:56Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -121,7 +148,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 353,
+    "stars": 362,
     "updated_at": "2026-08-03T09:34:56Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -288,15 +315,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-03T09:37:02Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "MediLeaf-AI is an AI medical assistant that uses Retrieval-Augmented Generation (RAG) and LLMs to provide accurate answe",
     "id": "menna-nageh/MediLeaf-AI",
     "language": "Python",
@@ -396,15 +414,6 @@
     "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7921,
-    "updated_at": "2026-08-03T09:59:24Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Python client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_py",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T06:24:06Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
-    "id": "Vivekpatil200320/contextquery-backend",
-    "language": "Python",
-    "name": "Vivekpatil200320/contextquery-backend",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:09:55Z",
-    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
   }
 ]
