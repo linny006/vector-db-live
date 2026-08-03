@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "vul-os/basin",
+    "language": "Rust",
+    "name": "vul-os/basin",
+    "stars": 4,
+    "updated_at": "2026-08-03T01:09:40Z",
+    "url": "https://github.com/vul-os/basin"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 331,
+    "updated_at": "2026-08-03T01:07:44Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T01:06:31Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
     "id": "schwichtgit/ai-resume",
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-08-03T00:58:49Z",
+    "updated_at": "2026-08-03T01:14:20Z",
     "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10231,
+    "updated_at": "2026-08-03T01:00:33Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T00:53:06Z",
     "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T00:52:47Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T00:45:46Z",
     "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T00:17:16Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 331,
-    "updated_at": "2026-08-03T00:13:56Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -216,6 +234,15 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33728,
+    "updated_at": "2026-08-02T22:45:42Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
     "id": "ZeR020/opencode-mem0",
     "language": "TypeScript",
@@ -223,15 +250,6 @@
     "stars": 12,
     "updated_at": "2026-08-02T22:26:47Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33727,
-    "updated_at": "2026-08-02T22:45:42Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
@@ -301,7 +319,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 34967,
+    "stars": 34968,
     "updated_at": "2026-08-02T21:19:57Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T20:05:40Z",
     "url": "https://github.com/MahamadElshabory/local-pdf-RAG"
-  },
-  {
-    "description": "Tiered semantic cache for LLMs \u2014 Redis exact-match + pluggable vector search (Chroma/Qdrant/Pinecone/pgvector) to avoid ",
-    "id": "bhairavaa/semantic-cache-server",
-    "language": "Python",
-    "name": "bhairavaa/semantic-cache-server",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:04:49Z",
-    "url": "https://github.com/bhairavaa/semantic-cache-server"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) application utilizing LangChain, Google Gemini, and Pinecone. Served with a FastA",
-    "id": "Amrit-2002/portfolio-agent",
-    "language": "Python",
-    "name": "Amrit-2002/portfolio-agent",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:43:04Z",
-    "url": "https://github.com/Amrit-2002/portfolio-agent"
   }
 ]
