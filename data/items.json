@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T14:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1059,
+    "updated_at": "2026-08-03T14:05:46Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:04:53Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "hseshadr/edgeproc-core",
+    "language": "Python",
+    "name": "hseshadr/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:13:54Z",
+    "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-03T14:02:14Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:01:46Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T14:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 2,
-    "updated_at": "2026-08-03T13:56:09Z",
+    "updated_at": "2026-08-03T14:13:43Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T13:55:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -27,31 +99,13 @@
     "url": "https://github.com/WittenYeh/MVR-Data"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
+    "id": "kldhsh123/Afterglow",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:45:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "hseshadr/edgeproc-core",
-    "language": "Python",
-    "name": "hseshadr/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:50:26Z",
-    "url": "https://github.com/hseshadr/edgeproc-core"
+    "name": "kldhsh123/Afterglow",
+    "stars": 262,
+    "updated_at": "2026-08-03T13:43:33Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -90,21 +144,12 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:55:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T13:59:36Z",
+    "updated_at": "2026-08-03T14:13:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -112,7 +157,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 615,
+    "stars": 626,
     "updated_at": "2026-08-03T13:24:49Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -133,15 +178,6 @@
     "stars": 13,
     "updated_at": "2026-08-03T13:20:13Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T13:59:46Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "RAG Security: Vekt\u00f6r veritabanlar\u0131n\u0131n karanl\u0131k y\u00fcz\u00fc! RAG poisoning, dolayl\u0131 prompt injection ve embedding inversiyon sal",
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T13:57:19Z",
+    "updated_at": "2026-08-03T14:03:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T13:03:01Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:56:42Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "kalisio/knowledge",
     "stars": 2,
-    "updated_at": "2026-08-03T12:02:51Z",
+    "updated_at": "2026-08-03T14:13:30Z",
     "url": "https://github.com/kalisio/knowledge"
   },
   {
@@ -328,7 +355,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45487,
+    "stars": 45488,
     "updated_at": "2026-08-03T11:58:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -338,7 +365,7 @@
     "language": "Rust",
     "name": "deven96/ahnlich",
     "stars": 242,
-    "updated_at": "2026-08-03T11:58:00Z",
+    "updated_at": "2026-08-03T14:02:36Z",
     "url": "https://github.com/deven96/ahnlich"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:24:14Z",
     "url": "https://github.com/darinaze/rag-support-assistant"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:16:48Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31\u4e0e GraphRAG \u667a\u80fd\u95ee\u7b54\u5e73\u53f0 | Traditional Chinese Medicine knowledge graph with RAGFlow-compatible hybrid retrieval, Neo4j, ",
-    "id": "Jane-o-O-o-O/zhongyi-graph",
-    "language": "Python",
-    "name": "Jane-o-O-o-O/zhongyi-graph",
-    "stars": 2,
-    "updated_at": "2026-08-03T11:13:23Z",
-    "url": "https://github.com/Jane-o-O-o-O/zhongyi-graph"
-  },
-  {
-    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
-    "id": "shiyao222333-afk/citrinitas",
-    "language": "Python",
-    "name": "shiyao222333-afk/citrinitas",
-    "stars": 0,
-    "updated_at": "2026-08-03T11:11:20Z",
-    "url": "https://github.com/shiyao222333-afk/citrinitas"
   }
 ]
