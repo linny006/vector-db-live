@@ -1,5 +1,41 @@
 [
   {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-03T07:59:54Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4415,
+    "updated_at": "2026-08-03T07:59:30Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-08-03T07:51:53Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:46:18Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45476,
+    "updated_at": "2026-08-03T07:44:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T07:41:05Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-03T07:39:49Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -45,15 +81,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45476,
-    "updated_at": "2026-08-03T07:44:18Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T07:31:38Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:30:59Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -85,7 +103,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33741,
+    "stars": 33743,
     "updated_at": "2026-08-03T07:24:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -94,7 +112,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 234,
+    "stars": 241,
     "updated_at": "2026-08-03T07:20:27Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T07:44:13Z",
+    "updated_at": "2026-08-03T07:50:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -185,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7921,
-    "updated_at": "2026-08-03T06:47:39Z",
+    "updated_at": "2026-08-03T07:56:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T03:41:30Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 176,
-    "updated_at": "2026-08-03T03:27:17Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-08-03T03:12:09Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
   }
 ]
