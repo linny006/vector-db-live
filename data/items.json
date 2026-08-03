@@ -1,11 +1,56 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:24:06Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
+    "id": "axiomchronicles/elips",
+    "language": "TypeScript",
+    "name": "axiomchronicles/elips",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:23:21Z",
+    "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-03T06:15:18Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 3,
-    "updated_at": "2026-08-03T06:12:12Z",
+    "updated_at": "2026-08-03T06:28:42Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -31,18 +76,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15362,
+    "stars": 15363,
     "updated_at": "2026-08-03T06:06:16Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
-    "id": "axiomchronicles/elips",
-    "language": "TypeScript",
-    "name": "axiomchronicles/elips",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:04:24Z",
-    "url": "https://github.com/axiomchronicles/elips"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T06:03:53Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
@@ -166,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 162,
+    "stars": 172,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45472,
-    "updated_at": "2026-08-03T03:09:42Z",
+    "updated_at": "2026-08-03T06:30:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:54:46Z",
     "url": "https://github.com/Unnati1401/rag-assistant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:53:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -439,14 +448,5 @@
     "stars": 10231,
     "updated_at": "2026-08-03T01:00:33Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:53:06Z",
-    "url": "https://github.com/ruvnet/rvQR"
   }
 ]
