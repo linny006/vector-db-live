@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T18:45:21Z",
+    "updated_at": "2026-08-03T19:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 3,
+    "updated_at": "2026-08-03T19:00:01Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-03T18:59:48Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-03T18:56:23Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
+    "id": "1Vewton/WikiSpider",
+    "language": "Go",
+    "name": "1Vewton/WikiSpider",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:54:31Z",
+    "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-03T18:59:29Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6315,
+    "updated_at": "2026-08-03T18:58:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T18:50:56Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:49:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "hseshadr/edgeproc-core",
+    "language": "Python",
+    "name": "hseshadr/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:49:19Z",
+    "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T18:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first memory service for AI agents, with HTTP and MCP APIs.",
@@ -36,6 +126,15 @@
     "url": "https://github.com/vector-index-bench/vibe"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7924,
+    "updated_at": "2026-08-03T18:38:17Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -43,15 +142,6 @@
     "stars": 332,
     "updated_at": "2026-08-03T18:32:41Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T18:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -63,40 +153,13 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-03T18:26:14Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 3,
-    "updated_at": "2026-08-03T18:20:28Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 789,
+    "stars": 795,
     "updated_at": "2026-08-03T18:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7924,
-    "updated_at": "2026-08-03T18:38:17Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -135,15 +198,6 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6315,
-    "updated_at": "2026-08-03T18:34:14Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "C# client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_cs",
     "language": "C#",
@@ -178,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T18:04:02Z",
     "url": "https://github.com/Osy-Zy/AI-Mobile-Library"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11065,
+    "updated_at": "2026-08-03T18:03:45Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -283,7 +346,7 @@
     "id": "zudyog/the-ai-engineer",
     "language": "TypeScript",
     "name": "zudyog/the-ai-engineer",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-03T17:32:51Z",
     "url": "https://github.com/zudyog/the-ai-engineer"
   },
@@ -385,68 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-03T16:31:33Z",
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6403,
-    "updated_at": "2026-08-03T16:31:04Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird",
-    "id": "pinecone-io/bird-search-example",
-    "language": "Python",
-    "name": "pinecone-io/bird-search-example",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:30:38Z",
-    "url": "https://github.com/pinecone-io/bird-search-example"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58842,
-    "updated_at": "2026-08-03T16:26:23Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:26:14Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:23:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:19:23Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-03T16:17:23Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
