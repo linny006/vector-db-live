@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
     "stars": 1,
-    "updated_at": "2026-08-03T06:24:06Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "updated_at": "2026-08-03T06:40:27Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:35:05Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
@@ -14,17 +32,8 @@
     "language": "TypeScript",
     "name": "axiomchronicles/elips",
     "stars": 1,
-    "updated_at": "2026-08-03T06:23:21Z",
+    "updated_at": "2026-08-03T06:33:42Z",
     "url": "https://github.com/axiomchronicles/elips"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T06:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +41,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-03T06:15:25Z",
+    "updated_at": "2026-08-03T06:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45473,
+    "updated_at": "2026-08-03T06:30:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Enterprise AI Assistant for intelligent PDF question answering using LangChain, Google Gemini, FAISS, and Streamlit.",
+    "id": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "SkySentinel-AI/Enterprise-RAG-PDF-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:27:12Z",
+    "url": "https://github.com/SkySentinel-AI/Enterprise-RAG-PDF-Assistant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:24:06Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -184,7 +220,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 172,
+    "stars": 186,
     "updated_at": "2026-08-03T05:02:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T04:24:21Z",
+    "updated_at": "2026-08-03T06:42:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/taladb/taladb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45472,
-    "updated_at": "2026-08-03T06:30:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "A measured RAG assistant, hybrid retrieval + web grounding, tuned against a evaliation harness.",
     "id": "Unnati1401/rag-assistant",
     "language": "Python",
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7920,
-    "updated_at": "2026-08-03T05:45:51Z",
+    "updated_at": "2026-08-03T06:43:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 331,
     "updated_at": "2026-08-03T01:40:35Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "\ud83e\udde0 \u561f\u561f\u8d85\u7ea7\u8bb0\u5fc6\u7cfb\u7edf Hermes V1 - \u57fa\u4e8eSuperMemo-Du\u7684\u8bed\u4e49\u5411\u91cf\u8bb0\u5fc6\u7cfb\u7edf\uff0c\u8ba9AI\u52a9\u624b\u62e5\u6709\u771f\u6b63\u7406\u89e3\u8bed\u4e49\u7684\u957f\u671f\u8bb0\u5fc6\u80fd\u529b\u3002",
-    "id": "Shine8592/super-memory-hermes-v1",
-    "language": "Python",
-    "name": "Shine8592/super-memory-hermes-v1",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:30:45Z",
-    "url": "https://github.com/Shine8592/super-memory-hermes-v1"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-08-03T01:09:40Z",
-    "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10231,
-    "updated_at": "2026-08-03T01:00:33Z",
-    "url": "https://github.com/oceanbase/oceanbase"
   }
 ]
