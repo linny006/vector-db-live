@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-03T15:15:26Z",
+    "updated_at": "2026-08-03T15:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tools, vision, audio, and qu",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:30:14Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "C# client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_cs",
+    "language": "C#",
+    "name": "SeekStorm/seekstorm_client_cs",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:24:39Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T15:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
@@ -16,6 +43,33 @@
     "stars": 3,
     "updated_at": "2026-08-03T15:15:08Z",
     "url": "https://github.com/DevDarsh26/Quira"
+  },
+  {
+    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
+    "id": "pinecone-io/pinecone-neo4j-explorer",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-neo4j-explorer",
+    "stars": 10,
+    "updated_at": "2026-08-03T15:14:54Z",
+    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 112,
+    "updated_at": "2026-08-03T15:20:02Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:11:55Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29728,
-    "updated_at": "2026-08-03T15:06:27Z",
+    "updated_at": "2026-08-03T15:23:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -72,30 +126,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:00:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-03T14:58:50Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-03T14:58:23Z",
+    "updated_at": "2026-08-03T15:29:46Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-03T15:12:46Z",
+    "updated_at": "2026-08-03T15:24:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 331,
     "updated_at": "2026-08-03T14:51:04Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:11:55Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
@@ -158,17 +185,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-03T15:14:39Z",
+    "updated_at": "2026-08-03T15:29:31Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 112,
-    "updated_at": "2026-08-03T15:12:06Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16685,
-    "updated_at": "2026-08-03T15:08:48Z",
+    "updated_at": "2026-08-03T15:24:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +248,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-03T14:21:14Z",
+    "updated_at": "2026-08-03T15:27:53Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -337,7 +355,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 691,
+    "stars": 698,
     "updated_at": "2026-08-03T13:24:49Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 1904,
     "updated_at": "2026-08-03T12:29:44Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
-    "id": "qdrant/qdrant-js",
-    "language": "TypeScript",
-    "name": "qdrant/qdrant-js",
-    "stars": 458,
-    "updated_at": "2026-08-03T13:30:38Z",
-    "url": "https://github.com/qdrant/qdrant-js"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:16:21Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
