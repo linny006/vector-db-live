@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 22:15 UTC
+> ⏰ Last updated: 2026-08-03 22:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [IbiliAze/chatagent](https://github.com/IbiliAze/chatagent) | 0 | Python | 2026-08-03 | LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS |
-| 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-03 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 4 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64295 | JavaScript | 2026-08-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 5 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 13 | Python | 2026-08-03 | Postgres-Powered Vector Memory for the Agentic Age |
-| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 7 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 8 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-03 | In-memory knowledge store for AI agents |
-| 9 | [nram-ai/nram](https://github.com/nram-ai/nram) | 8 | Go | 2026-08-03 | The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE |
-| 10 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 5 | JavaScript | 2026-08-03 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
-| 11 | [amcaaron/rag-document-assistant](https://github.com/amcaaron/rag-document-assistant) | 0 | JavaScript | 2026-08-03 | Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB |
-| 12 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-03 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-03 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [IbiliAze/chatagent](https://github.com/IbiliAze/chatagent) | 0 | Python | 2026-08-03 | LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS |
+| 4 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-03 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64295 | JavaScript | 2026-08-03 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 6 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 13 | Python | 2026-08-03 | Postgres-Powered Vector Memory for the Agentic Age |
+| 7 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-03 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 8 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-03 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 9 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-03 | In-memory knowledge store for AI agents |
+| 10 | [nram-ai/nram](https://github.com/nram-ai/nram) | 8 | Go | 2026-08-03 | The continuity layer for everything you do with AI. A self-hosted, open source server any tool plugs into over MCP or RE |
+| 11 | [ruvnet/rvQR](https://github.com/ruvnet/rvQR) | 5 | JavaScript | 2026-08-03 | Move files between devices with a screen and a camera — offline optical transfer of RVF cognitive containers and WASM ar |
+| 12 | [amcaaron/rag-document-assistant](https://github.com/amcaaron/rag-document-assistant) | 0 | JavaScript | 2026-08-03 | Full-stack RAG assistant that answers questions from uploaded PDFs using React, FastAPI, LangChain, OpenAI, and ChromaDB |
 | 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-03 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 14 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 0 | Java | 2026-08-03 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
 | 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-03 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
