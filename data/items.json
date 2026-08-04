@@ -5,26 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T20:15:24Z",
+    "updated_at": "2026-08-04T20:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-04T20:12:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-08-04T20:29:54Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
     "language": "Python",
-    "name": "IbiliAze/chatagent",
+    "name": "plastic-labs/honcho",
+    "stars": 6426,
+    "updated_at": "2026-08-04T20:29:33Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-04T20:26:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
     "stars": 0,
-    "updated_at": "2026-08-04T20:14:51Z",
-    "url": "https://github.com/IbiliAze/chatagent"
+    "updated_at": "2026-08-04T20:25:40Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T20:25:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
@@ -32,8 +59,80 @@
     "language": "CSS",
     "name": "Vamshi868876/Secure-Enterprise-RAG",
     "stars": 0,
-    "updated_at": "2026-08-04T20:06:28Z",
+    "updated_at": "2026-08-04T20:24:43Z",
     "url": "https://github.com/Vamshi868876/Secure-Enterprise-RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1047,
+    "updated_at": "2026-08-04T20:23:00Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:22:24Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:28:49Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:28:46Z",
+    "url": "https://github.com/IbiliAze/chatagent"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7976,
+    "updated_at": "2026-08-04T20:16:38Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-04T20:16:30Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:16:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:15:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -77,17 +176,8 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-08-04T20:14:52Z",
+    "updated_at": "2026-08-04T20:29:51Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1044,
-    "updated_at": "2026-08-04T19:56:32Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -117,15 +207,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:49:03Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -142,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T19:44:16Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-04T19:50:45Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6426,
-    "updated_at": "2026-08-04T20:12:26Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -252,21 +315,12 @@
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-04T19:13:05Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Postgres MCP Server",
     "id": "devopam/MCPg",
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 8,
-    "updated_at": "2026-08-04T19:46:45Z",
+    "updated_at": "2026-08-04T20:15:50Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T20:00:01Z",
+    "updated_at": "2026-08-04T20:17:36Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:27:33Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
     "id": "qdrant/qdrant-js",
     "language": "TypeScript",
@@ -358,24 +403,6 @@
     "stars": 458,
     "updated_at": "2026-08-04T18:29:38Z",
     "url": "https://github.com/qdrant/qdrant-js"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:26:03Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:20:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:07:50Z",
     "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7971,
-    "updated_at": "2026-08-04T18:06:45Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29772,
-    "updated_at": "2026-08-04T18:03:21Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "\u2014",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:57:40Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
   }
 ]
