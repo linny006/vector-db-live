@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:12:59Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-08-04T22:12:50Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:09:49Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8002,
+    "updated_at": "2026-08-04T22:09:06Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Enterprise Knowledge Platform using Retrieval-Augmented Generation (RAG), Machine Learning, LangChain, ChromaDB, and loc",
+    "id": "TejasTomar28/the-raven-ai",
+    "language": "Python",
+    "name": "TejasTomar28/the-raven-ai",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:07:38Z",
+    "url": "https://github.com/TejasTomar28/the-raven-ai"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 127,
+    "updated_at": "2026-08-04T22:06:40Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:01:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T21:56:40Z",
+    "updated_at": "2026-08-04T22:05:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:56:13Z",
     "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-08-04T21:55:57Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
     "description": "A curated list of vector database solutions, libraries, and resources for AI applications - https://vectordb.ever.works",
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:53:16Z",
     "url": "https://github.com/chandra-vv/genai_portfolio"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -115,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T21:26:56Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7998,
-    "updated_at": "2026-08-04T21:26:29Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-04T20:42:57Z",
+    "updated_at": "2026-08-04T22:14:15Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -279,24 +324,6 @@
     "url": "https://github.com/IbiliAze/chatagent"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-04T20:25:04Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:22:24Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 333,
     "updated_at": "2026-08-04T20:16:30Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:16:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
@@ -430,23 +448,5 @@
     "stars": 11074,
     "updated_at": "2026-08-04T19:23:05Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "High-Performance Engine for Multi-Vector Search",
-    "id": "lightonai/fast-plaid",
-    "language": "Python",
-    "name": "lightonai/fast-plaid",
-    "stars": 272,
-    "updated_at": "2026-08-04T19:52:58Z",
-    "url": "https://github.com/lightonai/fast-plaid"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 89,
-    "updated_at": "2026-08-04T19:14:01Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   }
 ]
