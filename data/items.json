@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An experimental vector database that automatically switches from slow-but-accurate search to fast-but-approximate search",
+    "id": "speedyk-005/vinkra",
+    "language": "Python",
+    "name": "speedyk-005/vinkra",
+    "stars": 1,
+    "updated_at": "2026-08-04T14:42:32Z",
+    "url": "https://github.com/speedyk-005/vinkra"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-04T14:37:53Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-04T14:34:22Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:32:48Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:32:45Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7035,
+    "updated_at": "2026-08-04T14:32:19Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29763,
+    "updated_at": "2026-08-04T14:42:47Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A simpler UI for viewing VectorDBBench results.",
+    "id": "s-h-a-d-o-w/vdbb-ui",
+    "language": "TypeScript",
+    "name": "s-h-a-d-o-w/vdbb-ui",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:30:00Z",
+    "url": "https://github.com/s-h-a-d-o-w/vdbb-ui"
+  },
+  {
     "description": "Jigen DB is vector database written from scratch in c#",
     "id": "ppossanzini/Jigen",
     "language": "C#",
@@ -22,7 +112,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 986,
+    "stars": 992,
     "updated_at": "2026-08-04T14:24:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "qdrant/qdrant-client",
     "stars": 1340,
-    "updated_at": "2026-08-04T14:22:27Z",
+    "updated_at": "2026-08-04T14:32:06Z",
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
@@ -63,15 +153,6 @@
     "url": "https://github.com/qdrant/java-client"
   },
   {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T14:27:28Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
     "id": "RiceSouffle/atlas-agentic-rag",
     "language": "Python",
@@ -97,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T14:16:18Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T14:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T14:15:32Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
@@ -162,6 +225,15 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7926,
+    "updated_at": "2026-08-04T14:03:17Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
@@ -194,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-04T13:56:32Z",
+    "updated_at": "2026-08-04T14:33:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -248,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T14:28:19Z",
+    "updated_at": "2026-08-04T14:45:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T13:26:32Z",
     "url": "https://github.com/kailas711/deeplearning.ai"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7035,
-    "updated_at": "2026-08-04T14:17:36Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
@@ -382,71 +445,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45506,
+    "stars": 45507,
     "updated_at": "2026-08-04T12:44:21Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
-    "id": "MassivDash/ai_tools",
-    "language": "Rust",
-    "name": "MassivDash/ai_tools",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:17:52Z",
-    "url": "https://github.com/MassivDash/ai_tools"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:39:01Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:39:26Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1061,
-    "updated_at": "2026-08-04T12:36:05Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI-powered renewable energy policy intelligence platform using RAG, semantic search, OCR, and LLMs.",
-    "id": "Sanika-Gajarishi/AI-Policy-Intelligence-System",
-    "language": "Python",
-    "name": "Sanika-Gajarishi/AI-Policy-Intelligence-System",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:33:45Z",
-    "url": "https://github.com/Sanika-Gajarishi/AI-Policy-Intelligence-System"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:23:29Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "C# client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:17:42Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   }
 ]
