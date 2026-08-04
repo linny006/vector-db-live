@@ -1,5 +1,68 @@
 [
   {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:42:53Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2226,
+    "updated_at": "2026-08-04T03:42:45Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI \u9762\u8bd5\u8bad\u7ec3\u7cfb\u7edf\uff1a\u8de8\u4f1a\u8bdd\u80fd\u529b\u5efa\u6a21\u95ed\u73af \u2014 LangGraph \u7f16\u6392 + \u4e09\u5c42\u4e0a\u4e0b\u6587\u878d\u5408\u51fa\u9898 + Mem0 \u5f0f\u753b\u50cf\u66f4\u65b0 + RAG \u77e5\u8bc6\u589e\u5f3a + SM-2 \u590d\u4e60\u8c03\u5ea6\u3002FastAPI \u00b7 React 19 \u00b7 LlamaIndex \u00b7 Qdr",
+    "id": "Lxiny-zy/SparkOffer",
+    "language": "Python",
+    "name": "Lxiny-zy/SparkOffer",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:41:03Z",
+    "url": "https://github.com/Lxiny-zy/SparkOffer"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:35:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:35:01Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-04T03:30:38Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
     "id": "zilliztech/vector-graph-rag",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "qtuanph/chatbot-rag",
     "stars": 1,
-    "updated_at": "2026-08-04T03:29:10Z",
+    "updated_at": "2026-08-04T03:30:43Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
@@ -27,31 +90,13 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:23:31Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 876,
-    "updated_at": "2026-08-04T03:22:56Z",
+    "stars": 878,
+    "updated_at": "2026-08-04T03:39:26Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-08-04T03:21:39Z",
-    "url": "https://github.com/getbullet-app/paraql"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -61,24 +106,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T03:22:22Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Object storage for the AI age",
@@ -211,7 +238,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51356,
+    "stars": 51357,
     "updated_at": "2026-08-04T02:17:26Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -256,7 +283,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45497,
+    "stars": 45499,
     "updated_at": "2026-08-04T01:56:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:17:23Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:15:22Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:12:56Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:12:04Z",
-    "url": "https://github.com/api-evangelist/lancedb"
   }
 ]
