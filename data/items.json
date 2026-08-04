@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-04T08:00:28Z",
+    "updated_at": "2026-08-04T08:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T08:14:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29750,
+    "updated_at": "2026-08-04T08:10:01Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 831,
+    "updated_at": "2026-08-04T08:10:22Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6200,
+    "updated_at": "2026-08-04T08:07:33Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:01:58Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Evaluate Retrieval-Augmented Generation (RAG) systems using automated metrics, semantic similarity, and LLM-based evalua",
+    "id": "prosoftdev999/rag-evaluation",
+    "language": "Python",
+    "name": "prosoftdev999/rag-evaluation",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:58:32Z",
+    "url": "https://github.com/prosoftdev999/rag-evaluation"
   },
   {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
@@ -54,15 +117,6 @@
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -108,21 +162,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:36:46Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
     "id": "MassivDash/ai_tools",
     "language": "Rust",
     "name": "MassivDash/ai_tools",
     "stars": 2,
-    "updated_at": "2026-08-04T07:36:28Z",
+    "updated_at": "2026-08-04T08:14:20Z",
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
@@ -158,7 +203,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-08-04T07:37:29Z",
+    "updated_at": "2026-08-04T08:06:15Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-04T07:53:22Z",
+    "updated_at": "2026-08-04T08:12:07Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16686,
-    "updated_at": "2026-08-04T07:57:26Z",
+    "updated_at": "2026-08-04T08:00:37Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -283,18 +328,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 939,
+    "stars": 946,
     "updated_at": "2026-08-04T06:16:26Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 831,
-    "updated_at": "2026-08-04T06:07:26Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -331,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T06:46:03Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T05:36:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T04:31:05Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-08-04T04:12:54Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1060,
-    "updated_at": "2026-08-04T04:10:05Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2227,
-    "updated_at": "2026-08-04T03:50:01Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
