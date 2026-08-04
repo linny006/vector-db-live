@@ -1,5 +1,32 @@
 [
   {
+    "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
+    "id": "NextLevelManagementAdvisors/rag-mcp",
+    "language": "Python",
+    "name": "NextLevelManagementAdvisors/rag-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:03:33Z",
+    "url": "https://github.com/NextLevelManagementAdvisors/rag-mcp"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T07:03:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T07:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:45:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
     "id": "edumgt/docker-class",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16686,
-    "updated_at": "2026-08-04T06:39:47Z",
+    "updated_at": "2026-08-04T07:03:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -121,7 +139,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 930,
+    "stars": 931,
     "updated_at": "2026-08-04T06:16:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -139,7 +157,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15374,
+    "stars": 15373,
     "updated_at": "2026-08-04T06:06:11Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -160,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T06:02:59Z",
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T05:58:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:48:41Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "Hybrid retrieval RAG pipeline over PDFs combines vector search with keyword search and reranking. FastAPI, Python.",
-    "id": "Pranav1066/HYBRID_RAG",
-    "language": "Python",
-    "name": "Pranav1066/HYBRID_RAG",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:45:56Z",
-    "url": "https://github.com/Pranav1066/HYBRID_RAG"
   }
 ]
