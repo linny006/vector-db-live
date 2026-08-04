@@ -1,11 +1,110 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ChatBotHouse OpenRAGBench \u2014 full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response m",
+    "id": "ricardojrsousa/openragbench",
+    "language": "Python",
+    "name": "ricardojrsousa/openragbench",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:28:16Z",
+    "url": "https://github.com/ricardojrsousa/openragbench"
+  },
+  {
+    "description": "Short courses from DeepLearning.AI on topics on Generative AI , new tools and skills.",
+    "id": "kailas711/deeplearning.ai",
+    "language": "Jupyter Notebook",
+    "name": "kailas711/deeplearning.ai",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:26:32Z",
+    "url": "https://github.com/kailas711/deeplearning.ai"
+  },
+  {
+    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
+    "id": "Spideyman198/Atlas",
+    "language": "Python",
+    "name": "Spideyman198/Atlas",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:25:50Z",
+    "url": "https://github.com/Spideyman198/Atlas"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7035,
+    "updated_at": "2026-08-04T13:25:11Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:24:16Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 113,
+    "updated_at": "2026-08-04T13:23:18Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-08-04T13:29:22Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 178,
+    "updated_at": "2026-08-04T13:26:46Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-04T13:17:06Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
     "name": "ruvnet/rvQR",
     "stars": 4,
-    "updated_at": "2026-08-04T13:13:22Z",
+    "updated_at": "2026-08-04T13:29:40Z",
     "url": "https://github.com/ruvnet/rvQR"
   },
   {
@@ -63,24 +162,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:15:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -104,7 +185,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T13:15:27Z",
+    "updated_at": "2026-08-04T13:29:11Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -126,22 +207,13 @@
     "url": "https://github.com/Bitwarelabscom/bwmem"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:45:04Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "Full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response models, 3 languages, 37k judg",
-    "id": "ricardojrsousa/openragbench",
-    "language": "Python",
-    "name": "ricardojrsousa/openragbench",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:41:00Z",
-    "url": "https://github.com/ricardojrsousa/openragbench"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45505,
+    "updated_at": "2026-08-04T12:44:21Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "MassivDash/ai_tools",
     "stars": 2,
-    "updated_at": "2026-08-04T13:12:54Z",
+    "updated_at": "2026-08-04T13:17:52Z",
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T12:39:01Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7035,
-    "updated_at": "2026-08-04T12:38:38Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T13:11:15Z",
+    "updated_at": "2026-08-04T13:28:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7925,
-    "updated_at": "2026-08-04T12:47:45Z",
+    "updated_at": "2026-08-04T13:26:37Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -301,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29759,
+    "stars": 29760,
     "updated_at": "2026-08-04T12:04:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -374,17 +437,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16689,
-    "updated_at": "2026-08-04T13:06:10Z",
+    "updated_at": "2026-08-04T13:21:33Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 177,
-    "updated_at": "2026-08-04T12:43:27Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T11:36:17Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6318,
-    "updated_at": "2026-08-04T13:07:56Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-08-04T11:21:51Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:19:53Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45507,
-    "updated_at": "2026-08-04T12:44:21Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35008,
-    "updated_at": "2026-08-04T11:15:50Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "RAG (Retrieval-Augmented Generation) Document Q&A system built with Spring Boot, PostgreSQL/pgvector, and Google Gemini.",
-    "id": "AlaaAlasrawi/rag-document-qa-spring-boot",
-    "language": "Java",
-    "name": "AlaaAlasrawi/rag-document-qa-spring-boot",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:13:08Z",
-    "url": "https://github.com/AlaaAlasrawi/rag-document-qa-spring-boot"
   }
 ]
