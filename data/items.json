@@ -1,11 +1,56 @@
 [
   {
+    "description": "Desktop GUI client for Turbopuffer vector database",
+    "id": "MrPeker/turbopuffer-gui",
+    "language": "TypeScript",
+    "name": "MrPeker/turbopuffer-gui",
+    "stars": 23,
+    "updated_at": "2026-08-04T10:13:37Z",
+    "url": "https://github.com/MrPeker/turbopuffer-gui"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-04T10:12:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:10:32Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:10:20Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T10:08:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33767,
-    "updated_at": "2026-08-04T10:07:38Z",
+    "updated_at": "2026-08-04T10:14:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1343,
-    "updated_at": "2026-08-04T10:04:37Z",
+    "updated_at": "2026-08-04T10:15:19Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-04T10:02:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Persistent memory for AI agents - Learn, remember, improve.   Alternative to Mem0 with scoped learning, anti-patterns,  ",
     "id": "RBKunnela/ALMA-memory",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 49,
     "updated_at": "2026-08-04T10:00:41Z",
     "url": "https://github.com/RBKunnela/ALMA-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T10:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29756,
-    "updated_at": "2026-08-04T09:55:56Z",
+    "updated_at": "2026-08-04T10:14:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6316,
-    "updated_at": "2026-08-04T09:54:51Z",
+    "updated_at": "2026-08-04T10:13:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-04T10:03:59Z",
+    "updated_at": "2026-08-04T10:14:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:18:54Z",
     "url": "https://github.com/infoankanin-hub/WestBengal-IQ"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 419,
-    "updated_at": "2026-08-04T07:18:09Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1152,
-    "updated_at": "2026-08-04T07:06:28Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
-    "id": "NextLevelManagementAdvisors/rag-mcp",
-    "language": "Python",
-    "name": "NextLevelManagementAdvisors/rag-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:03:33Z",
-    "url": "https://github.com/NextLevelManagementAdvisors/rag-mcp"
   }
 ]
