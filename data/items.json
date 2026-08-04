@@ -1,11 +1,83 @@
 [
   {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-04T13:13:22Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:09:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 246,
+    "updated_at": "2026-08-04T13:07:24Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Rest client for Qdrant vector database",
+    "id": "quarkiverse/quarkus-qdrant",
+    "language": "Java",
+    "name": "quarkiverse/quarkus-qdrant",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:04:54Z",
+    "url": "https://github.com/quarkiverse/quarkus-qdrant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T13:02:40Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 5,
+    "updated_at": "2026-08-04T13:01:13Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:01:02Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T13:00:24Z",
+    "updated_at": "2026-08-04T13:15:32Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,17 +104,8 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T12:54:18Z",
+    "updated_at": "2026-08-04T13:15:27Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-04T12:53:02Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T12:49:51Z",
     "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
-    "description": "Rest client for Qdrant vector database",
-    "id": "quarkiverse/quarkus-qdrant",
-    "language": "Java",
-    "name": "quarkiverse/quarkus-qdrant",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:00:16Z",
-    "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "MassivDash/ai_tools",
     "stars": 2,
-    "updated_at": "2026-08-04T12:39:03Z",
+    "updated_at": "2026-08-04T13:12:54Z",
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T12:59:27Z",
+    "updated_at": "2026-08-04T13:11:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T12:14:30Z",
     "url": "https://github.com/Vivekpatil200320/contextquery-backend"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:12:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -319,7 +355,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33771,
+    "stars": 33772,
     "updated_at": "2026-08-04T11:49:15Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16689,
-    "updated_at": "2026-08-04T13:00:00Z",
+    "updated_at": "2026-08-04T13:06:10Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T12:49:12Z",
+    "updated_at": "2026-08-04T13:07:56Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -400,7 +436,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35009,
+    "stars": 35008,
     "updated_at": "2026-08-04T11:15:50Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T11:13:08Z",
     "url": "https://github.com/AlaaAlasrawi/rag-document-qa-spring-boot"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:13:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 460,
-    "updated_at": "2026-08-04T11:08:46Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 246,
-    "updated_at": "2026-08-04T11:07:49Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 242,
-    "updated_at": "2026-08-04T10:57:45Z",
-    "url": "https://github.com/deven96/ahnlich"
   }
 ]
