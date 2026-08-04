@@ -1,12 +1,102 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45505,
+    "updated_at": "2026-08-04T11:14:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:14:18Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "RAG (Retrieval-Augmented Generation) Document Q&A system built with Spring Boot, PostgreSQL/pgvector, and Google Gemini.",
+    "id": "AlaaAlasrawi/rag-document-qa-spring-boot",
+    "language": "Java",
+    "name": "AlaaAlasrawi/rag-document-qa-spring-boot",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:13:08Z",
+    "url": "https://github.com/AlaaAlasrawi/rag-document-qa-spring-boot"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:13:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 460,
+    "updated_at": "2026-08-04T11:08:46Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 246,
+    "updated_at": "2026-08-04T11:07:49Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Python client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_py",
+    "language": "Rust",
+    "name": "SeekStorm/seekstorm_client_py",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:07:10Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_py"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
+    "id": "zhenkun26/BusinessAgent",
+    "language": "CSS",
+    "name": "zhenkun26/BusinessAgent",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:01:21Z",
+    "url": "https://github.com/zhenkun26/BusinessAgent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T11:00:20Z",
+    "updated_at": "2026-08-04T11:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33769,
+    "updated_at": "2026-08-04T11:06:38Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -27,22 +117,22 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16688,
+    "updated_at": "2026-08-04T10:53:01Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35008,
-    "updated_at": "2026-08-04T10:51:33Z",
+    "updated_at": "2026-08-04T11:13:54Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T10:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI DataLake",
@@ -70,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-08-04T10:39:58Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29757,
+    "updated_at": "2026-08-04T11:14:29Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -103,9 +202,18 @@
     "id": "pmbstyle/Alice",
     "language": "TypeScript",
     "name": "pmbstyle/Alice",
-    "stars": 316,
+    "stars": 317,
     "updated_at": "2026-08-04T10:31:15Z",
     "url": "https://github.com/pmbstyle/Alice"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58846,
+    "updated_at": "2026-08-04T10:30:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -140,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-04T10:59:22Z",
+    "updated_at": "2026-08-04T11:14:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T10:21:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33768,
-    "updated_at": "2026-08-04T10:58:23Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -239,7 +338,7 @@
     "language": "Python",
     "name": "dovahkiin-v/mitos",
     "stars": 4,
-    "updated_at": "2026-08-04T10:02:58Z",
+    "updated_at": "2026-08-04T11:15:03Z",
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
@@ -252,21 +351,12 @@
     "url": "https://github.com/RBKunnela/ALMA-memory"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29756,
-    "updated_at": "2026-08-04T10:37:15Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7035,
-    "updated_at": "2026-08-04T09:48:27Z",
+    "updated_at": "2026-08-04T11:06:37Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 6316,
     "updated_at": "2026-08-04T10:23:10Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "\u2014",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:49:59Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
-  },
-  {
-    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
-    "id": "edumgt/docker-class",
-    "language": "Python",
-    "name": "edumgt/docker-class",
-    "stars": 4,
-    "updated_at": "2026-08-04T08:49:55Z",
-    "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:45:49Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Canonical identity for an embedding space so vectors from two encoder configs never get compared",
-    "id": "nradawg/embedding-space-id",
-    "language": "TypeScript",
-    "name": "nradawg/embedding-space-id",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:41:19Z",
-    "url": "https://github.com/nradawg/embedding-space-id"
-  },
-  {
-    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
-    "id": "MatthewRyanWeber/data-governance-pipeline",
-    "language": "Python",
-    "name": "MatthewRyanWeber/data-governance-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:37:29Z",
-    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 242,
-    "updated_at": "2026-08-04T08:32:15Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
-    "id": "zhenkun26/BusinessAgent",
-    "language": "CSS",
-    "name": "zhenkun26/BusinessAgent",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:31:31Z",
-    "url": "https://github.com/zhenkun26/BusinessAgent"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58847,
-    "updated_at": "2026-08-04T10:30:20Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T08:14:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:01:58Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
   }
 ]
