@@ -1,5 +1,77 @@
 [
   {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:07:26Z",
+    "url": "https://github.com/IbiliAze/chatagent"
+  },
+  {
+    "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
+    "id": "Vamshi868876/Secure-Enterprise-RAG",
+    "language": "CSS",
+    "name": "Vamshi868876/Secure-Enterprise-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:06:28Z",
+    "url": "https://github.com/Vamshi868876/Secure-Enterprise-RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:04:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
+    "id": "Suvroneel/Phynix-Ai",
+    "language": "Jupyter Notebook",
+    "name": "Suvroneel/Phynix-Ai",
+    "stars": 1,
+    "updated_at": "2026-08-04T20:02:35Z",
+    "url": "https://github.com/Suvroneel/Phynix-Ai"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:02:27Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:02:24Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-04T20:01:30Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,7 +85,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1041,
+    "stars": 1044,
     "updated_at": "2026-08-04T19:56:32Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -23,35 +95,8 @@
     "language": "Rust",
     "name": "hivellm/vectorizer",
     "stars": 27,
-    "updated_at": "2026-08-04T19:55:30Z",
+    "updated_at": "2026-08-04T20:07:33Z",
     "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
-    "language": "Python",
-    "name": "IbiliAze/chatagent",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:54:33Z",
-    "url": "https://github.com/IbiliAze/chatagent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:54:05Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:54:03Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
     "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
@@ -90,15 +135,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6426,
-    "updated_at": "2026-08-04T19:37:49Z",
+    "updated_at": "2026-08-04T20:12:26Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T19:44:37Z",
+    "updated_at": "2026-08-04T20:06:26Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:03:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The base Installation Source for Horizon Brain Builder",
     "id": "HorizonBrute/Horizon-Brain-Builder",
     "language": "Python",
@@ -268,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:55:58Z",
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-04T19:56:42Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
-    "id": "Suvroneel/Phynix-Ai",
-    "language": "Jupyter Notebook",
-    "name": "Suvroneel/Phynix-Ai",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:47:04Z",
-    "url": "https://github.com/Suvroneel/Phynix-Ai"
   },
   {
     "description": "An experimental vector database that automatically switches from slow-but-accurate search to fast-but-approximate search",
@@ -418,7 +427,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7963,
+    "stars": 7968,
     "updated_at": "2026-08-04T18:06:45Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:57:40Z",
     "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
-    "id": "siddharthgaur1/vecbench",
-    "language": "HTML",
-    "name": "siddharthgaur1/vecbench",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:54:58Z",
-    "url": "https://github.com/siddharthgaur1/vecbench"
   }
 ]
