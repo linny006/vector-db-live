@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-04T09:13:31Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 22,
+    "updated_at": "2026-08-04T09:11:13Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29755,
+    "updated_at": "2026-08-04T09:09:40Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 10,
+    "updated_at": "2026-08-04T09:08:14Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:05:12Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
+    "id": "ParsaAzr/DevAssistant-MCP",
+    "language": "Python",
+    "name": "ParsaAzr/DevAssistant-MCP",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:02:11Z",
+    "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-04T09:00:26Z",
+    "updated_at": "2026-08-04T09:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,7 +76,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15373,
+    "stars": 15374,
     "updated_at": "2026-08-04T08:58:10Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Shubham-raut-860/Vector-Graph-RAG",
     "stars": 0,
-    "updated_at": "2026-08-04T08:56:46Z",
+    "updated_at": "2026-08-04T09:13:22Z",
     "url": "https://github.com/Shubham-raut-860/Vector-Graph-RAG"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29754,
-    "updated_at": "2026-08-04T08:57:01Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T08:44:21Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -99,15 +135,6 @@
     "url": "https://github.com/nradawg/embedding-space-id"
   },
   {
-    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
-    "id": "ParsaAzr/DevAssistant-MCP",
-    "language": "Python",
-    "name": "ParsaAzr/DevAssistant-MCP",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:40:13Z",
-    "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
-  },
-  {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
     "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 242,
     "updated_at": "2026-08-04T08:32:15Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:31:07Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-04T08:58:55Z",
+    "updated_at": "2026-08-04T09:05:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16687,
-    "updated_at": "2026-08-04T08:59:54Z",
+    "updated_at": "2026-08-04T09:10:42Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33766,
-    "updated_at": "2026-08-04T09:00:16Z",
+    "updated_at": "2026-08-04T09:08:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -247,7 +265,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45503,
+    "stars": 45502,
     "updated_at": "2026-08-04T07:52:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -365,7 +383,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-04T08:57:51Z",
+    "updated_at": "2026-08-04T09:04:53Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -410,7 +428,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7924,
-    "updated_at": "2026-08-04T08:32:59Z",
+    "updated_at": "2026-08-04T09:14:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:18:28Z",
     "url": "https://github.com/StephenSook/erasure-proof"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 953,
-    "updated_at": "2026-08-04T06:16:26Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:04:03Z",
-    "url": "https://github.com/getbullet-app/paraql"
   }
 ]
