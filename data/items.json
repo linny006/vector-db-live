@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T18:00:23Z",
+    "updated_at": "2026-08-04T18:15:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG pipeline for natural-language Q&A over large PDFs using LangChain, FAISS vector store, and Streamlit. Chunked retrie",
+    "id": "Abdullah1dev/ai-pdf-assistant-rag",
+    "language": "Python",
+    "name": "Abdullah1dev/ai-pdf-assistant-rag",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:10:26Z",
+    "url": "https://github.com/Abdullah1dev/ai-pdf-assistant-rag"
+  },
+  {
+    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
+    "id": "rani700/healthcompanion",
+    "language": "Python",
+    "name": "rani700/healthcompanion",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:09:24Z",
+    "url": "https://github.com/rani700/healthcompanion"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64328,
+    "updated_at": "2026-08-04T18:08:24Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
+    "id": "sathyalog/single-index-metadata-rag-olympics",
+    "language": "Python",
+    "name": "sathyalog/single-index-metadata-rag-olympics",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:07:50Z",
+    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:06:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:12:23Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T17:55:14Z",
+    "updated_at": "2026-08-04T18:12:36Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -50,7 +113,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T17:51:50Z",
+    "updated_at": "2026-08-04T18:07:56Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 7035,
     "updated_at": "2026-08-04T17:47:25Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -126,15 +180,6 @@
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
-    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
-    "id": "rani700/healthcompanion",
-    "language": "Python",
-    "name": "rani700/healthcompanion",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:38:35Z",
-    "url": "https://github.com/rani700/healthcompanion"
-  },
-  {
     "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
     "id": "Zizka-ai/ZizkaDB",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29772,
-    "updated_at": "2026-08-04T17:33:37Z",
+    "updated_at": "2026-08-04T18:03:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/speedyk-005/vinkra"
   },
   {
-    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
-    "id": "sathyalog/single-index-metadata-rag-olympics",
-    "language": "Python",
-    "name": "sathyalog/single-index-metadata-rag-olympics",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:14:57Z",
-    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
-  },
-  {
     "description": "Production RAG + agentic oncology knowledge system on Weaviate  , real CIViC/ClinicalTrials.gov/openFDA data, tuned hybr",
     "id": "HarshTomar1234/OncoRAG",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "qdrant/qdrant-js",
     "stars": 458,
-    "updated_at": "2026-08-04T17:59:15Z",
+    "updated_at": "2026-08-04T18:08:43Z",
     "url": "https://github.com/qdrant/qdrant-js"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:08:40Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:06:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The open-source, self-hosted alternative to NotebookLM.",
@@ -329,17 +356,8 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2040,
-    "updated_at": "2026-08-04T17:10:39Z",
+    "updated_at": "2026-08-04T18:04:55Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64328,
-    "updated_at": "2026-08-04T17:33:27Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:06:24Z",
     "url": "https://github.com/agent-engineering-studio/knowledge-graph"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:04:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-08-04T16:02:54Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
   }
 ]
