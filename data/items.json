@@ -1,5 +1,59 @@
 [
   {
+    "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
+    "id": "PerinbaBuilds/Semantic-RAG-Search",
+    "language": "Python",
+    "name": "PerinbaBuilds/Semantic-RAG-Search",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:59:04Z",
+    "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:54:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-08-04T20:49:20Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64330,
+    "updated_at": "2026-08-04T20:47:20Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:45:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -11,7 +65,7 @@
   {
     "description": "Hybrid retrieval (dense + BM25 + RRF) with a built-in evaluation harness \u2014 measure your RAG instead of guessing. Chroma/",
     "id": "laiba-mazhar/ragforge",
-    "language": "\u2014",
+    "language": "Python",
     "name": "laiba-mazhar/ragforge",
     "stars": 0,
     "updated_at": "2026-08-04T20:44:49Z",
@@ -27,15 +81,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:42:49Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:42:57Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64329,
-    "updated_at": "2026-08-04T20:40:08Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
@@ -67,7 +103,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1049,
+    "stars": 1050,
     "updated_at": "2026-08-04T20:37:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -108,21 +144,12 @@
     "url": "https://github.com/StephenSook/erasure-proof"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-04T20:35:02Z",
+    "updated_at": "2026-08-04T21:00:02Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6426,
-    "updated_at": "2026-08-04T20:40:03Z",
+    "updated_at": "2026-08-04T20:46:59Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -171,11 +198,20 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16691,
+    "updated_at": "2026-08-04T20:17:33Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7981,
+    "stars": 7985,
     "updated_at": "2026-08-04T20:16:38Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T20:16:16Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:04:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Mood-aware GenAI platform. Fine-tuned BERTa for real-time emotion classification, Llama 3.1 for context-aware responses,",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:02:24Z",
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 27,
-    "updated_at": "2026-08-04T20:07:33Z",
-    "url": "https://github.com/hivellm/vectorizer"
   },
   {
     "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
@@ -347,7 +365,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T19:17:36Z",
+    "updated_at": "2026-08-04T20:56:08Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T20:32:40Z",
+    "updated_at": "2026-08-04T20:48:48Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -409,7 +427,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33778,
+    "stars": 33779,
     "updated_at": "2026-08-04T18:40:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-04T18:40:33Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:36:38Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
-    "id": "qdrant/qdrant-js",
-    "language": "TypeScript",
-    "name": "qdrant/qdrant-js",
-    "stars": 458,
-    "updated_at": "2026-08-04T18:29:38Z",
-    "url": "https://github.com/qdrant/qdrant-js"
   }
 ]
