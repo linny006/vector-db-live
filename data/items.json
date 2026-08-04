@@ -1,5 +1,95 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:57:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Build your own offline domain-specific AI from your knowledge.",
+    "id": "VivekDahariya/PriAI",
+    "language": "Python",
+    "name": "VivekDahariya/PriAI",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:56:48Z",
+    "url": "https://github.com/VivekDahariya/PriAI"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-08-03T23:54:23Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:51:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-03T23:51:12Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11066,
+    "updated_at": "2026-08-03T23:51:04Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 460,
+    "updated_at": "2026-08-03T23:50:28Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-03T23:50:38Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:46:16Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-03T23:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,35 +113,8 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64297,
-    "updated_at": "2026-08-03T23:35:28Z",
+    "updated_at": "2026-08-03T23:45:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:35:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:41:55Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:23:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
@@ -67,7 +130,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 844,
+    "stars": 847,
     "updated_at": "2026-08-03T23:09:13Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -99,15 +162,6 @@
     "url": "https://github.com/ruvnet/rvQR"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-03T22:57:39Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "A production-grade Conversational RAG Assistant powered by Hybrid Ensemble Search (FAISS + BM25), multi-turn context mem",
     "id": "Eisha23/Conversational-Hybrid-Rag",
     "language": "Python",
@@ -115,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T22:57:11Z",
     "url": "https://github.com/Eisha23/Conversational-Hybrid-Rag"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 460,
-    "updated_at": "2026-08-03T22:54:24Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T22:53:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11065,
-    "updated_at": "2026-08-03T23:39:29Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Object storage for the AI age",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T22:12:26Z",
     "url": "https://github.com/IbiliAze/chatagent"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-03T23:43:26Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "Postgres-Powered Vector Memory for the Agentic Age",
@@ -288,15 +306,6 @@
     "url": "https://github.com/MZohaibBaig/rag-search-api"
   },
   {
-    "description": "Build your own offline domain-specific AI from your knowledge.",
-    "id": "VivekDahariya/PriAI",
-    "language": "Python",
-    "name": "VivekDahariya/PriAI",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:42:25Z",
-    "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T23:08:45Z",
+    "updated_at": "2026-08-03T23:59:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T19:17:06Z",
     "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "C# client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_cs",
-    "language": "C#",
-    "name": "SeekStorm/seekstorm_client_cs",
-    "stars": 1,
-    "updated_at": "2026-08-03T19:03:04Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   }
 ]
