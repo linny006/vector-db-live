@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 831,
+    "updated_at": "2026-08-04T06:07:26Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15374,
+    "updated_at": "2026-08-04T06:06:11Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:04:03Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 1,
+    "updated_at": "2026-08-04T06:02:59Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -40,27 +94,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 916,
+    "stars": 919,
     "updated_at": "2026-08-04T05:45:54Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T05:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -99,15 +135,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:32:28Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
     "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
     "id": "matuteiglesias/kb-contracts",
     "language": "TypeScript",
@@ -126,21 +153,12 @@
     "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
   },
   {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:29:00Z",
-    "url": "https://github.com/getbullet-app/paraql"
-  },
-  {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
     "id": "pg-cuvs/pg_cuvs",
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T05:50:32Z",
+    "updated_at": "2026-08-04T06:15:01Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16687,
-    "updated_at": "2026-08-04T05:04:47Z",
+    "updated_at": "2026-08-04T06:08:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15374,
-    "updated_at": "2026-08-04T03:18:15Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
     "id": "oscargbocanegra/llms-engineering-main",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 45500,
     "updated_at": "2026-08-04T04:31:19Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:49:31Z",
-    "url": "https://github.com/api-evangelist/zilliz"
   }
 ]
