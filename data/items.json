@@ -1,12 +1,30 @@
 [
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:43:41Z",
-    "url": "https://github.com/nacre-work/nacre"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15373,
+    "updated_at": "2026-08-04T08:58:10Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-08-04T08:56:49Z",
+    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Hybrid RAG engine combining vector embeddings with knowledge graph structures for multi-hop document retrieval",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "Shubham-raut-860/Vector-Graph-RAG",
     "stars": 0,
-    "updated_at": "2026-08-04T08:42:54Z",
+    "updated_at": "2026-08-04T08:56:46Z",
     "url": "https://github.com/Shubham-raut-860/Vector-Graph-RAG"
+  },
+  {
+    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
+    "id": "jayemscript/atlas-rag",
+    "language": "\u2014",
+    "name": "jayemscript/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:49:59Z",
+    "url": "https://github.com/jayemscript/atlas-rag"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 5,
+    "updated_at": "2026-08-04T08:49:55Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29754,
+    "updated_at": "2026-08-04T08:57:01Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-04T08:44:21Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-04T08:45:49Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Canonical identity for an embedding space so vectors from two encoder configs never get compared",
@@ -36,15 +108,6 @@
     "url": "https://github.com/ParsaAzr/DevAssistant-MCP"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-08-04T08:37:31Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
     "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T08:37:29Z",
     "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T08:44:21Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -81,48 +135,12 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T08:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "\u2014",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:29:34Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29753,
-    "updated_at": "2026-08-04T08:44:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-04T08:26:38Z",
+    "updated_at": "2026-08-04T08:53:09Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -130,7 +148,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58848,
+    "stars": 58849,
     "updated_at": "2026-08-04T08:24:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6200,
-    "updated_at": "2026-08-04T08:41:56Z",
+    "updated_at": "2026-08-04T08:58:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16687,
-    "updated_at": "2026-08-04T08:30:48Z",
+    "updated_at": "2026-08-04T08:59:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -205,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:58:32Z",
     "url": "https://github.com/prosoftdev999/rag-evaluation"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33766,
+    "updated_at": "2026-08-04T09:00:16Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
@@ -268,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T08:14:20Z",
     "url": "https://github.com/MassivDash/ai_tools"
-  },
-  {
-    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
-    "id": "edumgt/docker-class",
-    "language": "Python",
-    "name": "edumgt/docker-class",
-    "stars": 5,
-    "updated_at": "2026-08-04T07:33:57Z",
-    "url": "https://github.com/edumgt/docker-class"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -347,7 +365,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-04T08:12:07Z",
+    "updated_at": "2026-08-04T08:57:51Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-04T06:40:41Z",
+    "updated_at": "2026-08-04T08:52:23Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -418,18 +436,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 951,
+    "stars": 953,
     "updated_at": "2026-08-04T06:16:26Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15373,
-    "updated_at": "2026-08-04T06:06:11Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:04:03Z",
     "url": "https://github.com/getbullet-app/paraql"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:02:59Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   }
 ]
