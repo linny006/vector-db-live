@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T01:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 6,
+    "updated_at": "2026-08-04T01:28:56Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
+    "id": "Spideyman198/Atlas",
+    "language": "Python",
+    "name": "Spideyman198/Atlas",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:23:36Z",
+    "url": "https://github.com/Spideyman198/Atlas"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:21:25Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:20:35Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-04T01:19:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:18:56Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-08-04T01:17:43Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:17:23Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T01:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-08-04T01:15:22Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -45,24 +144,6 @@
     "url": "https://github.com/marinac-dev/qdrant"
   },
   {
-    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
-    "id": "Spideyman198/Atlas",
-    "language": "Python",
-    "name": "Spideyman198/Atlas",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:06:32Z",
-    "url": "https://github.com/Spideyman198/Atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T01:05:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -81,15 +162,6 @@
     "url": "https://github.com/api-evangelist/gel-data"
   },
   {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 6,
-    "updated_at": "2026-08-04T01:01:37Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
     "id": "oceanbase/oceanbase",
     "language": "C++",
@@ -97,15 +169,6 @@
     "stars": 10233,
     "updated_at": "2026-08-04T01:00:36Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T01:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
@@ -230,7 +293,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 119,
-    "updated_at": "2026-08-04T00:10:08Z",
+    "updated_at": "2026-08-04T01:24:50Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -355,7 +418,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51352,
+    "stars": 51353,
     "updated_at": "2026-08-03T23:09:13Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -369,6 +432,15 @@
     "url": "https://github.com/Eisha23/Conversational-Hybrid-Rag"
   },
   {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 89,
+    "updated_at": "2026-08-03T22:47:11Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -376,77 +448,5 @@
     "stars": 78,
     "updated_at": "2026-08-03T22:42:53Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Local-first RAG second brain - key-free embeddings, SQLite vector store, Obsidian ingestion, MCP server for Claude Code",
-    "id": "bunlongheng/ai-lab",
-    "language": "TypeScript",
-    "name": "bunlongheng/ai-lab",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:41:02Z",
-    "url": "https://github.com/bunlongheng/ai-lab"
-  },
-  {
-    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
-    "id": "sathyalog/single-index-metadata-rag-olympics",
-    "language": "Python",
-    "name": "sathyalog/single-index-metadata-rag-olympics",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:33:18Z",
-    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-08-03T22:27:02Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29735,
-    "updated_at": "2026-08-03T22:24:26Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
-    "language": "Python",
-    "name": "IbiliAze/chatagent",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:12:26Z",
-    "url": "https://github.com/IbiliAze/chatagent"
-  },
-  {
-    "description": "Postgres-Powered Vector Memory for the Agentic Age",
-    "id": "codenamekt/hexus",
-    "language": "Python",
-    "name": "codenamekt/hexus",
-    "stars": 13,
-    "updated_at": "2026-08-03T22:16:03Z",
-    "url": "https://github.com/codenamekt/hexus"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6407,
-    "updated_at": "2026-08-03T22:05:32Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-03T22:28:15Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
   }
 ]
