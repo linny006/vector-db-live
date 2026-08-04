@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 18:43 UTC
+> ⏰ Last updated: 2026-08-04 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6202 | Rust | 2026-08-04 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 2 | [hivellm/vectorizer](https://github.com/hivellm/vectorizer) | 27 | Rust | 2026-08-04 | A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q |
-| 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-04 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 4 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-04 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
-| 5 | [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore) | 107 | Python | 2026-08-04 | A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps. |
-| 6 | [speedyk-005/vinkra](https://github.com/speedyk-005/vinkra) | 1 | Python | 2026-08-04 | An experimental vector database that automatically switches from slow-but-accurate search to fast-but-approximate search |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [speedyk-005/vinkra](https://github.com/speedyk-005/vinkra) | 1 | Python | 2026-08-04 | An experimental vector database that automatically switches from slow-but-accurate search to fast-but-approximate search |
+| 3 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6202 | Rust | 2026-08-04 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 4 | [hivellm/vectorizer](https://github.com/hivellm/vectorizer) | 27 | Rust | 2026-08-04 | A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q |
+| 5 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-04 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 6 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-04 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
+| 7 | [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore) | 107 | Python | 2026-08-04 | A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps. |
 | 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 9 | [tradik/mddb](https://github.com/tradik/mddb) | 3 | Go | 2026-08-04 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
 | 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-04 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
@@ -65,7 +65,7 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [rani700/healthcompanion](https://github.com/rani700/healthcompanion) | 0 | Python | 2026-08-04 | Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas |
 | 22 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64329 | JavaScript | 2026-08-04 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 23 | [sathyalog/single-index-metadata-rag-olympics](https://github.com/sathyalog/single-index-metadata-rag-olympics) | 0 | Python | 2026-08-04 | A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900–Present) using HNSW |
-| 24 | [MariaDB/server](https://github.com/MariaDB/server) | 7943 | C++ | 2026-08-04 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 24 | [MariaDB/server](https://github.com/MariaDB/server) | 7944 | C++ | 2026-08-04 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 25 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 26 | [ihrimon/ai-engineering-journey](https://github.com/ihrimon/ai-engineering-journey) | 0 | — | 2026-08-04 | My AI engineering journey through hands-on projects, experiments, and documentation. |
 | 27 | [siddharthgaur1/vecbench](https://github.com/siddharthgaur1/vecbench) | 1 | HTML | 2026-08-04 | Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c |
