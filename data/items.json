@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:44:23Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-08-04T19:44:16Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-04T19:38:40Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6426,
+    "updated_at": "2026-08-04T19:37:49Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:36:56Z",
+    "url": "https://github.com/IbiliAze/chatagent"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:35:20Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 6,
+    "updated_at": "2026-08-04T19:32:18Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7035,
+    "updated_at": "2026-08-04T19:31:19Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-04T19:30:59Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Official repository of the kANNolo library.",
+    "id": "TusKANNy/kannolo",
+    "language": "Rust",
+    "name": "TusKANNy/kannolo",
+    "stars": 75,
+    "updated_at": "2026-08-04T19:29:39Z",
+    "url": "https://github.com/TusKANNy/kannolo"
+  },
+  {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
     "id": "Nayjest/ai-microcore",
     "language": "Python",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T19:29:00Z",
+    "updated_at": "2026-08-04T19:44:37Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-04T19:17:43Z",
+    "updated_at": "2026-08-04T19:42:40Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -43,24 +151,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T19:17:36Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High-Performance Engine for Multi-Vector Search",
@@ -121,7 +211,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1037,
+    "stars": 1039,
     "updated_at": "2026-08-04T19:07:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -131,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T19:07:36Z",
+    "updated_at": "2026-08-04T19:43:12Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -162,15 +252,6 @@
     "url": "https://github.com/HorizonBrute/Horizon-Brain-Builder"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-04T18:58:07Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
     "id": "hivellm/vectorizer",
     "language": "Rust",
@@ -185,7 +266,7 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-08-04T18:50:45Z",
+    "updated_at": "2026-08-04T19:36:05Z",
     "url": "https://github.com/tradik/mddb"
   },
   {
@@ -211,7 +292,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33777,
+    "stars": 33778,
     "updated_at": "2026-08-04T18:40:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -221,7 +302,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6202,
-    "updated_at": "2026-08-04T19:22:43Z",
+    "updated_at": "2026-08-04T19:33:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-04T18:16:13Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
     "description": "RAG pipeline for natural-language Q&A over large PDFs using LangChain, FAISS vector store, and Streamlit. Chunked retrie",
     "id": "Abdullah1dev/ai-pdf-assistant-rag",
     "language": "Python",
@@ -337,7 +409,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7958,
+    "stars": 7960,
     "updated_at": "2026-08-04T18:06:45Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -376,77 +448,5 @@
     "stars": 1874,
     "updated_at": "2026-08-04T17:53:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 16,
-    "updated_at": "2026-08-04T17:48:36Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7035,
-    "updated_at": "2026-08-04T17:47:25Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 169,
-    "updated_at": "2026-08-04T17:39:20Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "AI drug-discovery research assistant \u2014 RAG over PubMed, PubChem, PDB & ClinicalTrials.gov with multi-provider LLM routin",
-    "id": "hopepranav08/Clintra",
-    "language": "Python",
-    "name": "hopepranav08/Clintra",
-    "stars": 3,
-    "updated_at": "2026-08-04T17:38:58Z",
-    "url": "https://github.com/hopepranav08/Clintra"
-  },
-  {
-    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
-    "id": "tuned-org-uk/arrowspace-rs",
-    "language": "Rust",
-    "name": "tuned-org-uk/arrowspace-rs",
-    "stars": 40,
-    "updated_at": "2026-08-04T18:40:47Z",
-    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
-    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "Python",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 36,
-    "updated_at": "2026-08-04T17:37:25Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 63,
-    "updated_at": "2026-08-04T17:32:17Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1904,
-    "updated_at": "2026-08-04T17:29:38Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   }
 ]
