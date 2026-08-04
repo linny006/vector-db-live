@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T17:30:31Z",
+    "updated_at": "2026-08-04T17:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:41:24Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:41:22Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:41:01Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 169,
+    "updated_at": "2026-08-04T17:39:20Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "AI drug-discovery research assistant \u2014 RAG over PubMed, PubChem, PDB & ClinicalTrials.gov with multi-provider LLM routin",
+    "id": "hopepranav08/Clintra",
+    "language": "Python",
+    "name": "hopepranav08/Clintra",
+    "stars": 3,
+    "updated_at": "2026-08-04T17:38:58Z",
+    "url": "https://github.com/hopepranav08/Clintra"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 40,
+    "updated_at": "2026-08-04T17:43:29Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
+    "id": "rani700/healthcompanion",
+    "language": "Python",
+    "name": "rani700/healthcompanion",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:38:35Z",
+    "url": "https://github.com/rani700/healthcompanion"
+  },
+  {
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript S",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "Python",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 35,
+    "updated_at": "2026-08-04T17:37:25Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 63,
+    "updated_at": "2026-08-04T17:32:17Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:30:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -27,30 +117,12 @@
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:20:42Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:20:39Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Intelligent memory system for AI agents with semantic search, knowledge graphs, and multi-hop reasoning. <200ms P95 late",
     "id": "fitz2882/vesper-memory",
     "language": "TypeScript",
     "name": "fitz2882/vesper-memory",
     "stars": 1,
-    "updated_at": "2026-08-04T17:18:33Z",
+    "updated_at": "2026-08-04T17:41:01Z",
     "url": "https://github.com/fitz2882/vesper-memory"
   },
   {
@@ -59,17 +131,8 @@
     "language": "Python",
     "name": "speedyk-005/vinkra",
     "stars": 1,
-    "updated_at": "2026-08-04T17:17:58Z",
+    "updated_at": "2026-08-04T17:42:18Z",
     "url": "https://github.com/speedyk-005/vinkra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
@@ -113,17 +176,8 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T17:10:28Z",
+    "updated_at": "2026-08-04T17:42:29Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
-    "id": "rani700/healthcompanion",
-    "language": "Python",
-    "name": "rani700/healthcompanion",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:09:00Z",
-    "url": "https://github.com/rani700/healthcompanion"
   },
   {
     "description": "Build your own offline domain-specific AI from your knowledge.",
@@ -178,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-08-04T16:48:41Z",
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33774,
+    "updated_at": "2026-08-04T16:47:59Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -239,7 +302,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64328,
-    "updated_at": "2026-08-04T16:39:43Z",
+    "updated_at": "2026-08-04T17:33:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-04T16:19:52Z",
+    "updated_at": "2026-08-04T17:41:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -310,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58851,
+    "stars": 58852,
     "updated_at": "2026-08-04T16:11:17Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -329,7 +392,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6202,
-    "updated_at": "2026-08-04T17:07:47Z",
+    "updated_at": "2026-08-04T17:42:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/hippmem/hippmem"
   },
   {
-    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
-    "id": "tuned-org-uk/arrowspace-rs",
-    "language": "Rust",
-    "name": "tuned-org-uk/arrowspace-rs",
-    "stars": 40,
-    "updated_at": "2026-08-04T17:30:02Z",
-    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
     "id": "ricmed/zettel_app",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T15:55:57Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51370,
-    "updated_at": "2026-08-04T16:33:38Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
-    "id": "pinecone-io/examples",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-io/examples",
-    "stars": 3035,
-    "updated_at": "2026-08-04T15:49:52Z",
-    "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 23,
-    "updated_at": "2026-08-04T15:42:05Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
-    "id": "puffball1567/koutendb",
-    "language": "Nim",
-    "name": "puffball1567/koutendb",
-    "stars": 15,
-    "updated_at": "2026-08-04T15:43:16Z",
-    "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 710,
-    "updated_at": "2026-08-04T15:33:30Z",
-    "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "Enterprise Retrieval-Augmented Generation (RAG) Chatbot using Google Gemini, ChromaDB, and Python.",
-    "id": "vsiddina409-AI/Enterprise-RAG-Chatbot",
-    "language": "Python",
-    "name": "vsiddina409-AI/Enterprise-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:32:01Z",
-    "url": "https://github.com/vsiddina409-AI/Enterprise-RAG-Chatbot"
   }
 ]
