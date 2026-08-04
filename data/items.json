@@ -1,12 +1,102 @@
 [
   {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:43:03Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
+  },
+  {
+    "description": "Full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response models, 3 languages, 37k judg",
+    "id": "ricardojrsousa/openragbench",
+    "language": "Python",
+    "name": "ricardojrsousa/openragbench",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:41:00Z",
+    "url": "https://github.com/ricardojrsousa/openragbench"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:45:04Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
+    "id": "MassivDash/ai_tools",
+    "language": "Rust",
+    "name": "MassivDash/ai_tools",
+    "stars": 2,
+    "updated_at": "2026-08-04T12:39:03Z",
+    "url": "https://github.com/MassivDash/ai_tools"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-04T12:39:01Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7035,
+    "updated_at": "2026-08-04T12:38:38Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T12:27:35Z",
+    "updated_at": "2026-08-04T12:36:51Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1061,
+    "updated_at": "2026-08-04T12:36:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI-powered renewable energy policy intelligence platform using RAG, semantic search, OCR, and LLMs.",
+    "id": "Sanika-Gajarishi/AI-Policy-Intelligence-System",
+    "language": "Python",
+    "name": "Sanika-Gajarishi/AI-Policy-Intelligence-System",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:33:45Z",
+    "url": "https://github.com/Sanika-Gajarishi/AI-Policy-Intelligence-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T12:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T12:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T12:29:58Z",
+    "updated_at": "2026-08-04T12:44:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-04T12:25:19Z",
+    "updated_at": "2026-08-04T12:33:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -63,24 +153,6 @@
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:18:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:16:48Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
     "description": "C# client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_cs",
     "language": "C#",
@@ -90,21 +162,12 @@
     "url": "https://github.com/SeekStorm/seekstorm_client_cs"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-04T12:15:03Z",
+    "updated_at": "2026-08-04T12:36:09Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -166,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29758,
+    "stars": 29759,
     "updated_at": "2026-08-04T12:04:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -198,24 +261,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1060,
-    "updated_at": "2026-08-04T12:04:38Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response models, 3 languages, 37k judg",
-    "id": "ricardojrsousa/openragbench",
-    "language": "Python",
-    "name": "ricardojrsousa/openragbench",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:53:29Z",
-    "url": "https://github.com/ricardojrsousa/openragbench"
-  },
-  {
     "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
     "id": "BirchKwok/lynsedb",
     "language": "Rust",
@@ -230,7 +275,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-08-04T11:51:15Z",
+    "updated_at": "2026-08-04T12:34:09Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16689,
-    "updated_at": "2026-08-04T12:23:36Z",
+    "updated_at": "2026-08-04T12:32:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 177,
-    "updated_at": "2026-08-04T11:41:28Z",
+    "updated_at": "2026-08-04T12:43:27Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45507,
-    "updated_at": "2026-08-04T11:16:20Z",
+    "updated_at": "2026-08-04T12:44:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
-    "id": "MassivDash/ai_tools",
-    "language": "Rust",
-    "name": "MassivDash/ai_tools",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:16:48Z",
-    "url": "https://github.com/MassivDash/ai_tools"
-  },
-  {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
     "id": "deven96/ahnlich",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T10:36:47Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
-    "id": "pmbstyle/Alice",
-    "language": "TypeScript",
-    "name": "pmbstyle/Alice",
-    "stars": 317,
-    "updated_at": "2026-08-04T11:57:41Z",
-    "url": "https://github.com/pmbstyle/Alice"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58850,
-    "updated_at": "2026-08-04T10:30:20Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1401,
-    "updated_at": "2026-08-04T10:34:14Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T12:25:43Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
   }
 ]
