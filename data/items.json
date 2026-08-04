@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 59,
+    "updated_at": "2026-08-04T13:52:56Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-04T13:51:08Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 710,
+    "updated_at": "2026-08-04T13:50:45Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9408,
+    "updated_at": "2026-08-04T13:56:32Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 839,
+    "updated_at": "2026-08-04T13:59:59Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T13:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -16,6 +79,15 @@
     "stars": 1874,
     "updated_at": "2026-08-04T13:42:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-04T13:41:52Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,21 +126,12 @@
     "url": "https://github.com/Spideyman198/Atlas"
   },
   {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "neonwatty/meme-search",
-    "language": "Ruby",
-    "name": "neonwatty/meme-search",
-    "stars": 710,
-    "updated_at": "2026-08-04T13:42:48Z",
-    "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T13:41:20Z",
+    "updated_at": "2026-08-04T14:00:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -79,42 +142,6 @@
     "stars": 178,
     "updated_at": "2026-08-04T13:33:02Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-04T13:31:52Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:30:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 839,
-    "updated_at": "2026-08-04T13:28:53Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "ChatBotHouse OpenRAGBench \u2014 full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response m",
@@ -158,17 +185,8 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-08-04T13:45:12Z",
+    "updated_at": "2026-08-04T13:49:08Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 62,
-    "updated_at": "2026-08-04T13:41:52Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -239,7 +257,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T13:29:11Z",
+    "updated_at": "2026-08-04T13:55:09Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -265,7 +283,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45505,
+    "stars": 45506,
     "updated_at": "2026-08-04T12:44:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -400,7 +418,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29760,
+    "stars": 29761,
     "updated_at": "2026-08-04T12:04:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 333,
     "updated_at": "2026-08-04T12:02:12Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
-    "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-08-04T11:52:22Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-08-04T12:34:09Z",
-    "url": "https://github.com/weaviate/weaviate-io"
   }
 ]
