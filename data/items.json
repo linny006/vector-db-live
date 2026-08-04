@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T21:15:21Z",
+    "updated_at": "2026-08-04T21:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:27:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -14,8 +23,44 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T21:11:58Z",
+    "updated_at": "2026-08-04T21:26:56Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:20:42Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:23:34Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "\u26a1 Blazingly fast, lightweight Go REST API & SDK for text chunking in RAG (Retrieval-Augmented Generation) pipelines.",
+    "id": "Adedejiosvaldo/rag-chunker",
+    "language": "Go",
+    "name": "Adedejiosvaldo/rag-chunker",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:19:29Z",
+    "url": "https://github.com/Adedejiosvaldo/rag-chunker"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "PerinbaBuilds/Semantic-RAG-Search",
     "stars": 0,
-    "updated_at": "2026-08-04T21:08:40Z",
+    "updated_at": "2026-08-04T21:26:22Z",
     "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
   },
   {
@@ -34,24 +79,6 @@
     "stars": 6426,
     "updated_at": "2026-08-04T21:03:10Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:54:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -67,7 +94,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64331,
+    "stars": 64332,
     "updated_at": "2026-08-04T20:47:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -121,7 +148,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1050,
+    "stars": 1053,
     "updated_at": "2026-08-04T20:37:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:35:38Z",
     "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:35:26Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16691,
-    "updated_at": "2026-08-04T20:17:33Z",
+    "updated_at": "2026-08-04T21:29:02Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -220,8 +238,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7989,
-    "updated_at": "2026-08-04T20:16:38Z",
+    "stars": 7993,
+    "updated_at": "2026-08-04T21:26:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T21:09:06Z",
+    "updated_at": "2026-08-04T21:25:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 33779,
     "updated_at": "2026-08-04T18:40:07Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6202,
-    "updated_at": "2026-08-04T19:33:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-04T18:40:33Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
