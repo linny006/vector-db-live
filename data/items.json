@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-04T22:12:59Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:30:31Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "AleksNeStu/ai-news-scraper",
     "stars": 3,
-    "updated_at": "2026-08-04T22:12:50Z",
+    "updated_at": "2026-08-04T22:29:16Z",
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:27:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-ready RAG system for PDF Q&A \u2014 LangChain + ChromaDB + FastAPI",
+    "id": "rayperatta/rag-document-qa",
+    "language": "Python",
+    "name": "rayperatta/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:28:30Z",
+    "url": "https://github.com/rayperatta/rag-document-qa"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:21:58Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:19:44Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-04T22:18:30Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:12:59Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -31,7 +94,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8002,
+    "stars": 8005,
     "updated_at": "2026-08-04T22:09:06Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -63,24 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A production-ready AI Career Assistant MCP Server built with FastAPI, Python, and the Model Context Protocol (MCP), inte",
     "id": "mubashirnaeemj/career-mcp-server",
     "language": "Python",
@@ -88,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:58:17Z",
     "url": "https://github.com/mubashirnaeemj/career-mcp-server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:56:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:05:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
@@ -221,7 +248,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64332,
-    "updated_at": "2026-08-04T20:47:20Z",
+    "updated_at": "2026-08-04T22:28:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -252,15 +279,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-04T22:14:15Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
     "id": "Vamshi868876/Secure-Enterprise-RAG",
     "language": "CSS",
@@ -274,7 +292,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1055,
+    "stars": 1056,
     "updated_at": "2026-08-04T20:37:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 75,
     "updated_at": "2026-08-04T19:29:39Z",
     "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 107,
-    "updated_at": "2026-08-04T19:28:39Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11074,
-    "updated_at": "2026-08-04T19:23:05Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
