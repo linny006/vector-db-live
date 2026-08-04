@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:30:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1904,
+    "updated_at": "2026-08-04T17:29:38Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-04T17:25:36Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:20:42Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:20:39Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Intelligent memory system for AI agents with semantic search, knowledge graphs, and multi-hop reasoning. <200ms P95 late",
+    "id": "fitz2882/vesper-memory",
+    "language": "TypeScript",
+    "name": "fitz2882/vesper-memory",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:18:33Z",
+    "url": "https://github.com/fitz2882/vesper-memory"
+  },
+  {
+    "description": "An experimental vector database that automatically switches from slow-but-accurate search to fast-but-approximate search",
+    "id": "speedyk-005/vinkra",
+    "language": "Python",
+    "name": "speedyk-005/vinkra",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:17:58Z",
+    "url": "https://github.com/speedyk-005/vinkra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
     "id": "sathyalog/single-index-metadata-rag-olympics",
     "language": "Python",
@@ -16,24 +88,6 @@
     "stars": 1874,
     "updated_at": "2026-08-04T17:14:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:11:37Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:11:34Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
     "description": "Production RAG + agentic oncology knowledge system on Weaviate  , real CIViC/ClinicalTrials.gov/openFDA data, tuned hybr",
@@ -97,24 +151,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T17:02:41Z",
     "url": "https://github.com/devyanshyadav/librenote-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "qdrant/qdrant-client",
     "stars": 1340,
-    "updated_at": "2026-08-04T16:42:10Z",
+    "updated_at": "2026-08-04T17:28:10Z",
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
@@ -216,6 +252,15 @@
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1424,
+    "updated_at": "2026-08-04T16:32:33Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
     "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
     "id": "ElefanteAI/elefante",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 12790,
     "updated_at": "2026-08-04T16:30:55Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-04T17:14:02Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 40,
-    "updated_at": "2026-08-04T15:57:36Z",
+    "updated_at": "2026-08-04T17:30:02Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
@@ -367,6 +403,15 @@
     "stars": 51370,
     "updated_at": "2026-08-04T16:33:38Z",
     "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+    "id": "pinecone-io/examples",
+    "language": "Jupyter Notebook",
+    "name": "pinecone-io/examples",
+    "stars": 3035,
+    "updated_at": "2026-08-04T15:49:52Z",
+    "url": "https://github.com/pinecone-io/examples"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T15:32:01Z",
     "url": "https://github.com/vsiddina409-AI/Enterprise-RAG-Chatbot"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:28:35Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7929,
-    "updated_at": "2026-08-04T15:24:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 9,
-    "updated_at": "2026-08-04T16:45:13Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:11:36Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "A simpler UI for viewing VectorDBBench results.",
-    "id": "s-h-a-d-o-w/vdbb-ui",
-    "language": "TypeScript",
-    "name": "s-h-a-d-o-w/vdbb-ui",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:10:39Z",
-    "url": "https://github.com/s-h-a-d-o-w/vdbb-ui"
   }
 ]
