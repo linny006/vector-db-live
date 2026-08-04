@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T15:45:26Z",
+    "updated_at": "2026-08-04T16:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
+    "id": "qdrant/qdrant-js",
+    "language": "TypeScript",
+    "name": "qdrant/qdrant-js",
+    "stars": 458,
+    "updated_at": "2026-08-04T16:00:09Z",
+    "url": "https://github.com/qdrant/qdrant-js"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:58:47Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 16,
+    "updated_at": "2026-08-04T15:57:41Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-08-04T15:56:50Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -14,17 +50,62 @@
     "language": "Python",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-04T15:44:59Z",
+    "updated_at": "2026-08-04T15:58:49Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:55:57Z",
+    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51369,
-    "updated_at": "2026-08-04T15:45:30Z",
+    "stars": 51370,
+    "updated_at": "2026-08-04T15:55:05Z",
     "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 39,
+    "updated_at": "2026-08-04T15:57:36Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-04T15:54:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:45:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -41,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6202,
-    "updated_at": "2026-08-04T15:41:16Z",
+    "updated_at": "2026-08-04T15:46:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -54,22 +135,13 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
     "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-08-04T15:39:00Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:44:56Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+    "name": "plastic-labs/honcho",
+    "stars": 6421,
+    "updated_at": "2026-08-04T15:38:06Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
@@ -81,15 +153,6 @@
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-04T15:34:34Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
     "id": "neonwatty/meme-search",
     "language": "Ruby",
@@ -99,13 +162,13 @@
     "url": "https://github.com/neonwatty/meme-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Enterprise Retrieval-Augmented Generation (RAG) Chatbot using Google Gemini, ChromaDB, and Python.",
+    "id": "vsiddina409-AI/Enterprise-RAG-Chatbot",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "vsiddina409-AI/Enterprise-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:32:01Z",
+    "url": "https://github.com/vsiddina409-AI/Enterprise-RAG-Chatbot"
   },
   {
     "description": "",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T15:28:35Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
-    "id": "qdrant/qdrant-js",
-    "language": "TypeScript",
-    "name": "qdrant/qdrant-js",
-    "stars": 458,
-    "updated_at": "2026-08-04T15:45:13Z",
-    "url": "https://github.com/qdrant/qdrant-js"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -151,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T15:19:28Z",
     "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:45:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:12:02Z",
-    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T15:05:01Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6422,
-    "updated_at": "2026-08-04T15:38:06Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6319,
-    "updated_at": "2026-08-04T15:44:29Z",
+    "updated_at": "2026-08-04T15:53:52Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -355,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 998,
+    "stars": 1006,
     "updated_at": "2026-08-04T14:24:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T14:14:49Z",
     "url": "https://github.com/Spideyman198/Atlas"
-  },
-  {
-    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
-    "id": "Nikolay1994Kaz/storage_in_memory",
-    "language": "Go",
-    "name": "Nikolay1994Kaz/storage_in_memory",
-    "stars": 6,
-    "updated_at": "2026-08-04T14:12:42Z",
-    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12789,
-    "updated_at": "2026-08-04T14:18:43Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 839,
-    "updated_at": "2026-08-04T14:05:01Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
