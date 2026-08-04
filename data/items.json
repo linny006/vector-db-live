@@ -1,12 +1,48 @@
 [
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T00:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-08-04T00:10:08Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:57:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T00:09:32Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-04T00:10:33Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:07:51Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Build your own offline domain-specific AI from your knowledge.",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "VivekDahariya/PriAI",
     "stars": 0,
-    "updated_at": "2026-08-03T23:56:48Z",
+    "updated_at": "2026-08-04T00:00:27Z",
     "url": "https://github.com/VivekDahariya/PriAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T00:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:57:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
@@ -63,15 +117,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-03T23:50:38Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -81,22 +126,13 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64298,
+    "updated_at": "2026-08-03T23:45:50Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T23:37:39Z",
     "url": "https://github.com/yusufornek/rag-knowledge-ledger"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64297,
-    "updated_at": "2026-08-03T23:45:50Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
@@ -130,7 +157,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 847,
+    "stars": 849,
     "updated_at": "2026-08-03T23:09:13Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -149,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7925,
-    "updated_at": "2026-08-03T23:01:12Z",
+    "updated_at": "2026-08-04T00:07:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -157,7 +184,7 @@
     "id": "ruvnet/rvQR",
     "language": "JavaScript",
     "name": "ruvnet/rvQR",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-03T22:59:59Z",
     "url": "https://github.com/ruvnet/rvQR"
   },
@@ -232,24 +259,6 @@
     "stars": 13,
     "updated_at": "2026-08-03T22:16:03Z",
     "url": "https://github.com/codenamekt/hexus"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:09:26Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:07:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-03T23:59:10Z",
+    "updated_at": "2026-08-04T00:15:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -427,7 +436,7 @@
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
-    "stars": 1607,
+    "stars": 1608,
     "updated_at": "2026-08-03T19:39:25Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T19:17:09Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "hseshadr/edgeproc-core",
-    "language": "Python",
-    "name": "hseshadr/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-08-03T19:17:06Z",
-    "url": "https://github.com/hseshadr/edgeproc-core"
   }
 ]
