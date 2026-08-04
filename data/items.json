@@ -1,5 +1,113 @@
 [
   {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 10,
+    "updated_at": "2026-08-04T14:29:27Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "AI-Powered Document Q&A System using Google Gemini API and ChromaDB.",
+    "id": "hems705/RAG-DOCUMENT-QA",
+    "language": "Python",
+    "name": "hems705/RAG-DOCUMENT-QA",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:27:32Z",
+    "url": "https://github.com/hems705/RAG-DOCUMENT-QA"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 986,
+    "updated_at": "2026-08-04T14:24:12Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1340,
+    "updated_at": "2026-08-04T14:22:27Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
+    "id": "pmbstyle/Alice",
+    "language": "TypeScript",
+    "name": "pmbstyle/Alice",
+    "stars": 317,
+    "updated_at": "2026-08-04T14:21:38Z",
+    "url": "https://github.com/pmbstyle/Alice"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-04T14:19:53Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 94,
+    "updated_at": "2026-08-04T14:24:14Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-04T14:27:28Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
+    "id": "RiceSouffle/atlas-agentic-rag",
+    "language": "Python",
+    "name": "RiceSouffle/atlas-agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-08-04T14:17:21Z",
+    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-04T14:16:57Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:16:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:15:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +117,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-04T14:13:49Z",
-    "url": "https://github.com/ruvnet/rvQR"
+    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
+    "id": "Spideyman198/Atlas",
+    "language": "Python",
+    "name": "Spideyman198/Atlas",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:14:49Z",
+    "url": "https://github.com/Spideyman198/Atlas"
   },
   {
     "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
@@ -25,6 +133,15 @@
     "stars": 6,
     "updated_at": "2026-08-04T14:12:42Z",
     "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12789,
+    "updated_at": "2026-08-04T14:18:43Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
@@ -43,33 +160,6 @@
     "stars": 839,
     "updated_at": "2026-08-04T14:05:01Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
-    "id": "Spideyman198/Atlas",
-    "language": "Python",
-    "name": "Spideyman198/Atlas",
-    "stars": 0,
-    "updated_at": "2026-08-04T14:14:49Z",
-    "url": "https://github.com/Spideyman198/Atlas"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-04T14:03:35Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T14:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
@@ -153,21 +243,12 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:38:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T14:10:05Z",
+    "updated_at": "2026-08-04T14:28:19Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7035,
-    "updated_at": "2026-08-04T14:04:06Z",
+    "updated_at": "2026-08-04T14:17:36Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -279,15 +360,6 @@
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T14:03:28Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -360,15 +432,6 @@
     "url": "https://github.com/Sanika-Gajarishi/AI-Policy-Intelligence-System"
   },
   {
-    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
-    "id": "RiceSouffle/atlas-agentic-rag",
-    "language": "Python",
-    "name": "RiceSouffle/atlas-agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:23:40Z",
-    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
-  },
-  {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
     "id": "Ratnesh-181998/Resume-and-Social-Profiles",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T12:17:42Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_cs"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-04T12:36:09Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Grounded RAG backend \u2014 hybrid BM25 + semantic search with NVIDIA NIM reranking, FastAPI, Chroma Cloud, and Langfuse obse",
-    "id": "Vivekpatil200320/contextquery-backend",
-    "language": "Python",
-    "name": "Vivekpatil200320/contextquery-backend",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:14:30Z",
-    "url": "https://github.com/Vivekpatil200320/contextquery-backend"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7925,
-    "updated_at": "2026-08-04T14:03:17Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "seekstorm_client_pure_py",
-    "id": "SeekStorm/seekstorm_client_pure_py",
-    "language": "Python",
-    "name": "SeekStorm/seekstorm_client_pure_py",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:12:45Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
-  },
-  {
-    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
-    "id": "IbiliAze/chatagent",
-    "language": "Python",
-    "name": "IbiliAze/chatagent",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:05:30Z",
-    "url": "https://github.com/IbiliAze/chatagent"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-04T12:05:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29761,
-    "updated_at": "2026-08-04T12:04:46Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
