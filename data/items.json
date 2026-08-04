@@ -1,12 +1,120 @@
 [
   {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-04T20:45:01Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Hybrid retrieval (dense + BM25 + RRF) with a built-in evaluation harness \u2014 measure your RAG instead of guessing. Chroma/",
+    "id": "laiba-mazhar/ragforge",
+    "language": "\u2014",
+    "name": "laiba-mazhar/ragforge",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:44:49Z",
+    "url": "https://github.com/laiba-mazhar/ragforge"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 23,
+    "updated_at": "2026-08-04T20:44:19Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T20:30:20Z",
+    "updated_at": "2026-08-04T20:42:49Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:42:57Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64329,
+    "updated_at": "2026-08-04T20:40:08Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
+    "id": "Vamshi868876/Secure-Enterprise-RAG",
+    "language": "CSS",
+    "name": "Vamshi868876/Secure-Enterprise-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:39:00Z",
+    "url": "https://github.com/Vamshi868876/Secure-Enterprise-RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1049,
+    "updated_at": "2026-08-04T20:37:42Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:35:38Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:35:26Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-04T20:34:51Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
+    "id": "StephenSook/erasure-proof",
+    "language": "Go",
+    "name": "StephenSook/erasure-proof",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:33:49Z",
+    "url": "https://github.com/StephenSook/erasure-proof"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -14,7 +122,7 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-04T20:29:54Z",
+    "updated_at": "2026-08-04T20:35:02Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -23,71 +131,8 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6426,
-    "updated_at": "2026-08-04T20:29:33Z",
+    "updated_at": "2026-08-04T20:40:03Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-04T20:26:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:25:40Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-04T20:25:04Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A production-grade Secure Enterprise RAG Architecture featuring Role-Based Access Control (RBAC), JWT Authentication, an",
-    "id": "Vamshi868876/Secure-Enterprise-RAG",
-    "language": "CSS",
-    "name": "Vamshi868876/Secure-Enterprise-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:24:43Z",
-    "url": "https://github.com/Vamshi868876/Secure-Enterprise-RAG"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1047,
-    "updated_at": "2026-08-04T20:23:00Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:22:24Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:28:49Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
@@ -99,11 +144,38 @@
     "url": "https://github.com/IbiliAze/chatagent"
   },
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-04T20:26:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T20:25:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:22:24Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 7976,
+    "stars": 7981,
     "updated_at": "2026-08-04T20:16:38Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -124,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T20:16:16Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T20:15:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:02:24Z",
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-04T20:29:51Z",
-    "url": "https://github.com/tradik/mddb"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -329,17 +383,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6318,
-    "updated_at": "2026-08-04T20:17:36Z",
+    "updated_at": "2026-08-04T20:32:40Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 21,
-    "updated_at": "2026-08-04T19:03:46Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "The base Installation Source for Horizon Brain Builder",
@@ -403,50 +448,5 @@
     "stars": 458,
     "updated_at": "2026-08-04T18:29:38Z",
     "url": "https://github.com/qdrant/qdrant-js"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 461,
-    "updated_at": "2026-08-04T18:18:32Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "RAG pipeline for natural-language Q&A over large PDFs using LangChain, FAISS vector store, and Streamlit. Chunked retrie",
-    "id": "Abdullah1dev/ai-pdf-assistant-rag",
-    "language": "Python",
-    "name": "Abdullah1dev/ai-pdf-assistant-rag",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:10:26Z",
-    "url": "https://github.com/Abdullah1dev/ai-pdf-assistant-rag"
-  },
-  {
-    "description": "Private per-patient medical RAG system: upload records (incl. scanned & handwritten), ask grounded, cited questions. Fas",
-    "id": "rani700/healthcompanion",
-    "language": "Python",
-    "name": "rani700/healthcompanion",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:09:24Z",
-    "url": "https://github.com/rani700/healthcompanion"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64329,
-    "updated_at": "2026-08-04T18:08:24Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
-    "id": "sathyalog/single-index-metadata-rag-olympics",
-    "language": "Python",
-    "name": "sathyalog/single-index-metadata-rag-olympics",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:07:50Z",
-    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
   }
 ]
