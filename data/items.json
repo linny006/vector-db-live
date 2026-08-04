@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T08:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
+    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "language": "Python",
+    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:55:44Z",
+    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-04T07:57:55Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-04T07:54:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45503,
+    "updated_at": "2026-08-04T07:52:18Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-04T07:47:30Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T07:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -63,24 +126,6 @@
     "url": "https://github.com/MassivDash/ai_tools"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-04T07:34:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-04T07:41:16Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
     "id": "edumgt/docker-class",
     "language": "Python",
@@ -88,24 +133,6 @@
     "stars": 5,
     "updated_at": "2026-08-04T07:33:57Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T07:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -184,8 +211,8 @@
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
-    "stars": 4416,
-    "updated_at": "2026-08-04T06:51:23Z",
+    "stars": 4417,
+    "updated_at": "2026-08-04T07:53:22Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16686,
-    "updated_at": "2026-08-04T07:41:21Z",
+    "updated_at": "2026-08-04T07:57:26Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7924,
-    "updated_at": "2026-08-04T07:41:34Z",
+    "updated_at": "2026-08-04T07:50:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -256,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 936,
+    "stars": 939,
     "updated_at": "2026-08-04T06:16:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -295,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T06:02:59Z",
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
-    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "language": "Python",
-    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:52:45Z",
-    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -396,15 +414,6 @@
     "url": "https://github.com/mhayes853/sqlite-vec-data"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45502,
-    "updated_at": "2026-08-04T07:32:38Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2227,
     "updated_at": "2026-08-04T03:50:01Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 460,
-    "updated_at": "2026-08-04T03:48:49Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
