@@ -1,10 +1,109 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T04:14:27Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
+    "id": "matuteiglesias/kb-contracts",
+    "language": "TypeScript",
+    "name": "matuteiglesias/kb-contracts",
+    "stars": 1,
+    "updated_at": "2026-08-04T04:14:17Z",
+    "url": "https://github.com/matuteiglesias/kb-contracts"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 78,
+    "updated_at": "2026-08-04T04:12:54Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "SQLiteData support for SQLite Vec.",
+    "id": "mhayes853/sqlite-vec-data",
+    "language": "Swift",
+    "name": "mhayes853/sqlite-vec-data",
+    "stars": 5,
+    "updated_at": "2026-08-04T04:12:35Z",
+    "url": "https://github.com/mhayes853/sqlite-vec-data"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:11:58Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1061,
+    "updated_at": "2026-08-04T04:10:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-08-04T04:07:29Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:04:15Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
+    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
+    "id": "StephenSook/erasure-proof",
+    "language": "Go",
+    "name": "StephenSook/erasure-proof",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:12:34Z",
+    "url": "https://github.com/StephenSook/erasure-proof"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-04T04:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T04:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 880,
+    "stars": 884,
     "updated_at": "2026-08-04T03:50:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -45,24 +144,6 @@
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-04T03:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -76,18 +157,9 @@
     "id": "Lxiny-zy/SparkOffer",
     "language": "Python",
     "name": "Lxiny-zy/SparkOffer",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-04T03:41:03Z",
     "url": "https://github.com/Lxiny-zy/SparkOffer"
-  },
-  {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-08-04T03:35:01Z",
-    "url": "https://github.com/getbullet-app/paraql"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -117,6 +189,15 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15371,
+    "updated_at": "2026-08-04T03:18:15Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
     "id": "pg-cuvs/pg_cuvs",
     "language": "C",
@@ -124,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T03:22:22Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 78,
-    "updated_at": "2026-08-04T03:14:55Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
@@ -216,15 +288,6 @@
     "url": "https://github.com/zilliztech/vts"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15370,
-    "updated_at": "2026-08-04T03:18:15Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
     "id": "MarwaBS/production-rag-platform",
     "language": "Python",
@@ -256,7 +319,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51357,
+    "stars": 51356,
     "updated_at": "2026-08-04T02:17:26Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -279,15 +342,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1061,
-    "updated_at": "2026-08-04T01:59:15Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
     "id": "TAIPANBOX/engram",
     "language": "Python",
@@ -301,7 +355,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45500,
+    "stars": 45499,
     "updated_at": "2026-08-04T01:56:18Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:38:40Z",
     "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
-    "id": "jeganxthan/Anvil",
-    "language": "Python",
-    "name": "jeganxthan/Anvil",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:37:08Z",
-    "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:33:47Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:21:25Z",
-    "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:20:35Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:18:56Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:17:43Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
