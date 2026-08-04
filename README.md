@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 16:59 UTC
+> ⏰ Last updated: 2026-08-04 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-04 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
-| 2 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | Python | 2026-08-04 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
-| 3 | [nishan-paul-2022/cmatrix-agentic-red-team](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team) | 0 | Python | 2026-08-04 | 🔴 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode |
-| 4 | [PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant](https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant) | 1 | Python | 2026-08-04 |  |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-04 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-04 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
+| 3 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | Python | 2026-08-04 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
+| 4 | [nishan-paul-2022/cmatrix-agentic-red-team](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team) | 0 | Python | 2026-08-04 | 🔴 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode |
+| 5 | [PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant](https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant) | 1 | Python | 2026-08-04 |  |
+| 6 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-04 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
 | 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 8 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6422 | Python | 2026-08-04 |  Memory library for building stateful agents |
 | 9 | [bunlongheng/ai-lab](https://github.com/bunlongheng/ai-lab) | 0 | TypeScript | 2026-08-04 | Local-first RAG second brain - key-free embeddings, SQLite vector store, Obsidian ingestion, MCP server for Claude Code |

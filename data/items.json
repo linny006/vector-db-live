@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:59:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
     "id": "Divine-vision-visiondivine21/less-tokens",
     "language": "\u2014",
@@ -43,15 +52,6 @@
     "stars": 47,
     "updated_at": "2026-08-04T16:47:47Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
