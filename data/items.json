@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-04T14:00:23Z",
+    "updated_at": "2026-08-04T14:15:32Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
+    "id": "ruvnet/rvQR",
+    "language": "JavaScript",
+    "name": "ruvnet/rvQR",
+    "stars": 4,
+    "updated_at": "2026-08-04T14:13:49Z",
+    "url": "https://github.com/ruvnet/rvQR"
+  },
+  {
+    "description": "In-memory vector database with a Redis-compatible (RESP) API \u2014 HNSW + scalar quantization, multi-tenant filtered search,",
+    "id": "Nikolay1994Kaz/storage_in_memory",
+    "language": "Go",
+    "name": "Nikolay1994Kaz/storage_in_memory",
+    "stars": 6,
+    "updated_at": "2026-08-04T14:12:42Z",
+    "url": "https://github.com/Nikolay1994Kaz/storage_in_memory"
+  },
+  {
+    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
+    "id": "sathyalog/single-index-metadata-rag-olympics",
+    "language": "Python",
+    "name": "sathyalog/single-index-metadata-rag-olympics",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:08:26Z",
+    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 839,
+    "updated_at": "2026-08-04T14:05:01Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
+    "id": "Spideyman198/Atlas",
+    "language": "Python",
+    "name": "Spideyman198/Atlas",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:14:49Z",
+    "url": "https://github.com/Spideyman198/Atlas"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-04T14:03:35Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T14:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:59:11Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -16,15 +88,6 @@
     "stars": 59,
     "updated_at": "2026-08-04T13:52:56Z",
     "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-04T13:51:08Z",
-    "url": "https://github.com/ruvnet/rvQR"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -43,24 +106,6 @@
     "stars": 9408,
     "updated_at": "2026-08-04T13:56:32Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 839,
-    "updated_at": "2026-08-04T13:59:59Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T13:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -117,21 +162,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
-    "id": "Spideyman198/Atlas",
-    "language": "Python",
-    "name": "Spideyman198/Atlas",
-    "stars": 0,
-    "updated_at": "2026-08-04T13:37:07Z",
-    "url": "https://github.com/Spideyman198/Atlas"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6201,
-    "updated_at": "2026-08-04T14:00:15Z",
+    "updated_at": "2026-08-04T14:10:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 178,
     "updated_at": "2026-08-04T13:33:02Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "ChatBotHouse OpenRAGBench \u2014 full-stack multilingual RAG benchmark: 6 embedders, 5 vector DBs, 5 rerankers, 27 response m",
-    "id": "ricardojrsousa/openragbench",
-    "language": "Python",
-    "name": "ricardojrsousa/openragbench",
-    "stars": 0,
-    "updated_at": "2026-08-04T13:28:16Z",
-    "url": "https://github.com/ricardojrsousa/openragbench"
   },
   {
     "description": "Short courses from DeepLearning.AI on topics on Generative AI , new tools and skills.",
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7035,
-    "updated_at": "2026-08-04T13:25:11Z",
+    "updated_at": "2026-08-04T14:04:06Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -257,7 +284,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-04T13:55:09Z",
+    "updated_at": "2026-08-04T14:03:28Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -383,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 7925,
-    "updated_at": "2026-08-04T13:36:05Z",
+    "updated_at": "2026-08-04T14:03:17Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 29761,
     "updated_at": "2026-08-04T12:04:46Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:02:58Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Python client for the SeekStorm vector & lexical search server",
-    "id": "SeekStorm/seekstorm_client_py",
-    "language": "Rust",
-    "name": "SeekStorm/seekstorm_client_py",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:03:57Z",
-    "url": "https://github.com/SeekStorm/seekstorm_client_py"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-04T12:02:12Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
