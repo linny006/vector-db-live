@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-04T16:12:01Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58851,
+    "updated_at": "2026-08-04T16:11:17Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:10:26Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-08-04T16:14:15Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6202,
+    "updated_at": "2026-08-04T16:06:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Companion repo del libro 'AI che Ragiona' (G. Zileni, 2026) \u2014 Knowledge Graph production-ready con Graph-RAG ibrido, ser",
+    "id": "agent-engineering-studio/knowledge-graph",
+    "language": "Python",
+    "name": "agent-engineering-studio/knowledge-graph",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:06:24Z",
+    "url": "https://github.com/agent-engineering-studio/knowledge-graph"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:04:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "NLP + RAG technique for requirements engineering.",
+    "id": "Semillero-GIDSYC/NLP4RE",
+    "language": "Jupyter Notebook",
+    "name": "Semillero-GIDSYC/NLP4RE",
+    "stars": 4,
+    "updated_at": "2026-08-04T16:02:54Z",
+    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:02:48Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:00:50Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T16:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,6 +117,15 @@
     "url": "https://github.com/qdrant/qdrant-js"
   },
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:58:49Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
     "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
     "id": "nishan-paul-2022/cmatrix-agentic-red-team",
     "language": "Python",
@@ -32,26 +140,8 @@
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 16,
-    "updated_at": "2026-08-04T15:57:41Z",
+    "updated_at": "2026-08-04T16:15:01Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-08-04T15:56:50Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:58:49Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 51370,
-    "updated_at": "2026-08-04T15:55:05Z",
+    "updated_at": "2026-08-04T16:07:23Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -90,40 +180,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-04T15:45:27Z",
+    "updated_at": "2026-08-04T16:15:14Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:44:10Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6202,
-    "updated_at": "2026-08-04T15:46:06Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -252,15 +315,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:05:01Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -293,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16690,
-    "updated_at": "2026-08-04T15:43:31Z",
+    "updated_at": "2026-08-04T16:06:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -301,7 +355,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29769,
+    "stars": 29771,
     "updated_at": "2026-08-04T14:51:11Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6319,
-    "updated_at": "2026-08-04T15:53:52Z",
+    "updated_at": "2026-08-04T16:14:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -382,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1006,
+    "stars": 1007,
     "updated_at": "2026-08-04T14:24:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "qdrant/qdrant-client",
     "stars": 1340,
-    "updated_at": "2026-08-04T15:13:24Z",
+    "updated_at": "2026-08-04T16:06:27Z",
     "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
-    "id": "pmbstyle/Alice",
-    "language": "TypeScript",
-    "name": "pmbstyle/Alice",
-    "stars": 317,
-    "updated_at": "2026-08-04T14:21:38Z",
-    "url": "https://github.com/pmbstyle/Alice"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-04T14:19:53Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 94,
-    "updated_at": "2026-08-04T14:24:14Z",
-    "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
-    "id": "RiceSouffle/atlas-agentic-rag",
-    "language": "Python",
-    "name": "RiceSouffle/atlas-agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-08-04T14:17:21Z",
-    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
-  },
-  {
-    "description": "Move files between devices with a screen and a camera \u2014 offline optical transfer of RVF cognitive containers and WASM ar",
-    "id": "ruvnet/rvQR",
-    "language": "JavaScript",
-    "name": "ruvnet/rvQR",
-    "stars": 4,
-    "updated_at": "2026-08-04T14:16:57Z",
-    "url": "https://github.com/ruvnet/rvQR"
-  },
-  {
-    "description": "Enterprise AI copilot for Odoo Community Edition combining Python, PostgreSQL, Odoo ORM, LlamaIndex, and RAG to deliver ",
-    "id": "Spideyman198/Atlas",
-    "language": "Python",
-    "name": "Spideyman198/Atlas",
-    "stars": 0,
-    "updated_at": "2026-08-04T14:14:49Z",
-    "url": "https://github.com/Spideyman198/Atlas"
   }
 ]
