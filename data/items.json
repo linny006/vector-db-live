@@ -1,5 +1,32 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-04T21:36:21Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
+    "id": "PerinbaBuilds/Semantic-RAG-Search",
+    "language": "Python",
+    "name": "PerinbaBuilds/Semantic-RAG-Search",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:33:10Z",
+    "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,6 +54,15 @@
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 7994,
+    "updated_at": "2026-08-04T21:26:29Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:19:29Z",
     "url": "https://github.com/Adedejiosvaldo/rag-chunker"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
-    "id": "PerinbaBuilds/Semantic-RAG-Search",
-    "language": "Python",
-    "name": "PerinbaBuilds/Semantic-RAG-Search",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:26:22Z",
-    "url": "https://github.com/PerinbaBuilds/Semantic-RAG-Search"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -148,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1053,
+    "stars": 1054,
     "updated_at": "2026-08-04T20:37:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -198,15 +216,6 @@
     "url": "https://github.com/IbiliAze/chatagent"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-04T20:26:52Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -232,15 +241,6 @@
     "stars": 16691,
     "updated_at": "2026-08-04T21:29:02Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 7993,
-    "updated_at": "2026-08-04T21:26:29Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-04T21:11:28Z",
+    "updated_at": "2026-08-04T21:35:45Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33779,
-    "updated_at": "2026-08-04T18:40:07Z",
+    "updated_at": "2026-08-04T21:31:48Z",
     "url": "https://github.com/qdrant/qdrant"
   }
 ]
