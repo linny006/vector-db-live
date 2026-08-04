@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-04T00:15:22Z",
+    "updated_at": "2026-08-04T00:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:26:55Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 16,
+    "updated_at": "2026-08-04T00:25:46Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1463,
+    "updated_at": "2026-08-04T00:20:47Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-04T00:18:36Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-04T00:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-04T00:10:33Z",
+    "updated_at": "2026-08-04T00:18:17Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:00:27Z",
     "url": "https://github.com/VivekDahariya/PriAI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-04T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T23:51:31Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-03T23:51:12Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -131,7 +158,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64298,
-    "updated_at": "2026-08-03T23:45:50Z",
+    "updated_at": "2026-08-04T00:26:06Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -157,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 849,
+    "stars": 850,
     "updated_at": "2026-08-03T23:09:13Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -297,15 +324,6 @@
     "url": "https://github.com/amcaaron/rag-document-assistant"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:55:38Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
     "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
     "id": "MZohaibBaig/rag-search-api",
     "language": "Python",
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6315,
-    "updated_at": "2026-08-04T00:15:14Z",
+    "updated_at": "2026-08-04T00:27:18Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 45492,
     "updated_at": "2026-08-03T19:42:20Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1608,
-    "updated_at": "2026-08-03T19:39:25Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Local-first memory service for AI agents, with HTTP and MCP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-03T19:17:09Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   }
 ]
