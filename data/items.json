@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T11:57:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8031,
+    "updated_at": "2026-08-05T11:56:43Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live governance dashboard for RAG Sentinel. Hallucination detection, source freshness, citation quality, drift monitorin",
+    "id": "mizcausevic-dev/rag-sentinel-dashboard",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/rag-sentinel-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:51:26Z",
+    "url": "https://github.com/mizcausevic-dev/rag-sentinel-dashboard"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:52:36Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "What a vector index actually costs, month 1 to month 36. Vendor rate cards are JSON \u2014 corrections welcome, especially fr",
+    "id": "hev/vector-cost",
+    "language": "HTML",
+    "name": "hev/vector-cost",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:48:27Z",
+    "url": "https://github.com/hev/vector-cost"
+  },
+  {
+    "description": "Agentic RFP evaluation system on LangGraph \u2014 RAG-based proposal scoring, human-in-the-loop review, live pipeline executi",
+    "id": "apoorv890/RFPilot",
+    "language": "Python",
+    "name": "apoorv890/RFPilot",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:47:57Z",
+    "url": "https://github.com/apoorv890/RFPilot"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3200,
+    "updated_at": "2026-08-05T11:47:45Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 179,
-    "updated_at": "2026-08-05T11:40:01Z",
+    "stars": 180,
+    "updated_at": "2026-08-05T11:46:10Z",
     "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -36,15 +117,6 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T11:34:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -52,24 +124,6 @@
     "stars": 45516,
     "updated_at": "2026-08-05T11:34:19Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI DataLake",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6203,
-    "updated_at": "2026-08-05T11:42:45Z",
+    "updated_at": "2026-08-05T11:52:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29791,
-    "updated_at": "2026-08-05T11:16:50Z",
+    "updated_at": "2026-08-05T11:56:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
-    "description": "What a vector index actually costs, month 1 to month 36. Vendor rate cards are JSON \u2014 corrections welcome, especially fr",
-    "id": "hev/vector-cost",
-    "language": "HTML",
-    "name": "hev/vector-cost",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:06:29Z",
-    "url": "https://github.com/hev/vector-cost"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -151,15 +196,6 @@
     "stars": 16695,
     "updated_at": "2026-08-05T11:35:37Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3200,
-    "updated_at": "2026-08-05T10:59:45Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -178,24 +214,6 @@
     "stars": 1062,
     "updated_at": "2026-08-05T11:38:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:32:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8030,
-    "updated_at": "2026-08-05T11:14:53Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "One private memory across Claude, ChatGPT, Cursor, and every MCP client \u2014 on-device, zero-knowledge. Plaintext never lea",
@@ -337,8 +355,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33789,
-    "updated_at": "2026-08-05T09:46:36Z",
+    "stars": 33791,
+    "updated_at": "2026-08-05T11:59:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -355,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1126,
+    "stars": 1128,
     "updated_at": "2026-08-05T09:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T08:59:55Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Run local LLMs the easy way. CLI + KDE Plasma 6 widget. Wraps llama.cpp in Docker. No telemetry.",
-    "id": "ra-yavuz/hydra-llm",
-    "language": "Python",
-    "name": "ra-yavuz/hydra-llm",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:54:35Z",
-    "url": "https://github.com/ra-yavuz/hydra-llm"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:49:11Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
   }
 ]
