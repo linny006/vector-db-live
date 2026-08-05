@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "topoteretes/cognee",
+    "stars": 29791,
+    "updated_at": "2026-08-05T11:13:47Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 12,
-    "updated_at": "2026-08-05T10:59:02Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:13:18Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:07:35Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
     "description": "What a vector index actually costs, month 1 to month 36. Vendor rate cards are JSON \u2014 corrections welcome, especially fr",
@@ -23,8 +32,62 @@
     "language": "HTML",
     "name": "hev/vector-cost",
     "stars": 0,
-    "updated_at": "2026-08-05T10:55:53Z",
+    "updated_at": "2026-08-05T11:06:29Z",
     "url": "https://github.com/hev/vector-cost"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 179,
+    "updated_at": "2026-08-05T11:10:53Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-05T11:01:45Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16695,
+    "updated_at": "2026-08-05T11:11:41Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3200,
+    "updated_at": "2026-08-05T10:59:45Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -41,26 +104,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1062,
-    "updated_at": "2026-08-05T10:52:39Z",
+    "updated_at": "2026-08-05T11:10:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:52:27Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3200,
-    "updated_at": "2026-08-05T10:59:45Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T10:47:55Z",
+    "updated_at": "2026-08-05T11:08:59Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -77,17 +122,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-05T10:46:51Z",
+    "updated_at": "2026-08-05T11:13:01Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:45:51Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -95,7 +131,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8030,
-    "updated_at": "2026-08-05T10:42:30Z",
+    "updated_at": "2026-08-05T11:14:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T10:40:34Z",
     "url": "https://github.com/sovseal/core"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16694,
-    "updated_at": "2026-08-05T10:59:56Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -198,15 +225,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29790,
-    "updated_at": "2026-08-05T10:59:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -229,7 +247,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58860,
+    "stars": 58861,
     "updated_at": "2026-08-05T10:07:43Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T10:05:16Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
-    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "language": "JavaScript",
-    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:01:38Z",
-    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -301,7 +310,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1120,
+    "stars": 1121,
     "updated_at": "2026-08-05T09:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:41:18Z",
     "url": "https://github.com/sudheermishra/GenAI-Learning"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 179,
-    "updated_at": "2026-08-05T10:56:27Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "C# client for the SeekStorm vector & lexical search server",
