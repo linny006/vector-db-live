@@ -1,11 +1,83 @@
 [
   {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:44:12Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "seekstorm_client_java",
+    "id": "SeekStorm/seekstorm_client_java",
+    "language": "Java",
+    "name": "SeekStorm/seekstorm_client_java",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:39:10Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_java"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T08:37:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:36:48Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-08-05T08:32:28Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
+    "id": "jayemscript/atlas-rag",
+    "language": "Python",
+    "name": "jayemscript/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:31:51Z",
+    "url": "https://github.com/jayemscript/atlas-rag"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 243,
+    "updated_at": "2026-08-05T08:30:57Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T08:30:22Z",
+    "updated_at": "2026-08-05T08:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,13 +90,13 @@
     "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "Python",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:26:53Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16694,
+    "updated_at": "2026-08-05T08:37:22Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
@@ -34,6 +106,15 @@
     "stars": 3,
     "updated_at": "2026-08-05T08:25:59Z",
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8025,
+    "updated_at": "2026-08-05T08:42:56Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
@@ -54,22 +135,13 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8024,
-    "updated_at": "2026-08-05T08:24:46Z",
-    "url": "https://github.com/MariaDB/server"
+    "name": "topoteretes/cognee",
+    "stars": 29790,
+    "updated_at": "2026-08-05T08:16:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -104,7 +176,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T08:27:50Z",
+    "updated_at": "2026-08-05T08:44:07Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -216,15 +288,6 @@
     "url": "https://github.com/BBSRGUY/pathcode-memory"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29789,
-    "updated_at": "2026-08-05T08:16:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
     "id": "Mr-DS-ML-85/StrikeDB",
     "language": "Rust",
@@ -279,15 +342,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16693,
-    "updated_at": "2026-08-05T08:27:32Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -322,15 +376,6 @@
     "stars": 5,
     "updated_at": "2026-08-05T06:35:26Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T06:29:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T05:26:45Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6319,
-    "updated_at": "2026-08-05T04:46:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Self-correcting Agentic RAG for enterprise document Q&A, built with LangGraph, Chroma, OpenAI/Ollama, Tavily, FastAPI, a",
-    "id": "rhenus-Q/Enterprise-Agentic-RAG",
-    "language": "Python",
-    "name": "rhenus-Q/Enterprise-Agentic-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:34:47Z",
-    "url": "https://github.com/rhenus-Q/Enterprise-Agentic-RAG"
-  },
-  {
-    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
-    "id": "fishmem-labs/fishmem",
-    "language": "TypeScript",
-    "name": "fishmem-labs/fishmem",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:32:41Z",
-    "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
-    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
-    "id": "StephenSook/erasure-proof",
-    "language": "Go",
-    "name": "StephenSook/erasure-proof",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:25:56Z",
-    "url": "https://github.com/StephenSook/erasure-proof"
-  },
-  {
-    "description": "An interactive RAG Learning Studio that teaches Retrieval-Augmented Generation through visual experimentation. Explore p",
-    "id": "uhmanju/rag-learning-studio",
-    "language": "TypeScript",
-    "name": "uhmanju/rag-learning-studio",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:25:13Z",
-    "url": "https://github.com/uhmanju/rag-learning-studio"
   }
 ]
