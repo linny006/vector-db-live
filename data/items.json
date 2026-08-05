@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-05T14:00:13Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:58:36Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T13:56:27Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 89,
+    "updated_at": "2026-08-05T13:53:44Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:51:50Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Hybrid RAG engine combining vector embeddings with knowledge graph structures for multi-hop document retrieval",
     "id": "Shubham-raut-860/Vector-Graph-RAG",
     "language": "Python",
@@ -49,7 +112,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3201,
+    "stars": 3202,
     "updated_at": "2026-08-05T13:37:55Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -79,42 +142,6 @@
     "stars": 333,
     "updated_at": "2026-08-05T13:34:11Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-05T13:42:33Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-05T13:30:52Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6204,
-    "updated_at": "2026-08-05T13:30:40Z",
+    "updated_at": "2026-08-05T13:54:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33792,
-    "updated_at": "2026-08-05T13:37:37Z",
+    "updated_at": "2026-08-05T13:58:03Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -189,15 +216,6 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 12,
-    "updated_at": "2026-08-05T13:10:23Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29794,
-    "updated_at": "2026-08-05T13:06:59Z",
+    "updated_at": "2026-08-05T13:52:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-05T13:36:04Z",
+    "updated_at": "2026-08-05T13:54:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 1063,
     "updated_at": "2026-08-05T12:58:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 89,
-    "updated_at": "2026-08-05T13:35:38Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-05T12:52:23Z",
+    "updated_at": "2026-08-05T13:52:26Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 1874,
     "updated_at": "2026-08-05T13:44:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:14:04Z",
-    "url": "https://github.com/kalisio/knowledge"
   },
   {
     "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
