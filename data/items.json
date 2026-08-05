@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T15:15:23Z",
+    "updated_at": "2026-08-05T15:27:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:25:52Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-05T15:22:03Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 185,
+    "updated_at": "2026-08-05T15:20:42Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:16:28Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:16:25Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:15:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Shell",
+    "name": "qdrant/skills",
+    "stars": 220,
+    "updated_at": "2026-08-05T15:15:36Z",
+    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-05T15:11:58Z",
+    "updated_at": "2026-08-05T15:15:35Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:13:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -41,26 +113,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6204,
-    "updated_at": "2026-08-05T15:08:58Z",
+    "updated_at": "2026-08-05T15:26:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:08:40Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:08:38Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T15:07:50Z",
+    "updated_at": "2026-08-05T15:17:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -103,25 +157,16 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1149,
+    "stars": 1151,
     "updated_at": "2026-08-05T15:02:48Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 184,
-    "updated_at": "2026-08-05T15:13:54Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29794,
+    "stars": 29795,
     "updated_at": "2026-08-05T14:59:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16696,
-    "updated_at": "2026-08-05T15:09:40Z",
+    "updated_at": "2026-08-05T15:19:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -261,24 +306,6 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-05T14:23:24Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:15:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
     "id": "eniglio-ctrl/enterprise-rag-platform",
     "language": "Java",
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33795,
-    "updated_at": "2026-08-05T15:03:56Z",
+    "updated_at": "2026-08-05T15:26:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 7037,
     "updated_at": "2026-08-05T14:08:05Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Shell",
-    "name": "qdrant/skills",
-    "stars": 220,
-    "updated_at": "2026-08-05T14:07:46Z",
-    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T12:59:00Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:55:04Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-05T15:13:50Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
