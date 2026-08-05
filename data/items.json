@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
+    "id": "aicubetechnology/qilbee-mycelial-network",
+    "language": "Python",
+    "name": "aicubetechnology/qilbee-mycelial-network",
+    "stars": 1,
+    "updated_at": "2026-08-05T01:44:16Z",
+    "url": "https://github.com/aicubetechnology/qilbee-mycelial-network"
+  },
+  {
+    "description": "CaraBot\u662f\u57fa\u4e8eLangGraph\u4e0eRAG\u6784\u5efa\u7684Agent\u667a\u80fd\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff0c\u4f9d\u6258FastAPI\u3001Milvus\u7b49\u6280\u672f\u6808\u6253\u9020\u4f01\u4e1a\u7ea7\u667a\u80fd\u95ee\u7b54\u670d\u52a1\u3002\u652f\u6301\u591a\u683c\u5f0f\u6587\u6863\u89e3\u6790\u3001\u8bed\u4e49\u68c0\u7d22\u4e0e\u591a\u8f6e\u5bf9\u8bdd\uff0c\u517c\u5bb9\u4e3b\u6d41\u5927\u6a21\u578b\uff0c\u5177\u5907API\u8ba4\u8bc1\u3001\u6d41\u5f0f\u8f93\u51fa\u3001\u5206\u5e03\u5f0f\u90e8\u7f72\u7b49\u80fd\u529b",
+    "id": "zhao11122233/CaraBot",
+    "language": "Python",
+    "name": "zhao11122233/CaraBot",
+    "stars": 1,
+    "updated_at": "2026-08-05T01:43:27Z",
+    "url": "https://github.com/zhao11122233/CaraBot"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-05T01:42:33Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:34:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-08-05T01:33:24Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-08-05T01:33:19Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-08-05T01:33:15Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
     "id": "kichikubeihei/CodeMemoryPrime",
     "language": "Rust",
@@ -34,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T01:20:48Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -162,6 +225,15 @@
     "url": "https://github.com/VivekDahariya/PriAI"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8013,
+    "updated_at": "2026-08-05T01:41:40Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:59:14Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:31:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -225,6 +288,15 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1607,
+    "updated_at": "2026-08-04T23:54:03Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -241,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T23:50:31Z",
     "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1608,
-    "updated_at": "2026-08-04T23:54:03Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -342,15 +405,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-05T01:20:41Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
     "id": "ElefanteAI/elefante",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1069,
     "updated_at": "2026-08-04T22:33:31Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 127,
-    "updated_at": "2026-08-04T22:32:19Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Production-ready RAG system for PDF Q&A \u2014 LangChain + ChromaDB + FastAPI",
-    "id": "rayperatta/rag-document-qa",
-    "language": "Python",
-    "name": "rayperatta/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-08-04T22:28:30Z",
-    "url": "https://github.com/rayperatta/rag-document-qa"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:19:44Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8011,
-    "updated_at": "2026-08-05T00:35:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Enterprise Knowledge Platform using Retrieval-Augmented Generation (RAG), Machine Learning, LangChain, ChromaDB, and loc",
-    "id": "TejasTomar28/the-raven-ai",
-    "language": "Python",
-    "name": "TejasTomar28/the-raven-ai",
-    "stars": 0,
-    "updated_at": "2026-08-04T22:07:38Z",
-    "url": "https://github.com/TejasTomar28/the-raven-ai"
-  },
-  {
-    "description": "A production-ready AI Career Assistant MCP Server built with FastAPI, Python, and the Model Context Protocol (MCP), inte",
-    "id": "mubashirnaeemj/career-mcp-server",
-    "language": "Python",
-    "name": "mubashirnaeemj/career-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:58:17Z",
-    "url": "https://github.com/mubashirnaeemj/career-mcp-server"
   }
 ]
