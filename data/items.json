@@ -1,5 +1,140 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-08-05T18:13:45Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:12:37Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:12:02Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
+    "id": "IbiliAze/chatagent",
+    "language": "Python",
+    "name": "IbiliAze/chatagent",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:11:37Z",
+    "url": "https://github.com/IbiliAze/chatagent"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1064,
+    "updated_at": "2026-08-05T18:11:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:10:33Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-05T18:09:59Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-08-05T18:09:26Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:08:23Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-08-05T18:08:20Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-08-05T18:05:56Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-05T18:04:41Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:01:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -27,6 +162,15 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:56:12Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
     "description": "RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Gemini and Python.",
     "id": "kanikapitaliya/rag-data-engineering-assistant",
     "language": "Python",
@@ -50,17 +194,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6319,
-    "updated_at": "2026-08-05T17:54:39Z",
+    "updated_at": "2026-08-05T18:11:01Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-05T17:47:36Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -68,53 +203,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T17:47:05Z",
+    "updated_at": "2026-08-05T18:07:06Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:45:32Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T18:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-05T17:56:01Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1064,
-    "updated_at": "2026-08-05T17:39:41Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -225,15 +315,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:01:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -275,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16697,
-    "updated_at": "2026-08-05T17:46:40Z",
+    "updated_at": "2026-08-05T18:05:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -310,7 +391,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58865,
+    "stars": 58866,
     "updated_at": "2026-08-05T16:39:50Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:06:31Z",
     "url": "https://github.com/hiteshwarke/awesome-agent-tools"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33797,
-    "updated_at": "2026-08-05T16:00:19Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:47:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3204,
-    "updated_at": "2026-08-05T15:58:06Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:51:20Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Advanced Legal Document Question Answering System using Hybrid RAG, BM25, Vector Search, Re-ranking, and RAGAS Evaluatio",
-    "id": "kiran-tariq/legal-rag-qa",
-    "language": "Python",
-    "name": "kiran-tariq/legal-rag-qa",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:51:02Z",
-    "url": "https://github.com/kiran-tariq/legal-rag-qa"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:38:31Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "Production RAG architecture for epi methodology Q&A: Pinecone retrieval, LangChain orchestration, Streamlit frontend",
-    "id": "OmidGheysar/epi-rag",
-    "language": "Python",
-    "name": "OmidGheysar/epi-rag",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:38:03Z",
-    "url": "https://github.com/OmidGheysar/epi-rag"
-  },
-  {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "HTML",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:52:11Z",
-    "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:31:12Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   }
 ]
