@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "armbur19-collab/chimerai-app",
+    "language": "TypeScript",
+    "name": "armbur19-collab/chimerai-app",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:10:50Z",
+    "url": "https://github.com/armbur19-collab/chimerai-app"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6204,
+    "updated_at": "2026-08-05T15:08:58Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:08:40Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:08:38Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:07:50Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:05:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 524,
+    "updated_at": "2026-08-05T15:03:55Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-05T15:03:35Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1149,
+    "updated_at": "2026-08-05T15:02:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 184,
+    "updated_at": "2026-08-05T15:02:21Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +108,31 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29794,
+    "updated_at": "2026-08-05T14:59:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
     "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 62,
-    "updated_at": "2026-08-05T14:55:39Z",
-    "url": "https://github.com/infino-ai/infino"
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:58:53Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4417,
+    "updated_at": "2026-08-05T14:58:01Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -36,40 +153,13 @@
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 183,
-    "updated_at": "2026-08-05T14:46:30Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
     "id": "oracle/ai-optimizer",
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 96,
-    "updated_at": "2026-08-05T14:45:08Z",
+    "updated_at": "2026-08-05T15:11:28Z",
     "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "",
-    "id": "armbur19-collab/chimerai-app",
-    "language": "TypeScript",
-    "name": "armbur19-collab/chimerai-app",
-    "stars": 1,
-    "updated_at": "2026-08-05T14:43:08Z",
-    "url": "https://github.com/armbur19-collab/chimerai-app"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -77,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9407,
-    "updated_at": "2026-08-05T14:43:01Z",
+    "updated_at": "2026-08-05T15:01:12Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -99,30 +189,12 @@
     "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:36:52Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:36:50Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16696,
-    "updated_at": "2026-08-05T14:53:34Z",
+    "updated_at": "2026-08-05T15:09:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-08-05T14:33:41Z",
     "url": "https://github.com/cyborginc/cyborgdb-go"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:52:34Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -189,15 +252,6 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6204,
-    "updated_at": "2026-08-05T14:59:56Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33795,
-    "updated_at": "2026-08-05T14:51:40Z",
+    "updated_at": "2026-08-05T15:03:56Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -265,7 +319,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1063,
+    "stars": 1064,
     "updated_at": "2026-08-05T14:07:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -295,15 +349,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T14:59:38Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29794,
-    "updated_at": "2026-08-05T14:59:25Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-05T13:52:26Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58862,
-    "updated_at": "2026-08-05T12:52:05Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:50:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:45:30Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64373,
-    "updated_at": "2026-08-05T12:40:35Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:38:14Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   }
 ]
