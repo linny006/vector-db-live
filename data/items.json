@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:14:53Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1874,
-    "updated_at": "2026-08-05T11:57:52Z",
+    "updated_at": "2026-08-05T12:12:53Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:11:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6203,
+    "updated_at": "2026-08-05T12:13:10Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
+    "id": "pmbstyle/Alice",
+    "language": "TypeScript",
+    "name": "pmbstyle/Alice",
+    "stars": 317,
+    "updated_at": "2026-08-05T12:06:03Z",
+    "url": "https://github.com/pmbstyle/Alice"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -16,6 +70,15 @@
     "stars": 8031,
     "updated_at": "2026-08-05T11:56:43Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29793,
+    "updated_at": "2026-08-05T11:56:39Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Live governance dashboard for RAG Sentinel. Hallucination detection, source freshness, citation quality, drift monitorin",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3200,
-    "updated_at": "2026-08-05T11:47:45Z",
+    "updated_at": "2026-08-05T12:09:59Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -67,27 +130,9 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 180,
+    "stars": 181,
     "updated_at": "2026-08-05T11:46:10Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:45:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -135,33 +180,6 @@
     "url": "https://github.com/csmw-ai/LakeMind"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6203,
-    "updated_at": "2026-08-05T11:52:29Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:16:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29791,
-    "updated_at": "2026-08-05T11:56:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
     "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
     "language": "JavaScript",
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16695,
-    "updated_at": "2026-08-05T11:35:37Z",
+    "updated_at": "2026-08-05T12:01:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58862,
-    "updated_at": "2026-08-05T10:07:43Z",
+    "updated_at": "2026-08-05T12:14:59Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33791,
-    "updated_at": "2026-08-05T11:59:57Z",
+    "updated_at": "2026-08-05T12:15:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -373,7 +391,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1128,
+    "stars": 1131,
     "updated_at": "2026-08-05T09:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:06:27Z",
     "url": "https://github.com/lekli-1/ai-chatbot"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "TusKANNy/kannolo",
-    "language": "Rust",
-    "name": "TusKANNy/kannolo",
-    "stars": 75,
-    "updated_at": "2026-08-05T09:01:58Z",
-    "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:59:55Z",
-    "url": "https://github.com/nacre-work/nacre"
   }
 ]
