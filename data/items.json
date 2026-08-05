@@ -1,12 +1,57 @@
 [
   {
+    "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-08-05T16:50:16Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T16:48:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6319,
+    "updated_at": "2026-08-05T16:52:40Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Multi-tenant, production-grade RAG platform: async resumable ingestion, hybrid retrieval with reranking, cited streaming",
     "id": "umeshkedimi/enterprise_rag_platform",
     "language": "\u2014",
     "name": "umeshkedimi/enterprise_rag_platform",
     "stars": 0,
-    "updated_at": "2026-08-05T16:45:19Z",
+    "updated_at": "2026-08-05T16:46:02Z",
     "url": "https://github.com/umeshkedimi/enterprise_rag_platform"
+  },
+  {
+    "description": "Production-ready AI Agent Memory library for Python, FastAPI, LangChain, LangGraph, MCP, and LLM applications. Supports ",
+    "id": "hiteshwarke/agent-memory",
+    "language": "\u2014",
+    "name": "hiteshwarke/agent-memory",
+    "stars": 0,
+    "updated_at": "2026-08-05T16:45:27Z",
+    "url": "https://github.com/hiteshwarke/agent-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T16:41:03Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6319,
-    "updated_at": "2026-08-05T16:38:53Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -61,15 +97,6 @@
     "stars": 6204,
     "updated_at": "2026-08-05T16:45:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T16:02:46Z",
+    "updated_at": "2026-08-05T16:48:43Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1064,
-    "updated_at": "2026-08-05T16:26:01Z",
+    "updated_at": "2026-08-05T16:53:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 185,
-    "updated_at": "2026-08-05T15:20:42Z",
+    "updated_at": "2026-08-05T16:52:20Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 9407,
     "updated_at": "2026-08-05T16:08:48Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A browser app presenting data from the Georgia Project. ",
-    "id": "KatherineMossDeveloper/Midnight-Train",
-    "language": "TypeScript",
-    "name": "KatherineMossDeveloper/Midnight-Train",
-    "stars": 1,
-    "updated_at": "2026-08-05T14:40:04Z",
-    "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16696,
-    "updated_at": "2026-08-05T16:41:42Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-go",
-    "language": "Go",
-    "name": "cyborginc/cyborgdb-go",
-    "stars": 9,
-    "updated_at": "2026-08-05T14:33:41Z",
-    "url": "https://github.com/cyborginc/cyborgdb-go"
   }
 ]
