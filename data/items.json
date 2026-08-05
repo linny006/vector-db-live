@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T05:02:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T05:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 8,
-    "updated_at": "2026-08-05T04:55:27Z",
+    "updated_at": "2026-08-05T05:03:38Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -54,24 +81,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -99,6 +108,15 @@
     "url": "https://github.com/StephenSook/erasure-proof"
   },
   {
+    "description": "An interactive RAG Learning Studio that teaches Retrieval-Augmented Generation through visual experimentation. Explore p",
+    "id": "uhmanju/rag-learning-studio",
+    "language": "TypeScript",
+    "name": "uhmanju/rag-learning-studio",
+    "stars": 1,
+    "updated_at": "2026-08-05T04:25:13Z",
+    "url": "https://github.com/uhmanju/rag-learning-studio"
+  },
+  {
     "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
     "id": "felixzhu97/explore-ai",
     "language": "Java",
@@ -108,6 +126,15 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
+    "description": "RAG chat assistant over a local markdown knowledge base. Streamlit UI, LangChain + Chroma   retrieval, OpenAI gpt-4.1-na",
+    "id": "akhra92/Simple-RAG-Model",
+    "language": "Python",
+    "name": "akhra92/Simple-RAG-Model",
+    "stars": 0,
+    "updated_at": "2026-08-05T04:21:47Z",
+    "url": "https://github.com/akhra92/Simple-RAG-Model"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 74,
     "updated_at": "2026-08-05T04:21:40Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T04:15:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
@@ -160,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T04:06:36Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1464,
+    "updated_at": "2026-08-05T04:03:06Z",
+    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "The AI search platform",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T01:43:27Z",
     "url": "https://github.com/zhao11122233/CaraBot"
-  },
-  {
-    "description": "A local-first, privacy-preserving temporal forensics platform. Uses multi-agent orchestration to build chain-of-custody ",
-    "id": "HarshkumarG007/ChronoScope",
-    "language": "Python",
-    "name": "HarshkumarG007/ChronoScope",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:40:28Z",
-    "url": "https://github.com/HarshkumarG007/ChronoScope"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-08-05T02:02:44Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-08-05T02:14:04Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
   }
 ]
