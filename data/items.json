@@ -1,5 +1,140 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-05T13:13:37Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-08-05T13:12:12Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:12:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 12,
+    "updated_at": "2026-08-05T13:10:23Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:07:25Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-08-05T13:06:42Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:05:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6204,
+    "updated_at": "2026-08-05T13:12:20Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8034,
+    "updated_at": "2026-08-05T13:04:29Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:03:43Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:03:40Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9408,
+    "updated_at": "2026-08-05T13:13:31Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T13:12:38Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33791,
+    "updated_at": "2026-08-05T13:01:58Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -9,12 +144,21 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1063,
+    "updated_at": "2026-08-05T12:58:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 89,
-    "updated_at": "2026-08-05T12:57:38Z",
+    "updated_at": "2026-08-05T13:12:21Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -25,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T12:55:04Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-05T12:57:20Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -63,15 +198,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:50:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -88,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T12:45:30Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -144,15 +261,6 @@
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1063,
-    "updated_at": "2026-08-05T12:58:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
     "id": "Dakera-AI/dakera-rs",
     "language": "Rust",
@@ -169,24 +277,6 @@
     "stars": 45518,
     "updated_at": "2026-08-05T12:30:20Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8033,
-    "updated_at": "2026-08-05T12:28:57Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-05T12:37:55Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -234,24 +324,6 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:11:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6203,
-    "updated_at": "2026-08-05T12:54:55Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
     "id": "pmbstyle/Alice",
     "language": "TypeScript",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29793,
-    "updated_at": "2026-08-05T12:42:30Z",
+    "updated_at": "2026-08-05T13:06:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -304,15 +376,6 @@
     "stars": 181,
     "updated_at": "2026-08-05T11:46:10Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 12,
-    "updated_at": "2026-08-05T11:37:07Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -374,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16695,
-    "updated_at": "2026-08-05T12:59:36Z",
+    "updated_at": "2026-08-05T13:13:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 62,
     "updated_at": "2026-08-05T10:54:11Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "One private memory across Claude, ChatGPT, Cursor, and every MCP client \u2014 on-device, zero-knowledge. Plaintext never lea",
-    "id": "sovseal/core",
-    "language": "TypeScript",
-    "name": "sovseal/core",
-    "stars": 7,
-    "updated_at": "2026-08-05T10:40:34Z",
-    "url": "https://github.com/sovseal/core"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-08-05T10:33:06Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-05T10:28:59Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:25:55Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 17,
-    "updated_at": "2026-08-05T10:23:41Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-08-05T10:23:11Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
-    "id": "p3aRA55/DevAssistant-MCP",
-    "language": "Python",
-    "name": "p3aRA55/DevAssistant-MCP",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:23:04Z",
-    "url": "https://github.com/p3aRA55/DevAssistant-MCP"
   }
 ]
