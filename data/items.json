@@ -1,12 +1,75 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:12:42Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3202,
+    "updated_at": "2026-08-05T14:11:35Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:11:34Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7037,
+    "updated_at": "2026-08-05T14:08:05Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Shell",
+    "name": "qdrant/skills",
+    "stars": 220,
+    "updated_at": "2026-08-05T14:07:46Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1063,
+    "updated_at": "2026-08-05T14:07:10Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T14:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:05:43Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:05:40Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -14,8 +77,53 @@
     "language": "TypeScript",
     "name": "ZeR020/opencode-mem0",
     "stars": 12,
-    "updated_at": "2026-08-05T14:00:13Z",
+    "updated_at": "2026-08-05T14:13:41Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 78,
+    "updated_at": "2026-08-05T14:01:45Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T14:01:45Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8036,
+    "updated_at": "2026-08-05T14:10:04Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
@@ -27,12 +135,21 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33794,
+    "updated_at": "2026-08-05T14:12:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T13:56:27Z",
+    "updated_at": "2026-08-05T14:05:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -45,6 +162,15 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29795,
+    "updated_at": "2026-08-05T13:52:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -52,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T13:51:50Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hybrid RAG engine combining vector embeddings with knowledge graph structures for multi-hop document retrieval",
@@ -77,7 +194,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T13:43:16Z",
+    "updated_at": "2026-08-05T14:00:54Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -85,7 +202,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 181,
+    "stars": 182,
     "updated_at": "2026-08-05T13:43:04Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -106,15 +223,6 @@
     "stars": 62,
     "updated_at": "2026-08-05T13:38:09Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3202,
-    "updated_at": "2026-08-05T13:37:55Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -144,49 +252,13 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8035,
-    "updated_at": "2026-08-05T13:30:08Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:27:29Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:27:26Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6204,
-    "updated_at": "2026-08-05T13:54:49Z",
+    "updated_at": "2026-08-05T14:05:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33792,
-    "updated_at": "2026-08-05T13:58:03Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -196,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T13:16:14Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-05T13:24:22Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -225,15 +288,6 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29794,
-    "updated_at": "2026-08-05T13:52:36Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-05T13:54:17Z",
+    "updated_at": "2026-08-05T14:01:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-05T12:59:00Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1063,
-    "updated_at": "2026-08-05T12:58:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -328,7 +373,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64371,
+    "stars": 64372,
     "updated_at": "2026-08-05T12:40:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -347,17 +392,8 @@
     "language": "C++",
     "name": "infiniflow/infinity",
     "stars": 4661,
-    "updated_at": "2026-08-05T12:36:41Z",
+    "updated_at": "2026-08-05T14:03:37Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:35:22Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
@@ -387,15 +423,6 @@
     "url": "https://github.com/iharshkaran/HyperAI"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T13:44:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
     "id": "pmbstyle/Alice",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T11:48:27Z",
     "url": "https://github.com/hev/vector-cost"
-  },
-  {
-    "description": "Agentic RFP evaluation system on LangGraph \u2014 RAG-based proposal scoring, human-in-the-loop review, live pipeline executi",
-    "id": "apoorv890/RFPilot",
-    "language": "Python",
-    "name": "apoorv890/RFPilot",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:47:57Z",
-    "url": "https://github.com/apoorv890/RFPilot"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 96,
-    "updated_at": "2026-08-05T11:36:52Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-08-05T11:37:35Z",
-    "url": "https://github.com/siaarzh/scrybe"
   }
 ]
