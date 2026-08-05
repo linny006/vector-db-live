@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T05:02:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-05T05:28:33Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8017,
+    "updated_at": "2026-08-05T05:28:08Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-05T05:26:45Z",
+    "url": "https://github.com/siaarzh/scrybe"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-05T05:00:25Z",
+    "updated_at": "2026-08-05T05:15:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T05:00:21Z",
+    "updated_at": "2026-08-05T05:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T05:02:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -387,15 +414,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8016,
-    "updated_at": "2026-08-05T04:53:35Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "An Amazon S3 service implementation based on Netty.",
     "id": "Robothy/local-s3",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-05T01:51:39Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
-    "id": "aicubetechnology/qilbee-mycelial-network",
-    "language": "Python",
-    "name": "aicubetechnology/qilbee-mycelial-network",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:45:32Z",
-    "url": "https://github.com/aicubetechnology/qilbee-mycelial-network"
-  },
-  {
-    "description": "CaraBot\u662f\u57fa\u4e8eLangGraph\u4e0eRAG\u6784\u5efa\u7684Agent\u667a\u80fd\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff0c\u4f9d\u6258FastAPI\u3001Milvus\u7b49\u6280\u672f\u6808\u6253\u9020\u4f01\u4e1a\u7ea7\u667a\u80fd\u95ee\u7b54\u670d\u52a1\u3002\u652f\u6301\u591a\u683c\u5f0f\u6587\u6863\u89e3\u6790\u3001\u8bed\u4e49\u68c0\u7d22\u4e0e\u591a\u8f6e\u5bf9\u8bdd\uff0c\u517c\u5bb9\u4e3b\u6d41\u5927\u6a21\u578b\uff0c\u5177\u5907API\u8ba4\u8bc1\u3001\u6d41\u5f0f\u8f93\u51fa\u3001\u5206\u5e03\u5f0f\u90e8\u7f72\u7b49\u80fd\u529b",
-    "id": "zhao11122233/CaraBot",
-    "language": "Python",
-    "name": "zhao11122233/CaraBot",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:43:27Z",
-    "url": "https://github.com/zhao11122233/CaraBot"
   }
 ]
