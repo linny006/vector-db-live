@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 05:29 UTC
+> ⏰ Last updated: 2026-08-05 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 3 | Python | 2026-08-05 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
-| 2 | [MariaDB/server](https://github.com/MariaDB/server) | 8017 | C++ | 2026-08-05 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 3 | [siaarzh/scrybe](https://github.com/siaarzh/scrybe) | 3 | TypeScript | 2026-08-05 | Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 3 | Python | 2026-08-05 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
+| 3 | [MariaDB/server](https://github.com/MariaDB/server) | 8018 | C++ | 2026-08-05 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 4 | [siaarzh/scrybe](https://github.com/siaarzh/scrybe) | 3 | TypeScript | 2026-08-05 | Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu |
 | 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1874 | Go | 2026-08-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 7 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2230 | JavaScript | 2026-08-05 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
