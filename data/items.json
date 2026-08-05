@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An Amazon S3 service implementation based on Netty.",
+    "id": "Robothy/local-s3",
+    "language": "Java",
+    "name": "Robothy/local-s3",
+    "stars": 71,
+    "updated_at": "2026-08-05T02:01:26Z",
+    "url": "https://github.com/Robothy/local-s3"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Ou",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -27,22 +54,13 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8013,
+    "updated_at": "2026-08-05T02:11:11Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-08-05T01:33:24Z",
+    "updated_at": "2026-08-05T02:02:44Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "cyborginc/cyborgdb-js",
     "stars": 7,
-    "updated_at": "2026-08-05T01:33:19Z",
+    "updated_at": "2026-08-05T02:14:04Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "cyborginc/cyborgdb-go",
     "stars": 9,
-    "updated_at": "2026-08-05T01:33:15Z",
+    "updated_at": "2026-08-05T02:07:46Z",
     "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 178,
-    "updated_at": "2026-08-05T01:59:57Z",
+    "updated_at": "2026-08-05T02:15:27Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/VivekDahariya/PriAI"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8013,
-    "updated_at": "2026-08-05T01:49:02Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -283,7 +292,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33782,
+    "stars": 33781,
     "updated_at": "2026-08-05T00:05:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -328,7 +337,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64340,
+    "stars": 64342,
     "updated_at": "2026-08-04T23:51:06Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -410,7 +419,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-08-05T01:59:24Z",
+    "updated_at": "2026-08-05T02:10:52Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T23:20:54Z",
     "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "175+ pip-installable tool integrations for the ModuleX runtime \u2014 one pydantic manifest contract, entry-point discovery, ",
-    "id": "ModuleXAI/modulex-integrations",
-    "language": "Python",
-    "name": "ModuleXAI/modulex-integrations",
-    "stars": 25,
-    "updated_at": "2026-08-04T23:18:15Z",
-    "url": "https://github.com/ModuleXAI/modulex-integrations"
   }
 ]
