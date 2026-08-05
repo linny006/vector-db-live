@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T10:00:23Z",
+    "updated_at": "2026-08-05T10:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
+    "id": "p3aRA55/DevAssistant-MCP",
+    "language": "Python",
+    "name": "p3aRA55/DevAssistant-MCP",
+    "stars": 0,
+    "updated_at": "2026-08-05T10:15:17Z",
+    "url": "https://github.com/p3aRA55/DevAssistant-MCP"
+  },
+  {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-08-05T10:05:16Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
     "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
@@ -14,8 +32,26 @@
     "language": "JavaScript",
     "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
     "stars": 1,
-    "updated_at": "2026-08-05T09:55:52Z",
+    "updated_at": "2026-08-05T10:01:38Z",
     "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:01:33Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Governance and observability layer for enterprise RAG systems. Chunk quality scoring, source freshness audits, retrieval",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:54:19Z",
     "url": "https://github.com/mizcausevic-dev/rag-sentinel"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:52:21Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
@@ -59,8 +86,17 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8029,
-    "updated_at": "2026-08-05T09:47:07Z",
+    "updated_at": "2026-08-05T10:11:02Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33788,
+    "updated_at": "2026-08-05T09:46:36Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -70,15 +106,6 @@
     "stars": 45517,
     "updated_at": "2026-08-05T10:00:21Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -94,7 +121,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1113,
+    "stars": 1114,
     "updated_at": "2026-08-05T09:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T09:44:03Z",
+    "updated_at": "2026-08-05T10:12:21Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29789,
-    "updated_at": "2026-08-05T09:38:12Z",
+    "updated_at": "2026-08-05T10:09:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16694,
-    "updated_at": "2026-08-05T09:59:41Z",
+    "updated_at": "2026-08-05T10:06:45Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +365,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T09:36:28Z",
+    "updated_at": "2026-08-05T10:15:18Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:21:55Z",
     "url": "https://github.com/BBSRGUY/pathcode-memory"
-  },
-  {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-05T09:31:15Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 8,
-    "updated_at": "2026-08-05T06:56:54Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) application for semantic document question answering using LangChain, Chr",
-    "id": "shiznit9/AI-Document-Assistant",
-    "language": "Python",
-    "name": "shiznit9/AI-Document-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-05T06:49:11Z",
-    "url": "https://github.com/shiznit9/AI-Document-Assistant"
   }
 ]
