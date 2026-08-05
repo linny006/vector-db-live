@@ -1,5 +1,32 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 832,
+    "updated_at": "2026-08-05T00:27:28Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-08-05T00:18:27Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 178,
-    "updated_at": "2026-08-05T00:13:54Z",
+    "updated_at": "2026-08-05T00:27:17Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -70,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-08-04T23:52:28Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64338,
+    "updated_at": "2026-08-04T23:51:06Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -135,15 +162,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64337,
-    "updated_at": "2026-08-04T23:51:06Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 111,
-    "updated_at": "2026-08-04T23:45:20Z",
+    "updated_at": "2026-08-05T00:19:32Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-05T00:07:21Z",
+    "updated_at": "2026-08-05T00:29:44Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -265,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1066,
+    "stars": 1067,
     "updated_at": "2026-08-04T22:33:31Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -396,15 +414,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 27,
-    "updated_at": "2026-08-04T20:49:20Z",
-    "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:39:00Z",
     "url": "https://github.com/Vamshi868876/Secure-Enterprise-RAG"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:35:38Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
   }
 ]
