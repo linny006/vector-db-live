@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-05T07:27:55Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T07:24:28Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Store agent memories as paths through a grammar instead of dense vectors: 1.6 bytes per memory with exact structured ret",
+    "id": "BBSRGUY/pathcode-memory",
+    "language": "Python",
+    "name": "BBSRGUY/pathcode-memory",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:21:55Z",
+    "url": "https://github.com/BBSRGUY/pathcode-memory"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-05T07:21:33Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4417,
+    "updated_at": "2026-08-05T07:25:03Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-05T07:14:50Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -18,22 +90,13 @@
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8023,
+    "updated_at": "2026-08-05T07:28:07Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -72,15 +135,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-05T06:50:27Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "A modular Retrieval-Augmented Generation (RAG) application for semantic document question answering using LangChain, Chr",
     "id": "shiznit9/AI-Document-Assistant",
     "language": "Python",
@@ -104,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16693,
-    "updated_at": "2026-08-05T07:12:56Z",
+    "updated_at": "2026-08-05T07:25:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -112,7 +166,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15376,
+    "stars": 15377,
     "updated_at": "2026-08-05T06:46:42Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -126,15 +180,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8022,
-    "updated_at": "2026-08-05T07:05:30Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Python SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
     "id": "Dakera-AI/dakera-py",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-05T06:35:26Z",
     "url": "https://github.com/Dakera-AI/dakera-py"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-05T06:34:23Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -187,15 +223,6 @@
     "stars": 8,
     "updated_at": "2026-08-05T06:22:07Z",
     "url": "https://github.com/Metaworkers-ai/governedmemory"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-05T06:07:26Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -266,7 +293,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-05T04:52:18Z",
+    "updated_at": "2026-08-05T07:30:04Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T04:21:47Z",
     "url": "https://github.com/akhra92/Simple-RAG-Model"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T07:14:50Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
@@ -430,23 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-05T03:35:51Z",
     "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:35:19Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "An AI-powered intent detection engine that analyses company signals across different field and engagement to predict whi",
-    "id": "Danish08654/B2B-Buying-Signal-Detector",
-    "language": "Python",
-    "name": "Danish08654/B2B-Buying-Signal-Detector",
-    "stars": 3,
-    "updated_at": "2026-08-05T03:31:29Z",
-    "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
   }
 ]
