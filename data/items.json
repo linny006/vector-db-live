@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official repository of the kANNolo library.",
+    "id": "TusKANNy/kannolo",
+    "language": "Rust",
+    "name": "TusKANNy/kannolo",
+    "stars": 75,
+    "updated_at": "2026-08-05T08:59:53Z",
+    "url": "https://github.com/TusKANNy/kannolo"
+  },
+  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-05T08:44:12Z",
+    "updated_at": "2026-08-05T08:59:55Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7037,
+    "updated_at": "2026-08-05T08:57:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Run local LLMs the easy way. CLI + KDE Plasma 6 widget. Wraps llama.cpp in Docker. No telemetry.",
+    "id": "ra-yavuz/hydra-llm",
+    "language": "Python",
+    "name": "ra-yavuz/hydra-llm",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:54:35Z",
+    "url": "https://github.com/ra-yavuz/hydra-llm"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:49:11Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 4,
+    "updated_at": "2026-08-05T08:47:59Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "Vector Law is a Retrieval-Augmented Generation (RAG) chatbot that lets users ask questions about US federal law and rece",
+    "id": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "language": "JavaScript",
+    "name": "Najeeb-Patoana/Vector-Law-Legal-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-05T09:00:00Z",
+    "url": "https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "seekstorm_client_java",
@@ -63,24 +135,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16694,
-    "updated_at": "2026-08-05T08:37:22Z",
+    "updated_at": "2026-08-05T08:48:27Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
-    "id": "edumgt/docker-class",
-    "language": "Python",
-    "name": "edumgt/docker-class",
-    "stars": 4,
-    "updated_at": "2026-08-05T08:22:47Z",
-    "url": "https://github.com/edumgt/docker-class"
-  },
-  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29790,
-    "updated_at": "2026-08-05T08:16:20Z",
+    "updated_at": "2026-08-05T08:52:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -176,7 +221,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T08:44:07Z",
+    "updated_at": "2026-08-05T08:58:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 179,
-    "updated_at": "2026-08-05T07:47:29Z",
+    "updated_at": "2026-08-05T08:57:45Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:45:50Z",
     "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7036,
-    "updated_at": "2026-08-05T07:41:14Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T08:19:33Z",
+    "updated_at": "2026-08-05T08:46:00Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T06:02:14Z",
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 6,
-    "updated_at": "2026-08-05T06:01:59Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2231,
-    "updated_at": "2026-08-05T05:34:02Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 3,
-    "updated_at": "2026-08-05T05:28:33Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-08-05T05:26:45Z",
-    "url": "https://github.com/siaarzh/scrybe"
   }
 ]
