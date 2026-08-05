@@ -1,11 +1,83 @@
 [
   {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-05T07:57:18Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:57:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T07:55:05Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4417,
+    "updated_at": "2026-08-05T07:50:11Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
+    "id": "jayemscript/atlas-rag",
+    "language": "Python",
+    "name": "jayemscript/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:49:44Z",
+    "url": "https://github.com/jayemscript/atlas-rag"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 179,
+    "updated_at": "2026-08-05T07:47:29Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
+    "id": "jeganxthan/Anvil",
+    "language": "Python",
+    "name": "jeganxthan/Anvil",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:45:50Z",
+    "url": "https://github.com/jeganxthan/Anvil"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T07:45:21Z",
+    "updated_at": "2026-08-05T08:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-05T07:43:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T07:32:46Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -126,40 +180,13 @@
     "url": "https://github.com/BBSRGUY/pathcode-memory"
   },
   {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-05T07:21:33Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-05T07:25:03Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29789,
-    "updated_at": "2026-08-05T07:43:49Z",
+    "updated_at": "2026-08-05T07:56:14Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 179,
-    "updated_at": "2026-08-05T07:45:15Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
@@ -176,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8023,
-    "updated_at": "2026-08-05T07:28:07Z",
+    "updated_at": "2026-08-05T07:52:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T07:42:37Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:58:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Postgres MCP Server",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T06:53:28Z",
+    "updated_at": "2026-08-05T07:55:52Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16693,
-    "updated_at": "2026-08-05T07:35:15Z",
+    "updated_at": "2026-08-05T07:47:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/akhra92/Simple-RAG-Model"
   },
   {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "Python",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:12:08Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 1062,
     "updated_at": "2026-08-05T04:09:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1464,
-    "updated_at": "2026-08-05T04:03:06Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
