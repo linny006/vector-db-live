@@ -1,5 +1,32 @@
 [
   {
+    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
+    "id": "jayemscript/atlas-rag",
+    "language": "Python",
+    "name": "jayemscript/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:03:30Z",
+    "url": "https://github.com/jayemscript/atlas-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "Python",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:49:44Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -61,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:45:50Z",
     "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI search platform",
@@ -257,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16693,
-    "updated_at": "2026-08-05T07:47:15Z",
+    "updated_at": "2026-08-05T08:03:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {

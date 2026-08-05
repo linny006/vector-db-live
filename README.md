@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 08:00 UTC
+> ⏰ Last updated: 2026-08-05 08:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-05 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 4 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-05 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 5 | [jayemscript/atlas-rag](https://github.com/jayemscript/atlas-rag) | 0 | Python | 2026-08-05 | A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases,  |
-| 6 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 179 | Rust | 2026-08-05 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 7 | [jeganxthan/Anvil](https://github.com/jeganxthan/Anvil) | 0 | Python | 2026-08-05 | Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [jayemscript/atlas-rag](https://github.com/jayemscript/atlas-rag) | 0 | Python | 2026-08-05 | A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases,  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-05 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 7 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-05 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 8 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 179 | Rust | 2026-08-05 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 9 | [jeganxthan/Anvil](https://github.com/jeganxthan/Anvil) | 0 | Python | 2026-08-05 | Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama |
 | 10 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7036 | Java | 2026-08-05 | The AI search platform |
 | 11 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-05 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
 | 12 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
