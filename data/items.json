@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-05T16:12:07Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58864,
+    "updated_at": "2026-08-05T16:10:02Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:09:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-ready AI Agent tools, reusable libraries, enterprise utilities, RAG, MCP, workflows, OCR, observability, prom",
+    "id": "hiteshwarke/awesome-agent-tools",
+    "language": "\u2014",
+    "name": "hiteshwarke/awesome-agent-tools",
+    "stars": 0,
+    "updated_at": "2026-08-05T16:06:31Z",
+    "url": "https://github.com/hiteshwarke/awesome-agent-tools"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T16:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T15:58:21Z",
+    "updated_at": "2026-08-05T16:02:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -22,7 +67,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3203,
+    "stars": 3204,
     "updated_at": "2026-08-05T15:58:06Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -59,17 +104,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6319,
-    "updated_at": "2026-08-05T15:56:21Z",
+    "updated_at": "2026-08-05T16:10:15Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-05T15:56:00Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -90,40 +126,13 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "Production-ready AI Agent tools, reusable libraries, enterprise utilities, RAG, MCP, workflows, OCR, observability, prom",
-    "id": "hiteshwarke/awesome-agent-tools",
-    "language": "\u2014",
-    "name": "hiteshwarke/awesome-agent-tools",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:49:17Z",
-    "url": "https://github.com/hiteshwarke/awesome-agent-tools"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58863,
-    "updated_at": "2026-08-05T15:50:38Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Advanced Legal Document Question Answering System using Hybrid RAG, BM25, Vector Search, Re-ranking, and RAGAS Evaluatio",
+    "id": "kiran-tariq/legal-rag-qa",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "kiran-tariq/legal-rag-qa",
     "stars": 2,
-    "updated_at": "2026-08-05T15:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:42:01Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "updated_at": "2026-08-05T15:51:02Z",
+    "url": "https://github.com/kiran-tariq/legal-rag-qa"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -292,7 +301,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1157,
+    "stars": 1161,
     "updated_at": "2026-08-05T15:02:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 96,
-    "updated_at": "2026-08-05T15:11:28Z",
+    "updated_at": "2026-08-05T16:12:37Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9407,
-    "updated_at": "2026-08-05T15:01:12Z",
+    "updated_at": "2026-08-05T16:08:48Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16696,
-    "updated_at": "2026-08-05T15:48:07Z",
+    "updated_at": "2026-08-05T16:12:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T14:11:34Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7037,
-    "updated_at": "2026-08-05T14:08:05Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
