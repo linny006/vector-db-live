@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-05T08:29:02Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
+    "id": "jayemscript/atlas-rag",
+    "language": "Python",
+    "name": "jayemscript/atlas-rag",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:26:53Z",
+    "url": "https://github.com/jayemscript/atlas-rag"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-08-05T08:25:59Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 4,
+    "updated_at": "2026-08-05T08:22:47Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:18:04Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8024,
+    "updated_at": "2026-08-05T08:24:46Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -18,42 +90,6 @@
     "url": "https://github.com/csmw-ai/LakeMind"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:03:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A configurable Retrieval-Augmented Generation (RAG) framework for building AI-powered knowledge systems from databases, ",
-    "id": "jayemscript/atlas-rag",
-    "language": "Python",
-    "name": "jayemscript/atlas-rag",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:03:30Z",
-    "url": "https://github.com/jayemscript/atlas-rag"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-05T07:57:18Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -68,7 +104,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T08:06:19Z",
+    "updated_at": "2026-08-05T08:27:50Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T07:39:28Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-08-05T07:39:26Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29789,
-    "updated_at": "2026-08-05T07:56:14Z",
+    "updated_at": "2026-08-05T08:16:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:05:49Z",
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8023,
-    "updated_at": "2026-08-05T08:09:22Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T07:55:52Z",
+    "updated_at": "2026-08-05T08:19:33Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16693,
-    "updated_at": "2026-08-05T08:13:58Z",
+    "updated_at": "2026-08-05T08:27:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45515,
-    "updated_at": "2026-08-05T06:43:19Z",
+    "updated_at": "2026-08-05T08:24:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 6,
     "updated_at": "2026-08-05T06:01:59Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
-    "id": "edumgt/docker-class",
-    "language": "Python",
-    "name": "edumgt/docker-class",
-    "stars": 4,
-    "updated_at": "2026-08-05T05:48:36Z",
-    "url": "https://github.com/edumgt/docker-class"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T04:25:13Z",
     "url": "https://github.com/uhmanju/rag-learning-studio"
-  },
-  {
-    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:40:03Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
   }
 ]
