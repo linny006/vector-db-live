@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:27:29Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:27:26Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6204,
+    "updated_at": "2026-08-05T13:25:00Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8034,
+    "updated_at": "2026-08-05T13:30:08Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:16:14Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-05T13:13:37Z",
+    "updated_at": "2026-08-05T13:24:22Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-08-05T13:12:12Z",
     "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:12:00Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -45,6 +99,15 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29794,
+    "updated_at": "2026-08-05T13:06:59Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -63,42 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6204,
-    "updated_at": "2026-08-05T13:12:20Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8034,
-    "updated_at": "2026-08-05T13:04:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:03:43Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:03:40Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -113,7 +140,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-05T13:12:38Z",
+    "updated_at": "2026-08-05T13:30:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -122,17 +149,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33791,
-    "updated_at": "2026-08-05T13:01:58Z",
+    "updated_at": "2026-08-05T13:19:50Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 89,
-    "updated_at": "2026-08-05T13:12:21Z",
+    "updated_at": "2026-08-05T13:30:09Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T12:54:33Z",
+    "updated_at": "2026-08-05T13:19:01Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-05T12:48:49Z",
+    "updated_at": "2026-08-05T13:30:21Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 317,
     "updated_at": "2026-08-05T12:06:03Z",
     "url": "https://github.com/pmbstyle/Alice"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29793,
-    "updated_at": "2026-08-05T13:06:59Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Live governance dashboard for RAG Sentinel. Hallucination detection, source freshness, citation quality, drift monitorin",
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16695,
-    "updated_at": "2026-08-05T13:13:08Z",
+    "updated_at": "2026-08-05T13:19:40Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 62,
-    "updated_at": "2026-08-05T10:54:11Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
