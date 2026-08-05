@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T10:15:20Z",
+    "updated_at": "2026-08-05T10:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1062,
+    "updated_at": "2026-08-05T10:29:39Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-05T10:28:59Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:29:44Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
+    "stars": 0,
+    "updated_at": "2026-08-05T10:25:55Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T10:24:41Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 17,
+    "updated_at": "2026-08-05T10:23:41Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1343,
+    "updated_at": "2026-08-05T10:23:11Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
@@ -14,8 +77,71 @@
     "language": "Python",
     "name": "p3aRA55/DevAssistant-MCP",
     "stars": 0,
-    "updated_at": "2026-08-05T10:15:17Z",
+    "updated_at": "2026-08-05T10:23:04Z",
     "url": "https://github.com/p3aRA55/DevAssistant-MCP"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:22:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29790,
+    "updated_at": "2026-08-05T10:20:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:18:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governance and observability layer for enterprise RAG systems. Chunk quality scoring, source freshness audits, retrieval",
+    "id": "mizcausevic-dev/rag-sentinel",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/rag-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-05T10:18:37Z",
+    "url": "https://github.com/mizcausevic-dev/rag-sentinel"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T10:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-05T10:14:51Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58860,
+    "updated_at": "2026-08-05T10:07:43Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
@@ -45,22 +171,13 @@
     "url": "https://github.com/iharshkaran/HyperAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Governance and observability layer for enterprise RAG systems. Chunk quality scoring, source freshness audits, retrieval",
-    "id": "mizcausevic-dev/rag-sentinel",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/rag-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:54:19Z",
-    "url": "https://github.com/mizcausevic-dev/rag-sentinel"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45516,
+    "updated_at": "2026-08-05T10:00:21Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
@@ -94,18 +211,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33788,
+    "stars": 33789,
     "updated_at": "2026-08-05T09:46:36Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45517,
-    "updated_at": "2026-08-05T10:00:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
@@ -121,7 +229,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1114,
+    "stars": 1115,
     "updated_at": "2026-08-05T09:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -131,17 +239,8 @@
     "language": "Python",
     "name": "lightonai/fast-plaid",
     "stars": 272,
-    "updated_at": "2026-08-05T09:44:44Z",
+    "updated_at": "2026-08-05T10:23:41Z",
     "url": "https://github.com/lightonai/fast-plaid"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:12:21Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI DataLake",
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:41:18Z",
     "url": "https://github.com/sudheermishra/GenAI-Learning"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29789,
-    "updated_at": "2026-08-05T10:09:25Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -207,15 +297,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-05T09:11:39Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Customer service RAG chatbot to provide accurate answers to questions using a knowledge base, which is a vector database",
     "id": "lekli-1/ai-chatbot",
     "language": "Python",
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:06:27Z",
     "url": "https://github.com/lekli-1/ai-chatbot"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T09:01:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Official repository of the kANNolo library.",
@@ -288,15 +360,6 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T08:37:13Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
     "id": "MatthewRyanWeber/data-governance-pipeline",
     "language": "Python",
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-08-05T08:32:28Z",
+    "updated_at": "2026-08-05T10:29:23Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16694,
-    "updated_at": "2026-08-05T10:06:45Z",
+    "updated_at": "2026-08-05T10:21:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:45:50Z",
     "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-05T07:39:49Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-05T07:39:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:36:45Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:32:46Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:30:04Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Enterprise AI Document Intelligence Platform with RAG, Semantic Search, FastAPI, React, PostgreSQL (pgvector), and Ollam",
-    "id": "Faizur-Rahman99/DocuMindAI",
-    "language": "Python",
-    "name": "Faizur-Rahman99/DocuMindAI",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:35:16Z",
-    "url": "https://github.com/Faizur-Rahman99/DocuMindAI"
-  },
-  {
-    "description": "Store agent memories as paths through a grammar instead of dense vectors: 1.6 bytes per memory with exact structured ret",
-    "id": "BBSRGUY/pathcode-memory",
-    "language": "Python",
-    "name": "BBSRGUY/pathcode-memory",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:21:55Z",
-    "url": "https://github.com/BBSRGUY/pathcode-memory"
   }
 ]
