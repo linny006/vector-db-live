@@ -1,12 +1,84 @@
 [
   {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 3,
+    "updated_at": "2026-08-05T12:59:00Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 89,
+    "updated_at": "2026-08-05T12:57:38Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:55:04Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-05T12:57:20Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:52:59Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-05T12:52:23Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58862,
-    "updated_at": "2026-08-05T12:45:56Z",
+    "updated_at": "2026-08-05T12:52:05Z",
     "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:50:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:50:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T12:45:29Z",
+    "updated_at": "2026-08-05T13:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T12:38:04Z",
+    "updated_at": "2026-08-05T12:54:33Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1063,
-    "updated_at": "2026-08-05T12:37:09Z",
+    "updated_at": "2026-08-05T12:58:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -108,6 +171,15 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8033,
+    "updated_at": "2026-08-05T12:28:57Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -115,6 +187,15 @@
     "stars": 78,
     "updated_at": "2026-08-05T12:37:55Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3201,
+    "updated_at": "2026-08-05T12:53:41Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -133,15 +214,6 @@
     "stars": 1874,
     "updated_at": "2026-08-05T12:16:49Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 89,
-    "updated_at": "2026-08-05T12:35:34Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
@@ -176,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6203,
-    "updated_at": "2026-08-05T12:49:58Z",
+    "updated_at": "2026-08-05T12:54:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -187,15 +259,6 @@
     "stars": 317,
     "updated_at": "2026-08-05T12:06:03Z",
     "url": "https://github.com/pmbstyle/Alice"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8032,
-    "updated_at": "2026-08-05T12:28:57Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T11:47:57Z",
     "url": "https://github.com/apoorv890/RFPilot"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3200,
-    "updated_at": "2026-08-05T12:26:12Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -320,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16695,
-    "updated_at": "2026-08-05T12:47:30Z",
+    "updated_at": "2026-08-05T12:59:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/sovseal/core"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:36:02Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -358,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-08-05T10:33:06Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:50:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T10:23:04Z",
     "url": "https://github.com/p3aRA55/DevAssistant-MCP"
-  },
-  {
-    "description": "Governance and observability layer for enterprise RAG systems. Chunk quality scoring, source freshness audits, retrieval",
-    "id": "mizcausevic-dev/rag-sentinel",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/rag-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:18:37Z",
-    "url": "https://github.com/mizcausevic-dev/rag-sentinel"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:05:16Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 3,
-    "updated_at": "2026-08-05T09:50:25Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33791,
-    "updated_at": "2026-08-05T12:40:09Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
