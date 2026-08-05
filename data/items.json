@@ -1,5 +1,59 @@
 [
   {
+    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
+    "id": "fishmem-labs/fishmem",
+    "language": "TypeScript",
+    "name": "fishmem-labs/fishmem",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:30:14Z",
+    "url": "https://github.com/fishmem-labs/fishmem"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-05T04:25:10Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
+    "id": "StephenSook/erasure-proof",
+    "language": "Go",
+    "name": "StephenSook/erasure-proof",
+    "stars": 0,
+    "updated_at": "2026-08-05T04:25:56Z",
+    "url": "https://github.com/StephenSook/erasure-proof"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 74,
+    "updated_at": "2026-08-05T04:21:40Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T04:15:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T04:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,22 +99,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
-    "id": "StephenSook/erasure-proof",
-    "language": "Go",
-    "name": "StephenSook/erasure-proof",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:06:01Z",
-    "url": "https://github.com/StephenSook/erasure-proof"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7036,
+    "updated_at": "2026-08-05T04:02:58Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -70,6 +115,15 @@
     "stars": 24,
     "updated_at": "2026-08-05T04:02:08Z",
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45512,
+    "updated_at": "2026-08-05T03:48:20Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "NLP + RAG technique for requirements engineering.",
@@ -85,7 +139,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 178,
+    "stars": 179,
     "updated_at": "2026-08-05T03:35:59Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-05T03:42:38Z",
+    "updated_at": "2026-08-05T04:21:39Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/dkylewillis/vera"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 74,
-    "updated_at": "2026-08-05T03:14:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -178,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T03:12:54Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45511,
-    "updated_at": "2026-08-05T03:48:20Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -223,15 +259,6 @@
     "stars": 333,
     "updated_at": "2026-08-05T03:07:19Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T03:04:39Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -311,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8016,
-    "updated_at": "2026-08-05T03:48:58Z",
+    "updated_at": "2026-08-05T04:17:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T01:20:48Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10233,
-    "updated_at": "2026-08-05T01:00:58Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-05T00:53:13Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
-    "id": "DemigodDSK/hubmesh",
-    "language": "Python",
-    "name": "DemigodDSK/hubmesh",
-    "stars": 1,
-    "updated_at": "2026-08-05T00:49:31Z",
-    "url": "https://github.com/DemigodDSK/hubmesh"
   }
 ]
