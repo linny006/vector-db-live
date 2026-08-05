@@ -1,5 +1,140 @@
 [
   {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-08-05T18:42:39Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1064,
+    "updated_at": "2026-08-05T18:42:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:41:49Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:40:32Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 3,
+    "updated_at": "2026-08-05T18:36:43Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:35:19Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:35:16Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:35:09Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:34:19Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:33:07Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "RAG pipeline for natural-language Q&A over large PDFs using LangChain, FAISS vector store, and Streamlit. Chunked retrie",
+    "id": "Abdullah1dev/ai-pdf-assistant-rag",
+    "language": "Python",
+    "name": "Abdullah1dev/ai-pdf-assistant-rag",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:32:54Z",
+    "url": "https://github.com/Abdullah1dev/ai-pdf-assistant-rag"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:32:30Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-08-05T18:32:01Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-08-05T18:30:35Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T18:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -61,15 +196,6 @@
     "stars": 27,
     "updated_at": "2026-08-05T18:22:31Z",
     "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T18:20:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -153,21 +279,12 @@
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1064,
-    "updated_at": "2026-08-05T18:11:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-05T18:10:33Z",
+    "updated_at": "2026-08-05T18:42:53Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -252,24 +369,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:56:14Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:56:12Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
     "description": "RAG-powered Data Engineering Assistant built using Sentence Transformers, ChromaDB, Gemini and Python.",
     "id": "kanikapitaliya/rag-data-engineering-assistant",
     "language": "Python",
@@ -293,7 +392,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6319,
-    "updated_at": "2026-08-05T18:29:09Z",
+    "updated_at": "2026-08-05T18:37:23Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T17:27:30Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Comprehensive vector database benchmark: pgvector, Pinecone, Weaviate, Chroma, Qdrant, Milvus \u2014 recall@k, QPS, latency, ",
-    "id": "jhondados/vector-database-benchmark",
-    "language": "HTML",
-    "name": "jhondados/vector-database-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:19:18Z",
-    "url": "https://github.com/jhondados/vector-database-benchmark"
-  },
-  {
-    "description": "Production-ready AI Agent Memory library for Python, FastAPI, LangChain, LangGraph, MCP, and LLM applications. Supports ",
-    "id": "hiteshwarke/agent-memory",
-    "language": "Python",
-    "name": "hiteshwarke/agent-memory",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:18:09Z",
-    "url": "https://github.com/hiteshwarke/agent-memory"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:16:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for answering legal questions using LangChain, ChromaDB, and Groq.",
-    "id": "shahinsheikh11/legal-rag-pipeline",
-    "language": "Python",
-    "name": "shahinsheikh11/legal-rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:15:40Z",
-    "url": "https://github.com/shahinsheikh11/legal-rag-pipeline"
-  },
-  {
-    "description": "This intelligent drug analysis platform uses ChromaDB and AI to search for and analyze drugs.",
-    "id": "Thitrongdan202/MediSearch-with-Chroma-DB",
-    "language": "Jupyter Notebook",
-    "name": "Thitrongdan202/MediSearch-with-Chroma-DB",
-    "stars": 2,
-    "updated_at": "2026-08-05T17:09:36Z",
-    "url": "https://github.com/Thitrongdan202/MediSearch-with-Chroma-DB"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-05T18:18:30Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12795,
-    "updated_at": "2026-08-05T17:05:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29799,
-    "updated_at": "2026-08-05T17:01:26Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-05T18:17:45Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:55:16Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-05T16:53:01Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   }
 ]
