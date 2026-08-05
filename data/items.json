@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T06:45:20Z",
+    "updated_at": "2026-08-05T07:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:58:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 8,
+    "updated_at": "2026-08-05T06:56:54Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:53:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-05T06:50:27Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A modular Retrieval-Augmented Generation (RAG) application for semantic document question answering using LangChain, Chr",
+    "id": "shiznit9/AI-Document-Assistant",
+    "language": "Python",
+    "name": "shiznit9/AI-Document-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:49:11Z",
+    "url": "https://github.com/shiznit9/AI-Document-Assistant"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:48:39Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 17,
+    "updated_at": "2026-08-05T06:47:55Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16693,
+    "updated_at": "2026-08-05T06:57:18Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15376,
+    "updated_at": "2026-08-05T06:46:42Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "pg-cuvs/pg_cuvs",
+    "language": "C",
+    "name": "pg-cuvs/pg_cuvs",
+    "stars": 7,
+    "updated_at": "2026-08-05T06:59:46Z",
+    "url": "https://github.com/pg-cuvs/pg_cuvs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -18,21 +117,12 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 17,
-    "updated_at": "2026-08-05T06:44:06Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 179,
-    "updated_at": "2026-08-05T06:42:58Z",
+    "updated_at": "2026-08-05T06:54:44Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -40,7 +130,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8021,
+    "stars": 8022,
     "updated_at": "2026-08-05T06:37:11Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -63,15 +153,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -79,6 +160,15 @@
     "stars": 1874,
     "updated_at": "2026-08-05T06:29:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29788,
+    "updated_at": "2026-08-05T06:28:52Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -135,33 +225,6 @@
     "url": "https://github.com/Dakera-AI/dakera-go"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:56:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-05T05:55:04Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 8,
-    "updated_at": "2026-08-05T06:41:36Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
     "id": "edumgt/docker-class",
     "language": "Python",
@@ -198,15 +261,6 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
-    "id": "pg-cuvs/pg_cuvs",
-    "language": "C",
-    "name": "pg-cuvs/pg_cuvs",
-    "stars": 7,
-    "updated_at": "2026-08-05T05:58:11Z",
-    "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -214,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T04:52:18Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15376,
-    "updated_at": "2026-08-05T04:48:52Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T03:31:29Z",
     "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-08-05T03:21:35Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 16,
-    "updated_at": "2026-08-05T03:35:49Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-05T03:14:13Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 171,
-    "updated_at": "2026-08-05T03:11:58Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16693,
-    "updated_at": "2026-08-05T06:34:04Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
