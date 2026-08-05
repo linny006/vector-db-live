@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-05T15:45:28Z",
+    "updated_at": "2026-08-05T16:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:58:21Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3203,
+    "updated_at": "2026-08-05T15:58:06Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-05T15:57:56Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-05T15:57:51Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1064,
+    "updated_at": "2026-08-05T15:56:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6319,
+    "updated_at": "2026-08-05T15:56:21Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-05T15:56:00Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:52:42Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:51:20Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Production-ready AI Agent tools, reusable libraries, enterprise utilities, RAG, MCP, workflows, OCR, observability, prom",
+    "id": "hiteshwarke/awesome-agent-tools",
+    "language": "\u2014",
+    "name": "hiteshwarke/awesome-agent-tools",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:49:17Z",
+    "url": "https://github.com/hiteshwarke/awesome-agent-tools"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58863,
+    "updated_at": "2026-08-05T15:50:38Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -36,21 +144,12 @@
     "url": "https://github.com/OmidGheysar/epi-rag"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:36:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
     "id": "ilyuve/code-pop",
     "language": "HTML",
     "name": "ilyuve/code-pop",
     "stars": 0,
-    "updated_at": "2026-08-05T15:33:48Z",
+    "updated_at": "2026-08-05T15:45:56Z",
     "url": "https://github.com/ilyuve/code-pop"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33796,
-    "updated_at": "2026-08-05T15:32:50Z",
+    "updated_at": "2026-08-05T16:00:19Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T15:31:12Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -162,15 +252,6 @@
     "url": "https://github.com/armbur19-collab/chimerai-app"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58863,
-    "updated_at": "2026-08-05T15:45:19Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -211,7 +292,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1154,
+    "stars": 1157,
     "updated_at": "2026-08-05T15:02:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -243,15 +324,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3203,
-    "updated_at": "2026-08-05T14:55:17Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
     "id": "cyborginc/cyborgdb-js",
     "language": "TypeScript",
@@ -279,15 +351,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-05T14:42:46Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A browser app presenting data from the Georgia Project. ",
     "id": "KatherineMossDeveloper/Midnight-Train",
     "language": "TypeScript",
@@ -302,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16696,
-    "updated_at": "2026-08-05T15:19:46Z",
+    "updated_at": "2026-08-05T15:48:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 7037,
     "updated_at": "2026-08-05T14:08:05Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1064,
-    "updated_at": "2026-08-05T14:07:10Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-05T14:01:45Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8036,
-    "updated_at": "2026-08-05T14:50:27Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-05T14:59:38Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:51:50Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Hybrid RAG engine combining vector embeddings with knowledge graph structures for multi-hop document retrieval",
-    "id": "Shubham-raut-860/Vector-Graph-RAG",
-    "language": "Python",
-    "name": "Shubham-raut-860/Vector-Graph-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:44:33Z",
-    "url": "https://github.com/Shubham-raut-860/Vector-Graph-RAG"
-  },
-  {
-    "description": "Reproducible recall/latency/throughput/memory benchmarks for vector databases (FAISS, ChromaDB) used in RAG, with self-c",
-    "id": "siddharthgaur1/vecbench",
-    "language": "Python",
-    "name": "siddharthgaur1/vecbench",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:38:25Z",
-    "url": "https://github.com/siddharthgaur1/vecbench"
   }
 ]
