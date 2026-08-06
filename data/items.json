@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
     "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1874,
-    "updated_at": "2026-08-06T11:38:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "name": "milvus-io/milvus",
+    "stars": 45533,
+    "updated_at": "2026-08-06T11:58:20Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Memory-centric inference system: frozen RWKV/Mamba backbone + Titans associative memory, test-time training, vector DB \u2014",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "kaelvalen/noesis",
     "stars": 0,
-    "updated_at": "2026-08-06T11:33:34Z",
+    "updated_at": "2026-08-06T11:56:31Z",
     "url": "https://github.com/kaelvalen/noesis"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29820,
+    "updated_at": "2026-08-06T11:53:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-06T11:51:45Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-06T11:30:27Z",
+    "updated_at": "2026-08-06T12:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,8 +50,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-06T11:30:26Z",
+    "updated_at": "2026-08-06T11:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58885,
+    "updated_at": "2026-08-06T11:45:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1874,
+    "updated_at": "2026-08-06T11:38:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-06T11:33:47Z",
+    "updated_at": "2026-08-06T11:59:23Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T11:15:02Z",
     "url": "https://github.com/JoshPola96/ai-data-agent"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45533,
-    "updated_at": "2026-08-06T11:04:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T10:55:48Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29818,
-    "updated_at": "2026-08-06T11:41:46Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -319,7 +337,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33810,
+    "stars": 33811,
     "updated_at": "2026-08-06T10:44:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -358,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T10:39:58Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-06T11:44:28Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -419,7 +428,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8044,
-    "updated_at": "2026-08-06T11:41:54Z",
+    "updated_at": "2026-08-06T11:57:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 242,
     "updated_at": "2026-08-06T10:33:22Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-08-06T10:32:40Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
