@@ -1,5 +1,140 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
+    "id": "zhenkun26/BusinessAgent",
+    "language": "CSS",
+    "name": "zhenkun26/BusinessAgent",
+    "stars": 0,
+    "updated_at": "2026-08-06T04:59:46Z",
+    "url": "https://github.com/zhenkun26/BusinessAgent"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-08-06T04:58:10Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-08-06T04:56:17Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:56:13Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-08-06T04:55:34Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:54:12Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-08-06T04:54:00Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-08-06T04:53:49Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-06T04:53:04Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:52:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-06T04:51:29Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 11,
+    "updated_at": "2026-08-06T04:48:18Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-08-06T04:47:13Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-08-06T04:47:10Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +144,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:44:15Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1064,
-    "updated_at": "2026-08-06T04:44:36Z",
+    "updated_at": "2026-08-06T04:56:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -144,15 +270,6 @@
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-06T04:30:18Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
     "id": "Daubingweirdie414/multimodal-rag",
     "language": "Python",
@@ -167,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-06T04:31:56Z",
+    "updated_at": "2026-08-06T04:53:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -257,7 +374,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 190,
-    "updated_at": "2026-08-06T04:13:54Z",
+    "updated_at": "2026-08-06T04:57:03Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -324,15 +441,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
-    "id": "zhenkun26/BusinessAgent",
-    "language": "CSS",
-    "name": "zhenkun26/BusinessAgent",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:09:39Z",
-    "url": "https://github.com/zhenkun26/BusinessAgent"
-  },
-  {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
     "id": "infiniflow/infinity",
     "language": "C++",
@@ -340,113 +448,5 @@
     "stars": 4661,
     "updated_at": "2026-08-06T04:09:34Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-08-06T04:06:29Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:04:28Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-06T04:04:13Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-08-06T04:03:47Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-08-06T04:02:22Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-08-06T04:02:08Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-06T03:59:35Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1464,
-    "updated_at": "2026-08-06T04:43:41Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 11,
-    "updated_at": "2026-08-06T03:56:27Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-08-06T03:55:27Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-08-06T03:55:23Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "Python",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-06T03:52:20Z",
-    "url": "https://github.com/ilyuve/code-pop"
   }
 ]
