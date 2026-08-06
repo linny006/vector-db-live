@@ -1,12 +1,39 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-06T07:23:43Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-06T07:15:23Z",
+    "updated_at": "2026-08-06T07:19:38Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-06T07:17:47Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-Optimizing GraphRAG and Multi-Modal Memory Engine utilizing Neo4j and Vector Databases.",
@@ -23,7 +50,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 6,
-    "updated_at": "2026-08-06T07:10:08Z",
+    "updated_at": "2026-08-06T07:19:58Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -36,31 +63,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-06T07:00:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
     "id": "zhenkun26/BusinessAgent",
     "language": "CSS",
     "name": "zhenkun26/BusinessAgent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-06T06:59:55Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-06T06:59:05Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -95,17 +104,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11081,
-    "updated_at": "2026-08-06T07:12:43Z",
+    "updated_at": "2026-08-06T07:25:00Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 62,
-    "updated_at": "2026-08-06T06:35:00Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -230,7 +230,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 78,
-    "updated_at": "2026-08-06T07:05:41Z",
+    "updated_at": "2026-08-06T07:16:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9408,
-    "updated_at": "2026-08-06T07:14:24Z",
+    "updated_at": "2026-08-06T07:18:04Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
