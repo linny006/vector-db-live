@@ -1,12 +1,111 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:58:01Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83e\udd16 Telegram AI Knowledge Base & RAG Helpdesk Bot - Vector semantic search (SQLite) + OpenAI/DeepSeek embeddings with huma",
+    "id": "mamadiezad/telegram-rag-helpdesk",
+    "language": "Python",
+    "name": "mamadiezad/telegram-rag-helpdesk",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:57:58Z",
+    "url": "https://github.com/mamadiezad/telegram-rag-helpdesk"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-08-07T18:57:49Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11089,
-    "updated_at": "2026-08-07T18:44:52Z",
+    "updated_at": "2026-08-07T18:54:33Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 64,
+    "updated_at": "2026-08-07T18:54:29Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:53:53Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
+    "id": "voytas75/brainos",
+    "language": "Python",
+    "name": "voytas75/brainos",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:48:55Z",
+    "url": "https://github.com/voytas75/brainos"
+  },
+  {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:51:07Z",
+    "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:47:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:51:02Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -14,8 +113,17 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 835,
-    "updated_at": "2026-08-07T18:44:52Z",
+    "updated_at": "2026-08-07T18:47:23Z",
     "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16703,
+    "updated_at": "2026-08-07T18:43:57Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -59,7 +167,7 @@
     "language": "Rust",
     "name": "Dakera-AI/dakera-rs",
     "stars": 5,
-    "updated_at": "2026-08-07T18:35:02Z",
+    "updated_at": "2026-08-07T18:50:58Z",
     "url": "https://github.com/Dakera-AI/dakera-rs"
   },
   {
@@ -68,26 +176,8 @@
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 17,
-    "updated_at": "2026-08-07T18:34:58Z",
+    "updated_at": "2026-08-07T18:56:56Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-agent AI platform on a LangGraph supervisor \u2014 8 specialist agents, 5 microservices, RAG over PDFs, metered credits",
@@ -122,7 +212,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-07T18:27:28Z",
+    "updated_at": "2026-08-07T18:57:11Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -140,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T18:26:18Z",
+    "updated_at": "2026-08-07T18:54:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,17 +239,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-07T18:39:08Z",
+    "updated_at": "2026-08-07T18:56:16Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:17:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -243,15 +324,6 @@
     "url": "https://github.com/jihedbfr-art/ai-skills"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-07T17:53:10Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
     "id": "DBlassio/rag-arxiv-fds",
     "language": "Python",
@@ -268,15 +340,6 @@
     "stars": 1224,
     "updated_at": "2026-08-07T17:50:17Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:47:50Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB",
@@ -385,68 +448,5 @@
     "stars": 33834,
     "updated_at": "2026-08-07T17:55:47Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A Lucene codec for vector search and clustering on the GPU",
-    "id": "NVIDIA/cuvs-lucene",
-    "language": "Java",
-    "name": "NVIDIA/cuvs-lucene",
-    "stars": 9,
-    "updated_at": "2026-08-07T16:57:01Z",
-    "url": "https://github.com/NVIDIA/cuvs-lucene"
-  },
-  {
-    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
-    "id": "rafaelnicolett/kern",
-    "language": "Rust",
-    "name": "rafaelnicolett/kern",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:56:00Z",
-    "url": "https://github.com/rafaelnicolett/kern"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:55:17Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Multi-tenant, production-grade RAG platform: async resumable ingestion, hybrid retrieval with reranking, cited streaming",
-    "id": "umeshkedimi/enterprise_rag_platform",
-    "language": "Python",
-    "name": "umeshkedimi/enterprise_rag_platform",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:42:35Z",
-    "url": "https://github.com/umeshkedimi/enterprise_rag_platform"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8057,
-    "updated_at": "2026-08-07T16:42:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
-    "id": "Toskurim/vector-unforget",
-    "language": "Python",
-    "name": "Toskurim/vector-unforget",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:40:47Z",
-    "url": "https://github.com/Toskurim/vector-unforget"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-07T16:42:27Z",
-    "url": "https://github.com/frogdb/frogdb"
   }
 ]
