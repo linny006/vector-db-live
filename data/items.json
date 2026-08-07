@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T22:45:23Z",
+    "updated_at": "2026-08-07T23:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Retrieval-augmented generation (RAG) application designed to extract and verify compliance policies from regulatory docu",
+    "id": "ryawr/agentic-ai-auditor",
+    "language": "Jupyter Notebook",
+    "name": "ryawr/agentic-ai-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-07T22:59:47Z",
+    "url": "https://github.com/ryawr/agentic-ai-auditor"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-07T22:46:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T22:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,15 +72,6 @@
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:33:02Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 244,
-    "updated_at": "2026-08-07T22:26:48Z",
+    "updated_at": "2026-08-07T22:52:40Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T22:23:01Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:38:28Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 82,
-    "updated_at": "2026-08-07T22:26:20Z",
+    "updated_at": "2026-08-07T23:00:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T22:44:59Z",
+    "updated_at": "2026-08-07T22:58:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -212,7 +221,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64470,
-    "updated_at": "2026-08-07T20:52:21Z",
+    "updated_at": "2026-08-07T22:47:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-07T22:04:39Z",
+    "updated_at": "2026-08-07T22:50:53Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T18:57:58Z",
     "url": "https://github.com/mamadiezad/telegram-rag-helpdesk"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-08-07T18:57:49Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   }
 ]
