@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7040,
+    "updated_at": "2026-08-07T10:41:08Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-07T10:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-07T10:40:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33824,
+    "updated_at": "2026-08-07T10:40:14Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:39:44Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Load-testing and evaluation harness for RAG systems: corpus-grounded synthetic queries, open-loop load generation, and d",
+    "id": "saparsha/rag-harness",
+    "language": "\u2014",
+    "name": "saparsha/rag-harness",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:37:49Z",
+    "url": "https://github.com/saparsha/rag-harness"
+  },
+  {
+    "description": "AI DataLake",
+    "id": "csmw-ai/LakeMind",
+    "language": "C",
+    "name": "csmw-ai/LakeMind",
+    "stars": 3,
+    "updated_at": "2026-08-07T10:33:41Z",
+    "url": "https://github.com/csmw-ai/LakeMind"
+  },
+  {
+    "description": "3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN",
+    "id": "koprjaa/chromadb-embedding-visualizer",
+    "language": "Python",
+    "name": "koprjaa/chromadb-embedding-visualizer",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:33:15Z",
+    "url": "https://github.com/koprjaa/chromadb-embedding-visualizer"
   },
   {
     "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
@@ -14,8 +68,26 @@
     "language": "JavaScript",
     "name": "MeetVora79/gemini-rag-chatbot",
     "stars": 1,
-    "updated_at": "2026-08-07T10:29:44Z",
+    "updated_at": "2026-08-07T10:30:41Z",
     "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -25,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T10:25:15Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:24:51Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:24:07Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1211,
-    "updated_at": "2026-08-07T10:18:38Z",
+    "updated_at": "2026-08-07T10:32:20Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T10:30:24Z",
+    "updated_at": "2026-08-07T10:44:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -162,24 +216,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7040,
-    "updated_at": "2026-08-07T10:20:28Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:47:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29846,
-    "updated_at": "2026-08-07T10:06:46Z",
+    "updated_at": "2026-08-07T10:38:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T09:39:05Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33823,
-    "updated_at": "2026-08-07T10:28:30Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
@@ -396,15 +423,6 @@
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   },
   {
-    "description": "AI DataLake",
-    "id": "csmw-ai/LakeMind",
-    "language": "C",
-    "name": "csmw-ai/LakeMind",
-    "stars": 3,
-    "updated_at": "2026-08-07T09:24:24Z",
-    "url": "https://github.com/csmw-ai/LakeMind"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T09:19:32Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-07T09:18:14Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:16:36Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
