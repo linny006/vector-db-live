@@ -1,12 +1,111 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1210,
+    "updated_at": "2026-08-07T10:13:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:12:23Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-08-07T10:12:30Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 14,
-    "updated_at": "2026-08-07T09:55:08Z",
+    "updated_at": "2026-08-07T10:11:39Z",
     "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1065,
+    "updated_at": "2026-08-07T10:08:10Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:07:05Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
+    "id": "axiomchronicles/elips",
+    "language": "TypeScript",
+    "name": "axiomchronicles/elips",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:05:00Z",
+    "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
+    "id": "MeetVora79/gemini-rag-chatbot",
+    "language": "JavaScript",
+    "name": "MeetVora79/gemini-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:02:26Z",
+    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6323,
+    "updated_at": "2026-08-07T09:59:58Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-07T09:59:47Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
@@ -16,15 +115,6 @@
     "stars": 41,
     "updated_at": "2026-08-07T09:54:29Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
-    "id": "axiomchronicles/elips",
-    "language": "TypeScript",
-    "name": "axiomchronicles/elips",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:53:53Z",
-    "url": "https://github.com/axiomchronicles/elips"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -40,7 +130,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 7039,
+    "stars": 7040,
     "updated_at": "2026-08-07T09:50:53Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -52,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T09:48:29Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
-    "id": "MeetVora79/gemini-rag-chatbot",
-    "language": "JavaScript",
-    "name": "MeetVora79/gemini-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:47:59Z",
-    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -90,40 +171,13 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15400,
+    "stars": 15401,
     "updated_at": "2026-08-07T09:44:58Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1209,
-    "updated_at": "2026-08-07T09:53:53Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T09:43:10Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:42:57Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29846,
-    "updated_at": "2026-08-07T09:39:14Z",
+    "updated_at": "2026-08-07T10:06:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11086,
-    "updated_at": "2026-08-07T09:55:07Z",
+    "updated_at": "2026-08-07T10:14:43Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-07T09:25:33Z",
+    "updated_at": "2026-08-07T10:10:02Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T09:15:04Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16701,
-    "updated_at": "2026-08-07T09:44:00Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:37:49Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:10:19Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-07T09:09:03Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:02:51Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
   }
 ]
