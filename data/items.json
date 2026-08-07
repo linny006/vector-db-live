@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:42:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 59,
+    "updated_at": "2026-08-07T19:38:22Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:37:08Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:33:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
     "id": "Shahzain-Ali/agentive-solutions-book",
     "language": "Python",
@@ -9,22 +54,13 @@
     "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A self-hosted enterprise search engine that ingests any file type, retrieves with true hybrid search, links everything i",
+    "id": "chirags1725/Enterprise-knowledge-platform",
+    "language": "JavaScript",
+    "name": "chirags1725/Enterprise-knowledge-platform",
+    "stars": 3,
+    "updated_at": "2026-08-07T19:30:31Z",
+    "url": "https://github.com/chirags1725/Enterprise-knowledge-platform"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 243,
-    "updated_at": "2026-08-07T19:32:03Z",
+    "updated_at": "2026-08-07T19:39:43Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -79,6 +115,15 @@
     "stars": 64465,
     "updated_at": "2026-08-07T19:14:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
+    "id": "firelock-ai/kin-vector",
+    "language": "Rust",
+    "name": "firelock-ai/kin-vector",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:13:30Z",
+    "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-07T19:27:44Z",
+    "updated_at": "2026-08-07T19:38:04Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16703,
-    "updated_at": "2026-08-07T19:23:30Z",
+    "updated_at": "2026-08-07T19:42:52Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -283,18 +328,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29847,
+    "stars": 29848,
     "updated_at": "2026-08-07T18:36:59Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:36:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
@@ -412,41 +448,5 @@
     "stars": 243,
     "updated_at": "2026-08-07T17:59:33Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33835,
-    "updated_at": "2026-08-07T17:55:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 82,
-    "updated_at": "2026-08-07T18:00:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1607,
-    "updated_at": "2026-08-07T17:53:41Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
-    "id": "jihedbfr-art/ai-skills",
-    "language": "\u2014",
-    "name": "jihedbfr-art/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:53:20Z",
-    "url": "https://github.com/jihedbfr-art/ai-skills"
   }
 ]
