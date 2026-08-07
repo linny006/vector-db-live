@@ -1,12 +1,93 @@
 [
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11089,
+    "updated_at": "2026-08-07T18:44:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 835,
+    "updated_at": "2026-08-07T18:44:52Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-07T18:43:21Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-07T18:38:26Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29846,
+    "updated_at": "2026-08-07T18:36:59Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:36:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
+    "id": "Dakera-AI/dakera-rs",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-rs",
+    "stars": 5,
+    "updated_at": "2026-08-07T18:35:02Z",
+    "url": "https://github.com/Dakera-AI/dakera-rs"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 17,
+    "updated_at": "2026-08-07T18:34:58Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-07T18:29:24Z",
+    "updated_at": "2026-08-07T18:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-agent AI platform on a LangGraph supervisor \u2014 8 specialist agents, 5 microservices, RAG over PDFs, metered credits",
@@ -68,7 +149,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-07T18:25:58Z",
+    "updated_at": "2026-08-07T18:39:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -81,24 +162,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-07T18:15:12Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
     "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-07T18:14:47Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 835,
-    "updated_at": "2026-08-07T18:28:27Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 243,
-    "updated_at": "2026-08-07T18:24:43Z",
+    "updated_at": "2026-08-07T18:34:29Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -211,7 +265,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1223,
+    "stars": 1224,
     "updated_at": "2026-08-07T17:50:17Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T17:40:25Z",
     "url": "https://github.com/Shreyansh15624/obs-rag"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-07T17:38:26Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "DocMind AI backend \u2014 .NET 8 Clean Architecture + CQRS RAG API (Semantic Kernel, Qdrant, PostgreSQL)",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-07T16:42:27Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Explainable multi-level AI memory for Java and Spring AI, with Redis and Milvus adapters",
-    "id": "Jiangxianze/java-agent-memory",
-    "language": "Java",
-    "name": "Jiangxianze/java-agent-memory",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:41:02Z",
-    "url": "https://github.com/Jiangxianze/java-agent-memory"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-08-07T16:22:21Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
-    "id": "venom312004/AI-video-assistant",
-    "language": "Python",
-    "name": "venom312004/AI-video-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-07T16:14:58Z",
-    "url": "https://github.com/venom312004/AI-video-assistant"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 333,
-    "updated_at": "2026-08-07T16:13:24Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6323,
-    "updated_at": "2026-08-07T18:28:57Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
