@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-07T11:59:32Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-07T11:57:33Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T11:45:19Z",
+    "updated_at": "2026-08-07T11:56:01Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:53:25Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:53:23Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-07T11:52:46Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -14,8 +59,71 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-07T11:43:43Z",
+    "updated_at": "2026-08-07T11:49:38Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
+    "id": "debasish3807-afk/sona-ai-os",
+    "language": "Python",
+    "name": "debasish3807-afk/sona-ai-os",
+    "stars": 1,
+    "updated_at": "2026-08-07T11:48:26Z",
+    "url": "https://github.com/debasish3807-afk/sona-ai-os"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 6,
+    "updated_at": "2026-08-07T11:47:16Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-07T11:46:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-07T11:45:57Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T11:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29849,
+    "updated_at": "2026-08-07T11:44:24Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:43:11Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -95,17 +203,8 @@
     "language": "Python",
     "name": "Bibek-Dhakal/aegis-api",
     "stars": 0,
-    "updated_at": "2026-08-07T11:31:54Z",
+    "updated_at": "2026-08-07T12:00:22Z",
     "url": "https://github.com/Bibek-Dhakal/aegis-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -225,15 +324,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-07T11:17:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
     "id": "persona-net/rag-pipeline-dashboard",
     "language": "TypeScript",
@@ -288,15 +378,6 @@
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-07T11:04:58Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
     "description": "Load-testing and evaluation harness for RAG systems: corpus-grounded synthetic queries, open-loop load generation, and d",
     "id": "saparsha/rag-harness",
     "language": "Python",
@@ -342,24 +423,6 @@
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:58:55Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:58:45Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
     "id": "vector-index-bench/vibe",
     "language": "Python",
@@ -367,15 +430,6 @@
     "stars": 47,
     "updated_at": "2026-08-07T10:58:22Z",
     "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-07T10:58:12Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -394,59 +448,5 @@
     "stars": 64,
     "updated_at": "2026-08-07T11:37:14Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7041,
-    "updated_at": "2026-08-07T10:41:08Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33824,
-    "updated_at": "2026-08-07T11:41:44Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29848,
-    "updated_at": "2026-08-07T11:44:24Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI DataLake",
-    "id": "csmw-ai/LakeMind",
-    "language": "C",
-    "name": "csmw-ai/LakeMind",
-    "stars": 3,
-    "updated_at": "2026-08-07T10:33:41Z",
-    "url": "https://github.com/csmw-ai/LakeMind"
-  },
-  {
-    "description": "3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN",
-    "id": "koprjaa/chromadb-embedding-visualizer",
-    "language": "Python",
-    "name": "koprjaa/chromadb-embedding-visualizer",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:33:15Z",
-    "url": "https://github.com/koprjaa/chromadb-embedding-visualizer"
-  },
-  {
-    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
-    "id": "MeetVora79/gemini-rag-chatbot",
-    "language": "JavaScript",
-    "name": "MeetVora79/gemini-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-07T10:30:41Z",
-    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
   }
 ]
