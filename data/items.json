@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:29:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-agent AI platform on a LangGraph supervisor \u2014 8 specialist agents, 5 microservices, RAG over PDFs, metered credits",
+    "id": "madhav-sharma0201/falcon-ai",
+    "language": "JavaScript",
+    "name": "madhav-sharma0201/falcon-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:29:00Z",
+    "url": "https://github.com/madhav-sharma0201/falcon-ai"
+  },
+  {
     "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
     "id": "os-tack/ostk-recall",
     "language": "Rust",
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T18:17:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T18:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -439,14 +448,5 @@
     "stars": 6323,
     "updated_at": "2026-08-07T18:28:57Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1343,
-    "updated_at": "2026-08-07T17:41:15Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
