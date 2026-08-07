@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T23:00:23Z",
+    "updated_at": "2026-08-07T23:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:12:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:03:53Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Irodori Table Qdrant connector extension",
+    "id": "irodori-table/irodori-extension-qdrant",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:01:53Z",
+    "url": "https://github.com/irodori-table/irodori-extension-qdrant"
+  },
+  {
+    "description": "Irodori Table Pinecone connector extension",
+    "id": "irodori-table/irodori-extension-pinecone",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-pinecone",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:01:46Z",
+    "url": "https://github.com/irodori-table/irodori-extension-pinecone"
+  },
+  {
+    "description": "Irodori Table Milvus connector extension",
+    "id": "irodori-table/irodori-extension-milvus",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-milvus",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:01:06Z",
+    "url": "https://github.com/irodori-table/irodori-extension-milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Retrieval-augmented generation (RAG) application designed to extract and verify compliance policies from regulatory docu",
@@ -18,6 +72,15 @@
     "url": "https://github.com/ryawr/agentic-ai-auditor"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64471,
+    "updated_at": "2026-08-07T22:47:20Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -25,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T22:46:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:45:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 82,
-    "updated_at": "2026-08-07T23:00:23Z",
+    "updated_at": "2026-08-07T23:08:53Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -212,17 +257,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T22:58:15Z",
+    "updated_at": "2026-08-07T23:05:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64470,
-    "updated_at": "2026-08-07T22:47:20Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "An AI-powered behavioral recommendation system built for SmartReco Build Challenge 2026 using FastAPI, LangGraph, Chroma",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T19:06:33Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Real-time voice AI infrastructure \u2014 500+ concurrent calls, WebSockets, Apache Kafka, gRPC/C++ with CUDA. Speech-to-text,",
-    "id": "rehan243/Voice-AI-Platform",
-    "language": "Python",
-    "name": "rehan243/Voice-AI-Platform",
-    "stars": 1,
-    "updated_at": "2026-08-07T19:05:16Z",
-    "url": "https://github.com/rehan243/Voice-AI-Platform"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-07T22:50:53Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
-    "id": "rafaelnicolett/kern",
-    "language": "Rust",
-    "name": "rafaelnicolett/kern",
-    "stars": 1,
-    "updated_at": "2026-08-07T19:04:20Z",
-    "url": "https://github.com/rafaelnicolett/kern"
-  },
-  {
-    "description": "\ud83e\udd16 Telegram AI Knowledge Base & RAG Helpdesk Bot - Vector semantic search (SQLite) + OpenAI/DeepSeek embeddings with huma",
-    "id": "mamadiezad/telegram-rag-helpdesk",
-    "language": "Python",
-    "name": "mamadiezad/telegram-rag-helpdesk",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:57:58Z",
-    "url": "https://github.com/mamadiezad/telegram-rag-helpdesk"
   }
 ]
