@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T19:45:20Z",
+    "updated_at": "2026-08-07T19:59:53Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 462,
+    "updated_at": "2026-08-07T19:56:36Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-07T19:54:24Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:51:22Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11089,
+    "updated_at": "2026-08-07T19:50:24Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:47:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:45:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -36,15 +90,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:33:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
     "id": "Shahzain-Ali/agentive-solutions-book",
     "language": "Python",
@@ -68,17 +113,8 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 243,
-    "updated_at": "2026-08-07T19:39:43Z",
+    "updated_at": "2026-08-07T19:47:25Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:21:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 7,
-    "updated_at": "2026-08-07T19:20:11Z",
+    "updated_at": "2026-08-07T19:50:42Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T19:23:15Z",
+    "updated_at": "2026-08-07T20:00:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -113,7 +149,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64465,
-    "updated_at": "2026-08-07T19:14:53Z",
+    "updated_at": "2026-08-07T19:49:49Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "firelock-ai/kin-vector",
     "stars": 0,
-    "updated_at": "2026-08-07T19:13:30Z",
+    "updated_at": "2026-08-07T20:00:06Z",
     "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/rafaelnicolett/kern"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-07T18:58:01Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "\ud83e\udd16 Telegram AI Knowledge Base & RAG Helpdesk Bot - Vector semantic search (SQLite) + OpenAI/DeepSeek embeddings with huma",
     "id": "mamadiezad/telegram-rag-helpdesk",
     "language": "Python",
@@ -243,15 +270,6 @@
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11089,
-    "updated_at": "2026-08-07T19:15:29Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -259,15 +277,6 @@
     "stars": 64,
     "updated_at": "2026-08-07T19:04:35Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:53:53Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "SQLite-first cognitive memory core for LLM agents with multi-layer memory and auditable provenance.",
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16703,
-    "updated_at": "2026-08-07T19:42:52Z",
+    "updated_at": "2026-08-07T19:53:43Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T18:03:57Z",
     "url": "https://github.com/Omni-Kernel/OS"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 243,
-    "updated_at": "2026-08-07T17:59:33Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   }
 ]
