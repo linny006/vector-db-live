@@ -1,5 +1,41 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 82,
+    "updated_at": "2026-08-07T21:48:42Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Evidence-based diabetes guidance assistant powered by Retrieval-Augmented Generation (RAG) using ADA, CDC, and NICE clin",
+    "id": "smulamalla/diaguide-ai",
+    "language": "Python",
+    "name": "smulamalla/diaguide-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:47:35Z",
+    "url": "https://github.com/smulamalla/diaguide-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -9,6 +45,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-07T21:43:59Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T21:43:56Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 243,
-    "updated_at": "2026-08-07T21:43:59Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -63,15 +99,6 @@
     "url": "https://github.com/tradik/mddb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:35:13Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first, self-evolving multi-agent council \u2014 local LLMs debate, research, and evolve to solve goals behind a Verifie",
     "id": "sudhu72/oracle",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T21:31:11Z",
     "url": "https://github.com/sudhu72/oracle"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T20:30:10Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 82,
-    "updated_at": "2026-08-07T21:18:06Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-07T21:38:52Z",
+    "updated_at": "2026-08-07T21:53:00Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T18:51:02Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 835,
-    "updated_at": "2026-08-07T18:47:23Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   }
 ]
