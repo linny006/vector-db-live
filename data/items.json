@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-08-07T11:12:56Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:11:20Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-08-07T11:06:07Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T11:00:19Z",
+    "updated_at": "2026-08-07T11:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-08-07T11:14:56Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:12:41Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-07T11:04:58Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Load-testing and evaluation harness for RAG systems: corpus-grounded synthetic queries, open-loop load generation, and d",
+    "id": "saparsha/rag-harness",
+    "language": "Python",
+    "name": "saparsha/rag-harness",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:02:44Z",
+    "url": "https://github.com/saparsha/rag-harness"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-07T11:01:08Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8056,
+    "updated_at": "2026-08-07T11:12:36Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The reconciling memory layer for AI agents (MCP server): a new value supersedes the old, \"we dropped X\" actually retract",
@@ -36,22 +126,40 @@
     "url": "https://github.com/Mehdi138534/ai-news-scraper"
   },
   {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:58:45Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 47,
+    "updated_at": "2026-08-07T10:58:22Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:58:12Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5708,
-    "updated_at": "2026-08-07T10:57:37Z",
+    "updated_at": "2026-08-07T11:03:05Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:59:11Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T10:47:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -108,13 +207,13 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Load-testing and evaluation harness for RAG systems: corpus-grounded synthetic queries, open-loop load generation, and d",
-    "id": "saparsha/rag-harness",
-    "language": "\u2014",
-    "name": "saparsha/rag-harness",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:37:49Z",
-    "url": "https://github.com/saparsha/rag-harness"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29848,
+    "updated_at": "2026-08-07T11:11:31Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI DataLake",
@@ -167,7 +266,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1211,
-    "updated_at": "2026-08-07T10:46:38Z",
+    "updated_at": "2026-08-07T11:06:16Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -203,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T10:59:34Z",
+    "updated_at": "2026-08-07T11:13:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -232,15 +331,6 @@
     "stars": 6323,
     "updated_at": "2026-08-07T09:59:58Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:59:47Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
@@ -306,15 +396,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29846,
-    "updated_at": "2026-08-07T10:38:19Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T09:32:29Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 10,
-    "updated_at": "2026-08-07T09:32:28Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:32:06Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:31:48Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9409,
-    "updated_at": "2026-08-07T09:57:27Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "An AI-powered Second Brain that lets you chat with your Obsidian notes. Built with Python, LangChain, ChromaDB, and Goog",
-    "id": "Shreyansh15624/obs-rag",
-    "language": "Python",
-    "name": "Shreyansh15624/obs-rag",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:29:15Z",
-    "url": "https://github.com/Shreyansh15624/obs-rag"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-08-07T09:27:51Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "\ud83e\udd16 Agentic AI Recommendation & Masterclass Platform powered by NVIDIA Llama 3.1 70B, ChromaDB RAG Vector Search, LangGrap",
-    "id": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
-    "language": "Python",
-    "name": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:27:49Z",
-    "url": "https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:26:58Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:25:37Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
