@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 240,
+    "updated_at": "2026-08-07T12:13:59Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 64,
+    "updated_at": "2026-08-07T12:11:05Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:10:01Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-08-07T12:08:39Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:07:58Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -27,6 +81,15 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33825,
+    "updated_at": "2026-08-07T12:04:08Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
     "id": "arpan10000/simple-rag-pipeline-demo",
     "language": "Jupyter Notebook",
@@ -34,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T12:00:44Z",
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightweight, framework-free RAG agent built with FastAPI, local ONNX embeddings, and Gemini. Designed for sub-512MB RA",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "debasish3807-afk/sona-ai-os",
     "stars": 1,
-    "updated_at": "2026-08-07T11:48:26Z",
+    "updated_at": "2026-08-07T12:15:20Z",
     "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29849,
-    "updated_at": "2026-08-07T11:44:24Z",
+    "updated_at": "2026-08-07T12:10:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -378,24 +423,6 @@
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   },
   {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-08-07T11:15:48Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-07T11:14:30Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
     "description": "Load-testing and evaluation harness for RAG systems: corpus-grounded synthetic queries, open-loop load generation, and d",
     "id": "saparsha/rag-harness",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 8056,
     "updated_at": "2026-08-07T12:03:40Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The reconciling memory layer for AI agents (MCP server): a new value supersedes the old, \"we dropped X\" actually retract",
-    "id": "vayl-dev/vayl",
-    "language": "Python",
-    "name": "vayl-dev/vayl",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:59:29Z",
-    "url": "https://github.com/vayl-dev/vayl"
-  },
-  {
-    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
-    "id": "Iammilansoni/MiningNiti",
-    "language": "TypeScript",
-    "name": "Iammilansoni/MiningNiti",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:59:25Z",
-    "url": "https://github.com/Iammilansoni/MiningNiti"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 47,
-    "updated_at": "2026-08-07T10:58:22Z",
-    "url": "https://github.com/vector-index-bench/vibe"
   }
 ]
