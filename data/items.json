@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-07T17:30:33Z",
+    "updated_at": "2026-08-07T17:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
+    "id": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "language": "Jupyter Notebook",
+    "name": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "stars": 1,
+    "updated_at": "2026-08-07T17:42:39Z",
+    "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-07T17:41:05Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1221,
+    "updated_at": "2026-08-07T17:40:29Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An AI-powered Second Brain that lets you chat with your Obsidian notes. Built with Python, LangChain, ChromaDB, and Goog",
+    "id": "Shreyansh15624/obs-rag",
+    "language": "Python",
+    "name": "Shreyansh15624/obs-rag",
+    "stars": 1,
+    "updated_at": "2026-08-07T17:40:25Z",
+    "url": "https://github.com/Shreyansh15624/obs-rag"
+  },
+  {
+    "description": "Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB",
+    "id": "restocado/EShopDistributed",
+    "language": "C#",
+    "name": "restocado/EShopDistributed",
+    "stars": 0,
+    "updated_at": "2026-08-07T17:39:32Z",
+    "url": "https://github.com/restocado/EShopDistributed"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-07T17:38:26Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "DocMind AI backend \u2014 .NET 8 Clean Architecture + CQRS RAG API (Semantic Kernel, Qdrant, PostgreSQL)",
+    "id": "ChamathDilshanC/backend-DocMind-AI",
+    "language": "C#",
+    "name": "ChamathDilshanC/backend-DocMind-AI",
+    "stars": 0,
+    "updated_at": "2026-08-07T17:39:51Z",
+    "url": "https://github.com/ChamathDilshanC/backend-DocMind-AI"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1065,
+    "updated_at": "2026-08-07T17:38:02Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
+    "id": "Mahee-Jain123/Ai-study-assistant",
+    "language": "Python",
+    "name": "Mahee-Jain123/Ai-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-07T17:36:54Z",
+    "url": "https://github.com/Mahee-Jain123/Ai-study-assistant"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-07T17:35:24Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-07T17:30:31Z",
+    "updated_at": "2026-08-07T17:32:44Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 243,
-    "updated_at": "2026-08-07T17:28:30Z",
+    "updated_at": "2026-08-07T17:39:53Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "debasish3807-afk/sona-ai-os",
     "stars": 1,
-    "updated_at": "2026-08-07T17:27:07Z",
+    "updated_at": "2026-08-07T17:41:09Z",
     "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
@@ -52,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-07T17:26:56Z",
     "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI agent that answers questions about YouTube tutorials and your own codebase \u2014 available as a Chrome extension, desktop",
+    "id": "AyaanHussain1/CodeSage_Agent",
+    "language": "JavaScript",
+    "name": "AyaanHussain1/CodeSage_Agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T17:26:18Z",
+    "url": "https://github.com/AyaanHussain1/CodeSage_Agent"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:14:11Z",
     "url": "https://github.com/jihedbfr-art/ai-skills"
-  },
-  {
-    "description": "DocMind AI backend \u2014 .NET 8 Clean Architecture + CQRS RAG API (Semantic Kernel, Qdrant, PostgreSQL)",
-    "id": "ChamathDilshanC/backend-DocMind-AI",
-    "language": "C#",
-    "name": "ChamathDilshanC/backend-DocMind-AI",
-    "stars": 0,
-    "updated_at": "2026-08-07T17:13:34Z",
-    "url": "https://github.com/ChamathDilshanC/backend-DocMind-AI"
   },
   {
     "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
@@ -207,15 +297,6 @@
     "url": "https://github.com/Toskurim/vector-unforget"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-07T16:39:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -234,15 +315,6 @@
     "url": "https://github.com/Jiangxianze/java-agent-memory"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1221,
-    "updated_at": "2026-08-07T16:30:58Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -259,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T16:14:58Z",
     "url": "https://github.com/venom312004/AI-video-assistant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1065,
-    "updated_at": "2026-08-07T17:30:35Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -293,7 +356,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1343,
-    "updated_at": "2026-08-07T16:11:14Z",
+    "updated_at": "2026-08-07T17:41:15Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -337,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29847,
+    "stars": 29846,
     "updated_at": "2026-08-07T15:40:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T15:27:53Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 377,
-    "updated_at": "2026-08-07T15:20:15Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 59,
-    "updated_at": "2026-08-07T15:09:15Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:58:28Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 47,
-    "updated_at": "2026-08-07T14:56:33Z",
-    "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 107,
-    "updated_at": "2026-08-07T14:49:25Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "A hierarchical, self-distilling memory system for long-term AI Agents. Features L0-L3 storage architecture, multi-tenant",
-    "id": "DingdongMatch/mems",
-    "language": "Python",
-    "name": "DingdongMatch/mems",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:43:38Z",
-    "url": "https://github.com/DingdongMatch/mems"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 1,
-    "updated_at": "2026-08-07T14:41:52Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
   }
 ]
