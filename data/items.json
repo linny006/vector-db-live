@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
+    "id": "MeetVora79/gemini-rag-chatbot",
+    "language": "JavaScript",
+    "name": "MeetVora79/gemini-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:29:44Z",
+    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:25:15Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:24:51Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -36,24 +72,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An end-to-end RAG-based PDF chatbot built using Google Gemini, LangChain, FAISS, and Streamlit that allows users to uplo",
     "id": "SatishY21/Chat-with-PDF-using-Gemini",
     "language": "Python",
@@ -86,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-07T10:15:30Z",
+    "updated_at": "2026-08-07T10:30:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T10:05:00Z",
     "url": "https://github.com/axiomchronicles/elips"
-  },
-  {
-    "description": "A full-stack AI chatbot built with React and Node.js, powered by Google's Gemini API. Supports normal conversational cha",
-    "id": "MeetVora79/gemini-rag-chatbot",
-    "language": "JavaScript",
-    "name": "MeetVora79/gemini-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-07T10:02:26Z",
-    "url": "https://github.com/MeetVora79/gemini-rag-chatbot"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33823,
-    "updated_at": "2026-08-07T09:39:01Z",
+    "updated_at": "2026-08-07T10:28:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T09:25:37Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-07T10:10:02Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
