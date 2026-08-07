@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 21:54 UTC
+> ⏰ Last updated: 2026-08-07 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 82 | Rust | 2026-08-07 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 2 | [smulamalla/diaguide-ai](https://github.com/smulamalla/diaguide-ai) | 0 | Python | 2026-08-07 | Evidence-based diabetes guidance assistant powered by Retrieval-Augmented Generation (RAG) using ADA, CDC, and NICE clin |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 82 | Rust | 2026-08-07 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 3 | [smulamalla/diaguide-ai](https://github.com/smulamalla/diaguide-ai) | 0 | Python | 2026-08-07 | Evidence-based diabetes guidance assistant powered by Retrieval-Augmented Generation (RAG) using ADA, CDC, and NICE clin |
 | 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-07 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-07 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 6 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | 244 | Rust | 2026-08-07 | Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, |
