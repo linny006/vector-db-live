@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T22:00:18Z",
+    "updated_at": "2026-08-08T22:15:16Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-08T22:13:27Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 462,
+    "updated_at": "2026-08-08T22:09:36Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-08T22:08:52Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-08T22:07:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 491,
+    "updated_at": "2026-08-08T22:10:57Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T22:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T21:57:53Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 462,
-    "updated_at": "2026-08-08T21:52:10Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -72,15 +117,6 @@
     "url": "https://github.com/SitanshuA091/VectorBench"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-08T21:49:23Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -88,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T21:45:49Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:45:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:41:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T21:34:43Z",
     "url": "https://github.com/itswael/AIResearchAgent"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 491,
-    "updated_at": "2026-08-08T21:33:24Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -175,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29875,
+    "stars": 29876,
     "updated_at": "2026-08-08T20:52:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -184,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1273,
+    "stars": 1274,
     "updated_at": "2026-08-08T20:52:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "carlwelchdesign/supraconscious-avatar-ai",
     "stars": 0,
-    "updated_at": "2026-08-08T19:25:52Z",
+    "updated_at": "2026-08-08T22:08:44Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T21:58:50Z",
+    "updated_at": "2026-08-08T22:11:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-08T21:57:16Z",
+    "updated_at": "2026-08-08T22:13:02Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:19:18Z",
     "url": "https://github.com/Jiangxianze/rag-regression-gate"
-  },
-  {
-    "description": "Explainable multi-level AI memory for Java and Spring AI, with Redis and Milvus adapters",
-    "id": "Jiangxianze/java-agent-memory",
-    "language": "Java",
-    "name": "Jiangxianze/java-agent-memory",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:21:19Z",
-    "url": "https://github.com/Jiangxianze/java-agent-memory"
   }
 ]
