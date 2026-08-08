@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 08:00 UTC
+> ⏰ Last updated: 2026-08-08 08:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 3 | [adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent](https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent) | 1 | Python | 2026-08-08 | 🤖 Agentic AI Recommendation & Masterclass Platform powered by NVIDIA Llama 3.1 70B, ChromaDB RAG Vector Search, LangGrap |
-| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 4 | [adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent](https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent) | 1 | Python | 2026-08-08 | 🤖 Agentic AI Recommendation & Masterclass Platform powered by NVIDIA Llama 3.1 70B, ChromaDB RAG Vector Search, LangGrap |
+| 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 8 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 9 | [RIT-MESH/system-design-mastery](https://github.com/RIT-MESH/system-design-mastery) | 0 | Mermaid | 2026-08-08 | A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste |
 | 10 | [restocado/EShopDistributed](https://github.com/restocado/EShopDistributed) | 0 | C# | 2026-08-08 | Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB |
