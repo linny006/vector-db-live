@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T18:57:59Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-08T18:56:42Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1267,
+    "updated_at": "2026-08-08T18:52:49Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
+    "id": "Soumiya-33/Rag-core",
+    "language": "JavaScript",
+    "name": "Soumiya-33/Rag-core",
+    "stars": 1,
+    "updated_at": "2026-08-08T18:51:35Z",
+    "url": "https://github.com/Soumiya-33/Rag-core"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:50:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
     "id": "getbullet-app/paraql",
     "language": "JavaScript",
@@ -27,15 +81,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -43,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:45:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Serverless RAG Q&A on Amazon Bedrock \u2014 Titan Embeddings + Converse API (Claude/Nova), ChromaDB, FastAPI, deployed via Te",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-08-08T18:38:28Z",
+    "updated_at": "2026-08-08T18:53:48Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T18:34:43Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1267,
-    "updated_at": "2026-08-08T18:32:45Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -189,15 +216,6 @@
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T18:31:15Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-08T18:01:18Z",
+    "updated_at": "2026-08-08T18:54:43Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:51:13Z",
     "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
-    "id": "Soumiya-33/Rag-core",
-    "language": "JavaScript",
-    "name": "Soumiya-33/Rag-core",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:50:39Z",
-    "url": "https://github.com/Soumiya-33/Rag-core"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -439,14 +448,5 @@
     "stars": 65,
     "updated_at": "2026-08-08T15:51:37Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-08T15:42:42Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   }
 ]
