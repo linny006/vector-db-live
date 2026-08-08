@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T15:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:56:50Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29865,
+    "updated_at": "2026-08-08T14:54:32Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-08T14:51:03Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-08T14:51:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T14:48:47Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T14:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 16,
     "updated_at": "2026-08-08T14:45:16Z",
     "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12816,
+    "updated_at": "2026-08-08T14:45:03Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -72,24 +144,6 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:35:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29864,
-    "updated_at": "2026-08-08T14:35:07Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -99,13 +153,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI Medical Chatbot using RAG, GPT-4o mini, LangChain, Pinecone, Docker and AWS.",
+    "id": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:30:08Z",
+    "url": "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -153,21 +207,12 @@
     "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
-    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:39:10Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-08T14:30:20Z",
+    "updated_at": "2026-08-08T14:51:29Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -187,6 +232,15 @@
     "stars": 21,
     "updated_at": "2026-08-08T13:59:29Z",
     "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 244,
+    "updated_at": "2026-08-08T13:58:26Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -212,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T14:40:53Z",
+    "updated_at": "2026-08-08T14:50:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -324,20 +378,11 @@
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
   },
   {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 243,
-    "updated_at": "2026-08-08T13:58:26Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1260,
+    "stars": 1261,
     "updated_at": "2026-08-08T12:39:49Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -403,50 +448,5 @@
     "stars": 7043,
     "updated_at": "2026-08-08T11:40:58Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33851,
-    "updated_at": "2026-08-08T11:30:07Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
-    "id": "RiceSouffle/atlas-agentic-rag",
-    "language": "Python",
-    "name": "RiceSouffle/atlas-agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-08-08T11:29:51Z",
-    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
-  },
-  {
-    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
-    "id": "p3aRA55/DevAssistant-MCP",
-    "language": "Python",
-    "name": "p3aRA55/DevAssistant-MCP",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:29:23Z",
-    "url": "https://github.com/p3aRA55/DevAssistant-MCP"
-  },
-  {
-    "description": "Teaching resource I built to train my students in production-grade Hybrid RAG \u2014 semantic + keyword retrieval with RRF, C",
-    "id": "FullFran/Hybrid-RAG-example",
-    "language": "Python",
-    "name": "FullFran/Hybrid-RAG-example",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:22:34Z",
-    "url": "https://github.com/FullFran/Hybrid-RAG-example"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-08T11:15:32Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
