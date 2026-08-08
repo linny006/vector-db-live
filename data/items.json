@@ -1,12 +1,39 @@
 [
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-08T04:39:19Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB",
+    "id": "restocado/EShopDistributed",
+    "language": "C#",
+    "name": "restocado/EShopDistributed",
+    "stars": 0,
+    "updated_at": "2026-08-08T04:37:12Z",
+    "url": "https://github.com/restocado/EShopDistributed"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 14,
+    "updated_at": "2026-08-08T04:36:30Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-08T04:29:49Z",
-    "url": "https://github.com/frogdb/frogdb"
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 82,
+    "updated_at": "2026-08-08T04:35:31Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -14,17 +41,35 @@
     "language": "TypeScript",
     "name": "EVEDensity/AgentHub",
     "stars": 21,
-    "updated_at": "2026-08-08T04:29:10Z",
+    "updated_at": "2026-08-08T04:35:30Z",
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-08T04:29:58Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T04:30:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T04:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-08T04:38:13Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,30 +90,12 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T04:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T04:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T04:10:43Z",
+    "updated_at": "2026-08-08T04:36:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16704,
-    "updated_at": "2026-08-08T04:26:41Z",
+    "updated_at": "2026-08-08T04:32:52Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T04:02:12Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 82,
-    "updated_at": "2026-08-08T03:55:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
@@ -214,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T02:44:52Z",
     "url": "https://github.com/iharshkaran/HyperAI"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 14,
-    "updated_at": "2026-08-08T02:19:46Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:14:44Z",
     "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:10:46Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
   }
 ]
