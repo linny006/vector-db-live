@@ -1,5 +1,50 @@
 [
   {
+    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
+    "id": "getbullet-app/paraql",
+    "language": "JavaScript",
+    "name": "getbullet-app/paraql",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:48:39Z",
+    "url": "https://github.com/getbullet-app/paraql"
+  },
+  {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:47:51Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:45:38Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-08T18:45:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/KislayaSrivastava/bedrock-rag-qa-assistant"
   },
   {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:45:09Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-08T18:43:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
-    "id": "getbullet-app/paraql",
-    "language": "JavaScript",
-    "name": "getbullet-app/paraql",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:40:14Z",
-    "url": "https://github.com/getbullet-app/paraql"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -117,15 +144,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:08:30Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:08:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -439,14 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-08T15:42:42Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 835,
-    "updated_at": "2026-08-08T15:42:16Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   }
 ]
