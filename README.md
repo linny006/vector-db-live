@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 12:00 UTC
+> ⏰ Last updated: 2026-08-08 12:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [csmw-ai/LakeMind](https://github.com/csmw-ai/LakeMind) | 3 | C | 2026-08-08 | AI DataLake |
-| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29857 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 4 | [gorigesravani288-cmd/RepoMind](https://github.com/gorigesravani288-cmd/RepoMind) | 0 | Python | 2026-08-08 | 🧠 RepoMind — A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer |
-| 5 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-08 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 6 | [iharshkaran/HyperAI](https://github.com/iharshkaran/HyperAI) | 2 | TypeScript | 2026-08-08 | A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe |
-| 7 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1255 | Rust | 2026-08-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [Nitesh-lng/Self_RAG](https://github.com/Nitesh-lng/Self_RAG) | 1 | Python | 2026-08-08 | Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated |
-| 10 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 11 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7043 | Java | 2026-08-08 | The AI search platform |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33847 | Rust | 2026-08-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 14 | [RiceSouffle/atlas-agentic-rag](https://github.com/RiceSouffle/atlas-agentic-rag) | 1 | Python | 2026-08-08 | ATLAS: Agentic RAG as one coherent system — hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo |
-| 15 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 16 | [p3aRA55/DevAssistant-MCP](https://github.com/p3aRA55/DevAssistant-MCP) | 0 | Python | 2026-08-08 | A secure MCP server bridging AI coding assistants to local dev workflows — file I/O with path sandboxing, GitHub integra |
-| 17 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 18 | [FullFran/Hybrid-RAG-example](https://github.com/FullFran/Hybrid-RAG-example) | 2 | Python | 2026-08-08 | Teaching resource I built to train my students in production-grade Hybrid RAG — semantic + keyword retrieval with RRF, C |
-| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 20 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 4 | Python | 2026-08-08 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
-| 21 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-08 | In-memory knowledge store for AI agents |
-| 22 | [berktopal/microsoft-foundry-local-rag](https://github.com/berktopal/microsoft-foundry-local-rag) | 0 | Python | 2026-08-08 | A 100% offline Local RAG (Retrieval-Augmented Generation) assistant built with Microsoft Foundry Local, utilizing Phi-3. |
-| 23 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 2 | Python | 2026-08-08 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 24 | [andrestubbe/FastAIVectorDB](https://github.com/andrestubbe/FastAIVectorDB) | 0 | Java | 2026-08-08 | Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem |
-| 25 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
+| 1 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
+| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [csmw-ai/LakeMind](https://github.com/csmw-ai/LakeMind) | 3 | C | 2026-08-08 | AI DataLake |
+| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29857 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 7 | [gorigesravani288-cmd/RepoMind](https://github.com/gorigesravani288-cmd/RepoMind) | 0 | Python | 2026-08-08 | 🧠 RepoMind — A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer |
+| 8 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-08 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 9 | [iharshkaran/HyperAI](https://github.com/iharshkaran/HyperAI) | 2 | TypeScript | 2026-08-08 | A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe |
+| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1255 | Rust | 2026-08-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 11 | [Nitesh-lng/Self_RAG](https://github.com/Nitesh-lng/Self_RAG) | 1 | Python | 2026-08-08 | Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated |
+| 12 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7043 | Java | 2026-08-08 | The AI search platform |
+| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 14 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33847 | Rust | 2026-08-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 15 | [RiceSouffle/atlas-agentic-rag](https://github.com/RiceSouffle/atlas-agentic-rag) | 1 | Python | 2026-08-08 | ATLAS: Agentic RAG as one coherent system — hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo |
+| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 17 | [p3aRA55/DevAssistant-MCP](https://github.com/p3aRA55/DevAssistant-MCP) | 0 | Python | 2026-08-08 | A secure MCP server bridging AI coding assistants to local dev workflows — file I/O with path sandboxing, GitHub integra |
+| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 19 | [FullFran/Hybrid-RAG-example](https://github.com/FullFran/Hybrid-RAG-example) | 2 | Python | 2026-08-08 | Teaching resource I built to train my students in production-grade Hybrid RAG — semantic + keyword retrieval with RRF, C |
+| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 21 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 4 | Python | 2026-08-08 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
+| 22 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-08 | In-memory knowledge store for AI agents |
+| 23 | [berktopal/microsoft-foundry-local-rag](https://github.com/berktopal/microsoft-foundry-local-rag) | 0 | Python | 2026-08-08 | A 100% offline Local RAG (Retrieval-Augmented Generation) assistant built with Microsoft Foundry Local, utilizing Phi-3. |
+| 24 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 2 | Python | 2026-08-08 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 25 | [andrestubbe/FastAIVectorDB](https://github.com/andrestubbe/FastAIVectorDB) | 0 | Java | 2026-08-08 | Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem |
 | 26 | [HyxiaoGe/fusion-api](https://github.com/HyxiaoGe/fusion-api) | 5 | Python | 2026-08-08 | Fusion 后端：统一多模型接入，提供 Agent 对话、文件解析、向量检索与知识库能力。 |
 | 27 | [Krishna-Pratik/infosys-ai-document-search](https://github.com/Krishna-Pratik/infosys-ai-document-search) | 1 | Python | 2026-08-08 | Enterprise-grade AI-powered document search system using Retrieval-Augmented Generation (RAG), Streamlit UI, multi-model |
 | 28 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |

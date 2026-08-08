@@ -1,5 +1,32 @@
 [
   {
+    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
+    "id": "debasish3807-afk/sona-ai-os",
+    "language": "Python",
+    "name": "debasish3807-afk/sona-ai-os",
+    "stars": 1,
+    "updated_at": "2026-08-08T12:02:13Z",
+    "url": "https://github.com/debasish3807-afk/sona-ai-os"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 193,
+    "updated_at": "2026-08-08T12:00:45Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T12:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29857,
-    "updated_at": "2026-08-08T11:56:25Z",
+    "updated_at": "2026-08-08T12:01:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -59,17 +86,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1255,
-    "updated_at": "2026-08-08T11:57:10Z",
+    "updated_at": "2026-08-08T12:01:59Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T11:45:00Z",
     "url": "https://github.com/Nitesh-lng/Self_RAG"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 193,
-    "updated_at": "2026-08-08T11:53:43Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "The AI search platform",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:30:38Z",
     "url": "https://github.com/andrestubbe/FastAIVectorDB"
-  },
-  {
-    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
-    "id": "debasish3807-afk/sona-ai-os",
-    "language": "Python",
-    "name": "debasish3807-afk/sona-ai-os",
-    "stars": 1,
-    "updated_at": "2026-08-08T11:58:51Z",
-    "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
