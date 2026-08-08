@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 07:13 UTC
+> ⏰ Last updated: 2026-08-08 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-08 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 2 | [RIT-MESH/system-design-mastery](https://github.com/RIT-MESH/system-design-mastery) | 0 | Mermaid | 2026-08-08 | A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste |
-| 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-08 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 4 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [Abishang21/enterprise-rag-knowledge-assistant](https://github.com/Abishang21/enterprise-rag-knowledge-assistant) | 0 | — | 2026-08-08 | A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem |
-| 8 | [devyanshyadav/librenote-ai](https://github.com/devyanshyadav/librenote-ai) | 6 | TypeScript | 2026-08-08 | The open-source, self-hosted alternative to NotebookLM. |
-| 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 10 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-08 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
-| 11 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 2 | Rust | 2026-08-08 | Decentralized Graph Database with Integrated Vector Search |
-| 12 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-08 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 3 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 193 | Rust | 2026-08-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-08 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
+| 6 | [RIT-MESH/system-design-mastery](https://github.com/RIT-MESH/system-design-mastery) | 0 | Mermaid | 2026-08-08 | A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste |
+| 7 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
+| 8 | [Abishang21/enterprise-rag-knowledge-assistant](https://github.com/Abishang21/enterprise-rag-knowledge-assistant) | 0 | — | 2026-08-08 | A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem |
+| 9 | [devyanshyadav/librenote-ai](https://github.com/devyanshyadav/librenote-ai) | 6 | TypeScript | 2026-08-08 | The open-source, self-hosted alternative to NotebookLM. |
+| 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 11 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-08 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
+| 12 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 2 | Rust | 2026-08-08 | Decentralized Graph Database with Integrated Vector Search |
 | 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-08 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 14 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
