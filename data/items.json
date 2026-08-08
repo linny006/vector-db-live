@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI Medical Chatbot using RAG, GPT-4o mini, LangChain, Pinecone, Docker and AWS.",
+    "id": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:24:22Z",
+    "url": "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:12:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-08T16:23:39Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-08T16:20:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -23,8 +32,17 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-08T16:11:46Z",
+    "updated_at": "2026-08-08T16:19:24Z",
     "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:18:03Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Vector DB implementation in Mojo",
@@ -32,8 +50,26 @@
     "language": "Mojo",
     "name": "bewaffnete/MojoVec",
     "stars": 6,
-    "updated_at": "2026-08-08T16:10:43Z",
+    "updated_at": "2026-08-08T16:16:10Z",
     "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29867,
-    "updated_at": "2026-08-08T15:54:29Z",
+    "updated_at": "2026-08-08T16:20:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -162,24 +198,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:17:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-08T15:40:05Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-08T15:43:59Z",
+    "updated_at": "2026-08-08T16:29:01Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-08-08T15:02:15Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "AI Medical Chatbot using RAG, GPT-4o mini, LangChain, Pinecone, Docker and AWS.",
-    "id": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
-    "language": "Python",
-    "name": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:30:08Z",
-    "url": "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-08T12:58:45Z",
     "url": "https://github.com/AleksNeStu/ai-news-scraper"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1263,
-    "updated_at": "2026-08-08T12:39:49Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
