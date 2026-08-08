@@ -1,11 +1,20 @@
 [
   {
+    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
+    "id": "debasish3807-afk/sona-ai-os",
+    "language": "Python",
+    "name": "debasish3807-afk/sona-ai-os",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:12:07Z",
+    "url": "https://github.com/debasish3807-afk/sona-ai-os"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-08T06:00:23Z",
+    "updated_at": "2026-08-08T06:05:51Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1239,
-    "updated_at": "2026-08-08T06:00:21Z",
+    "updated_at": "2026-08-08T06:06:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -194,17 +203,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T05:47:40Z",
+    "updated_at": "2026-08-08T06:08:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
-    "id": "debasish3807-afk/sona-ai-os",
-    "language": "Python",
-    "name": "debasish3807-afk/sona-ai-os",
-    "stars": 1,
-    "updated_at": "2026-08-08T06:01:38Z",
-    "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -274,7 +274,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 246,
+    "stars": 247,
     "updated_at": "2026-08-08T04:06:41Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
