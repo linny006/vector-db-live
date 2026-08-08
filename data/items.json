@@ -1,12 +1,12 @@
 [
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-07T23:58:06Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 462,
+    "updated_at": "2026-08-08T00:13:42Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +14,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-07T23:58:01Z",
+    "updated_at": "2026-08-08T00:00:28Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
-    "id": "rafaelnicolett/kern",
-    "language": "Rust",
-    "name": "rafaelnicolett/kern",
-    "stars": 1,
-    "updated_at": "2026-08-07T23:53:03Z",
-    "url": "https://github.com/rafaelnicolett/kern"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -34,6 +25,24 @@
     "stars": 2,
     "updated_at": "2026-08-08T00:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-07T23:58:06Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:53:03Z",
+    "url": "https://github.com/rafaelnicolett/kern"
   },
   {
     "description": "A Lucene codec for vector search and clustering on the GPU",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 244,
-    "updated_at": "2026-08-07T23:35:40Z",
+    "updated_at": "2026-08-08T00:00:35Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T22:34:46Z",
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 462,
-    "updated_at": "2026-08-07T22:16:21Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
