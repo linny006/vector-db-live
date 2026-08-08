@@ -1,11 +1,110 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ATLAS: Agentic RAG as one coherent system \u2014 hybrid search + reranking + knowledge graph, tool-calling over MCP, multi-mo",
+    "id": "RiceSouffle/atlas-agentic-rag",
+    "language": "Python",
+    "name": "RiceSouffle/atlas-agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-08-08T11:29:51Z",
+    "url": "https://github.com/RiceSouffle/atlas-agentic-rag"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-08T11:29:44Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A secure MCP server bridging AI coding assistants to local dev workflows \u2014 file I/O with path sandboxing, GitHub integra",
+    "id": "p3aRA55/DevAssistant-MCP",
+    "language": "Python",
+    "name": "p3aRA55/DevAssistant-MCP",
+    "stars": 0,
+    "updated_at": "2026-08-08T11:29:23Z",
+    "url": "https://github.com/p3aRA55/DevAssistant-MCP"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 193,
+    "updated_at": "2026-08-08T11:27:38Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-08T11:26:19Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Teaching resource I built to train my students in production-grade Hybrid RAG \u2014 semantic + keyword retrieval with RRF, C",
+    "id": "FullFran/Hybrid-RAG-example",
+    "language": "Python",
+    "name": "FullFran/Hybrid-RAG-example",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:22:34Z",
+    "url": "https://github.com/FullFran/Hybrid-RAG-example"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:18:15Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI DataLake",
+    "id": "csmw-ai/LakeMind",
+    "language": "C",
+    "name": "csmw-ai/LakeMind",
+    "stars": 3,
+    "updated_at": "2026-08-08T11:17:08Z",
+    "url": "https://github.com/csmw-ai/LakeMind"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-08T11:15:32Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-08T11:14:45Z",
+    "updated_at": "2026-08-08T11:15:31Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -18,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:05:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
     "id": "Nitesh-lng/Self_RAG",
     "language": "Python",
@@ -36,22 +126,13 @@
     "url": "https://github.com/Nitesh-lng/Self_RAG"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 193,
-    "updated_at": "2026-08-08T11:06:58Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "qdrant/qdrant",
+    "stars": 33845,
+    "updated_at": "2026-08-08T11:30:07Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1254,
-    "updated_at": "2026-08-08T10:59:01Z",
+    "updated_at": "2026-08-08T11:26:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29856,
-    "updated_at": "2026-08-08T11:14:20Z",
+    "updated_at": "2026-08-08T11:29:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -90,24 +171,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-08T10:34:19Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:30:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
     "id": "andrestubbe/FastAIVectorDB",
     "language": "Java",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:30:38Z",
     "url": "https://github.com/andrestubbe/FastAIVectorDB"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33844,
-    "updated_at": "2026-08-08T11:00:32Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-08-08T10:21:30Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:19:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Enterprise-grade AI-powered document search system using Retrieval-Augmented Generation (RAG), Streamlit UI, multi-model",
@@ -259,15 +304,6 @@
     "stars": 7,
     "updated_at": "2026-08-08T09:17:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-08T11:11:42Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T06:31:21Z",
     "url": "https://github.com/Mxnrxjj/talk-to-my-repo"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1905,
-    "updated_at": "2026-08-08T06:28:16Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
-    "id": "feather-store/feather",
-    "language": "Python",
-    "name": "feather-store/feather",
-    "stars": 6,
-    "updated_at": "2026-08-08T06:21:10Z",
-    "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 41,
-    "updated_at": "2026-08-08T06:18:08Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T06:16:50Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   }
 ]
