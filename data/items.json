@@ -1,12 +1,30 @@
 [
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
-    "name": "agent-ix/ecaz",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T21:15:02Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-08T21:00:34Z",
-    "url": "https://github.com/agent-ix/ecaz"
+    "updated_at": "2026-08-08T21:08:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-08T21:01:04Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-08T21:00:24Z",
+    "updated_at": "2026-08-08T21:00:50Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-08T21:00:34Z",
+    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -40,7 +67,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29873,
+    "stars": 29874,
     "updated_at": "2026-08-08T20:52:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -61,15 +88,6 @@
     "stars": 462,
     "updated_at": "2026-08-08T20:43:12Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:42:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -108,15 +126,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-08T20:28:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -148,7 +157,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33861,
+    "stars": 33862,
     "updated_at": "2026-08-08T20:09:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -176,17 +185,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11095,
-    "updated_at": "2026-08-08T20:37:55Z",
+    "updated_at": "2026-08-08T21:12:58Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T20:59:36Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
@@ -212,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T20:44:18Z",
+    "updated_at": "2026-08-08T21:13:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 7,
-    "updated_at": "2026-08-08T20:32:15Z",
+    "updated_at": "2026-08-08T21:07:30Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-08T20:29:55Z",
+    "updated_at": "2026-08-08T21:13:58Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
