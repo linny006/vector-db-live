@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T11:45:20Z",
+    "updated_at": "2026-08-08T12:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI DataLake",
+    "id": "csmw-ai/LakeMind",
+    "language": "C",
+    "name": "csmw-ai/LakeMind",
+    "stars": 3,
+    "updated_at": "2026-08-08T11:57:38Z",
+    "url": "https://github.com/csmw-ai/LakeMind"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29857,
+    "updated_at": "2026-08-08T11:56:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
+    "id": "gorigesravani288-cmd/RepoMind",
+    "language": "Python",
+    "name": "gorigesravani288-cmd/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-08-08T11:54:24Z",
+    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-08-08T11:52:56Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -14,8 +50,26 @@
     "language": "TypeScript",
     "name": "iharshkaran/HyperAI",
     "stars": 2,
-    "updated_at": "2026-08-08T11:45:08Z",
+    "updated_at": "2026-08-08T11:51:43Z",
     "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1255,
+    "updated_at": "2026-08-08T11:57:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
@@ -32,26 +86,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 193,
-    "updated_at": "2026-08-08T11:44:28Z",
+    "updated_at": "2026-08-08T11:53:43Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29856,
-    "updated_at": "2026-08-08T11:44:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T11:42:10Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -117,15 +153,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1255,
-    "updated_at": "2026-08-08T11:26:01Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Teaching resource I built to train my students in production-grade Hybrid RAG \u2014 semantic + keyword retrieval with RRF, C",
     "id": "FullFran/Hybrid-RAG-example",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T11:18:15Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI DataLake",
-    "id": "csmw-ai/LakeMind",
-    "language": "C",
-    "name": "csmw-ai/LakeMind",
-    "stars": 3,
-    "updated_at": "2026-08-08T11:17:08Z",
-    "url": "https://github.com/csmw-ai/LakeMind"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-08T10:40:45Z",
+    "updated_at": "2026-08-08T11:57:09Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "debasish3807-afk/sona-ai-os",
     "stars": 1,
-    "updated_at": "2026-08-08T10:24:12Z",
+    "updated_at": "2026-08-08T11:58:51Z",
     "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35071,
-    "updated_at": "2026-08-08T09:46:57Z",
+    "updated_at": "2026-08-08T11:52:57Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T09:04:42Z",
+    "updated_at": "2026-08-08T11:51:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 243,
     "updated_at": "2026-08-08T06:46:02Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:33:56Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "6-layer persistent memory (sensory, working, episodic, semantic, long-term, procedural) with non-destructive belief revi",
-    "id": "Verace-Pvt-Ltd/agentic-memory",
-    "language": "Python",
-    "name": "Verace-Pvt-Ltd/agentic-memory",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:33:35Z",
-    "url": "https://github.com/Verace-Pvt-Ltd/agentic-memory"
   }
 ]
