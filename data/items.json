@@ -1,21 +1,39 @@
 [
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
     "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 462,
-    "updated_at": "2026-08-08T02:25:39Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-08T02:44:52Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
+    "id": "debasish3807-afk/sona-ai-os",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "debasish3807-afk/sona-ai-os",
+    "stars": 1,
+    "updated_at": "2026-08-08T02:40:18Z",
+    "url": "https://github.com/debasish3807-afk/sona-ai-os"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-08T02:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-08-08T02:38:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T02:35:26Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,17 +41,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T02:15:19Z",
+    "updated_at": "2026-08-08T02:30:31Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
-    "id": "iharshkaran/HyperAI",
-    "language": "TypeScript",
-    "name": "iharshkaran/HyperAI",
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-08T02:12:36Z",
-    "url": "https://github.com/iharshkaran/HyperAI"
+    "updated_at": "2026-08-08T02:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 462,
+    "updated_at": "2026-08-08T02:25:39Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -151,24 +178,6 @@
     "stars": 11,
     "updated_at": "2026-08-08T01:41:23Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T01:32:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T02:12:46Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:30:52Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 243,
-    "updated_at": "2026-08-08T00:28:43Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   }
 ]
