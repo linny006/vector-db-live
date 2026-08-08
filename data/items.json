@@ -1,5 +1,23 @@
 [
   {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-08T21:00:34Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T21:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -22,27 +40,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29872,
+    "stars": 29873,
     "updated_at": "2026-08-08T20:52:34Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:47:41Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",

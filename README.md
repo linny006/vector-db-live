@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [bcastelino/sec-financial-chatbot](https://github.com/bcastelino/sec-financial-chatbot) | 1 | TypeScript | 2026-08-08 | Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe |
-| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29872 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 4 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-08 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-08 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [bcastelino/sec-financial-chatbot](https://github.com/bcastelino/sec-financial-chatbot) | 1 | TypeScript | 2026-08-08 | Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe |
+| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29873 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 84 | Rust | 2026-08-08 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 7 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 462 | TypeScript | 2026-08-08 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
 | 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
