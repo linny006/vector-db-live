@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 04:45 UTC
+> ⏰ Last updated: 2026-08-08 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,27 +43,27 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [qtuanph/chatbot-rag](https://github.com/qtuanph/chatbot-rag) | 1 | Python | 2026-08-08 | Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an |
-| 2 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 21 | TypeScript | 2026-08-08 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-08 | Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev |
-| 5 | [restocado/EShopDistributed](https://github.com/restocado/EShopDistributed) | 0 | C# | 2026-08-08 | Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB |
-| 6 | [integrallis/vectors](https://github.com/integrallis/vectors) | 14 | Java | 2026-08-08 | The Ultimate Vectors Library for Java |
-| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 82 | Rust | 2026-08-08 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 4 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 21 | TypeScript | 2026-08-08 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
+| 5 | [integrallis/vectors](https://github.com/integrallis/vectors) | 14 | Java | 2026-08-08 | The Ultimate Vectors Library for Java |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1065 | Java | 2026-08-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-08 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1065 | Java | 2026-08-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 12 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 246 | Go | 2026-08-08 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
-| 13 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16704 | Go | 2026-08-08 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
-| 16 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 462 | TypeScript | 2026-08-08 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 17 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7043 | Java | 2026-08-08 | The AI search platform |
-| 18 | [VivekDahariya/PriAI](https://github.com/VivekDahariya/PriAI) | 0 | Python | 2026-08-08 | Build your own offline domain-specific AI from your knowledge. |
-| 19 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45556 | Go | 2026-08-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 20 | [csmw-ai/LakeMind](https://github.com/csmw-ai/LakeMind) | 3 | C | 2026-08-08 | AI DataLake |
-| 21 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 22 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-08 | Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev |
+| 11 | [restocado/EShopDistributed](https://github.com/restocado/EShopDistributed) | 0 | C# | 2026-08-08 | Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB |
+| 12 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 82 | Rust | 2026-08-08 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 13 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-08 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 14 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 246 | Go | 2026-08-08 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
+| 15 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16704 | Go | 2026-08-08 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 17 | [debasish3807-afk/sona-ai-os](https://github.com/debasish3807-afk/sona-ai-os) | 1 | Python | 2026-08-08 | Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and  |
+| 18 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 462 | TypeScript | 2026-08-08 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 19 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7043 | Java | 2026-08-08 | The AI search platform |
+| 20 | [VivekDahariya/PriAI](https://github.com/VivekDahariya/PriAI) | 0 | Python | 2026-08-08 | Build your own offline domain-specific AI from your knowledge. |
+| 21 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45556 | Go | 2026-08-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 22 | [csmw-ai/LakeMind](https://github.com/csmw-ai/LakeMind) | 3 | C | 2026-08-08 | AI DataLake |
 | 23 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | 244 | Rust | 2026-08-08 | Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, |
 | 24 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 779 | Rust | 2026-08-08 | A Vector Database Tutorial (over CMU-DB's BusTub system) |
 | 25 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-08 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
