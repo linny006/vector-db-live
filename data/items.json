@@ -1,5 +1,41 @@
 [
   {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:12:45Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:12:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1268,
+    "updated_at": "2026-08-08T19:01:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 244,
-    "updated_at": "2026-08-08T18:57:59Z",
+    "updated_at": "2026-08-08T19:03:30Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1267,
-    "updated_at": "2026-08-08T18:52:49Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
     "id": "Soumiya-33/Rag-core",
     "language": "JavaScript",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T18:51:35Z",
     "url": "https://github.com/Soumiya-33/Rag-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:50:17Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Parallel multi-writer relational database with SQL syntax. Native support for encryption, compression, and vector search",
@@ -79,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:45:38Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:45:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Serverless RAG Q&A on Amazon Bedrock \u2014 Titan Embeddings + Converse API (Claude/Nova), ChromaDB, FastAPI, deployed via Te",
@@ -124,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:38:47Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-08T18:53:48Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-08T18:08:30Z",
+    "updated_at": "2026-08-08T19:13:35Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -232,6 +232,15 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:54:43Z",
     "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33857,
+    "updated_at": "2026-08-08T18:01:10Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -333,6 +342,15 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 195,
+    "updated_at": "2026-08-08T17:09:22Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
     "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
     "id": "Mahee-Jain123/Ai-study-assistant",
     "language": "Python",
@@ -367,15 +385,6 @@
     "stars": 1905,
     "updated_at": "2026-08-08T16:57:08Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33856,
-    "updated_at": "2026-08-08T18:01:10Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T18:17:45Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 65,
-    "updated_at": "2026-08-08T15:51:37Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
