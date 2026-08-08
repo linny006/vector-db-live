@@ -1,12 +1,48 @@
 [
   {
-    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
-    "id": "os-tack/ostk-recall",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-08T19:40:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
     "language": "Rust",
-    "name": "os-tack/ostk-recall",
-    "stars": 5,
-    "updated_at": "2026-08-08T19:29:02Z",
-    "url": "https://github.com/os-tack/ostk-recall"
+    "name": "lancedb/lancedb",
+    "stars": 11095,
+    "updated_at": "2026-08-08T19:39:47Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T19:36:48Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-08T19:30:24Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-08T19:28:20Z",
+    "updated_at": "2026-08-08T19:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
+    "id": "os-tack/ostk-recall",
+    "language": "Rust",
+    "name": "os-tack/ostk-recall",
+    "stars": 5,
+    "updated_at": "2026-08-08T19:29:02Z",
+    "url": "https://github.com/os-tack/ostk-recall"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -41,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-08T19:24:47Z",
+    "updated_at": "2026-08-08T19:37:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -50,7 +95,7 @@
     "language": "JavaScript",
     "name": "Soumiya-33/Rag-core",
     "stars": 1,
-    "updated_at": "2026-08-08T19:22:58Z",
+    "updated_at": "2026-08-08T19:41:37Z",
     "url": "https://github.com/Soumiya-33/Rag-core"
   },
   {
@@ -72,31 +117,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T19:15:54Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-08-08T19:12:45Z",
+    "updated_at": "2026-08-08T19:30:43Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T19:12:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -104,17 +131,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1268,
-    "updated_at": "2026-08-08T19:01:33Z",
+    "updated_at": "2026-08-08T19:36:43Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T19:03:30Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -189,15 +207,6 @@
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-08T18:38:07Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -248,7 +257,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-08T18:54:43Z",
+    "updated_at": "2026-08-08T19:39:21Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -256,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33857,
+    "stars": 33858,
     "updated_at": "2026-08-08T18:01:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T16:24:22Z",
     "url": "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
-  },
-  {
-    "description": "Telegram assistant with long-term semantic memory powered by Pinecone and OpenAI",
-    "id": "nifontovoleg/telegram-pinecone-assistant",
-    "language": "Python",
-    "name": "nifontovoleg/telegram-pinecone-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:06:17Z",
-    "url": "https://github.com/nifontovoleg/telegram-pinecone-assistant"
   }
 ]
