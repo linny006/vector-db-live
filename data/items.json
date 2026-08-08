@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T20:45:21Z",
+    "updated_at": "2026-08-08T21:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe",
+    "id": "bcastelino/sec-financial-chatbot",
+    "language": "TypeScript",
+    "name": "bcastelino/sec-financial-chatbot",
+    "stars": 1,
+    "updated_at": "2026-08-08T20:56:38Z",
+    "url": "https://github.com/bcastelino/sec-financial-chatbot"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29872,
+    "updated_at": "2026-08-08T20:52:34Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-08T20:47:41Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 84,
-    "updated_at": "2026-08-08T20:44:26Z",
+    "updated_at": "2026-08-08T20:45:54Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -36,6 +72,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1270,
+    "updated_at": "2026-08-08T20:52:03Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) system for querying corporate documents with FastAPI, Next.js, ChromaDB ",
     "id": "feyzasagman/corporate-document-assistant",
     "language": "Python",
@@ -54,15 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T20:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -72,15 +108,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1269,
-    "updated_at": "2026-08-08T20:35:42Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T20:28:43Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe",
-    "id": "bcastelino/sec-financial-chatbot",
-    "language": "TypeScript",
-    "name": "bcastelino/sec-financial-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-08T20:27:09Z",
-    "url": "https://github.com/bcastelino/sec-financial-chatbot"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -130,7 +148,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33860,
+    "stars": 33861,
     "updated_at": "2026-08-08T20:09:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 244,
-    "updated_at": "2026-08-08T20:44:00Z",
+    "updated_at": "2026-08-08T20:59:36Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29872,
-    "updated_at": "2026-08-08T18:30:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -331,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T20:29:55Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-08T19:39:21Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
