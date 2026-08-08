@@ -1,12 +1,12 @@
 [
   {
-    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
-    "id": "Abishang21/enterprise-rag-knowledge-assistant",
-    "language": "\u2014",
-    "name": "Abishang21/enterprise-rag-knowledge-assistant",
+    "description": "A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste",
+    "id": "RIT-MESH/system-design-mastery",
+    "language": "Mermaid",
+    "name": "RIT-MESH/system-design-mastery",
     "stars": 0,
-    "updated_at": "2026-08-08T06:43:41Z",
-    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
+    "updated_at": "2026-08-08T06:59:40Z",
+    "url": "https://github.com/RIT-MESH/system-design-mastery"
   },
   {
     "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "debasish3807-afk/sona-ai-os",
     "stars": 1,
-    "updated_at": "2026-08-08T06:43:13Z",
+    "updated_at": "2026-08-08T06:56:54Z",
     "url": "https://github.com/debasish3807-afk/sona-ai-os"
+  },
+  {
+    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
+    "id": "Abishang21/enterprise-rag-knowledge-assistant",
+    "language": "\u2014",
+    "name": "Abishang21/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:56:02Z",
+    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "The open-source, self-hosted alternative to NotebookLM.",
+    "id": "devyanshyadav/librenote-ai",
+    "language": "TypeScript",
+    "name": "devyanshyadav/librenote-ai",
+    "stars": 6,
+    "updated_at": "2026-08-08T06:54:44Z",
+    "url": "https://github.com/devyanshyadav/librenote-ai"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:54:42Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
+    "id": "MatthewRyanWeber/data-governance-pipeline",
+    "language": "Python",
+    "name": "MatthewRyanWeber/data-governance-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:53:48Z",
+    "url": "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:52:38Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 193,
+    "updated_at": "2026-08-08T06:50:46Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -23,15 +77,69 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-08T06:45:17Z",
+    "updated_at": "2026-08-08T06:59:31Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:49:57Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:46:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udd16 Agentic AI Recommendation & Masterclass Platform powered by NVIDIA Llama 3.1 70B, ChromaDB RAG Vector Search, LangGrap",
+    "id": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
+    "language": "Python",
+    "name": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-08T06:46:37Z",
+    "url": "https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 243,
+    "updated_at": "2026-08-08T06:46:02Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1241,
+    "stars": 1242,
     "updated_at": "2026-08-08T06:35:38Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -72,33 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83e\udd16 Agentic AI Recommendation & Masterclass Platform powered by NVIDIA Llama 3.1 70B, ChromaDB RAG Vector Search, LangGrap",
-    "id": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
-    "language": "Python",
-    "name": "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-08T06:30:23Z",
-    "url": "https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -135,24 +216,6 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:15:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 193,
-    "updated_at": "2026-08-08T06:43:37Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -171,15 +234,6 @@
     "url": "https://github.com/zhenkun26/BusinessAgent"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-08T05:47:29Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-08-08T05:42:46Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:40:41Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Deterministic CI gate for retrieval regressions in Spring AI and JVM RAG pipelines",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T02:44:52Z",
     "url": "https://github.com/iharshkaran/HyperAI"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6323,
-    "updated_at": "2026-08-08T02:10:14Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:07:23Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:01:45Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-08-08T02:00:05Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:58:39Z",
-    "url": "https://github.com/api-evangelist/weaviate"
   }
 ]
