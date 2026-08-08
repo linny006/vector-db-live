@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nifontovoleg/nemo-memory-bot](https://github.com/nifontovoleg/nemo-memory-bot) | 0 | Python | 2026-08-08 | Telegram assistant with long-term semantic memory powered by Pinecone and OpenAI |
-| 2 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 462 | TypeScript | 2026-08-08 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 3 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-08 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 4 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 6 | Mojo | 2026-08-08 | Vector DB implementation in Mojo |
-| 5 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 835 | TypeScript | 2026-08-08 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | 244 | Rust | 2026-08-08 | Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29866 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [nifontovoleg/nemo-memory-bot](https://github.com/nifontovoleg/nemo-memory-bot) | 0 | Python | 2026-08-08 | Telegram assistant with long-term semantic memory powered by Pinecone and OpenAI |
+| 3 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 462 | TypeScript | 2026-08-08 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 4 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-08 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 5 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 6 | Mojo | 2026-08-08 | Vector DB implementation in Mojo |
+| 6 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 835 | TypeScript | 2026-08-08 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | 244 | Rust | 2026-08-08 | Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, |
+| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29866 | Python | 2026-08-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 12 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 0 | HTML | 2026-08-08 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |

@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T15:45:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Telegram assistant with long-term semantic memory powered by Pinecone and OpenAI",
     "id": "nifontovoleg/nemo-memory-bot",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 29866,
     "updated_at": "2026-08-08T15:44:42Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T15:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
