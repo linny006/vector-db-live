@@ -1,11 +1,65 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-08T00:43:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 244,
+    "updated_at": "2026-08-08T00:43:06Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-08T00:44:01Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-08T00:38:20Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-08T00:30:52Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T00:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-08T00:30:21Z",
+    "updated_at": "2026-08-08T00:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T00:16:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T00:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -117,24 +162,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-07T23:32:22Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-07T23:22:30Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Agentic Persian legal question-answering system using OCR, metadata-aware RAG, LanceDB, LangGraph, LLM reranking, and RA",
     "id": "Hamidreza-Talei/persian-legal-rag-agent",
     "language": "Jupyter Notebook",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T23:17:55Z",
     "url": "https://github.com/Hamidreza-Talei/persian-legal-rag-agent"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 244,
-    "updated_at": "2026-08-08T00:00:35Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
@@ -346,7 +364,7 @@
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 64,
+    "stars": 65,
     "updated_at": "2026-08-07T20:35:03Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -355,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1229,
+    "stars": 1230,
     "updated_at": "2026-08-07T20:19:28Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T22:23:57Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:31:28Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "A self-hosted enterprise search engine that ingests any file type, retrieves with true hybrid search, links everything i",
-    "id": "chirags1725/Enterprise-knowledge-platform",
-    "language": "JavaScript",
-    "name": "chirags1725/Enterprise-knowledge-platform",
-    "stars": 3,
-    "updated_at": "2026-08-07T19:30:31Z",
-    "url": "https://github.com/chirags1725/Enterprise-knowledge-platform"
   }
 ]
