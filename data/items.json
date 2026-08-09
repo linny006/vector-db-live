@@ -1,5 +1,23 @@
 [
   {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-08-09T00:33:57Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T00:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 84,
-    "updated_at": "2026-08-09T00:28:52Z",
+    "updated_at": "2026-08-09T00:32:22Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -54,15 +72,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-08-09T00:22:16Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
     "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
     "id": "stackitcloud/rag-template",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T00:16:33Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T00:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -247,7 +247,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33865,
+    "stars": 33866,
     "updated_at": "2026-08-08T22:42:56Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -364,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29881,
+    "stars": 29882,
     "updated_at": "2026-08-08T20:52:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -437,7 +437,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-09T00:26:27Z",
+    "updated_at": "2026-08-09T00:42:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
