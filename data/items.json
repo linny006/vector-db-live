@@ -1,12 +1,48 @@
 [
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 246,
+    "updated_at": "2026-08-09T08:41:57Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:39:57Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:36:53Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
+    "id": "axiomchronicles/elips",
+    "language": "TypeScript",
+    "name": "axiomchronicles/elips",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:36:50Z",
+    "url": "https://github.com/axiomchronicles/elips"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-09T08:27:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "updated_at": "2026-08-09T08:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -18,6 +54,24 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:27:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1292,
+    "updated_at": "2026-08-09T08:27:35Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
     "id": "ilyuve/code-pop",
     "language": "Python",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T08:20:11Z",
     "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T08:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -135,31 +180,13 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
-    "id": "axiomchronicles/elips",
-    "language": "TypeScript",
-    "name": "axiomchronicles/elips",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:53:54Z",
-    "url": "https://github.com/axiomchronicles/elips"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16710,
-    "updated_at": "2026-08-09T07:52:53Z",
+    "updated_at": "2026-08-09T08:42:29Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:52:34Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -180,15 +207,6 @@
     "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1291,
-    "updated_at": "2026-08-09T08:27:35Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Campus Connect Backend",
     "id": "iamrehman16/CampusConnect-Server",
     "language": "TypeScript",
@@ -196,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T07:29:28Z",
     "url": "https://github.com/iamrehman16/CampusConnect-Server"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 246,
-    "updated_at": "2026-08-09T08:02:39Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:17:49Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
     "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
@@ -230,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1875,
-    "updated_at": "2026-08-09T08:09:33Z",
+    "updated_at": "2026-08-09T08:41:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-09T07:45:13Z",
+    "updated_at": "2026-08-09T08:44:01Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
