@@ -1,48 +1,57 @@
 [
   {
-    "description": "Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object.",
-    "id": "equationalapplications/sqlite-s3-agent-tutorial",
-    "language": "TypeScript",
-    "name": "equationalapplications/sqlite-s3-agent-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-09T03:28:31Z",
-    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
     "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
     "id": "MarwaBS/production-rag-platform",
     "language": "Python",
     "name": "MarwaBS/production-rag-platform",
     "stars": 0,
-    "updated_at": "2026-08-09T03:22:14Z",
+    "updated_at": "2026-08-09T03:44:57Z",
     "url": "https://github.com/MarwaBS/production-rag-platform"
   },
   {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-08-09T03:20:31Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-09T03:43:37Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-09T03:20:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
+    "id": "Abishang21/enterprise-rag-knowledge-assistant",
+    "language": "\u2014",
+    "name": "Abishang21/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:43:00Z",
+    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
     "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9410,
-    "updated_at": "2026-08-09T03:23:36Z",
-    "url": "https://github.com/databendlabs/databend"
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-09T03:41:37Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:40:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T03:32:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-09T03:15:24Z",
+    "updated_at": "2026-08-09T03:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -59,17 +68,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T03:30:20Z",
+    "updated_at": "2026-08-09T03:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
+    "description": "Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:35:56Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 24,
+    "updated_at": "2026-08-09T03:44:42Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-09T03:43:25Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
     "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:02:50Z",
-    "url": "https://github.com/agent-ix/ecaz"
+    "name": "databendlabs/databend",
+    "stars": 9410,
+    "updated_at": "2026-08-09T03:31:25Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "HNSW approximate nearest neighbor engine from scratch in C++20. AVX2 SIMD-accelerated distance computation, memory-mappe",
@@ -85,7 +121,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 496,
+    "stars": 499,
     "updated_at": "2026-08-09T03:00:14Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T02:55:23Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T02:43:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 780,
-    "updated_at": "2026-08-09T03:06:27Z",
+    "updated_at": "2026-08-09T03:35:30Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/saftyy/hybrid-rag-enterprise-support"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-09T01:48:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -214,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T01:46:03Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-09T01:37:58Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-09T00:28:49Z",
+    "updated_at": "2026-08-09T03:44:49Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-09T03:25:28Z",
+    "updated_at": "2026-08-09T03:33:46Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -337,7 +346,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8058,
+    "stars": 8059,
     "updated_at": "2026-08-08T23:16:52Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -439,14 +448,5 @@
     "stars": 491,
     "updated_at": "2026-08-08T22:10:57Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:49:47Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
