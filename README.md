@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 05:59 UTC
+> ⏰ Last updated: 2026-08-09 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pratyushpad/Lumina](https://github.com/pratyushpad/Lumina) | 1 | Python | 2026-08-09 | Grounded multimodal RAG workbench — PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen |
-| 2 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-09 | Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev |
-| 3 | [modarresi1913/shadow-db](https://github.com/modarresi1913/shadow-db) | 1 | TypeScript | 2026-08-09 | Live-delta engine on top of Firecrawl — detect meaningful web changes, stream as semantic events for AI agents. |
-| 4 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-09 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [pratyushpad/Lumina](https://github.com/pratyushpad/Lumina) | 1 | Python | 2026-08-09 | Grounded multimodal RAG workbench — PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen |
+| 4 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-09 | Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev |
+| 5 | [modarresi1913/shadow-db](https://github.com/modarresi1913/shadow-db) | 1 | TypeScript | 2026-08-09 | Live-delta engine on top of Firecrawl — detect meaningful web changes, stream as semantic events for AI agents. |
+| 6 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-09 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 8 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 21 | TypeScript | 2026-08-09 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
 | 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1431 | Python | 2026-08-09 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
 | 10 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-09 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [equationalapplications/sqlite-s3-agent-tutorial](https://github.com/equationalapplications/sqlite-s3-agent-tutorial) | 0 | TypeScript | 2026-08-09 | Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object. |
 | 30 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9410 | Rust | 2026-08-09 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 31 | [oneKn8/VectorVault](https://github.com/oneKn8/VectorVault) | 1 | C++ | 2026-08-09 | HNSW approximate nearest neighbor engine from scratch in C++20. AVX2 SIMD-accelerated distance computation, memory-mappe |
-| 32 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 549 | Python | 2026-08-09 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
+| 32 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 550 | Python | 2026-08-09 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
 | 33 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-09 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
 | 34 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-09 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
 | 35 | [schmitech/orbit](https://github.com/schmitech/orbit) | 335 | Python | 2026-08-09 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |

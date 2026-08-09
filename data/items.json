@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T06:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:59:06Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
     "id": "pratyushpad/Lumina",
     "language": "Python",
@@ -43,24 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T05:46:17Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -283,7 +283,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 549,
+    "stars": 550,
     "updated_at": "2026-08-09T03:00:14Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
