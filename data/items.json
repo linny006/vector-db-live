@@ -1,5 +1,68 @@
 [
   {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-08-09T10:44:53Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T10:44:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-09T10:42:55Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
+    "id": "ilyuve/code-pop",
+    "language": "Python",
+    "name": "ilyuve/code-pop",
+    "stars": 0,
+    "updated_at": "2026-08-09T10:38:24Z",
+    "url": "https://github.com/ilyuve/code-pop"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-09T10:36:39Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-09T10:35:09Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T10:34:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -14,17 +77,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-09T10:31:11Z",
+    "updated_at": "2026-08-09T10:41:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T10:30:08Z",
+    "updated_at": "2026-08-09T10:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
-    "id": "iharshkaran/HyperAI",
-    "language": "TypeScript",
-    "name": "iharshkaran/HyperAI",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:29:43Z",
-    "url": "https://github.com/iharshkaran/HyperAI"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -68,7 +113,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-09T10:23:45Z",
+    "updated_at": "2026-08-09T10:39:16Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -95,26 +140,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1875,
-    "updated_at": "2026-08-09T10:28:28Z",
+    "updated_at": "2026-08-09T10:43:41Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:11:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-08-09T10:06:45Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -126,21 +153,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-09T09:56:12Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-09T10:32:51Z",
+    "updated_at": "2026-08-09T10:38:06Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 33880,
     "updated_at": "2026-08-09T10:23:42Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-09T09:39:54Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -238,18 +247,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1296,
+    "stars": 1297,
     "updated_at": "2026-08-09T08:27:35Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "Python",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:18:59Z",
-    "url": "https://github.com/ilyuve/code-pop"
   },
   {
     "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
@@ -311,7 +311,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16710,
-    "updated_at": "2026-08-09T09:45:50Z",
+    "updated_at": "2026-08-09T10:35:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
