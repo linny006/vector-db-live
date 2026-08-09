@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T23:30:19Z",
+    "updated_at": "2026-08-09T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-09T23:44:39Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 335,
+    "updated_at": "2026-08-09T23:43:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T23:42:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-09T23:43:12Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1068,
+    "updated_at": "2026-08-09T23:39:15Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-09T23:33:57Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "build vector database extensions over Apache Datafusion and CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 781,
+    "updated_at": "2026-08-09T23:32:57Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-09T23:31:44Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T23:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -171,15 +252,6 @@
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T23:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "vul-os/basin",
     "language": "Rust",
@@ -207,21 +279,12 @@
     "url": "https://github.com/eastythenob8-svg/graph-memory"
   },
   {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-08-09T23:14:48Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 259,
-    "updated_at": "2026-08-09T23:12:20Z",
+    "updated_at": "2026-08-09T23:30:29Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T23:08:29Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T23:08:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -391,62 +445,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1312,
+    "stars": 1313,
     "updated_at": "2026-08-09T22:52:41Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-09T22:51:07Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-09T22:49:36Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-08-09T22:48:52Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 93,
-    "updated_at": "2026-08-09T22:45:35Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 2,
-    "updated_at": "2026-08-09T22:45:16Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 335,
-    "updated_at": "2026-08-09T22:43:55Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
