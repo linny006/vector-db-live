@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T01:00:18Z",
+    "updated_at": "2026-08-09T01:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-09T01:07:51Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
+    "id": "MarwaBS/production-rag-platform",
+    "language": "Python",
+    "name": "MarwaBS/production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:07:15Z",
+    "url": "https://github.com/MarwaBS/production-rag-platform"
+  },
+  {
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
+    "language": "Python",
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:04:36Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:01:44Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10232,
+    "updated_at": "2026-08-09T01:00:59Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T01:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T00:46:09Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T00:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T00:02:42Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
-    "id": "MarwaBS/production-rag-platform",
-    "language": "Python",
-    "name": "MarwaBS/production-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-09T01:00:00Z",
-    "url": "https://github.com/MarwaBS/production-rag-platform"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -412,41 +448,5 @@
     "stars": 2046,
     "updated_at": "2026-08-08T20:26:04Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
-    "id": "os-tack/ostk-recall",
-    "language": "Rust",
-    "name": "os-tack/ostk-recall",
-    "stars": 6,
-    "updated_at": "2026-08-08T19:29:02Z",
-    "url": "https://github.com/os-tack/ostk-recall"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5714,
-    "updated_at": "2026-08-08T19:25:10Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1065,
-    "updated_at": "2026-08-09T00:55:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
-    "id": "Soumiya-33/Rag-core",
-    "language": "JavaScript",
-    "name": "Soumiya-33/Rag-core",
-    "stars": 1,
-    "updated_at": "2026-08-08T19:41:37Z",
-    "url": "https://github.com/Soumiya-33/Rag-core"
   }
 ]
