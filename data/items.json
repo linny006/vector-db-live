@@ -1,5 +1,50 @@
 [
   {
+    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
+    "id": "HillolPias/taskapi-backend",
+    "language": "Python",
+    "name": "HillolPias/taskapi-backend",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:48:15Z",
+    "url": "https://github.com/HillolPias/taskapi-backend"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 93,
+    "updated_at": "2026-08-09T21:48:00Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:47:34Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:47:08Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
     "id": "DopamineDriven/slipstream",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T21:44:57Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
-    "id": "HillolPias/taskapi-backend",
-    "language": "Python",
-    "name": "HillolPias/taskapi-backend",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:43:37Z",
-    "url": "https://github.com/HillolPias/taskapi-backend"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -97,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T21:32:46Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T21:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T21:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -401,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8065,
-    "updated_at": "2026-08-09T21:08:31Z",
+    "updated_at": "2026-08-09T21:47:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T21:01:01Z",
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-09T20:55:38Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:53:49Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
