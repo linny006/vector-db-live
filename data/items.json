@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T09:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T09:00:18Z",
+    "updated_at": "2026-08-09T09:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Learning distributed AI systems with .NET Aspire, PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama, and VectorDB",
+    "id": "restocado/EShopDistributed",
+    "language": "C#",
+    "name": "restocado/EShopDistributed",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:13:28Z",
+    "url": "https://github.com/restocado/EShopDistributed"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9410,
+    "updated_at": "2026-08-09T09:04:24Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33875,
+    "updated_at": "2026-08-09T09:02:21Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:02:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T09:01:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -58,7 +94,7 @@
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
-    "stars": 246,
+    "stars": 247,
     "updated_at": "2026-08-09T08:41:57Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
@@ -103,7 +139,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1292,
+    "stars": 1294,
     "updated_at": "2026-08-09T08:27:35Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -135,20 +171,11 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:07:54Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 195,
+    "stars": 196,
     "updated_at": "2026-08-09T08:06:04Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-09T08:59:56Z",
+    "updated_at": "2026-08-09T09:01:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1065,
-    "updated_at": "2026-08-09T08:48:17Z",
+    "updated_at": "2026-08-09T09:13:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T04:41:45Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-09T04:29:32Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-09T04:07:00Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Versioned, fast and scalable nearest neighbor search.",
-    "id": "replikativ/proximum",
-    "language": "Clojure",
-    "name": "replikativ/proximum",
-    "stars": 30,
-    "updated_at": "2026-08-09T04:03:51Z",
-    "url": "https://github.com/replikativ/proximum"
   }
 ]
