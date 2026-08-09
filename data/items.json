@@ -1,12 +1,39 @@
 [
   {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-08-09T04:41:45Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-09T04:41:26Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T04:30:18Z",
+    "updated_at": "2026-08-09T04:39:02Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "TypeScript",
+    "name": "EVEDensity/AgentHub",
+    "stars": 21,
+    "updated_at": "2026-08-09T04:36:36Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1431,
-    "updated_at": "2026-08-09T04:30:07Z",
+    "updated_at": "2026-08-09T04:35:21Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T04:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T04:29:32Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 21,
-    "updated_at": "2026-08-09T04:29:24Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,15 +79,6 @@
     "stars": 1065,
     "updated_at": "2026-08-09T04:22:22Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T04:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -162,15 +180,6 @@
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-09T03:43:25Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -193,7 +202,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 510,
+    "stars": 515,
     "updated_at": "2026-08-09T03:00:14Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-09T04:17:06Z",
+    "updated_at": "2026-08-09T04:39:21Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 33868,
     "updated_at": "2026-08-08T22:42:56Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-08T22:32:03Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
