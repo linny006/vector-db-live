@@ -1,5 +1,140 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:44:14Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
+    "id": "ilyuve/code-pop",
+    "language": "Python",
+    "name": "ilyuve/code-pop",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:43:56Z",
+    "url": "https://github.com/ilyuve/code-pop"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-09T11:42:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-09T11:42:42Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-08-09T11:42:01Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-09T11:41:19Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:41:14Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:40:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:40:21Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-09T11:40:49Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:37:37Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-08-09T11:37:27Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-08-09T11:32:41Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:30:21Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
     "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
     "id": "DanieldfMedina/GenAI-Course-Repo",
     "language": "C++",
@@ -23,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-09T11:29:12Z",
+    "updated_at": "2026-08-09T11:42:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T11:27:59Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-09T11:27:34Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -126,24 +252,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Versioned, fast and scalable nearest neighbor search.",
     "id": "replikativ/proximum",
     "language": "Clojure",
@@ -176,17 +284,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29888,
-    "updated_at": "2026-08-09T11:17:21Z",
+    "updated_at": "2026-08-09T11:41:44Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:08:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -196,15 +295,6 @@
     "stars": 84,
     "updated_at": "2026-08-09T11:07:14Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object.",
-    "id": "equationalapplications/sqlite-s3-agent-tutorial",
-    "language": "TypeScript",
-    "name": "equationalapplications/sqlite-s3-agent-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:16:47Z",
-    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
     "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
@@ -243,21 +333,12 @@
     "url": "https://github.com/iharshkaran/HyperAI"
   },
   {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "Python",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:02:12Z",
-    "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-09T11:28:39Z",
+    "updated_at": "2026-08-09T11:37:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -346,7 +427,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1298,
+    "stars": 1299,
     "updated_at": "2026-08-09T08:27:35Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -367,86 +448,5 @@
     "stars": 491,
     "updated_at": "2026-08-09T09:45:57Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 198,
-    "updated_at": "2026-08-09T08:06:04Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Intelligent file organization with computer vision, audio analysis, chunking, proactive AI-powered analysis, interactive",
-    "id": "thebearwithabite/ai-file-organizer",
-    "language": "Python",
-    "name": "thebearwithabite/ai-file-organizer",
-    "stars": 43,
-    "updated_at": "2026-08-09T08:02:01Z",
-    "url": "https://github.com/thebearwithabite/ai-file-organizer"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 21,
-    "updated_at": "2026-08-09T07:56:11Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8063,
-    "updated_at": "2026-08-09T11:07:28Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16710,
-    "updated_at": "2026-08-09T11:27:31Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 93,
-    "updated_at": "2026-08-09T07:44:29Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2044,
-    "updated_at": "2026-08-09T07:29:34Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Campus Connect Backend",
-    "id": "iamrehman16/CampusConnect-Server",
-    "language": "TypeScript",
-    "name": "iamrehman16/CampusConnect-Server",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:29:28Z",
-    "url": "https://github.com/iamrehman16/CampusConnect-Server"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-09T08:07:23Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
