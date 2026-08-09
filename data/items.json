@@ -1,21 +1,84 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T08:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T08:00:19Z",
+    "updated_at": "2026-08-09T08:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:14:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
+    "id": "Soumiya-33/Rag-core",
+    "language": "Python",
+    "name": "Soumiya-33/Rag-core",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:13:12Z",
+    "url": "https://github.com/Soumiya-33/Rag-core"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 491,
+    "updated_at": "2026-08-09T08:12:31Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:07:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 195,
+    "updated_at": "2026-08-09T08:06:04Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Intelligent file organization with computer vision, audio analysis, chunking, proactive AI-powered analysis, interactive",
+    "id": "thebearwithabite/ai-file-organizer",
+    "language": "Python",
+    "name": "thebearwithabite/ai-file-organizer",
+    "stars": 43,
+    "updated_at": "2026-08-09T08:02:01Z",
+    "url": "https://github.com/thebearwithabite/ai-file-organizer"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6205,
+    "updated_at": "2026-08-09T08:01:31Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:00:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -45,6 +108,15 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8061,
+    "updated_at": "2026-08-09T07:54:52Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Embedded Local Index & Persistence System, an embedded, in-process vector database. SQLite for vectors: no server, no po",
     "id": "axiomchronicles/elips",
     "language": "TypeScript",
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T07:52:34Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:47:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 246,
-    "updated_at": "2026-08-09T07:50:30Z",
+    "updated_at": "2026-08-09T08:02:39Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -135,21 +198,12 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:15:57Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1875,
-    "updated_at": "2026-08-09T07:48:32Z",
+    "updated_at": "2026-08-09T08:09:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -158,7 +212,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-09T07:53:40Z",
+    "updated_at": "2026-08-09T08:07:23Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T06:39:25Z",
     "url": "https://github.com/iharshkaran/HyperAI"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 491,
-    "updated_at": "2026-08-09T06:33:29Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T03:35:56Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9410,
-    "updated_at": "2026-08-09T07:35:07Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "HNSW approximate nearest neighbor engine from scratch in C++20. AVX2 SIMD-accelerated distance computation, memory-mappe",
-    "id": "oneKn8/VectorVault",
-    "language": "C++",
-    "name": "oneKn8/VectorVault",
-    "stars": 1,
-    "updated_at": "2026-08-09T03:00:39Z",
-    "url": "https://github.com/oneKn8/VectorVault"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 599,
-    "updated_at": "2026-08-09T03:00:14Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-09T02:32:25Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-09T02:21:45Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   }
 ]
