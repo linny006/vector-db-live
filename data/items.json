@@ -1,12 +1,57 @@
 [
   {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-08-09T01:28:59Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
+    "id": "TarekMineRoyal/AcademicGateway-AI",
+    "language": "Python",
+    "name": "TarekMineRoyal/AcademicGateway-AI",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:28:25Z",
+    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T01:15:21Z",
+    "updated_at": "2026-08-09T01:23:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
+    "id": "sharfuddin18/Codemaster-Ai",
+    "language": "Python",
+    "name": "sharfuddin18/Codemaster-Ai",
+    "stars": 2,
+    "updated_at": "2026-08-09T01:22:47Z",
+    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
+    "id": "MarwaBS/production-rag-platform",
+    "language": "Python",
+    "name": "MarwaBS/production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:27:14Z",
+    "url": "https://github.com/MarwaBS/production-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T01:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -16,24 +61,6 @@
     "stars": 44,
     "updated_at": "2026-08-09T01:07:51Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
-    "id": "MarwaBS/production-rag-platform",
-    "language": "Python",
-    "name": "MarwaBS/production-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-09T01:07:15Z",
-    "url": "https://github.com/MarwaBS/production-rag-platform"
-  },
-  {
-    "description": "High-performance, localized AI vector matchmaking and semantic search microservice built with FastAPI, LanceDB, and PyTo",
-    "id": "TarekMineRoyal/AcademicGateway-AI",
-    "language": "Python",
-    "name": "TarekMineRoyal/AcademicGateway-AI",
-    "stars": 1,
-    "updated_at": "2026-08-09T01:04:36Z",
-    "url": "https://github.com/TarekMineRoyal/AcademicGateway-AI"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -52,15 +79,6 @@
     "stars": 10232,
     "updated_at": "2026-08-09T01:00:59Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T01:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 84,
-    "updated_at": "2026-08-09T00:32:22Z",
+    "updated_at": "2026-08-09T01:18:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "stackitcloud/rag-template",
     "stars": 86,
-    "updated_at": "2026-08-09T00:28:12Z",
+    "updated_at": "2026-08-09T01:15:39Z",
     "url": "https://github.com/stackitcloud/rag-template"
   },
   {
@@ -400,7 +418,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29882,
+    "stars": 29883,
     "updated_at": "2026-08-08T20:52:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-08T20:32:09Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-08-08T20:12:19Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2046,
-    "updated_at": "2026-08-08T20:26:04Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
