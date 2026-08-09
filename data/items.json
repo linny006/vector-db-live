@@ -5,15 +5,42 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-09T03:00:21Z",
+    "updated_at": "2026-08-09T03:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-09T03:02:50Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "HNSW approximate nearest neighbor engine from scratch in C++20. AVX2 SIMD-accelerated distance computation, memory-mappe",
+    "id": "oneKn8/VectorVault",
+    "language": "C++",
+    "name": "oneKn8/VectorVault",
+    "stars": 1,
+    "updated_at": "2026-08-09T03:00:39Z",
+    "url": "https://github.com/oneKn8/VectorVault"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T03:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 492,
+    "stars": 495,
     "updated_at": "2026-08-09T03:00:14Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -34,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T02:55:23Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T02:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -95,17 +113,8 @@
     "language": "Python",
     "name": "yantrikos/yantrikdb-mcp",
     "stars": 24,
-    "updated_at": "2026-08-09T02:13:47Z",
+    "updated_at": "2026-08-09T03:14:43Z",
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-09T02:11:47Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -113,8 +122,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 84,
-    "updated_at": "2026-08-09T02:03:25Z",
+    "updated_at": "2026-08-09T03:10:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:59:56Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
     "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 780,
-    "updated_at": "2026-08-09T02:30:02Z",
+    "updated_at": "2026-08-09T03:06:27Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T21:46:59Z",
     "url": "https://github.com/SitanshuA091/VectorBench"
-  },
-  {
-    "description": "Event-driven FastAPI backend scaffold (Kafka + vector DB stubs) for a planned AI research-briefing agent; infra skeleton",
-    "id": "itswael/AIResearchAgent",
-    "language": "Python",
-    "name": "itswael/AIResearchAgent",
-    "stars": 0,
-    "updated_at": "2026-08-08T21:34:43Z",
-    "url": "https://github.com/itswael/AIResearchAgent"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11095,
-    "updated_at": "2026-08-08T21:34:27Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
