@@ -1,5 +1,68 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 84,
+    "updated_at": "2026-08-09T11:07:14Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 247,
+    "updated_at": "2026-08-09T11:05:43Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:04:58Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 4,
+    "updated_at": "2026-08-09T11:03:50Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:03:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 30,
+    "updated_at": "2026-08-09T11:06:32Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -14,26 +77,8 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-09T10:50:59Z",
+    "updated_at": "2026-08-09T11:06:08Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "ilyuve/code-pop",
     "stars": 0,
-    "updated_at": "2026-08-09T10:38:24Z",
+    "updated_at": "2026-08-09T11:02:12Z",
     "url": "https://github.com/ilyuve/code-pop"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-09T10:55:37Z",
+    "updated_at": "2026-08-09T11:06:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29887,
-    "updated_at": "2026-08-09T10:54:59Z",
+    "updated_at": "2026-08-09T11:01:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -131,17 +176,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33882,
-    "updated_at": "2026-08-09T10:23:42Z",
+    "updated_at": "2026-08-09T11:00:26Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 247,
-    "updated_at": "2026-08-09T10:22:46Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -311,7 +347,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8063,
-    "updated_at": "2026-08-09T07:54:52Z",
+    "updated_at": "2026-08-09T11:07:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16710,
-    "updated_at": "2026-08-09T10:35:07Z",
+    "updated_at": "2026-08-09T11:02:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 93,
     "updated_at": "2026-08-09T07:44:29Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 4,
-    "updated_at": "2026-08-09T07:40:50Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T06:16:30Z",
     "url": "https://github.com/GermaniU/mcp-memory"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 835,
-    "updated_at": "2026-08-09T06:09:21Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:01:29Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
-    "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
-    "id": "pratyushpad/Lumina",
-    "language": "Python",
-    "name": "pratyushpad/Lumina",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:57:30Z",
-    "url": "https://github.com/pratyushpad/Lumina"
   }
 ]
