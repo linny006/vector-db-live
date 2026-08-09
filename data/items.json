@@ -1,12 +1,93 @@
 [
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-09T22:43:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 335,
+    "updated_at": "2026-08-09T22:43:55Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 30,
+    "updated_at": "2026-08-09T22:41:38Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-09T22:37:07Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "An AI-powered behavioral recommendation system built for SmartReco Build Challenge 2026 using FastAPI, LangGraph, Chroma",
+    "id": "Ahmed2797/smartreco-agentic-recommendation-system-2026",
+    "language": "Python",
+    "name": "Ahmed2797/smartreco-agentic-recommendation-system-2026",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:32:45Z",
+    "url": "https://github.com/Ahmed2797/smartreco-agentic-recommendation-system-2026"
+  },
+  {
+    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
+    "id": "alegameplays14-del/leica-infinity-2026",
+    "language": "\u2014",
+    "name": "alegameplays14-del/leica-infinity-2026",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:32:11Z",
+    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-09T22:30:00Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "updated_at": "2026-08-09T22:31:48Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
+    "id": "Divine-vision-visiondivine21/less-tokens",
+    "language": "\u2014",
+    "name": "Divine-vision-visiondivine21/less-tokens",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:31:14Z",
+    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
+  },
+  {
+    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
+    "id": "Wry-letters233/notes-quiz-agent",
+    "language": "JavaScript",
+    "name": "Wry-letters233/notes-quiz-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:30:54Z",
+    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
+  },
+  {
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
+    "language": "Python",
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 1,
+    "updated_at": "2026-08-09T22:30:38Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-09T22:29:12Z",
+    "updated_at": "2026-08-09T22:30:21Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T22:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-09T22:30:00Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -45,21 +144,12 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T22:26:41Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 85,
-    "updated_at": "2026-08-09T22:24:47Z",
+    "updated_at": "2026-08-09T22:31:50Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T22:24:37Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Versioned, fast and scalable nearest neighbor search.",
-    "id": "replikativ/proximum",
-    "language": "Clojure",
-    "name": "replikativ/proximum",
-    "stars": 30,
-    "updated_at": "2026-08-09T22:28:08Z",
-    "url": "https://github.com/replikativ/proximum"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -157,7 +238,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51503,
+    "stars": 51504,
     "updated_at": "2026-08-09T22:20:15Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T22:18:46Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-09T22:21:23Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 2,
-    "updated_at": "2026-08-09T22:10:05Z",
+    "updated_at": "2026-08-09T22:39:44Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 257,
-    "updated_at": "2026-08-09T22:09:24Z",
+    "updated_at": "2026-08-09T22:35:20Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 5,
     "updated_at": "2026-08-09T22:08:09Z",
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T22:07:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
@@ -360,6 +423,15 @@
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33889,
+    "updated_at": "2026-08-09T21:54:55Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Decentralized Graph Database with Integrated Vector Search",
     "id": "perforate-org/gleaph",
     "language": "Rust",
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-09T21:53:34Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:51:47Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:51:18Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:49:39Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
-    "id": "HillolPias/taskapi-backend",
-    "language": "Python",
-    "name": "HillolPias/taskapi-backend",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:48:15Z",
-    "url": "https://github.com/HillolPias/taskapi-backend"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 93,
-    "updated_at": "2026-08-09T21:48:00Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 2,
-    "updated_at": "2026-08-09T21:47:34Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8065,
-    "updated_at": "2026-08-09T21:47:02Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:44:57Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
   }
 ]
