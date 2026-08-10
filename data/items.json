@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:58:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
     "id": "vul-os/basin",
     "language": "Rust",
@@ -99,15 +108,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -171,7 +171,7 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI-powered document Q&A assistant using Retrieval-Augmented Generation \u2014 built with LangChain, ChromaDB vector store, Fa",
+    "description": "AI-powered document Q&A assistant using Retrieval-Augmented Generation \u2014 built with LangChain, Qdrant vector database, a",
     "id": "varsh00l/python-rag-assistant",
     "language": "Python",
     "name": "varsh00l/python-rag-assistant",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 21:58 UTC
+> ⏰ Last updated: 2026-08-10 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vul-os/basin](https://github.com/vul-os/basin) | 4 | Rust | 2026-08-10 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
-| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-10 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1334 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [meriamsamy/Sterling-Vance-Bank-B](https://github.com/meriamsamy/Sterling-Vance-Bank-B) | 0 | Python | 2026-08-10 | A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment. |
-| 6 | [anurag2796/tiger_research_buddy](https://github.com/anurag2796/tiger_research_buddy) | 2 | Python | 2026-08-10 | An AI-powered assistant using RAG and local LLMs (Ollama) to help RIT students seamlessly discover research opportunitie |
-| 7 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-10 | Identity and Authorization Service with Vector and AI Integration |
-| 8 | [VivekDahariya/PriAI](https://github.com/VivekDahariya/PriAI) | 0 | Python | 2026-08-10 | Build your own offline domain-specific AI from your knowledge. |
-| 9 | [iksnerd/code-nexus](https://github.com/iksnerd/code-nexus) | 1 | Elixir | 2026-08-10 | Code intelligence MCP server — graph-powered semantic search, call graph traversal, and impact analysis for any codebase |
-| 10 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 247 | Python | 2026-08-10 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
-| 11 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-10 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 12 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [vul-os/basin](https://github.com/vul-os/basin) | 4 | Rust | 2026-08-10 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
+| 3 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-10 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1334 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [meriamsamy/Sterling-Vance-Bank-B](https://github.com/meriamsamy/Sterling-Vance-Bank-B) | 0 | Python | 2026-08-10 | A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment. |
+| 7 | [anurag2796/tiger_research_buddy](https://github.com/anurag2796/tiger_research_buddy) | 2 | Python | 2026-08-10 | An AI-powered assistant using RAG and local LLMs (Ollama) to help RIT students seamlessly discover research opportunitie |
+| 8 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-10 | Identity and Authorization Service with Vector and AI Integration |
+| 9 | [VivekDahariya/PriAI](https://github.com/VivekDahariya/PriAI) | 0 | Python | 2026-08-10 | Build your own offline domain-specific AI from your knowledge. |
+| 10 | [iksnerd/code-nexus](https://github.com/iksnerd/code-nexus) | 1 | Elixir | 2026-08-10 | Code intelligence MCP server — graph-powered semantic search, call graph traversal, and impact analysis for any codebase |
+| 11 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 247 | Python | 2026-08-10 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
+| 12 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-10 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
 | 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-10 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 14 | [fewshot-works/academy](https://github.com/fewshot-works/academy) | 4 | TypeScript | 2026-08-10 | Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents — from zero to your first AI agent. |
 | 15 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-10 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-10 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 18 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6327 | TypeScript | 2026-08-10 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
 | 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-10 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 20 | [varsh00l/python-rag-assistant](https://github.com/varsh00l/python-rag-assistant) | 0 | Python | 2026-08-10 | AI-powered document Q&A assistant using Retrieval-Augmented Generation — built with LangChain, ChromaDB vector store, Fa |
+| 20 | [varsh00l/python-rag-assistant](https://github.com/varsh00l/python-rag-assistant) | 0 | Python | 2026-08-10 | AI-powered document Q&A assistant using Retrieval-Augmented Generation — built with LangChain, Qdrant vector database, a |
 | 21 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1071 | Java | 2026-08-10 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 22 | [ananya7689/readsnap-rag-assistant](https://github.com/ananya7689/readsnap-rag-assistant) | 0 | HTML | 2026-08-10 | RAG-based document Q&A assistant with source citations, multi-user auth, and OTP password reset — built with Django, Gem |
 | 23 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45594 | Go | 2026-08-10 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
