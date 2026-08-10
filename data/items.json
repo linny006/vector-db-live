@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based document Q&A assistant with source citations, multi-user auth, and OTP password reset \u2014 built with Django, Gem",
+    "id": "ananya7689/readsnap-rag-assistant",
+    "language": "HTML",
+    "name": "ananya7689/readsnap-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:14:00Z",
+    "url": "https://github.com/ananya7689/readsnap-rag-assistant"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:13:03Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45592,
+    "updated_at": "2026-08-10T21:12:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:11:48Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:11:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -9,31 +63,13 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:10:44Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45592,
-    "updated_at": "2026-08-10T21:10:29Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "RAG-based document Q&A assistant with source citations, multi-user auth, and OTP password reset \u2014 built with Django, Gem",
-    "id": "ananya7689/readsnap-rag-assistant",
-    "language": "HTML",
-    "name": "ananya7689/readsnap-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:10:19Z",
-    "url": "https://github.com/ananya7689/readsnap-rag-assistant"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8068,
+    "updated_at": "2026-08-10T21:10:21Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe",
@@ -72,15 +108,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
     "id": "jihadkhawaja/mem0sharp",
     "language": "C#",
@@ -88,6 +115,15 @@
     "stars": 11,
     "updated_at": "2026-08-10T20:59:09Z",
     "url": "https://github.com/jihadkhawaja/mem0sharp"
+  },
+  {
+    "description": "Enterprise-grade Agentic AI Financial Intelligence System built with FastAPI, React, ChromaDB, Ollama, and Retrieval-Aug",
+    "id": "gouthambilluri02/agentic-financial-intelligence-system",
+    "language": "Python",
+    "name": "gouthambilluri02/agentic-financial-intelligence-system",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:50:52Z",
+    "url": "https://github.com/gouthambilluri02/agentic-financial-intelligence-system"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -144,21 +180,12 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:09:38Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1071,
-    "updated_at": "2026-08-10T21:10:18Z",
+    "updated_at": "2026-08-10T21:13:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T20:18:17Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:09:29Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:44:12Z",
     "url": "https://github.com/kamrankhanorakzai/Rag-Agent-Barber"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-08-10T18:38:10Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33903,
-    "updated_at": "2026-08-10T20:40:05Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
