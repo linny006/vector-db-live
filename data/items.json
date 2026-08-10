@@ -1,12 +1,30 @@
 [
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:11:01Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-10T21:00:23Z",
+    "updated_at": "2026-08-10T21:10:44Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45592,
+    "updated_at": "2026-08-10T21:10:29Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "RAG-based document Q&A assistant with source citations, multi-user auth, and OTP password reset \u2014 built with Django, Gem",
@@ -14,8 +32,17 @@
     "language": "HTML",
     "name": "ananya7689/readsnap-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-08-10T20:52:51Z",
+    "updated_at": "2026-08-10T21:10:19Z",
     "url": "https://github.com/ananya7689/readsnap-rag-assistant"
+  },
+  {
+    "description": "Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe",
+    "id": "bcastelino/sec-filing-room",
+    "language": "TypeScript",
+    "name": "bcastelino/sec-filing-room",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:08:34Z",
+    "url": "https://github.com/bcastelino/sec-filing-room"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -23,8 +50,44 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 4,
-    "updated_at": "2026-08-10T20:51:10Z",
+    "updated_at": "2026-08-10T21:05:53Z",
     "url": "https://github.com/vul-os/basin"
+  },
+  {
+    "description": "The ORM for Vector Databases",
+    "id": "thaletto/cortex",
+    "language": "TypeScript",
+    "name": "thaletto/cortex",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:01:52Z",
+    "url": "https://github.com/thaletto/cortex"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:01:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "id": "jihadkhawaja/mem0sharp",
+    "language": "C#",
+    "name": "jihadkhawaja/mem0sharp",
+    "stars": 11,
+    "updated_at": "2026-08-10T20:59:09Z",
+    "url": "https://github.com/jihadkhawaja/mem0sharp"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -72,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -90,21 +144,12 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45591,
-    "updated_at": "2026-08-10T20:44:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-10T20:46:10Z",
+    "updated_at": "2026-08-10T21:09:38Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1071,
-    "updated_at": "2026-08-10T20:42:48Z",
+    "updated_at": "2026-08-10T21:10:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,17 +194,8 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-08-10T20:55:51Z",
+    "updated_at": "2026-08-10T21:07:38Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "The ORM for Vector Databases",
-    "id": "thaletto/cortex",
-    "language": "TypeScript",
-    "name": "thaletto/cortex",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:18:50Z",
-    "url": "https://github.com/thaletto/cortex"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T20:09:29Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:08:45Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -214,6 +241,15 @@
     "stars": 6327,
     "updated_at": "2026-08-10T20:58:31Z",
     "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29930,
+    "updated_at": "2026-08-10T19:38:41Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "End-to-end local RAG pipeline for company policy question answering using Python, ChromaDB, Sentence Transformers, Ollam",
@@ -342,15 +378,6 @@
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:55:15Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "An advanced AI-powered meeting analytics & collaboration hub. Orchestrates transcription, smart summary extraction, and ",
     "id": "syedbaqar25/SyncMind-Ai",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 33903,
     "updated_at": "2026-08-10T20:40:05Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "I'm building a graph database server in Rust as a leaning project.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:28:11Z",
-    "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-08-10T18:21:33Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:19:25Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
