@@ -1,5 +1,149 @@
 [
   {
+    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:29:53Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29921,
+    "updated_at": "2026-08-10T16:27:54Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-10T16:28:16Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:26:21Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11117,
+    "updated_at": "2026-08-10T16:22:06Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
+    "id": "syalia-srl/beaver",
+    "language": "Python",
+    "name": "syalia-srl/beaver",
+    "stars": 36,
+    "updated_at": "2026-08-10T16:21:24Z",
+    "url": "https://github.com/syalia-srl/beaver"
+  },
+  {
+    "description": "",
+    "id": "PushkarKanjani/medical-rag-assistant",
+    "language": "Python",
+    "name": "PushkarKanjani/medical-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:21:20Z",
+    "url": "https://github.com/PushkarKanjani/medical-rag-assistant"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5718,
+    "updated_at": "2026-08-10T16:20:42Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:17:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:17:13Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-10T16:16:22Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2048,
+    "updated_at": "2026-08-10T16:14:50Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-10T16:17:11Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:14:46Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
     "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
     "language": "Python",
@@ -34,15 +178,6 @@
     "stars": 85,
     "updated_at": "2026-08-10T16:11:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "",
-    "id": "PushkarKanjani/medical-rag-assistant",
-    "language": "Python",
-    "name": "PushkarKanjani/medical-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:11:06Z",
-    "url": "https://github.com/PushkarKanjani/medical-rag-assistant"
   },
   {
     "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
@@ -90,15 +225,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-10T16:14:47Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -135,15 +261,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
-    "id": "syalia-srl/beaver",
-    "language": "Python",
-    "name": "syalia-srl/beaver",
-    "stars": 36,
-    "updated_at": "2026-08-10T16:02:07Z",
-    "url": "https://github.com/syalia-srl/beaver"
-  },
-  {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
     "id": "arpan10000/simple-rag-pipeline-demo",
     "language": "Jupyter Notebook",
@@ -151,33 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T16:01:54Z",
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2047,
-    "updated_at": "2026-08-10T16:14:50Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
@@ -279,15 +369,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5717,
-    "updated_at": "2026-08-10T16:02:16Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "An AI-powered, multi-agent financial document analyzer built with FastAPI, Streamlit, ChromaDB, and the Lemma SDK.",
     "id": "BollareddyPranoyRaj/lemma-zk-tracer",
     "language": "Python",
@@ -295,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T15:48:42Z",
     "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:48:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -342,15 +414,6 @@
     "url": "https://github.com/vector-index-bench/vibe"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-10T15:51:26Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
     "id": "MontyGovernance/montycat_dart",
     "language": "Dart",
@@ -385,68 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-10T15:38:39Z",
     "url": "https://github.com/MontyGovernance/montycat_python"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
-    "id": "MontyGovernance/montycat_rust",
-    "language": "Rust",
-    "name": "MontyGovernance/montycat_rust",
-    "stars": 1,
-    "updated_at": "2026-08-10T15:37:03Z",
-    "url": "https://github.com/MontyGovernance/montycat_rust"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1328,
-    "updated_at": "2026-08-10T15:34:57Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "An advanced AI-powered meeting analytics & collaboration hub. Orchestrates transcription, smart summary extraction, and ",
-    "id": "syedbaqar25/SyncMind-Ai",
-    "language": "JavaScript",
-    "name": "syedbaqar25/SyncMind-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:33:28Z",
-    "url": "https://github.com/syedbaqar25/SyncMind-Ai"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 97,
-    "updated_at": "2026-08-10T15:33:08Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6560,
-    "updated_at": "2026-08-10T16:10:38Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7044,
-    "updated_at": "2026-08-10T15:25:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-10T16:08:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
