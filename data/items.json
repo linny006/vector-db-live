@@ -1,12 +1,156 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T23:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-10T22:59:32Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-10T22:47:20Z",
+    "updated_at": "2026-08-10T22:58:35Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:58:32Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:55:22Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:55:00Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
+    "id": "Abishang21/enterprise-rag-knowledge-assistant",
+    "language": "Python",
+    "name": "Abishang21/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:54:47Z",
+    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:54:43Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:54:25Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
+    "id": "stateletlab/statelet-sdk",
+    "language": "Python",
+    "name": "stateletlab/statelet-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:51:43Z",
+    "url": "https://github.com/stateletlab/statelet-sdk"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-08-10T22:51:22Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:50:36Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:49:11Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:49:07Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:48:35Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12842,
+    "updated_at": "2026-08-10T22:55:52Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:47:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
@@ -25,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T22:45:41Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -94,7 +220,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45594,
+    "stars": 45595,
     "updated_at": "2026-08-10T22:40:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -171,13 +297,13 @@
     "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-10T22:29:39Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8069,
+    "updated_at": "2026-08-10T22:28:46Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
@@ -216,15 +342,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
-    "id": "stateletlab/statelet-sdk",
-    "language": "Python",
-    "name": "stateletlab/statelet-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:40:48Z",
-    "url": "https://github.com/stateletlab/statelet-sdk"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -256,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1337,
+    "stars": 1338,
     "updated_at": "2026-08-10T21:57:16Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -331,122 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-10T21:45:21Z",
     "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:54:06Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35124,
-    "updated_at": "2026-08-10T21:33:03Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6327,
-    "updated_at": "2026-08-10T22:47:16Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI-powered document Q&A assistant using Retrieval-Augmented Generation \u2014 built with LangChain, Qdrant vector database, a",
-    "id": "varsh00l/python-rag-assistant",
-    "language": "Python",
-    "name": "varsh00l/python-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:24:13Z",
-    "url": "https://github.com/varsh00l/python-rag-assistant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1071,
-    "updated_at": "2026-08-10T21:53:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RAG-based document Q&A assistant with source citations, multi-user auth, and OTP password reset \u2014 built with Django, Gem",
-    "id": "ananya7689/readsnap-rag-assistant",
-    "language": "HTML",
-    "name": "ananya7689/readsnap-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:14:00Z",
-    "url": "https://github.com/ananya7689/readsnap-rag-assistant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8069,
-    "updated_at": "2026-08-10T22:28:46Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Built a RAG chatbot using free LLMs, Streamlit, and VectorDB to query chunked SEC EDGAR financial data, designed an embe",
-    "id": "bcastelino/sec-filing-room",
-    "language": "TypeScript",
-    "name": "bcastelino/sec-filing-room",
-    "stars": 1,
-    "updated_at": "2026-08-10T21:08:34Z",
-    "url": "https://github.com/bcastelino/sec-filing-room"
-  },
-  {
-    "description": "The ORM for Vector Databases",
-    "id": "thaletto/cortex",
-    "language": "TypeScript",
-    "name": "thaletto/cortex",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:01:52Z",
-    "url": "https://github.com/thaletto/cortex"
-  },
-  {
-    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
-    "id": "jihadkhawaja/mem0sharp",
-    "language": "C#",
-    "name": "jihadkhawaja/mem0sharp",
-    "stars": 11,
-    "updated_at": "2026-08-10T20:59:09Z",
-    "url": "https://github.com/jihadkhawaja/mem0sharp"
-  },
-  {
-    "description": "Enterprise-grade Agentic AI Financial Intelligence System built with FastAPI, React, ChromaDB, Ollama, and Retrieval-Aug",
-    "id": "gouthambilluri02/agentic-financial-intelligence-system",
-    "language": "Python",
-    "name": "gouthambilluri02/agentic-financial-intelligence-system",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:50:52Z",
-    "url": "https://github.com/gouthambilluri02/agentic-financial-intelligence-system"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 30,
-    "updated_at": "2026-08-10T20:50:54Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64566,
-    "updated_at": "2026-08-10T20:44:36Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
