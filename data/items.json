@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
+    "id": "kostas221/local-rag-assistant",
+    "language": "Python",
+    "name": "kostas221/local-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:53:25Z",
+    "url": "https://github.com/kostas221/local-rag-assistant"
+  },
+  {
+    "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
+    "id": "Mahee-Jain123/Ai-study-assistant",
+    "language": "Python",
+    "name": "Mahee-Jain123/Ai-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:50:48Z",
+    "url": "https://github.com/Mahee-Jain123/Ai-study-assistant"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-10T16:53:22Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 422,
-    "updated_at": "2026-08-10T16:43:58Z",
+    "updated_at": "2026-08-10T16:55:28Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "stateletlab/statelet-sdk",
     "stars": 0,
-    "updated_at": "2026-08-10T16:43:40Z",
+    "updated_at": "2026-08-10T16:54:23Z",
     "url": "https://github.com/stateletlab/statelet-sdk"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:47:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T16:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1329,
-    "updated_at": "2026-08-10T16:39:24Z",
+    "updated_at": "2026-08-10T16:57:29Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-10T16:39:33Z",
+    "updated_at": "2026-08-10T16:57:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -95,26 +149,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29921,
-    "updated_at": "2026-08-10T16:32:57Z",
+    "updated_at": "2026-08-10T16:59:09Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:32:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -171,15 +207,6 @@
     "url": "https://github.com/PushkarKanjani/medical-rag-assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:17:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 2048,
     "updated_at": "2026-08-10T16:14:50Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-10T16:17:11Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
@@ -247,7 +265,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58927,
+    "stars": 58926,
     "updated_at": "2026-08-10T16:11:43Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T16:07:44Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
-    "id": "kostas221/local-rag-assistant",
-    "language": "Python",
-    "name": "kostas221/local-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:06:18Z",
-    "url": "https://github.com/kostas221/local-rag-assistant"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T15:48:42Z",
     "url": "https://github.com/BollareddyPranoyRaj/lemma-zk-tracer"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:48:01Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   }
 ]
