@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6327,
+    "updated_at": "2026-08-10T21:29:56Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI-powered document Q&A assistant using Retrieval-Augmented Generation \u2014 built with LangChain, ChromaDB vector store, Fa",
+    "id": "varsh00l/python-rag-assistant",
+    "language": "Python",
+    "name": "varsh00l/python-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:24:13Z",
+    "url": "https://github.com/varsh00l/python-rag-assistant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1071,
+    "updated_at": "2026-08-10T21:28:41Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:16:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-10T21:15:22Z",
+    "updated_at": "2026-08-10T21:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -31,7 +76,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45592,
+    "stars": 45593,
     "updated_at": "2026-08-10T21:12:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -41,17 +86,8 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-10T21:11:48Z",
+    "updated_at": "2026-08-10T21:27:22Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:11:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -67,8 +103,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8068,
-    "updated_at": "2026-08-10T21:10:21Z",
+    "stars": 8069,
+    "updated_at": "2026-08-10T21:22:05Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 247,
-    "updated_at": "2026-08-10T20:46:40Z",
+    "updated_at": "2026-08-10T21:25:54Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -162,31 +198,13 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:45:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64565,
+    "stars": 64566,
     "updated_at": "2026-08-10T20:44:36Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1071,
-    "updated_at": "2026-08-10T21:13:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -212,7 +230,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-10T20:29:14Z",
+    "updated_at": "2026-08-10T21:29:48Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T20:02:17Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6327,
-    "updated_at": "2026-08-10T20:58:31Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6562,
-    "updated_at": "2026-08-10T19:06:07Z",
+    "updated_at": "2026-08-10T21:22:51Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T18:44:26Z",
     "url": "https://github.com/is-leeroy-jenkins/Boo"
-  },
-  {
-    "description": "Autonomous AI Agent Integration: A context-aware, intelligent virtual assistant that handles customer inquiries, recomme",
-    "id": "kamrankhanorakzai/Rag-Agent-Barber",
-    "language": "TypeScript",
-    "name": "kamrankhanorakzai/Rag-Agent-Barber",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:44:12Z",
-    "url": "https://github.com/kamrankhanorakzai/Rag-Agent-Barber"
   }
 ]
