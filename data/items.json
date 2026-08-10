@@ -1,5 +1,113 @@
 [
   {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-08-10T18:44:55Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-08-10T18:44:26Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "Autonomous AI Agent Integration: A context-aware, intelligent virtual assistant that handles customer inquiries, recomme",
+    "id": "kamrankhanorakzai/Rag-Agent-Barber",
+    "language": "TypeScript",
+    "name": "kamrankhanorakzai/Rag-Agent-Barber",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:44:12Z",
+    "url": "https://github.com/kamrankhanorakzai/Rag-Agent-Barber"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-10T18:44:01Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 246,
+    "updated_at": "2026-08-10T18:40:29Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1330,
+    "updated_at": "2026-08-10T18:40:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:39:33Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-10T18:38:10Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33903,
+    "updated_at": "2026-08-10T18:38:36Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6327,
+    "updated_at": "2026-08-10T18:42:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "An advanced AI-powered meeting analytics & collaboration hub. Orchestrates transcription, smart summary extraction, and ",
+    "id": "syedbaqar25/SyncMind-Ai",
+    "language": "JavaScript",
+    "name": "syedbaqar25/SyncMind-Ai",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:35:13Z",
+    "url": "https://github.com/syedbaqar25/SyncMind-Ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:33:46Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,24 +117,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-10T18:29:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "I'm building a graph database server in Rust as a leaning project.",
     "id": "gmr/dotilla",
     "language": "Rust",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:28:11Z",
     "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1330,
-    "updated_at": "2026-08-10T18:27:44Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-10T18:23:44Z",
+    "updated_at": "2026-08-10T18:36:55Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-10T18:18:30Z",
+    "updated_at": "2026-08-10T18:36:29Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -117,21 +198,12 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6327,
-    "updated_at": "2026-08-10T18:30:30Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-10T18:07:28Z",
+    "updated_at": "2026-08-10T18:44:15Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -148,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64562,
+    "stars": 64563,
     "updated_at": "2026-08-10T18:04:28Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T18:03:28Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33903,
-    "updated_at": "2026-08-10T18:01:24Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
@@ -243,15 +306,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:41:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -274,7 +328,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12836,
+    "stars": 12837,
     "updated_at": "2026-08-10T17:31:26Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -319,7 +373,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 732,
+    "stars": 733,
     "updated_at": "2026-08-10T17:10:36Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -346,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29923,
+    "stars": 29925,
     "updated_at": "2026-08-10T16:59:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-10T18:09:28Z",
+    "updated_at": "2026-08-10T18:36:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:29:56Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix-RED is an agentic red-team platform for running controlled, human-in-the-loop security simulations across mode",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:29:53Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-10T17:36:19Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11118,
-    "updated_at": "2026-08-10T18:18:18Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
-    "id": "syalia-srl/beaver",
-    "language": "Python",
-    "name": "syalia-srl/beaver",
-    "stars": 36,
-    "updated_at": "2026-08-10T16:21:24Z",
-    "url": "https://github.com/syalia-srl/beaver"
-  },
-  {
-    "description": "",
-    "id": "PushkarKanjani/medical-rag-assistant",
-    "language": "Python",
-    "name": "PushkarKanjani/medical-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:21:20Z",
-    "url": "https://github.com/PushkarKanjani/medical-rag-assistant"
   }
 ]
