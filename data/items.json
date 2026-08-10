@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-10T14:44:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12836,
+    "updated_at": "2026-08-10T14:41:33Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
+    "id": "kostas221/local-rag-assistant",
+    "language": "Python",
+    "name": "kostas221/local-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T14:38:20Z",
+    "url": "https://github.com/kostas221/local-rag-assistant"
+  },
+  {
+    "description": "Local-first Spring AI playground: chat, RAG, structured extraction, and tool-calling/multi-agent orchestration over Olla",
+    "id": "fahadkhan174/learn-spring-ai",
+    "language": "Svelte",
+    "name": "fahadkhan174/learn-spring-ai",
+    "stars": 0,
+    "updated_at": "2026-08-10T14:37:43Z",
+    "url": "https://github.com/fahadkhan174/learn-spring-ai"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T14:37:23Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:36:49Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -16,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-10T14:34:54Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 204,
+    "updated_at": "2026-08-10T14:33:13Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -36,15 +108,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -54,31 +117,13 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1327,
+    "stars": 1328,
     "updated_at": "2026-08-10T14:30:16Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 204,
-    "updated_at": "2026-08-10T14:33:13Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 97,
-    "updated_at": "2026-08-10T14:25:33Z",
+    "updated_at": "2026-08-10T14:43:26Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-10T14:14:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T14:10:06Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12836,
-    "updated_at": "2026-08-10T14:36:36Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-10T14:36:45Z",
+    "updated_at": "2026-08-10T14:41:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T13:44:04Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1070,
-    "updated_at": "2026-08-10T13:43:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33901,
-    "updated_at": "2026-08-10T14:31:53Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11117,
-    "updated_at": "2026-08-10T13:40:34Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
