@@ -1,12 +1,120 @@
 [
   {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:15:15Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
+    "id": "ilyuve/code-pop",
+    "language": "Python",
+    "name": "ilyuve/code-pop",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:13:26Z",
+    "url": "https://github.com/ilyuve/code-pop"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 5,
+    "updated_at": "2026-08-10T19:10:41Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-10T19:14:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1331,
+    "updated_at": "2026-08-10T19:09:45Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:08:55Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "API platform info for machine-learning",
+    "id": "api-evangelist/machine-learning",
+    "language": "HTML",
+    "name": "api-evangelist/machine-learning",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:08:34Z",
+    "url": "https://github.com/api-evangelist/machine-learning"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6560,
+    "updated_at": "2026-08-10T19:06:07Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "Local-first encrypted memory for AI agents",
     "id": "yp3y5akh0v/citadel",
     "language": "Rust",
     "name": "yp3y5akh0v/citadel",
     "stars": 2,
-    "updated_at": "2026-08-10T18:59:30Z",
+    "updated_at": "2026-08-10T19:05:21Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:04:50Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:04:11Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -23,17 +131,8 @@
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-10T18:56:41Z",
+    "updated_at": "2026-08-10T19:11:06Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6560,
-    "updated_at": "2026-08-10T18:56:44Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -45,21 +144,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-10T18:59:29Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-10T18:53:46Z",
+    "updated_at": "2026-08-10T19:10:30Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "Python",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:46:03Z",
-    "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
     "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
     "id": "SammedBG/RAG-Customer-support-agent",
     "language": "TypeScript",
@@ -115,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:45:48Z",
     "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:00:29Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Pinecone BYOC",
@@ -180,15 +243,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1331,
-    "updated_at": "2026-08-10T18:40:04Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6327,
-    "updated_at": "2026-08-10T18:47:11Z",
+    "updated_at": "2026-08-10T19:08:42Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 13,
     "updated_at": "2026-08-10T18:18:40Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:55:08Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Self improving agents through iterations",
@@ -337,7 +382,7 @@
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 65,
+    "stars": 66,
     "updated_at": "2026-08-10T17:46:18Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T17:16:34Z",
     "url": "https://github.com/stateletlab/statelet-sdk"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 733,
-    "updated_at": "2026-08-10T17:10:36Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-10T17:07:18Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29926,
-    "updated_at": "2026-08-10T16:59:09Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
-    "id": "kostas221/local-rag-assistant",
-    "language": "Python",
-    "name": "kostas221/local-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:53:25Z",
-    "url": "https://github.com/kostas221/local-rag-assistant"
-  },
-  {
-    "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
-    "id": "Mahee-Jain123/Ai-study-assistant",
-    "language": "Python",
-    "name": "Mahee-Jain123/Ai-study-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:50:48Z",
-    "url": "https://github.com/Mahee-Jain123/Ai-study-assistant"
   }
 ]
