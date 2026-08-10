@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 18:30 UTC
+> ⏰ Last updated: 2026-08-10 18:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,17 +43,17 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-10 | I'm building a graph database server in Rust as a leaning project. |
-| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1330 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 4 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 422 | Java | 2026-08-10 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
-| 5 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-10 |  |
-| 6 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-10 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 8 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-10 |  |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-10 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 10 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-08-10 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 11 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-10 | In-memory knowledge store for AI agents |
-| 12 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 4 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-10 | I'm building a graph database server in Rust as a leaning project. |
+| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1330 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 6 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 422 | Java | 2026-08-10 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
+| 7 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-10 |  |
+| 8 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-10 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
+| 9 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-10 |  |
+| 10 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-10 | In-memory knowledge store for AI agents |
+| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-10 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 12 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-08-10 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
 | 13 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-10 | Self-hosted permission-aware context layer for agents. MCP + API. |
 | 14 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6327 | TypeScript | 2026-08-10 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
 | 15 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-10 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) | 41 | Rust | 2026-08-10 | Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri |
 | 34 | [stateletlab/statelet-sdk](https://github.com/stateletlab/statelet-sdk) | 0 | Python | 2026-08-10 | Official client SDKs for Statelet — Python, Node.js, Go, Rust, Java, and C++ |
 | 35 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6560 | Python | 2026-08-10 |  Memory library for building stateful agents |
-| 36 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 731 | Python | 2026-08-10 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
+| 36 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 732 | Python | 2026-08-10 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
 | 37 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-10 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
 | 38 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-10 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 39 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29923 | Python | 2026-08-10 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
