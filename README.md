@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 08:15 UTC
+> ⏰ Last updated: 2026-08-10 08:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [allup2d8/trends](https://github.com/allup2d8/trends) | 0 | — | 2026-08-10 | Evidence-led technology trends, updated weekly from up2d8.com — classification ladder, recommended actions, and the repo |
-| 2 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-10 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 3 | [Mehdi138534/ai-news-scraper](https://github.com/Mehdi138534/ai-news-scraper) | 0 | HTML | 2026-08-10 | 📰 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un |
-| 4 | [zubairporag/yu-ai-agent](https://github.com/zubairporag/yu-ai-agent) | 0 | Java | 2026-08-10 | 🤖 Develop cutting-edge AI applications with the "yu-ai-agent" project, enhancing your skills and boosting your job prosp |
-| 5 | [ermermermermidk/mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory) | 1 | TypeScript | 2026-08-10 | 🧠 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y |
-| 6 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35115 | Python | 2026-08-10 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 7 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-10 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1323 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 9 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6205 | Rust | 2026-08-10 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 10 | [Nitesh-lng/RAGAS](https://github.com/Nitesh-lng/RAGAS) | 0 | Python | 2026-08-10 | A RAG evaluation pipeline that scores retrieval-augmented generation outputs on Faithfulness, Answer Relevancy, Context  |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 12 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [allup2d8/trends](https://github.com/allup2d8/trends) | 0 | — | 2026-08-10 | Evidence-led technology trends, updated weekly from up2d8.com — classification ladder, recommended actions, and the repo |
+| 4 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-10 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 5 | [Mehdi138534/ai-news-scraper](https://github.com/Mehdi138534/ai-news-scraper) | 0 | HTML | 2026-08-10 | 📰 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un |
+| 6 | [zubairporag/yu-ai-agent](https://github.com/zubairporag/yu-ai-agent) | 0 | Java | 2026-08-10 | 🤖 Develop cutting-edge AI applications with the "yu-ai-agent" project, enhancing your skills and boosting your job prosp |
+| 7 | [ermermermermidk/mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory) | 1 | TypeScript | 2026-08-10 | 🧠 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y |
+| 8 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35115 | Python | 2026-08-10 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 9 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-10 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1323 | Rust | 2026-08-10 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6205 | Rust | 2026-08-10 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 12 | [Nitesh-lng/RAGAS](https://github.com/Nitesh-lng/RAGAS) | 0 | Python | 2026-08-10 | A RAG evaluation pipeline that scores retrieval-augmented generation outputs on Faithfulness, Answer Relevancy, Context  |
 | 13 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9411 | Rust | 2026-08-10 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 14 | [devopam/MCPg](https://github.com/devopam/MCPg) | 8 | Python | 2026-08-10 | Postgres MCP Server |
 | 15 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-10 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
