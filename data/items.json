@@ -1,19 +1,73 @@
 [
   {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
+    "id": "MontyGovernance/montycat_rust",
+    "language": "Rust",
+    "name": "MontyGovernance/montycat_rust",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:37:03Z",
+    "url": "https://github.com/MontyGovernance/montycat_rust"
+  },
+  {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
     "name": "piyalidas10/AI",
     "stars": 0,
-    "updated_at": "2026-08-10T15:25:32Z",
+    "updated_at": "2026-08-10T15:35:15Z",
     "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "An advanced AI-powered meeting analytics & collaboration hub. Orchestrates transcription, smart summary extraction, and ",
+    "id": "syedbaqar25/SyncMind-Ai",
+    "language": "JavaScript",
+    "name": "syedbaqar25/SyncMind-Ai",
+    "stars": 2,
+    "updated_at": "2026-08-10T15:33:28Z",
+    "url": "https://github.com/syedbaqar25/SyncMind-Ai"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 97,
+    "updated_at": "2026-08-10T15:33:08Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T15:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T15:30:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 85,
+    "updated_at": "2026-08-10T15:36:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 7043,
+    "stars": 7044,
     "updated_at": "2026-08-10T15:25:24Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-10T15:29:51Z",
+    "updated_at": "2026-08-10T15:35:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -81,24 +135,6 @@
     "url": "https://github.com/yantrikos/langchain-yantrikdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "vector-index-bench/vibe",
     "stars": 47,
-    "updated_at": "2026-08-10T15:13:20Z",
+    "updated_at": "2026-08-10T15:36:06Z",
     "url": "https://github.com/vector-index-bench/vibe"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1329,
-    "updated_at": "2026-08-10T15:06:58Z",
+    "updated_at": "2026-08-10T15:34:57Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -139,7 +175,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12833,
+    "stars": 12834,
     "updated_at": "2026-08-10T15:04:25Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -234,15 +270,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 97,
-    "updated_at": "2026-08-10T15:29:00Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
     "description": "Local-first Spring AI playground: chat, RAG, structured extraction, and tool-calling/multi-agent orchestration over Olla",
     "id": "fahadkhan174/learn-spring-ai",
     "language": "Svelte",
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 422,
-    "updated_at": "2026-08-10T14:32:58Z",
+    "updated_at": "2026-08-10T15:33:07Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6559,
-    "updated_at": "2026-08-10T14:24:22Z",
+    "updated_at": "2026-08-10T15:31:19Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:21:47Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:21:35Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-08-10T14:18:20Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:17:34Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
