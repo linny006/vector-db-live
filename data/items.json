@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T23:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 2,
     "updated_at": "2026-08-10T23:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-10T23:30:14Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Backend for movies recomendations for groups ",
@@ -43,15 +61,6 @@
     "stars": 76,
     "updated_at": "2026-08-10T23:19:53Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -180,15 +189,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:30:14Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12843,
-    "updated_at": "2026-08-10T22:55:52Z",
+    "updated_at": "2026-08-10T23:32:43Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -392,7 +392,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-10T22:35:15Z",
+    "updated_at": "2026-08-10T23:33:14Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -428,7 +428,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8069,
-    "updated_at": "2026-08-10T22:28:46Z",
+    "updated_at": "2026-08-10T23:30:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
