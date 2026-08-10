@@ -5,7 +5,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-10T17:44:54Z",
+    "updated_at": "2026-08-10T17:59:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -14,8 +14,89 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-10T17:44:44Z",
+    "updated_at": "2026-08-10T18:00:20Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Provider-independent persistent cognition layer for AI agents.",
+    "id": "Shikhar-code/memcoder",
+    "language": "Python",
+    "name": "Shikhar-code/memcoder",
+    "stars": 1,
+    "updated_at": "2026-08-10T17:56:59Z",
+    "url": "https://github.com/Shikhar-code/memcoder"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:53:40Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
+    "id": "ilyuve/code-pop",
+    "language": "Python",
+    "name": "ilyuve/code-pop",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:52:00Z",
+    "url": "https://github.com/ilyuve/code-pop"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 171,
+    "updated_at": "2026-08-10T17:51:56Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-10T17:51:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:47:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 65,
+    "updated_at": "2026-08-10T17:46:18Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -54,22 +135,22 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:36:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8069,
+    "updated_at": "2026-08-10T17:39:01Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:35:30Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64562,
+    "updated_at": "2026-08-10T17:53:10Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -85,7 +166,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45589,
+    "stars": 45590,
     "updated_at": "2026-08-10T17:30:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -97,15 +178,6 @@
     "stars": 41,
     "updated_at": "2026-08-10T17:22:22Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:18:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6327,
-    "updated_at": "2026-08-10T17:30:48Z",
+    "updated_at": "2026-08-10T17:49:45Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -139,7 +211,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 730,
+    "stars": 731,
     "updated_at": "2026-08-10T17:10:36Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -176,7 +248,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 422,
-    "updated_at": "2026-08-10T17:04:56Z",
+    "updated_at": "2026-08-10T17:56:25Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -250,15 +322,6 @@
     "stars": 5719,
     "updated_at": "2026-08-10T17:42:05Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:36:13Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T16:11:32Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 85,
-    "updated_at": "2026-08-10T17:08:26Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-native code intelligence infrastructure / \u9762\u5411 AI Agent \u7684\u4ee3\u7801\u667a\u80fd\u57fa\u7840\u8bbe\u65bd \u652f\u6301\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u68c0\u7d22",
-    "id": "ilyuve/code-pop",
-    "language": "Python",
-    "name": "ilyuve/code-pop",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:44:49Z",
-    "url": "https://github.com/ilyuve/code-pop"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:09:57Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:09:36Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Generic, provider-agnostic RAG backend with verified citations. FastAPI + SSE; switchable LLMs (Ollama/Anthropic/OpenAI)",
-    "id": "mohitacharya4/personal-twin",
-    "language": "Python",
-    "name": "mohitacharya4/personal-twin",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:07:56Z",
-    "url": "https://github.com/mohitacharya4/personal-twin"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:07:44Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-10T16:05:21Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
