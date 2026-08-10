@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 19:41 UTC
+> ⏰ Last updated: 2026-08-10 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-10 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 3 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-10 | In-memory knowledge store for AI agents |
-| 4 | [Rangineni-png/ai-data-engineer-rag-roadmap](https://github.com/Rangineni-png/ai-data-engineer-rag-roadmap) | 0 | Python | 2026-08-10 | End-to-end local RAG pipeline for company policy question answering using Python, ChromaDB, Sentence Transformers, Ollam |
-| 5 | [stateletlab/statelet-sdk](https://github.com/stateletlab/statelet-sdk) | 0 | Python | 2026-08-10 | Official client SDKs for Statelet — Python, Node.js, Go, Rust, Java, and C++ |
-| 6 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-10 | Identity and Authorization Service with Vector and AI Integration |
-| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-10 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
+| 4 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-10 | In-memory knowledge store for AI agents |
+| 5 | [Rangineni-png/ai-data-engineer-rag-roadmap](https://github.com/Rangineni-png/ai-data-engineer-rag-roadmap) | 0 | Python | 2026-08-10 | End-to-end local RAG pipeline for company policy question answering using Python, ChromaDB, Sentence Transformers, Ollam |
+| 6 | [stateletlab/statelet-sdk](https://github.com/stateletlab/statelet-sdk) | 0 | Python | 2026-08-10 | Official client SDKs for Statelet — Python, Node.js, Go, Rust, Java, and C++ |
+| 7 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-10 | Identity and Authorization Service with Vector and AI Integration |
+| 8 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 9 | [sharfuddin18/Codemaster-Ai](https://github.com/sharfuddin18/Codemaster-Ai) | 2 | Python | 2026-08-10 | Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your  |
 | 10 | [elifyagmurduran/LLMvectoRAG-product-classifier](https://github.com/elifyagmurduran/LLMvectoRAG-product-classifier) | 0 | Python | 2026-08-10 | RAG assisted LLM tool and vector embeddings creator for AI enrichment pipeline, to assign GS1 standard categories into m |
 | 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6205 | Rust | 2026-08-10 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
