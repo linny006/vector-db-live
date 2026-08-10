@@ -1,12 +1,12 @@
 [
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45591,
-    "updated_at": "2026-08-10T20:28:22Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-10T20:25:01Z",
+    "updated_at": "2026-08-10T20:43:41Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1071,
+    "updated_at": "2026-08-10T20:42:48Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "vul-os/basin",
+    "language": "Rust",
+    "name": "vul-os/basin",
+    "stars": 4,
+    "updated_at": "2026-08-10T20:41:47Z",
+    "url": "https://github.com/vul-os/basin"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "RonsenbergVI/fraise",
+    "language": "Go",
+    "name": "RonsenbergVI/fraise",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:41:36Z",
+    "url": "https://github.com/RonsenbergVI/fraise"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:40:16Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,17 +59,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-10T20:23:43Z",
+    "updated_at": "2026-08-10T20:30:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-10T20:22:13Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-10T20:29:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45591,
+    "updated_at": "2026-08-10T20:44:22Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-08-10T20:19:15Z",
+    "updated_at": "2026-08-10T20:45:09Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
@@ -61,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T20:18:17Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:18:17Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-08-10T20:16:18Z",
-    "url": "https://github.com/vul-os/basin"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -113,7 +140,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64564,
-    "updated_at": "2026-08-10T20:05:43Z",
+    "updated_at": "2026-08-10T20:44:36Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -135,6 +162,15 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1332,
+    "updated_at": "2026-08-10T19:58:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -144,40 +180,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:54:06Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6327,
-    "updated_at": "2026-08-10T19:59:33Z",
+    "updated_at": "2026-08-10T20:31:34Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:29:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1071,
-    "updated_at": "2026-08-10T19:45:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "End-to-end local RAG pipeline for company policy question answering using Python, ChromaDB, Sentence Transformers, Ollam",
@@ -252,15 +261,6 @@
     "url": "https://github.com/gupta29470/codewalk"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1331,
-    "updated_at": "2026-08-10T19:58:37Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
     "id": "Toskurim/vector-unforget",
     "language": "Python",
@@ -283,7 +283,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6561,
+    "stars": 6562,
     "updated_at": "2026-08-10T19:06:07Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 247,
-    "updated_at": "2026-08-10T19:25:52Z",
+    "updated_at": "2026-08-10T20:34:57Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33903,
-    "updated_at": "2026-08-10T20:28:32Z",
+    "updated_at": "2026-08-10T20:40:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
