@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T09:30:23Z",
+    "updated_at": "2026-08-11T09:40:47Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-11T09:31:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6207,
+    "updated_at": "2026-08-11T09:44:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T09:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -23,7 +50,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-11T09:23:40Z",
+    "updated_at": "2026-08-11T09:42:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T09:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
     "id": "iharshkaran/HyperAI",
     "language": "TypeScript",
@@ -126,15 +144,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6207,
-    "updated_at": "2026-08-11T09:26:44Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33913,
-    "updated_at": "2026-08-11T09:26:04Z",
+    "updated_at": "2026-08-11T09:43:16Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -205,6 +214,15 @@
     "stars": 35131,
     "updated_at": "2026-08-11T08:51:02Z",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6328,
+    "updated_at": "2026-08-11T08:49:43Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T09:04:20Z",
+    "updated_at": "2026-08-11T09:35:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T08:00:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-11T08:00:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16719,
-    "updated_at": "2026-08-11T09:30:06Z",
+    "updated_at": "2026-08-11T09:42:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,17 +401,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8076,
-    "updated_at": "2026-08-11T09:29:03Z",
+    "updated_at": "2026-08-11T09:35:45Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6327,
-    "updated_at": "2026-08-11T08:49:43Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "High-quality search for AI-native applications.",
