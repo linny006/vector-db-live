@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 422,
+    "updated_at": "2026-08-11T06:29:02Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-11T06:28:36Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-11T06:28:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
+    "id": "ArnabKarmakar1108/VectorVault",
+    "language": "Python",
+    "name": "ArnabKarmakar1108/VectorVault",
+    "stars": 1,
+    "updated_at": "2026-08-11T06:24:19Z",
+    "url": "https://github.com/ArnabKarmakar1108/VectorVault"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45598,
+    "updated_at": "2026-08-11T06:22:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1466,
+    "updated_at": "2026-08-11T06:20:54Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:20:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 9,
+    "updated_at": "2026-08-11T06:30:07Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-11T06:20:00Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:18:42Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15419,
+    "updated_at": "2026-08-11T06:17:44Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
+    "id": "Omkar-Wagholikar/adora",
+    "language": "Python",
+    "name": "Omkar-Wagholikar/adora",
+    "stars": 5,
+    "updated_at": "2026-08-11T06:17:14Z",
+    "url": "https://github.com/Omkar-Wagholikar/adora"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 739,
+    "updated_at": "2026-08-11T06:16:02Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
+    "id": "harisrana-dev/ai-knowledge-platform",
+    "language": "Python",
+    "name": "harisrana-dev/ai-knowledge-platform",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:16:15Z",
+    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -9,24 +153,6 @@
     "url": "https://github.com/worka-ai/anvil"
   },
   {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-08-11T06:12:30Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
-    "id": "Omkar-Wagholikar/adora",
-    "language": "Python",
-    "name": "Omkar-Wagholikar/adora",
-    "stars": 5,
-    "updated_at": "2026-08-11T06:11:13Z",
-    "url": "https://github.com/Omkar-Wagholikar/adora"
-  },
-  {
     "description": "BrowserVec - GPU-accelerated vector search engine for browser AI. Build private, offline RAG, semantic search, and recom",
     "id": "sharma-open-source/browservec",
     "language": "TypeScript",
@@ -34,42 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:07:25Z",
     "url": "https://github.com/sharma-open-source/browservec"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T06:05:44Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-11T06:08:39Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 738,
-    "updated_at": "2026-08-11T06:05:11Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
-    "id": "ArnabKarmakar1108/VectorVault",
-    "language": "Python",
-    "name": "ArnabKarmakar1108/VectorVault",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:03:27Z",
-    "url": "https://github.com/ArnabKarmakar1108/VectorVault"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:00:43Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T06:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -180,15 +261,6 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:47:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:47:41Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-11T06:04:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:46:54Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45597,
-    "updated_at": "2026-08-11T05:46:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -338,7 +392,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T06:12:50Z",
+    "updated_at": "2026-08-11T06:28:55Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:34:25Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:30:39Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1350,
-    "updated_at": "2026-08-11T05:28:55Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:25:55Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-11T05:24:32Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Production engineering patterns for spatial LLMs and geospatial AI agents \u2014 validation-first architecture, geospatial RA",
-    "id": "spatialllm/spatialllm",
-    "language": "CSS",
-    "name": "spatialllm/spatialllm",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:18:00Z",
-    "url": "https://github.com/spatialllm/spatialllm"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:17:22Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
   }
 ]
