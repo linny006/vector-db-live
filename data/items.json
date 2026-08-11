@@ -1,5 +1,77 @@
 [
   {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:28:13Z",
+    "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:27:42Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:23:22Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 422,
+    "updated_at": "2026-08-11T18:21:51Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1074,
+    "updated_at": "2026-08-11T18:20:41Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:18:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -18,13 +90,13 @@
     "url": "https://github.com/SaiRam-Peruri/RAG-API"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
     "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:09:19Z",
-    "url": "https://github.com/agent-ix/ecaz"
+    "name": "lancedb/lancedb",
+    "stars": 11128,
+    "updated_at": "2026-08-11T18:07:45Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -63,24 +135,6 @@
     "url": "https://github.com/DemigodDSK/hubmesh"
   },
   {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 422,
-    "updated_at": "2026-08-11T18:01:26Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-11T18:03:28Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -130,18 +175,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64610,
+    "stars": 64611,
     "updated_at": "2026-08-11T17:50:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:48:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -189,15 +225,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11127,
-    "updated_at": "2026-08-11T18:07:45Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Official repository of the kANNolo library.",
     "id": "TusKANNy/kannolo",
     "language": "Rust",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29955,
-    "updated_at": "2026-08-11T18:09:49Z",
+    "updated_at": "2026-08-11T18:21:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,17 +266,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33921,
-    "updated_at": "2026-08-11T17:47:02Z",
+    "updated_at": "2026-08-11T18:17:00Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:18:22Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -286,15 +304,6 @@
     "stars": 43,
     "updated_at": "2026-08-11T16:56:39Z",
     "url": "https://github.com/zepdb/zeppelin"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1074,
-    "updated_at": "2026-08-11T17:46:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6207,
-    "updated_at": "2026-08-11T17:51:39Z",
+    "updated_at": "2026-08-11T18:22:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -400,7 +409,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51562,
+    "stars": 51563,
     "updated_at": "2026-08-11T16:13:44Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16721,
-    "updated_at": "2026-08-11T18:13:03Z",
+    "updated_at": "2026-08-11T18:27:11Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 337,
     "updated_at": "2026-08-11T15:49:37Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "",
-    "id": "elastic/mcp-server-elasticsearch",
-    "language": "Rust",
-    "name": "elastic/mcp-server-elasticsearch",
-    "stars": 703,
-    "updated_at": "2026-08-11T15:49:24Z",
-    "url": "https://github.com/elastic/mcp-server-elasticsearch"
   }
 ]
