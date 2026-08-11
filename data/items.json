@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T14:30:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T14:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-11T14:42:59Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -23,8 +14,89 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6207,
-    "updated_at": "2026-08-11T14:29:46Z",
+    "updated_at": "2026-08-11T14:42:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12843,
+    "updated_at": "2026-08-11T14:44:51Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29952,
+    "updated_at": "2026-08-11T14:39:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:38:47Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern a",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:38:45Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "The \"SQLite for Vectors\" in pure Go. Embeddable, HNSW indexing, CGO-free, and Qdrant-compatible API.",
+    "id": "DotNetAge/govector",
+    "language": "Go",
+    "name": "DotNetAge/govector",
+    "stars": 6,
+    "updated_at": "2026-08-11T14:35:46Z",
+    "url": "https://github.com/DotNetAge/govector"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-11T14:32:31Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T14:30:54Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 840,
+    "updated_at": "2026-08-11T14:30:33Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T14:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
@@ -67,7 +139,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6581,
+    "stars": 6582,
     "updated_at": "2026-08-11T14:12:16Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -85,18 +157,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35136,
-    "updated_at": "2026-08-11T14:09:36Z",
+    "stars": 35137,
+    "updated_at": "2026-08-11T14:43:51Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12843,
-    "updated_at": "2026-08-11T14:08:25Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -153,15 +216,6 @@
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29951,
-    "updated_at": "2026-08-11T14:18:05Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -194,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16721,
-    "updated_at": "2026-08-11T14:25:09Z",
+    "updated_at": "2026-08-11T14:44:11Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:18:05Z",
     "url": "https://github.com/gmatheusd/MagicFridgeAI"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-08-11T13:16:53Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1434,
-    "updated_at": "2026-08-11T13:16:36Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:14:51Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-11T13:14:23Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-08-11T13:13:46Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:13:02Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
