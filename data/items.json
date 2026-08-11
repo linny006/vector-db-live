@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:45:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T11:45:28Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1356,
-    "updated_at": "2026-08-11T11:44:27Z",
+    "updated_at": "2026-08-11T11:47:17Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High-performance database management system",
     "id": "ZeusDB/zeusdb",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T11:32:02Z",
+    "updated_at": "2026-08-11T11:45:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 9,
     "updated_at": "2026-08-11T11:17:33Z",
     "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:16:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -223,15 +232,6 @@
     "stars": 33917,
     "updated_at": "2026-08-11T11:21:37Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-11T11:45:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
@@ -356,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16720,
-    "updated_at": "2026-08-11T11:39:49Z",
+    "updated_at": "2026-08-11T11:46:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
