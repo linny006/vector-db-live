@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T19:15:21Z",
+    "updated_at": "2026-08-11T19:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG system that automates federal proposal drafting: ingests RFPs and past proposals into ChromaDB, then generates cited",
+    "id": "SaiRam-Peruri/RAG-PROJECT",
+    "language": "Python",
+    "name": "SaiRam-Peruri/RAG-PROJECT",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:29:21Z",
+    "url": "https://github.com/SaiRam-Peruri/RAG-PROJECT"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-11T19:30:08Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:23:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:19:56Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -18,15 +63,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-11T19:09:43Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T19:09:01Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:08:39Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -54,21 +81,12 @@
     "url": "https://github.com/oracle/langchain-oracle"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:00:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29954,
-    "updated_at": "2026-08-11T19:14:20Z",
+    "updated_at": "2026-08-11T19:27:54Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -104,17 +122,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16722,
-    "updated_at": "2026-08-11T18:54:37Z",
+    "updated_at": "2026-08-11T19:29:10Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:48:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -140,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-11T18:44:28Z",
+    "updated_at": "2026-08-11T19:29:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Rust",
     "name": "firelock-ai/kin-vector",
     "stars": 0,
-    "updated_at": "2026-08-11T18:59:27Z",
+    "updated_at": "2026-08-11T19:18:10Z",
     "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
@@ -292,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64611,
+    "stars": 64612,
     "updated_at": "2026-08-11T17:50:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35141,
-    "updated_at": "2026-08-11T19:03:10Z",
+    "updated_at": "2026-08-11T19:27:55Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -338,7 +347,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8081,
-    "updated_at": "2026-08-11T17:29:56Z",
+    "updated_at": "2026-08-11T19:27:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 90,
     "updated_at": "2026-08-11T16:30:39Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway)",
-    "id": "nvojvodic-white/agent-platform",
-    "language": "Python",
-    "name": "nvojvodic-white/agent-platform",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:28:48Z",
-    "url": "https://github.com/nvojvodic-white/agent-platform"
   }
 ]
