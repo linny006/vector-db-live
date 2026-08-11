@@ -1,21 +1,39 @@
 [
   {
-    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
-    "id": "Tunolabs/xyzdb",
-    "language": "Rust",
-    "name": "Tunolabs/xyzdb",
-    "stars": 7,
-    "updated_at": "2026-08-11T00:32:38Z",
-    "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T00:30:27Z",
+    "updated_at": "2026-08-11T00:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
+    "id": "Tunolabs/xyzdb",
+    "language": "Rust",
+    "name": "Tunolabs/xyzdb",
+    "stars": 7,
+    "updated_at": "2026-08-11T00:43:09Z",
+    "url": "https://github.com/Tunolabs/xyzdb"
+  },
+  {
+    "description": "I'm building a graph database server in Rust as a leaning project.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:35:37Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-11T00:33:22Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-11T00:30:26Z",
+    "updated_at": "2026-08-11T00:32:48Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 247,
-    "updated_at": "2026-08-11T00:24:46Z",
+    "updated_at": "2026-08-11T00:38:39Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6327,
-    "updated_at": "2026-08-11T00:22:00Z",
+    "updated_at": "2026-08-11T00:44:25Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -90,6 +108,15 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12845,
+    "updated_at": "2026-08-10T23:39:22Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -117,15 +144,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-10T23:34:12Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T23:33:14Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12844,
-    "updated_at": "2026-08-10T23:39:22Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "",
@@ -439,14 +448,5 @@
     "stars": 1611,
     "updated_at": "2026-08-11T00:02:24Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:33:47Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   }
 ]
