@@ -1,5 +1,122 @@
 [
   {
+    "description": "Provider-independent persistent cognition layer for AI agents.",
+    "id": "Shikhar-code/memcoder",
+    "language": "Python",
+    "name": "Shikhar-code/memcoder",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:29:05Z",
+    "url": "https://github.com/Shikhar-code/memcoder"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 3,
+    "updated_at": "2026-08-11T13:26:52Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1348,
+    "updated_at": "2026-08-11T13:25:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:25:12Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 3,
+    "updated_at": "2026-08-11T13:24:10Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:22:57Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:21:46Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-08-11T13:20:21Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, gera\u00e7\u00e3o de receitas com integra\u00e7\u00e3o \u00e0 API do G",
+    "id": "gmatheusd/MagicFridgeAI",
+    "language": "Java",
+    "name": "gmatheusd/MagicFridgeAI",
+    "stars": 0,
+    "updated_at": "2026-08-11T13:18:05Z",
+    "url": "https://github.com/gmatheusd/MagicFridgeAI"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12842,
+    "updated_at": "2026-08-11T13:17:53Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:16:53Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1434,
+    "updated_at": "2026-08-11T13:16:36Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +124,42 @@
     "stars": 2,
     "updated_at": "2026-08-11T13:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:14:51Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-08-11T13:14:23Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-08-11T13:13:46Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:13:02Z",
+    "url": "https://github.com/ribagolx10/crossvector"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -32,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6207,
-    "updated_at": "2026-08-11T13:09:50Z",
+    "updated_at": "2026-08-11T13:25:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -43,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-08-11T13:08:38Z",
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8078,
+    "updated_at": "2026-08-11T13:29:02Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Object storage for the AI age",
@@ -124,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:01:24Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T13:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -230,7 +383,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-11T12:47:35Z",
+    "updated_at": "2026-08-11T13:29:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -257,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16720,
-    "updated_at": "2026-08-11T13:15:02Z",
+    "updated_at": "2026-08-11T13:29:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -274,7 +427,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33918,
+    "stars": 33919,
     "updated_at": "2026-08-11T12:37:12Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -293,160 +446,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-11T13:02:55Z",
+    "updated_at": "2026-08-11T13:17:46Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "What a vector index actually costs, month 1 to month 36. Vendor rate cards are JSON \u2014 corrections welcome, especially fr",
-    "id": "hev/vector-cost",
-    "language": "HTML",
-    "name": "hev/vector-cost",
-    "stars": 1,
-    "updated_at": "2026-08-11T12:12:44Z",
-    "url": "https://github.com/hev/vector-cost"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12842,
-    "updated_at": "2026-08-11T12:12:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, gera\u00e7\u00e3o de receitas com integra\u00e7\u00e3o \u00e0 API do G",
-    "id": "gmatheusd/MagicFridgeAI",
-    "language": "Java",
-    "name": "gmatheusd/MagicFridgeAI",
-    "stars": 0,
-    "updated_at": "2026-08-11T12:07:44Z",
-    "url": "https://github.com/gmatheusd/MagicFridgeAI"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35134,
-    "updated_at": "2026-08-11T12:05:53Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-11T12:53:40Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1348,
-    "updated_at": "2026-08-11T13:07:14Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 422,
-    "updated_at": "2026-08-11T11:34:58Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9411,
-    "updated_at": "2026-08-11T12:39:29Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-11T11:17:49Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-08-11T11:17:33Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 85,
-    "updated_at": "2026-08-11T11:14:26Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45604,
-    "updated_at": "2026-08-11T11:14:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:13:31Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "PMO Pulse is an intelligent web application designed to assist Project Management Offices (PMOs) by providing AI-driven ",
-    "id": "Sourav-Chakraborty/PMO-Palse",
-    "language": "TypeScript",
-    "name": "Sourav-Chakraborty/PMO-Palse",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:10:52Z",
-    "url": "https://github.com/Sourav-Chakraborty/PMO-Palse"
-  },
-  {
-    "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
-    "id": "ArnabKarmakar1108/VectorVault",
-    "language": "Python",
-    "name": "ArnabKarmakar1108/VectorVault",
-    "stars": 1,
-    "updated_at": "2026-08-11T10:50:15Z",
-    "url": "https://github.com/ArnabKarmakar1108/VectorVault"
-  },
-  {
-    "description": "Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch \u2014 a production RAG assist",
-    "id": "zudyog/the-ai-engineer",
-    "language": "TypeScript",
-    "name": "zudyog/the-ai-engineer",
-    "stars": 3,
-    "updated_at": "2026-08-11T10:43:05Z",
-    "url": "https://github.com/zudyog/the-ai-engineer"
-  },
-  {
-    "description": "Hands-on workshop materials on transformer architecture and LangChain RAG pipelines, delivered for astronomy researchers",
-    "id": "parinyad123/LLM-and-RAG-Workshop-SUT",
-    "language": "Jupyter Notebook",
-    "name": "parinyad123/LLM-and-RAG-Workshop-SUT",
-    "stars": 0,
-    "updated_at": "2026-08-11T10:17:21Z",
-    "url": "https://github.com/parinyad123/LLM-and-RAG-Workshop-SUT"
   }
 ]
