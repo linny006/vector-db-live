@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 10:57 UTC
+> ⏰ Last updated: 2026-08-11 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ArnabKarmakar1108/VectorVault](https://github.com/ArnabKarmakar1108/VectorVault) | 1 | Python | 2026-08-11 | From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding — b |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [zudyog/the-ai-engineer](https://github.com/zudyog/the-ai-engineer) | 3 | TypeScript | 2026-08-11 | Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch — a production RAG assist |
-| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 7 | [ZeusDB/zeusdb](https://github.com/ZeusDB/zeusdb) | 10 | Python | 2026-08-11 | High-performance database management system |
-| 8 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-11 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29950 | Python | 2026-08-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 10 | [parinyad123/LLM-and-RAG-Workshop-SUT](https://github.com/parinyad123/LLM-and-RAG-Workshop-SUT) | 0 | Jupyter Notebook | 2026-08-11 | Hands-on workshop materials on transformer architecture and LangChain RAG pipelines, delivered for astronomy researchers |
-| 11 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-11 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 12 | [MariaDB/server](https://github.com/MariaDB/server) | 8077 | C++ | 2026-08-11 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 13 | [Omkar-Wagholikar/adora](https://github.com/Omkar-Wagholikar/adora) | 5 | Python | 2026-08-11 | Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline. |
-| 14 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-11 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
-| 15 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 17 | [oracle/langchain-oracle](https://github.com/oracle/langchain-oracle) | 59 | Python | 2026-08-11 | The Oracle LangChain integration provides official LangChain support for Oracle’s Generative AI and AI Platform services |
-| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 3 | [ArnabKarmakar1108/VectorVault](https://github.com/ArnabKarmakar1108/VectorVault) | 1 | Python | 2026-08-11 | From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding — b |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [zudyog/the-ai-engineer](https://github.com/zudyog/the-ai-engineer) | 3 | TypeScript | 2026-08-11 | Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch — a production RAG assist |
+| 7 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 8 | [ZeusDB/zeusdb](https://github.com/ZeusDB/zeusdb) | 10 | Python | 2026-08-11 | High-performance database management system |
+| 9 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-11 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29950 | Python | 2026-08-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 11 | [parinyad123/LLM-and-RAG-Workshop-SUT](https://github.com/parinyad123/LLM-and-RAG-Workshop-SUT) | 0 | Jupyter Notebook | 2026-08-11 | Hands-on workshop materials on transformer architecture and LangChain RAG pipelines, delivered for astronomy researchers |
+| 12 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 9 | Rust | 2026-08-11 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 13 | [MariaDB/server](https://github.com/MariaDB/server) | 8077 | C++ | 2026-08-11 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 14 | [Omkar-Wagholikar/adora](https://github.com/Omkar-Wagholikar/adora) | 5 | Python | 2026-08-11 | Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline. |
+| 15 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-11 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
+| 16 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 18 | [oracle/langchain-oracle](https://github.com/oracle/langchain-oracle) | 59 | Python | 2026-08-11 | The Oracle LangChain integration provides official LangChain support for Oracle’s Generative AI and AI Platform services |
 | 19 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2050 | PHP | 2026-08-11 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
 | 20 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5723 | Rust | 2026-08-11 | HelixDB is an OLTP graph-vector database built in Rust on Object Storage. |
 | 21 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-11 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
